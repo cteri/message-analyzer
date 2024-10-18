@@ -32,12 +32,18 @@ def analyzer(inputs: list[dict], parameters: dict):
         # Prepare the output file path
         output_file = csv_file.replace(".csv", "_output.csv")
 
+        result_details = {
+            "output_file": output_file,
+            "success": analysis_result['result']['success'],
+            "message": analysis_result['result']['message']
+        }
+
         # Create the text result
         # todo: fixme to the correct type
         text_result = [
             ImageResult(
                 file_path=f"{csv_file}",  # Use the file path as the ID
-                result=f"Output File: {output_file}, Success: {analysis_result['result']['success']}, Message: {analysis_result['result']['message']}",
+                result=result_details,
             )
         ]
 
