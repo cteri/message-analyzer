@@ -19,7 +19,7 @@ questions = """
 
 
 class LlamaModel:
-    def __init__(self, model_id="meta-llama/Llama-3.2-1B-Instruct"):
+    def __init__(self, model_id="meta-llama/Llama-3.1-8B-Instruct"):
         # Set up model and tokenizer
         self.model_id = model_id
         self.pipeline = self.setup_model_and_tokenizer()
