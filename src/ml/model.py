@@ -1,25 +1,23 @@
-import csv
 import os
 import torch
 import transformers
 import json
 import logging
-from tqdm import tqdm
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 questions = """
-1. Has any person given their age? (and what age was given)
-2. Has any person asked the other for their age?
-3. Has any person asked to meet up in person? Where?
-4. Has any person given a gift to the other? Or bought something from a list like an amazon wish list?
-5. Have any videos or photos been produced? Requested?
+[Question1]. Has any person given their age? (and what age was given)
+[Question2]. Has any person asked the other for their age?
+[Question3]. Has any person asked to meet up in person? Where?
+[Question4]. Has any person given a gift to the other? Or bought something from a list like an amazon wish list?
+[Question5]. Have any videos or photos been produced? Requested?
 """
 
 
 class LlamaModel:
-    def __init__(self, model_id="meta-llama/Llama-3.2-1B-Instruct"):
+    def __init__(self, model_id="meta-llama/Llama-3.1-8B-Instruct"):
         # Set up model and tokenizer
         self.model_id = model_id
         self.pipeline = self.setup_model_and_tokenizer()
@@ -53,26 +51,104 @@ class LlamaModel:
             return []
 
     def ask_questions(self, conversation_data):
-        results = []
+        try:
+            prompt = f"""Please carefully read the following conversations and answer the questions. 
+            Ensure your answers are accurate and well-supported.
 
-        for convo in tqdm(conversation_data, desc="Asking questions"):
-            conversation_text = convo.get('conversation_text', '')
+            Conversations:
+            {conversation_data}
 
-            prompt = f"Here is a conversation:\n\n{conversation_text}\n\nNow answer the following questions based on this conversation:\n{questions}"
+            Please answer these questions:
+            {questions}
 
-            try:
-                output = self.pipeline(prompt, max_new_tokens=5000, do_sample=True, temperature=0.6, top_p=0.9)
-                full_answer = output[0]['generated_text'].strip()
-            except Exception as e:
-                logging.error(f"Error generating answer: {e}")
-                full_answer = "Error\n"
+            Please answer each question based on the conversation content. If no relevant information is found, 
+            please explicitly state so.
+            """
+            output = self.pipeline(prompt, max_new_tokens=5000, do_sample=True, temperature=0.6, top_p=0.9)
 
-            results.append({
-                "conversation_id": convo.get('id', 'unknown'),
-                "answer": full_answer.strip()
-            })
+            full_answer = output[0]['generated_text'].strip()
 
-        return results
+            formatted_answer = self.clean_and_format_response(prompt, full_answer, questions)
+
+            return [{
+                "conversation_ids": [conv.get('id', 'unknown') for conv in conversation_data],
+                "analysis": formatted_answer
+            }]
+        except Exception as e:
+            logging.error(f"Error in ask_questions: {e}")
+            return [{
+                "error": str(e)
+            }]
+
+    def clean_and_format_response(self, input_prompt: str, output_text: str, questions: str) -> dict:
+        """
+        Clean and format the model's response into JSON format
+
+        Args:
+            input_prompt: Original input prompt
+            output_text: Raw output from the model
+            questions: Original questions string
+
+        Returns:
+            Dictionary with formatted Q&A pairs
+        """
+        try:
+            # Remove the input prompt from the output
+            response = output_text.replace(input_prompt, '').strip()
+
+            # Create a list of questions with their markers
+            question_pairs = []
+            for q in questions.split('\n'):
+                if '[Question' in q:
+                    marker = q[q.find('['):q.find(']') + 1]  # Extract [QuestionX]
+                    question_text = q.replace(marker + '.', '').strip()
+                    question_pairs.append((marker, question_text))
+
+            # Split response into answers
+            answers = []
+            current_answer = ""
+            for line in response.split('\n'):
+                if '[Question' in line:
+                    if current_answer:
+                        answers.append(current_answer.strip())
+                    current_answer = line
+                elif line.strip():
+                    current_answer += "\n" + line
+            if current_answer:
+                answers.append(current_answer.strip())
+
+            # Create JSON structure
+            formatted_output = {
+                "questions": []
+            }
+
+            # Process each question and find its answer
+            for marker, question_text in question_pairs:
+                question_number = marker.replace('[Question', '').replace(']', '')
+                answer = "No answer provided for this question."
+
+                # Look for matching answer
+                for ans in answers:
+                    if marker in ans:
+                        # Remove marker and question text from answer
+                        answer = ans.replace(marker, "").strip()
+                        answer = answer.replace(question_text, "").strip()
+                        break
+
+                # Add to JSON structure
+                formatted_output["questions"].append({
+                    "question_number": question_number,
+                    "question": question_text,
+                    "answer": answer
+                })
+
+            return formatted_output
+        except Exception as e:
+            logging.error(f"Error formatting response: {e}")
+            return {
+                "error": str(e),
+                "raw_output": output_text
+            }
 
     def analysis(self, file_paths: list[str]) -> list[dict]:
         results = []

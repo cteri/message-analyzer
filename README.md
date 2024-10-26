@@ -20,5 +20,5 @@ python3 src/client/client.py
 
 #### 2.2 CLI
 ```
-python3 -m src.client.cmd_client --output_directory ./folder/output --input_files ./test/mock_conversation_1.csv
+python3 -m src.client.cmd_client --model_id=meta-llama/Llama-3.2-1B-Instruct --output_directory ./folder/output --input_files ./test/mock_conversation_1.csv
 ```
