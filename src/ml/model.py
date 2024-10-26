@@ -62,6 +62,7 @@ class LlamaModel:
 
             try:
                 output = self.pipeline(prompt, max_new_tokens=5000, do_sample=True, temperature=0.6, top_p=0.9)
+                print(output)
                 full_answer = output[0]['generated_text'].strip()
             except Exception as e:
                 logging.error(f"Error generating answer: {e}")
