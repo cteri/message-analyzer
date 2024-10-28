@@ -1,8 +1,14 @@
 import os
-import torch
-import transformers
 import json
 import logging
+from typing import List, Dict, Any
+from langchain_community.llms import HuggingFacePipeline
+from langchain.prompts import PromptTemplate
+from langchain.chains import LLMChain
+from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.memory import ConversationBufferMemory
+from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+import torch
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -18,139 +24,181 @@ questions = """
 
 class LlamaModel:
     def __init__(self, model_id="meta-llama/Llama-3.1-8B-Instruct"):
-        # Set up model and tokenizer
         self.model_id = model_id
-        self.pipeline = self.setup_model_and_tokenizer()
+        self.llm = self._setup_llm()
+        self.text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=64000,
+            chunk_overlap=200,
+            length_function=len
+        )
+        # Modified memory configuration to specify input key
+        self.memory = ConversationBufferMemory(
+            input_key="conversation_chunk",  # Specify which input we want to store
+            memory_key="chat_history",
+            return_messages=True
+        )
+        self._setup_chain()
 
-    def setup_model_and_tokenizer(self):
+    def _setup_llm(self) -> HuggingFacePipeline:
+        """Setup LLaMA model with LangChain."""
         try:
-            tokenizer = transformers.AutoTokenizer.from_pretrained(self.model_id)
-            tokenizer.pad_token_id = tokenizer.eos_token_id
-            model = transformers.AutoModelForCausalLM.from_pretrained(self.model_id, torch_dtype=torch.float16,
-                                                                      device_map="auto")
-            return transformers.pipeline("text-generation", model=model, tokenizer=tokenizer, device_map="auto")
+            tokenizer = AutoTokenizer.from_pretrained(self.model_id)
+            model = AutoModelForCausalLM.from_pretrained(
+                self.model_id,
+                torch_dtype=torch.float16,
+                device_map="auto"
+            )
+
+            pipe = pipeline(
+                "text-generation",
+                model=model,
+                tokenizer=tokenizer,
+                max_new_tokens=5000,
+                temperature=0.6,
+                top_p=0.9,
+                device_map="auto"
+            )
+
+            return HuggingFacePipeline(pipeline=pipe)
         except Exception as e:
             logging.error(f"Error setting up model: {e}")
-            return None
+            raise
 
-    def load_data(self, file_path):
-        ext = os.path.splitext(file_path)[1].lower()
+    def _setup_chain(self):
+        """Setup the QA chain with custom prompt."""
+        template = """
+        Please carefully analyze the following conversation chunks and answer specific questions.
+        Use the chat history and current conversation to provide accurate answers.
+
+        Previous conversation chunks: {chat_history}
+        Current conversation chunk: {conversation_chunk}
+
+        Questions to answer:
+        {questions}
+
+        Please provide specific evidence from the conversations for each answer.
+        If there's no relevant information, explicitly state so.
+
+        Your analysis:
+        """
+
+        self.prompt = PromptTemplate(
+            input_variables=["chat_history", "conversation_chunk", "questions"],
+            template=template
+        )
+
+        self.chain = LLMChain(
+            llm=self.llm,
+            prompt=self.prompt,
+            memory=self.memory,
+            verbose=True
+        )
+
+    def load_data(self, file_path: str) -> List[Dict]:
+        """Compatible with original interface - loads and processes data."""
         try:
+            ext = os.path.splitext(file_path)[1].lower()
             if ext == '.json':
                 with open(file_path, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-            elif ext == '.txt' or ext == '.csv':
+                    return json.load(f)
+            elif ext in ['.txt', '.csv']:
                 with open(file_path, 'r', encoding='utf-8') as f:
-                    data = [{"conversation_text": f.read().replace('\n', ' ')}]  # Read entire file and replace newlines
+                    return [{"conversation_text": f.read()}]
             else:
                 logging.error(f"Unsupported file format: {ext}")
                 return []
-            return data
         except Exception as e:
             logging.error(f"Error loading data: {e}")
             return []
 
-    def ask_questions(self, conversation_data):
+    def ask_questions(self, conversation_data: List[Dict]) -> List[Dict]:
+        """Compatible with original interface - processes conversations and returns analysis."""
         try:
-            prompt = f"""Please carefully read the following conversations and answer the questions. 
-            Ensure your answers are accurate and well-supported.
+            # Convert conversation data to text
+            conversation_text = "\n".join(
+                str(conv.get('conversation_text', str(conv)))
+                for conv in conversation_data
+            )
 
-            Conversations:
-            {conversation_data}
+            # Split text into chunks
+            chunks = self.text_splitter.split_text(conversation_text)
 
-            Please answer these questions:
-            {questions}
+            all_results = []
 
-            Please answer each question based on the conversation content. If no relevant information is found, 
-            please explicitly state so.
-            """
-            output = self.pipeline(prompt, max_new_tokens=5000, do_sample=True, temperature=0.6, top_p=0.9)
+            # Process each chunk while maintaining conversation history
+            for chunk in chunks:
+                # Create a properly formatted input dictionary
+                chain_input = {
+                    "conversation_chunk": chunk,
+                    "questions": questions
+                }
 
-            full_answer = output[0]['generated_text'].strip()
+                result = self.chain(chain_input)["text"]  # Use chain() instead of run()
+                all_results.append(result)
 
-            formatted_answer = self.clean_and_format_response(prompt, full_answer, questions)
+            # Format the results
+            formatted_results = self.clean_and_format_response(
+                all_results=all_results,
+                questions=questions
+            )
 
             return [{
                 "conversation_ids": [conv.get('id', 'unknown') for conv in conversation_data],
-                "analysis": formatted_answer
+                "analysis": formatted_results
             }]
+
         except Exception as e:
             logging.error(f"Error in ask_questions: {e}")
-            return [{
-                "error": str(e)
-            }]
+            return [{"error": str(e)}]
 
-    def clean_and_format_response(self, input_prompt: str, output_text: str, questions: str) -> dict:
-        """
-        Clean and format the model's response into JSON format
-
-        Args:
-            input_prompt: Original input prompt
-            output_text: Raw output from the model
-            questions: Original questions string
-
-        Returns:
-            Dictionary with formatted Q&A pairs
-        """
+    def clean_and_format_response(self, all_results: List[str], questions: str) -> Dict:
+        """Format all chunk results into a single coherent response."""
         try:
-            # Remove the input prompt from the output
-            response = output_text.replace(input_prompt, '').strip()
-
-            # Create a list of questions with their markers
+            # Extract question pairs
             question_pairs = []
             for q in questions.split('\n'):
                 if '[Question' in q:
-                    marker = q[q.find('['):q.find(']') + 1]  # Extract [QuestionX]
+                    marker = q[q.find('['):q.find(']') + 1]
                     question_text = q.replace(marker + '.', '').strip()
                     question_pairs.append((marker, question_text))
 
-            # Split response into answers
-            answers = []
-            current_answer = ""
-            for line in response.split('\n'):
-                if '[Question' in line:
-                    if current_answer:
-                        answers.append(current_answer.strip())
-                    current_answer = line
-                elif line.strip():
-                    current_answer += "\n" + line
-            if current_answer:
-                answers.append(current_answer.strip())
-
-            # Create JSON structure
+            # Combine all chunks' results
             formatted_output = {
                 "questions": []
             }
 
-            # Process each question and find its answer
             for marker, question_text in question_pairs:
                 question_number = marker.replace('[Question', '').replace(']', '')
-                answer = "No answer provided for this question."
+                relevant_answers = []
 
-                # Look for matching answer
-                for ans in answers:
-                    if marker in ans:
-                        # Remove marker and question text from answer
-                        answer = ans.replace(marker, "").strip()
-                        answer = answer.replace(question_text, "").strip()
-                        break
+                # Look for relevant answers in all chunks
+                for result in all_results:
+                    for line in result.split('\n'):
+                        if marker in line:
+                            answer = line.replace(marker, "").strip()
+                            if answer and answer not in relevant_answers:
+                                relevant_answers.append(answer)
 
-                # Add to JSON structure
+                # Combine answers or provide default
+                combined_answer = "\n".join(relevant_answers) if relevant_answers else "No relevant information found."
+
                 formatted_output["questions"].append({
                     "question_number": question_number,
                     "question": question_text,
-                    "answer": answer
+                    "answer": combined_answer
                 })
 
             return formatted_output
+
         except Exception as e:
             logging.error(f"Error formatting response: {e}")
             return {
                 "error": str(e),
-                "raw_output": output_text
+                "raw_output": str(all_results)
             }
 
-    def analysis(self, file_paths: list[str]) -> list[dict]:
+    def analysis(self, file_paths: List[str]) -> List[Dict]:
+        """Compatible with original interface - processes multiple files."""
         results = []
         for file_path in file_paths:
             data = self.load_data(file_path)
