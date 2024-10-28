@@ -176,7 +176,6 @@ class LlamaModel:
                     for line in result.split('\n'):
                         if marker in line:
                             answer = line.replace(marker, "").strip()
-                            answer = answer.replace(question_text, "").strip()
                             if answer and answer not in relevant_answers:
                                 relevant_answers.append(answer)
 
