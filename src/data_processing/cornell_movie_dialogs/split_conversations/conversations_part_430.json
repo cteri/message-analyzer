@@ -1,0 +1,2274 @@
+[
+  {
+    "conversation_id": "conv_42913",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Quite an achievement..."
+      },
+      {
+        "speaker": "IDA",
+        "text": "What's your name?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Vincent..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42914",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "I'm in town for a short time."
+      },
+      {
+        "speaker": "IDA",
+        "text": "Try?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Of course!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42915",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Hi, Ma."
+      },
+      {
+        "speaker": "IDA",
+        "text": "I've been calling and calling."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I got caught up at work."
+      },
+      {
+        "speaker": "IDA",
+        "text": "You couldn't pick up a phone?  I'm lying here, wondering if something horrible happened..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I brought you flowers."
+      },
+      {
+        "speaker": "IDA",
+        "text": "What am I gonna do with flowers?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "You're gonna cheer up."
+      },
+      {
+        "speaker": "IDA",
+        "text": "By worrying about you spending money on foolish things?  So I can watch them wilt?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "He paid for 'em."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42916",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "IDA",
+        "text": "You paid for my flowers?  They're beautiful.  Max, you gonna introduce us?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Mom, Vincent.  Vincent, my mother, Ida Rilke."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42917",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "I'm...in...the...room, here.  Don't talk about me like I'm not in the room."
+      },
+      {
+        "speaker": "IDA",
+        "text": "What's he sayin'?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm standing right here."
+      },
+      {
+        "speaker": "IDA",
+        "text": "Yesss, you are.  He's artistic."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42918",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "I came to see you, you look fine.  We gotta go."
+      },
+      {
+        "speaker": "IDA",
+        "text": "Vincent.  It was nice to meet you. Visit again?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42919",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Oh.  Oh, thank God, hey!  Hey, guys, hey, help me out here!"
+      },
+      {
+        "speaker": "KID #1",
+        "text": "Yo, whassup?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I got my, my hands taped to the steering wheel here, there's this guy, he taped me in the car, he's back there somewhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42920",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "You're kidding me."
+      },
+      {
+        "speaker": "KID #1",
+        "text": "I'll fuck you up, you don't hand it over."
+      },
+      {
+        "speaker": "MAX",
+        "text": "<u>My hands are taped to the fucking </u> <u>steering wheel!</u>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42921",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "...oh God, don't shoot me..."
+      },
+      {
+        "speaker": "KID #1",
+        "text": "...show me the wallet, man, get your ass up, <u>up</u>..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42922",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "LENNY",
+        "text": "I know you're out there!  Answer the goddamn call!"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What happens if you don't?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42923",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "He's not paying you one cent!"
+      },
+      {
+        "speaker": "LENNY",
+        "text": "Who the hell is this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42924",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Vincent <u>Farrell</u>, Assistant U.S. Attorney.  A passenger in this taxicab, and I'm reporting you to the DMV..."
+      },
+      {
+        "speaker": "LENNY",
+        "text": "Let's not get excited, sir."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "How am I supposed to not get excited, listening to you trying to extort your employee, you sarcastic prick?"
+      },
+      {
+        "speaker": "LENNY",
+        "text": "I was just tryin' to...to..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Tell it to Max.  Tell him he's an asshole."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42925",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "LENNY",
+        "text": "Max?  Maaax.  Pick up, dipshit."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Jesus, what is with this guy?"
+      },
+      {
+        "speaker": "LENNY",
+        "text": "Maaaaaax!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42926",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You hassling my driver again?"
+      },
+      {
+        "speaker": "LENNY",
+        "text": "Who is this?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Same fare you talked to last time. The U.S. Attorney..."
+      },
+      {
+        "speaker": "LENNY",
+        "text": "What are you guys, taking an all-night tour?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "We're gay lovers, what's it to you?"
+      },
+      {
+        "speaker": "LENNY",
+        "text": "Nothin'!  Aside from Max's mother driving me crazy, I'm dancin' on a rainbow!  Get him on the line, please."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Hang on.  Carefully..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42927",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "He'll keep calling."
+      },
+      {
+        "speaker": "LENNY",
+        "text": "Max!  Dammit!  <u>Answer!</u>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42928",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Uh, yeah?  Lenny?  It's me."
+      },
+      {
+        "speaker": "LENNY",
+        "text": "I just got off the phone with the cops.  They called to check you brought the cab in..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42929",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Yeah?  So?"
+      },
+      {
+        "speaker": "LENNY",
+        "text": "<u>So?</u> Aside from I hate talking to cops, they tell me you crashed the shit out of it."
+      },
+      {
+        "speaker": "MAX",
+        "text": "It got crashed!  I didn't..."
+      },
+      {
+        "speaker": "LENNY",
+        "text": "I give a shit whose fault it was, you're payin'!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42930",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "LENNY",
+        "text": "Where you been the last two hours? Your mother's been calling every ten minutes whining about how you didn't show up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42931",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAN",
+        "text": "...why is everything always about you..."
+      },
+      {
+        "speaker": "WOMAN",
+        "text": "...everything is not about me, don't make me the villain here.  That asshole was out of line, and you goddamn well know it..."
+      },
+      {
+        "speaker": "MAN",
+        "text": "...I'm sorry, I don't see it that way..."
+      },
+      {
+        "speaker": "WOMAN",
+        "text": "...oh, bullshit!  He was intruding on my space, he was demeaning me personally, he was patronizing..."
+      },
+      {
+        "speaker": "MAN",
+        "text": "...what do you want me to do, punch him out?  I have to work with him..."
+      },
+      {
+        "speaker": "WOMAN",
+        "text": "...well, last I checked, you were <u>sleeping</u> with me, so unless you wanna start fucking the guy soon, I'd suggest an attitude shift..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42932",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Oh.  Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42933",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Uh, let's go to...  Hello...?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah, yeah, sorry..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42934",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "How long you think this'll take?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Twenty-four minutes."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Twenty-four?  Not twenty-five?  Or twenty-three?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Two minutes to get on Broadway. They're doing some roadwork around the bridge.  Eleven to get downtown.  Four to the Lower East Side.  Six to clear the roadwork.  One minute margin for error.  My math says twenty-four."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42935",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Mind if I time you?  What do I get if you're wrong?  A free ride?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "An apology."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42936",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "First time in New York?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Third, but I still can't tell uptown from downtown.  Tell the truth, whenever I'm here, I can't wait to leave.  Place gets to me.  Too loud, too fast...too much.  You like it here?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "It's home."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You share it with over three million people every day.  You know that's the population of New Zealand?  What's Manhattan, thirteen miles long? That's a lot of misery crammed into thirteen miles.  Read about this one guy.  Gets on the subway and dies.  Six hours he's riding around before anybody notices. Think about that.  Here's this corpse doing laps around Manhattan courtesy of the New York transit system, people getting on and off, sitting next to him, and still nobody catches on. Three million.  That's too damn many people."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I see your point."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42937",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You know, this is the cleanest cab I've ever been in.  This your regular ride?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah.  I share it with the dayshift guy."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You prefer nights?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "People are more relaxed.  Less stress, less traffic, better tips."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You on some kind of work plan?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "You mean like benefits?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Yeah.  Retirement?  Paid sick leave?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "It's not that kind of job."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You should start a union."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Me, specifically?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Last thing I need is a reason to keep hacking.  This job's a fill-in."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Oh?  How long you been doing this?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Twelve years.  But I'm working on other stuff..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I don't talk about it, you know...  No offense."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "None taken.  There are talkers and doers.  I like doers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42938",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Twenty-four minutes!  Man, you're hot..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah.  Lucky with the lights."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Bullshit.  You probably know the light schedules, too.  Listen, I'm in town tonight on a closing.  Five stops, one night.  I gotta catch a six a.m. flight.  I got five stops to make, see some friends, collect some signatures.  Why don't you hang with me?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm not a hire car.  It's against regs?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Regulations?  These guys don't even give you sick leave.  How much you pull down on a good night?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Two, two-fifty."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I'll make it an even five hundred. Plus an extra hundred if you get me to LAX on time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42939",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "We have a deal.  What's your name?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Max."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Max?  I'm Vincent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42940",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "He fell on my cab!  From up th-th-there."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You always stutter?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah, yeah.  Shit, man.  Guy fell on my motherfucking cab."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42941",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "I think he's dead."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "No shit.  Since he has two .45s double- tapped through the sternum and fell six floors onto his head..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42942",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "You - you killed him?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "No-no, I-I shot him.  The bullets and the fall killed him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42943",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You cool, Max?  Say \"I'm cool.\""
+      },
+      {
+        "speaker": "MAX",
+        "text": "You're cool."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "No.  You say you're cool."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm cool."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42944",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Good.  Help me out here."
+      },
+      {
+        "speaker": "MAX",
+        "text": "With what?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You were going to drive me around. Drop me at LAX.  Never be the wiser. But El Gordo missed the elevator.  So we go to Plan B.  Pop the trunk."
+      },
+      {
+        "speaker": "MAX",
+        "text": "The trunk?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Did I stutter?  The trunk.  Unless you want him riding up front with you...but given hygiene and his sphincters have let go..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42945",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "I'm gonna roll him off the hood. Always lift with your legs..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I don't think I can do this."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "It's just a dead guy.  On three, ready?  Uno.  Dos.  Three."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42946",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Got it?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42947",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "What?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "His hand moved!  His goddamn hand twitched!"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "It's a spasm!  Jesus, Max, don't be such a girl..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42948",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Uh, look...why don't you just take the car..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "...and you promise you'll never tell anybody about this, right?  Get in the fucking car."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42949",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Max.  May we leave the scene of the crime now, please."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm trying..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42950",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Max."
+      },
+      {
+        "speaker": "MAX",
+        "text": "It's not me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42951",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You listening to me?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yes!  I'm trying, I swear!"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Try harder.  I'm gonna count to three. One..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Two..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "It's not me, it's the engine!  A fat guy fell on it from six floors up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42952",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "What about that?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I tried it."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "How about the thingy next to it?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "The thingy next to it has nothing to do with the starter motor..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I'm making <u>you</u> nervous.  I'm the one with a schedule."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Okay, try it now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42953",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Try some deep breathing."
+      },
+      {
+        "speaker": "MAX",
+        "text": "What?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Adrenaline's wearing off.  You get shaky after.  It's not uncommon.  Deep breathing helps."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42954",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You better?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42955",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "It's a mess."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "So?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42956",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "58th and Central.  You know it?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "South Central."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "How long, you figure?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42957",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Oh.  Oh, no.  You're kidding.  We..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I told you we had other stops to make tonight."
+      },
+      {
+        "speaker": "MAX",
+        "text": "You said you were visiting friends!"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "They're <u>somebody's</u> friends...  You drive a cab.  I kill people.  We both do our jobs right, you might survive the night and come out four hundred bucks ahead."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Listen.  I'm not trying to piss you off, see?  Okay?  I can't drive you around so you can murder folks."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Tonight it is."
+      },
+      {
+        "speaker": "MAX",
+        "text": "You don't understand.  I mean it. Really.  I'm not up for this..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42958",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Are you breathing?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yes."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What else calms you down?  Candy? Cigarettes?  Sex?  Breathe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42959",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Music."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Play music."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42960",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Chopin prelude.  Stodgy, but nice.  Here's the deal.  I didn't want you involved in this.  Still breathing? But now that you are, we have to make the best of it, Max.  Improvise.  Life is that way.  Adapt to your environment.  Survive.  Darwin.  \"Shit happens.\"  The I Ching.  Whatever. Roll with it."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I Ching?  You threw a man out a window!"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I didn't throw him, he fell."
+      },
+      {
+        "speaker": "MAX",
+        "text": "What'd he do to you?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Nothing.  I only met him the one time."
+      },
+      {
+        "speaker": "MAX",
+        "text": "How can you kill him like that?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I should only kill people after I get to know 'em?  Six billion people on the planet, you're getting bent out of shape 'cause of one fat guy?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Who was he?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What do you care?  Ever hear of Rwanda?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Rwanda-Burundi.  Central Africa."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Tens of thousands killed before sundown.  Nobody's killed that fast since Hiroshima and Nagasaki.  Did you bat an eye, Max?  Join Amnesty International?  No.  I off one Angeleno, you throw a hissy fit..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42961",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "I don't know any Rwandans."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You don't know the guy in the trunk, either.  If it makes you feel better, he was a villain involved in a Continuing Criminal Enterprise."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Oh, it's okay, then.  'Cause you're just taking out the garbage..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Yeah, like that...  But, anyway, nobody gets out of this alive.  Even if we quit smoking and cut out red meat.  Everybody dies."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42962",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Get rid of 'em."
+      },
+      {
+        "speaker": "MAX",
+        "text": "How?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You're a cabby.  Like talk yourself out of a ticket?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42963",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Please.  Don't do anything."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Then don't let me get cornered, Max. You don't have the trunk space."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I can't believe this."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Believe it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42964",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "I'll talk to them, I'll talk to them."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Good luck.  You think they got families?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42965",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "That one's probably married.  Think of his kids.  His wife's pregnant..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'll deal with it.  I will, I will..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42966",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Hands on the wheel.  Ten and two o'clock, like they taught you in driver's ed."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Why?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Because I have a gun and I say so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42967",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Who's that?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Lenny, my dispatcher."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42968",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "It was an accident.  You're not liable.  Tell him."
+      },
+      {
+        "speaker": "MAX",
+        "text": "It was an accident.  I'm not liable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42969",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Don't take that.  Tell him to shut the fuck up."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I can't do that.  He's the Man.  He'll fire my ass."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "So what?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I need the job."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "No you don't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42970",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Lenny?  You're an asshole."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Tell him next time he pulls any shit, you're gonna kick his fat ass."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Next time you pull any shit, I'm gonna kick your fat ass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42971",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "I had no idea these cabs came equipped with emergency strobes.  Where's the button?  Under the dash?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42972",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Another collateral."
+      },
+      {
+        "speaker": "MAX",
+        "text": "What?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Collateral damage."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I don't understand..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "People in the wrong place at the wrong time.  Draws attention, which is something you avoid in my line of work.  And for <u>you?</u> You attract attention, you're gonna get people killed who don't need to be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42973",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Vincent?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Yes, Max?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Am I collateral?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42974",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "But, hey, some good news.  This last one put me way ahead of schedule. We've actually got some time to kill.  Jazz?  You like jazz?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm...what?  Sorry?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Jazz.  Music."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I listen to classical."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Friend of mine told me about this great place in South Central.  Says it's like the birthplace of West Coast bebop.  Bird.  Dexter Gordon. Thelonious Monk.  Chet Baker.  I'll buy you a drink.  Expand your horizons..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42975",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "...see now, this has got a little post- war flavor, a little Miles thing happening.  Awesome.  What do you think?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I never learned jazz."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "God, are you always this prosaic?  You don't learn jazz, it's not something you're <u>taught.</u> It's like breathing, like life.  Like us, tonight, taking what comes and going with the flow."
+      },
+      {
+        "speaker": "MAX",
+        "text": "That what we're doing?  Flowing?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Damn right.  Instinct, man.  If you think too much, it doesn't work.  Just listen..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm not catching a melody."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "That's the point.  You play <u>between</u> the notes, you dance <u>around</u> the structure, you improvise.  Some people know where they're going to be ten years from now.  Same job, same neighbors, same shit over and over.  That's not living.  That's dying a little every day.  Not me, pal.  It's not knowing what's around the corner that makes like worth living.  That's jazz.  That guy up there, he knows what I'm talking about.  Hell, it's the same thing <u>he's</u> talking about, if you just open your ears.  You can hear it in the conversation he's having with that trumpet..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42976",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Let him go, Vincent."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You mind?  I'm working here."
+      },
+      {
+        "speaker": "MAX",
+        "text": "You're the one who keeps talking about going with the flow.  You like the man, you like the way he plays.  How about a little jazz, huh?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Jazz?  That's funny, coming from you.  Okay, some jazz for the jazz man. How's this?  I'll ask a question."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42977",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Let's go."
+      },
+      {
+        "speaker": "MAX",
+        "text": "No."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What you mean, no?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm done.  Find another cab."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42978",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Max?  What are you doing?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Leave me alone."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Don't even think you're walking away from me."
+      },
+      {
+        "speaker": "MAX",
+        "text": "<u>I don't wanna know you!</u>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42979",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Pull your head out of your ass.  Get your thinking straight.  You wanna die?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm collateral anyway, so just fucking do it and stop making me a part of this!"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Teach him how to talk back, suddenly he can't stop.  I'm not playing."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Sure?  Like you didn't play him? String him along?  If he had gotten the answer right, would you have let him go?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42980",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Show up for what?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Tell her I can't see her tonight, okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42981",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Show up for <u>what?</u>"
+      },
+      {
+        "speaker": "MAX",
+        "text": "She's in the hospital."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You go every night?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "What difference does it make?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Guy with a routine goes and breaks it? Provokes attention.  That's bad.  And that's not good..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "There's no way I'm taking you to see my mother!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42982",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Mom, Vincent's not interested."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Oh, I'm captivated."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42983",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You take one more step, I'll kill her."
+      },
+      {
+        "speaker": "MAX",
+        "text": "You'd do her a favor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42984",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "What the fuck was <u>that?</u>"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Jazz."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42985",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Limos, huh?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Don't start."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Hey, I'm not the one who's been lying to my mother."
+      },
+      {
+        "speaker": "MAX",
+        "text": "She hears what she wants to hear, okay?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Maybe so.  Maybe she hears what you tell her."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Fuck!  Nothing's ever goddamn good enough!  It's always been that way."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "It's cause they don't like their lives, so they project their patterns of negative behavior onto you...  I had a father like that."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah?  What happened?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "He hated everything I did.  Hated me. Got drunk and beat the shit out of me, daily..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I killed him.  When I was 15.  He was my first.  Nah, wishful thinking.  Liver cancer."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Don't be.  I never saw him after I was 15.  Went into the military early.  So all this talk about \"my job's temporary, I got big plans,\" it's all bullshit."
+      },
+      {
+        "speaker": "MAX",
+        "text": "It's not bullshit."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What do <u>you</u> call it?  Ten years doesn't sound temporary to me.  I should have known it was bullshit, you're too good at what you do."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I've always been good.  Ever since I started.  Gave up piano.  Easy money. I'm putting a stake together, get something started.  Go figure it all out..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Yeah?  Like what?  Limos?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I told you I don't like to talk about it."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Well, this big stake's got to be big by now.  When you leaving?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "See, I've got bills.  My mother's been dying of the same disease since I was a kid."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What, no insurance?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Doesn't cover everything."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Good excuse.  How many others you got?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42986",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Gimme your wallet."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42987",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "I'll just hold onto it for you.  In case they check."
+      },
+      {
+        "speaker": "MAX",
+        "text": "In case <u>who</u> checks?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42988",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Our friends in Little Russia.  Go in and ask for a man named Dmitri."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Dmitri?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "The man who hired me for this contract."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I don't get it."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You're gonna be me.  You're gonna go in, and you're gonna get the info on the remaining two hits."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Why me?  Why don't <u>you</u> do it?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "No client has ever seen my face, and I intend to keep it that way.  Besides, if he decides to put a bullet in my head, I don't wanna be there for it."
+      },
+      {
+        "speaker": "MAX",
+        "text": "He's gonna <u>shoot</u> me?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "When he finds out you tossed his list? I would."
+      },
+      {
+        "speaker": "MAX",
+        "text": "No.  No way.  I can't do this."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Max.  You threw my briefcase in the river.  You've got balls bigger than Toledo."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I...I wasn't thinking.  I just did it."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "That's jazz, my friend.  You said it yourself.  So don't tell me you don't know how to play between the notes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42989",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Vincent.  Don't make me do this. Don't make me get people killed."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "We've both run out of options.  If it helps, take comfort in knowing you never had a choice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42990",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "How long have you been a hit man?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Why?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "In case he asks."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Fifteen years, although I prefer the term \"assassin.\""
+      },
+      {
+        "speaker": "MAX",
+        "text": "You get benefits?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "No."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Paid sick leave?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You tell me to start a union, I'm blowing your head off.  Quit stalling and get out of the cab."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42991",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Damn, Max.  I'm impressed.  Really.  I would have bet good money you wouldn't walk out of there."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Makes two of us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42992",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Washington and Holt.  Dance club called \"Fever.\" Know it?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Tribeca, near the waterfront, northeast corner.  Twelve minutes."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You do impress me, Max.  That you do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42993",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Would you have called her?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Who?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Your lady friend.  The one who gave you her business card.  Think she was just being polite?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What holds you back, Max?  Tell me. Why does life scare you so much?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I only owe you a ride, Vincent."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "It's not what you owe <u>me.</u> Time is so fleeting.  One day it's gone.  You make it out of this alive, Max, you really should call her.  That's what I think."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42994",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Good.  Blood, urine and death get to you? Try deep breathing.  Or remember we all die anyway..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "You had to kill Heller?!"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Who's Heller?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "That cop!  Why'd you have to do that?  You couldn't wound him?  The guy had a family, maybe, parents, kids who gotta grow up without a dad, he was probably a good guy; and he believed me..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I shoulda saved him 'cause he <u>believed</u> you?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "No, not just that."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Yeah, that."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah, so, what's wrong with that?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "It's what I do for a living."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Some living."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Head towards Union Station."
+      },
+      {
+        "speaker": "MAX",
+        "text": "What's at Union Station?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "How are you at math?  I was hired for five hits.  I did four."
+      },
+      {
+        "speaker": "MAX",
+        "text": "One more."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "There you go...!"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Whyn't you kill me and find another cab."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You're too good.  We're in this together.  Fates intertwined.  Cosmic coincidence and all that crap..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "You're full of shit."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "<u>I'm</u> full of shit?  You're a monument of bullshit.  You even bullshitted yourself all I am, is taking out the garbage.  Bad guys killing bad guys..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "That's what you said..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "And you believe me...?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "What'd they do?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "How do I know?  But, they all got that \"witnesses for the prosecution\" look to me.  Probably some major federal indictment against somebody who majorly does not want to get indicted...  I dunno."
+      },
+      {
+        "speaker": "MAX",
+        "text": "That's the reason?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "That's the \"why.\"  That's the why? There is no reason.  No good reason; no bad reason.  To live or to die."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Then what are you?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "...indifferent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42995",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Get with it.  Get over it. ...millions of galaxies of hundreds of millions of stars and a speck on one in a blink...that's us.  Lost in space.  The universe doesn't care.  The cop, you, me?  Who notices?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "What happened to you?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "As in...?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Man, if someone had a gun to your head and said:  \"You gotta tell me what's goin' on with that person over there or I'll kill you\"...they'd have to kill you...  'Cause you don't have a clue for...or about...anyone...  To be like that, I don't think you, you have any of that for your own life...  Do you believe you're entitled or at least expect to draw breath in the a.m.?  Open your eyes in the morning?  I don't think you do...I don't think so...  I think you are way <u>low</u>...like in your estimation.  In your estimation of yourself.  So how'd you get that way...?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "...all the cabbies in LA, I pull Max, the man with X-ray vision..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Answer the question."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Look in the mirror.  ...piss-ant paper towels...a bottle of 409...saving up for goin' to the Comoros.  How much you got saved?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "None of your business."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "...pie in the sky?  \"Someday my dream'll come...\"  But one night you'll wake up and realize suddenly you're old.  It hasn't happened.  It never will.  Life just flipped on you.  Tomorrow became yesterday.  Then you'll bullshit yourself it was never gonna happen, anyway, and push it back in memory...and anesthetize yourself in a Barcalounger with daytime TV for the rest of your life...  Don't talk to me about murder.  You're <u>do-in</u>' yourself...in this yellow prison with steel-belted radials. Clocking in and out everyday..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42996",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "'Cause I never got it straightened up; made the push, made the moves..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Slow down."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I should have done that.  Fixed it and more.  Get out from under what I been under..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42997",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You're going too fast."
+      },
+      {
+        "speaker": "MAX",
+        "text": "But you know what?  Nothing matters, anyway.  We are insignificant out here in the big nowhere, say the badass sociopath in my backseat.  Right? Yeah.  That's one thing I've got to thank you for, bro.  And I never saw it that way..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42998",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Slow the hell down!"
+      },
+      {
+        "speaker": "MAX",
+        "text": "What are you gonna do, pull the trigger?  Kill us?  Go ahead, man! <u>Shoot</u>...my ass."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Slow down!"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Vincent?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42999",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Well.  That was brilliant."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Was your seatbelt fastened, honey?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43000",
+    "movie_id": "m302",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Max?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Let her go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43001",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LIZA",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "COP",
+        "text": "Guy came in with a gunshot wound, but he died of a heart attack.  Go figure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43002",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "COP",
+        "text": "They said send you downstairs."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Who?"
+      },
+      {
+        "speaker": "COP",
+        "text": "The F.B.I., the C.I.A.  You name the initials and they're down there."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Any special reason?"
+      },
+      {
+        "speaker": "COP",
+        "text": "All I know is, they said to send you and the body to the basement."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43003",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "JERRY",
+        "text": "The sound of love."
+      },
+      {
+        "speaker": "CYNIC",
+        "text": "Excuse me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43004",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "JERRY",
+        "text": "That's love."
+      },
+      {
+        "speaker": "CYNIC",
+        "text": "Love?  Love's just a pretty way of saying, 'I want to sleep with you'.  Love is bullshit."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "I live on tips, so don't be offended, but you're a liar.  I saw you kiss.  Admit it, this is the street where love lives."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43005",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "JERRY",
+        "text": "Love gives you wings.  It makes you fly.  I don't even call it love.  I call it Geronimo."
+      },
+      {
+        "speaker": "CYNIC",
+        "text": "Geronimo?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Geronimo.  When you're really in love, you'll jump.  Off the top of the Empire State.  Screaming 'Geronimo' the whole way down."
+      },
+      {
+        "speaker": "CYNIC",
+        "text": "But you'll die.  You'll squash yourself.  What's the point?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Aren't you listening, man?  Love gives you wings."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43006",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "CYNIC",
+        "text": "She must be some girl."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "I love her so bad.  She just... wrecks me.  I would die for her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43007",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "JERRY",
+        "text": "I never told her."
+      },
+      {
+        "speaker": "CYNIC",
+        "text": "Why the hell not?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "I, uh, I have some problems."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43008",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "CYNIC",
+        "text": "Are you crazy?!"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "The guy came right at us!"
+      },
+      {
+        "speaker": "CYNIC",
+        "text": "You turned up a one way street!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43009",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "JERRY",
+        "text": "I was only going one way."
+      },
+      {
+        "speaker": "CYNIC",
+        "text": "Drop me off here!"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Look, I'm sorry --"
+      },
+      {
+        "speaker": "CYNIC",
+        "text": "Just drop me off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43010",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "FLIP",
+        "text": "What're you thinking, Jerry?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Water mains usually go in the winter.  It's August 1st."
+      },
+      {
+        "speaker": "FLIP",
+        "text": "Tell you what.  Reminds me of life in the Delta."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Mississippi?"
+      },
+      {
+        "speaker": "FLIP",
+        "text": "Mekong, my friend, Mekong."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "You know, Flip, Vietnam War was fought because of a bet Howard Hughes lost to Aristotle Onasis."
+      },
+      {
+        "speaker": "FLIP",
+        "text": "Sure.  And the two of 'em used my legs for a wishbone.  Nearly snapped me in half."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "I gotta go, Flip.  Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43011",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "FLIP",
+        "text": "<u>Jerry</u>?  You didn't show last night.  First time ever.  Had me worried, boy."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Sorry, Flip.  Got sidetracked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43012",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "FLIP",
+        "text": "Saved you last night's, too."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Flip was a hero in Vietnam."
+      },
+      {
+        "speaker": "FLIP",
+        "text": "Sure was.  Pounded the V.C. for this Greek cat named Ari Onasis."
+      }
+    ]
+  }
+]

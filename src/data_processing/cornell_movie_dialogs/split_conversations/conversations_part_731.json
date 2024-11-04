@@ -1,0 +1,2258 @@
+[
+  {
+    "conversation_id": "conv_73013",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "I suppose they are, sir."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "You're damned right they are."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "How much soda, sir."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Just a squirt."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73014",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "That about right?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Perfect.  Thank you, Major.  And now let's drink a toast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73015",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "What shall we drink to, sir?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "To peace on earth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73016",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "General Ripper, can I ask another question?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Ask away, Major."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Well, General -- I was wondering, why are you doing this?  I mean why do you want to start the war?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "I've given it alot of thought, Major.  Don't think I haven't."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "No, sir.  I mean I didn't think you hadn't given it a lot of thought."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Do you remember what Clemenceau once said about war?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "I don't think so, sir."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "He said war was too important a matter to be left to Generals."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "I see."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "When he said it, fifty years ago, he might have been right.  But today, war is too important to be left to the politicians. Do you follow me, Major?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "I'm trying to, sir."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "You see, Major, at this very moment, while we sit and chat, a decision is being made by the President in the War Room.  He knows that the enemy will pick up our planes on their radar in about twenty minutes."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "But when they do, sir, won't they hit back with everything they've got?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "If we haven't taken any further action, they certainly will.  Doyyourhappen to remember the statistics on our casualties in the event of a full-scale enemy attack?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Well, I think I remember reading the report on that.  Wasn't it something like a hundred and sixty million?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "That's close enough, Major."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "But then why do you want to kill a hundred and sixty million of our people, sir?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "You're being dense, Major.  I certainly don't"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73017",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "I suppose we might catch them off their guard."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Our missiles would impact before my planes were even discovered by the enemy, wouldn't they?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "I guess so."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "I know so, Major.  I know so.  And add to that, the whole Air Command force being committed to clobber everything they've got."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "But even then, we wouldn't get everything.  I mean some missiles would abort, or they'd miss their targets, or maybe the enemy have some secret bases we don't know about."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "You're absolutely right.  You forgot to mention their nuclear subs.  But it wouldn't matter. Sure we wouldn't get off without getting our hair mussed, but we'd prevail.  I don't think we'd lose more than fifty million people, tops."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "But if you just let things alone, we wouldn't lose anyone."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Major Mandrake, I guess you don't follow what's going on too closely, do you?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Where, sir?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Where?  Everywhere, Major.  Everywhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73018",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Well, I know they've been going on for years, and they haven't gotten any place."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Not yet, Major.  Not yet."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "And I guess they won't until they agree to let us inspect inside their country."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "You're very naive, Major.  Don't they say they want disarmament?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Yes, sir.  But so do we."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "But we mean it because we are a peace- loving country.  Are they a peace-loving country, Major."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "I don't know, sir.  But they're just as anxious to avoid a nuclear war as we are. War just doesn't make sense any more, for anybody."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "But war doesn't make sense precisely because the weapons can kill an entire country -- right?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Right."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Then don't you realize the Bomb gives us Peace not War?  And, if that's the case, I ask you again: Why do they want disarmament?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Well, sir, like I said, for the same reasons we do.  I mean, all the experts say the most likely way for War to start nowadays is by an accident, or a mistake, or by some mentally unbalanced person --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73019",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Go on, Major."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "I was just going to say, as long as the weapons exist, sooner or later something's going to happen -- and that'll be it for both countries."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "I've heard the arguments.  Like Napoleon's quote, \"There's one thing you can't do with a bayonet, and that's - sit on it.\""
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "That's right, sir.  And don't forget in a few years a lot of other countries will have the bomb.  What if they start something?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Go on, Major.  You fascinate me."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Well, sir, I remember an example that pointed out that if a system was safe on 99.99% of the days of the year, given average luck it would fail in thirty years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73020",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "I still ask, why do they want disarmament?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Well, for the same reasons we do, sir. Don't you see?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "No, Major, I don't.  They have no regard for human life.  They wouldn't care if they lost their whole country as long as they won."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Gee, sir, that last remark doesn't exactly make all the sense in the world."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Major, you're talking like one of them!"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Well, I'm not, sir.  Honestly, sir."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Don't be offended, Major.  Our President holds the same views."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Don't you think he knows something about this, General Ripper?"
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "I'll tell you what I do think.  If they say they're for disarmament, I say anyone who says they're for disarmament is either a traitor or a damned fool."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "But, General, we're on our toes.  We haven't agreed to anything for years.  Inffact, a a lot of people say we never will."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "But if they suddenly opened up and gave us the inspection we want, we'd agree, wouldn't we?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "If they gave us what we think we need, yes, I guess we would."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "And you'd like to see that?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "General, what's good enough for the President and all the experts he's got working on the thing, is good enough for me."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Do you think we'd cheat?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "No, sir.  I'm sure we wouldn't."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Do you think they would cheat?"
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Look, sir.  I'm no expert on the subject, but I've read some pretty sharp ideas the big boys have.  Like, say, both countries agreeing to a million dollar reward and international protection for anyone who gives evidence of cheating to the inspectors. You can't hide those things without a lot of people knowing about it.  And if I were going to try and hide a few, I wouldn't want to depend on the fact that some poor slob isn't going to run and blab for a million bucks.  We're as smart as they are, and if they cheat, or even hold back information, we'd pull right out."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Major, I hate to say this, but I think you've been enemy indoctrinated, and you don't even know it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73021",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Major, those are my boys out there dying."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Yes, sir.  Why don't you stop the fighting, sir?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73022",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "To peace on earth, Major."
+      },
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "Peace on earth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73023",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR MANDRAKE",
+        "text": "General, now that you've done that, I beg you to recall the Wing."
+      },
+      {
+        "speaker": "GENERAL RIPPER",
+        "text": "Major, I happen to believe in a life after this one, so I believe I will have to answer for what I have done.  I think I can."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73024",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "It was a honest mistake, sir."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "I presume the planes are armed?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "I'm afraid so, Mister Presient. Being part of the air-borne alert, each plane is carrying a full load - about fifty megatons apiece."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Well, what about the Positive Control, the safety catch?  Don't the planes automatically come back unless they get a second order?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "That's right, sir.  But the planes were at their Positive Control points, ready to turn around when General Ripper issued the final Go-code."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "And I suppose there's some reason why you haven't recalled them?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Yes, sir.  The base commander, General Ripper, selected Plan-R?"
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "What the hell is Plan-R?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Well, sir, Plan-R is an emergency plan to be used by lower echelon commanders if higher echelons have been knocked out by a sneak attack."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Why can't you cancel it?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Once the orders have been given, Plan-R requires any new orders to be received on the CRM-114 in the aircraft.  But the CRM-114 will not receive any transmissions unless they are preceded by the proper three-letter code group."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "And I suppose you're going to tell me you don't know what the three-letter code is."
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Mister President, to guard against espionage, the three letter of the code group for Plan-R are always selected by the lower echelon commander himself, just before each mission.  They are sealed in the various attack plans and are known only to the lower echelon commander and his deputy.  In this case the deputy is air-borne with the Wing, and General Ripper refuses to recall the planes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73025",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "How soon until the enemy finds out what's going on?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "We estimate the planes should be entering their coastal radar cover in about twenty-five min- utes."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "How could you let this happen, General Schmuck?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Mister President, I know you think I've let you down, but we had to have a Plan-R.  If we completely centralized the command and control, all a potential aggressor would have to worry about was knock- ing out maybe half a dozen headquarters and the Capitol, and we'd be out of business. We'd have planes and missiles just sitting there while we were getting clobbered."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Then there's no chance for recall?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "I should say practically none, though we have our communications center plowing through every possible three-letter combination. The trouble is that there are about seventeen thousand permutations, and it will take us approximately four and a half days to go through them all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73026",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "General Jack D. Ripper, sir."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "I want to talk to General Ripper."
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "But we can't communicate with the base."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73027",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "I don't think that's a fair analogy, sir."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Admiral Buldike?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73028",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "But he'll hear everything we're saying.  And if he just looks out of that window, he'll see everything we're doing."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "That's the idea, General Schmuck.  Zlat!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73029",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "We don't operate like you KGB boys."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Knock it off will you, General?  Crudley, find out what's holding up that call!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73030",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Have you received acknowledgements from every plane?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "They're coming in now."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "How long will it take to receive them all?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "I'm not certain, Mister President.  The boys in CONCOM do the pencil work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73031",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "I believe it will be just a few minutes, at the most."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "How many planes did we lose?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "I'm not certain, Mister President.  But I believe it was four."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "General Faceman, what was the name of the officer who called me from Burpelson?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73032",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "General Schmuck, are you positive of your figures?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Naturally I am, sir."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "He says they've only shot down three planes."
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Well, if you choose to take his word over mine ---"
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Look, he's there, and you're here."
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Mister President, there were thirty-four aircraft involved.  Thirty acknowledged the recall.  That makes four shot down."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Hello, are you still there?...Uh-huh...I'll be right back.  We're still working this thing out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73033",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "How do you know they were shot down, Buck?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Well, just common sense, sir.  Thirty from thirty-four equals four, or my name's not \"Buck\" Schmuck!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73034",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Well, sir, it looks like one aircraft, the \"Leper Colony\", failed to receive the recall."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Have you tried the recall again?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Yes, sir.  We're still sending it.  But it's a funny thing we don't seem to be able to make any contact with the aircraft at all."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "What's the target."
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Well, the Premier doped it out pretty well. Its primary is their missile base at Laputa."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73035",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "Is there any chance a single aircraft can penetrate the entire enemy Air Defense, when its course and target are known?"
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "If I can speak freely, sir -- look, these guys talk big, but frankly, we think they're short of know-how.  You can't just take a bunch of ignorant peasants and expect them to understand a machine like one of our boys, and I don't mean that as an insult, Mister Ambassador.  Hell, we all know what kind of guts your people have.  Why just look how many millions of 'em those Nazis  killed and, hell, they still wouldn't quit."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "General, stick to the point, please."
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Well, sir, if the A/C's a really good man, I mean really sharp, why he can barrel that plane along so low - well you just have to see it some time.  A real big plane, like a Sting Ray, zig-zagging in, its jet exhaust frying chickens in the barnyard ---  Has he a chance?.....Hell, yes!  He has one hell of a chance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73036",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "You've lied to me twice - I'm sorry, but it will be strictly routine.  These men are experts."
+      },
+      {
+        "speaker": "GENERAL SCHMUCK",
+        "text": "Zlat, make sure the secret service boys care- fully search his seven body orifices."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73037",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. BALLMUFF",
+        "text": "Yeah, to see if we're on our toes."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "No, they wouldn't send us in with bombs on an exercise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73038",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Give me a first rough course as soon as you can, Lieutenant Ballmuff."
+      },
+      {
+        "speaker": "LT. BALLMUFF",
+        "text": "Roughly, one-zero-five. I'll have it plotted in a minute, Major Kong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73039",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. BALLMUFF",
+        "text": "I've got the heading, Major.  One-three-eight."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Roger. One-three-eight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73040",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. BALLMUFF",
+        "text": "Roger, maintain."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Lothar, take your checks now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73041",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. BALLMUFF",
+        "text": "We should be crossing the coast in about six minutes."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Thanks, Binky.  Can you see Bromdingna Island yet?"
+      },
+      {
+        "speaker": "LT. BALLMUFF",
+        "text": "I don't think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73042",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "All right...we're still flying.  I'm taking her down to the deck."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Give me revs for maximum speed at sea level."
+      },
+      {
+        "speaker": "LT. BALLMUFF",
+        "text": "You know what that'll do to our fuel consumption."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Can't help it.  What's the wind like?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73043",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "What else could it be?"
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Maybe it's an exercise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73044",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "He's right.  We wouldn't have started it."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "They must have clobbered some of our cities already!"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "He's right.  They must have clobbered some of our cities already."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "The dirty, stinking, rotten, sons of B's!! They might have clobbered Marge and the"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73045",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Maximum ECM."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Fifteen!  Twelve o' clock."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73046",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Then this is it."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "What?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "War."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "War?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73047",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "I'm sorry, Major Kong.  I guess I was way out of line."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Forget it, Quentin.  It can happen to the best of us.  Now let's get squared away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73048",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "A through H is correct."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Main interference linked to electronic detector.  Fight interference on readi- ness state."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Check."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Missile and plane flight path computer showing four greens."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73049",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Check."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Zombies set to knock out local air defense four hundred miles from primary."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73050",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Missiles!  Sixty miles off, heading in fast.  Steady track, they look like beam riders."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Roger, keep calling them.  Knock off auto-pilot, Ace."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73051",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Just the missiles."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "They must have been fired from Bromdingna - probably one of their new Vampire - 202's. They've got a range well over a hundred miles."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Forty-five.  Still coming straight and fast. Twelve o' clock."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Speed?"
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Between Mach 3 and 4."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Call them every five miles."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Thirty-five, still straight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73052",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Twenty!  Twelve o' clock."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Maximum ECM!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73053",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Shouldn't be bad.  Might even help.  But my guess is we're going to have to paddle our way back."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "We'll worry about that later.  Okay, I'll take damage reports."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73054",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Yeah, I got it in the thigh."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Lieutenant Toejam, why don't you help him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73055",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Why can't he help me now?  He's sitting two feet away from me!"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Come on, Quentin, isn't that pretty selfish, putting yourself ahead of the mission?"
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Look, I'm shot - it hurts."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Lieutenant Quiffer, we're all sorry you were hit, and we'll help you stick it together as soon as we get squared away."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Look, can't someone help me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73056",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Roger."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Fighters closing fast - range fifty miles."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "They must have made a visual contact."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Must be Mach two-five stuff.  Altitude fifteen thousand."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "They can't touch us at this height."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "They're moving apart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73057",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "If they come down low enough to make a firing pass, they'll never be able to pull up in time."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "I think they mean business."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Hang on, boys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73058",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Sorry, King.  My leg's stiff as a board."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Hey, Terry, I'm hit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73059",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Well, listen, King.  Could you take her up to about eight hundred?  That'll help you come in at a nice down-angle, and it'll give us a chance for our chutes to open."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Sure, I'll take her up to eight hundred."
+      },
+      {
+        "speaker": "LT. QUIFFER",
+        "text": "Could you take her up right now, King?  Other- wise we'll get kind of close to the fireball."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Sure, I'll take her up right now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73060",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Hey, King.  Somebody at Burpelson has a very perverted sense of humor."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "I just got another blast on the CRM-114, and the damned thing decodes: Wing Attack, Plan-R."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73061",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Wing attack, Plan-R.  That's exactly what it says."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Check your code again.  No one at base would pull a stunt like that, Terry."
+      },
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "That's what I'm doing, and it comes out the same."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73062",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "No, this looks like the real thing."
+      },
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Yeah, it sure looks like the real thing, all right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73063",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Okay.  Check these points.  Complete radio silence.  To ensure that the enemy can't plant false transmissions and fake orders, the CRM-114 is to be switched into all receiver circuits.  The three code letters of the period are to be set on the alphabet dials of the CRM-114, which will in turn block any transmissions other than those preceded by the code letters. You got it?"
+      },
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Roger, I'm setting up the CRM-114."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Primary target the ICBM base at Laputa. One weapon fused for air burst at ten thou- sand.  Second weapon to be used if first malfunctions.  Otherwise the secondary gets it - the airfield outside of Karnak.  Fused air burst at ten thousand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73064",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Lieutenant Toejam, are you ready for Bim and Bam?"
+      },
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Ready, Major."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73065",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Primary arming switch."
+      },
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Primary arming switch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73066",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "I thought I should check out the damage first. My gear is busted up pretty bad."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Lieutenant Toejam's going to help you in a minute.  Can you check your ECM?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73067",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "So am I."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Listen, I think I'm hit bad."
+      },
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Where'd they get you?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Damn you, Lieutenant Toejam!  Lothar!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73068",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "What does it look like?"
+      },
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Some kind of signaling."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "No kidding."
+      },
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Let's see...International Morse, I think ...K...E...O...P...E...R...E...C...A...L... L...M...I...S...T...A...K...E...O...P...E... Gee, I don't know, it seems to be some kind of code."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73069",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Yep, it's the CRM-114 code, all right."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Very interesting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73070",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Gee, we hate to leave you like this, Major Kong.  But there isn't anything we can really accomplish by sticking around."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Forget it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73071",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. TOEJAM",
+        "text": "Listen, King, old buddy.  On behalf---"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Skip it and jump, damn you!  This flak's so close, I can smell it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73072",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "In about twenty minutes we start losing height to keep under coastal radar.  Cross in over the coast low-level, continue low- level on zig-zag legs to primary, and climb for bomb run.  Any questions?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "I've got one."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Shoot, Lothar."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Our targets are a missile complex and an airfield - not cities, right?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "That's what I said."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Well, if there's a war, they must have hit us first."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "What's your point, Lothar?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Well, if they hit us first, they've probably fired off their missiles and got their planes off the ground already.  We'll just be hitting empty real estate."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Are you saying our order don't make sense?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Hellnno, Major.  I was just trying to think the thing through."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73073",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Check target approach."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Bomb doors circuit is green, bomb release circuit is green, bomb fusing circuit is green."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Check, all bomb circuits green.  Okay, Lothar."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "When do you want to arm the bomb for the primary, Major?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "As soon as I've checked over the route. About five minutes.  All right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73074",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Primary circuit is live."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Primary trigger switch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73075",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Release first safety."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "First safety."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73076",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Second safety."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Seond safety."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73077",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Fusing for ten thousand air burst."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Check, ten thousand air burst."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73078",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Master safety."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Master Kong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73079",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Primary bomb is live."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "All right, Lothat, that does it.  Master safety on now until bomb run."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Master safety on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73080",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Let's have a rundown on the damage, Lothar?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Everything still checks out okay."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Binky?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73081",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Yes, Major."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Lothar, get up here fast, and bring your First- Aid kit!  I'm hit kinda bad, I think."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Can't \"Ace\" help you?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "He's dead."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "I bit his jugular vein.  Now will you shut up and get up here???"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Sure!  Sure, I'm on my way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73082",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Where'd they get you?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "In the back...feels like an arrowhead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73083",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "How do you know he's dead?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Hell, he looks dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73084",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "He's dead, all right."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Listen, give me a shot quick!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73085",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "I don't know what we got left besides Bim and Bam."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Quentin, how's your gear?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73086",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "No, look!  It's \"OPE - Recall Mistake.\""
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Recall what mistake?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "No, I think it means, \"Recall period Mistake,\" and the OPE is probably the CRM-114 code. Terry?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73087",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "You sure have to hand it to those guys."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "I mean pulling a stunt like that."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "What are you talking about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73088",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Well, we sure as hell aren't going home just because the enemy tells us to."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Wait a minute, Major.  \"OPE,\" that's the recall code.  Where would they get that?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "You tell me."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "They must have gotten it from the base. No one else would know it."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Why should they call us back?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "How the hell do I know?  Maybe the war's over."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73089",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Lieutenant Zogg, what do our orders say about the authentication of orders during an attack mission?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Look, this is different."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Our orders warn us to expect the enemy to use ingenuity in issuing contrary and confusing orders.  And therefore, to disregard anything that doesn't come on the CRM-114."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "But the CRM-114 has been smashed for almost an hour."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Then that settles it, doesn't it?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Like hell it does."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "The CRM-114 is smashed, right?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Right.  So how could we get any messages?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "That's the point."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "I don't get you, King."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "I said that's the point!"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Look, King, maybe you've lost too much blood, or something."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Lieutentant Zogg, how would you like your black butt slung into a General Court Martial when we get back???"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Take it easy, Major Kong."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Then get off my back!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73090",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "There are plenty of traitors and spies running around loose."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "But the code is made up by General Ripper, and he's the only one left at the base who would know the code."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Nobody's loyalty is beyond question.  Besides, how do we know one of his staff didn't see it?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Come on, King.  That doesn't make sense."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Okay, how do we know they didn't shoot down one of our planes and torture the crew?  How do we know that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73091",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "We crossed the coast over an hour ago. Okay?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "You're giving them an awful lot of credit for being on the ball."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "First lesson in War College:  Never under- estimate your enemy."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Sorry, King."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Forget it.  Okay, team, let's break it up and get ready for the kick-off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73092",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Who's that?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "It's me - Lothar.  Are you okay?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "I'm okay.  What's up?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Well, I hate to say this, but I think the bomb bay doors are stuck."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Are you sure?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Well, I can't get out and look, King.  But I don't get a green light."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Maybe the warning system's out."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "But I get a red light."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Have you tried the emergency system?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "I tried everything.  Something must have gotten bent or twisted from the pounding we took."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73093",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Lothar, can you arm the bombs for impact?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "But I TOLD YOU, I don't think we can get the bomb bay doors open."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "I asked you a question, Lothar!"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "But how are we going to drop the bombs if the doors won't ---  Hey, King....you're not thinking of --- You don't mean you'd --- ???"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73094",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "MAJOR KONG",
+        "text": "There's no other way, Lothar.  Can you re-arm the bombs for impact?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Let me check."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "There's no other way, boys.  I'm going to have to take her in...the hard way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73095",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "I think it's okay, King.  They should go off on impact."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Would it matter if they hit at a flat angle? I mean, do you think the deuterium mass might separate from the atomic trigger?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Well, it would probably help if you took it ...sort of...straight down."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Roger."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73096",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "We're on course, Major.  Just fixed our position on that river back there."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "What the hell are you doing here, Lothar?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73097",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "I thought I'd go along for the ride."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Now what the hell did you want to go and do a thing like that for, Lothar?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "I thought maybe you'd like some company."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73098",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "LT. ZOGG",
+        "text": "King, would you mind if I keep me hands on the wheel when you take her in?"
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "I'd be mighty proud if you did, Lothar."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Thanks, King.  I've always wanted to take one of these big babies in."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Listen, Lothar.  You know that crack I made about your...butt?"
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Forget it."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "I just wanted you to know I didn't mean anything by it."
+      },
+      {
+        "speaker": "LT. ZOGG",
+        "text": "Sure, King."
+      },
+      {
+        "speaker": "MAJOR KONG",
+        "text": "Well, I just wanted you to know how I felt. Hell, I know Air Command wouldn't have taken you if you weren't okay.  And don't think I don't know some of our best ball-players and entertainers are of Negro descent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73099",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "At the bottom of mines?"
+      },
+      {
+        "speaker": "VON KLUTZ",
+        "text": "Yes.  The radioactivity could not penetrate a mine some thousands of feet deep."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73100",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "VON KLUTZ",
+        "text": "In a matter of weeks, sufficient improvements for a dwelling space could be provided."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "But they couldn't come out for a hundred years!"
+      },
+      {
+        "speaker": "VON KLUTZ",
+        "text": "Mister President, man is an amazingly adaptable creature.  After all, the conditions would be far superior to those, say, of the Nazi concentration camps, where there is ample evidence most of the wretched creatures clung desperately to life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73101",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "VON KLUTZ",
+        "text": "It would not be difficult.  Nuclear reactors could provide power almost indefinitely. Greenhouses could maintain plant life. Animals could be bred and slaughtered. A quick survey would have to be made of all the suitable minesites in the country, but I shouldn't be surprised if several hundred thousand of our people could be accomodatedd. Every nation would undoubtedly follow suit."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "But who would be chosen?"
+      },
+      {
+        "speaker": "VON KLUTZ",
+        "text": "A special committee would have to be appointed to study and recommend the criteria to be employed, but off-hand, I should say that in addition to the factors of youth, health, sexual fertility, intelligence, and a cross-section of necessary skills, it would be absolutely vital that our top government and military men be included, to impart the required principles of leadership and tradition."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73102",
+    "movie_id": "m536",
+    "turns": [
+      {
+        "speaker": "VON KLUTZ",
+        "text": "When they emerge, a good deal of present real estate and machine tools will still be recoverable, if they are moth-balled in advance.  I would guess they could then work their way back to our present gross national product within twenty years."
+      },
+      {
+        "speaker": "PRESIDENT MUFFLEY",
+        "text": "But, look here, Von Klutz.  Won't this nucleus of survivors be so shocked, grief-stricken, and anguished that they will envy the dead, and indeed, not wish to go on living?"
+      },
+      {
+        "speaker": "VON KLUTZ",
+        "text": "Certainly not, sir.  When they go down into the mine, everyone else will still be alive.  They will have no shocking memories, and the prevailing emotion should be one of a nostalgia for those"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73103",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "JEFF",
+        "text": "Uh, yeah, she should be coming by."
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Uh, well, what'd she say? Is Pony coming?"
+      },
+      {
+        "speaker": "JEFF",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73104",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "BEE-BEE",
+        "text": "We are?"
+      },
+      {
+        "speaker": "JEFF",
+        "text": "Alright. She told him to meet us here. Fuck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73105",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "BEE-BEE",
+        "text": "Mn-hm."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "\"Burger Manifesto, Part One\" is gonna make people think?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73106",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "BEE-BEE",
+        "text": "Um-hm."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "Wait. Racism? You don't know anybody who's black!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73107",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "JEFF",
+        "text": "I just walked all the way from Westside to here. I haven't walked that far since junior high. I thought you didn't drink."
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "I don't anymore."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "Can I have some?"
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Knock yourself out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73108",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "JEFF",
+        "text": "You know, one moment things are so fucked up than you look at it from a totally different angle and it makes sense."
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "Did you ever hear that saying, \"This too shall pass\"?"
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Sure, all the time, in Group."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "In Group?"
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Rehab. Outpatient. I have to go once a week. It's kind of like AA."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "Oh, yeah, you had to go to Highgate. That must've been intense."
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Intense."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "How long were you in there?"
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Uh, ninety days. And now I just have to go once a week. See, I'm rehabilitated."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "Well, you shouldn't drink. Are you gonna drink?"
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "No. Oh, maybe. Fuck."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "I mean, that would suck if you had to go back to rehab."
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Yeah, it would suck big time. I'd kill myself first."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "It was pretty bad, huh?"
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "It was like hell with windows. You know, there's shit on the walls. Kids my age sucking their thumbs. I mean, every day I would, I'd wake up in my cell and I'd think, my parents put me here. Why? Why? Because I stayed out all night one time. Uh, because I broke the VCR when I was drunk. Because I was out of control. I thought my parents loved me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73109",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "JEFF",
+        "text": "We were all riding around and it suddenly hit me what we were doing. We were getting off on the fact that we're in a car teen feet longer than all the rest. And I got out and I just started walking."
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "Well, what it was... I, I don't want to admit it, but, you know, I was jealous of Pony."
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Well, sure, he's rich and he's famous. He's got everything and you've got nothing."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "Yeah, but, when I was walking, I realized that he's stuck in that limo all the time. He's stuck with his interviews, he's stuck with his autograph, he has to do whatever his manager tells him to do, you know? He's not free. He's just part of the machine, and if you think about it, freedom's all that there really is."
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Yeah, I guess."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "You know? And it used to scare me so much that I didn't know what was coming in my life."
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Mm-hm."
+      },
+      {
+        "speaker": "JEFF",
+        "text": "You know, like, like, I would always think, uh, you know, what if I make the wrong move? But maybe there isn't any right move. You know? I mean, look at us. You know, we all dress the same, we all talk the same, we all fuck the same, we all watch the same TV. Nobody's really different, even if they think they're different. \"Oh, boy, look at my tattoo, you know?\" And see, that's what makes me freak. Because I can do anything I want, as long as I don't care about the result."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73110",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "BEE-BEE",
+        "text": "That was really great."
+      },
+      {
+        "speaker": "SOOZE",
+        "text": "Was it okay?"
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Yeah!"
+      },
+      {
+        "speaker": "SOOZE",
+        "text": "What did you guys think?"
+      },
+      {
+        "speaker": "BEE-BEE",
+        "text": "Slides go with it."
+      },
+      {
+        "speaker": "SOOZE",
+        "text": "Behind me. I'm making these slides out of these old pictures and paintings and stuff."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73111",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "BEE-BEE",
+        "text": "It's called \"Burger Manifesto, Part One The Dialectical Expression of Testosterone.\" Isn't that a great title?"
+      },
+      {
+        "speaker": "SOOZE",
+        "text": "Why is everything about you, Jeff?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_73112",
+    "movie_id": "m537",
+    "turns": [
+      {
+        "speaker": "BEE-BEE",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "SOOZE",
+        "text": "I stand for something. And I'm trying to communicate something."
+      }
+    ]
+  }
+]

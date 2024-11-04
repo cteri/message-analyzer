@@ -1,0 +1,2206 @@
+[
+  {
+    "conversation_id": "conv_10001",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Well hello there, young employee of the Sidewinder."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Look, I already told you I'm not going to give you a ride."
+      },
+      {
+        "speaker": "ENID",
+        "text": "What can you tell me, young man, about the various flavors of \"frozen yogurt\"?"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Look, I'll be done in a minute. Just wait outside."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I'm afraid I don't understand. I simply wish to know --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10002",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "So Josh..."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Look, can we talk in a minute? I'm almost done."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10003",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "That guy rules!"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Who, Doug? He spends more time here than I do..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "So Josh, will you give us a ride? Please? Pretty please? It's going to be super fun!"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10004",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Why do you even need a ride? You could walk there in two minutes."
+      },
+      {
+        "speaker": "ENID",
+        "text": "It's just an excuse for us to spend time with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10005",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Aren't there a million places like this?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "This is the ultimate. It's like the Taj Mahal of bad, fake 50's diners."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "So, where's \"Weird Al\"?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "SHH! He's back there. I can see his hair bobbing up and down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10006",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Yeah, right."
+      },
+      {
+        "speaker": "ENID",
+        "text": "No, I'm serious. Give us your whole basic philosophy in a nutshell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10007",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "That's not him... Jesus, stop freaking me out."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "In answer to your question, I suppose I endorse policies that are opposed to stupidity and violence and cruelty in any form..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I figured something like that..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10008",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Jesus, look at this guy."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Oh my God, that's HIM!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10009",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Forget it."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Come on, Josh... don't you want to see where he lives?"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "No."
+      },
+      {
+        "speaker": "ENID",
+        "text": "But this guy is like a one-of-kind, rare butterfly, and we have to follow him back to his natural habitat..."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "You need counseling."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10010",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Hi Josh."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Hi."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I just stopped in to say hi."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Yeah, well... hi..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10011",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Hi... what's up?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Can I come in?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10012",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Are you the one who left that note?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I guess."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10013",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Do you want something to drink?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Why?"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "What do you mean \"why\"?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Are you trying to get me wasted so you can take advantage of my womanly charms?"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Yeah, right..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "\"Yeah, right\"... well why not?  What's so wrong with me?"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Then why do you hate me so much?"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "When did I say I hated you?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "You've never once said anything even remotely nice to me."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "You make me nervous! I always feel like you're going out of your way to make me feel uncomfortable so you can laugh at me!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "That's just the way I am!"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Yeah, well --"
+      },
+      {
+        "speaker": "ENID",
+        "text": "It's just my stupid way of getting attention! God, I practically love you, Josh!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10014",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "You must have known all along how I -- you know -- how I felt about you -- it must be totally obvious...  God... I always used to dream about this..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Why do you have that stupid poster?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10015",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Oh, hi..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Why do all guys have to play stupid guitars? It's so typical... Either they're into cars or guns or sports or guitars... it's so obvious..."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "How long have you been up?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I couldn't sleep... I should get going; I feel really weird..."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Do you want to go get breakfast somewhere?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I don't think we should... Look, you have to totally promise me you won't tell Becky about this."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Because if you do, I'll kill you!"
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Okay... I promise."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Just take my word for it... if she ever finds out about this I'll never hear the end of it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10016",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "JOSH",
+        "text": "Hi Enid."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Hey Josh."
+      },
+      {
+        "speaker": "JOSH",
+        "text": "Are you ready to go?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10017",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "God, what a bunch of retards..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I thought Chipmunk-face was never going to shut up."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I know, I liked her better when she was an alcoholic crack addict! She gets in one car wreck and all of a sudden she's Little Miss Perfect and everybody loves her."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "It's totally sickening.  Let's see if they gave me the right diploma..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10018",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "What?... Oh suck my fucking dick!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "These assholes are saying that I have to go to Summer school and take some stupid art class!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Remember that stupid hippie art teacher who failed me sophomore year? I didn't think that just because you get an \"F\" that means you have to take the class over again."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "You loser."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10019",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "This is so bad, it's almost good."
+      },
+      {
+        "speaker": "ENID",
+        "text": "This is so bad it's gone past good and back to bad again..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10020",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Just think, we'll never have to see any of these creepy faces ever again."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Unless they're in your Summer school class!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Shut up!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Uh oh... don't turn around..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "What? Why?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Forget it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10021",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Since when is she an \"actress\"?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I know, she needs to die immediately."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10022",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Oh my god, look! Is Stacy Himmler going out with Rod Harbaugh?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "How perfect."
+      },
+      {
+        "speaker": "ENID",
+        "text": "He better watch out or he'll get AIDS when he date-rapes her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10023",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "God, just think, we'll never see Dennis again."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Good."
+      },
+      {
+        "speaker": "ENID",
+        "text": "God, think about that... that's actually totally depressing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10024",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Hi."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Look at these people behind you. I'm totally convinced they're Satanists."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Just look at them!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10025",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "So, when are we going to start looking for our apartment?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Soon... I have to wait and see how this Summer class goes."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Did you sign up yet?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Yeah, I just picked the one that sounded the easiest."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "God, it's so weird that we're finally out of high school... We've been waiting for this our whole life! Now we can get our own apartment and do anything we want.  It's such a weird feeling."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I know, it hasn't really hit me yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10026",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Hey, look, the satanists are leaving!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "We should follow them!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10027",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Much later."
+      },
+      {
+        "speaker": "ENID",
+        "text": "In fact, never."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10028",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "What do you do if you're a satanist, anyway?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "You know, sacrifice virgins and stuff..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "That lets us off the hook."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10029",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Maybe there's some weird secret satanic society that meets at the Quality Cafe and all of the other regular customers are in on it except for us."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Or maybe not."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Maybe they're slowly poisoning us or they're planning to brainwash us and --"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Okay, okay!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Hey, look at this..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10030",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "\"Authentic 50's diner\"? Since when were there mini-malls in the 1950's?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "God, it's so totally pathetic."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10031",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Who can forget this great hit from the 50's?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I feel as though I've stepped into a time warp!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10032",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Hi, Al!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Can we call you \"Weird Al\"?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10033",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "I might actually get the pasta special."
+      },
+      {
+        "speaker": "ENID",
+        "text": "You loser!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10034",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Did you notice all those weird things on the menu? Like \"The Salad Explosion\"?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I know... and instead of \"dessert\" it says \"Mindbenders.\""
+      },
+      {
+        "speaker": "ENID",
+        "text": "What does that even mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10035",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Check out the Personals... maybe our future husbands are trying to contact us."
+      },
+      {
+        "speaker": "ENID",
+        "text": "God, this paper is so boring. Who reads all this shit?  Here we go...  \"Windsurfing Doctor, Mensan IQ, maverick Sagittarius. Let's hit the clubs, make each other laugh!\""
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "You can have that one."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Okay, well here's yours...  \"Who said all the most eligible bachelors are taken? Not this one! Stunning bod, very snugglelicious ocean sunset dreamer.\""
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Gross."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10036",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Jesus! Listen to this one: \"Do you remember me? Airport shuttle, June 7th. You: striking redhead with yellow dress, pearl necklace, brown shoes. I was the bookish fellow in the green cardigan who helped you find your contact lens. Am I crazy, or did we have a moment?\""
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "God, that's so pathetic. I bet she didn't even notice him."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I know. And he's like psychotically obsessing over every little detail."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "We should call him and pretend to be the redhead."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Oh, we totally have to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10037",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Does Oomie really like this show?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Isn't it weird? It's her favorite."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10038",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "So what should we do?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Wait... I just want to see what's on this tape."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What is this?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I dunno. John Ellis always puts on all this sick stuff that I have to fast-forward past to get to the good stuff.  There's supposed to be a Don Knotts movie on here someplace."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10039",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Hey - why do you have this?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "You lent it to me in like tenth grade."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I've been looking all over for this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10040",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Look at how cute I am!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What a little hosebag."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10041",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Look, that's back when I hated you."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I remember every minute of that party."
+      },
+      {
+        "speaker": "ENID",
+        "text": "There's my dad with Joanie."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I can never keep them all straight - was she the super-bitch?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "No, she was the second wife. The third one was the super-bitch - Maxine.  There! Look at her!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10042",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "I want to do him!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I bet! Actually he reminds me of that one creep you went out with -- you always go for guys with some lame, fake shtick."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What are you talking about -- who?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "That Larry guy -- what look was he going for? A gay tennis player from the forties?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Fuck you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10043",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Hey! We forgot to call the loser!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Which loser?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "You know, the green cardigan guy."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Oh yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10044",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "You call."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Why do I always have to do it?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "You're better at it."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I remember when I first started reading these I thought DWF stood for \"dwarf!\""
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What does it stand for?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Shh, it's his answering machine...  We hear the indistinct traces of a musical message followed by a faint BEEP."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10045",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "God, I think Josh is too mature for us."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I know, look at the way he drives... he's like an old man."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Yeah, Josh, c'mon... MOVE IT!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10046",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Look, maybe that's him!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "It's still twenty-five minutes early."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10047",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "I want to \"make love\" to him."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I'm going to tell him you said that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10048",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "SHUT UP!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "She says she wants to MMPH!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10049",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Is he wearing a green cardigan?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What exactly is a cardigan anyway?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10050",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "It's obviously him!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I can't believe it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10051",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "What's going on now? What's he doing?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Oh my god, he just ordered a giant glass of milk!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10052",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "What's he doing now?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "He's still just sitting there. God, this is totally unbearable!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10053",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Do you think he knows?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I dunno..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10054",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Are you sure?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Totally! Look!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10055",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "He's insane!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "We should follow him home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10056",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "He doesn't even look that bummed out, really."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I know... wouldn't you be totally pissed off?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "This kind of thing must happen to him all the time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10057",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "This is way too creepy."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "He won't see us... we'll just stalk him from a distance."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I'm afraid if I see him, I'll start feeling really bad again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10058",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "The W.C. Fields Fan Club Newsletter...  Oh my God, The National Psoriasis Foundation!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Bingo!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10059",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "What should we do? What if he recognizes us?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Come on, it's too late now..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10060",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Ew, look at this..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Gross!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I think it's cute - look at his little weasel teeth."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Ew, it's like some gross rat..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10061",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "That was truly pathetic."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I know... I still can't get over that his name was \"Seymour.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10062",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "He was so excited when you bought that record -- you're a saint!... God, these apartments are super expensive..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "It was so cute how he had his own little bags. I thought I was going to start crying!... Do you think they're gay?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What about the \"striking redhead in the yellow dress\"?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Oh yeah..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "He should totally just kill himself... Hey, here's one  ...Oh wait...  you have to share it with a non smoking feminist and her two cats..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I dunno... I kind of like him... He's the exact opposite of everything I really hate... In a way he's such a clueless dork that he's almost cool..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "That guy is many things but he definitely isn't \"cool\"... This one would be okay, but there's no kitchen..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Yeah, but... you know what I mean."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Not really..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Forget it, I can't explain it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10063",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "We're not sure yet, that's why we're looking."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Somewhere downtown."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10064",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "\"Funky\"?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "What, is she black now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10065",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "I've been thinking about when we look for our apartment how we have to try and convince people that we're like these totally rich yuppies..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "That's who people want to rent to. It's a known fact that it's way easier to get a job and everything if you're rich... All we have to do is buy a few semi-expensive outfits and act like it's no big deal... it'll be fun."
+      },
+      {
+        "speaker": "ENID",
+        "text": "You just want an excuse to dress like some stupid fashion model without me making fun of you."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Just promise you'll do it."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Okay, okay, I promise... Jesus, you're out of your mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10066",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "What? How long have you been standing there?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Did you have to buy new hair dye or did you still have some left over from eighth grade?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Fuck you, bitch!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10067",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "We still have to go in there sometime."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "It's always closed..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I bet they have tons of incredible shoes hidden in the back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10068",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Where are we going?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Let's go hassle Josh."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "\"Hassle\"?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10069",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "There he is..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "As always."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Waiting for the bus that never comes..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I wonder if he's just totally insane and he really thinks a bus is coming or --"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Why don't you ask him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10070",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "JOSH!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "JOSH!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10071",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "I'll bet he never jerks off..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Yeah, he's beyond human stuff like that."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Should we leave a note?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10072",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Why are we going here? I hate this place."
+      },
+      {
+        "speaker": "ENID",
+        "text": "It'll only take a second."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10073",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "What was that all about?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "It's not like I'm some modern Punk dickhead... It's obviously supposed to be a 1977 Punk look, but I guess Johnny Fuckface is too stupid to get it!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I didn't get it either."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Everybody's too stupid!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10074",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "How about this one?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Hey, you have to see my new good luck charm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10075",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Ew ... when did you get that?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "This morning at Seymour's garage sale."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "God, aren't you tired of Seymour yet?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10076",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "How about this?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Forget it. I'm sure it sucks. All these movies suck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10077",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Let's get out of here, this place makes me sick."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "We have to do something fun tonight this is my last weekend of freedom before I start my stupid job."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I know a party we could go to..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What? Where?!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "It's a surprise."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I don't believe you."
+      },
+      {
+        "speaker": "ENID",
+        "text": "If I promise you there's really a party with a lot of guys, do you promise you'll go?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10078",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "I totally, totally hate you."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Aw c'mon, this is a fun party."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10079",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "I'll be right back, I'm gonna go get a beer."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Wait..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10080",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Give me all your money, bitch!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Where did you get that?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "You won't believe it! Guess!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Where?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Anthony's II!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "No way... when?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Just now... I went with Seymour."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "You cunt!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10081",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "That guy is totally amazing."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "He does that every single day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10082",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "God, how can you stand all these assholes?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I don't know... Some people are okay, but mostly I feel like poisoning everybody."
+      },
+      {
+        "speaker": "ENID",
+        "text": "At least the wheelchair guy is sort of entertaining..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "He's a total asshole... He doesn't even need that wheelchair, he's just totally lazy!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "That rules!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "No, it doesn't. You'll see... you get totally sick of all the creeps and losers and weirdos."
+      },
+      {
+        "speaker": "ENID",
+        "text": "But those are our people..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Yeah, well...  So when are you going to get your job?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I'm working on it... I've got a few leads... it's just that right now I have, all these projects that take up all my time."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Nothing. Don't worry... I promise I'll get a job next week."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "God, I can't believe you went to Anthony's without me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10083",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "...you don't have to make a million dollars -- just get any stupid job so we can at least start looking for an apartment."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I wonder if I hang around with you because you're like my surrogate mother figure or something. Like I have this subconscious biological need to be nagged and bitched at constantly."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "You hang out with me because nobody else can stand to be around you."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Or maybe... did you ever think that deep down we really might be lesbos? Maybe that's why we spend so much time together."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "You're gross.  See that guy?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Which one?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "He gives me a total boner!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "He's like the biggest idiot of all time!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10084",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "You're just jealous."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Yeah, right... Believe me, at this point I'm over the fact that every single guy likes you better than me!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Face it, you hate every single boy on the face of the earth!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "That's not true, I just hate all these obnoxious, extroverted, pseudo- bohemian losers!  Sometimes I think I act so weird because I'm crazy from sexual frustration."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Haven't you heard about the miracle of masturbation?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "...maybe we should be lesbos..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Get away from me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10085",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Are you kidding? It's a dream job! I can't believe you got a job like that without even trying... God, I wish that was my job..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Yeah, maybe it'll be okay. At least I'll get to see every movie for free, I guess... I had to lie and tell them I already graduated..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "When are you finally going to get your diploma?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I dunno, but next week is my last class..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Anyway, now we can start looking for the apartment...  Do you remember when we first came up with that whole idea of renting our own apartment?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Wasn't it like eighth grade?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Seventh... you wanted to move out right then!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "That must have been when my dad was married to Maxine..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I remember our big plan was as soon as we got the apartment we were going to trick Daniel Dusentrieb into coming over and then fuck him."
+      },
+      {
+        "speaker": "ENID",
+        "text": "We were such desperate sluts back then."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10086",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "What are you talking about? What kind of loser gets fired after one day?!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I told you - my manager was a total asshole! Don't worry, I'm going to get another job... and anyway, I have some ideas for how to make money in the meantime..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10087",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "This is it? I can't believe you're selling some of this stuff."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Fuck it. Everything must go!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Oh my god, I remember this hat... this was during your little old lady phase..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10088",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "What was that all about? I thought everything must go!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Oh yeah right, like I'm gonna let some asshole with a goatee own Goofy Gus."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10089",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Now are you going to get a regular job?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Don't worry."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "If it makes you feel any better, I don't think you could've gotten more than ten bucks for all this stuff."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Yeah, thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10090",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Do you want to do something tonight?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I can't, it's Seymour's birthday...  Shit! What time is it?  I have to go to the store! I was going to make him a cake..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Well, are we still going shopping tomorrow?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Yeah, I guess... call me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10091",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "I think one of us should fuck Josh..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Go ahead..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "No, really..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "God, you're really obsessed..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I am not -- I just think it'd be funny to see what he'd do..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I thought we decided that Josh was way too cool to be interested in sex, and that he's the only decent person left in the world and we would never want to bring him down to our level and all that..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Yeah, but maybe one of us should at least try..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "No matter what happened it would be a big disaster... Let's just try and keep everything the way it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10092",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Look, we have to get these..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I can't afford stuff like this right now."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I'm sick of waiting - we need to start getting stuff if we're ever going to move.  Aren't these the greatest towels?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Why do you care about this kind of stuff?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Don't you want nice stuff?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I can't imagine spending money on towels."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "You don't have to. I'll pay for all the stuff right now and you can pay me back when you finally get a job."
+      },
+      {
+        "speaker": "ENID",
+        "text": "You're insane."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Do you still want to go to that thing tonight?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "What thing?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "That guy's band is playing tonight... Alien Autopsy."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Oh yeah... maybe... Seymour's going on his big date tonight and I kind of want to be around when he calls, so I can hear how bad it went."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "God, I'm so sick of Seymour."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10093",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Do you still want to do something tonight?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What happened to Seymour?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I can't believe it - he actually scored!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "How repulsive!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "So should I come over?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Actually, I'm just about to go out with some friends..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "What are you talking about? Who?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Just some people from work..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I don't believe you."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Yeah well, you said you were busy... look, I'd better get going... I'll call you tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10094",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "Where are we? This is a weird neighborhood..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "It's a totally normal, average neighborhood!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I just mean it's weird to me... I've never been anywhere near here in my life."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Josh says this is a really good neighborhood..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "What? When did you see Josh?!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "He came into work."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Why? What did he say?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "ENID",
+        "text": "When was this?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I don't know! God, don't act so jealous I only talked to him for two minutes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10095",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Twenty-seven fifty-three... do you see it?  That must be it..."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Great..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What?! It looks totally normal... what's wrong with it?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I said \"great\"..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Oh yeah, I can tell you really love it!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Well, what am I supposed to say? \"I can't wait to live in some depressing shit-hole in the middle of nowhere\"?!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "There's something wrong with every single place we look at! Why don't you just come right out and tell me you don't want to move in with me?!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "Because you'll freak out and act like a total psycho about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10096",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "You're the psycho! You haven't been able to deal with anything since high school ended!"
+      },
+      {
+        "speaker": "ENID",
+        "text": "You're the one who's still living out some stupid seventh-grade fantasy!"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "FUCK YOU! Have fun living with your dad for the rest of your life!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10097",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I need to talk to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10098",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "I'm sorry about the other day. I don't know what's wrong with me... I really do want to move in with you."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I don't know... I was thinking maybe I should live alone. I decided to rent that place we looked at. I'm moving in next week."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Please let me come with you. Please please please..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I don't know - I'm not sure it's a good idea."
+      },
+      {
+        "speaker": "ENID",
+        "text": "Of course it's a good idea... it's our plan."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "But how are you gonna pay rent and everything? You don't even have a job."
+      },
+      {
+        "speaker": "ENID",
+        "text": "I'll get a job tomorrow, I promise. If I don't, you can totally tell me to fuck off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10099",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "So, whaddya think?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "It's fine."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "So where's all your stuff?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10100",
+    "movie_id": "m72",
+    "turns": [
+      {
+        "speaker": "ENID",
+        "text": "There."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "That's all you're bringing?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I'm gonna finish packing tonight... I'll bring it over tomorrow sometime."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What time?"
+      },
+      {
+        "speaker": "ENID",
+        "text": "I dunno..."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Make sure you're here by noon - we have tons of stuff to do... Oh yeah! I have to show you something else!"
+      }
+    ]
+  }
+]

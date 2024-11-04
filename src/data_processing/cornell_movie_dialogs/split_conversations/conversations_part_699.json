@@ -1,0 +1,1862 @@
+[
+  {
+    "conversation_id": "conv_69813",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "WENDY",
+        "text": "Don't hurt me!  Don't hurt me!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "I'm not going to hurt you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69814",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "WENDY",
+        "text": "Stay away from me,"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Wendy!"
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Stay away...!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Darling, light of my life, I'm not going to hurt you.  You didn't let me finish my sentence.  I said 'I'm not going to hurt you... I'm just going to bash your brains in!'  I'm going to bash them right the fuck in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69815",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "WENDY",
+        "text": "Stay away from me!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "I'm not going to hurt you."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Stay away from me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69816",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "WENDY",
+        "text": "Stay away from me!  Please..."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Stop swinging the bat."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Stay away from me."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Put the bat down, Wendy."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Stop it!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Wendy give me the bat."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Stay... stay away!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Give me the bat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69817",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "WENDY",
+        "text": "Stay away from me."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Give me the bat."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Jack, stay away from me!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Stop swinging the bat."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Get down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69818",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Give me the bat."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Go away from me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69819",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Wendy..."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Go away."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Give me the bat."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Go away."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Give me the bat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69820",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "WENDY",
+        "text": "I'll bring back a doctor."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Wendy..."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "I'm gonna go now."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Wendy..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69821",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Mr. Ullman?"
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "I'm Jack Torrance."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Oh, well - come on in Jack."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69822",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Very nice to meet you."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Nice to meet you, Mr. Ullman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69823",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Have any trouble finding us?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Oh, no problem at all.  I made the trip in three and a half hours."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Well, that's very good time, very good.  Please sit down a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69824",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "JAck, just make yourself at home. Would you like some coffee?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Well, if you are going to have some, I wouldn't mind.  Thanks."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Susie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69825",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Let's see, where were we?  Yes.  I was about to explain that eh... our season here runs from oh May 15th to October 30th and then we close down completely until the following May."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Do you mind if I ask why you do that?  It seems to me that the skiing up here would be fantastic."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Oh, it sure would be"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69826",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Only in a very general way."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Well..."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "...the winters can be fantastically cruel, and the basic idea is to...to cope with the very costly damage and depreciation which can occur.  And this consists mainly of running the boiler, heating different parts of the hotel on a daily rotating basis, repairing damage as it occurs and doing repairs, so that the elements can't get a foothold."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Well, that sounds fine to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69827",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Physically, it's not a very demanding job.  The only thing that can get a bit trying up here during the winter is eh... the tremendous sense of isolation."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Well, that just happens to be exactly what I'm looking for.  I'm eh... I'm outlining a new writing project, and eh..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69828",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "five months of peace is just what I want."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "That's very good Jack, because eh... for some people eh solitude and isolation..."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "can of itself be a problem."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Not for me."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "How about your wife and son?  How do you think they'll take to it?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "They'll love it."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Great..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69829",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "been known to give a few people second thoughts about the job."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I'm intrigued."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "I don't suppose they eh told you anything in Denver about the tragedy we had up here during the winter of 1970?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69830",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "I don't believe they did."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Well, my predecessor in this job"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69831",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "The police eh... they thought that it was what the old-timers used to call cabin-fever, a kind of claustrophobic reaction which can occur when people are"
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "shut in together over long periods of time."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Well, that is eh quite a story."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69832",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Well, obviously some people can be"
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "put off by the idea of staying alone in a place where something like that actually happened."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Well, you can rest assured Mr. Ullman, that's not going to happen with me, and eg as far as my wife is concerned, I am sure she'll be absolutely fascinated when I tell her about it.  She's a confirmed ghost story and horror film addict."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69833",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Good morning Jack.  I hope you haven't been waiting too long."
+      },
+      {
+        "speaker": "JACK",
+        "text": "No problem.  In fact we had time to grab a bite to eat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69834",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Good.  Glad you made it before they shut down the kitchen.  Is your family having a look around?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "No, my son's discovered the games room."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Oh... Has your luggage been brought in?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69835",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Right there."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Oh fine.  Well in view of all the ground that we to cover today, I suggest we go and have a quick look at your apartment and then get started straight away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69836",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "I'd better collect my family first."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Oh..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69837",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Yes, very cosy for a family, and if you feel like spreading out you have the rest of the hotel to move around in."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Well, it's very... homely."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69838",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "This is our Colorado Lounge."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Oh, it's beautiful.  My God, this place is fantastic, isn't it hon?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69839",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Yes, I believe they are based mainly on Navajo and Apache motifs."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Oh well they're really gorgeous. As a matter of fact this is probably the most gorgeous hotel I've ever seen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69840",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "even before anybody knew what a jet set was.  We've had four presidents who stayed here, lots of movie stars."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Royalty?"
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "All the best people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69841",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "This is the staff wing of the hotel. None of the other bedrooms are heated during the winter."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Oh!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69842",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "As a matter of fact we eh... brought a decorator in from Chicago just last year to refurbish this part of the hotel."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Oh well he sure did a beautiful job. Pink and gold are my favorite colors."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69843",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Oh...well this is our gold ballroom."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Oh, I'll say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69844",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "We can accommodate up to three hundred people here very comfortably."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Boy, I bet you we could really have a good party in this room, huh hon?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69845",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "WENDY",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Thank you, Susie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69846",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Hi."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Hi."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "How're you getting on?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69847",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "WENDY",
+        "text": "It's amazing how much activity is going on today."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Yes, well the guests and some of the staff left yesterday, but the last day is always very hectic - everybody wants to be on their way as early as possible."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69848",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "By five o'clock tonight, you'll never know anybody was ever here."
+      },
+      {
+        "speaker": "WENDY",
+        "text": "Just like a ghost ship, huh?"
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69849",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Bill, I'd like you to meet Jack Torrance."
+      },
+      {
+        "speaker": "WATSON",
+        "text": "How do you do?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69850",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Jack is going to take care of the Overlook for this winter.  I would like you to take him around the place as soon as we are through."
+      },
+      {
+        "speaker": "WATSON",
+        "text": "Fine."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Jack is a schoolteacher."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69851",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "What time does the plane leave?"
+      },
+      {
+        "speaker": "WATSON",
+        "text": "Eight thirty."
+      },
+      {
+        "speaker": "ULLMAN",
+        "text": "Well, that still gives up plenty of time to go over everything first."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69852",
+    "movie_id": "m514",
+    "turns": [
+      {
+        "speaker": "ULLMAN",
+        "text": "Bill, would you have the Torrances' things brought in their apartment."
+      },
+      {
+        "speaker": "WATSON",
+        "text": "Fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69853",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Holy-jumped-up-baldheaded-Jesus-CHRIST!"
+      },
+      {
+        "speaker": "JANE",
+        "text": "Uncle Al-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69854",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "JANE",
+        "text": "If Father Lowe is an innocent little lamb, why hasn't he picked up the telephone and called Constable Haller to tell him Marty's sending poison-pen letters?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "I don't accept the idea that he knows who his letter writer is, Jane. Because I don't accept the idea that there was a big bad wolf who saw Marty in his wheelchair."
+      },
+      {
+        "speaker": "JANE",
+        "text": "Why hasn't he picked up the phone and told Constable Haller that someone is sending him poison-pen letters?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69855",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Lowe's car-?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "Blue. This blue."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Jesus."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69856",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Would you kids mind telling me how this guy Lowe became a werewolf to begin with?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "I don't know. Maybe he doesn't know, either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69857",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Can I tell you kids something?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "Sure, Uncle Al."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "When me and sissy were kids, we were just like you two."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69858",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "JANE",
+        "text": "The moon's not down yet..."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Damn near. Now I'll sit up with this stupid gun in my lap because I promised, but you two are going to bed. Go on, now, scoot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69859",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "JANE",
+        "text": "You always take his side because he's a cripple! Well, it's not my fault that he's a cripple!"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Come on, Jane- it was Brady's idea. I couldn't stop him."
+      },
+      {
+        "speaker": "JANE",
+        "text": "Brady's a booger and so are you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69860",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Did he really get his head cut off, Dad? That's what Brady said."
+      },
+      {
+        "speaker": "JANE",
+        "text": "If you don't stop it I'm going to vomit. I mean it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69861",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "JANE",
+        "text": "What's the money for?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "A new pair of panty hose. Is it enough?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "I don't want your money. You're a booger."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "It was Brady's idea, Jane. Honest to God. Please take the money. I want to make up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69862",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Mom was really mad at him this time, wasn't she?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "What do you expect, when he comes in smelling like a brewery and looking like an unmade bed?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Stop it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69863",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Yes. Go away."
+      },
+      {
+        "speaker": "JANE",
+        "text": "Let me help you up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69864",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "JANE",
+        "text": "Marty? You okay? You've just been sitting here all morning."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Where's Mom?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "Went shopping. Why?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Jane, I have to talk to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69865",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Jane... you don't have to do that."
+      },
+      {
+        "speaker": "JANE",
+        "text": "Don't tell me what I have to do and what I don't, booger-brains."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Will you marry me, Jane?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69866",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Please, Uncle Al."
+      },
+      {
+        "speaker": "JANE",
+        "text": "Will you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69867",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "JANE",
+        "text": "Don't you touch me, snotbrains!"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Jane-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69868",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "JANE",
+        "text": "Are you all right, Marty?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "All except my legs... I don't think I can walk."
+      },
+      {
+        "speaker": "JANE",
+        "text": "You're a real booger, you know it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69869",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "TAMMY",
+        "text": "You booger."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "That's what my sister says, too. Pretty soon I'm going to start checking the mirror to see if I'm turning green."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69870",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Not bad, huh? My Uncle Al took off the regular muffler and put on a Cherry Bomb."
+      },
+      {
+        "speaker": "TAMMY",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Glasspack. He said he'd come over sometime this summer and we'd soup up the engine... but now I dunno. He's getting a divorce and he's in the doghouse with my mother."
+      },
+      {
+        "speaker": "TAMMY",
+        "text": "For getting a divorce?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Well... it is his third."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69871",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "TAMMY",
+        "text": "I used to see her every day, and she never knew what was going to happen to her, and neither did I! I mean I know how stupid that sounds, but..."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Hey, take it easy. I know how you feel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69872",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "TAMMY",
+        "text": "There's something else scary."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69873",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "TAMMY",
+        "text": "I've been hearing noises in there."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "What kind of noises?"
+      },
+      {
+        "speaker": "TAMMY",
+        "text": "Rattling. Rustling."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Rats..."
+      },
+      {
+        "speaker": "TAMMY",
+        "text": "And my dad says it's kids. But it's not rats and it's not kids. It's-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69874",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "TAMMY",
+        "text": "Well, it's probably nothing. I'm just spooked since... you know."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Yeah... but if you hear any more noises, tell your father. Okay?"
+      },
+      {
+        "speaker": "TAMMY",
+        "text": "Okay. Have you got enough gas to get home, Marty?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69875",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Ralph Houk! You can't bet a manager! Stone the crows!"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Okay, okay. Dwight Evans."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Piss on him. Piss on all the Red Sox."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69876",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Mom-!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Let the boy finish the game, Nan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69877",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "You all right, Marty?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "There's a saying- so-and-so was better than a poke in the eye with a sharp stick. You ever hear that one?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "No."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Well, I'm not sure that was. Christ! They better get the guy."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Uncle Al, what if it's not a guy?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "What if it's some kind of monster?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69878",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "What's going on at Owen's, Uncle Al?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "A bunch of men getting ready to pretend they're Clint Eastwood... Marty, didn't anybody ever tell you that the only monsters are in comic books and drive-in movies?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69879",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "It isn't enough that the monster killed all those people- that he killed Brady. Now he's got them to cancel the fair."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "And the fireworks. Hand me that box, Marty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69880",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Yeah, okay, the fireworks. Jane thinks that's all I'm mad about, but it's not. Them doing that is just a... a..."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "It's just an outward symbol of everything that's inwardly wrong in this town. Not bad, huh? I read Sherwood Anderson in college. I can jive that shit all day."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Well... I like it that you always know how to say things, Uncle Al."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "I'll give you the telephone numbers of my ex-wives, dear boy- they'll be interested to hear that."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Don't call me dear boy."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "But you are, you know- you are my dear boy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69881",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Your mom's not around, is she?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "She and dad are out back lighting the barbecue. Jane's walking around like she's King Shit of Turd Mountain. Like always."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Uh-huh. Only in her case I guess it would be Queen Shit of Turd Mountain. Hand me that adjustable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69882",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Yeah, Winesburg, Ohio, was never like that... but I got something that just might cheer you up."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "What?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Wait, dear boy. Just wait. Hand me those pliars."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69883",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "You got a pilot's license, Marty?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Do I need one?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "We're gonna find out. Take it down the road a ways and back. Be careful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69884",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "You gave me a heart attack, Marty. I'm dying. I hope you're happy, because you are looking at a dying man."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "It really goes fast. Thanks, Uncle Al."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "It goes fast, all right- and if your mother finds out just how fast, Marty, I will have a new job. Singing soprano with the Vienna Boys' Choir."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "I don't get you."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "I know you don't. But I want this to be our secret. You get that, don't you?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Sure."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69885",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Now I said I had something for you, as I believe you will recall."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Yeah! What is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69886",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Stay near the house, for Christ's sake- someone's killing people. I have to be out of my mind to be doing this, you know."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Yeah, I know. It's great!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "One of the reasons I love you, Marty, is that you're almost as crazy as I am. Please don't set off anything that goes bang tonight, okay? Just bright colors. Can you tell the difference?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Yeah... sure."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Save this one for last."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69887",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "A tracer. You'll like it."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Thanks a million, Uncle Al!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "You're welcome a million, Marty. Stick 'em in the bushes for now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69888",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "It came for me! I shot it in the eye! Now he's wearing an eye-patch!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "I called Peltzer on my way over here, Marty! Father Lowe came into the drugstore two days ago for a bottle of otic solution. That's a fancy way of saying eyewash. He's got a corneal inflammation."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Was it a prescription?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "What the hell does that matter?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "It wasn't- I'll bet you it wasn't. Because to get a prescription he'd have to see a doctor."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Marty, Marty, you should hear yourself!"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Well... was it a prescription?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "I don't know. But I know you didn't see any werewolf the other night, Marty. You had a dream, that's all. An extremely realistic nightmare brought on by what's been happening in this town."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "What about the baseball bat Jane saw in his shed? You know who used to have a baseball bat like that? Mr. Knopfler! He was so proud of it he used to carry it in the Fourth of July parade! Jane said it looked like the Green Giant used it for a toothpick!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "You want to know what I think?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "No- we just got you out here so we could admire your pretty face."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Watch it, dear boy. I think it was a hallucination. Probably a broomstick, or something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69889",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "I'll bet you a quarter that eyewash stuff was nonprescription. And I'll bet you another quarter he hasn't said anything to Mr. Haller."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Marty, do you see your suspect?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69890",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Do you really think that a man who took a rocket in the eye three nights ago could be out mowing his lawn? He'd either be in the hospital... or dead."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "I didn't shoot him when he was a man. I shot him when he was-"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "When he was a werewolf. Yes. Right. Jesus. Jane, you don't really believe this madness, do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69891",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "Well... it's a lot easier to swallow without the hair and the foaming jaws. Also, I checked on the otic solution. It was counter brand. No prescription needed."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "I told you!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Shut up, dear boy- no gloating allowed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69892",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "After Marty called me with his latest Thrilling Tale of Wonder, I did.  He's had no poison-pen complaints lodged at all."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "I told you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69893",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "No... but I found some blood, smeared on a tree trunk in that grove."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "There! You see!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "It could have been anything, Marty."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "What about Father Lowe chasing me in his car and trying to run me down? You don't think that was a dream, do you?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69894",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Mr. Haller said he'd check him out, and guess what? No one sees him again!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "And what do you suggest I do about it, dear boy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69895",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "I want you to turn this into a silver bullet."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "You're not going to let it go, are you?"
+      },
+      {
+        "speaker": "MARTY",
+        "text": "I saw what I saw."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Marty, the moon wasn't even full!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69896",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "No one knows how cancer begins, either- or exactly what it is- but people still believe in it."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "The kid is eleven years old and already he sounds like a Jesuit. A French Jesuit."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "I think he's going to come for me. Not just because I know who he is, but because I hurt him. Only I don't think he'll try again as Lowe."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Dear boy, you have gone right out of your mind."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "Will you do it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69897",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "Yeah? Really?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Yeah. Really. The bitch of it is, we still are. Learn from your elders, dearies."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69898",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "I suppose so. You kids ought to go up to bed."
+      },
+      {
+        "speaker": "MARTY",
+        "text": "But Uncle Al! You said-"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "I know what I said, Marty- but it's ten past one. He's not coming."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69899",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "MARTY",
+        "text": "What if I say no?"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "Then I'd have to kick your ass, dear boy.  Go on, now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69900",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "UNCLE AL",
+        "text": "I come here because Marty needs a friend."
+      },
+      {
+        "speaker": "NAN",
+        "text": "Yes... you've always been that to him. But if you can't leave your booze in whatever dump you call home, you better just stay away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69901",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "NAN",
+        "text": "So have I, actually... I wish it could always be like this."
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "See me around to my car, Marty, and make sure I stay out of trouble at least that long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69902",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "NAN",
+        "text": "Remember, Al... we'll be at the Ritz-Carlton in Boston tomorrow night! Or at the funeral parlor. It's Stickney and-"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "-and Babcock, I remember. Now go on!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69903",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "NAN",
+        "text": "And don't open the door for any trick or treaters even if they come!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "We won't!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69904",
+    "movie_id": "m515",
+    "turns": [
+      {
+        "speaker": "NAN",
+        "text": "You kids go to bed on time! You've got school tomorrow!"
+      },
+      {
+        "speaker": "UNCLE AL",
+        "text": "If you keep doing that, you're going to bump your head, sissy. Give my love to Mama- tell her I'll see her Thursday."
+      },
+      {
+        "speaker": "NAN",
+        "text": "I will- be good, kids."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69905",
+    "movie_id": "m516",
+    "turns": [
+      {
+        "speaker": "BISHOP O'HARA",
+        "text": "Reverend Mother, I just wanted to congratulate you."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "Oh?"
+      },
+      {
+        "speaker": "BISHOP O'HARA",
+        "text": "I haven't enjoyed Mass this much in years.  What a marvelous program. Innovative.  Inspiring.  You are to be commended."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "Well... thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69906",
+    "movie_id": "m516",
+    "turns": [
+      {
+        "speaker": "BISHOP O'HARA",
+        "text": "I can't wait until next Sunday, when the choir performs again.  Did you see the people walk right in from the street? That music, that heavenly music -- it called to them."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "Perhaps."
+      },
+      {
+        "speaker": "BISHOP O'HARA",
+        "text": "I must tell the Cardinal.  I.11 send him a personal letter, describing your efforts, your bold new fight to keep your little convent alive."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "Really?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69907",
+    "movie_id": "m516",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "Really."
+      },
+      {
+        "speaker": "CHARLENE",
+        "text": "Yeah.  Sister Mary Pat was discussing it.  You know she thinks it's a sin."
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "Well... yes.  Yes it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69908",
+    "movie_id": "m516",
+    "turns": [
+      {
+        "speaker": "CHARLENE",
+        "text": "Yeah.  We all got caught.  Shoplifting. Cuttin' school.  Cuttin' up some bitch with a blade.  So we gotta come here.  So we'll be good, in the future.  So we'll learn valuable lessons.  And I learned mine.  I will be incredibly good, I will never rip out nobody's nose-ring by accident ever again.  Can I go now?"
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "Yeah, you learned a whole lot, I can tell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69909",
+    "movie_id": "m516",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "Okay, so maybe I'm a nun -- so, you want to ask me something?  You want to listen, for once in your little lives? You want to pay some attention?"
+      },
+      {
+        "speaker": "CHARLENE",
+        "text": "What about crack?  You a user?"
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "I said I was a nun, not an asshole."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69910",
+    "movie_id": "m516",
+    "turns": [
+      {
+        "speaker": "CHOIR",
+        "text": "LET THY THOUGHTS BE GUIDED"
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "What you say?"
+      },
+      {
+        "speaker": "CHOIR",
+        "text": "LET THY SOUL BE HEALED"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69911",
+    "movie_id": "m516",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "But how?"
+      },
+      {
+        "speaker": "CHOIR",
+        "text": "BY A VOICE YOU HEAR FROM ON HIGH"
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "I think I hear it!"
+      },
+      {
+        "speaker": "CHOIR",
+        "text": "LET THY THOUGHTS BE GUIDED"
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "You know, I just might!"
+      },
+      {
+        "speaker": "CHOIR",
+        "text": "LET THY SOUL BE HEALED"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69912",
+    "movie_id": "m516",
+    "turns": [
+      {
+        "speaker": "CHOIR",
+        "text": "LET THY SPIRIT"
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "You know what we're saying!"
+      },
+      {
+        "speaker": "CHOIR",
+        "text": "LET THY SPIRIT"
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "I think they hear you!"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2066 @@
+[
+  {
+    "conversation_id": "conv_81119",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Hello Bud, I'm Lisa, a friend of Gordon's."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Lisa. Gordon? Oh, Mr. Gekko. Sure. Would you, uh, like to come in?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Didn't he tell you?  That's so like Gordon. Get dressed, we're going out."
+      },
+      {
+        "speaker": "BUD",
+        "text": "We are?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81120",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "So, where are we going?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Wherever you like, Lutece, 21, the River Cafe...or maybe we can just drive around for a while.  Work up an appetite."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81121",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Want some?  Gordon tells me you're a very talented broker. What do you like?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Like? Uh...hmmm. Well..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "I got this guy who should know tells me buy Hewlitt Packard but I been burned on tips. What do you think Bud?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Let's see, it closed at uh, 41 1/8...  Up a quarter...very attractive... about average yield..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81122",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Rising profits...strong balance sheets, good earnings per share."
+      },
+      {
+        "speaker": "LISA",
+        "text": "So you're hot on this stock?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "It's ready to take off. I'd jump all over it if I were you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81123",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "ROGER",
+        "text": "Fox, Bud D. is this deja vu or has it really been a year. You're not hitting me up for NYU are you?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Well we're thinking of putting up a statue of you in the subway. I hear you're moving up in the world. An associate already. Not bad. How's Margie?"
+      },
+      {
+        "speaker": "ROGER",
+        "text": "Can't complain. Got a house in Oyster Bay. Market treating you good? Still seeing that sexy French gal?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Nah, she asked the wrong question."
+      },
+      {
+        "speaker": "ROGER",
+        "text": "What was that?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "\"What are you thinking?\"...that was it. The hours are hell, but the money's starting to tumble in. I know this guy who's got an iron- clad way to make money, I can't lose and I can't get hurt."
+      },
+      {
+        "speaker": "ROGER",
+        "text": "So, does \"this guy\" have a tip for an honest lawyer?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Yeah, check out Teldar Paper, it's still not over."
+      },
+      {
+        "speaker": "ROGER",
+        "text": "Okay."
+      },
+      {
+        "speaker": "BUD",
+        "text": "What about you, I hear you guys are handling the Fairchild Foods merger and it may not be going through. Any surprises I haven't read about in the Wall Street Journal?"
+      },
+      {
+        "speaker": "ROGER",
+        "text": "Come on Buddy, you wouldn't want to got me disbarred now would you?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Who's listening? It's just one college buddy talking to another."
+      },
+      {
+        "speaker": "ROGER",
+        "text": "Yeah, right..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Relax, Roger, everybody's doing it but you don't know, you don't know."
+      },
+      {
+        "speaker": "ROGER",
+        "text": "...and if I did, what's in it for moi?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81124",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "More money than you ever dreamed, Roger. And the thing is no one gets hurt...how bout a beer?"
+      },
+      {
+        "speaker": "ROGER",
+        "text": "Too much to do...but I'll walk you out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81125",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "...and you don't have to put up a dime, Roger."
+      },
+      {
+        "speaker": "ROGER",
+        "text": "All right, Bud... let's do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81126",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "So what's the problem?"
+      },
+      {
+        "speaker": "ROGER",
+        "text": "...got a strange call from the SEC. They asked to see my records... Bud, this is a heavy..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "....Relax Roget  You're 82M in the account numbers and I'm the Invisible Man... they're always looking for red flags, Gekko's always getting checked by them, they never come up with anything... we're invulnerable on this..."
+      },
+      {
+        "speaker": "ROGER",
+        "text": "Alright... I just wanna slow down Bud... no more calls for awhile, no lunches... we suspend our business, alright..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Sure Roger, whatever you want, it's cool."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81127",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "ROGER",
+        "text": "Gekko asked us into the Bluestar deal. We're reviewing the timetables, wanna come?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "He never told me..."
+      },
+      {
+        "speaker": "ROGER",
+        "text": "You're just the President of the company, what do you know? ... Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81128",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "How do you do Mr. Gekko. I'm Bud Fox."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "So you say. Nice to meet you; hope you're intelligent. Like these, how'd you get these?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81129",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "So what s on your mind kimosabe? Why am I listening to you? Got to monitor my blood pressure, so whatever you do, don't upset me."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Oh no, no..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Within 45 seconds, a microprocessor computes your systolic and diastolic pressure. Has an LCD readout, and it's cost effective -- less than one visit to the doctor."
+      },
+      {
+        "speaker": "BUD",
+        "text": "I just want to let you know Mr. Gekko I read all about you at NYU Business, and I think you're an incredible genius and I've always dreamed of only one thing -- to do business with a man like you..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "So what firm you with, pal?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Jackson, Steinem..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "...going places, good junk bond department, you got the financing on that Syndicam deal."
+      },
+      {
+        "speaker": "BUD",
+        "text": "...Yeah, and we're working on some other interesting stuff."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "...A cosmetics company by any chance? What are you, the 12th man on the deal team? The last to know?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Can't tell you that, Mr. Gekko."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "So whatta you got for me, sport? Why are you here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81130",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Chart break-out on this one here...uh Whitewood-Young Industries...low P.E. Explosive earnings. 30% discount from book. Great cash flow. Coupla 5% holders. Strong management."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "It's a dog, what else you got, sport, besides connections at the airport?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81131",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "...rings a bell somewhere. So what?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "A comer. 80 medium-body jets. 300 pilots, flies northeast, Canada, some Florida and Caribbean routes... great slots in major cities..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "...don't like airlines, lousy unions..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "There was a crash last year. They just got a favorable ruling on a lawsuit. Even the plaintiffs don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81132",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "How do you know?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "I know...the decision'll clear the way for new planes and route contracts. There's only a small float out there, so you should grab it. Good for a five point pop."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81133",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "My home number's on the back..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Bud Fox, I look at a hundred ideas a day. I choose one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81134",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Hi sport."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Nice to see you again Mr. Gekko."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81135",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "See this? Can you believe it? Two inch screen..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "...I can't even see it..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "...for my kid Rudy -- 3 years old, electronics freak, got a liquid crystal display 'stead of an electronic beam. We're going into a new age pal. So how's business today."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Bluestar was at 21 and an eighth when I left the office. It might spin up to 25 by the bell..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Teldar's shooting up. Buy any for yourself? Bet you were on the phone two minutes after you got out of my office."
+      },
+      {
+        "speaker": "BUD",
+        "text": "No sir, that would've been illegal..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Sure...relax sport, no one's gonna blow a whistle. Here, is this legal?...you wanna put it in my account?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81136",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Mr. Gekko -- thank you for the chance. You won't regret this, you're with a winner."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "...put the rest of it in a money market account for now. I want to see what you know before I invest it...and save the cheap salesman talk, it's obvious."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Excuse me sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81137",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "...come on sport, you gotta try harder, I need some exercise for chrissake..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Mr. Gekko, I don't think I can...go on."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "...finish out the game, Bud, push yourself..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81138",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Nice club, Mr. Gekko..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Yeah... not bad for a City College boy. Bought my way into this club and now every one of these ivy league schmucks is sucking my kneecaps...I just got on the Board of the Zoological Society, cost me a million; that's the thing with WASPS -- they like animals but they can't stand people!"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Uh, Mr. Gekko, we took a little loss today. We got stopped out on Tarafly...  ...about 50 thousand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81139",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "I guess your father's not a union representative on that company."
+      },
+      {
+        "speaker": "BUD",
+        "text": "What? How do you know about my father?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "The most valuable commodity I know of is information. Wouldn't you agree on that?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Yes..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81140",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Know the name?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "'Course. Larry Wildman. One of the first raiders."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Sir Larry Wildman. Like all Brits he thinks he was born with a better pot to piss in... bribed an old secretary of mine to open bar mouth and stole RDL Pharmaceuticals right out from under me. Wildman the white knight."
+      },
+      {
+        "speaker": "BUD",
+        "text": "I remember that deal. You were involved?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81141",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Revenge is a dish best served cold... well, it's payback time, sport.  ... see that building? I bought into it ten years ago. It was my first real estate deal. I sold it a couple of years later and made an $800,000 dollar profit. It was better than sex. At that time I thought that was all tne money in the world...  Now, it's a day's pay ... I had a mole in Wildman's employ. Gave me half the picture, then he got fired..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "I don't understand."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Wildman's in town. He just became an American citizen. Something big's about to go down. I want to know where he goes and who he sees. I want you, sport, to give me the missing half of the picture..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Follow him? Mr. Gekko I...  It's not what I do. I could lose my license. If the SEC found out, I could go to jail. It's inside information, isn't it?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Inside information. Oh you mean like when a father tells his son about a court ruling on an airline? Or someone overhears me saying I'm gonna buy Teldar Paper? Or the chairman of the board of XYZ suddenly knows it's time to blow out XYZ. You mean that?  I'm afraid sport, unless you got a father on the board of directors of another company, you and I are gonna have a hard time doing any business..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81142",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "What about hard work?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "What about it? You work hard. I'll bet you stayed up all night analyzing that dog you bought. And where'd it get you?... my father worked hard too like an elephant pushing electrical supplies. And he dropped dead at 49 with a heart attack and a tax bill and the bank pissed on his grave and took the house; my mom ended up working in a dish factory... Wake up pal, if you're not inside you're outside. And I'm not talking a $200,000 a year working Wall Street stiff flying first class and being \"comfortable\", I'm talking rich pal, rich enough to fly in your own jet, rich enough not to waste time, 50-100 million, a player Bud -- or nothing. You had what it takes to let through my door. Next question: You got what it takes to stay...??"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81143",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "I got all I could get which was 750,000 shares plus 5000 March 50 calls. Average price of $47 a share And $4 per contract for the call. I just wish I could've got more."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Don't expect to get it all, sport, you'll burn out. First rule of business is never get emotional about stock, clouds the judgment. Where do we stand?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81144",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "I'll be right there, fix them a drink."
+      },
+      {
+        "speaker": "BUD",
+        "text": "...we have 37.2 million invested. At this point, we're up 3.1 million and some change. If it goes to 75 bucks we can clean close to 12 mill."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "You're walking between the raindrops kid. I expect Sir Larry is choking on his royal chamber pot by now."
+      },
+      {
+        "speaker": "BUD",
+        "text": "My firm needs your signature on these option agreements tonight, sir, otherwise we could take a real bath tomorrow."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "...Can't it wait? I'm good for it.  ...Awright. Come out, get the directions from Natalie and hurry up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81145",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Sorry, Mr. Gekko."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Allright. Wait here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81146",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "I guess I'll head back..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Stick around... Larry, one of my \"gang\" -- Bud Fox."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81147",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "The break up value is higher. It's worth 80."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "But we don't want to be greedy now, so let's let him have it at $72."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81148",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "He's right. I had to sell. The key to the game is your capital reserves. You don't have enough, you can't pee in the tall weeds with the big dogs."
+      },
+      {
+        "speaker": "BUD",
+        "text": "\"All warfare is based on deception...\" Sun Tzu says, If your enemy is superior, evade him, if angry, irritate him, if equally matched, fight... if not, split and reevaluate."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "You're learning, sport..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81149",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Money never sleeps pal. When I came in in '69, they traded six hours a day, now the clock don't stop, London's deregulated, the Orient is hungrier than us. Just let the money circle the world, sport, buying and selling, and if you're smart it comes back paying. I just made $800,000 in Hong Kong gold. It's been wired to you -- play with it. You done good, but you gotta keep doing good. I showed you how the game works, now school's out."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Mr. Gekko, I'm there for you 110%."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "You don't understand. I want to be surprised...astonish me, sport, new info, don't care where or how you get it, just get it... My wife tells me you put a move on Darien. Here's some inside info for you. That Euroflash GQ guy she's going with's got big bucks but he's putting her feet to sleep. Exit visas are imminent. So don't lose your place in line.  Oh, jeez, I wish you could see this. The lights coming up over the water. I've never seen a painting that captures the beauty of the ocean at this moment.  ...an old Russian proverb - \"a fisherman always sees another fisherman from afar.\" I like you sport, I ever tell you that... Gordon, call me Gordon from now on."
+      },
+      {
+        "speaker": "BUD",
+        "text": "...Gordon."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Yeah, I'm gonna make you rich, Bud Fox. I'm gonna make you rich enough you can afford a girl like Darien. Remember, power is the best aphrodisiac. This is your wake-up call. Go to work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81150",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Got him at an auction in Kentucky."
+      },
+      {
+        "speaker": "BUD",
+        "text": "How much?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Close to two million.  But this sucker can go all the way to Devon and the nationals."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81151",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "The art of which is deception. Spread the buy orders through different accounts and you won't get burned..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "I think I got some friends that won't mind making some easy money..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81152",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Mixed emotions, Buddy: like Larry Wildman going off a cliff in my new Maserati. Men as smart as myself have got their asses handed to them on a sling with the airlines, fuel could go up, unions are killers..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Yeah aren't you forgetting something Gordon: rule one, capital reserves. This company has $75 million cash in an overfunded pension. That buys us a lot of credibility...  ...and the beauty is you already own close to two percent of this sucker..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81153",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Gordon what I want--and I never asked you for anything--is to be your co-pilot on this. I want to take this airline, turn it around, and make it work. It's gonna make us a fortune!"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "I'm talking to a stockbroker who wants to run an airline. It's gonna take me two years and 2000 headaches to turn Teldar Paper around, what do I need this dink airline for? I'm up to my ass in more nuts than a fruitcake."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Gordon, I worked at Bluestar, I know my way around, I have friends there...inside."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "What does that mean?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "The three unions. It's 43% of Bluestar's operating budget, the hourly cost of a flight crew is $850 an hour, that's the real hidden value G.G., if you can negotiate that out, get a crew down to $350-400 an hour a run, this airline is gonna be the hottest thing since Texas Air..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "What makes you think you can?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "I can talk to these people Gordon, they trust me...and my father can be a big help in getting cuts."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Alright... Susan, get Buckingham on the box. I want him to look at it. And tell Jock Taylor at Thwick, Jensen...  So sport, the falcon has heard the falconer...tell me more..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81154",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "And I'd like to introduce you to Mr. Gekko, and his lawyer, Mr. Salt."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "A pleasure to meet you, Mr. Fox."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81155",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Now, wait a minute, Dad..."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Sure. What's worth doing is worth doing for money. It's a bad bargain where nobody gains. And if this deal goes through, we all gain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81156",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "I didn't know we had a meeting schedule for this morning."
+      },
+      {
+        "speaker": "BUD",
+        "text": "I'm sorry, this can't wait."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81157",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "What the hell do you want?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "I found out about the garage sale down at Bluestar. Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81158",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Last night I read Rudy the story of Winnie the Pooh and the Honey pot. Know what happened: he stuck his nose in that honey pot once too often and got stung."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Maybe you ought to read him Pinocchio. You told me you were going to turn Bluestar around. Not upside down. You used me."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "You're walking around blind without a cane, sport. A fool and his money are lucky to get together in the first place."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Why do you need to wreck this company?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Because it's wreckable. I took another look and I changed my mind."
+      },
+      {
+        "speaker": "BUD",
+        "text": "If these people lose their jobs, nowhere to go. My father worked at Bluestar for twenty-four years. I gave 'em my word."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "It's all about bucks, kid, the rest is conversation...  Bud, you're still going to be president. And when the time comes, you'll parachute out a rich man. With the money you're going to make, your father won't have to work another day in his life."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Tell me, Gordon--when does it all end? How many yachts can you waterski behind? How much is enough?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Buddy, it's not a question of enough. It's a zero sum game, sport. Somebody wins and somebody loses. Money itself isn't lost or made, it's simply transferred from one perception to another. Like magic. That painting cost $60,000 10 years ago. I could sell it today for $600,000. The illusion has become real. And the more real it becomes, the more desperately they want it. Capitalism at its finest."
+      },
+      {
+        "speaker": "BUD",
+        "text": "How much is enough Gordon?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "The richest one percent of this country owns half the country's wealth: 5 trillion dollars. One third of that comes from hard work, two thirds of it comes from inheritance, interest on interest accumulation to widows and idiot sons and what I do -- stock and real estate speculation. It's bullshit. Ninety percent of the American people have little or no net worth. I create nothing; I own. We make the rules, Buddy, the news, war, peace, famine, upheaval; the cost of a paper clip.  We pull the rabbit out of the hat while everybody else sits around their whole life wondering how we did it...  ...you're not naive enough to think we're living in a democracy are you, Buddy? It's the free market. You're one of us now...take advantage of it. You got the killer instinct, kid, stick with me. I got things to teach you..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Obviously..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81159",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Believe me, Buddy, I was gonna discuss this with you at the right time. Look, why don't you calm down and come to the apartment for dinner tonight. Bring Darien..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "...I can't make it tonight."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Are you with me Buddy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81160",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Gordon, it's two minutes to close. What do you want to do?! Decide."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Dump it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81161",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Hello Bud."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Gordon."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "You sandbagged me on Bluestar.  I guess you think you taught the teacher a lesson, that you can make the tail wag the dog, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81162",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Hello again, I been holding these drinks for us for the last three weeks."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Excuse me."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Grand Marnier. A romantic and tragic drink."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Oh yes, I remember you."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Destiny took us apart, but I knew it would bring us back together."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Aha. Poet or philosopher?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Stock broker. As in: never have so few done so little for so much. So what do you see in this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81163",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "I'd give anything to have this in my house, even for a week."
+      },
+      {
+        "speaker": "BUD",
+        "text": "...few thousand dollars down the drain if you ask me."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Oh really?  Well, I guess you can kiss that career as an art appraiser goodbye, because we paid over four hundred thousand for it at the contemporary picture sale last June."
+      },
+      {
+        "speaker": "BUD",
+        "text": "You could have a great beach house for that."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Sure you could, in Wildwood, New Jersey. If you sold this,  you could have a pretty nice penthouse on Fifth. But you wouldn't have much left over for decoration."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Boy, I thought Gordon was a tough businessman, but somebody's really taking him to the cleaners here."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Not really. I'd say that Gordon is one of the most astute collectors around. He has a great eye and he only buys the best. Like this rug for instance, a silk Tabriz, the finest of its kind. The day after he bought it in London, a dealer representing the Saudi Royal Family offered him twice what he paid. It absolutely makes the room. See how this little bit of celadon in the border is picked up in the cushions oh the sofa... although...  I don't know if I would have used that tea dipped linen for the upholstery - too dingy. And it's a sacrilege having that Pre-Columbian pot in the center of the coffee table. Some dope might use it as an ashtray."
+      },
+      {
+        "speaker": "BUD",
+        "text": "I gather you're a decorator."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "You got it, a great spender of other people's money."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Well, if you're that good, you could probably do wonders at my place."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Where is it?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Upper West Side."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Oh really. Home of the exposed brick wall and the  houseplant."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Oh it's just a rental. I'm moving to the East Side soon. I've got a couple of deals brewing with Gordon.  but that's just conversation... what about real things? Like dinner. The two of us. Friday. Cafe. Santo Domingo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81164",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "What if I have a previous engagement?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Break it."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "I guess this must be destiny alright. My first yuppie apartment and...  my first yuppie."
+      },
+      {
+        "speaker": "BUD",
+        "text": "You may call me a yuppie... It's Mister Yuppie to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81165",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "So. See you Friday."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "You really do believe in destiny?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Only if I want something bad enough."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81166",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Devon? He looks like Seattle Slew. What about the Triple Crown?"
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "He's not a racehorse, Bud, he's a jumper."
+      },
+      {
+        "speaker": "BUD",
+        "text": "How would I know? I once bet a horse. He went out at ten to one and came in at quarter to five."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81167",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "If I could have anything... this would almost do."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Yeah, almost..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81168",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "So, how did your conference go with Gordon?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "The conference, oh yeah. Fine. We reached an agreement and decided to divide up the world between us."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "You have modest wants. I like that in a man."
+      },
+      {
+        "speaker": "BUD",
+        "text": "And what do you want?"
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "...a Turner, a perfect canary diaiaond... a Lear jet... world peace... the best of everything..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Well, why stop at that?"
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "I don't."
+      },
+      {
+        "speaker": "BUD",
+        "text": "You're not trouble by any chance. Are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81169",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "...isn't it perfect!"
+      },
+      {
+        "speaker": "BUD",
+        "text": "...too perfect...let's not even eat. Let's just watch it and think about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81170",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "You know, the elevator man couldn't believe I paid $300,000 to have my walls looking like this, he's got them for free in Brooklyn."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "I'll bet he's got an opinion on the stock market too. This apartment is already ahead of its time. I call it the \"demolished\" look. They've already heard about it at House and Garden and they're coming next week to photograph it before it gets... lived in. Is that alright? I'd love to have it in my portfolio."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Sure... But your fee... considering you're way over budget, should be negotiable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81171",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "Let's get things straight, Bud. I'm not going to take a cut. I worked hard and you can't decorate a room in New York for less than $100,000. Curtains alone..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "I'm kidding, I'm kidding, we're still young, Darien. So what's money anyway when everybody's making it, it's all relative. After all, this is not the house in Connecticut, this is just a crash pad good for a couple of years...before we slip our two lovely kids, Yuppie and Fruppie into the Lycee Francaise."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "You got it all charted out don't you, like a stock projection."
+      },
+      {
+        "speaker": "BUD",
+        "text": "That's right -- one with high yield, rich assets and no downside..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81172",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "Do you think you're ready?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "It's not me I'm worried about...You know Darien, the only reason we haven't slept together is because we both know we will -- and not knowing when was the only surprise left. You owe me, I want you, what else is there...but you, me, the world.  ...right here...make love to me...now...  Stop me if I'm going too far."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "I'll let you know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81173",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Bud, I hate to tell you this but you're a genius!  Darien...lightning has struck! The lightbulb has been invented. Edison, Da Vinci, Einstein are watching..."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "...are you going to trade all night again? You got to go to work in a couple of hours."
+      },
+      {
+        "speaker": "BUD",
+        "text": "You think I'm gonna broker the rest of my life... I'm going to be a giant, Darien, an entrepreneur in the Italian 15th century sense of the word -- a mover, shaker."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81174",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "I love you, baby. Did I tell you that sometime in the last 24 hours?"
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Get in bed. Y'ever hear of the sixty hour work week? You're turning into a yuppie Frankenstein, you love money so much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81175",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Sure, why not, money's the sex of the 80's. I never had it like you when I was growing up, baby, it wasn't the upper east side."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "You're so naive Bud, you don't even know. Your dad took care of you. I might've been rich when I was a kid...but my father lost all his money...in the seventies, in the stock market, at the track. He was a lousy gambler..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "...that changes all my plans, I thought you were loaded..."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "So did I, till I hit 19 and found I had all the royal habits and no throne. Mom got by but I had to go to work just like you. Only the skills I had were shopping and making friends. So...that's why I do what I do, what makes you tick, Buddy?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Fear. The fear of being poor I guess, just like you, Darien... But that's all gonna change sweetheart. I'm catching the express...  ... and you're going along for the ride."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81176",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "I'm sorry. I was afraid something like this could happen."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Talk about being bent over the sink of life and being dry humped. I handed it to him on a silver platter. I told my father and those people..."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Buddy, it's not your fault, and it's not your decision."
+      },
+      {
+        "speaker": "BUD",
+        "text": "I'm not gonna let it happen Darien."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81177",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "Don't cross Gordon. He'll crush you. You've worked hard to get where you are. If Gordon doesn't buy Bluestar someone else will; and who's to say they won't do the same thing."
+      },
+      {
+        "speaker": "BUD",
+        "text": "At least I wouldn't be pulling the trigger."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81178",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "Are you mad! Why are you doing this! We're so close, the town is going to be ours. Don't throw away your future Bud!"
+      },
+      {
+        "speaker": "BUD",
+        "text": "I can stay with the brokerage firm. And you're doing fine. We can survive without Gordon Gekko."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "I'm not looking to just survive. I've been doing that all my life."
+      },
+      {
+        "speaker": "BUD",
+        "text": "What the hell's that supposed to mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81179",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "You really mean that?  What'd he promise you? To take you public? I guess without Gordon's money and seal of approval, I'm not such a hot investment anymore. You're just the best money can buy, Darien..."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "You're not exactly pure Bud, you went after Gekko with the same vengeance you went after me. Look in the mirror before..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "I'm looking...and I sure don't like what I see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81180",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "You may not believe this Bud but I really do care for you. I think we could've made a good team...but that's how it goes..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Get the hell out!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81181",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "Hi."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Why?"
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "I figure a guy who's made some mistakes should be able to understand a girl who's made some of her own..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81182",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "CAROLYN",
+        "text": "How you doing Buddy?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "Great Carolyn, doing any better would be a sin..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81183",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "CAROLYN",
+        "text": "Morning Buddy, you look happy."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Any better and I'd be guilty."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "You were never that innocent sugarpie."
+      },
+      {
+        "speaker": "BUD",
+        "text": "...how do you know? You wish..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81184",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "CAROLYN",
+        "text": "Bud! Where you been the last two days?"
+      },
+      {
+        "speaker": "BUD",
+        "text": "...Janet get my father on the phone and the two other union reps, urgent..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81185",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "CAROLYN",
+        "text": "He had a heart attack, hon, but he's okay, he's at the hospital..."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Oh Christ!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81186",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "You got a look in your eye, Mr. Mannheim... You got something for the small fry..."
+      },
+      {
+        "speaker": "MANNHEIM",
+        "text": "Jesus, can't make a buck in this market, country's going to hell faster than when that sonofabitch Roosevelt was around... too much cheap money sloshing around the world. The biggest mistake we ever made was letting Nixon get off the gold standard. Putney Drug--you boys might want to have a look at it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81187",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Sleep with me and the secrets of the West are yours."
+      },
+      {
+        "speaker": "MANNHEIM",
+        "text": "Now that's a crap company, sure you'll make money on the takeover rumor, but what's being created. Nothing. No substance behind it."
+      },
+      {
+        "speaker": "BUD",
+        "text": "Old values. Buy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81188",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "BUD",
+        "text": "Mr. Mannheim, got a sure thing.  Anacott Steel."
+      },
+      {
+        "speaker": "MANNHEIM",
+        "text": "No such thing Bud - 'cept death and taxes. Not a good company anymore, no fundamentals. What's going on Bud? Do you know something?  Remember there're no short cuts son, quick buck artists come and go with every bull market but the steady players make it through the bear markets.  You're part of something here, Bud. The money you make for people creates science and research jobs. Don't sell that out."
+      },
+      {
+        "speaker": "BUD",
+        "text": "You're right, Mr. Mannheim, but you gotta get to the big time first, then you can be a pillar and do good things."
+      },
+      {
+        "speaker": "MANNHEIM",
+        "text": "Can't get a little bit pregnant, Bud."
+      },
+      {
+        "speaker": "BUD",
+        "text": "It's a winner Mr. Mannheim, trust me -- buy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81189",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "MANNHEIM",
+        "text": "You're on a roll kiddo. Enjoy it while it lasts -- 'cause it never does."
+      },
+      {
+        "speaker": "BUD",
+        "text": "...just kickin' ass and taking names, Mr. Mannheim."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81190",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "CARL",
+        "text": "I thought this was an informal meeting. What's he doing here?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Harold, you don't mind strolling around the block a couple hundred times, do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81191",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Frankly, Carl, I can't see giving much more. If you have any suggestions I'll be glad to listen."
+      },
+      {
+        "speaker": "CARL",
+        "text": "There came into Egypt a Pharoah who did not know."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "I beg your pardon. Is that a proverb?"
+      },
+      {
+        "speaker": "CARL",
+        "text": "No, it's a prophecy. The rich have been doing it to the poor since the beginning of time. The only difference between the Pyramids and the Empire State Building is that the Egyptians didn't have unions.  I know what this guy is about-- greed--he's in and out for the buck and he don't take prisoners. He don't give a damn about Northstar or us ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81192",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Fine, if you don't want us, stay with the scum in present management--dedicated to running you and Bluestar into the ground."
+      },
+      {
+        "speaker": "CARL",
+        "text": "...that \"scum\" built this company up from one plane in thirty years, they made something out of nothing, and if that's a scum I'll take one over a rat any day..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81193",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "What do you say we go get a suite at the Carlyle? Caviar? Champagne? Celebrate, just like the old times Sunshine."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Those days are over, Gordon. They were over a long time ago."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Can't blame me for trying. You look as beautiful as that painting I just bought."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81194",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "So what's the problem Sunshine? You look like Black Thursday. Bad case of puppy love?"
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "It's not puppy love, Gordon. Anyway, Buddy and I are splitting up."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Sorry to hear that. I thought the kid had staying power."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "It's over you, Gordon."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "You told him about us?"
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "No, are you crazy? And I don't want him ever to know. Do you understand?..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81195",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "DARIEN",
+        "text": "I want to ask you a big favor, Gordon. Please drop the Bluestar deal."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Now tell me, why would I want to do that?"
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Because I don't want to see him hurt."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Don't worry Sunshine. Bud and I had a little talk. We came to an understanding.  I want you to go back to him. Soothe him. Help keep his head straight. Okay?"
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "I can't...and I won't."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Come on, we both like Buddy. But this bleeding heart puppy love act is over the top... It doesn't fit."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "Maybe it does. Don't patronize me Gordon."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "You and I are the same, Darien. We're smart enough not to buy into the oldest myth running: love... A fiction created by people who got nothing to keep them from jumping out of windows."
+      },
+      {
+        "speaker": "DARIEN",
+        "text": "You're really twisted, Gordon. You're incapable of giving to anybody because deep down inside you there's a poverty that every last dollar in the world won't fill."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Ooh ooh, tough talk from a scared little girl all wrapped in a pretty grown-up package. Does this mean you're ready to cut the umbilical cord and step out into the world on your own? Because, Darien, if you're through with me, you're through with everything I'm a part of."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81196",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Yeah, Billy, who's your buyer?... No, not interested.  Ollie, start calling a the institutions, start with Marx at Janson Mutual, then Reardon. Get me that California retirement money, baby! And we're on our way!"
+      },
+      {
+        "speaker": "OLLIE",
+        "text": "You got it, G.G."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81197",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "He respond to the offer? What? What the hell's Cromwell doing giving lecture tours when his company's losing 60 million a quarter? I guess he's giving lectures on how to lose money...if this guy opened a funeral parlor, no one would die, this turkey's totally brain dead...Well Christmas is over and business is business.  Keep buying. Dilute the sonofabitch. Ollie I want every orifice in his body flowing red."
+      },
+      {
+        "speaker": "OLLIE",
+        "text": "He's flowing, Gordo. Piece of cake."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81198",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "OLLIE",
+        "text": "... just got 250,000 shares at 18 1/4 from Janson, think I'll pull twice that at 18 1/2 outta the California pensions. We got close to half a million shares in the bag."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Hey, the Terminator! Blow 'em away Ollie."
+      },
+      {
+        "speaker": "OLLIE",
+        "text": "And, I'm pretty sure we got the Beezer Brothers out of Tulsa coming in with us and I'm working on the Silverberg boys in Canada."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Rip their throats out and put them in your garbage compactor.  Interesting. You got a card?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81199",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Rarest pistol in the world, Larry, a .45 Luger. Only six were ever manufactured."
+      },
+      {
+        "speaker": "WILDMAN",
+        "text": "Congratulations but rarer still is your interest in Anacott Steel."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "The same interest as yours Larry. Money. I thought it'd be a good investment for my kid..."
+      },
+      {
+        "speaker": "WILDMAN",
+        "text": "No. This time I'm in for the long term. This is not a liquidation, Gordon. I'm going to turn it around. You're getting a free ride on my tail, mate, and with the dollars you're costing me to buy back the stock, I could modernize the plant. I'm not the only one who pays here Gordon. We're talking about lives and jobs; three and four generations of steel workers..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81200",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "You must be wearing a mask you're laughing so hard behind it Larry. Let's cut the \"sir\" crap. Correct me if I'm wrong, but when you took CNX Electronics, you laid off 8,000 workers, Jessmon Fruit about 6,000, that airline..."
+      },
+      {
+        "speaker": "WILDMAN",
+        "text": "I could break you, mate, in two pieces over my knees, you know it, I know it, I could buy you six times ever, I could dump the stock just to burn your ass but I happen to want the company and I want your block of shares. I'm announcing a tender offer at 65 tomorrow, and I'm expecting your commitment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81201",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Considering you brought my mother into it, $71.50."
+      },
+      {
+        "speaker": "WILDMAN",
+        "text": "Done. You'll hear from my lawyers. 8 a.m. Good night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81202",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "WILMORE",
+        "text": "With all due respect, Mr. Gekko, what's to prevent you from doing the same thing?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "Cause I have a way around all this, a way we can all make money and make this airline profitable again. What do you say we cut to the chase. I'm asking for a modest twenty percent across-the-board wage cut."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81203",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "WILMORE",
+        "text": "Are you prepared to put that in writing?"
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "I'll have a letter of agreement drawn up within two days."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81204",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Cards are on the table. What do you think?"
+      },
+      {
+        "speaker": "WILMORE",
+        "text": "If you mean what you say, I think we're in the ball park. I'll take it to my people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81205",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "WILMORE",
+        "text": "We know what you're up to, Gekko, and let me tell you this from here,  you suck eggs, mister, over my dead body you ain't gonna break up Bluestar."
+      },
+      {
+        "speaker": "GEKKO",
+        "text": "You guys must know something nobody else knows. If those are my plans, it's the first I've heard of it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81206",
+    "movie_id": "m599",
+    "turns": [
+      {
+        "speaker": "GEKKO",
+        "text": "Listen, you clowns, there's somebody else out there trying to buy your airline, if you want to be Pac-manned and gobbled by Atilla the Hun be my guest!"
+      },
+      {
+        "speaker": "WILMORE",
+        "text": "We'll take our chances.  Nice to see you again, Mr. Gekko."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81207",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "I saw the greatest movie with mark last night"
+      },
+      {
+        "speaker": "CHINA",
+        "text": "With Mark?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "He still likes you"
+      },
+      {
+        "speaker": "CHINA",
+        "text": "Oh I don't give a shit the guy's a slob.  He doesn't even know how to spell  `lady' let alone treat me like one.  You know the last time we went out he  actually made me pay for a drink?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "He did?"
+      },
+      {
+        "speaker": "CHINA",
+        "text": "Yes, I'm sure.  What I need is an older man, something with class, a  little style. Someone who knows how to treat a lady."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Businessman?"
+      },
+      {
+        "speaker": "CHINA",
+        "text": "Businessman!"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Doctor? Lawyer? CHINA Lawyer, Doctor, I don't care."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Yeah, yeah, OK"
+      },
+      {
+        "speaker": "CHINA",
+        "text": "Yeah"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "So why are you dating Jonathan?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81208",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "But?"
+      },
+      {
+        "speaker": "CHINA",
+        "text": "But he still has something Mark hasn't."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "CHINA",
+        "text": "A body.  I mean we're talking major body"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81209",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "CHINA",
+        "text": "Well that's for me to know - but I did enjoy rubbing oil all over that big."
+      },
+      {
+        "speaker": "MARK",
+        "text": "Just give it a break China ok? CHINA Jeez.  Can't even take a joke"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81210",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "MARK",
+        "text": "Anybody want another drink?"
+      },
+      {
+        "speaker": "CHINA",
+        "text": "It's eleven forty-five let's go"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81211",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "MARK",
+        "text": "We need to talk. CHINA Yeah about what?"
+      },
+      {
+        "speaker": "MARK",
+        "text": "About what?  About us."
+      },
+      {
+        "speaker": "CHINA",
+        "text": "Us is over.  You had your chance you blew it."
+      },
+      {
+        "speaker": "MARK",
+        "text": "Right. CHINA I need a taking care of,  not `hey how bout a pizza after class babe'.  I'm looking  for something just a little more in a man.  A little `je nes se qua'."
+      },
+      {
+        "speaker": "MARK",
+        "text": "A little what? CHINA See.  You don't even speak French."
+      },
+      {
+        "speaker": "MARK",
+        "text": "I'm sorry I'm not that good at languages ok?"
+      },
+      {
+        "speaker": "CHINA",
+        "text": "Yeah well why should I suffer for that?"
+      },
+      {
+        "speaker": "MARK",
+        "text": "Suffer?  We're living in America."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81212",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "CHINA",
+        "text": "Well if you're in such a rush darling, why don't you lead the way?"
+      },
+      {
+        "speaker": "MARK",
+        "text": "Ok toots, I will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81213",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "CHINA",
+        "text": "Oh Mark.  It's ok.  It's ok."
+      },
+      {
+        "speaker": "MARK",
+        "text": "China.  What happened? CHINA Shhh.  It's ok.  I missed you so much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81214",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "INSPECTOR ROBERTS",
+        "text": "Weird and tiny huh?"
+      },
+      {
+        "speaker": "MR LINCOLN",
+        "text": "Hi"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81215",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "MR LINCOLN",
+        "text": "Yes, it's always been one of my favorites too."
+      },
+      {
+        "speaker": "INSPECTOR ROBERTS",
+        "text": "Hmm."
+      },
+      {
+        "speaker": "MR LINCOLN",
+        "text": "Would you like a closer look?"
+      },
+      {
+        "speaker": "INSPECTOR ROBERTS",
+        "text": "It's all rather morbid though isn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81216",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "INSPECTOR ROBERTS",
+        "text": "Yes, I guess you're right"
+      },
+      {
+        "speaker": "MR LINCOLN",
+        "text": "Are you sure you wouldn't like a closer look?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81217",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "JENKINS",
+        "text": "Your books Master Loftmore"
+      },
+      {
+        "speaker": "MARK",
+        "text": "Thank you Jenkins"
+      },
+      {
+        "speaker": "JENKINS",
+        "text": "And your coff - excuse me, caffeine sir"
+      },
+      {
+        "speaker": "MARK",
+        "text": "Thank you"
+      },
+      {
+        "speaker": "JENKINS",
+        "text": "And uh, your nicotine sir"
+      },
+      {
+        "speaker": "MARK",
+        "text": "Thank you"
+      },
+      {
+        "speaker": "JENKINS",
+        "text": "Allow me sir"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_81218",
+    "movie_id": "m600",
+    "turns": [
+      {
+        "speaker": "JENKINS",
+        "text": "Will you be wanting your wheels today sir?"
+      },
+      {
+        "speaker": "MARK",
+        "text": "Uh, not today Jenkins, I need the fresh air"
+      },
+      {
+        "speaker": "JENKINS",
+        "text": "Have a nice day  sir"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2002 @@
+[
+  {
+    "conversation_id": "conv_4401",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "OLIVER",
+        "text": "You and Charlie are taking the Jap home, tonight."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What...?  What if I say no?"
+      },
+      {
+        "speaker": "OLIVER",
+        "text": "Check your gun before you leave. They're not allowed in Japan.  It's a nice, safe country."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Why me?"
+      },
+      {
+        "speaker": "OLIVER",
+        "text": "They said send a detective if I could spare one.  I can always spare you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4402",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "OLIVER",
+        "text": "It's not your job."
+      },
+      {
+        "speaker": "NICK",
+        "text": "He was my partner."
+      },
+      {
+        "speaker": "OLIVER",
+        "text": "They're blaming it on you.  Christ, Conklin, you didn't even tell me you lost the prisoner!"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I planned on catching him, Captain."
+      },
+      {
+        "speaker": "OLIVER",
+        "text": "How?  You don't know the place.  You don't know the language.  Get on the plane."
+      },
+      {
+        "speaker": "NICK",
+        "text": "He killed a police officer."
+      },
+      {
+        "speaker": "OLIVER",
+        "text": "Your plane's at nine a.m.  Be on it. That's orders.  Period."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4403",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "OLIVER",
+        "text": "... Remember, counterfeiting is the Feds.  They'll be all over Abolofia's place.  Stick tight. You I.D. the other plate, he does real time."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4404",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "OHASHI",
+        "text": "You lost a man we wanted for some time.  It was very incompetent on your part, officer."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Incompetent is letting people waltz through a secure area wearing your uniforms, carrying official documents."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4405",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I want a gun."
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "It is not allowed."
+      },
+      {
+        "speaker": "NICK",
+        "text": "We're police officers."
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "You're foreigners."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Work with me.  I want your best detective."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4406",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Hey, inspector, I don't intend to take the rap for this."
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "Do you know what this is?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4407",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Could you fill me in?"
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "Why don't you ask your chief detective?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4408",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Because I want you to tell me."
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "The young are eating the old, something that usually doesn't happen here."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Can we skip the poetry, inspector?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4409",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "What's this?"
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "Your visa has expired.  Be on a plane in twenty-four hours or you will be deported."
+      },
+      {
+        "speaker": "NICK",
+        "text": "While you were hanging out at the visa office, we found the son-of-a- bitch."
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "Look."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4410",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Hey...!  HEY, I'M TALKING TO YOU, INSPECTOR!"
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "Twenty-four hours, detective."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4411",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "OHASHI",
+        "text": "Your plane leaves at six.  Two officers will escort you."
+      },
+      {
+        "speaker": "NICK",
+        "text": "For God's sake, Ohashi, I need your help.  Let me out of here!"
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "You had my help, detective."
+      },
+      {
+        "speaker": "NICK",
+        "text": "If anything happens to her while I'm here --"
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "-- Do you know where she is, detective?  Do you know how to find her?  Even where to start?  We will find them."
+      },
+      {
+        "speaker": "NICK",
+        "text": "I have to get to Sugai."
+      },
+      {
+        "speaker": "OHASHI",
+        "text": "Goodbye, officer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4412",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "SUGAI",
+        "text": "Seven years work by the finest engraver.  Mass produced, sequentially numbered.  The best there has ever been, Mr. Conklin."
+      },
+      {
+        "speaker": "NICK",
+        "text": "I'm impressed.  But let's use the short form.  I'm looking for --"
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "-- Kobo... I know.  He killed two of my partners.  One in New York, one at the printing plant."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4413",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "SUGAI",
+        "text": "I took Kobo from the street.  I gave him a home, a future... But my ways were too slow for him... I served seven years in prison for my boss when I was a young man.  Kobo wouldn't serve seven minutes for his Oyabun.  He was supposed to take over this syndicate when I retired."
+      },
+      {
+        "speaker": "NICK",
+        "text": "I want him."
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "He'll be dealt with."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4414",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "SUGAI",
+        "text": "Our associates in New York were close to closing a deal with us."
+      },
+      {
+        "speaker": "NICK",
+        "text": "The families who control the casinos?"
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "Yes.  Unlike our syndicates, your criminals don't understand the words 'honor' and 'duty'... We can't afford not to deal with them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4415",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "SUGAI",
+        "text": "Imagine if your families could pay their gambling and drug debts with perfect counterfeit bought for cents on the dollar."
+      },
+      {
+        "speaker": "NICK",
+        "text": "The Feds would be onto you in a month."
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "Not with these bills.  And even if it only took them six months, do you know what our profit margin would be?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4416",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Why tell me this?"
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "The other plate is currently in New York, in the hands of Kobo's man. Find it for me."
+      },
+      {
+        "speaker": "NICK",
+        "text": "You trust me?"
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "I'll pay you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4417",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "With these?"
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "Swiss bank deposit.  Gold bullion. Whatever you want.  You know the city and the police."
+      },
+      {
+        "speaker": "NICK",
+        "text": "If I say no?"
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "You're smarter than Kobo.  You know the price of deceit.  Think about it."
+      },
+      {
+        "speaker": "NICK",
+        "text": "I don't have to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4418",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Good."
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "He'll find out you took me.  I'm unprotected.  He'll kill us.  All of us.  You don't stand a chance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4419",
+    "movie_id": "m33",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "That wasn't our deal."
+      },
+      {
+        "speaker": "SUGAI",
+        "text": "You want him dead too."
+      },
+      {
+        "speaker": "NICK",
+        "text": "After a court convicts him.  He belongs to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4420",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "Can't thank you enough, Mr. Sebastian. If you hadn't come along..."
+      },
+      {
+        "speaker": "MARY",
+        "text": "We were worried to death.  It's awfully kind of you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4421",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "We're not used to the big city. Where we come from it's not so easy to get lost."
+      },
+      {
+        "speaker": "MARY",
+        "text": "You certainly have a nice place here."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Well stocked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4422",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "He knows what he's doing."
+      },
+      {
+        "speaker": "MARY",
+        "text": "If he won't cooperate?"
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Mr. Sebastian is a host who wants to be appreciated.  We'll appreciate him and he'll cooperate."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4423",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "I'm sure glad you found us, Sebastian.  What do you think, Mary?"
+      },
+      {
+        "speaker": "MARY",
+        "text": "I don't think there is another human being in this whole world who would have helped us."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Pris?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4424",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "Let's go while there is still time."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Where?"
+      },
+      {
+        "speaker": "MARY",
+        "text": "Anywhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4425",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "What's the point?"
+      },
+      {
+        "speaker": "MARY",
+        "text": "Not to be trapped."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "You underestimate the trap, Mary."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4426",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "One man.  He must be good."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Then go get him."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "That wouldn't be very sporting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4427",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "The name is Batty.  Roy Batty."
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "Oh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4428",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "Yeah.  It might be better if we talk in private, Sebastian.  Why don't you go home."
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "Here's your check, my boy.  Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4429",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "TYRELL",
+        "text": "I'm surprised you didn't come to me sooner."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "It's not an easy thing to meet your maker."
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "And what can he do for you?"
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Can the maker repair what he makes?"
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "Would you like to be modified?"
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Had in mind something a little more radical."
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "What's the problem?"
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Death."
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "I'm afraid that's a little out of my..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4430",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "I want more life, fucker."
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "Come here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4431",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "TYRELL",
+        "text": "The facts of life.  I'll be blunt. To make an alteration in the evolvement of an organic life system, at least by men, makers or not, it fatal.  A coding sequence can't be revised once it's established."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Why?"
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "Because by the second day of incubation any cells that have undergone reversion mutation give rise to revertant colonies -- like rats leaving a sinking ship.  The ship sinks."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "What about E.M.S. recombination?"
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "We've already tried it -- ethyl methane sulfonate is an alkylating agent and a potent mutagen -- it creates a virus so lethal the subject was destroyed before we left the table."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4432",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "Then a repressor protein that blocks the operating cells."
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "Wouldn't obstruct replication, but it does give rise to an error in replication, so that the newly formed DNA strand carries a mutation and you're got a virus again... but all this is academic -- you are made as good as we could make you."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "But not to last."
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "Put it this way.  Rolls Royces are made to last -- as least they were. But I'm afraid you're a Ferrari. A high strung racing car -- built to win, not to last."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4433",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "TYRELL",
+        "text": "Also you're too valuable to experiment with."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "I am?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4434",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "I've done some questionable things."
+      },
+      {
+        "speaker": "TYRELL",
+        "text": "Also extraordinary things."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Nothing the God of biomechanics wouldn't let you in heaven for."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4435",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "I like a man who stays put.  An admirable thing to be able to sustain yourself in these times. You live here all by yourself, do you?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Well, no, not really.  There's Mr. Deetchum, he's the watchman, he lives on the first floor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4436",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "SEBASTIAN",
+        "text": "How about breakfast, I was just going to make some."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "If it wouldn't be too much of a bother... a little bite to eat would be..."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Oh, no bother, I'd be glad to."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Well, actually"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4437",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "Why are you staring at us?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "You're just all so... so different."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4438",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "What, Sebastian?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "You're androids."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4439",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "SEBASTIAN",
+        "text": "What generation are you?"
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Nexus - 6."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4440",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Show me something?"
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Like..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4441",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "We have a lot in common."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "You mean that you can't come here and I can't go there?"
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Not only that, but we have smiliar problems.  Accelerated decrepitude. But we don't want to die quite yet."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Of course not."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "You could help us."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "I don't know much about biomechanics, Roy.  I wish I did, but you're out of my league."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "If we don't find help soon, Pris hasn't got long to live."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4442",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "What about your friend, the man who owns this building?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Dr. Tyrell?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4443",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "SEBASTIAN",
+        "text": "He's not really my friend.  I just do a job for him now and then."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Tyrell could help us, Sebastian."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "He could?"
+      },
+      {
+        "speaker": "BATTY",
+        "text": "His company made us."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "I'd be happy to mention it to him."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Be better if I could talk to him in person.  But he's not an easy man to get to."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "No."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "When do you deliver your project?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "This afternoon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4444",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "You're our best and only friend."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4445",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "Where are you going, Sebastian?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Just thought I'd..."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "No, you stay here with us.  Out last night together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4446",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BATTY",
+        "text": "What's going on down there?"
+      },
+      {
+        "speaker": "PRIS",
+        "text": "He's not ready yet."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "When?"
+      },
+      {
+        "speaker": "PRIS",
+        "text": "Tomorrow, he says."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4447",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "PRIS",
+        "text": "This is my Uncle Roy, Sebastian."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Hello, glad to meet you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4448",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "PRIS",
+        "text": "Then we're stupid and we'll die."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Not if everybody is doing their job here at home.  How are things at home?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4449",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "PRIS",
+        "text": "I think, therefore I am."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Very good, Pris.  Now show him why."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4450",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "PRIS",
+        "text": "I want to do it."
+      },
+      {
+        "speaker": "BATTY",
+        "text": "Okay, but don't kill him.  Save a little for everybody.  A masterpiece."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4451",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Six, huh?"
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "Five.  Three nights ago one of them managed to break into the Tyrell Corporation.  Killed two guards and got as far as the Genetic Sector before he got fried going through an electro- field."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "What was he after?"
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "There wasn't much left of him, so we can't be sure.  But bio- chemical data and morphology records of the Nexus-6 were reported missing.  Going on the possibility they might try to infiltrate we send Holden in to run Voight-Kampff tests on the new employees.  Guess he found himself one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4452",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "You got a machine on it yet?"
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "We're using Esper -- a 231 -- that picked up Holden's alarm.  Its guess is that all five are in the city."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Where do we start?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4453",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BRYANT",
+        "text": "The Tyrell Corporation has a demo model.  Check it out on the Voight-Kampff.  There's a chance the Nexus-6 is beyond out ability to detect.  If that's the case, everybody's up shit creek."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "What was the cover on the one that got Holden?"
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "Industrial refuse."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Garbage man?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4454",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "Bryant here.  Regarding the rundown you requested on job applicants, Esper's concluded that the only irregular category that Tyrell's got is the entertainment section.  You better get on it."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I was just about to have my dinner."
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "If you hurry you'll get back before it gets cold.  I got a spinner on your roof in five minutes.  Good luck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4455",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "She was gonna get away."
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "Then let her get away.  I thought you were a pro -- you're supposed to be a fuckin' tracker!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4456",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "I didn't like her."
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "You didn't like her!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4457",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BRYANT",
+        "text": "Look, go home.  Get some rest. Take an aspirin."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4458",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "This is Bryant.  Are you alone?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "She's not with you?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Who."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4459",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BRYANT",
+        "text": "Take a number.  Canapt 1700, tenth floor, Villa Vita District, Olympia South."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Got it."
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "Okay, here it is.  Eldon Tyrell, his family and half his staff were just massacred.  The cat is about to get out of the bag.  Pressure is definitely on.  The Nexus program is terminated.  When you finish there, locate Nexus designated Rachael and retire."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4460",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "BRYANT",
+        "text": "If you don't, we will.  It has to be total, Deckard.  That's an order from as high as it comes.  Got it?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Yeah.  I got it."
+      },
+      {
+        "speaker": "BRYANT",
+        "text": "Go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4461",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "SEBASTIAN",
+        "text": "It's gotta be right for my customer."
+      },
+      {
+        "speaker": "CHEW",
+        "text": "Your customer, eh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4462",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "CHEW",
+        "text": "Well, when do you get paid?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Soon as I finish the job."
+      },
+      {
+        "speaker": "CHEW",
+        "text": "When might that be?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Day after tomorrow."
+      },
+      {
+        "speaker": "CHEW",
+        "text": "Oh!  Day after tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4463",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Machines can be helpful sometimes, but they can also be a pain in the ass.  Ask for a trace on a forger and you might wind up at a steel- mill.  I don't mind a bum-steer once in a while -- it's their personalities that usually get me.  Somebody once said that man makes machines in his own image.  If that's true, whoever made Esper should have been shot."
+      },
+      {
+        "speaker": "ESPER",
+        "text": "This is Esper and I'm ready.  Go ahead please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4464",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "You equipped for random questions?"
+      },
+      {
+        "speaker": "ESPER",
+        "text": "Why, yes, of course."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "You start."
+      },
+      {
+        "speaker": "ESPER",
+        "text": "The five in question are third generation Nexus Sixes, constructed of skin-flesh culture, selected enogenic transfer conversion capable of self-perpetuating thought, para-physical abilities and developed for emigration program.  Are you with me?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "How do I stop one?"
+      },
+      {
+        "speaker": "ESPER",
+        "text": "Unlike a five, they can sustain massive traumas to several parts of the body without debilitating another.  Sever a leg and it will perform quicker on the remaining leg than the fastest man can run,"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Okay, but..."
+      },
+      {
+        "speaker": "ESPER",
+        "text": "I'm coming to that.  Vulnerable zone is the base of the skull, the occipital bone.  A direct hit is a positive retirement."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4465",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "ESPER",
+        "text": "Here's something you might find interesting.  They have been built to emulate the human in every way except in its emotional spectrum. However, after a period of time it is only logical that such a 'mechanism' would create its own emotional responses, hate, love, fear, anger, envy."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I know all that."
+      },
+      {
+        "speaker": "ESPER",
+        "text": "What about a summary then."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I think we're through for the night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4466",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "ESPER",
+        "text": "Do you have something against science?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Not if it works."
+      },
+      {
+        "speaker": "ESPER",
+        "text": "And what in your estimation works?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "The umbrella."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4467",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "ESPER",
+        "text": "Four years.  Which would make her termination date..."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Never mind.  Do they have that knowledge?"
+      },
+      {
+        "speaker": "ESPER",
+        "text": "Longevity is classified.  No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4468",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Okay, gimme a run-down on the three females."
+      },
+      {
+        "speaker": "ESPER",
+        "text": "Nexus designated Mary:  incept November 1 2017, domestic conditioning non competitive, trained for day care position."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Next."
+      },
+      {
+        "speaker": "ESPER",
+        "text": "Nexus designated Pris:  incept data December 13 2017, competitive, programmed to provide pleasure for long term spacers."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Number three."
+      },
+      {
+        "speaker": "ESPER",
+        "text": "Nexus designated Zhora:  incept June 13th 2017, athletic conditioning, highly competitive, special abilities in the entertainment field."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4469",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "I think I have no money."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "It's okay.  Forget it."
+      },
+      {
+        "speaker": "LEON",
+        "text": "But I would like to buy you drink."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I'll but you one.  What'll you have?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Vodka!"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Shot of vodka, please."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Thank you very much."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "My pleasure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4470",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "Prosit."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Prosit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4471",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "You want to see my friends?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Sorry, don't have the time."
+      },
+      {
+        "speaker": "LEON",
+        "text": "No problem."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4472",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Those cockroaches?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Ya."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4473",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "How long you had these guys?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Two months.  But this one is not guy.  It is girl.  His girl."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4474",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "Prosit."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Prosit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4475",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "You like to kiss her goodbye."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "No thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4476",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "I like you."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I like you too."
+      },
+      {
+        "speaker": "LEON",
+        "text": "One more, eh?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I gotta piss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4477",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "How old am I?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4478",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "My birthday is April 10, 2015. How long do I live?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Four years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4479",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "HOLDEN",
+        "text": "I'm great.  I mean, I know I'm not really great, but I feel just great.  How you like my new suit?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Well, you don't have to worry about getting it wrinkled."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4480",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "HOLDEN",
+        "text": "Don't make me laugh.  It makes me pee."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Sorry."
+      },
+      {
+        "speaker": "HOLDEN",
+        "text": "Hey, it's okay.  I like to pee. So how are you doing?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I'm doing okay."
+      },
+      {
+        "speaker": "HOLDEN",
+        "text": "From what I hear you're doing great.  Bryant tells me you're going like a god damn one-man army.  Making a lot of money, huh?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Yeah.  But that's what I wanted to talk to you about."
+      },
+      {
+        "speaker": "HOLDEN",
+        "text": "Money?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "No.  I got a problem."
+      },
+      {
+        "speaker": "HOLDEN",
+        "text": "Let's hear it."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I think I'm starting to empathize with these Nexus-sixes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4481",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "HOLDEN",
+        "text": "I'm taking a piss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4482",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "HOLDEN",
+        "text": "Love is just another name for sex. Love is sexy and sex is lovely -- I don't care what you call it, an android can't have it."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "These aren't just..."
+      },
+      {
+        "speaker": "HOLDEN",
+        "text": "I know what they are, Deck -- Look, maybe they can pretend to feel, but far as the raw, hot emotions of the old heart -- no way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4483",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "WHEELER",
+        "text": "Nerves of steel."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "No rust?"
+      },
+      {
+        "speaker": "WHEELER",
+        "text": "I didn't say that.  Your motivity rate checked out a little slower than last time."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Meaning?"
+      },
+      {
+        "speaker": "WHEELER",
+        "text": "Meaning you don't run as fast as you used to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4484",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "WHEELER",
+        "text": "During the road test..."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "WHEELER",
+        "text": "Your mind kept wandering.  That bothered me."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Huh huh."
+      },
+      {
+        "speaker": "WHEELER",
+        "text": "Considering the nature of your work, that could be unhealthy."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "True."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4485",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "WHEELER",
+        "text": "But you haven't put in for emigration."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Nope."
+      },
+      {
+        "speaker": "WHEELER",
+        "text": "You're going to be over the limit."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Listen, I could make you a long list of complaints about this fucken city but I still rather be here than up there."
+      },
+      {
+        "speaker": "WHEELER",
+        "text": "What if you change your mind?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "They'll change the limit before I change my mind."
+      },
+      {
+        "speaker": "WHEELER",
+        "text": "You sure?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Never been more sure of anything in my life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4486",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Why didn't you go?"
+      },
+      {
+        "speaker": "WHEELER",
+        "text": "Too old."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "But if you could?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4487",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "WHEELER",
+        "text": "My job is here."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Me too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4488",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Taffey Lewis?"
+      },
+      {
+        "speaker": "TAFFEY",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Can I come in?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4489",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "I'd like  you to take a look at these pictures."
+      },
+      {
+        "speaker": "TAFFEY",
+        "text": "Of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4490",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "TAFFEY",
+        "text": "You see I lost my contacts a couple of days ago around here somewhere and my sight is a little... What am I supposed to be looking for?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Do you recognize any of them?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4491",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "TAFFEY",
+        "text": "This one looks familiar, but I don't know.  Naw.  There's one came in today looks a little like this one but..."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "What did she want?"
+      },
+      {
+        "speaker": "TAFFEY",
+        "text": "Who?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "The girl that doesn't look like that girl."
+      },
+      {
+        "speaker": "TAFFEY",
+        "text": "Nothing.  She wanted to know about suck night."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "What night?"
+      },
+      {
+        "speaker": "TAFFEY",
+        "text": "I didn't know if I wanted to handle her -- I already got a snake act.  But my partner goes down there to the Opera House on suck night to book the good ones."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "What's suck night?"
+      },
+      {
+        "speaker": "TAFFEY",
+        "text": "That's what we call in the trade, audition free-for- alls and most of it sucks. Bit I don't think that's her."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "You talking about the Opera House on the Main?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4492",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Book the good ones for where?"
+      },
+      {
+        "speaker": "TAFFEY",
+        "text": "Lots of places.  The tours, the clubs, the Silicone shows, private parties."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "What shows?"
+      },
+      {
+        "speaker": "TAFFEY",
+        "text": "Silicone Valley.  Lots of these science guys never leave that place.  We book two shows a month in there. Those big time techs and bio- guys might be real high zoners up here, but when it comes to the arts, they like it loud and lewd."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4493",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "SALOME",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "I'm with the American Federation of Variety Artists..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4494",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "There's been reports of management sexually abusing the artists in this place."
+      },
+      {
+        "speaker": "SALOME",
+        "text": "I don't know nothing about it."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "You haven't felt yourself to be exploited by the management in any way?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4495",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "SALOME",
+        "text": "How do you mean 'exploited'?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Like to get this position.  Did you or were you asked to do anything lewd or unsavory or otherwise repulsive to your person?"
+      },
+      {
+        "speaker": "SALOME",
+        "text": "Are you for real?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Oh, yeah. You'd be surprised what goes on around here.  I'd like to check the dressing room if I could."
+      },
+      {
+        "speaker": "SALOME",
+        "text": "What the fuck for?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "For holes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4496",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "It that mother real?"
+      },
+      {
+        "speaker": "SALOME",
+        "text": "Of course he's not real.  You think I'd be working here if I could afford a real snake?"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "It's a good job."
+      },
+      {
+        "speaker": "SALOME",
+        "text": "You mean the snake."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4497",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "SALOME",
+        "text": "The best."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Does it eat?"
+      },
+      {
+        "speaker": "SALOME",
+        "text": "Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4498",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "SALOME",
+        "text": "Jeezus!"
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Sorry."
+      },
+      {
+        "speaker": "SALOME",
+        "text": "Hey!  Do your job but don't wreck mine, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4499",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "You'd be surprised what a guy'll go through to get a glimpse of a beautiful body."
+      },
+      {
+        "speaker": "SALOME",
+        "text": "I bet I would."
+      },
+      {
+        "speaker": "DECKARD",
+        "text": "Little dirty holes the bastards drill in the wall so they can watch a lady undress."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4500",
+    "movie_id": "m34",
+    "turns": [
+      {
+        "speaker": "DECKARD",
+        "text": "Me."
+      },
+      {
+        "speaker": "SALOME",
+        "text": "And who do I go to about you?"
+      }
+    ]
+  }
+]

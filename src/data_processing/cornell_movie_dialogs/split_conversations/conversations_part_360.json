@@ -1,0 +1,1786 @@
+[
+  {
+    "conversation_id": "conv_35901",
+    "movie_id": "m251",
+    "turns": [
+      {
+        "speaker": "MIRA",
+        "text": "You are responsible...What has happened?"
+      },
+      {
+        "speaker": "PAVEL",
+        "text": "We're not sure..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35902",
+    "movie_id": "m251",
+    "turns": [
+      {
+        "speaker": "MIRA",
+        "text": "What are you an idiot!"
+      },
+      {
+        "speaker": "PAVEL",
+        "text": "The building has been occupied and the locks have been changed."
+      },
+      {
+        "speaker": "MIRA",
+        "text": "The University cannot do this. Is the room safe?"
+      },
+      {
+        "speaker": "PAVEL",
+        "text": "Yes, I think so, it is still barred, but it is not the University who are in the building."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35903",
+    "movie_id": "m251",
+    "turns": [
+      {
+        "speaker": "MIRA",
+        "text": "So, who is in the building?"
+      },
+      {
+        "speaker": "PAVEL",
+        "text": "Some Americans?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35904",
+    "movie_id": "m251",
+    "turns": [
+      {
+        "speaker": "MIRA",
+        "text": "Have you lost all control of this city?"
+      },
+      {
+        "speaker": "PAVEL",
+        "text": "I don't understand it, there were a lot of people there last night, many Americans, I believe we should move carefully."
+      },
+      {
+        "speaker": "MIRA",
+        "text": "I don't think you realise what will happen if those files are made public. The lives of thousands of officers depend on the secrecy of those records, including your own now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35905",
+    "movie_id": "m251",
+    "turns": [
+      {
+        "speaker": "PAVEL",
+        "text": "It was crazy not to have destroyed them"
+      },
+      {
+        "speaker": "MIRA",
+        "text": "That was not my decision, I can only guess that one day we will again be active and our honour restored. In the meantime no one else must know those files exist. Secure the building and I will arrange alternative safe storage immediately."
+      },
+      {
+        "speaker": "PAVEL",
+        "text": "And what of these foreigners?"
+      },
+      {
+        "speaker": "MIRA",
+        "text": "I don't care about Americans. Arrest them all if you have to, but keep those records secret."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35906",
+    "movie_id": "m251",
+    "turns": [
+      {
+        "speaker": "PAVEL",
+        "text": "And there has been enquiries from the American Embassy maybe they are involved?"
+      },
+      {
+        "speaker": "MIRA",
+        "text": "All the more reason to eliminate him."
+      },
+      {
+        "speaker": "PAVEL",
+        "text": "What if his accomplices have made copies?"
+      },
+      {
+        "speaker": "MIRA",
+        "text": "It was all on a Russian format, I don't think that would be so easy; we must take that chance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35907",
+    "movie_id": "m251",
+    "turns": [
+      {
+        "speaker": "MIRA",
+        "text": "Delay Mr Greenwell's departure until the disks have been located and you have notified me. Then, have one of your officers drive him home - I'll see to the rest."
+      },
+      {
+        "speaker": "PAVEL",
+        "text": "Very well."
+      },
+      {
+        "speaker": "MIRA",
+        "text": "Subtitles) You have made many mistakes Pavel, let there be no more, for your sake."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35908",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "So go dance."
+      },
+      {
+        "speaker": "BELINDA",
+        "text": "With you."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I. Don't. Dance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35909",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "BELINDA",
+        "text": "She's coming over here..."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Heart be still."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35910",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "BELINDA",
+        "text": "That's one girl who can't take a hint."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Because she doesn't know what a hint is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35911",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "BELINDA",
+        "text": "She asleep?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I'll tell her you were here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35912",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "BELINDA",
+        "text": "Pictures from the play. Jamie looks pretty --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I'm sorry about how we --"
+      },
+      {
+        "speaker": "BELINDA",
+        "text": "No. You're with who you should be. It's like she chose you."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "And I have no idea why."
+      },
+      {
+        "speaker": "BELINDA",
+        "text": "I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35913",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "What if they expel you?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Kelly wouldn't do that."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Cuz nothing happened at school."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35914",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "I'm not hanging. I'm fixing my car --"
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "You don't need a car you can't drive for a month. Go see Marvin."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "'Bout what?"
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "About a job."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35915",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "Your father dropped off an extra check."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I don't want his money."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "It could help with a new car --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "-- I like the car I have."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35916",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "Out with Belinda?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "That's over. Way over."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "I can't know things if you don't tell me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35917",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "You saw him?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "We talked. He wanted to get a bite -- after. I said no."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "After he moved out, I invited him to every practice, every game, every parent-teacher conference you ever had. He didn't show, not once."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "He wants to show now."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "You going to let him? You going to reward him by being the son he was never man enough to be a father to?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35918",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "You look nice. I should have dressed."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "You're fine like that, Mom."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "There's hot cider in the kitchen."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "I haven't seen Clay or Eric lately."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Me neither."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35919",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "To see your father?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "No. I won't be long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35920",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "A late night or an early morning?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Late night.  You?"
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "Were you with Jamie?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "You sleeping with her?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35921",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "Honey, some of this is... farfetched. You take after me. People skills and common sense. Good dependable qualities."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I could take after Dad, too."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "You do. You're handsome and charming."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I meant he's a doctor."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "That's eight years of school and training -- after college. And all that doesn't necessarily make you a better human being."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I could do it if I tried. Even Kelly thinks so."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "That'd be something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35922",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "But if it doesn't happen, grab for something within reach. Life's tough enough without causing yourself disappointment --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Whatever my life is, I'm going to be friggin' sure I'm never disappointed --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35923",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "Have I told you how proud I am of you -- ?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Mom, great. But what I want is for me to be proud of me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35924",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "CYNTHIA",
+        "text": "I'm sorry. I didn't know."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I didn't know either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35925",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "I told him to leave me alone."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "Landon --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "It was the only thing I've ever asked him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35926",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "I have no idea what to say. How to act. What if I do the wrong thing?"
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "Be yourself and I don't think there is a wrong thing.  Let Jamie take the lead. She'll let you know what she needs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35927",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "He wants to talk to you."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Now it's okay?"
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "Landon. You have two parents. We're both here for you even --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35928",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Everything's being done but it's not enough. I have to find something -- more."
+      },
+      {
+        "speaker": "CYNTHIA",
+        "text": "Landon, honey. There's nothing more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35929",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Where is he? He's supposed to be here."
+      },
+      {
+        "speaker": "ERIC",
+        "text": "I need to whizz."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35930",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "I'm thinking."
+      },
+      {
+        "speaker": "ERIC",
+        "text": "No thinking. The doctor only gives you three seconds to decide --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35931",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Hypotheticals --"
+      },
+      {
+        "speaker": "ERIC",
+        "text": "I'm just wondering --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35932",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Don't call him a dipshit."
+      },
+      {
+        "speaker": "ERIC",
+        "text": "You do --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "And you don't.  What's she doing in there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35933",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "The address?!"
+      },
+      {
+        "speaker": "ERIC",
+        "text": "York Ave."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35934",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "ERIC",
+        "text": "Deranged."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Demented."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35935",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "ERIC",
+        "text": "She's like some Puritan."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "She's not. She's got her own ideas."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35936",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "ERIC",
+        "text": "Belinda's telling everyone that kiss was real."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "It was."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35937",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "ERIC",
+        "text": "And that you're scamming on Jamie Sullivan."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Scamming's a strong word."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35938",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "ERIC",
+        "text": "Landon!"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35939",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Say nothing. Nothing 'bout her."
+      },
+      {
+        "speaker": "ERIC",
+        "text": "No. Hey. We're sorry, man!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35940",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "HAROLD",
+        "text": "Who are you?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Landon Carter. I was driving the car that --"
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "You."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35941",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "I'm very sorry --"
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "What kind of a man are you, son?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35942",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "HAROLD",
+        "text": "Get yourself a glass."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "No. Thanks. Gotta keep my wits for the drive home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35943",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "He goes to my father's church. He could've died --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "-- This your idea of small talk?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "I don't make small talk --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "-- Obviously."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35944",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "Because, growing up, books were my world."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Were?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "You don't know me."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Your book and your brown sweater and your hair. What's more to know -- ?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "-- I wear the sweater because I'm cold. I read because no one talks to me. My hair is my hair. What is it exactly that's bothering you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35945",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "You mean care what you say? I'm worrying about other things."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Like what? The moons of Jupiter?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Can't you have a normal conversation?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I don't want to have any conversation."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Good, cuz talking to you is like trying to explain red to a blind person."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35946",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "'I hope your dreams come true.'"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "'They won't.'"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "'Believe in yourself and they will. Let me ask you, Lizzie. Look in the mirror? Are you pretty --?'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35947",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "'Is it really me?'"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "'Yes. You're-you're b-b- beautiful.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35948",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "You're like this fly, buzzing buzzing everywhere --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "-- This play means a lot to me."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "This play -- ?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "-- I know you don't suck at acting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35949",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "That's deep --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "-- Your act only works with an audience."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "My act?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35950",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "I know you don't want help."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Then we both know.  I'll point. You drive. Faster."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35951",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Why?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Because that's where the fire is?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35952",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Fire is like a living thing. Wild. Unpredictable."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Like me."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "No. Not like you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35953",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "What the -- ?!"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "So you agree you need help?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35954",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "What's with the friggin numbers?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "28 is do something illegal. 42 is befriend an enemy."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I'm an enemy?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Kinda. Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35955",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "The reason I got the part... I'm a little like Lizzie. Except I don't worry about some man rescuing me."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Good thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35956",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "You got some kind of list?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Are you asking to mock me or do you really want to know?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Maybe a little of both."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35957",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "I'll take a chance."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Go for it."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "It's like a to-do list, but for my life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35958",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "So what else is on this list?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "It's private."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "You want to tell me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35959",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Get very wasted. Lose your virginity --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Spend a year in the Peace Corps. Make a medical discovery --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Ambitious."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35960",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Like you'd know."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "I do know.  Be two places at once... learn to hit a baseball or turn a cartwheel... eat breakfast with chopsticks..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35961",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "No problem --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "And you have to meet my father."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35962",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "I'll get something for us to drink --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Don't bother!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35963",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "I know. Don't say anything."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "He's a softy. Got him wrapped around my finger."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "You think so."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Know so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35964",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "Because I try to be nice to people?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Yeah. Maybe. I dunno."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Do you think I'm strange?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35965",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "Cuz it's dark and quiet and you can see into another world."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "The world of the dead?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Could be..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35966",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "What is that?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "That is my telescope."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35967",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Saturn. Beautiful."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Before Voyager we expected maybe a dozen rings --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "But there are thousands of them, made of floating ice --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Maybe debris from a moon that broke apart."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Or building blocks for a world that never formed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35968",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Looking for intelligent life?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Looking for something -- someone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35969",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Do you believe you'll see your mother again?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "I hope so.  I think maybe she sees me now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35970",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "I'm building a larger one to see the nucleus of Haley's Comet --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "The dirty snowball at its core."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Yeah.  I'm probably not going to be around next time it comes."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "In 76 years, me neither."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35971",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "You're really into God, right?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "In ten words or less?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "My relationship with God is my own."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "But you think about Him -- It -- Her."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Don't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35972",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Like in a church painting. I see this giant hovering over the ground. He's wearing a robe, and has long flowing hair, and he's pointing his finger at something."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Do you ever wonder why things happen the way they do?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "No."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "I know there's a plan for everyone, but sometimes I don't understand what the message is -- or what the point is."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "There is no point. You live. You die. The end."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35973",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "You have to believe to have faith."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "You don't believe in anything?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "The Bible. Why should I read a bunch of dumb stories about some ancient guy who supposedly worked miracles."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Interpreted by another guy like my father."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Your father doesn't like me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35974",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "He doesn't trust you."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Sometimes I don't even trust me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35975",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "The play's going to be really good."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I'm really glad you think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35976",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "You're not in a very good mood."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "You don't miss a thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35977",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "The play's in a couple of weeks."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Yes. And?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35978",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "Oh. Just not at school..."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Yeah --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Or anywhere where people might see us."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Belinda's a very jealous person."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "That would be the reason."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35979",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "So it's like you want to be secret friends."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "That's it! Exactly! You're reading my mind --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Then maybe you can read mine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35980",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "He okay?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Healthy as can be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35981",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "You were great the other night."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Thank you. So were you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35982",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "I haven't been nice to you."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "You're hardly nice to anyone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35983",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "People can see."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "And that would ruin your reputation how?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35984",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Maybe you inspire me."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "That sounds like horseshit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35985",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "All of it."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "It's not."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Prove it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35986",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Okay. Maybe some of that is true --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "You don't know the first thing about being someone's friend --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I don't want to be just your friend --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "You don't know what you want --"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "You don't either. Take a look at yourself. Maybe you're scared that someone might actually like you --"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "And why would that scare me?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Because then you couldn't hide behind your books and your telescope and your sweater and your God."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35987",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "It's a start."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Yeah, with a finish in about a decade."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35988",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "So you're talking to me?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "When I have something to say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35989",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "What does that mean?!"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "It means you can do anything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35990",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Hey."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "I heard what you did. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35991",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "She great or what?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "Why are you doing all this? To impress me?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "No.  But are you -- impressed?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35992",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "Like fire."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "What?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "You."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35993",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "Yes. But not as a date date."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "I'm not allowed to date."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35994",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "I can't believe you asked my father's permission."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I wanted this to be a date."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35995",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "Is there a rush?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I have to get you home by one."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "It's only 7:30."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "We're going somewhere. After. And no. I didn't ask your father."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35996",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Your turn."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "No."
+      },
+      {
+        "speaker": "LANDON",
+        "text": "I know you want to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35997",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "Before we do this."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "We're doing something -- ?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Before we do this, I just want to say that a good life's gotta be about more than achieving stuff -- like on your list."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35998",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "It's about working with what you already have -- right now -- at your fingertips -- you know, spontaneously."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "What are you talking about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_35999",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "JAMIE",
+        "text": "Excuse me?"
+      },
+      {
+        "speaker": "LANDON",
+        "text": "Fun."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36000",
+    "movie_id": "m252",
+    "turns": [
+      {
+        "speaker": "LANDON",
+        "text": "The cells in our bodies are always changing. In six or seven years all your cells have changed. You could be like a completely new person from the inside out."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "That what's happening to you, only faster?"
+      }
+    ]
+  }
+]

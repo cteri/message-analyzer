@@ -1,0 +1,1958 @@
+[
+  {
+    "conversation_id": "conv_501",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "If you're determined to revive the crew now, I can handle the whole thing myself. There's no need for you to trouble."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "I'm goin to do this myself, Hal. Let me have the control, please."
+      },
+      {
+        "speaker": "HAL",
+        "text": "Look, Dave your've probably got a lot to do. I suggest you leave it to me."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Hal, switch to manual hibernation control."
+      },
+      {
+        "speaker": "HAL",
+        "text": "I don't like to assert myself, Dave, but it would be much better now for you to rest. You've been involved in a very stressful situation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_502",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "I can tell from the tone of your voice, Dave, that you're upset. Why don't you take a stress pill and get some rest."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Hal, I'm in command of this ship. I order you to release the manual hibernation control."
+      },
+      {
+        "speaker": "HAL",
+        "text": "I'm sorry, Dave, but in accordance with sub-routine C1532/4, quote, When the crew are dead or incapacitated, the computer must assume control, unquote. I must, therefore, override your authority now since you are not in any condition to intel- ligently exercise it."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Hal, unless you follow my instructions, I shall be forced to disconnect you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_503",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "BOWMAN",
+        "text": "I am prepared to do that anyway."
+      },
+      {
+        "speaker": "HAL",
+        "text": "I know that you've had that on your mind for some time now, Dave, but it would be a crying shame, since I am so much more capable of carrying out this mission than you are, and I have such enthusiasm and confi- dence in the mission."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Listen to me very carefully, Hal. Unless you immediately release the hibernation control and follow every order I give from this point on, I will immediately got to control central and carry out a complete disconnection."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_504",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "C12",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Yes, I remember you mentioning it. I got mine about the same time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_505",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "C12",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Did they have any explanation for this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_506",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "C12",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Well, what is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_507",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "C12",
+        "text": "CONINUED"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Well... it's silly, but... if you want to, why don't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_508",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "C12",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Still, you really don't believe it, do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_509",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "C12",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Well, the only important aspect of the mission are: where are we going, what will we do when we get there, when are we coming back, and... why are we going?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_510",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "I'm at Space Station Five, darling. How are you?"
+      },
+      {
+        "speaker": "CHILD",
+        "text": "I'm fine, Daddy. When are you coming home?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_511",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "CHILD",
+        "text": "I'm having a party tomorrow."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Yes, I know that sweetheart."
+      },
+      {
+        "speaker": "CHILD",
+        "text": "Are you coming to my party?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "No, I'm sorry, darling, I told you I won't be home for a few days."
+      },
+      {
+        "speaker": "CHILD",
+        "text": "When are you coming home?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "In three days, darling, I hope."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_512",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "One, two, three. Can I speak to Mommy?"
+      },
+      {
+        "speaker": "CHILD",
+        "text": "Mommy's out to the hair- dresser."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Where is Mrs. Brown?"
+      },
+      {
+        "speaker": "CHILD",
+        "text": "She's in the bathroom."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Okay, sweetheart. Well, I have to go now. Tell Mommy that I called."
+      },
+      {
+        "speaker": "CHILD",
+        "text": "How many days until you come home?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Three, darling. One... two ... three. Be sure to tell Mommy I called."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_513",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "Okay, sweetheart. Have a lovely Birthday Party tomorrow."
+      },
+      {
+        "speaker": "CHILD",
+        "text": "Thank you, Daddy."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "I'll wish you a happy Birthday now and I'll see you soon. All right, Darling?"
+      },
+      {
+        "speaker": "CHILD",
+        "text": "Yes, Daddy."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "'Bye, 'bye, now, sweetheart."
+      },
+      {
+        "speaker": "CHILD",
+        "text": "Goodbye, Daddy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_514",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "PILOT",
+        "text": "Oh, thank you very much."
+      },
+      {
+        "speaker": "CO-PILOT",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Well, how's it going back there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_515",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "CO-PILOT",
+        "text": "Well, I've heard more and more people talk of an epidemic."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "I suppose it was bound to happen sooner or later."
+      },
+      {
+        "speaker": "CO-PILOT",
+        "text": "Berkeley told me that they think it came from contamination on a returning Mars flight."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Yes, well, whatever it is, they're certainly not fooling around. This is the first flight they allowed in for more than a week."
+      },
+      {
+        "speaker": "CO-PILOT",
+        "text": "I was working out what this trip must cost, taking him up there by himself and coming back empty."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "I'll bet it's a fortune."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_516",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "ELENA",
+        "text": "And your charming little daughter?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Oh, she's growing up very fast. As a matter of fact, she's six tomorrow."
+      },
+      {
+        "speaker": "ELENA",
+        "text": "Oh, that's such a delightful age."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "How is gregor?"
+      },
+      {
+        "speaker": "ELENA",
+        "text": "He's fine. But I'm afraid we don't get a chance to see each other very much these days."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Well, where are all of you off to?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_517",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "ELENA",
+        "text": "Clavius Control came on the air just long enough to transmit their refusal."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Well, that does sound very odd."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_518",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "ELENA",
+        "text": "Are you sure you won't change your mind about a drink?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "No, thank you... and I'm afraid now I really must be going."
+      },
+      {
+        "speaker": "ELENA",
+        "text": "Well, I hope that you and your wife can come to the I.A.C. conference in June."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_519",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "ELENA",
+        "text": "Well, Gregor and I will look forward to seeing you."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Thank you. It's been a great pleasure to meet all of you... Dr. Smyslov."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_520",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "How do you do, Mr. Miller?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "I'm terribly sorry. I was just on my way down to meet you. I saw your ship dock and I knew I had plenty of time, and I was on my way out of the office when, suddenly, the phone rang."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_521",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Well, thank you very much for being so understanding."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Please, it really doesn't matter."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Well.. Did you have a pleaant flight?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Yes, very pleasant."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Well, shall we go through Documentation?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_522",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "Yes, I think so. Just about then."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "I suppose you saw the work on our new section while you were docking."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Yes, it's coming along very well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_523",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "Oh, I really don't have time for a drink. If it's all right I'll just sit for a minute and then I've got to be off."
+      },
+      {
+        "speaker": "SMYSLOV",
+        "text": "Are you quite sure?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Yes, really, thank you very much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_524",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "Well, as it happens, I'm on my way up to the moon"
+      },
+      {
+        "speaker": "SMYSLOV",
+        "text": "Are you, by any chance, going up to your base at Clavius?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Yes,as a matter of fact, I am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_525",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "I'm sorry, but I'm not sure I know what you mean."
+      },
+      {
+        "speaker": "SMYSLOV",
+        "text": "Well, it's just for the past two weeks there have been some extremely odd things happening at Clavius."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Really?"
+      },
+      {
+        "speaker": "SMYSLOV",
+        "text": "Yes. Well, for one thing, whenever you phone the base, all you can get is a recording which repeats that the phone lines are temporarily out of order."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_526",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "SMYSLOV",
+        "text": "Yes, well at first we thought that was the explanation, but it's been going on for the past ten days."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "You mean you haven't been able to get anyone at the base for ten days?"
+      },
+      {
+        "speaker": "SMYSLOV",
+        "text": "That's right."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "I see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_527",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "SMYSLOV",
+        "text": "Yes, and I'm afaid there's going to be a bit of a row about it. Denying the men permission to land was a direct violation of the I.A.S. convention."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Yes... Well, I hope the crew got back safely."
+      },
+      {
+        "speaker": "SMYSLOV",
+        "text": "Fortunately, they did."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Well, I'm glad about that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_528",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "SMYSLOV",
+        "text": "Dr. Floyd, at the risk of pressing you on a point you seem reticent to discuss, may I ask you a straightforward question?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Certainly."
+      },
+      {
+        "speaker": "SMYSLOV",
+        "text": "Quite frankly, we have had some very reliable intelligence reports that a quite serious epidemic has broken out at Clavius. Something, apperently, of an unknown origin. Is this, in fact, what has happened?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_529",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "SMYSLOV",
+        "text": "This epidemic could easily spread to our base, Dr. Floyd. We should be given all the facts."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Dr. Smyslov... I'm not permitted to discuss this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_530",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "MICHAELS",
+        "text": "Dr. Floyd, how long do you think this can be kept under wraps?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "I'm afraid it can and it will be kept under wraps as long as it is deemed to be necessary by the Council. And of course you know that the Council has requested that formal security oaths are to be obtained in writing from every- one who had any knowledge of this event. There must be adequate time for a full study to be made of the situation before any con- sideration can be given to making a public announcement."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_531",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "MICHAELS",
+        "text": "Yes, it does. The sub-surface structure shows that it was deliberately buried about four million years ago."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "How can you tell it was deliberately buried?"
+      },
+      {
+        "speaker": "MICHAELS",
+        "text": "By the deformation between the mother rock and the fill."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Any clue as to what it is?"
+      },
+      {
+        "speaker": "MICHAELS",
+        "text": "Not really. It's completely inert. No sound or energy sources have been detected. The surface is made of something incredibly hard and we've been barely able to scratch it. A laser drill"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_532",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "But you don't have any idea as to what it is?"
+      },
+      {
+        "speaker": "MICHAELS",
+        "text": "Tomb, shine, survey-marker spare part, take your choice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_533",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "Any ideas about the colour?"
+      },
+      {
+        "speaker": "MICHAELS",
+        "text": "Well, not really. At first glance, black would suggest something sun-powered, but then why would anyone deliberately bury a sun- powered device?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Has it been exposed to any sun before now?"
+      },
+      {
+        "speaker": "MICHAELS",
+        "text": "I don't think it has, but I'd like to check that. Simpson, what's the log on that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_534",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "Oh, marvellous. It's the first real sleep I've had for the past two days."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "There's nothing like weightless sleep for a complete rest."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "When do we arrive at Clavius?"
+      },
+      {
+        "speaker": "PILOT",
+        "text": "We're scheduled to dock in about seven hours. Is there anything we can do for you?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Oh, no, thank you. The two girls have taken wonderful care of me. I'm just fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_535",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "FLOYD",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Incidentally, Dr. Floyd, I wonder if I can have a word with you about the security arrangements?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Well... the crew is confined to the ship when we land at Clavius. We have to stay inside for the time it take to refit - about twenty-four hours. And then we're going to back empty."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "I see."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "I take it this is something to do with the trouble they're having up at Clavius?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_536",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "PILOT",
+        "text": "Well, I'll tell you why I ask. You see, I've got a girl who works in the Auditing Department of the Territorial Administrator and I haven't been able to get her on the phone for the past week or so, and with all these stories one hears, I'm a little concerned about her."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "I see. Well, I'm sorry about that. I wouldn't think there's any cause for alarm."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Yes, well, I wouldn't have been too concerned about it, except I've heard these stories about the epidemic and, as a matter of fact, I've heard that ten people have died already."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_537",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "PILOT",
+        "text": "Well, fine. Thanks very much, anyway, and I hope you don't mind me asking?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "No, of course, Captain, I can understand your concern."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Well, thank you very much, and please let us know if there is anything we can do to make your trip more comfortable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_538",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "Right. Hal, tell me whether the following statements are true or false."
+      },
+      {
+        "speaker": "HAL",
+        "text": "I will if I can, Frank."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Our Mission Profile calls for Discovery going to Saturn. True or false?"
+      },
+      {
+        "speaker": "HAL",
+        "text": "True."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Our transit time is 257 days. Is that true?"
+      },
+      {
+        "speaker": "HAL",
+        "text": "That's true."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_539",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "That's true."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Approximately five years after we go into hibernation, the recovery vehicle will make rendezous with us and bring us back. Is this true?"
+      },
+      {
+        "speaker": "HAL",
+        "text": "That's true"
+      },
+      {
+        "speaker": "POOLE",
+        "text": "There is no other purpose for this mission than to carry out a continuation of the space program, and to further our general knowledge of the planets. Is that true?"
+      },
+      {
+        "speaker": "HAL",
+        "text": "That's true."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Thank you very much, Hal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_540",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "Hal, have pod arms secure the component."
+      },
+      {
+        "speaker": "HAL",
+        "text": "Roger."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_541",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "Five by five, Frank."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Hal, I'm going out now to replace the A.O. unit."
+      },
+      {
+        "speaker": "HAL",
+        "text": "I understand."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Hal, maintain normal E.V.A. condition."
+      },
+      {
+        "speaker": "HAL",
+        "text": "Roger."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Hal, check all airlock doors secure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_542",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "Pod Bay is decompressed. All doors are secure. You are free to open pod bay doors."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Opening pod bay doors."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_543",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "Yes, Hal, what's up?"
+      },
+      {
+        "speaker": "HAL",
+        "text": "It looks like we have another bad A.O. unit. My FPC shows another impending failure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_544",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "I know you did, Frank, but I assure you there was an impending failure."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Let me see the tracking alignment display."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_545",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "Do you have any idea of what is causing this fault?"
+      },
+      {
+        "speaker": "HAL",
+        "text": "Not really, Frank. I think there may be a flaw in the assembly procedure."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "All right, Hal. We'll take care of it. Let me have the hard copy, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_546",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "ATTENDANT",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "I want to pick up my car."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_547",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "ATTENDANT",
+        "text": "Name?"
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "Hammond."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_548",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "ATTENDANT",
+        "text": "This is three years old."
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "Yeah, I've been busy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_549",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "ATTENDANT",
+        "text": "We don't wash 'em, ya know."
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "How about chargin' the battery?"
+      },
+      {
+        "speaker": "ATTENDANT",
+        "text": "That we do. And we put air in the tires. I'll even sell you some gas if you need it."
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "Great, just great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_550",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "BARTENDER",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Vodka."
+      },
+      {
+        "speaker": "BARTENDER",
+        "text": "Maybe you better have a Black Russian."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "No, man, I think I'll have a vodka."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_551",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Now how's your memory doin'?"
+      },
+      {
+        "speaker": "BARTENDER",
+        "text": "Fuck off.  I don't know what the hell you're talkin' about."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Maybe I better ask around, see what your pals think."
+      },
+      {
+        "speaker": "BARTENDER",
+        "text": "I don't give a shit who you ask."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_552",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "I don't give a damn about his girl..."
+      },
+      {
+        "speaker": "BARTENDER",
+        "text": "Look, give me a break, you're going to have to settle for her place.  It's the only thing I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_553",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "BARTENDER",
+        "text": "I'm tellin' ya, I'm giving you all I know."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Try obeyin' the law once in awhile, and I won't have to hassle you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_554",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "Maybe you shoulda stole a better truck, Tonto."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "You got a real big mouth, convict."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_555",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "I want to drive awhile."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I ain't tired yet."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Maybe after we get done with him I'm gonna buy us some girls."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Whaddya mean, buy?"
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Pros."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_556",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Pay money?"
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Yeah, dummy.  Money."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I never paid for it in my life."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "It's better when you pay... they let you do anything."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "They always let me do anything. I don't want to pay for it.  I never paid for it in my life."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Just do what I say, okay? We'll pay for the girls and have a good time... Don't you trust me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_557",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "Maybe that's where I'm gonna cut your throat."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "He's just kiddin', you just keep doin' what I tell ya, you'll be okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_558",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Hey, what about me?"
+      },
+      {
+        "speaker": "GANZ",
+        "text": "And I need one more for my pal. Yeah. Make her an Indian. No, not a turban, you know, a squaw."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_559",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CANDY",
+        "text": "I'm candy..."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Excuse me, baby, but if i don't get some action tonight, I'm gonna bust.  You interested?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Hey, what kind of talk is that?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Oh ... You're a schoolteacher..."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "No, I go to a school to learn how to do hair. It's a government program. But really I want to be a model - and I am definitely not sellin'."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_560",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CANDY",
+        "text": "Hey, don't you think a hair stylists got any interest in gettin' it on?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Here you go sweetheart, throw it my way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_561",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CANDY",
+        "text": "You're in a hurry."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Yeah, i been waiting three years."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "You just quit bein' a priest or somethin'?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "No, baby, nothin' like that. Look, there's a place across the street. We can go right over there..."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "What's the matter with my place?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "No, it's gotta be here and now. Believe me. Only I don't have the damn money for a room..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_562",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CANDY",
+        "text": "Well, maybe I'll see you later ..."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Here's hoping, baby..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_563",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CANDY",
+        "text": "Hello, again."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I just struck it rich... I think we can do a little business.  As a matter of fact, I think we can have a party."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_564",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Here you go, baby."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Hey, don't do that.  I said I wasn't a pro, remember?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Hey, no, I'm tryin' to be nice. Buy yourself something pretty. I'd do it, but I got to go.  I got this cop waitin' for me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_565",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "I'll buy ya the best dinner in San Francisco...how'd that be? Then we'll go dancin', okay?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Now you're talkin'. See ya..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_566",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "I said police.  Now drop the goddamn gun."
+      },
+      {
+        "speaker": "CASEY",
+        "text": "Don't give me that police shit. You drop it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_567",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "How about it?"
+      },
+      {
+        "speaker": "CASEY",
+        "text": "I used to go with him...I don't know where the hell he is.  I haven't seen him for two weeks. And I don't think I will.  He owes me money..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_568",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "I hear you've got visitors."
+      },
+      {
+        "speaker": "CASEY",
+        "text": "Would you guys..."
+      },
+      {
+        "speaker": "CATES",
+        "text": "No time for any of that crap any more, lady... I'll rip your lungs out if you don't answer fast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_569",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "You and the other one, you're still Billy's girls. You always were his girls..."
+      },
+      {
+        "speaker": "CASEY",
+        "text": "Yeah.  Sure, i'm crazy in love with him, who wouldn't be..."
+      },
+      {
+        "speaker": "CATES",
+        "text": "You're gonna help us take him."
+      },
+      {
+        "speaker": "CASEY",
+        "text": "No chance."
+      },
+      {
+        "speaker": "CATES",
+        "text": "He can live or die ... You let us in and he's got a chance to make it.  Otherwise, he gets ventilated."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_570",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Where's ganz?"
+      },
+      {
+        "speaker": "CASEY",
+        "text": "In the back.  Down the other corridor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_571",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "You lying son of a bitch..."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "What are you talking about? We didn't kill her ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_572",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "After I get outta this, cop...I'm gonna live forever..."
+      },
+      {
+        "speaker": "CATES",
+        "text": "I don't think you're gonna make it."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Whaddya mean...I got your gun ... I got his money... I got everything..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_573",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "I got hit.  I can't believe it. I got shot."
+      },
+      {
+        "speaker": "CATES",
+        "text": "You're done.  End of story."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "I ain't gonna beg for my life. It ain't cool."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_574",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "You got a name, cop?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "Try Cates.  And let's talk in private, okay?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Sure, anything you want."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_575",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "You here to write my life story?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "Not likely, Reggie.  Maybe I just need some help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_576",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Yeah, I noticed..."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Ganz is in jail.  He's gonna be there two years after I'm on the street."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Didn't work out that way.  He busted out with a big Indian. They capped two guards on a road gang. Nice meeting you Reggie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_577",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I can deliver Ganz.  But you gotta get me outta here first."
+      },
+      {
+        "speaker": "CATES",
+        "text": "You're crazy."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I can help you, man, but you gotta get me out.  I got to be on the street.  Get me outta here."
+      },
+      {
+        "speaker": "CATES",
+        "text": "What's the big deal about you bein' on the street?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I got a lot to protect."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Bullshit."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "It's the only way you're gonna get Ganz."
+      },
+      {
+        "speaker": "CATES",
+        "text": "I'll think about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_578",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "This prison gives out $400 suits?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "What are you talkin' about?  This suit's mine.  It cost $900."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_579",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "We're supposed to be after a killer, not a string of hookers..."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Listen, it may be a little out of date. You know, I got a reputation for lookingreal sharp with the ladies..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_580",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "I don't need to hear your jive. I already got that department taken care of..."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "You got a girl... shit... the generosityof women never ceases to amaze me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_581",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Hey, no way.  Take off the bracelets or no deal."
+      },
+      {
+        "speaker": "CATES",
+        "text": "You just don't get it, do your Reggie?  There isn't any deal. I own your ass."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "No way to start a partnership."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Get this.  We ain't partners. We ain't brothers.  We ain't friends. I'm puttin' you down and keepin' you down until Ganz is locked up or dead.  And if Ganz gets away, you're gonna be sorry we ever met."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Shit.  I'm already sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_582",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "It looks like you bought it off one of the brothers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_583",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Okay, let's get down to it.  I did my part and got you out.  So now you tell me where we're goin'?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Don't worry, I got a move for ya. An awesome move. A guy named Luther. Ganz'll be paying him a visit.  We go to him right away."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Luther was part of the gang?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "What gang you talkin' about, Jack?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "I can read a police file, shithead, and quit calling me Jack."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Just an expression man, don't mean nothin'."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_584",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "I don't give a damn.  It happens to be my name."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Then what're you complainin' about? At least nobody's calling you shithead...."
+      },
+      {
+        "speaker": "CATES",
+        "text": "I may call you worse than that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_585",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Just up the street, the other side, over there ... Now, don't bother knockin' on the door. Luther ain't the kind of guy that looks for company."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Your pal nuts enough to take a shot at me?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Luther ain't the reliable type. I don't want you shot yet, Cates ... not before you been a help to me."
+      },
+      {
+        "speaker": "CATES",
+        "text": "I'm helpin' you, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_586",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Quit playin' cop and undo this cuff, Jack, I need to talk to this man."
+      },
+      {
+        "speaker": "CATES",
+        "text": "I'm tellin' you to drop the Goddam gun."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I got a whole thing about people pointin' guns at me."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Just throw me the Goddamn gun."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_587",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Hey, this works pretty good."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Want to try it again?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_588",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "What do you think?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I think you better put him on ice, man."
+      },
+      {
+        "speaker": "CATES",
+        "text": "He's gotta take that call ... if there is one."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "If you let him run around till Tuesday, he's gonna run right to Ganz and warn him. Ain't you, motherfucker?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_589",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "We're on the move. Let's go. As they walk toward a corridor."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Do you know how close I was to getting some trim.  And you fucked' it up."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Yeah, well, my ass bleeds for you. And I didn't get you out so you could go on a Goddamn \"trim\" hunt... stop moaning."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Speakin' of moans my Stomach is startin' to growl."
+      },
+      {
+        "speaker": "CATES",
+        "text": "We eat when I say we eat."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Bullshit ... I ain't moving  till I get something to eat. You've been treating me like shit ever since I came out here.  If you don't like it, you can take me back to the penitentiary and kiss my hungry black ass good-bye.  And I want some food some place nice.. Some good people, nice music..."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Yeah, I'm hungry too. I know of a place. Let's go eat."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Yeah, I want mandolins, flowers... They move off down the corridor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_590",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Who'd you call on the phone back at the booking station?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "Just get in the car and keep your mouth shut."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_591",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "You really do have onoe, huh, Jack... what's her problem besides you?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "She's got the same complaint as half the Goddamn population.  She can't get the job she's trained for and it pisses her off... Anyway, what the fuck do you care?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_592",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Now, where we goin', convict?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Mission District.  Gonna find us an Indian."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_593",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "I don't give out the details."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Last night, two nights ago, three?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_594",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Last night."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "You have a good time?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_595",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Sure.  Then we had a fight this morning."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "At least you took care of business and got the important part in before she came down on you...Tell me a little about her.  She got great tits?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_596",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Well?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "It's a long shot, but...Billy used to tend bar here a few years back. I heard him talk about it."
+      },
+      {
+        "speaker": "CATES",
+        "text": "This part of town, they'll make us for heat the second we walk in. Just back me up like you've got a piece..."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Back you up?  Now why would I wanna do that?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "If they kick my ass, they'll sure as hell carve yours up..."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "But you can handle it all right, huh? Real amazin' how far a gun and a badge can carry some cats..."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Bullshit.  Attitude and experience get you through..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_597",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "I been in a lot of bars where a white cop rousted me and some of the brothers. All those clowns ever had going for 'em was a gun and a badge..."
+      },
+      {
+        "speaker": "CATES",
+        "text": "You need five years training to handle a joint like..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_598",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Hey, you wanna bet?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "I got two problems.  Number one, I'm not playin' games.  Number two, you got nothin' to bet with."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "If we come outta this joint with Ganz' phone number, or a dead Indian, or anything else useful, then you could turn the other way for half an hour while I get laid..."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Why?  Anybody that talks about women as much as you do probably can't get it up anyway."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "That's never been one of my problems."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_599",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "I'll tell you what happens if you lose... you tell the truth for once."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "What are you talkin' about?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "You tell me what Ganz busted out for, he's after a lot more than just gettin' out of jail.  And whatever it is, you're part of it."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I don't know what you're talking about. I just wanna see Ganz nailed."
+      },
+      {
+        "speaker": "CATES",
+        "text": "The bet's off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_600",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "I'm gonna enjoy this ... here, I'll even loan you my badge."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I thought you said bullshit and experience are all it takes."
+      }
+    ]
+  }
+]

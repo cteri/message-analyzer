@@ -1,0 +1,2066 @@
+[
+  {
+    "conversation_id": "conv_1901",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Your husband is ill, ma'am. He took sick. I brought him home."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Why you?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "I was at hand."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Well, thank you very much. You can go now."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "He needs me, ma'am."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "No, he doesn't. And I don't want you here. Just go, please."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "He asked me to stay."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "And I'm asking you -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1902",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "This is not his handwriting."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "No. I was assisting him. He asked me."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "He's not going to work on this anymore. It is making him ill. Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1903",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "I regret we have no servants to show you out, Herr Salieri. Respect my wish and go."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Madame, I will respect his. He asked me to stay here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1904",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "How much will you pay him?"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Ah. Well. Ah,  I see you've got your manager with you. Well, Madame, how about half the receipts?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1905",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Am I interrupting something?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Not at all."
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Where's our friend?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "He's not in. But he's working on it. He said to tell you."
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "I hope so. I need it immediately."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1906",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Look, you little clown, do you know how many people I've hired for you? Do you know how many people are waiting?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Leave him alone!"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "I'm paying these people. Do you realize that?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "He's doing his best."
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "I'm paying people just to wait for you. It's ridiculous!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "You know what's ridiculous? Your libretto, that's what's ridiculous. Only an idiot would ask Wolfi to work on that stuff!"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Oh yes? And what's so intelligent about writing a Requiem?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Money! Money!"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "You're mad! She's mad, Wolfi."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Oh yes, and who are you? He's worked for Kings. For the Emperor.  Who are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1907",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LEOPOLD",
+        "text": "I see that you're expecting."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Oh, yes."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "When, may I ask?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "In three months! Papa."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1908",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "What is ridiculous? Wolfi has many admirers in Vienna. They love him here. People send us gifts all the time."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "But you can't take her without reference. It's unheard of!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Well, this is none of your business.  Whoever sent you is going to pay, no?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1909",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "And so you do! The only time you come out is to eat."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "And what do you expect? Who wants to walk out into a mess like this every day?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Oh, now I'm a bad housekeeper!"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "So you are! The place is a pigsty all the time."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Do you hear him? Do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1910",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FIRST LADY",
+        "text": "Be careful!"
+      },
+      {
+        "speaker": "SECOND LADY",
+        "text": "Be careful!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1911",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FIRST LADY",
+        "text": "He's adorable!"
+      },
+      {
+        "speaker": "SECOND LADY",
+        "text": "Adorable!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1912",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FIRST LADY",
+        "text": "Behold!"
+      },
+      {
+        "speaker": "SECOND LADY",
+        "text": "Behold!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1913",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FIRST LADY",
+        "text": "Hey!"
+      },
+      {
+        "speaker": "SECOND LADY",
+        "text": "Hey!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1914",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FIRST LADY",
+        "text": "Behold!"
+      },
+      {
+        "speaker": "SECOND LADY",
+        "text": "Behold!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1915",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MADAME WEBER",
+        "text": "Let us pass, please! Let us pass at once! We're with the Emperor."
+      },
+      {
+        "speaker": "FLUNKY",
+        "text": "I am sorry, Madame. It is not permitted."
+      },
+      {
+        "speaker": "MADAME WEBER",
+        "text": "Do you know who I am?  This is my daughter. I am Frau Weber. We are favoured guests!"
+      },
+      {
+        "speaker": "FLUNKY",
+        "text": "I am sorry, Madame, but I have my orders."
+      },
+      {
+        "speaker": "MADAME WEBER",
+        "text": "Call Herr Mozart! You call Herr Mozart immediately! This is insupportable!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1916",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FLUNKY",
+        "text": "I am sorry, Madame, but no! I cannot let anyone pass."
+      },
+      {
+        "speaker": "MADAME WEBER",
+        "text": "Young man, I am no stranger to theatres. I'm no stranger to insolence!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1917",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "Upstairs."
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Gertrude!"
+      },
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "You can't be Herr Mozart!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1918",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "I've heard about you for ages! I thought you must be an old man."
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Gertrude!"
+      },
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "It's such an honour for us to have you here, Herr Mozart. And for Gertrude."
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "People who know say the girl's got talent. You must judge for yourself. If you think she stinks, say so."
+      },
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "Michael, please! I'm sure you will find her most willing, Herr Mozart. She's really very excited. She's been preparing all morning."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1919",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "I said play!"
+      },
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "Michael!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1920",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "What a strange young man."
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Yes. He is a little strange."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1921",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Really?"
+      },
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "Ah, now! Here she comes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1922",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "Perhaps a little refreshment first? A little coffee, or a little chocolate?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I'd like a little wine, if you have it."
+      },
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "Wine?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1923",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "Just one year."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Who was your teacher?"
+      },
+      {
+        "speaker": "FRAU SCHLUMBERG",
+        "text": "I was. But she quite outgrew the little I could show her."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Thank you, Madame.  Come on now - courage. Play me something you know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1924",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "I think it is an interesting notion to keep Mozart in Vienna, Majesty. It should really infuriate the Archbishop beyond measure - if that is your Majesty's intention."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "You are cattivo, Court Composer.  I want to meet this young man. Chamberlain, arrange a pleasant welcome for him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1925",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "What a charming idea. May I see?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "It's just a trifle, of course."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "May I try it?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Majesty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1926",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Delightful, Court Composer. Would you permit me to play it as he comes in?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "You do me too much honour, Sire."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Let's have some fun.  Bring in Herr Mozart, please. But slowly, slowly. I need a minute to practice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1927",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "A-flat, Majesty."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Ah-ha!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1928",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "And here is our illustrious Court Composer, Herr Salieri."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Finally! Such an immense joy. Diletto straordinario!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1929",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "My pleasure."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Well, there it is. Now to business. Young man, we are going to commission an opera from you. What do you say?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1930",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Well, I'm glad to hear that."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Excuse me, Sire, but what do you think these could be? Being a foreigner, I would love to learn."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Cattivo again, Court Composer. Well, tell him, Mozart. Name us a German virtue."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1931",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Good morning, Court Composer. This is my niece, the Princess Elizabeth."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Your Highness."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1932",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Oh, Your Majesty, it would be such a tremendous honour!"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "I'm thinking about Herr Mozart. What is your view?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1933",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "An interesting idea, Majesty. But -"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "You already commissioned an opera from Mozart."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "And the result satisfies."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Yes, of course. My concern is to protect you from any suspicion of favouritism."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Ah-ha. Favouritism. But I so want Mozart."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "I'm sure there is a way, Majesty. Some kind of a little contest. I could perhaps put together a small Committee, and I could see to it naturally that it will select according to Your Majesty's wishes."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "You please me, Court Composer. A very clever idea."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Sire."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Well. There it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1934",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "I don't think you understand me, Court Composer."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Majesty, I did. Believe me, it was a most agonizing. decision. But finally, I simply could not recommend Herr Mozart."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Well, Sire, I made some inquiries in a routine way. I was curious to know why he had so few pupils. It is rather alarming."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Oh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1935",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Majesty, I don't like to talk against a fellow musician."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Of course not."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "I have to tell you, Mozart is not entirely to be trusted alone with young ladies."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Really?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "As a matter of fact, one of my own pupils - a very young singer - told me she was - er - well!"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Molested, Majesty. Twice, in the course of the same lesson."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1936",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Do you like this, Salieri?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "It is not a question of liking, Your Majesty. Your own law decrees it, I'm afraid."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Well, look at them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1937",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Your Majesty!"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "No, no, please! It is not a holy relic.  You know we have met already? In this very room. Perhaps you won't remember it, you were only six years old.  He was giving the most brilliant little concert here. As he got off the stool, he slipped and fell. My sister Antoinette helped him up herself, and do you know what he did? Jumped straight into her arms and said, Will you marry me, yes or no?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1938",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Oh, thank you."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "The Director of our Opera. Count Orsini-Rosenberg."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Oh sir, yes! The honour is mine. Absolutely."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1939",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "And now he has returned the compliment. Herr Salieri composed that March of Welcome for you."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Really? Oh, grazie, Signore! Sono commosso! E un onore per mo eccezionale. Compositore brilliante e famossissimo!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1940",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Majesty!"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Did we vote in the end for German or Italian?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1941",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Why so?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Because I've already found the most wonderful libretto!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1942",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Well, what is it about? Tell us the story."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "It's actually quite amusing, Majesty. It's set - the  whole thing is set in a - in a -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1943",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Yes, where?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "In a Pasha's Harem, Majesty. A Seraglio."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Ah-ha."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1944",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Keep it, Sire, if you want to. It is already here in my head."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "What? On one hearing only?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I think so, Sire, yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1945",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "It is new, it is, isn't it, Sire?"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Yes, indeed."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "And German?"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Oh, yes. Absolutely. German. Unquestionably!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "So then you like it? You really like it, Your Majesty?"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Of course I do. It's very good. Of course now and then - just now and then - it gets a touch elaborate."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What do you mean, Sire?"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Well, I mean occasionally it seems to have, how shall one say?  How shall one say, Director?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1946",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "I don't understand. There are just as many notes, Majesty, as are required. Neither more nor less."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "My dear fellow, there are in fact only so many notes the ear can hear in the course of an evening. I think I'm right in saying that, aren't I, Court Composer?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1947",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "My dear, young man, don't take it too hard. Your work is ingenious. It's quality work. And there are simply too many notes, that's all. Cut a few and it will be perfect."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Which few did you have in mind, Majesty?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1948",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Majesty, this is Madame Weber. She is my landlady."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Enchanted, Madame."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1949",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Really? How delightful. May I ask when you marry?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well - Well we haven't quite received my father's consent, Your Majesty. Not entirely. Not altogether."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1950",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Excuse me, but how old are you?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Twenty-six."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Well, my advice is to marry this charming young lady and stay with us in Vienna."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1951",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Bravo, Mozart. Most charming. Yes, indeed. Clever man."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Thank you, Sire!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1952",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Majesty, may I ask you to do me the greatest favour?"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "May I introduce my father? He is on a short visit here and returning very soon to Salzburg. He would so much like to kiss your hand. It would make his whole stay so memorable for him."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Ah! By all means."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1953",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Mozart, are you aware I have declared the French play of Figaro unsuitable for our theatre?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Yes, Sire."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Yet we hear you are making an opera from it. Is this true?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Who told you this, Majesty?"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "It is not your place to ask questions. Is it true?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well, yes, I admit it is."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Would you tell me why?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well, Majesty, it is only a comedy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1954",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Mozart, I am a tolerant man. I do not censor things lightly. When I do, I have good reason. Figaro is a bad play. It stirs up hatred between the classes. In France it has caused nothing but bitterness. My own dear sister Antoinette writes me that she is beginning to be frightened of her own people. I do not wish to see the same fears starting here."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Sire, I swear to Your Majesty, there's nothing like that in the story. I have taken out everything that could give offense. I hate politics."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "I think you are rather innocent, my friend. In these dangerous times I cannot afford to provoke our nobles or our people simply over a theatre piece."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1955",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "But, Majesty, this is just a frolic. It's a piece about love."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Ah, love again."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "But it's new, it's entirely new. It's so new, people will go mad for it. For example, I have a scene in the second act - it starts as a duet, just a man and wife quarreling. Suddenly the wife's scheming little maid comes in unexpectedly - a very funny situation. Duet turns into trio. Then the husband's equally screaming valet comes in. Trio turns into quartet. Then a stupid old gardener - quartet becomes quintet, and so on.  On and on, sextet, septet, octet! How long do you think I can sustain that?"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "I have no idea."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Guess! Guess, Majesty. Imagine the longest time such a thing could last, then double it."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Well, six or seven minutes! maybe eight!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Twenty, sire! How about twenty? Twenty minutes of continuous music. No recitatives."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1956",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Forgive me, Majesty. I'm a vulgar man. But I assure you, my music is not."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "You are passionate, Mozart! But you do not persuade."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Sire, the whole opera is finished. Do you know how much work went into it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1957",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Ah-ha. Well then, we should make some effort to acquire him. We could use a good German composer in Vienna, surely?"
+      },
+      {
+        "speaker": "VON STRACK",
+        "text": "I agree, Majesty, but I'm afraid it's not possible. The young man is still in the pay of the Archbishop."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Very small pay, I imagine. I'm sure he could be tempted with the right offer. Say, an opera in German for our National Theatre."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1958",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Ah-ha. What do you say, Chamberlain?"
+      },
+      {
+        "speaker": "VON STRACK",
+        "text": "In my opinion, it is time we had a piece in our own language, sir. Plain German. For plain people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1959",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "VON STRACK",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Well. There it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1960",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "JOSEPH",
+        "text": "Well, what do you have for me today?"
+      },
+      {
+        "speaker": "VON STRACK",
+        "text": "Your Majesty, Herr Mozart -"
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Yes, what about him?"
+      },
+      {
+        "speaker": "VON STRACK",
+        "text": "He's here."
+      },
+      {
+        "speaker": "JOSEPH",
+        "text": "Ah-ha. Well. There it is. Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1961",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LEOPOLD",
+        "text": "I write to you with urgent news. I am coming to Vienna. Take no further steps toward marriage until we meet. You are too gullible to see your own danger. As you honour the father who has devoted his entire life to yours, do as I bid, and await my coming."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1962",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Why are you here?"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Am I not welcome?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Of course, welcome! Welcome ten thousand times. Papa! my Papa!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1963",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Feed? Well, of course she feeds me. She stuffs me like a goose all day long. She's the best cook in the world. I mean, since Mama. Just wait, you'll see."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Is she not here?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I don't know. Stanzi? Stanzi!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1964",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LEOPOLD",
+        "text": "Do you always live like this?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Oh, yes. Oh, I mean no - not exactly like this. I mean today - just today, Stanzi - I remember now. She had to go - yes! She had to help her mother. Yes, she's like that. Her mother's a very sweet woman, you'll see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1965",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "She's very tired, poor creature. You know me: I'm a real pig. It's not so easy cleaning up after me."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Don't you have a maid?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Oh we could, if we wanted to, but Stanzi won't hear of it. She wants to do everything herself."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "How is your financial situation?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "It couldn't be better."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "That's not what I hear."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What do you mean? It's wonderful. Really, it's - it's marvelous! People love me here."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "They say you're in debt."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Who? Who says that? Now that's a malicious lie!"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "How many pupils do you have?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Pupils?"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Yes."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "How many?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I don't know. It's not important. I mean, I don't want pupils. They get in the way. I've got to have time for composition."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Composition doesn't pay. You know that."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "This one will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1966",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LEOPOLD",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Oh, let's not talk about it."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "It's a secret."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "You don't have secrets from me."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "It's too dangerous, Papa. But they're going to love it. Ah, there she is!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1967",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Isn't that marvelous? We're delighted."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Why didn't you mention it in your letters?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Didn't I? I thought I did. I'm sure I did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1968",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LEOPOLD",
+        "text": "Thank you. That'll be fine. Don't spend any money on me."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Why not? Oh, come, Papa! What better way could I spend it than on you? My kissable, missable, suddenly visible Papa!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1969",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LEOPOLD",
+        "text": "No, really!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "This is just a game, Papa."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1970",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Yes, Papa, name it. Name it. I'll do anything you say!"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "I want you to come back with me to Salzburg, my son."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1971",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LEOPOLD",
+        "text": "I'm tired of this game. Please play without me."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "But my penalty. I've got to have a penalty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1972",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Papa, is this your idea?"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Mine?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1973",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Are you playing a trick on me?"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "I never saw this girl in my life.  Is this a kind of joke?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1974",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LEOPOLD",
+        "text": "Never mind. You won't have to do anything for me ever again. I'm leaving!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Papa!"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Don't worry, I'm not staying here to be a burden."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "No one calls you that."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "She does. She says I sleep all day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1975",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Father -"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Hush! I'm talking to His Majesty. Your Majesty, I wish to express only one thing - that you who are the Father of us all, could teach our children the gratitude they owe to fathers. It is not for nothing that the Fifth Commandment tells us: 'Honour your Father and Mother, that your days may be long upon the earth.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1976",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Ah! Here she comes. Fraulein Lorl, good morning."
+      },
+      {
+        "speaker": "LORL",
+        "text": "Good morning, sir."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "What have you got for me today? Let me see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1977",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Ah-ha! Siena macaroons - my favourites. Give my best thanks to the baker."
+      },
+      {
+        "speaker": "LORL",
+        "text": "I will, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1978",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Thank you. Are you well today, Fraulein Lorl?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "Yes, thank you, sir."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Bene! Bene!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1979",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LORL",
+        "text": "Madame Cavalieri is here for her lesson, sir."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Bene."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1980",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LORL",
+        "text": "Oh, thank you, sir."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Do any pupils come to the house?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "Not that I've seen."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Then how does he pay for all this? Does he work at all?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "Oh, yes, sir, all day long. He never leaves the house until evening. He just sits there, writing and writing. He doesn't even eat."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Really? What is it he's writing?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "Oh, I wouldn't know that, sir."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Of course not. You're a good girl. You're very kind to do this. Next time you're sure they'll be out of the house, let me know, will you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1981",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "LORL",
+        "text": "I think I've found out about the money, sir."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Yes what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1982",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Where does he work?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "In there, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1983",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Now calm yourself. Calm. What's the matter with you?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "I'm leaving. I'm not working there anymore. I'm scared!"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Why? What has happened?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "You don't know what it's like. Herr Mozart frightens me. He drinks all day, then takes all that medicine and it makes him worse."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "What medicine?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "I don't know. He has pains."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Where?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "Here, in his stomach. They bend him right over."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Is he working?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "I'm frightened, sir. Really! When he speaks, he doesn't make any sense. You know he said he saw - he said he saw his father. And his father's dead."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Is he working?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "I suppose so. He sits there all he time, doing some silly opera."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Opera? Opera!"
+      },
+      {
+        "speaker": "LORL",
+        "text": "Please don't ask me to go back again. I'm frightened! I'm very, very frightened."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Are you sure it's an opera?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1984",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "Are you Herr Mozart?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "That's right."
+      },
+      {
+        "speaker": "LORL",
+        "text": "My name is Lorl, sir. I'm a maidservant. I was asked to come here and offer my services to you."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "They'll be paid for by a great admirer or yours who wishes to remain anon - anonymous."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1985",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Are you saying that someone is paying you to be our maid and doesn't want us to know who he is?"
+      },
+      {
+        "speaker": "LORL",
+        "text": "Yes. I can live in or out just as you wish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1986",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Sssh!"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Stanzi-Manzi-Banzi-Wanzi!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Sssh! Stay here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1987",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "What did he say? What did he say?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Papa, the rule is you can only give penalties that can be performed in the room."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1988",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Well?"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Sublime! Utterly sublime!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "That kind of music should be punishable by death."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1989",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Wonderful!  He liked the monkey, didn't you?"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Yes, well, it's all good fun."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I liked the horse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1990",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Isn't he marvelous? He cost me a bundle, that horse, but he's worth it. I tell you, if you'd played Don Giovanni here it would have been a great success. I'm not joking. These people aren't fools. You could do something marvelous for them."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I'd like to try them someday. I'm not sure I'd be much good at it."
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "'Course you would. You belong here, my boy, not the snobby Court. You could do anything you felt like here - the more fantastic the better! That's what people want, you know: fantasy. You do a big production, fill it with beautiful magic tricks and you'll be absolutely free to do anything you want. Of course, you'd have to put a fire in it, because I've got the best fire machine in the city and a big flood - I can do you the finest water effects you ever saw in your life. Oh, and a few trick animals. You'd have to use those."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Animals?"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "I tell you I picked up a snake in Dresden last week - twelve foot long  - folds up to six inches, just like a paper fan. It's a miracle."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1991",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "I'm serious. You write a proper part for me with a couple of catchy songs, I'll guarantee you'll have a triumph- de-luxe. Mind you, it'll have to be in German."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "German!"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Of course! What else do you think they speak here?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "No, no, I love that. I'd want it to be in German. I haven't done anything in German since Seraglio."
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "So there you are. What do you say?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1992",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Leave that alone!"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Wolfi!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Put it down!"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "What is this?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Put it down, I said! It's nothing for you."
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Oh! I'm sorry! I'm sorry! What have you got for me? Is it finished?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What?"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "What? The vaudeville, what'd you think?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Can I see it?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "No."
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Because there's nothing to see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1993",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Look, I asked you if we could start rehearsal next week and you said yes."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well, we can."
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "So let me see it. Where is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1994",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Quiet! Quiet! Quiet! Down there, damn you.  Welcome to you. Pay no attention, they're impossible. Stop it, you willful things! Come this way. Just ignore them. They're perfectly harmless, just willful. I treat them just like my own children."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "And which one of them do you want me to teach?"
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "What? Ha-ha! That's funny - I like it. Which one, eh? You're a funny fellow.  Hannah! Come this way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1995",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "You won't be teaching this one either. She's my wife."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Madame."
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "This is Herr Mozart, my dear. The young man Herr Salieri recommended to teach our Gertrude. Where is she?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1996",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "I'm afraid I am."
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Of course, it's him. Who do you think it is?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1997",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Good morning, Fraulein Schlumberg."
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Strudel, this is Herr Mozart. Say good morning."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1998",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Never mind, Strudel. It's part of music, getting used to an audience. Aren't I right, Herr Mozart?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well, yes! on the whole. I suppose.  How long have you been playing, Fraulein?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1999",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "It's a miracle, Herr Mozart!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well, I'm a good teacher. The next time you wish me to instruct another of your dogs, please let me know. Goodbye, Fraulein, goodbye, Madame! goodbye, Sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2000",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Herr Mozart. What a surprise. What can I do for you?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Is my pupil still anxious to learn the art of music?"
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Well, your pupil is married and living in Mannheim, young man."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Really? Perhaps your dear wife might care to profit from my instruction?"
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "What is this, Mozart? What's the matter with you?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well. Since it appears nobody is eager to hire my services, could you favour me with a little money instead?"
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "What for?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "If a man cannot earn, he must borrow."
+      },
+      {
+        "speaker": "SCHLUMBERG",
+        "text": "Well, this is hardly the way to go about it."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "No doubt, sir. But I am endowed with talent, and you with money. If I offer mine, you should offer yours."
+      }
+    ]
+  }
+]

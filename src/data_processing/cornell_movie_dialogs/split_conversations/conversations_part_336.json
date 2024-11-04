@@ -1,0 +1,1658 @@
+[
+  {
+    "conversation_id": "conv_33501",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "YORK",
+        "text": "Nada. No radiation... no movement... nothing."
+      },
+      {
+        "speaker": "ACKLAND",
+        "text": "Well, just keep looking.  It's gotta be... whoa, Jesus!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33502",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "ACKLAND",
+        "text": "It's a rhino."
+      },
+      {
+        "speaker": "YORK",
+        "text": "Is it dead?"
+      },
+      {
+        "speaker": "ACKLAND",
+        "text": "No, it's still breathing.  Kinda clammy though.  Are you sure your stick's not broken."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33503",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "YORK",
+        "text": "Yeah, it's fine."
+      },
+      {
+        "speaker": "ACKLAND",
+        "text": "God, I hope that thing didn't bring down a virus."
+      },
+      {
+        "speaker": "YORK",
+        "text": "I told you we... what's that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33504",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "ACKLAND",
+        "text": "Looks like a spore.  Fungus of some kind, maybe?"
+      },
+      {
+        "speaker": "YORK",
+        "text": "Bloody big if it is.  Top's open."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33505",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "YORK",
+        "text": "Let's get back and call this in."
+      },
+      {
+        "speaker": "ACKLAND",
+        "text": "Wait a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33506",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "BEAUVAIS",
+        "text": "Nice howitzer you've got there."
+      },
+      {
+        "speaker": "MINH",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "BEAUVAIS",
+        "text": "Good argument for gun-control.  What are you going after, rhino?"
+      },
+      {
+        "speaker": "MINH",
+        "text": "Nah.  I just wanna squeeze off a few rounds.  'Sides, they tagged the rhinos for the migration project, so they're protected.  They'll dock you a month's pay for just mentioning it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33507",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "BEAUVAIS",
+        "text": "We've got no option.  We're gonna have to get it off."
+      },
+      {
+        "speaker": "MINH",
+        "text": "Oh man..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33508",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "BEAUVAIS",
+        "text": "Minh..."
+      },
+      {
+        "speaker": "MINH",
+        "text": "Yep..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33509",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "That's the second time I ran it, and it still reads the same."
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "Better tell the boss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33510",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "A pair of incomings.  They popped-up on the medium-range about thirteen twenty-four local time."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "We figured on it being a magnetic anomaly, but we ran a back-trace just to make sure."
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "Yeah.  Turns out they dropped straight out of hyperspace."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33511",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Can you patch me a temporary loop on DCMGS?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "Okay, give me the numbers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33512",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "What do you need?"
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "A three-second burn to port, on my mark."
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "It's on the board."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33513",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Seal everything now!"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "What's happening?"
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Cassie, thank Christ!  We're under attack."
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "We're what!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33514",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "How many of them are there?"
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Too many."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33515",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Give or take."
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "We're not gonna make it, are we?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33516",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "Are you alright?"
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "What?  What's wrong?  What is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33517",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Where is she?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "Comin' up the Central Reservoir."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Quick!  Run a trace on the culvert leading off the auto-shop maintenance pit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33518",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "I found it..."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "And?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "Drains right into the Central Reservoir."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Get her on-line.  Now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33519",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "I can't reach her.  Too much signal break-up."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Keep trying!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33520",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "MarsCo went belly-up on the Dow Jones."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Shit.  When?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "Yesterday.  We got the Network feed from Gateway; it was the top story on 'Sixty Seconds'.  Biggest market crash since twenty-four."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33521",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Fucking great.  I invested some money in them."
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "You win some, you loose some."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "I lose 'em all, that's why I'm still out here on this rock.  Anything else you wanna ruin my day with?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "No, but I got something that might interest you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33522",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "Curious thing is, the mass detector says they're too small to carry a deep-space drive."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Sounds like a couple of escape shuttles."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33523",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "Where're they headed?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "We ran a trajectory simulation.  If they carry on along that path, it's possible they'll make intra-orbital insertion."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33524",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "When?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "Seven minutes ago, the third course change in an hour.  Those incomings are going to skim past the communications platform just a little too close for comfort."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Can we move it to a different orbit in time?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33525",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "Picking up velocity."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Match it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33526",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "The door's sealed from inside.  Doc Revna's in there, and it sounds like Ackland's going nuts."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Force the door."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33527",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "It's too late!"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Nooooo!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33528",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "Unconfirmed reports of eighteen or so far, but the numbers are all over the place."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "What's our weapons situation?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33529",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "Auto-shop's sealed, but those boys are cut-off."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Has anybody talked to them?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "Not yet."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33530",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "CASSIE",
+        "text": "Oh, man..."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Alright, let's keep calm.  We've got to have an option of some sort... there's got to be a way out of this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33531",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "How much air-time have I got?"
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "About thirty minutes.  Those are slimmed-down tanks, so no stopping to admire the scenery."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Deal."
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "We've dumped the whole data-base from one of the cleaning remotes into the helmet. It'll project the route through the sewer system onto the inside of the glass as you go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33532",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "If I can get to the chopper, I'll meet you at the rendezvous.  Don't wait for me."
+      },
+      {
+        "speaker": "CASSIE",
+        "text": "But..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33533",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "C'mon, man.  One more sweep."
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "One more sweep... one more sweep.  I'm getting tired of one more fuckin' sweep. We're been lookin' for this thing for three days now, and found zip."
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "Ah, quit griping.  Keeps you in shape doesn't it?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Hey!  I was in shape before we started doing this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33534",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Listen to what?"
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "That's what I mean.  This is the quietest I've ever heard it.  It's unnatural."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33535",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "De Vries?"
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Next time you have a thought like that? Keep it to yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33536",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "Something spooking the rhinos?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "I dunno."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33537",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "Hey, Guttierez?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "What?"
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "Take a look at this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33538",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "One of 'em must have escaped."
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "That's impossible, man.  This fence is high-tensile.  The breaking tolerance'd stand up to the strain of a rhino, easy. I know, I put it up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33539",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "There's no way a rhino'd survive that drop."
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "Goldsmith's gonna be plenty pissed at losing one of her babies."
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "That's a fact."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33540",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Whoa, wait a minute..."
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "What?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Just got a reading..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33541",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "What?  Are you nuts?  Just the two of us?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "I've seen this mother, De Vries.  We can bag it, no problem."
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "Forget it, man."
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "C'mon De Vries.  Think of the bonus."
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "Fuck the bonus.  I hate heights.  You wouldn't get me up there even if it wasn't night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33542",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "What the hell are you doing?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Hey, fair enough.  If you won't come, I'll handle it myself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33543",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "Alright, okay.  Look..."
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "What?"
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "I'll come with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33544",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "But I'm going first..."
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Anything you say, Mammacitta."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33545",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "Careful of that edging there..."
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Yeah, I got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33546",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "Still got him?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "It's moving slow.  About... eleven metres. On the left."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33547",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Hold it, hold it..."
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "I'm picking up another signal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33548",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "What?  Where?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Just behind us, over to the right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33549",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "Can't see a thing.  Are you sure?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Yeah, I..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33550",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Wait.  Lost it."
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "How?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "I dunno.  Might be a glitch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33551",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DE VRIES",
+        "text": "Oh, man.  That's no glitch!"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "It's alright, it's cool..."
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "Is it still moving?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "No, he's stopped; he's totally still. Just take it nice and easy, babe. Nice and easy..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33552",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Move it baby, or they're gonna be chewin' on my cojones!"
+      },
+      {
+        "speaker": "DE VRIES",
+        "text": "Couple more seconds!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33553",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DILLER",
+        "text": "Miss Noguchi!  You're wanted in admin."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33554",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "DILLER",
+        "text": "York just turned up outside.  We're trying to get him into Infirmary."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33555",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DILLER",
+        "text": "Secondary fluidic shunt for the sewage system.  I found the grating ripped right off.  The little fucker was strong."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Where does that lead to?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33556",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "Nobody wander off on their own until it's found.  Keep in pairs. Diller, once the first team's done their sweep I want you to go down with Annie to Three-Pump while she replaces it."
+      },
+      {
+        "speaker": "DILLER",
+        "text": "Okay."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "One final point.  Killing this sonuvabitch ought to be a reward in itself.  However, just to add a little incentive... I'm authorizing a hefty bonus in the next pay-packet for whoever does."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33557",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DRISCOLL",
+        "text": "Shit!  Our armory's a big blue box from the back shelf of stores.  We got about two clips left for an autoloader, and that's it."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Auto-shop?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33558",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "That sounds promising.  Can we operate the crane from here?"
+      },
+      {
+        "speaker": "DRISCOLL",
+        "text": "Nah.  It's got programmable facilities, but it was never rigged for remote operation.  Someone'd have to go up to the cab to get it up and running."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Which mean physically going outside."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33559",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "Is this the suit?"
+      },
+      {
+        "speaker": "DRISCOLL",
+        "text": "Uh-huh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33560",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DRISCOLL",
+        "text": "Yeah, I stripped down a motion tracker and hardwired it through to the helmet pick-ups, too.  That's also on the display."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Sounds great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33561",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "DRISCOLL",
+        "text": "We had to.  They were just too cumbersome for some of the conduits you're gonna have to negotiate.  Besides, all the crap floating around reduces visibility to the extent where I doubt having helmet lights would have make that much difference, anyway.  Maintenance lights down there oughta be enough to do the trick."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "How tight are these shafts?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33562",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Hey, Jan.  See if you can get someone to check out the chopper."
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "What's the problem?"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "She was running a little sluggish on the way back.  Think the turbines might be playing up."
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "Give me twenty minutes and I'll do it myself."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Appreciate that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33563",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "And...?"
+      },
+      {
+        "speaker": "GUTTIEREZ",
+        "text": "And, nothing.  They checked out just fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33564",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "That's what we thought."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Have you got an updated Lloyds' Almanac to cross-reff them through?"
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Done it already.  Nothing matches."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33565",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Fort Powell.  What do we tell 'em?"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Just give them the facts.  They can leap to their own conclusions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33566",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Already working on it."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Get off an all-bands emergency distress, and put it on a repeater."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33567",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "They've changed their heading again."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Compensate!"
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Punch me in a solution for their delta-vee."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33568",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "It left a melted trail on the deck all the way down to here..."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "What is that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33569",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Central Pumping.  All the waste gets  treated, broken-down, and flushed out into the swamp.  If it wanted a quick exit then it really lucked- out."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "You've checked that end?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33570",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Everything on this module is locked and sealed.  We've lost 'B', 'C', and 'E' wings, but 'E' was the only one we didn't manage to totally evacuate."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "How many... how many people are missing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33571",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "They knocked out the external feeds."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Looks like it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33572",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Communications to auto-shop go through an F.O. link off the main trunk. That's down with the other feeds."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Well... try the headset."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33573",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "It's not all good news.  We had to take off the helmet lights.  You'll be going in blind."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "What?  Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33574",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "There's still time to back-out."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Forget it.  I wouldn't ask somebody to do something I wouldn't do myself.  Where's the disk?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33575",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Let's just run through it one more time so I know you've got it straight."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Okay, I pull the access panel off of the console.  Insert the disk, and press the green enabling button..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33576",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "Sorry.  Two green enabling buttons..."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Right.  When you've done that, don't waste any time getting out of there.  Once that crane starts moving...well, it's bound to provoke some kind of response."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33577",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "Okay, we're in business."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Right.  Auto-shop, you all set?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33578",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "Okay, I'm out of here!"
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Blow those suckers, Driscoll!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33579",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "See that sheathing on the suspension? Eaten away.  Same thing with the pumps on the base air purifiers.  The algae out here just isn't good on these new plastics."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "We haven't used Big Bertha since we relocated the generator module. That was four months ago.  I can't ask for them to keep bringing spares in on the shuttle, it's already costing too much as it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33580",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Hey, boss.  Wondered where you'd gotten to."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "I just... wanted to be put on my own for a while.  Clear my head."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Didn't feel like whoopin' it up with the rest of us blue collars, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33581",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "I've got a lot of thinking to do.  'Sides, the room was getting too crowded for me."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Not too much of the socializing type, then?"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "No, not really.  More sort of the  'claustrophobic' type."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33582",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "I'm serious.  That's why I switched from orbiting to planetary installations."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Is that a fact."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Uh-huh.  Used to get it pretty bad.  I'd wake up in a cold sweat and want to claw open a vacuum hatch."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "How long you been out here for now, anyway?  Three months?"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Four."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "And before that?"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Six month stint on Datus."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Only six?"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "What is this?  'Twenty Questions'?"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Just curious.  There's a lot of talk goes around."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33583",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "What is that?"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Real man' drink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33584",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Seltzer?"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Want some?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33585",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "Any luck raising Ackland's party?"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Nothing.  With the satellite down, we can't transmit over the mountain range. He's most likely sitting there wondering why he can't raise us."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "First light, we'll take a chopper out there and tell them to head back."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "'We'?  You wanna fly out there with me?"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Sure.  Do me good to stretch my legs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33586",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Don't worry about it.  If the Network goes by the book, like everyone figures they will, a Marine gunboat from Powell'll drop-by for a look- see in four-or-five days.  They can go poke around out there and find whatever it was hit us.  All we've gotta do is sit tight."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Do you think Ackland'll sit tight?"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "There'd have to be a helluva good reason for him not to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33587",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Yeah.  Somebody won."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Check out the tent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33588",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "I've found Ackland!"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Hold on..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33589",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "I'm going to need you to co-sign the report.  Until we come up with something, this'll be treated as first degree murder."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Agreed."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "When we get the link back, and I send this in, I.C.C.'ll throw a fit."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Ah, don't worry about I.C.C.  They're the least of your problems right now."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "What do you mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33590",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Think I spoke too soon..."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Again?  How long before we start noticing the difference?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33591",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Do you believe him?"
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Ackland?  I don't know him well enough to say.  If we were back on Earth we could run him though an Aldhoven test and find out for sure. There's not much we can do out here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33592",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Cornering it shouldn't be a problem.  Each part of this station is basically a self-sufficient deep-space transport module running off external couplers.  If we disconnect them and seal off every section, we've got a ceiling of about thirty-six hours on internal power.  That should give us ample time to find it."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "Alright.  Pull some trackers and headsets out of stores, and I'll sign a release for the weapons.  Cassie, organise a team roster and put it on the board."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33593",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "So, what do you think?"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "What do I think?  I think if those Marines from Powell don't shift their butts getting here, we're gonna get caught up to our necks in the middle of something we shouldn't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33594",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "What?"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "I'm out of ammo.  Get inside, get inside!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33595",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "That's the wrong way!"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Detour.  Other way's blocked..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33596",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "HIROKO",
+        "text": "Hurry it up."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Don't wait for me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33597",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "They...they snapped my legs to fit... fit me in here.  I don't...remember what happened next."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "What can I do?"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "I can... feel it moving around inside me. You've got to kill me."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "I... I can't!"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "You have to..."
+      },
+      {
+        "speaker": "HIROKO",
+        "text": "No!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33598",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Where'd you leave them?"
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Camped out by the navi-beacon out on Linson's Range.  They're making their own way back tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33599",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "Jesus."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Yeah, exactly.  Those're pre-programmed course adjustments you're looking at."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Tactical nukes, maybe?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33600",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "KAMEN",
+        "text": "How's it going?"
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Yeah, 'Good Evening' to you, too."
+      }
+    ]
+  }
+]

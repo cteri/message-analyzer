@@ -1,0 +1,2210 @@
+[
+  {
+    "conversation_id": "conv_65413",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Mr. Kross, I'm not here to sell you my stock.  On the contrary, I'm here to buy yours."
+      },
+      {
+        "speaker": "KROSS",
+        "text": "You've got a lot of nerve."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "No.  What I have is a lot of money."
+      },
+      {
+        "speaker": "KROSS",
+        "text": "I know all about you, Mr. Harris. When you buy companies, they have a way of disappearing.  Even the pension funds are stripped clean. The last three companies you took over were cut up in so many pieces, widows were left without their retirement checks."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "What I did with those companies was perfectly legal."
+      },
+      {
+        "speaker": "KROSS",
+        "text": "I don't question the legality of what you do.  It's your morality that makes me sick.  I will not allow my company to be raped by a man like you."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "It is <u>not</u> your company.  It's a public company.  And I <u>am</u> going to acquire it.  Either I buy from the other stock holders, or I buy from you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65414",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "KROSS",
+        "text": "Mr. Harris."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "How are you, Mr. Kross."
+      },
+      {
+        "speaker": "KROSS",
+        "text": "Not bad for a man who hasn't slept in four nights.  I'll get used to it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65415",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "KROSS",
+        "text": "Yes.  I'm here to tell you that I've reconsidered my position on your acquisition offer."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "<u>Expected</u>... offer."
+      },
+      {
+        "speaker": "KROSS",
+        "text": "Of course, yes.  After the <u>expected</u> filing period is over, I'm going to recommend to the board that we accept your bid."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "You're making the right decision, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65416",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Stop.  For just a moment.  Mr. Kross, I'd like to ask you a few questions <u>before</u> you sign. You realize that you're a target. If you weren't mine, you'd be someone elses, correct?"
+      },
+      {
+        "speaker": "KROSS",
+        "text": "Yes."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "If you had a... reprieve, what would do?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65417",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "KROSS",
+        "text": "I... I would take advantage of it."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "How?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65418",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "KROSS",
+        "text": "I... I don't know.  There... there wasn't time..."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I suppose you'd find out soon enough that you have assets you presently don't seem aware of, wouldn't you?  The waste processing licenses at that abandoned shipyard of yours, you'd certainly find out about that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65419",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "KROSS",
+        "text": "Quiet.  Would I get the loans?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "This time I imagine you would, yes.  Hmm...  With all this in mind, Mr. Kross, I can't logically make a formal bid on your company, can I?"
+      },
+      {
+        "speaker": "KROSS",
+        "text": "You'd be initiating a financial battle you'd ultimately lose, Mr. Harris."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "You're very right.  I think the best thing we could all do is go home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65420",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Hey Sugar, you lookin' for a date?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You looking' for some company?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Uh, no.  How do I get to Beverly Hills?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What?  You gonna tell me you're lost?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Yes."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Great.  What do I look like a tourguide?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65421",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "No, you look like a hooker."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Actually, I'm a movie star out for a walk."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Good.  Can you tell me how to get to Beverly Hills?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Sure.  For five bucks."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "That's ridiculous."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "The price just went up to ten."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Why don't you just do it out of the kindness of your heart?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Sit... and spin."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Sit-and-spin.  Alright... why not?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65422",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Nice car.  Yours?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "No."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Stolen?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Not exactly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65423",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Mind if I turn on some heat?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "If you can figure it out, be my guest."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65424",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Very good.  You're obviously mechanical."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You're not from L.A., huh?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "New York."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What motel you staying at?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "<u>Ho</u>tel."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Okay, what <u>ho</u>tel?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Regent Beverly Wilshire.  I bet you know it."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Yeah, I peed in the fountain there once.  Give me a break."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65425",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "What's your name?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What do you want it to be?  Vivian, my name's Vivian."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "You like being a hooker, Vivian?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "It pays."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "So do day jobs."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Day jobs, yeah.  I've tried them.  Turn right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65426",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Must be dangerous.  Hooking."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Tell me about it.  L.A. is suffering from a wacko epidemic. And who knows where half the guys I pick up have been.  I mean, I use condoms.  Always.  And I get checked out once a month at the free clinic.  Not only am I better in the sack than an amateur, I'm probably safer."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Very good.  You ought to have that printed up on your business card."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "If you're making fun of me, I don't like it."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Sorry.  If I did, I didn't mean to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65427",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Ugly habit, biting your nails."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You don't know habits, you think this is ugly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65428",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "What do you charge for company, Vivian?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Company would cost you... a hundred dollars."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "For the whole night?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "For an hour."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "You're joking."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I never joke about money."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Neither do I.  A hundred bucks an hour though. That's pretty stiff."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65429",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "No, but it's getting there."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian, how much to put up with me for the entire night?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You couldn't afford it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65430",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Three hundred."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Fine."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What's your name, lover."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Edward.  My name is Edward."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Edward... you got it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65431",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Get in.  This side."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "You know how to drive a stick?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65432",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Better believe it."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Then let's go.  It's worth 300 just so I don't have to drive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65433",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "My raincoat's in the back.  Put it on."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Why?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "You may feel more comfortable. This is not the kind of place that rents rooms by the hour."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You mean they don't have hookers."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Every place has hookers, but if this hotel has hookers, they don't look like they're..."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Off the boulevard."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Exactly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65434",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Room service.  What do you drink?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Diet coke."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Send up a bottle of Crystal champagne."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Can I have some chips?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "-- and a bowl of strawberries. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65435",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Want to know something?  I don't quite know.  I hadn't planned this."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Do you plan everything?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Always."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Well, the meter's running, it's your money.  Speaking of which, cash'll do.  In advance."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Fair enough."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65436",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Let's talk some more first."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Right.  So!  In town on business?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Let me guess, you're a... lawyer."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "And why do you say that?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I dunno... you have that sharp, useless look."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65437",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Sounds like you've known a lot of lawyers."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I've known a lot of everybody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65438",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "I think he wanted you to tip him."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Tsk.  Excuse me, I didn't think he had change for a hundred."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65439",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Where are they?  Shopping together?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "They should be.  They're both good at it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65440",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "It's a very good year."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Oooh, thank god."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65441",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Try a strawberry."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Why?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Because they bring out the flavor of the champagne."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Jesus, you act like you're seducing some Valley girl you picked up in a dance club."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian... the meter's running... cooperate."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65442",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "You really are a very beautiful girl."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Just a romantic, that's you."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Yes..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65443",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "What do you like?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "If I want you to turn me on I'll pay <u>you</u> three hundred.  Just lay back and let me drive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65444",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Good morning."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You didn't wake me.  I'll be out of here in a minute."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "No hurry.  Would you like some breakfast?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65445",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Did you sleep well?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Yeah.  Too good.  I forgot where I was."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Occupational hazard?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65446",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Where'd you go?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I took the couch.  I had some work to do.  About last night..."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Oooh, Baby, you were the best. I was beside myself."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Mmm, I could tell."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I just hope it was worth three hundred bucks."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'd say you give a good dollar value."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65447",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Do you ever... enjoy it?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I like guys if that's what you're asking.  Not that I trust'm."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "No?  Why's that?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "\"Occupational hazard\"."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65448",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "I buy companies."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "No shit.  They expensive?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65449",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "The one I'm buying this week will cost around 150 million."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "... dollars?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65450",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "So what a ya do with the companies once you buy'm?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I sell them."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What?  Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65451",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "By breaking up a company's assets --"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What are assets?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian --"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "C'mon, I might buy a company some day."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Assets are anything of value a company owns.  Sometimes the pieces are worth more than the whole.  By selling them off, I make a profit."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Sorta like stealing cars and selling'm for parts, huh?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Not... quite."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "There, see?  Now the emblem is right in the middle of the knot."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Where'd you learn to do this?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I fucked the debate team in high school.  Tsk.  I had a grampa. He liked ties on Sundays.  You mind if I take a swim in your bathtub before I hit it?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Don't drown."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65452",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "All right.  How much for the week?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'm in town until Saturday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65453",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "It'd cost you."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Of course.  How much?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Five full nights... days too?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65454",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Four thousand."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian, may I point out five more nights at three hundred a night is only 1,500."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "But you want days too."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "All right, two thousand."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Three."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Done."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Holy shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65455",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "I'm not just talking about sex."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Look butthead, I'll treat you so nice you'll never want to let me go, okay?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Three thousand for five days. And Vivian, I will let you go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65456",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Never answer the phone.  Ever."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Tsk, believe me, this will be the last time."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Did you buy some clothes?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I got a dress, yeah."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Just one?  Christ... I hope it's appropriate."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "It's very tasteful.  I think you'll especially like the zipper in the crotch.  I'm -- joking."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Let's hope so.  You'll get some more clothes tomorrow.  I'll be pushed for time so meet me in the hotel lobby at seven forty-five sharp.  Got it?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "No, I don't \"got it\".  Even the farmboys back in Georgia come to the door when they're taking you on a date."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "This isn't a date."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Go by yourself then.  Where you taking me anyway?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "The Rex."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Any good?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I think you'll approve."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "... all right.  I'll meet you in the lobby.  But only cause you're paying me to."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Thank you <u>very much</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65457",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I thought I told you not to answer the phone."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Oooh!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65458",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You're forgiven."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65459",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "And that's the way the game is played."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Some game.  Screwin' some poor slob out of his retirement."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65460",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "You're upset, huh?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Upset.  No.  I never get upset about business."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You liked the guy, though."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Whether I liked him or not is irrelevant.  It's business. There's no emotion involved in business... if you want to survive."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "We're the exactly the same!  Kit keeps telling me don't get emotional when you turn tricks -- that's why no kissing -- it's too personal. The key is like you're saying, stay numb, don't get involved -- when I'm with a guy, I'm a robot, I just do it.  Except with you.  At your price I give my all..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65461",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Know what we're gonna do in a little while then?  We're gonna call Domino's and have'm deliver a bigass pizza.  We're gonna eat it in bed.  We're gonna veg' out and watch television."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Television?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Yeah, it's this box, it has pictures, sound.  You don't have to use your brain at all."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I have work to do."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Uh-uh.  No work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65462",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "I still don't understand why you only bought one dress."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I wasn't as much fun as I thought it was going to be."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Well, you know those cold bitches that work in those stores and try to intimidate you?  It works."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Was someone rude to you?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I had a little problem in one store.  I wasn't dressed right. I don't know what to say.  I don't belong there.  Maybe I'll just go back to Bridget.  She was cool."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian, you belong wherever you are.  I don't care how you were dressed, they were the ones who were wrong, not you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65463",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Okay."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Good."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Come with me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65464",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "I thought maybe you'd like dinner."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Thank you.  I would.  Nice."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Wait till you see what I have on underneath."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65465",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "What about dinner?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Dinner can wait."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65466",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "You always been rich?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "No."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Seems like it.  I guess it's easy to get used to, huh?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Easier than learning how to be poor.  My father's family was wealthy. When I was young there were cars and houses, private schools, nannies.  But then my father divorced my mother to marry another woman.  And he took his money with him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65467",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Keep talkin'.  I like hearin'."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Not much to tell.  I went to public school.  Went to university on scholarship.  Went to work for an investment firm. In eight years I owned it.  My father was chairman of the board of the third company I ever went after.  I swallowed that company and shit out the pieces. One of the pieces was him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65468",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "You still mad at'm?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "He died a long time ago."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65469",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "You're really pushing it, bringing me here."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I think it's exciting."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What id we run into someone I know?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I really doubt anyone here frequents Hollywood Boulevard."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65470",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Real genuine guy."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "He's good at what he does."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You could freeze ice on his wife's ass.  She anything like your ex?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Shall we mingle?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65471",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Edward, these women here, I don't think any of'm like the guys they're with.  They're just into it for the money."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'm sure that's true for some of them."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I thought I was the pro.  These women make me feel like an amateur."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Ready to stomp sod?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65472",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "You asshole!  I can't believe what a --!"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian, what the --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65473",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Clean the slut up, take her out, huh?!  What are you trying to prove!?  I'm not a piece of meat for you to offer to your friends!"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I don't know what you're talking about."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I've been with stinking old men who've made me want to puke but I've never had anyone make me feel as dirty as you did tonight."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Would you please calm down.  Tell me what happened."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Stuckey!  He wants an \"appointment\" with me after you leave.  You my pimp now or did he think that up on his own?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65474",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "What was I supposed to do?  I told the truth.  Why should the truth upset you?  It's not as if you're from a convent."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I want my fucking money.  I'm getting out of here.  I don't want anything more to do with you."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Can we talk about this?  Can you just try to calm down?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Your goddamned friend, he thinks the only reason I'm with you is for the money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65475",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Well, it's true.  Just pay me what you owe me and I'm gone."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian..."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Pay me!  Before I pick up this chair and smash your face in."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Fine.  I'm only here a couple of more days and I'm not going to spend them fighting with you."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Fuck off."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'll call you a cab.  If you want the clothes, pack them up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65476",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian... I'm sorry.  I wasn't prepared for questions about us. It was an idiotic and insensitive thing I did.  I should have known that it would hurt you."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I'm not hurt.  It doesn't hurt you when somebody pisses on you, it just pissed you off."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I really am sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65477",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Do I look okay?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Hmm... let's see... no, there's something missing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65478",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I don't want you to get too excited... these are on loan... however..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65479",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Edward, I can't."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Shush.  Of course you can."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What if I lose it?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "You won't."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "What if someone tries to steal it?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'll guard them and you with my life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65480",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "You don't want to go all the way to San Francisco in a limousine, do you?  I don't."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Where are you taking me!?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "To meet some friends.  Rudolpho, a poet... Benoit, a landlord... Mimi, a flower maker..."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "The opera."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65481",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "I've never been on a plane before."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'm glad you like it.  Now be quiet, I've really got to read these."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65482",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Sorry.  You're not paying me to ask you question like that."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian.  I'm paying you to be you.  Be you.  Have you?  Ever been in love with anyone?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You mean, besides Elvis?  I'm a human being.  Sure.  Once. First time I ever ran away from home, I got as far as Atlanta. I met this boy.  He'd been with his parents on their way to Chicago.  They stopped at a gas station.  He went to the john. When he came back they'd split. We sorta started looking out for each other.  Aw, he was sweet. And boy, was he good looking, y'know, dark hair and eyes. The chicken hawks were on him all the time.  He hated that. Sometimes we'd find a safe place to crash nights and we'd curl up together and we'd talk about all these crazy things.  The two of us getting married someday. Having kids.  Stupid stuff."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "What happened to him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65483",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "If it's in Italian, how will I know what they're saying?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'll whisper some of the main parts of the story to you.  But you'll be surprised how much you understand.  The music conveys the story more powerfully than any words."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "But don't they have it in English?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian, don't be afraid of what you don't know.  That's the fun of it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65484",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "If you'd gone on about how much you liked it, I'm not sure I'd have believed you."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I more than liked it."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I know.  I'm glad."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Did you?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Yes.  I've never enjoyed it more. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65485",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "One more night and you're finally rid of me."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Yeah, you've been pretty tough to take."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I have to go to New York tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65486",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "What else?  You gonna leave some cash by the bed when you pass through town?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "It wouldn't be like that.  I want to get you off the street.  You'll have a different kind of life. What's wrong with that?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I'm sorry.  That's very sweet, Edward, and I know you mean it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65487",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian, I've thought about this a lot.  This is the best solution."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "When I was a little girl, my mother locked me in the attic when I was bad, which was pretty often. I'd stare out the window up there and make believe I was a princess trapped in the tower by the wicked queen.  Then suddenly a knight on a white horse with his bright colors flying would ride up. Rescue me from the tower, and then we'd ride off... but never, ever in all the times I had that dream did the knight say, \"Come on baby, I'll put you up in a great condo.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65488",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian, life's not a fairy tale."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I know.  Hey, don't mind me.  I'm being stupid.  I'll think about it, okay?  It's a real good offer for a whore."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I've never treated you like a whore."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "You just did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65489",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "What did you do to him?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Last time I saw him he was this strong guy.  Now he's beaten. And you <u>liked him</u>."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian, I want you to listen to me.  The man realized that it would be better for his future and his son's future, if he cooperated."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Right."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "It's not your concern.  It's... business, that's all."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Business."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Yes.  The man made a business decision."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "It's all just business to you. Him.  Me.  Your life. Everything's business."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "It's what I do for a living. It's how I make money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65490",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Why do guys always know how to hit a woman?  Right across the cheek, wham, so it feels like your eye is gonna explode.  What do they do, take you all aside in high school and show you how? It pisses me off!"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Not all men hit.  And no one is going to hit you anymore."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "Right.  You're quite the Sir Galahad today, aren't ya'?  I heard what you did with Kross."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "It was a business decision."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65491",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "I got tired of hating my father."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "It was good."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "It felt good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65492",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "You're packing."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I'm leaving.  Don't ya see?  If I stay with you like you want me to, there'll always be some guy, your friends eve, treatin' me like that... thinkin' they're allowed to.  What are you gonna do, fight'm all? No.  I'll take my money now, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65493",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "Aw, don't... no..."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Stay with me tonight.  Not because you're being paid to. Stay with me because you want to."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "I do.  I do want to.  That's why I'm leaving.  That's what you given me, see? I know what I want now.  I want a guy like you for real.  Not because you buy me things and give me money.  The nicest thing you ever done for me is hold my hand. You gonna give me that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65494",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "VIVIAN",
+        "text": "I didn't think so."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian..."
+      },
+      {
+        "speaker": "VIVIAN",
+        "text": "It's not your fault.  You're right.  Kit's right.  But I want the fairy tale."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65495",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "MR. THOMAS",
+        "text": "Barnard Thomas, manager of the hotel."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Of course, yes.  If you'll excuse me just a moment --"
+      },
+      {
+        "speaker": "MR. THOMAS",
+        "text": "I have a message for you from your \"niece\", sir."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "My what?"
+      },
+      {
+        "speaker": "MR. THOMAS",
+        "text": "The young lady staying in your room?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65496",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "MR. THOMAS",
+        "text": "Mr. Harris, a guest of yours, is a guest of ours and shall be treated accordingly.  The young lady asked me to tell you that she is waiting for you in the lounge."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65497",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "MR. THOMAS",
+        "text": "Good afternoon, Mr. Harris."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Afternoon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65498",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "STUCKEY",
+        "text": "What's up, where you going?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Give me your car keys, will you, I'm going back to my hotel."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "At least stay for a drink.  This party's for you."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Apologize to Elizabeth for me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65499",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "STUCKEY",
+        "text": "Listen, there're some major local talent inside just dying to meet you..."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Really?  Some high class gold digger who speaks French better than I do?  No, thank you.  I just got off the phone with one."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Cynthia's not coming?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65500",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Love this car!  Is it new?"
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Yes!  And you don't even know where you're going!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65501",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "I want to."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Edward, if the three of us sit down together we might as well announce our plans in the Wall Street Journal."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'll see him alone.  Everyone knows you're my muscle.  We'll make it social.  Tell Kross I'll meet him for dinner.  Tonight if you can arrange it."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "You shouldn't go alone.  He might claim that you tried to black mail him."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Bill, we're businessmen, not the damn mafia.  I'll see you in the office.  By the way, about your car..."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Oh, god, what?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'll bring it back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65502",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "STUCKEY",
+        "text": "Edward, did you hear me?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I'm here."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "I know a lot of nice girls."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65503",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "STUCKEY",
+        "text": "What!?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "We don't have the time to bring someone new up to speed. Besides...  You've already impressed everyone you need to, haven't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65504",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "What time's diner tonight?"
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Eight o'clock.  Kross is bringing his son.  Very bright kid, watch yourself with him.  Who's this girl you're taking?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "No one you know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65505",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "STUCKEY",
+        "text": "Goddamit!  Where is he getting the money to fight?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Someone's loaning it to him. Get on it right away."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Our contract guys are working on the Kross pension funds. There's another forty million there.  We can bleed'm dry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65506",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Put the pension funds on hold until I say otherwise."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "We're letting them slide?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "I want the treatment plant licenses to be top priority right now."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "But, Edward..."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65507",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "STUCKEY",
+        "text": "Excuse me for saying this but what is wrong with you this week? First, you go soft on the pension funds.  Now, you're giving him the chance to get away?  As of two minutes ago, you are committed to the tune of over fifty million dollars --"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Come on, Bill, don't talk to me about how much money's involved. It's my money."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "And some of it's mine.  Edward, his jugular's exposed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65508",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Bill, I'd like you to meet Vivian."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Bill Stuckey, Vivian.  My wife, Elizabeth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65509",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "STUCKEY",
+        "text": "Fill me in on this.  How'd you and Vivian meet?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "We just did."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Come on, you can tell me.  I sure would like to know where a guy runs into a girl as attractive as this."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "The night I left your house, I was lost.  I was looking for directions."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "And you just happened to run into her.  Great.  What's she do?  She work?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Doing what?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Vivian's in sales."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Sales, really?  That's great. What does she sell?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65510",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "Why do you want to know?"
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Hear me out.  I've known you a long time.  I see a difference in you this week.  Like that tie. I'm suddenly wondering if this girl's not the difference. Especially when I see her talking with David Kross."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65511",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "EDWARD",
+        "text": "She met him at dinner last night... I like this tie."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "So now they're best friends? Edward, this girl appears out of nowhere and now I see her talking to a guy whose company we're trying to buy.  It's too convenient."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "You're being ridiculous."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Industrial espionage is not ridiculous.  Edward, how do you know she hasn't attached herself to you so she can bring Kross back information?"
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Christ, Bill, she's not a spy, she's a hooker.  I picked her up off Hollywood Boulevard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_65512",
+    "movie_id": "m479",
+    "turns": [
+      {
+        "speaker": "STUCKEY",
+        "text": "This is no time to disappear. We're in too far."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Bill?  Stop panicking.  Kross isn't going anywhere and I don't need to spend the rest of the day watching his stock go down.  I'll be in the office tomorrow."
+      },
+      {
+        "speaker": "STUCKEY",
+        "text": "Promise me you'll read those contracts by then."
+      },
+      {
+        "speaker": "EDWARD",
+        "text": "Goodbye, Bill."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2114 @@
+[
+  {
+    "conversation_id": "conv_23001",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "CONROY",
+        "text": "Just a boid in a gilded cage -"
+      },
+      {
+        "speaker": "STEW",
+        "text": "A what?"
+      },
+      {
+        "speaker": "CONROY",
+        "text": "You heard me. A bird in a gilded cage."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Aw, you've been reading a lot of cheap tabloids. Anne and myself are going to move downtown in a nice little flat, we're gonna forget all about this social stuff, and we're gonna be known as Mr. and Mrs. Stew Smith. How do you like that?"
+      },
+      {
+        "speaker": "CONROY",
+        "text": "And live on your salary, I suppose?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Yeah, live on my salary - that is, until I finish writing my play."
+      },
+      {
+        "speaker": "CONROY",
+        "text": "What play?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "My play."
+      },
+      {
+        "speaker": "CONROY",
+        "text": "The one about the Siberian bloodhound?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Siberian bloodhound?  No. That's been all rewritten. It's laid in Araby now."
+      },
+      {
+        "speaker": "CONROY",
+        "text": "Araby?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Sure."
+      },
+      {
+        "speaker": "CONROY",
+        "text": "Araby, my eye!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23002",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "CONROY",
+        "text": "Well, I'm sorry to see a good reporter go blooey  Let me know when you're quitting."
+      },
+      {
+        "speaker": "STEW",
+        "text": "I'm not quitting!"
+      },
+      {
+        "speaker": "CONROY",
+        "text": "No?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "No!"
+      },
+      {
+        "speaker": "CONROY",
+        "text": "'For he's only a bird in a gilded cage, a beautiful sight to see'  Tweet, tweet - ha, ha"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23003",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "DAWSON",
+        "text": "How do you like your bath, sir?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "I like my bath all right. How do you like your bath?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23004",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Who are you?"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "I'm your valet, sir. Dawson is the name, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "You're my what?"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Your valet, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23005",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Thank you, thank you, thank you! I'll do that for you some time. That's very sweet. Say listen, what did you say your name was?"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Dawson, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Dawson, huh? Was I very drunk last night?"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Drunk, sir?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23006",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Yes. I must have been pretty much plastered if I hired a valet."
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Oh, but you didn't engage me, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23007",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Did you take anything out of those pants?"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Oh no, sir!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "What are you doing fooling around in here?"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Miss Schuyler - I mean, Mrs. Smith - she engaged me this morning, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23008",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Say, you are nice. You're all right. You'd make a good wife."
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Thank you, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "But not for me!  Though I like you well enough. You're a nice fellow. You're all right. But I'm sorry I don't need any valleys today."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23009",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Are you trying to tell me that I need someone to help me put on my pants and button them up?"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Quite so. Quite."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Now I'm sorry. I appreciate your efforts. But I don't need anybody to help me button my pants - I've been buttoning my pants for thirty years all right, and I can button 'em with one hand as a matter of fact."
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Now Mr. Smith, now please"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23010",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "All right, outside!"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "I beg your pardon, sir?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Outside!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23011",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "DAWSON",
+        "text": "I think I understand, sir. You mean you want me to go?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "There you are. You caught on. You see, you're nice and you're smart too. You caught on right away. Outside! Go on! Outside! And don't come back!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23012",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "DAWSON",
+        "text": "That's a canary, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "That's a canary! Who brought that in here? Canary, huh? Go on, get that out of here. Get that out of here!"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Yes, sir. Very good, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "A bird! A bird in a gilded cage! Get that thing out of here!"
+      },
+      {
+        "speaker": "DAWSON",
+        "text": "Yes sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23013",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MISS WILSON",
+        "text": "I'm Miss Wilson - Mrs. Schuyler's social secretary."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "I was sent from the Post in place of our social editor."
+      },
+      {
+        "speaker": "MISS WILSON",
+        "text": "Yes, of course. Miss Ramsey telephoned me. Well, what would you like to have?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Why, a list of the guests. That's the usual thing, isn't it?"
+      },
+      {
+        "speaker": "MISS WILSON",
+        "text": "Yes, of course. I'll get it for you"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23014",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MISS WILSON",
+        "text": "That's a lovely dress."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Thank you.  Where is Mr. Smith?"
+      },
+      {
+        "speaker": "MISS WILSON",
+        "text": "Mr. Smith? Oh, you mean Ann Schuyler's husband?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MISS WILSON",
+        "text": "He's probably very tired. You see, he's had to meet all these people personally tonight."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "I bet."
+      },
+      {
+        "speaker": "MISS WILSON",
+        "text": "You newspaper people have a lot of fun with him, don't you? What is it you call him - the Cinderella Man?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23015",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Stew, your hands are shaking. You've been drinking again."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Come on, come on. Here they come, Gallagher! Here they come!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23016",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "The boss is getting hoarse."
+      },
+      {
+        "speaker": "STEW",
+        "text": "There's the third one. If I don't get the last one, there's a certain sob sister I know that's going to get a kick right in the . . . oh! Whoops, almost had that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23017",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "You're sure going to be poison to that Junior Leaguer[4] from now on!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "I hope not . . . I've got to call on her this morning!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23018",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "You what?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Sure, I must drop in on the mad wench. Her wounds need soothing."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "For heaven's sake, Stew, are you completely bats? What for? I thought the story was cold. You can't go back there."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Sure, the story is cold, but I'm not. I'm sizzling - look! Psst!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23019",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "And with it came love! Oh Gallagher, you've got to meet her. She's it"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "and that"
+      },
+      {
+        "speaker": "STEW",
+        "text": "and those and them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23020",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Well, I've seen her pictures, and I don't think she's so hot."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Oh, you don't appreciate it. Her pictures don't do her justice. Why, Gallagher, she's queenly - she is queenly - and I know queens!  And oh, has she got herself a nose - and I know noses too. That little snozzle of hers is the berries, I tell you. And is she cute when she throws that little snozzle to the high heavens!"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Of course I haven't got a nose."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23021",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Sure, sure. You've got a nose, Gallagher. You've got a nose. But there's different women, Gallagher. You know, like brewery horses and thoroughbreds."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "On now, Stew, don't be too hard on her. I wouldn't call her a brewery horse."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Gallagher! She's the real McCoy!"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "And the rest of us are truck horses?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "There you go, talking like a woman!"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Well!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Well, you're my pal, aren't you? Then don't turn female on me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23022",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Well, well, well! Gallagher, old pal! There you are. What did you run away for?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "I didn't run away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23023",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Sure, you ran away. Aren't you going to congratulate a guy?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Sure. I wish you all the luck in the world, pal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23024",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Thanks, thanks."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "I hope you'll be very happy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23025",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Oh sure, we'll be happy. What's the matter with your eyes?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "It's the smoke."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Joe! A little snifter.  Say, wasn't I a lucky guy to fall into a girl like that, huh?  Look at that! I don't know how I rate that, Gallagher. Gosh, there's a swell girl. I want you to meet her."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Who me? She wouldn't want to meet me. I'm just an old load of hay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23026",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Ah! Thank you, Joe.  Tell you what - we'll have one of those parties down at your house - one of those spaghetti parties, you know. Gee, we haven't had one of those in a long time, have we Gallagher?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Not since you broke into society."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Remember the time we had a spaghetti party, and while I was serving the spaghetti I dropped it on the floor, and while those mugs weren't looking, I picked it up and served it to them anyway! Remember that? Yes, Anne would love that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23027",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Do you think your wife would walk up three flights of stairs just to eat out of paper plates?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Who - Anne? Sure, Anne would love that."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Remember, she's a Schuyler."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Now get this, Gallagher - Smith. That's the name."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "My error."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Well, if she doesn't want to come, I'll come down alone."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Oh no, you won't, Mr. Smith. You're a married man now. Mother always warned me never to run around with married men."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Say, what kind of a pal are you? You're not going to leave me flat?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23028",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Oh, I'll call you up some time. And if your social duties permit - why -"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Cut that out. Just because I'm married - there's no reason for that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23029",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Don't pay attention to him, Stew. He doesn't know what he's talking about."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Pay attention? I'm not paying any attention to him. You think that guy could get me upset? Hah! Not that mug. He's a tough mug - hard, cynical. He doesn't know the fine things in life - that guy.  A bird in a gilded cage, huh? It's getting so a guy can't step out without being called a magnolia. Stew Smith, a magnolia! Not me. Say, I'm not going to hang around and be a speakeasy rat all my life! I'll tell you that. Not me, not me. I'm going to step out and mean something in this world. You watch me.  Say, am I a lucky guy to be near Anne Schuyler?  I've been hit with a carload of horseshoes, and believe me I know it. Lucky, I'll say I'm lucky!  Don't you think I'm lucky, Gallagher?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Sure - I think so, Stew."
+      },
+      {
+        "speaker": "STEW",
+        "text": "I knew you would, pal.  A bird in a gilded cage, eh?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "How is her family going to feel about it?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Her family? Oh, they'll be all right. I'll bring them around.  Gilded cage?!  Besides, I'm not marrying her family. Stew Smith in a gilded cage! Stew Smith? Ha!  That mug. What does he know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23030",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Mr. Smith, I've read some of your plays and I'd like an autograph."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Well, well! If it isn't my old friend! Turn around, gal! Let's get a look at you."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "There you are!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Well, daughter of the slums - how did you get out of the ghetto?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "I'm pinch-hitting for our society editor tonight. I wanted to see some life in the raw."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Aw, you wanted to see some life in the raw, huh? Well gal, I'm afraid we ain't got no raw life up here."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Well, I'll have to look someplace else."
+      },
+      {
+        "speaker": "STEW",
+        "text": "No, no! Maybe we could interest you in some well done butterflies, or perhaps some slightly fried pansies, or better still, some stuffed shirts. And guaranteed every one of them will give you a good stiff pain in the neck."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Say, who's been tying your ties lately? It looks rotten."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23031",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Gee Gallagher, do you look good! What are you doing to yourself?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "STEW",
+        "text": "What did you do to that hair? And where did you get that dress?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "I dyed one and washed the other."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Oh, you dyed one and washed the other. Well! You certainly look good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23032",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Don't turn around now - but there's a very beautiful girl up there who seems to be staring at us."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Staring at us?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "My mistake - she's glaring."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Must be my wife."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23033",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "They all consider me just as one of the boys."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Right!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23034",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "I'm sorry, Gallagher - really, I am sorry."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Oh, that's all right, Stew. Forget it. As far as she's concerned, I'm just part of the hired help."
+      },
+      {
+        "speaker": "STEW",
+        "text": "No, no. Strange, I've never seen Anne act that way before.  It's funny I never thought to tell her you were a girl, isn't it?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23035",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Well, Gallagher! Glad to see you."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Hello, Stew."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Hello, Hank. How are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23036",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "I'm sorry, Stew. I asked Hank, and Hank did the rest."
+      },
+      {
+        "speaker": "STEW",
+        "text": "I see. Hank brought them all. That's all right. We'll give them a drink and throw 'em out. How's that?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Okay."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Smythe! Give them one drink and throw 'em out!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23037",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "You know what I should do with you? I should sock you right in that funny little nose."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Yes - and I'd love it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23038",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "How far have you gotten?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Well, I've just been able to get off that Norway coast - so far."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23039",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Well, you're not getting your play done, but you're certainly covering a lot of territory."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Haven't I covered some territory? It feels like I've been on a Cook's Tour[18] some place."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23040",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Stewart, have you ever been to Old Madrid?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Been where?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "To Old Madrid."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Never even been to New Madrid."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Then how do you expect to write about it?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Oh - draw on my imagination, I suppose."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Did Conrad draw on his imagination?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23041",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Did who?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Conrad."
+      },
+      {
+        "speaker": "STEW",
+        "text": "What do you know about Conrad?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "I don't know a thing about him, but isn't he the one you're always yelling about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23042",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Isn't he the one that always writes about things - only the things he knows about?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Right."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Didn't he go to sea before he wrote about it?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Right."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Then why don't you write about something you know?  Write about yourself and Anne. The poor boy who marries a rich girl - now there's a swell theme."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Gee, that's an idea, Gallagher. That's an idea there. I wonder now..."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Oh, sure. She'd make a beautiful heroine..."
+      },
+      {
+        "speaker": "STEW",
+        "text": "And there's her mother - and what a character that old dame would make with her double-strength - and that lawyer friend of theirs - he'd make a great villain - and there's you!"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "What could I be?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "You could be something.  I've got an idea, Gallagher. Let's get this set. That's a great idea for a play. Pal, get me a cigarette, will you?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Here you are."
+      },
+      {
+        "speaker": "STEW",
+        "text": "All right, thanks. Now, let's see. How will I start? Hey pal, how would you start?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23043",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Now Gallagher, if we could only get a great scene - a tremendously emotional scene - something that would just wring the hearts out of the public - to bring the curtain down in the second act - that would be okay. Couldn't dig one out of your hat some place, could you?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Nope - afraid I'm all out of tricks tonight."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Now, we've got it right up to where the boy's wearing his white spats and going to teas and the frau enters - how's that?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Very good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23044",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "I wouldn't worry too much about it, Stew. She'll see it your way."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Huh?  Oh, I'm not worrying about her - I'm worrying about that second act curtain, that's all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23045",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Hey, Gallagher!"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "How about my breakfast? How do you expect me to ring a curtain down on an empty stomach?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "It'll be ready in a minute."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Never mind that. If you can't get my breakfast ready - and can't get here on time in the morning - then you can go get yourself another job."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Sorry, boss"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Don't be sorry. Just get the breakfast, that's all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23046",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "Who was that?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Grayson - Anne's lawyer."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "What did he want?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Gallagher, that guy just dropped by to give us a great opening for the third act."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23047",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "It's a swell idea, Gallagher. How's this?  The wife's family lawyer comes to see the kid, see - to talk over the divorce. Then this guy insults the poor but honest boy by offering him alimony - so the kid gets sore, socks the lawyer in the nose and throws him out. How's that for the beginning of the third act, huh?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "Well, from now on the play will be easy. All you have to do is bring the wife back, have her say she's sorry, and then your play's over."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23048",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GALLAGHER",
+        "text": "What other girl?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "The little O'Brien girl, of course - the one you suggested in the story."
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "But that's ridiculous! You can't make a sudden change like that."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Gallagher, what are you going to do - tell me how to write a play?"
+      },
+      {
+        "speaker": "GALLAGHER",
+        "text": "No."
+      },
+      {
+        "speaker": "STEW",
+        "text": "There's nothing sudden about that  He's always loved the girl, but he was such a sap he didn't have sense enough to tell her. Well, that's all right - we can fix that. He will go to the little O'Brien girl, and - here, I'll show you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23049",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Nice set of Conrads you have out there, Mrs. Schuyler. I was just glancing through this one.  What's Michael tearing the paper about?"
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "Just a habit. Mr. Schuyler is a bit put out by all the rumors going around."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Rumors? Rumors? Since when is a breach-of-promise case a rumor?"
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "No breach-of-promise case has been filed. The matter has been settled out of court."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Oh I see, but Gloria doesn't seem to be satisfied with the twenty thousand dollars."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23050",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Well, well. That takes it out of the rumor class, doesn't it?"
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "We admit nothing. However, I have a little statement all prepared."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23051",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "A statement? Good."
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "I have it here."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23052",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GRAYSON",
+        "text": "The man from the Tribune seemed perfectly satisfied."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Who, Bingy? Yeah, Bingy would. He never saw fifty dollars before. You could have bought him for six bits. Funny thing about Bingy. The more he gets - the more he prints. He looks stupid, doesn't he? But oh how smart he gets when he bends over a typewriter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23053",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GRAYSON",
+        "text": "I think you'd better go."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Go?! Wait a minute - that's a great story! Newspaper reporter was forcibly ejected from Schuyler Mansion, and"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23054",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GRAYSON",
+        "text": "I've tried to stop the evening papers, but it's useless."
+      },
+      {
+        "speaker": "STEW",
+        "text": "You quit trying to stop anybody"
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "Well, at best you might deny it."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Why deny it? The more you deny, the more they print. Let them alone! The thing to do is to sit still and keep our traps shut."
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "Traps shut!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Certainly! I'll take care of this guy Bingy myself, personally.  Now what are you crying about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23055",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GRAYSON",
+        "text": "Hello, Smith."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Holy jumping swordfish!"
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "I suppose you know why I came?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "No, I have no idea - unless some of the silver-ware is missing."
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "Now don't be absurd, Smith  May I come in?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Surely, come right in."
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "Thanks. May I sit down?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Surely, sit down. If I had known you were coming, I would have thrown you up a waffle."
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "I don't eat waffles."
+      },
+      {
+        "speaker": "STEW",
+        "text": "You don't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23056",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GRAYSON",
+        "text": "Anne asked me to come and see you about the divorce."
+      },
+      {
+        "speaker": "STEW",
+        "text": "She did?"
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "She wants me to arrange the financial settlement."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Listen Grayson, I've got 106 bucks and 75 cents in the bank. Now Anne can have any part of that she wants, but she'd better hurry because I'm spending it awfully fast."
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "You don't seem to understand. Anne doesn't expect anything from you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23057",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Wait a minute. Do I get from you that she wants to pay me alimony?"
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "That's putting it crudely, but"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23058",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Remember what I told you about that twentieth crack? All right, you've just made it. Before you go unconscious I want you to get this through your nut."
+      },
+      {
+        "speaker": "GRAYSON",
+        "text": "I beg your pardon."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Unconscious. You know, when you don't know anything. Your natural state. There are some people - you can't buy their self-respect for a bucket of shekels - well, I happen to be one of those guys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23059",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GRAYSON",
+        "text": "We just thought that"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Don't think. Let me do all the thinking. Now you go back to that Schuyler outfit and tell them that I didn't marry that dame for her dough and I don't want any of her dough now. I was too poor to buy her a wedding present when we got married, so I'm giving her a divorce for a wedding present. Now, stand up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23060",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "GRAYSON",
+        "text": "Yes."
+      },
+      {
+        "speaker": "STEW",
+        "text": "And now for that twentieth crack"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23061",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "HANK",
+        "text": "Fine, but kinda thirsty."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Come right in - I'll get you a drink."
+      },
+      {
+        "speaker": "HANK",
+        "text": "Okay - you remember Joe"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Sure."
+      },
+      {
+        "speaker": "HANK",
+        "text": "I sort of invited him along to bend an elbow. You don't mind, do you?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "It's all right. Bring him in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23062",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "HANK",
+        "text": "Come in, Joe. It's all right."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Hello, Joe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23063",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "I'm sorry nobody could come."
+      },
+      {
+        "speaker": "HANK",
+        "text": "The rest of the gang had to get out the morning edition - but they'll be down later."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Now Hank, are you sure they're coming?  It will be lonesome without them.  Smythe, take this crowd in there and give them a drink. And find out what the boys in the back room want!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23064",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "What is it, Smythe?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Pardon me, madam - but what am I to say to the newspapermen?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23065",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Oh, Smythe, some bicarbonate of soda, quick - double strength. I know those news mongrels[3] will upset me."
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "I've anticipated it, madame. The bicarbonate is ready."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23066",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Some bicarbonate - quick!"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Double strength!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23067",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "SMYTHE",
+        "text": "Double-strength!"
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "\"Cinderella Man Grows Hair On Chest!\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23068",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "SMYTHE",
+        "text": "Pardon me, madam. They phoned through from the Mayor's committee to remind you it's past the hour for the reception."
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Are the cars ready?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "They've been ready for the last half hour."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23069",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Smythe, you've been drinking."
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "I have. Double-strength!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23070",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Dexter Grayson, you told me it was only ten thousandand you didn't even get those letters from that Jezebel!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Oh, so you did give her ten thousand dollars, eh? and there are letters..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23071",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "As a matter of fact, I was just trying to decide the color of Anne's eyes. I can't tell whether they're blue, or whether they're violet. What would you say, Mrs. Schuyler?"
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Why"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23072",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Indeed? Perhaps he will do me a great favor."
+      },
+      {
+        "speaker": "STEW",
+        "text": "With pleasure, Madame!"
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Get out of here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23073",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Nobody seems to want to do anything  Why not ask me? Perhaps I can offer a suggestion. Do what about what?"
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "About what? Your marriage to Anne!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Oh, my marriage to Anne. Now Mrs. Schuyler, we don't want you to go to any trouble about that. We just want the usual blessings, that's all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23074",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Stop calling me Mother!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "All right, Grandma"
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "This man's impossible! I can't talk to him. Grayson, let's go where we can talk - hic!  See what you've done to me!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23075",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Good morning, everybody  Well, maybe it isn't a good morning, huh?  Anne, did you ever get the feeling that there was someone else in the room with you?"
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Have you seen this?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Yes - the worm!"
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "I beg your pardon?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "He's a worm - and I'm gonna step on him!"
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "To engage in a brawl! A cheap, common brawl, in my own home! \"I wear the pants!\" The pants ! Not even the trousers!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23076",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "And you struck him right here in our house?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Yes, I'm sorry, I struck him right here in your house. And I'll strike anybody in anybody's house that calls me a Cinderella Man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23077",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "That's the fourteenth crack you've made to me. I'm keeping count. When you get to twenty, I'm gonna sock you right on the nose. As a matter of fact, I ought to sock you right now."
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Anne Schuyler, are you going to sit there and watch this man insult us? Haven't you any decency left?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23078",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "What's going on here? Who is this woman?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Joan of Arc! What's it to you?"
+      },
+      {
+        "speaker": "MRS. SCHUYLER",
+        "text": "Heavens! The man's insane!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Sure I'm insane, but I've got some good news for you.  This magnolia is leaving your sweet smelling vanilla joint. This bird in a cage is gonna button his own pants from now on. And that is what is known as telling the mother- in-law."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23079",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "There are no gentlemen on the Tribune."
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "I understand, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23080",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Now, now Jeeves.[5] Was that nice? Was that being a gentleman, Jeeves? Was it, Jeeves? Your name is Jeeves, isn't it?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "The name is Smythe."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Smythe! Well, well, well! With a Y , huh?  Congratulations! What a small world. Brothers under livery. Shake!  Now, as a Smith to a Smythe"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Mrs. Schuyler is not at home."
+      },
+      {
+        "speaker": "STEW",
+        "text": "I know, I know. I waited outside till she went out. She's a very nice lady, but we don't vibrate well together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23081",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "SMYTHE",
+        "text": "But I"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Now the lady said you may go"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23082",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "SMYTHE",
+        "text": "Well done, sir. Very neat."
+      },
+      {
+        "speaker": "STEW",
+        "text": "That's what I think of it, Bingy!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23083",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Smythe, the - er - gentleman is leaving."
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Yes, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23084",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "SMYTHE",
+        "text": "Did you call, sir?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Smythe, come here. I want to talk to you.  Come on, Smythe, talk to me. Smythe, I'm going nuts. I'm going nuts in this house! This big . . . come on, I'm not going to hurt you. Come on, what's the matter with you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23085",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Shhh! Do you hear something?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "You try it."
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Me, sir?"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23086",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "No, that's enough. I just wanted you to get the idea. Now you know. This house is haunted."
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "No, sir!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Yes. Have you looked in the closets all over . . .?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Found no skeletons?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "No, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "It's haunted just the same."
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Yes, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23087",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Smythe, what do you do with yourself - I mean, when you're not carrying those double-strength - what do you do with yourself?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Well, sir, I putter."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Smythe! I mean - when you're alone and want to amuse yourself, then what?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "I just putter."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Hmmm, you just putter. Do you have to have a putter to putter?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Oh no, sir. I putter with me hands."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Well, isn't that nice? You just go right ahead and putter with your hands. That's all right. How do you do it?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Well sir, I'll show you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23088",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "SMYTHE",
+        "text": "That's puttering, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "No! Well, well, well! That's all right, if you like it. Can anybody do that?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Oh no, sir. Some people are natural putterers. Others can never master it."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Oh my. You mean, some people are born and never will become putterers?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Yes sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Oh my, wouldn't that be tragic? To know that you could never be a putterer."
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Yes sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "How about me?  Do you think if I concentrated and put my whole soul into it, that some day I might be a putterer?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "You sir? Uh-uh. You could never be a putterer. Not a good putterer, sir."
+      },
+      {
+        "speaker": "STEW",
+        "text": "Well, if I couldn't be a good putterer, I wouldn't want to putter. But why? What makes you think I couldn't be a good putterer?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Well sir, to be a putterer, one's mind must be at ease. A person with a problem could never be a putterer. For instance, sir, a fish can putter in water but not on land because he'd be out of place. An eagle can putter around a rugged mountaintop but not in a cage, because he'd be restless and unhappy. Now sir, if you will pardon me, with all due respect, sir, as a Smythe to a Smith, you are an eagle in a cage."
+      },
+      {
+        "speaker": "STEW",
+        "text": "A bird in a gilded cage?"
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "STEW",
+        "text": "That's all I wanted to know!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23089",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "STEW",
+        "text": "Smythe, I'll get this. I'm expecting some friends."
+      },
+      {
+        "speaker": "SMYTHE",
+        "text": "Very good, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23090",
+    "movie_id": "m161",
+    "turns": [
+      {
+        "speaker": "SMYTHE",
+        "text": "It isn't done, gentlemen! It isn't done, I say! It isn't done!"
+      },
+      {
+        "speaker": "STEW",
+        "text": "Well, Gallagher, you certainly took no chances, did you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23091",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I just love you in that sweater Mary-Sue. It's so flattering."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23092",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I put blueberries in them just the way you like."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Actually--I'm not real ... hungry."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Oh nonsense young lady. You're going to start your day with a nice big breakfast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23093",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Mary Sue?"
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Yeah?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23094",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Can I ask you a question?"
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23095",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "What goes on up at Lover's Lane?"
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Well, you hear all these things lately. You know--kids spending so much time up there ...  Is it holding hands? That kind of thing?"
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Yeah ...  That--and ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23096",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "What?"
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "It doesn't matter."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "No. I want to know."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "... Sex."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Ah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23097",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "JENNIFER",
+        "text": "You sure you want to know this?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23098",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Yes ...  It's just that ..."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "What?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Well ...  ... Your father would never do anything like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23099",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Bud. Mary Sue ... Breakfast is on the table."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "We're in Pleasantville?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_23100",
+    "movie_id": "m162",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Bu-ud ... Mary Sue ... Your breakfast is getting cold."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "It can't be possible."
+      }
+    ]
+  }
+]

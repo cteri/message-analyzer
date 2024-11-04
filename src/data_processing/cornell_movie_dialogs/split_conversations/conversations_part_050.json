@@ -1,0 +1,2234 @@
+[
+  {
+    "conversation_id": "conv_4901",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Hello, uh, my name is Jeffrey Beaumont. Is Detective Williams in?"
+      },
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "Oh, yes, Jeffrey. Come in. He'll be back any minute now. You're welcome to wait. Is it urgent?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I just wanted to ask him a few questions, that's all. Maybe I better go."
+      },
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "Really, he'll be home soon, would you like a cup of coffee?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Alright."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4902",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "I was sorry to hear about your father. I know your mother from church. It's such a shame."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah, I know."
+      },
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "Would you like a piece of cake?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. No thank you."
+      },
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "It's a real good chocolate cake. Duncan Hines' devil's food. Real good."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4903",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "He comes over to study."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4904",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Mrs. Williams? Thanks for the cake."
+      },
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "Oh, you're welcome. Nice to finally meet you, Jeffrey."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Say \"goodnight\" to Sandy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4905",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "Here you are. Would anyone like coffee?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "That sounds great!"
+      },
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "Anyone else? Alright Jeffrey, just a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4906",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "Please excuse me a moment, Jeffrey, and I'll get to the dishes."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Sure thing, please don't worry about me. Can I help you with the dishes?"
+      },
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "Nice of you to offer, Jeffrey, but certainly not. Just relax and enjoy your coffee. I'm sure Sandy will be back soon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4907",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Sandy?... Sandy, please."
+      },
+      {
+        "speaker": "MRS. WILLIAMS",
+        "text": "I'll get a coat for her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4908",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "No."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Looks like you'd make a good runner."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Well."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I mean, you don't exactly have the build for a football. I mean, no offense."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4909",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "No, you're right."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I mean, some guys play anyway but they usually get slaughtered."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah, well I never wanted to get slaughtered much."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Well, most guys don't. I mean that's the point. You all mind if I take my vitamins?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4910",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Hey, you ivy league shit. COME HERE!"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Later Mike. I gotta take care of someone who's hurt here, in case you haven't noticed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4911",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Hi Dad."
+      },
+      {
+        "speaker": "MR. BEAUMONT",
+        "text": "Hey Jeff."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4912",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Looks like they've got you strapped in pretty good."
+      },
+      {
+        "speaker": "MR. BEAUMONT",
+        "text": "Uh-uh."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Are you feeling okay?"
+      },
+      {
+        "speaker": "MR. BEAUMONT",
+        "text": "Uh-uh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4913",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MR. BEAUMONT",
+        "text": "Good to see you, son."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "It's good to see you, Dad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4914",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "How ya doin' Dad?"
+      },
+      {
+        "speaker": "MR. BEAUMONT",
+        "text": "Hey Jeff. I'm feelin' so much better."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Good deal Dad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4915",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah, how did you know?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I just know, that's all. I remember you from Central."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4916",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Oh yeah?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You were pretty popular. Didn't you run for some office?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah I did, treasurer. Shouldn't you be studying or something."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Am I bothering you?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. You're not bothering me. You a senior?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "How is Central these days?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Terrible boring."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "What else is new? Right?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yeah. What are you doing now?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'm home from school. My father's in the hospital."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "That's too bad."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "What do you know about the ear? Anything?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Didn't my father tell you not to talk about it?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Come on, you brought it up. Do you know anything?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I don't really know much but bits and pieces. I hear things. My room is right above my father's office. The ear, there's no corpse in the morgue missing an ear, and it did come off a living person. That's direct from the Coroner's Office. The person is unknown. There are a couple of cases I get mixed up on, but I think there are some people who were brought in for questioning on a murder case that could have something to do with the ear. I heard some of the same names."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Do you know who was brought in for questioning?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "There were at least three, maybe four. But a name that keeps coming up is this woman who lives in an apartment building very close to your house and also close to the field where you found the ear. There's also a business man over by the Franklin factory district that was questioned. And a musician. And some others."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Were all these people questioned this afternoon?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "No, this has been going on for some time. Several months. About six months ago some parts of bodies were found down by the river. They were from people who were reported missing. They never found one complete body, only parts."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "The ear is from a missing person maybe?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Maybe so."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "It's a strange world isn't it? Do you know what building the woman lives in?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yeah. It's close by, that's what's creepy. They've had her under surveillance for a couple of months, except I don't know what they've found out because my father isn't in charge of her."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I guess you have to get back home soon?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Not really, why?  You want to see the building? Come on, I'll show you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4917",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "That's the building. She lives on the Seventh Floor. Don't stop to look long, the police are watching."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Where are they?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I don't know, you're not supposed to see them. They're supposed to see you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4918",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Did they find out anything when they questioned her?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I don't know, like I said, she's not my father's case."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Oh yeah. What about those other people? Anything?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "My father is watching the businessman. The businessman had a partner who disappeared. Left his whole business and family, his wife and two kids. They think he's been murdered."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "You really do hear a lot, don't you?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yeah, I guess so.  What are you going to do now that you're home?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I have to help out in my father's hardware store. They're giving me sort of my own hours for a while, which is nice."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Still, it must be kinda rough."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "It's not bad, but it's bad enough. It's a lot worse for my father.  I used to know a kid who lived there and who had the biggest tongue in the world."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4919",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "What happened to him?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I don't know. He moved away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4920",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "I've gotta go in."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Thanks for the tour. It was nice talking to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4921",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "I guess I'll see you sometime."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I guess so. Like you said. It's a strange world."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. Good bye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4922",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "You hungry or thirsty, or both?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'd like to talk to you about something."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Just a minute, pull over and wait a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4923",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "I don't want to cause any trouble."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I'm here, aren't I?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I guess Mike's got some sort of sports practice in the afternoon."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Ooooo, you are smart. Just don't get too smart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4924",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Alright, now tell me. What is it?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "There are opportunities in life for gaining knowledge and experience. Sometimes, in some cases, it's necessary to take a risk. I got to thinking. I'll bet a person could learn a lot by getting into that woman's apartment, you know, sneak in and hide and observe."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You said it was a strange world. And you're the strangest part of it. Are you crazy? She is possibly involved in murder. This gives me the creeps."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Settle down. I have a plan which I think will work. There is very little for you to do, but I do need your help. Aren't you curious about my plan?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "It wouldn't hurt to hear the plan, I guess."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Alright. the first thing is to get into her apartment and open a window that I could crawl into later."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Now, how are you going to do that?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Right out in the car I happen to have some old overalls and a bug spraying rig. I will go to her apartment and be the pest control man. I will spray her apartment. After a few minutes you will knock on her door, drawing her attention away from me and I will then jimmy a window."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "What will I say when she comes to the door?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "You will be a Jehovah's Witness. I have a few \"Awake\" magazines for you. You don't have to keep her very long. A few seconds is all I'll need. Whatiya think?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I don't know, it sounds like a good daydream, but actually doing it is too weird. Too dangerous."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Let's just try the first part. If that goes well, we'll see about the rest. No one will suspect us, because no one would believe two people like us would be crazy enough to do something like this."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You've got a point there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4925",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Now, we'll walk over so there's no license plates and you give me at least three minutes. I can stall if it's more, but I need time to find a good window, alright?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Alright."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Let's go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4926",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay, I'm going ahead. Wait a minute, what's her name?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Oh brother. Dorothy Vallens, Seventh Floor. Look on the mailbox for her number, bright boy."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Thanks. Dorothy Vallens. Okay, goodluck. Three minutes, no sooner."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Alright. Good luck, yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4927",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Are you alright?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah, let's get outta here. What happened?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4928",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "I was just about to go to the door, when that man did my job for me. Was it alright?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes and no. Did you recognize him?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "No. I only saw his back. He went down another stairwell at the end of the hall."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I didn't get a good look at him either, but he sure looked at me. I didn't have time to get a window, but I found this key.  Pretty nifty, huh?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yeah, if it opens the door."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4929",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "So, what's next?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Pretty clever. Are you game for more?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I owe you, since I goofed up this one."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "You didn't goof it up, but you still owe me one. I want to sneak in tonight. It's Friday, do you have a date tonight?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yes. I do."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Well, it's Friday night and you're a beautiful girl. I guess you would have a date, that does that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4930",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "You really want to do this, don't you?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I don't want you to get involved, really, I mean, I do, but if something went wrong I mean, like you said, they may be involved in murder."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4931",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "I'll tell Mike I'm sick. There's a game tonight anyway and he'll never miss me. Afterwards he can go out with the guys. Just so the record is kept straight though, I love Mike. What do want me to do?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "First of all, we'll have a nice dinner. Try to find out where Dorothy sings."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I already know. The \"Slow Club\". It's on Route 7."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Great. I'll pick you up around eight o'clock. Is that good?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yeah, but don't pick me up. My father may think it's strange. I'll walk over to your house. I'll be there at eight o'clock."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay. You better get out before someone sees us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4932",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "What's the plan."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "First of all, we're going to the Slow Club to see Dorothy Vallens. We'll watch her for awhile. I'd like to hear her sing anyway, and then also we'll know she is there and not in her apartment."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Brilliant."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Then we'll drive back to her apartment and I will plant myself there."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "This is not my usual Friday night!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4933",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "That sounds good."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Two."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4934",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Here's to. An interesting experience."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I'll drink to that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4935",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Jeffrey, I don't think you ought to do it."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "It's crazy and dangerous. My God, I shouldn't have told you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "It'll be okay. I don't think you should wait out here though. I think you should go home. Can you drive this car?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yeah, but."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Leave it in the front of your house for me, okay?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "OK."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Could you wait a little while, this key may not fit."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I wish you wouldn't do this. It doesn't make any sense. Let's go somewhere and have some coffee."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'm going in, Sandy. I'll see you tomorrow and tell you how it went."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I, I don't want to see you tomorrow. Mike's coming over."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Oh, okay, can I call?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Okay, yeah, call."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Look, it can wait till Sunday."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Call tomorrow. It's okay. Good luck. I hope you can sneak out okay. You're going to wait until she's asleep?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I'm going to wait here until she comes."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Are you sure?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I'll honk four times so you'll hear it and know she's on her way up. Okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4936",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay, thanks."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I don't know if you're a detective or a pervert."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "That's for me to know and for you to find out. I'll see you. I mean call you, okay?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Okay, okay. Bye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4937",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Well, how did it go? What happened?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Well, I've found out some things, nothing really for certain. There are some strange people involved."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "What did you see?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Well.  Maybe we should discuss this somewhere else, you know what I mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4938",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "What's with Mike?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "He got a little jealous."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'm sorry, I didn't..."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "It's okay. Don't worry about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4939",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "You want a Dairy Queen?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No way. I'm about to blow up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4940",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "You want to tell me about it?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "OK. It's a strange world, Sandy. This is what I have found out. What I think I have found out. Dorothy Vallens is married to a man named Don. They have a son. I think the son and the husband have been kidnapped by a man named Frank who has now cut off both of Don's ears. I think he is holding them to make her do things for him. I think she wants to die. The ears were for her a warning to stay alive. There is another man involved. I call him the \"yellow man\". You saw his back the other day in the hall at her door. I don't know what he does but I think he's on drugs supplied by Frank. Frank is a very dangerous man."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Wow. Should you tell my father?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I don't see how I can, and I can't prove any of this. I got all this information illegally. Also it could get you in trouble."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You saw a lot in one night."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Actually. I've been in twice."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Twice. Without her sensing anything?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Did you see her undressed?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. I mean a little, you know."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "That doesn't bother you, does it?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Who, me? Why should it?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "That's what I thought."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You're sure right. It is a strange world."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Why are there people like Frank. Why is there so much trouble in this world?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I don't know. I had a dream. In fact, the night I met you.  In the dream the world was dark because there weren't any robins. You know, birds. Robins stood for love, and all of a sudden thousands of robins flew down and brought this blinding light of love. And it felt like that love would be the only thing that would make any difference. I guess, until the robins come there is trouble."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah I guess so.  You're a neat girl."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "So are you.  I mean you're a neat guy. We better get back."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I guess so. You want to help me watch Frank? I'm going to stake out Frank's place tomorrow with a camera."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4941",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "No, silly - I'm still in school you know. But I'll meet you after school and you can tell me what you've learned. You better be careful, Jeffrey."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I will. I'll pick you up on the same corner at three thirty-five, okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4942",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Okay, be careful."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay, Sandy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4943",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Can I give you a kiss good night?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You better not, Jeffrey."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay, okay."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Goodnight."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "See ya tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4944",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "You were late."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'm really sorry."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "What am I going to do?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "You want to go talk to him?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yeah, but I don't think it's going to do much good. Let's go. I'll try to talk to him later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4945",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "You know, that cheese is practically all chemicals."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "That's what makes it so good. You wanta hear what I saw today?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Shoot."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Number one. I saw the Yellow Man go into Frank's building, laughing with Frank. Now, the only trouble is, what does this prove?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Nothing really, but it's interesting. They know each other. They seem to like each other."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Maybe. But I think the Yellow Man is on drugs. I think Frank supplies him."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Oh yeah?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Number two. I saw the Yellow Man come out. This time with a well- dressed man with an alligator briefcase. They drove down this factory building and stood on a staircase looking at something in the distance. Number three. Now get this. In the distance was a murder. A drug dealer shot to death and a woman with her legs broken."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Jeffrey!!"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Then these guys told me the police will find a huge amount of drugs inside the dead man's place."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I can't believe what you are finding out. Are you going to continue with this. Are you going back to her apartment?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Jeffrey? Why?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'm seeing something that was always hidden. I'm involved in a mystery. I'm learning. And it's all secret."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You like mysteries that much?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah, you're a mystery. I like you. Very much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4946",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "You worry about me really?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Yes. Is that so surprising? Yeah I worry, a lot. I got you into this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4947",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Great. Hey, I've got a bit of a problem. I know some things that could help your father but you might get into trouble."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Jeffrey, are they important things? Well forget me - you have to tell him. Jeffrey, I mean it."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay, but I promise I won't mention you. Okay? I'll see him at the police station, okay? See you Friday night, if not before."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4948",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Everything okay?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. I think so. I just had to tell him some of what I knew. Is Friday still on?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You didn't tell him about me?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4949",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "I should never had gotten you going on this.  Yes Jeffrey. Friday's on!"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay. Great!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4950",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Just some fatherly advice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4951",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "What was that all about?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Nothing, really! It's good to see you."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "It's good to see you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Where to?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Just go over to Gelford and up to Vista. It's not far. Can you tell me any more about what you learned?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'd rather not talk about it. I'll tell you about it sometime."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "It's okay."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "You look beautiful."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Thank you. Whatiya say we just enjoy the evening?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I like that idea, that's a real good idea."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4952",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "You want to dance?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I can't dance fast."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Really?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Really. You want to dance with someone else?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "NO."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Let's wait for some slow one."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Just a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4953",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "You want to dance?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4954",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Oh my God. What's wrong?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Frank!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4955",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "My father has a gun at home."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "No."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Sandy, this guy is a killer!! I promise you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4956",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Dorothy!... Dorothy!"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Dorothy Vallens?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4957",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Take her to my house. My dad can get an ambulance faster than anyone. Do you have anything to put around her?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. Is Detective Gordon going to be at your house?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Probably not. No. Why?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay. Let's get her over to your father's."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Right. Watch out for Mike, there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4958",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Jeffrey? What's going on?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Shhh. I'll tell you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4959",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "I should go with her, Sandy."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Go ahead."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Sandy?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Go ahead!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4960",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Please get to your father and send him and the police to Dorothy's apartment right away. Be sure your father comes. Something is happening over there. They're hurting someone, the guy she loves. Tell them to hurry. I'm going over right now."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "No Jeffrey!!"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes I'm going. I have to. I love you. I will, believe me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4961",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Look Jeffrey."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. I just saw him outside. Maybe the robins are here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4962",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Mike's gotta go.  Nice to meet you."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah, nice meetin' you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4963",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "What are watchin' this junk for?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You can change it if you want to."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I don't know why we have to watch TV."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Mike. We don't have to watch it. Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4964",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Sandy? Could I talk to you a minute?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Sure, just a sec.  Excuse me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4965",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Come on out a minute, okay?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4966",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Hey come here, you stole my girl, you bastard. I'm gonna kick your ass, right in front of your stupid house."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Stop it Mike."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "You shut up. Nobody's talkin' to you. Hey who's that Jeffrey? Your mother?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4967",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "What did he bring him in for?"
+      },
+      {
+        "speaker": "AUGUSTUS",
+        "text": "Needed an outsider. The package boy knows everyone. He'd spot our hitters a mile away."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Just for him?"
+      },
+      {
+        "speaker": "AUGUSTUS",
+        "text": "Well he's the one shooting up all his guys, right? He's scared of the kid. Says he's real good, got every available gun in the city up there."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Up where?"
+      },
+      {
+        "speaker": "AUGUSTUS",
+        "text": "Up his house. I don't know what's going on but I know it's gotta have something to do with this kid."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Oh fuck!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4968",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "AUGUSTUS",
+        "text": "Fuck you."
+      },
+      {
+        "speaker": "YAKAVETTA",
+        "text": "Hey, Augustus, I need your help, I got a serious problem here. I'm not screwing around."
+      },
+      {
+        "speaker": "AUGUSTUS",
+        "text": "I bounced you on my knee at family reunions, for Christ sakes. Your dad and me ran the whole east coast syndicate you snot-nosed little prick. And when you took the wheel, who was beside you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4969",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "YAKAVETTA",
+        "text": "Hey, I just..."
+      },
+      {
+        "speaker": "AUGUSTUS",
+        "text": "Don't start with your shit. Don't you talk to me. Oh, hey Uncle Gussy, thanks for years of service. Here's a gold watch and a job sniffing other guys' shit eight hours a day. What am I, a retired bus driver?"
+      },
+      {
+        "speaker": "YAKAVETTA",
+        "text": "I need Il Duce."
+      },
+      {
+        "speaker": "AUGUSTUS",
+        "text": "The Duke?  What did you do?"
+      },
+      {
+        "speaker": "YAKAVETTA",
+        "text": "This kid, this package boy could bring down the whole east coast. If he decides to turn states he could dismantle us... totally. But it looks like for now, he's content with just killing us one by one. And even worse the kid is good at it. I mean I had a prodigy on my hands the whole time and didn't even know it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4970",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "AUGUSTUS",
+        "text": "Listen kid, I think you better understand who you're dealing with here."
+      },
+      {
+        "speaker": "YAKAVETTA",
+        "text": "Yeah. I was only twelve or thirteen when you guys used to talk about him, like he was a ghost or something."
+      },
+      {
+        "speaker": "AUGUSTUS",
+        "text": "Your dad and I used him three times over twenty years, only when everything went totally fucked. Believe me kid, you don't want this guy unless you are 100% sure you need him. He is... a fuckin' monster."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4971",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "YAKAVETTA",
+        "text": "There's ways around that."
+      },
+      {
+        "speaker": "AUGUSTUS",
+        "text": "Go find one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4972",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "Lord's name."
+      },
+      {
+        "speaker": "BOTH",
+        "text": "Mother Mary, full of grace."
+      },
+      {
+        "speaker": "MOM",
+        "text": "What did you do, Connor?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4973",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "Well listen, I know how my boys take ta scrappin' when they take ta drinkin'."
+      },
+      {
+        "speaker": "BOTH",
+        "text": "Yes mother."
+      },
+      {
+        "speaker": "MOM",
+        "text": "I mean it now. I carried the two of you little bastards around in my belly at the same time you ungrateful pissants. Ya ruined my girlish figure in one fell swoop, and then ya sucked me dry.  My tits are saggin' down ta my ankles. I trip over em for Christ sakes, now ya listen ta me, NO FIGHTEN!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4974",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "Are ya ready?"
+      },
+      {
+        "speaker": "BOTH",
+        "text": "Aye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4975",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CHAFFEY",
+        "text": "Yes sir."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Look in the trash around their hands. See if you can find me two bullet casings. 45's, if my eye serves me right. Don't disturb them. Mark them as they lay. Newman, root through this shit.  If this was a sink find me some metal parts. Gimme a faucet or a drain cover or something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4976",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "Paraffin came up positive. And bullet holes are usually a big clue."
+      },
+      {
+        "speaker": "CHAFFEY",
+        "text": "I can't find the second one, sir."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Look under the body."
+      },
+      {
+        "speaker": "CHAFFEY",
+        "text": "Got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4977",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CHAFFEY",
+        "text": "Are these me considered armed and dangerous?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Well, not armed. If they had guns, they'd have used them. But dangerous? Oh yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4978",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "Look, look! I'm not saying one way or the other. Just be careful and go by the protocol on this one."
+      },
+      {
+        "speaker": "CHAFFEY",
+        "text": "Any tips on where these guys may be?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Any word back from the E.R.s?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4979",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CHAFFEY",
+        "text": "Ah, Agent Smecker, we have a problem."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "What?"
+      },
+      {
+        "speaker": "CHAFFEY",
+        "text": "The press is everywhere outside. They're going nuts for these guys. What do you want to do?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "You're not being charged. It's up to you. Do you want to talk to them?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4980",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Oh, God! Don't kill me! We're on the same side! The boss musta sent you in as back up, huh? Oh, shit, please! I'm Rocco. I'm the funny man.  They call me the funny fuckin' man!"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Where's your gun?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Chest pocket.  Shit!"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "This is a six-shooter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4981",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Poppa Joe said there was only two. In and out.  Boy, you guys sure did a good job. You're good, huh? Cool masks. Where'd you get them?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Let's do him right here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4982",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "What did you do?! Fuckin'... what the fuckin' fuck! Who the fuck, fucked this fuckin'? fuck. How did you two fuckin', fucks?......... FUCK!!!"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Certainly illustrates the diversity of the word."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4983",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "What the fuck are you doing here? What, huh!? WHAT? WHAT? WHAT? ANSWERS! I WANT FUCKIN' ANSWERS!"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Get a hold of yourself, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4984",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Anybody you think is evil?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Don't you think that's a little psycho? A little weird?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Weird, huh?... Know what I think is weird? Decent men with loving families go home every day after work. They turn on the news and see rapists, murderers, and child molesters all getting out of prison."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4985",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Climb the corporate ladder, boy. Don Rocco."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Fuck it! I'm doing it. I deserve it. I've been working for those fat bastards since I was in high school and look at this place."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4986",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Donna's gonna be angry about her cat."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Shit. She's on every drug know to man. She'd have sold that thing for a dime bag. Screw her.  But I do kinda feel like an ass-hole."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "You sound real remorseful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4987",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "She ain't been around in weeks anyhow."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Listen. Something's been bothering me about last night."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "What?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Well... what if your boss knew how many guys were supposed to be there... in that room?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "What are you saying?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Think about it man. Nine men, six bullets."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "You think they sold me out? No way."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "He probably knew you'd end up nailing the fat guy, maybe one or two more, but he had to know you weren't walking out of there. Figure it out. Shooter's dead on the scene. No in-depth investigation. It'd slide right off his back. 'Cause as much as I love ya, you're not exactly Don Corleone. What would he be losing? A thirty- five year old delivery boy?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "No, no. That's just not the way things are done. Besides, how's he know I don't just get in there see there's too many and just serve em their fuckin' food and beat it?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "He knows you, man. He knows all you want is to move up. That's all. A smooth hitter woulda gone in there, seen it was a wash and slipped out. But a guy like you? Knowin' this is your only chance? Waitin' eighteen years?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "No. No man. That's... that's... you don't know what you're talking about. That's bullshit. I know these guys. I mean, thanks for your concern, but that just ain't the thing of it."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Do me a favor and roll it around for a bit on your way in."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "No, look. No rolling. Nothing needs to be rolled."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4988",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Pack your shit! We gotta get outta here! We gotta get out!"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "I killed em! Oh, Jesus! I killed em all!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4989",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "What did I fuckin' do?... in the middle of the Lakeview."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Lakeview the deli? Oh, shit!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4990",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Anybody see ya?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Fuck, man! I may as well have posted flyers. Right out in public, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4991",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Yeah, well..."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Oh, what the fuck? How do you guys decide who you're... I mean, who makes the cut? Is there a raffle or something?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4992",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "I guess we really don't have a system of deciding who."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "MEEE! ME! I'm the guy! I know everyone, their habits, where they hang out, who they talk to. I know where they fuckin' live. We could kill everyone!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4993",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "What the fuck are you doing?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "I-I'll tip her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4994",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "What? What is it?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "This place is like a scumbag yard sale."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4995",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Oh man. You gotta let me do these guys. I'm such a moron. I gotta make up for the tit thing."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "No way. I've been waitin' for this asshole."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Aw, c'mon. I gotta clear my family name here. I've brought shame to the house of Della Rocco."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4996",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "You guys gotta teach me that prayer, man. That's some good shit."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Forget it. It's a family prayer. My father, his father before him that sort of shit."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "C'mon!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4997",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Who the fuck was he, Rocco? I know you fuckin' know!"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Fuck you! I told you I never saw him before!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4998",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Look again for fuck sake!"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "I know what the fuck he looks like!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4999",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Shit."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "What?  What, that guy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5000",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "They got nothing."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "This guy is very sharp. If he hasn't figured us out yet, he will."
+      }
+    ]
+  }
+]

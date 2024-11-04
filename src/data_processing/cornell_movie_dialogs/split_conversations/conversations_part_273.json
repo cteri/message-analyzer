@@ -1,0 +1,1834 @@
+[
+  {
+    "conversation_id": "conv_27201",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Saavik, get us out, best speed!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27202",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Time from my mark..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Two minutes, ten seconds."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Engine room! What's happening?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27203",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Time!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Three minutes, thirty seconds."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Distance from Reliant..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27204",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "After you dismiss the company, you will take the watch. Set course for Ceti Alpha V and we'll pick up survivors."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Aye, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I'll be in my quarters if needed, but I would prefer..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Understood, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Dismiss the company."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27205",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Admiral on the bridge!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "As you were, Mr. Saavik."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Aye, sir. On course to Ceti Alpha. All is well."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Good, I believe you already know my, uh, son --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27206",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Yes, well, why don't you show him around and..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Aye, sir --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27207",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "I really must thank you."
+      },
+      {
+        "speaker": "SULU",
+        "text": "I am delighted; any chance to go aboard Enterprise, however briefly, is always an excuse for nostalgia."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I cut your new orders personally. By the end of the month, you'll have your first command: USS EXCELSIOR."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Thank you, sir. I've looked forward to this for a long time."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You've earned it. But I'm still grateful to have you at the helm for three weeks. I don't believe these kids can steer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27208",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Stop engines."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Stop engines."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27209",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Course plotted for Regula I, Admiral..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Engage warp engines --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27210",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Reliant in our section this quadrant, sir, and slowing --"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Visual."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27211",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Sulu... The shields!"
+      },
+      {
+        "speaker": "SULU",
+        "text": "Trying, sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27212",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "I can't get power, sir!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Scotty!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27213",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Sulu, lock phasers on target and await my command..."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Phasers locked..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27214",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Sir, you did it."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "<u>I did nothing</u> -- except get caught with my britches down. I must be senile. Mr. Saavik, you just keep right on quoting regulations. Meantime, let's find out what the hell is going on and see how bad we've been --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27215",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Approaching Regula and Space Lab Regula I."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Try again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27216",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Admiral on the bridge --"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Battle stations."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27217",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Phaser lock inoperative, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Best guess, Mr. Sulu. Fire when ready."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27218",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Leaving Section Fourteen for Section Fifteen."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Project parabolic course to avoid entering Neutral Zone."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Aye, Captain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27219",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "May I remind the Captain that if a Starship enters the zone --"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "I'm aware of my responsibilities, Mister."
+      },
+      {
+        "speaker": "SULU",
+        "text": "... Now entering the Neutral Zone..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27220",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Shields activated!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Inform the Klingons we are on a rescue mission..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27221",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "We're over our heads. Mr. Sulu, get us out of here."
+      },
+      {
+        "speaker": "SULU",
+        "text": "I'll try, Captain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27222",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Aft thrusters, Mr. Sulu."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Aft thrusters, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27223",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "We are clear and free to navigate."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Course heading, Captain?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27224",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Prepare for warp speed."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Ready, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27225",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "We commend the soul of our brother departed. We love we commit his body to the depths of space."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Honors -- hup!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27226",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Fire all phasers...!"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "No power to the weapons system, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27227",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "He's not what I expected, Sir."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "What did you expect, Lieutenant?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "He's very human."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "We can't all be perfect, Saavik. You must control your prejudices and remember that as a Vulcan as well as a Romulan you are forever a stranger in an alien land. Around you are humans, and as a member of the Starfleet you are unlikely ever to escape their presence or their influence. You must learn to tolerance in addition to all else I have taught you. Tolerance is logical."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27228",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Very well, Mr. Saavik, clear all moorings."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27229",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "All moorings are clear, Captain."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Thank you, Mr. Saavik."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27230",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Lieutenant, how many times have you piloted a Starship out of Spacedock?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Never, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27231",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Take her out, Mr. Saavik."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27232",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Sir, may I quote General Order 12: 'On the approach of any vessel, when communications have not been est --"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Lieutenant, the Admiral is aware of the Regulations."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27233",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Certainly..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "By the book..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27234",
+    "movie_id": "m193",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "You lied."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I exaggerated."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27235",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "I do not understand the final question..."
+      },
+      {
+        "speaker": "AMANDA",
+        "text": "You are half human. The Computer knows that."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "The question is irrelevant."
+      },
+      {
+        "speaker": "AMANDA",
+        "text": "Spock... The retraining of your mind has been in the Vulcan way, so you may not understand feelings. But as my son, you have them. They will surface."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "As you wish, since you deem them of value. But I cannot wait here to find them."
+      },
+      {
+        "speaker": "AMANDA",
+        "text": "Where must you go?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "To Earth. To offer testimony."
+      },
+      {
+        "speaker": "AMANDA",
+        "text": "You do this -- for friendship?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I do this because I was there,"
+      },
+      {
+        "speaker": "AMANDA",
+        "text": "Spock. Does the good of the many outweigh the good of the one...?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I would accept that as an axiom."
+      },
+      {
+        "speaker": "AMANDA",
+        "text": "Then you stand here alive because of a mistake -- made by your flawed, feeling, human friends. They have sacrificed their futures because they believed that the good of the <u>one</u> -- you -- was more important to them."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Humans make illogical decisions..."
+      },
+      {
+        "speaker": "AMANDA",
+        "text": "... They do, indeed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27236",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BOB",
+        "text": "Heard there was some excitement."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Just a couple of kooks..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27237",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BOB",
+        "text": "How're you doing?"
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Fine. Just fine."
+      },
+      {
+        "speaker": "BOB",
+        "text": "Don't tell me fish stories, kiddo. I've known you too long."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Bob... it's tearing me apart."
+      },
+      {
+        "speaker": "BOB",
+        "text": "I know. I feel the same thing. But we're between a rock and a hard place. We can't keep them without risking their lives and we can't let them go without a taking the same chance."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "BOB",
+        "text": "And finally, they're not human beings, you know. Their intelligence has in no way been proven comparable to ours --"
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "I don't know about you, but my compassion for someone is not limited to my estimate of their intelligence.  I mean whales may not have painted the Mona Lisa or invented the dirt bike but they didn't ravish the land either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27238",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "GILLIAN",
+        "text": "Sorry if I spoke out of turn."
+      },
+      {
+        "speaker": "BOB",
+        "text": "Not at all. You gave me things to think about. You always do. You do sound a little wrecked, why don't you go home and stare at the ceiling?"
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Why don't I?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27239",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "GILLIAN",
+        "text": "You -- sent them away. Without even letting me say goodbye?"
+      },
+      {
+        "speaker": "BOB",
+        "text": "Gillian --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27240",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "NICHOLS",
+        "text": "Professor Scott, I'm Dr. Nichols, plant manager. I'm terribly sorry but there's been an awful mix-up Would you believe I was never told about your visit?"
+      },
+      {
+        "speaker": "BONES",
+        "text": "I tried to clear things up, Professor Scott. I explained you'd come all the way from Edinburgh on appointment to study manufacturing methods here at Plexico, but they don't seem to know anything about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27241",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "NICHOLS",
+        "text": "Well, so much for the tour of our humble plant. I must say, Professor your knowledge of engineering is most impressive."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Back home, we call him the miracle worker."
+      },
+      {
+        "speaker": "NICHOLS",
+        "text": "Indeed... May I offer you gentlemen anything?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27242",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "He never jokes... Perhaps the professor could use your computer."
+      },
+      {
+        "speaker": "NICHOLS",
+        "text": "Please..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27243",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "NICHOLS",
+        "text": "No!  No... What did you have in mind...?"
+      },
+      {
+        "speaker": "BONES",
+        "text": "A moment alone, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27244",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "You'd think they could at least send a ship. Bad enough to be court marshaled and spend the rest of our lives mining borite -- but to come home in this Klingon flea trap..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "We could learn a thing or two from this flea trap. It has a cloaking device that cost us a lot."
+      },
+      {
+        "speaker": "BONES",
+        "text": "I just wish we could cloak the stench."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27245",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "You sure this is such a bright idea?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "BONES",
+        "text": "I mean <u>him</u>, back at his post, like nothing happened. I don't know if you'd got the whole picture but he isn't exactly working on all thrusters."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "It'll come back to him."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Are you sure?  That's what I thought."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Sulu... Take us home..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27246",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Bones --"
+      },
+      {
+        "speaker": "BONES",
+        "text": "Dammit, Jim, they've made him into a goddam green-blooded computer!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27247",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Bones, stay here."
+      },
+      {
+        "speaker": "BONES",
+        "text": "No way -- somebody has to keep an eye on him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27248",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "Now wait just a damn minute."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Spock, start your computations for time warp.  Come on, Bones. Let's pay Scotty a visit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27249",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "You're really going to try this time travel in this rust bucket?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "We've done it before."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Sure, slingshot around the Sun. If you pick up enough speed you're in time warp. If you don't, you fry.."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Would you prefer to do nothing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27250",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "I prefer a dose of common sense. you are proposing to head backwards in time, find Humpback Whales, then bring them forward in time, drop them off - and hope they tell this Probe what to do with itself!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "-- That's the general idea."
+      },
+      {
+        "speaker": "BONES",
+        "text": "That's crazy!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "If you have a better idea - now's the time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27251",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "It doesn't look all that different."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Let's hope so, Bones. Mr. Sulu, set us down in Golden Gate Park."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27252",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "Oh, joy."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Captain Spock and I will attempt to trace these whale songs to their source."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27253",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "Jim, you've got to let me go in there! Don't leave him in the hands of Twentieth Century medicine."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What do you think, Spock?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27254",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "What did you say she was getting?"
+      },
+      {
+        "speaker": "BONES",
+        "text": "Cramps."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27255",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "An experimental device, doctor."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Tearing of the middle meningeal artery..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27256",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "Wake up, man, wake up!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Come on, Pavel..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27257",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "He's coming 'round, Jim..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Pavel, can you hear me? Give me your name and rank..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27258",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "Congratulations, Jim. I think you've saved the Earth."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Not me, Bones... They did it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27259",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "Hi... Busy?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Uhura is busy. I am monitoring."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Umm. Well, just wanted to say -- nice to have your katra back in your head, not mine.  I mean, I may have carried your soul, but I sure couldn't fill your shoes."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "... My shoes..."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Forget it...  How 'bout covering a little philosophical ground? Life, Death, Life... Things of that nature?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I did not have time on Vulcan to review the Philosophical disciplines."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Spock, it's me, Bones! I mean our experience was unique. You really have gone where no man has gone before. Can't you tell me what it felt like?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "It would be impossible to discuss the subject without a common frame of reference."
+      },
+      {
+        "speaker": "BONES",
+        "text": "You're joking...!"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "A joke is a story with a humorous climax."
+      },
+      {
+        "speaker": "BONES",
+        "text": "You mean I have to die to discuss your insights on death?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Pardon me, Doctor, I am hearing many calls of distress."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27260",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Most unusual. An unknown form of energy of great intelligence and power. I find it illogical that its intentions are hostile..."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Really? You think this is its way of saying \"Hi there\" to the people of the Earth?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "There are millions of other species on Earth, Doctor. Only human arrogance would assume the message was meant for man."
+      },
+      {
+        "speaker": "BONES",
+        "text": "I liked him better before he died."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27261",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Specifically, Humpback Whales."
+      },
+      {
+        "speaker": "BONES",
+        "text": "That's crazy! Who would send a probe hundreds of light years to talk to a whale?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27262",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "10 million years earlier. Humpbacks were heavily hunted by Man. They have been extinct since the 21st Century... It is possible that an alien intelligence sent the probe to determine why they lost contact."
+      },
+      {
+        "speaker": "BONES",
+        "text": "... My God..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27263",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "You just said there aren't any except on Earth of the past."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "That is what I said, Doctor."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Then how.?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27264",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "Angels and ministers of grace, defend us."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Hamlet, Act I scene 4."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27265",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "BONES",
+        "text": "You, ah...  You present the appearance of a man with a problem."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Your perception is correct, Doctor... In order to return us to the exact moment at which we left the 23rd Century, I have used our journey back through time as a referent, calculating the coefficient of elapsed time in relation to the acceleration curve."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Naturally.  So what is your problem?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Acceleration is no longer a constant."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Well, you're gonna have to take your best shot."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "... Best shot...?"
+      },
+      {
+        "speaker": "BONES",
+        "text": "Guess, Spock. Your best guess."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "\"Guessing\" is not in my nature..."
+      },
+      {
+        "speaker": "BONES",
+        "text": "Well nobody's perfect..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27266",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "... I don't think he understands..."
+      },
+      {
+        "speaker": "BONES",
+        "text": "No, Spock. It means he feels safer about your \"guesses\" than most other peoples facts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27267",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "You're saying... It is a compliment."
+      },
+      {
+        "speaker": "BONES",
+        "text": "It is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27268",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "Who are you? Doctor Adams was supposed to assist me."
+      },
+      {
+        "speaker": "BONES",
+        "text": "We're just -- observing."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "I was not informed about observers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27269",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "What the hell do you think you're doing?"
+      },
+      {
+        "speaker": "BONES",
+        "text": "Reading the patient's vital signs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27270",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "What's your degree in, dentistry?"
+      },
+      {
+        "speaker": "BONES",
+        "text": "How do you explain slowing pulse, low respiratory rate and coma?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Fundoscopic examination --"
+      },
+      {
+        "speaker": "BONES",
+        "text": "Fundoscopic examination is unrevealing in these cases!"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "A simple evacuation of the expanding epidural hematoma will relieve the pressure."
+      },
+      {
+        "speaker": "BONES",
+        "text": "My God, man, drilling holes in his head is not the answer. The artery must be repaired without delay or he will die! So put away your butcher knives and let me save the patient!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27271",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "What's causing that!?"
+      },
+      {
+        "speaker": "SCIENCE OFFICER",
+        "text": "Captain, their call is being carried on an amplification wave of enormous power!"
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Can you isolate the wave?"
+      },
+      {
+        "speaker": "SCIENCE OFFICER",
+        "text": "Negative. It's impacting on all our systems!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27272",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "Damage report!"
+      },
+      {
+        "speaker": "SCIENCE OFFICER",
+        "text": "Captain... All systems have failed... We are functioning on reserve power only."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "We're out of control -- Rig for collision..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27273",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "Find it?"
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Yes, under \"U.S. Government.\" Now we need directions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27274",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Team leader, this is team 2.   Come in, please..."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "I have the coordinates of the reactor..."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "... It gives me a great sense of history."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "It gives me a great sense of danger. We have to beam in next to the reactor room, not in it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27275",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "How long?"
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Depends on how much shielding is between us and the reactor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27276",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "FBI AGENT",
+        "text": "All right, Commander, you wanna tell us anything?"
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "FBI AGENT",
+        "text": "Like who you really are and what you're doing here and what this thing is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27277",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "My name is Pavel Chekov. I am a Lt. Commander in Starfleet, United Federation of Planets, service number 656-5827b."
+      },
+      {
+        "speaker": "FBI AGENT",
+        "text": "All right. Let's take it from the top."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "The top of what?"
+      },
+      {
+        "speaker": "FBI AGENT",
+        "text": "Name?"
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "My name?"
+      },
+      {
+        "speaker": "FBI AGENT",
+        "text": "No, <u>my</u> name."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "I do not know your name."
+      },
+      {
+        "speaker": "FBI AGENT",
+        "text": "You play games with me and you're through"
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "I am? May I go now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27278",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "FBI AGENT",
+        "text": "Okay... Make nice and give us the ray gun."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "I varn you. If you don't lie on the floor, I vill have to stun you."
+      },
+      {
+        "speaker": "FBI AGENT",
+        "text": "Go ahead. Stun me."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "I'm wery sorry, but --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27279",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Operational, Admiral. Cloaking Device now available in all modes of flight."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I'm impressed, Mr. Chekov. A lot of effort for a short voyage."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "We are in an enemy wessel, sir. I didn't wish to be shot down on thee way to our own funeral."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Most prudent.  Engine room. Report, Scotty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27280",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "No, sir. And no Federation wessels on assigned patrol stations."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "That's odd. Uhura, what's on the Comm channels...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27281",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Shields, Mr. Chekov."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Shields, aye."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "May fortune favor the foolish.  Mr. Sulu, Warp Speed!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27282",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "No choice now, Scotty!"
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Sir, heat shields at maximum!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27283",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Dr. McCoy, you, Mr. Scott and Commander Sulu will convert us a whale tank."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27284",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Ah, well done, team 2."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "And Admiral, it's the Enterprise."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Understood. What is your plan?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27285",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Cloaking device is stable... All systems normal."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Stabilize Energy Reserve!... Report helm:"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27286",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "The mains are down, sir! Aux power is not responding."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Sulu, switch to manual control!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27287",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "COUNCIL PRESIDENT",
+        "text": "Status report, Admiral!"
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Mr. President, the Probe has passed through all quadrants. The starships Shepard and Yorktown and three smaller vessels have been neutralized."
+      },
+      {
+        "speaker": "COUNCIL PRESIDENT",
+        "text": "\"Neutralized?\" How?"
+      },
+      {
+        "speaker": "MORROW",
+        "text": "We don't know. It's using forms of energy our best scientists do not understand..."
+      },
+      {
+        "speaker": "COUNCIL PRESIDENT",
+        "text": "Can you protect us?"
+      },
+      {
+        "speaker": "MORROW",
+        "text": "We are launching everything we have."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27288",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "To hunt a species to extinction is not logical."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Whoever said the human race was logical?  Now if you'll follow me, I'll introduce you to the Institute's pride and joy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27289",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Attempting the hell to communicate."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Communicate? Communicate what? You have no right to be here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27290",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "They like you very much. But they are not the hell your whales."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "I suppose they told you that...?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "The hell they did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27291",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "GILLIAN",
+        "text": "So you were at Berkeley."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I was not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27292",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Are you sure it isn't time for a colorful metaphor?"
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "You're not one of those guys from the military, are you? Trying to teach whales to retrieve torpedoes, or some dipshit stuff like that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27293",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "GILLIAN",
+        "text": "You sure you won't change your mind?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Is there something wrong with the one I have?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27294",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "You mean man..."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "To put it mildly. Since the dawn of time, men have harvested whales for a variety of purposes, most of which can be achieved synthetically at this point. A hundred years ago, using hand-thrown harpoons, they did plenty of damage -- but that was nothing compared to what they've achieved in this century."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27295",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "GILLIAN",
+        "text": "They are mature humpbacks, weighing 45,000 pounds each. They wandered into San Francisco Bay as calves and were brought here. We call them George and Gracie."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "It's perfect, Spock: a male, a female, together in a contained space can beam them up together and consider ourselves damn lucky..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27296",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "GILLIAN",
+        "text": "Despite all the things they are teaching us we have to return George and Gracie to the open sea."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Why's that?"
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Well, for one thing, we simply don't have the money to keep feeding them a couple of tons of shrimp a day!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "How soon?"
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Soon... It's too bad because they're very friendly as you can see. I've grown quite attached to them... This way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27297",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "GILLIAN",
+        "text": "Ohhh<u>kay</u>. I don't know what this is about, but I want you guys outta here right now or I call the cops."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I assure you that won't be necessary. We were only trying to help..."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "The hell you were, buster. Your friend was messing up my tank and messing up my whales..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27298",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Back to San Francisco."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Came all the way down here to jump in and swim with the kiddies, huh?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "There's really very little point in my trying to explain."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "I buy that. What about him?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "He's harmless.  Back in the sixties he was part of the Free Speech movement at Berkeley. I think he did too much LDS."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "LDS?? Are you dyslexic on top of everything else? Come on, Lemme give you a lift. I have a notorious weakness for hard luck cases -- that's why I work with whales."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "We don't want to be any trouble."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "You've already been that. C'mon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27299",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Don't mention it. And don't try anything, either. I got a tire iron right where I can get at it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27300",
+    "movie_id": "m194",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Memory problems, too."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Uh huh. What about you? Where you from?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Iowa."
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "A landlubber. Come on, what the hell were you boys really trying to do back there? Was it some kinda macho thing? If that's all, I'm gonna be real disappointed. I hate that macho type."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Can I ask <u>you</u> something?"
+      },
+      {
+        "speaker": "GILLIAN",
+        "text": "Go ahead."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What's going to happen when you release the whales?"
+      }
+    ]
+  }
+]

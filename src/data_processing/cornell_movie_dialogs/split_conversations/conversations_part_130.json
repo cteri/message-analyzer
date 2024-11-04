@@ -1,0 +1,2454 @@
+[
+  {
+    "conversation_id": "conv_12901",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "NAISH",
+        "text": "Jesus Christ."
+      },
+      {
+        "speaker": "MR. WILLIS",
+        "text": "Call Wydell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12902",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "NAISH",
+        "text": "Fuck, go to the car... call for backup. Tell 'em officer down."
+      },
+      {
+        "speaker": "MR. WILLIS",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12903",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "WYDELL",
+        "text": "Mr. Willis?"
+      },
+      {
+        "speaker": "MR. WILLIS",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "I'm Wydell... this is Naish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12904",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "WYDELL",
+        "text": "Well, we were on our way out to run a check on a couple farmhouses out on the edge of town... closest thing we got to a lead at this point."
+      },
+      {
+        "speaker": "MR. WILLIS",
+        "text": "That's it?"
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Well, all we know is the kids were headed out to a spot the locals call Deadwood to play Nancy Drew with some local legend about this character everybody calls Dr. Satan."
+      },
+      {
+        "speaker": "MR. WILLIS",
+        "text": "Dr. Satan?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12905",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "MR. WILLIS",
+        "text": "What about the body you found?"
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Oh, yeah, you know about that? Hmmm, that's a strange one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12906",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "WYDELL",
+        "text": "Her part in this I can't figure... but I will."
+      },
+      {
+        "speaker": "MR. WILLIS",
+        "text": "Christ, you know it's crazy...  I lived through so many other people's nightmares, you know. Always cool and calm, but... but I never thought I'd be the one needing help, ya know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12907",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "WYDELL",
+        "text": "I'm sure there's a logical explanation."
+      },
+      {
+        "speaker": "MR. WILLIS",
+        "text": "I pray to God there is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12908",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "WYDELL",
+        "text": "Well, let's go see if the nut that runs this place can help us."
+      },
+      {
+        "speaker": "NAISH",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12909",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "NAISH",
+        "text": "Boss, the way I see it is these kids probally stop off somewhere, bought a bunch of booze and are off getting shitfaced."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "I hope you're right, but my guts are telling me different."
+      },
+      {
+        "speaker": "NAISH",
+        "text": "Your Spidey senses tingling."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Yeah...  ...huh, what the hell are you talking about?"
+      },
+      {
+        "speaker": "NAISH",
+        "text": "You know, your hyper sensitive Spidey senses... like Spider-man...  ...you know, like in the comics."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "How old do you think I am? I know who the fuck Spider-man is. Get to your point."
+      },
+      {
+        "speaker": "NAISH",
+        "text": "You know, his senses start tingling... when he was approaching danger and shit."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "I always favored the Hulk."
+      },
+      {
+        "speaker": "NAISH",
+        "text": "Hulk was dumb as shit."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Aw, fuck."
+      },
+      {
+        "speaker": "NAISH",
+        "text": "What."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12910",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "NAISH",
+        "text": "Plates match."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Call the chief... We found 'em."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12911",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "NAISH",
+        "text": "You sure this guy's supposed to ride with us? Seems kind of weird."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Chief said pick him up and take him with us on our house to house. Guy's an ex-cop, thinks he can help."
+      },
+      {
+        "speaker": "NAISH",
+        "text": "Sounds like a bad idea to me, probally just get in the way."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Yeah, well I guess it's tough to sit on the sidelines and wait when your own kid's missing... besides, ain't no such thing as an ex-cop."
+      },
+      {
+        "speaker": "NAISH",
+        "text": "I guess not."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "That must be him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12912",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "NAISH",
+        "text": "Yeah it's horseshit, just some boogieman crap that the kids like to scare each other with."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Anyway, there's not much else out that way... so, I figure maybe there's a chance the kids broke down and found their way over to one of the farms."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12913",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "NAISH",
+        "text": "Don't worry, we'll find her."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Let's hit the road, sooner we get a move on sooner we'll find her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12914",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "WYDELL",
+        "text": "I'm gonna see if anybody's home. You and Mr. Willis take a look around the grounds for any sign of anything."
+      },
+      {
+        "speaker": "NAISH",
+        "text": "Right...  ...come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12915",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "NAISH",
+        "text": "Wydell."
+      },
+      {
+        "speaker": "WYDELL",
+        "text": "Excuse me for a second."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12916",
+    "movie_id": "m92",
+    "turns": [
+      {
+        "speaker": "WYDELL",
+        "text": "Over."
+      },
+      {
+        "speaker": "NAISH",
+        "text": "We found one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12917",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "And furthermore... Tell him, Harold."
+      },
+      {
+        "speaker": "FATHER",
+        "text": "Uh...  We must never act like apes, son. For you see, The ape is our closest biological relative -- specifically the pygmy chimp.  A single chromosome separates us. But you know what truly separates us from the apes, what makes us better than apes?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12918",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "That is the wrong fork, young man.  Harold, tell the boy."
+      },
+      {
+        "speaker": "FATHER",
+        "text": "That is the wrong fork, young man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12919",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Harold! Tell the boy again."
+      },
+      {
+        "speaker": "FATHER",
+        "text": "No \"buts.\" Go to your room now."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "And?"
+      },
+      {
+        "speaker": "FATHER",
+        "text": "And think about what you've done."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12920",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Tell him, Harold."
+      },
+      {
+        "speaker": "FATHER",
+        "text": "Son, your mother and I are doing a production of The Gin Game at the local community theater. We forgot to take off our make-up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12921",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Tell him, Harold."
+      },
+      {
+        "speaker": "FATHER",
+        "text": "It's going famously, son, famously!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12922",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "FEMALE ROOMMATE",
+        "text": "Lila, what are you doing in there? I need to get ready for my date."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Nothing! I'll be out in a minute!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12923",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "FEMALE ROOMMATE",
+        "text": "I don't know why you didn't tell me about this."
+      },
+      {
+        "speaker": "LILA",
+        "text": "It's embarrassing, okay?"
+      },
+      {
+        "speaker": "FEMALE ROOMMATE",
+        "text": "It's not so bad.  So, it just keeps growing?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Yeah, Natalie. It's hair. It grows."
+      },
+      {
+        "speaker": "FEMALE ROOMMATE",
+        "text": "Well, don't jump down my throat. I'm just trying to help."
+      },
+      {
+        "speaker": "LILA",
+        "text": "How is that helping, Natalie? How exactly?"
+      },
+      {
+        "speaker": "FEMALE ROOMMATE",
+        "text": "Look, if you're going to be like that... You should be appreciative that I'm interested."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Why, because I'm a freak and you are beautiful, and you are being nice enough to come down to my freak, nonbeautiful level and act concerned about my repulsive troubles?"
+      },
+      {
+        "speaker": "FEMALE ROOMMATE",
+        "text": "You're fucked up, Lila.  Why don't you fucking try electrolysis or something? Figure it out for chrissake."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12924",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Hello, my little boy."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Hey, ma. Did you bring any clothes? I'm freezing my ass off."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Oui. Nathan's silk suit, just like you asked."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Great.  God, I've wanted you forever."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12925",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Say my name."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Gabrielle."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "You remind me so much of Nathan."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Like father, like son."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "You remind me so much of Nathan plus so much of my little mongrel doggie."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Woof."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12926",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "PUFF",
+        "text": "As much as I loved Nathan, I'm not sorry she killed him, if it means I can have you. Is that a terrible thing to say, my sweet?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Hush. No, it is never terrible to be in love. Nathan's memory lives on in our sacred union.  I'm not sorry she killed him either. Nathan was wonderful. He was erudite and sophisticated and charming. You are all that, too. But you have something more. You have a bit of the animal in you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12927",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "PUFF",
+        "text": "Let's go eat, I'm starved."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "French?"
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Oui."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12928",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Only three shocks. A chimp takes fifteen. This is going to be tres simple, no, Gabrielle?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Oui, doctor, oui."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Good morning...  We need a name for him, don't we?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Oui."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "You decide. Today is your day."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Really? My day? Well, I had a sweet little mongrel puppie named Puff when I was a girl. This one reminds me of my dog, all shaggy! So cute!  I loved my doggie very much, monsieur."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Puff it is then. Puff Bronfman. Is that okay?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Oui. Perfect!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Good morning, Puff Bronfman. I'm Dr. Bronfman and this is my assistant Gabrielle. We're your mommy and daddy while you are here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12929",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Oh, Hi, Gabrielle."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Hi. I just wanted to tell you that I very much enjoy working with you.  Now I'm embarrassed that I say this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12930",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "No. Don't be. I really enjoy hearing that. You're a terrific assistant."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Merci. I... Do you... would you like to go get a cup of coffee, perhaps?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Well, I don't know. I'm actually on my way to..."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Now I am truly embarrassed. Forgive me. I should not have asked such a stupid question. I know you are a very important man and..."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "No. Don't be silly. It's just..."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "I am a foolish little thing. I am pink in my face, no? It is only that I have been so lonely lately and... I am ashamed. I'll see you tomorrow, okay? Unless... Am I fired now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12931",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Thank you so much for accompanying me."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Not at all."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "I have had such a difficult time in my personal life and you seem to be such a nice man... but I'm talking too much again, no?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Of course not."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "You're so sweet. Oh, why are there not more men out there like you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12932",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Listen, you're the best assistant I've ever had... Gabrielle."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "I like it when you say my name. Is that stupid?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12933",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Oh, Doctor. I did not know. I'm sorry to disturb you. I just came for some papers I left."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Gabrielle. No, I'm sorry if I startled you. I came to think.  God, Did I hang up on you?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Oui. Perhaps I called at a bad time. I am sorry."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "No. I just got distracted. I'm so sorry."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Is everything fine?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Oui.  Now you've got me talking French."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "I was in my p.j.'s when I remembered I left some papers I need to go over.  See? I rushed right out of the house. I must look a mess. I'm so embarrassed."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I'm in my p.j.'s, too. Funny, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12934",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Coincidence, yes?  And how is our son?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Our...? Oh!  He seems fine. I guess we woke him. The lights and all."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "I should turn them off.  Maybe I sing him a lullaby my mama sang to me when I was a little girl."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "When you were a little French girl?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Oui."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "That would be good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12935",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Shall we close up, then?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Maybe we should just sit for a while. It's very peaceful."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "It's nice, yes. I'm glad I ran into you, both in our silly pajamas. It is two happy coincidences, no?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Yes. Happy happy."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Yet you look so sad. A great man like you should not be sad."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I'm fine. Life is funny, that's all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12936",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "I am sleepy."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I shouldn't say this, but you're pretty, Gabrielle. It's unprofessional, I know."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Really? I always think myself so ugly. No, not ugly, but plain. A wallflower."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Really? No. Not at all. You're a very pretty girl. You should know that. You should be confident."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Thank you so much. Merci. It's very wonderful to hear a man say such a nice compliment."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "It's true. I wouldn't lie."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "You are sweet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12937",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "So soft. So smooth.  I'm sorry. It's just..."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Shh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12938",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "What is wrong, my darling?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Nothing, my darling. All is right with the world."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12939",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Dr. Bronfman's line. Yes. One moment please.  Lila."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Shit.  Hi, honey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12940",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Yeah. Okay. Be home around seven. Bye.  What? I'm sorry. What was I supposed to do?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "I don't know, Nathan. What are you supposed to do?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "You don't abandon somebody because they have a physical problem."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Funny. I thought that's exactly what you did. You just don't have the courage to admit it to yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12941",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Isn't Puff doing spectacularly, honey?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Hmmmph."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Gabby, what is it?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Hmmph. Hmmph.  Nathan, we have to talk, you and I."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Fine."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Not in front of the boy."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Very well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12942",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "My little French."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Stop. Get away."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "You have to choose Nathan. It's like Sophie's choice. Only it is Nathan's choice. Did you ever see that movie, Sophie's Choice? It is like that. Only it is this."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Gabby, you know I'm trying to sort things out."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "No! It is now that you must decide.  I love you, Doctor Nathan...  ...but I will not wait. I will not be your chippy. I will not be your little Mademoiselle Parlez-vous side dish.  My love. I want to have a sweet tiny baby inside my belly... from you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12943",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "I love you so much, Gabrielle."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "But?... But? There is a \"but,\" Nathan."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "But I don't know how to leave Lila."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12944",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "You were wonderful today, darling. Such authority with the ape-man boy. It made me so hot for you."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Unnhh."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "The way you are taming him, it sends chills down my girlish spine and... everywhere else, too."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Urgh."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Take me, darling! Tame your little monkey of love!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12945",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Yeah? What?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Hi. It's Nathan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12946",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Call you back.  You bastard! What do you want?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I just want to talk."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "We have nothing to say! You are a rotten bastard, that's what!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12947",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Please. Just one minute of your time."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Why? You've made your decision, Mister Stinky American! Now I hate you! No, I don't hate you; I don't even think about you!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I've got some things to tell you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12948",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Well, I think it would be easier if I could talk to you in person."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "What for?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12949",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Well, I think..."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "You think too much. I need a man who doesn't think so much but acts more than he thinks... is what I need!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "What?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "You heard me! You make me sick when you pretend to not understand what I am saying to you! Go away from here!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Well, look, I'm sorry to have bothered you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12950",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Well?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "God, you're beautiful."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Please. I look a mess."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "No. You look so beautiful."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Anyway. Come already to the point."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I'm... I'm going to leave Lila. I can't stop thinking about you."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "I've moved on."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "No!"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "I've been seeing Johannsen in chemistry."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "That goddamn Neanderthal? I'm the one who gave him the idea for the combination bug spray-sun screen! Did you know that?!"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "That's not how he tells it."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Of course not, that Swedish thief! He's a thief of hearts!  I love you, Gabrielle."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Hunh."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Just give me some time to let Lila down easily. She's a really nice girl and I don't want to hurt her more than is necessary."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "You hurt me, you know, when you made Nathan's Choice. Does that not even matter to you, you pig?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12951",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "You were wonderful!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Was I? I wasn't a tad stiff?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Don't be silly!  And you were wonderful, too! I loved the way you said \" au revoir.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12952",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "So we've got seventeen new bookings for speaking engagements, my wonderful men."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Terrific. We're all going to be rich and famous."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12953",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Lila?"
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "That's Lila?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12954",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "A penny for your thoughts, mon cheri."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I don't know. Something's missing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12955",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "GABRIELLE",
+        "text": "Yes, please, somebody ask him what is wrong."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12956",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "I want our boy back."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Oui."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "That bitch. I worked so hard. We worked so hard, you and I. He would've made us famous."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "We still have you and I."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I know. And that's great. But it would be great in a better way, not a better way but a different way, if I could find him and bring him back."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Where do we look for little lost Puff?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I have some thoughts. I think that hairy bitch is somewhere trying to turn him back into an ape."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "That is horrible. Apes are dirty. No?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "You better believe they're dirty! And smelly! And messy! And they don't know their forks from their assholes!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12957",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "I'm going alone. This could be dangerous."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Okay, my sweet. Good night."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "A little resistance would be nice, damn it."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Please let me go with you."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "No."
+      },
+      {
+        "speaker": "GABRIELLE",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12958",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "PUFF",
+        "text": "My apologies, madam."
+      },
+      {
+        "speaker": "LILA",
+        "text": "It's okay, Puff."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Shan't happen again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12959",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "PUFF",
+        "text": "It shan't happen again. I swear it. I'm just getting my sea legs, you know."
+      },
+      {
+        "speaker": "LILA",
+        "text": "It's an animal urge, Puff. It's nothing to be ashamed of."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12960",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Very well."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Very well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12961",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "We're going back to nature, you and I. I'm going to retrain you. I'm going to make you free again if I have to kill you doing it."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "But I like being human now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12962",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "You what?"
+      },
+      {
+        "speaker": "PUFF",
+        "text": "I want to be the way I was before."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Good. I'll show you how, apey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12963",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "PUFF",
+        "text": "Nice night."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Talking is to be kept to a minimum. Eventually, when we are ready, there will be none. Language was invented so that people could lie to each other and to themselves. There is no other reason."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12964",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "You'll thank me eventually, Puff. Well, you won't thank me, because we won't be speaking, but you'll sort of thank me with a special look, the look a dog gives you to let you know he loves you."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "What an enchanting picture you paint of our future together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12965",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "He's dead."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "We bury the body. We disappear into the woods. Nobody knows."
+      },
+      {
+        "speaker": "LILA",
+        "text": "No. This is the end of the road. There's a dead human being here. For all of his faults, he was a human being, and certainly a victim of his culture as much as anybody."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Forget him, Lila. We'll disappear. We'll never talk about it again. We'll never talk again period. I love you."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Puff, what happened to you is as much my fault as Nathan's. Maybe more so, because I knew it was wrong and I went along with it anyway. I'm taking responsibility for the murder. I want you to go back to your old life."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "I won't let you do that. I shot the bastard. And I'm glad."
+      },
+      {
+        "speaker": "LILA",
+        "text": "No. Go back to the woods. This is a sacrifice I need to make. In my world we have something called penance. It's another abstraction, but I had the concept drummed into my head during my years in the convent. It doesn't exist for you, and it shouldn't. See, I could never be free again anyway, so I might as well be in jail."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "Then I'll live for both of us, Lila. I'll be the most free, truest animal in the whole forest. For both of us."
+      },
+      {
+        "speaker": "LILA",
+        "text": "That's what I'm counting on."
+      },
+      {
+        "speaker": "PUFF",
+        "text": "But first I'll live among them, just long enough to testify before congress about the waywardness of humankind."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Okay. If you think it will help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12966",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Progress!"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Ouch. Yeah?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Oh yes, honey. Getting to be smooth smooth smooth all over. Smooth as a baby's butt."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I love it, Rose. I'm getting to be a real girl."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "You still in the market for a real boy?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Always. Ow."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Cause there's this guy. My brother knows him. Might be right up your alley."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Tell me. I could use someone up my alley."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I don't get that. Is that sexual?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Shut up and tell me."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Handsome, thirties, psychologist..."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Loves animals? Ouch. Must love animals, Rose."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Loves animals. Loves you."
+      },
+      {
+        "speaker": "LILA",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Somehow it came up that you were a friend of mine. Mr. handsome, animal- loving psychologist said he would love to meet you."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Holy shit. Your brother didn't tell him about the nature of our relationship, did he?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "My brother is discreet."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Won't he be able to tell?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "My brother says the guy's a thirty- five year old virgin, so maybe he won't know how women usually feel. Plus he's got bad eyesight, almost legally blind, which is helpful in this situation. Plus he's got an extremely small penis, of which he is \"mortifyingly ashamed\", so chances are he'll be so grateful for any non- judgmental attention, that he'll be yours forever."
+      },
+      {
+        "speaker": "LILA",
+        "text": "God, he must be really close to your brother to tell him such personal stuff."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Yeah, well my brother is his shrink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12967",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "So?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "I really like him, Rose. He's so...  ...passionate about his work."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "My brother says he likes you, too."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Really?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Yeah. Says he likes you even more than he likes his own mother. And according to my brother Nathan's abormally close with his mother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12968",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "My brother says things are going really well between you and Nathan."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I cannot believe how in love I am with this man."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "He's so cute. I even like his cute little penis. It's like a little pig's penis or something.  Rose, we connect on every level. I've finally found someone I can feel completely safe with."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Don't throw that away. I had that once with a guy. But I threw it away for a cheap thrill."
+      },
+      {
+        "speaker": "LILA",
+        "text": "One night stand?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "No. I married a midget."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Marrying a midget was a cheap thrill?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Well he wasn't really a midget. He was on the cusp of midgethood. That's what made it cheap. Had he been an actual midget, there would've been nothing cheap about it, my dear."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I didn't know you were into that sort of thing."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Let me tell you, honey, midgets are the best kept secret in male companionship. They're portable. They're controllable. They're eager. And they're exactly the right height for a little covert oral fun on the dance floor."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I have a friend you might like to meet."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Oh?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Three foot one."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Be still my crotch."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Rose, Nathan's no midget, but he's asked me to move in with him."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Yeah. My brother told me."
+      },
+      {
+        "speaker": "LILA",
+        "text": "And I think I'm going to."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Stand on a stepladder sometimes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12969",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "No maid service! For God's sake, can't you read the fucking \"do not disturb\" sign on the fucking doorknob?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Lila, it's Rosie."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Go the fuck away, Rosie."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Please, honey, let me in."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Rose, please go away."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Lila, I want to help you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12970",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "How'd you know where I was?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Nathan told my brother."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Your brother should have his license revoked."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Yeah, although I'm not going to turn him in. I like hearing the dirt."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Why didn't your brother tell you that Nathan was having an affair?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12971",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "I don't know, honey. I don't know. Maybe he just didn't want to get involved."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Oh, Rosie."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Let's get you out of here. Come stay with me until you get your strength back.  Free electrolysis, if you want it! We'll get that face of yours cleared up in no time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12972",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Done!"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Ready!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12973",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Uh, tie them up, Rosie. If you will."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "With pleasure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12974",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "I'm going to miss you."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Oh, Rosie."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "And I'm going to miss the lifestyle having you as a client has afforded me."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Shut up, you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12975",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "I like you so much, with or without hair.  But don't spread that around. Bad for business."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I'm really glad you two found each other."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12976",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "I'll be in touch."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "No you won't. But it's okay. You have stuff you gotta do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12977",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Meditations on a Banana Slug was a delightful read."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Thank you so much. I love slugs. All slugs, not just banana slugs."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "As do I."
+      },
+      {
+        "speaker": "LILA",
+        "text": "They're so even keel. They forge ahead with slow determination. They don't get distracted or side-tracked. They don't care what they look like. They don't care that people look at them and go, \"Ewww. A slug.\""
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "They don't seem to be especially ego driven, this is true."
+      },
+      {
+        "speaker": "LILA",
+        "text": "You've got to respect that."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I have to say that I'm not there yet."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Where?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Slugdom. Sluggishness. Whatever you'd call it. I'm not there yet. I still have many human characteristics."
+      },
+      {
+        "speaker": "LILA",
+        "text": "That's not necessarily a bad thing."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Yes. I suppose not. But still. One would like to move along. To move beyond."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I'm not sure we can escape our natures. Believe me I've tried. I'm not even so sure anymore that we should want to."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I love that you said that. It makes me feel a bit lighter. I've been rather heavy lately. Thinking about my childhood. Realizing how much a product I am of my upbringing.  I've been seeing someone. A therapist."
+      },
+      {
+        "speaker": "LILA",
+        "text": "You are a therapist, right?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "No no. I'm a psychologist, but I do research. I'm a behaviorist. I work with animals. Mice at the moment."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I hope you don't perform any of those dreadful torture experiments, Nathan."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Heavens no. My work now is... Right now I'm teaching mice... well, table manners, to be candid."
+      },
+      {
+        "speaker": "LILA",
+        "text": "How's it going?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Quite well, really. It's a lot of work. A lot of reinforcement, mostly positive. Right now I've gotten two of my subjects to use napkins. Tiny napkins of course."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Paper or cloth?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I hope you don't think me daft. It's important work. It's part of a larger sociological experiment. I'm federally funded."
+      },
+      {
+        "speaker": "LILA",
+        "text": "What's the larger experiment?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "It's my thesis that if table manners can be taught to mice, they can be taught to humans."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Going out on a limb, aren't you, Nathan?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "The truth is most people don't have table manners today. And when the foundations of civilized society crumble and disappear, civilized society in its entirely follows closely at its heels."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I'm not sure."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Courtesy, decorum, manners, are all sadly lacking from our daily intercourse. Rudeness, vulgarity, meanness are the norm."
+      },
+      {
+        "speaker": "LILA",
+        "text": "We are animals after all."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Ergo if I can teach table manners to mice, I can teach them to humans. If I can teach table manners to humans, I can save the world."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12978",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "It looks wonderful."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "You look wonderful. I'm on top of the world tonight, Lila. Work is going splendidly and my personal life is ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12979",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Um-mmm. Oh Nathan, this salad is delish..."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "My God! The fork! The fork!"
+      },
+      {
+        "speaker": "LILA",
+        "text": "I'm sorry?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Tell her, Harold...  It's just that... It's nothing. It's just that the outside fork is the salad fork. One goes from the outside in as the dinner progresses."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Oh, I'm sorry.  I'm sorry, Nathan. I never really learned those things."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "No biggie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12980",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Boy, this is good!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I'm sorry that I became so upset."
+      },
+      {
+        "speaker": "LILA",
+        "text": "No, I'm sorry. I'm really backward in certain areas."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "It's only that I really enjoy your company and..."
+      },
+      {
+        "speaker": "LILA",
+        "text": "You do?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Yes, and..."
+      },
+      {
+        "speaker": "LILA",
+        "text": "You really enjoy my company?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Yes.  Please don't talk with food in your mouth, Lila. Please. You're so pretty and it only mars your... I'm sorry. I'm being critical."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12981",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "It's just that I have some peculiarities, and..."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I like you, too, Nathan."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "You do?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Yeah  But I have some peculiarities also."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I don't care. I don't care!  Like what, for example?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12982",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Actually, Mother and Father, you look very, very old. You look terrible."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Nathan!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12983",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "What are you doing in there?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "I'll be out in a minute."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I'm sorry about my parents."
+      },
+      {
+        "speaker": "LILA",
+        "text": "You didn't seem sorry when you were laughing at all your mother's stupid, tasteless, cruel animal jokes."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I was simply attempting to keep the evening light. You know that I feel similarly to you about nature."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Do you?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Of course.  I simply love the... naturalness of it all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12984",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Do you? Oh do you, darling?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Why certainly!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12985",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Oh, darling. I'm so relieved. Let's celebrate with a long hike in the woods tomorrow!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "That's a great idea."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12986",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "It'll be wonderful! I'll show you my old stomping grounds!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Terrific. Can't wait!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12987",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Shaving cream?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "I don't think so.  Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12988",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Darling, did you bring the insect repellent lotion?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Yes, darling."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Oh, and the sun block?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Of course."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "What SPF, sweetie?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Fifteen."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Perfectomundo! We are ready!  Say, wouldn't it be wonderful to have an insect repellent lotion that also worked as a sun block? Think of all the time one would save."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Yes, darling."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I think I'll get Johannsen in chemistry on that.  Oh! Did you bring the first aid kit?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Flares?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Absolutely."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "We could call it \"Quit Bugging Me, Sunny.\"  Get it? Sunny. S-u-n-n-y."
+      },
+      {
+        "speaker": "LILA",
+        "text": "That's very funny."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I love you so much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12989",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Did you see that?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "What?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "I don't know. Something."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "A deer?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "No. Too... upright. Might've been a person."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "It might behoove us to turn back at this point."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12990",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Come on."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "If it's a person, why should we go see it? It's not like it's nature or anything. It's just a person.  Sometimes people who live in the woods don't want to be seen. They live in the woods because they're anti-social, Lila. We have to respect that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12991",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "You'll catch cold. It's cold.  What do you suppose he is, a survivalist?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "I think he's feral."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Feral? Don't touch him! He might be diseased! He might... My God, rabies!"
+      },
+      {
+        "speaker": "LILA",
+        "text": "He looks perfectly fine."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I think we should go. Please. Before he wakes up and, I don't know, eats us, or whatever feral things do."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I don't understand you. This is fascinating and you just want to run away. I mean, here we have a human being totally uncontaminated by civilization, totally free, and all you want to do is run back to your..."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Actually, I just had an amusing thought."
+      },
+      {
+        "speaker": "LILA",
+        "text": "What?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Feral, huh? Totally uncontaminated?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Look at him. He doesn't understand English. He moves like an animal."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "It's perfect!"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Nathan, what the hell are you talking about?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Forget mice! Actually forget guinea pigs, cats, monkeys, and chimps also. I'm on to stage five: The human subject."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Oh no. You can't take him from his home, Nathan."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Don't you see? He's my Tabula Rasa, my Eliza Dolittle. He's my ticket to the top of the Behaviorist food chain. He's going to make me famous."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I won't allow you. It's wrong. He's happy here."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Is he, Lila? Is he happy living filthy and naked alone in this tick infested wilderness? Never to know the love of a good woman, never to revel in the pitter-patter of little feet, never to read Moby Dick, or marvel at a Monet, or just sit back after a day of hard but rewarding work, smoke a pipe, and wonder about the nature of reality."
+      },
+      {
+        "speaker": "LILA",
+        "text": "You'd be taking away his freedom, Nathan."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Freedom's just another word for nothing left to lose, Lila, to quote Janet Jackson."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12992",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "...what is it that makes us human, if not the knowledge that we are indeed human? Think of this poor soul's education as the greatest gift we could bestow upon..."
+      },
+      {
+        "speaker": "LILA",
+        "text": "All right."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Great. Grab his feet. We'll throw him in the trunk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12993",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "What are you doing in there?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Nothing. Be right out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12994",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Who is it?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Uh-huh. Right, Gabrielle. Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12995",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Who is it?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Absolutely, Gabrielle.  Someone from work!  Sorry about that, Gabrielle. Uh-huh. Exactly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12996",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "Who from work?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Excuse me one second, would you, Gabrielle?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12997",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "It's hormonal, Nathan. I can't help it. I'm sorry."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Your entire body?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "I'm getting electrolysis. It's working, but it takes time. So meanwhile I have to..."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "You have to shave? Like an ape?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "Apes don't shave, you son of a bitch!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Don't quibble. You know what I mean."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I'm sorry. Please don't be mad at me for this."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Mad? I'm I'm... disgusted!"
+      },
+      {
+        "speaker": "LILA",
+        "text": "I'm the same person I was before you knew, damn it! Oh God!"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I have to think! I have to think!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12998",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Was that okay? I mean, was I able to... satisfy you?"
+      },
+      {
+        "speaker": "LILA",
+        "text": "You are an animal."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Really? Wow! That's that's terrific to hear from someone so... feminine, so female."
+      },
+      {
+        "speaker": "LILA",
+        "text": "I love being female because it, how do you say, allows me to be close to men."
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "I'm glad you're female.  Do you think our boy witnessed the primal scene?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_12999",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "LILA",
+        "text": "So, how's it going today?"
+      },
+      {
+        "speaker": "NATHAN",
+        "text": "Good. Making progress."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Honey, can we talk tonight? You know, about stuff? Things have been so strained for the past three weeks, since you know, and I just want to talk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_13000",
+    "movie_id": "m93",
+    "turns": [
+      {
+        "speaker": "NATHAN",
+        "text": "Everything's fine, honey. We don't need to talk. Besides I have to work late."
+      },
+      {
+        "speaker": "LILA",
+        "text": "Please, Nathan. I really need this. You've been working late a lot."
+      }
+    ]
+  }
+]

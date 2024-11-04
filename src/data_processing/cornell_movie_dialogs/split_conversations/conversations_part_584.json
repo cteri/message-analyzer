@@ -1,0 +1,2418 @@
+[
+  {
+    "conversation_id": "conv_58313",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Hola, amgio. Problemas de llanta? [Hey, friend. Tire problems?]"
+      },
+      {
+        "speaker": "ELADIO",
+        "text": "No hay de que. Tengo otra. [No problem, I've got another.]"
+      },
+      {
+        "speaker": "WADE",
+        "text": "What's in the back?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58314",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "ELADIO",
+        "text": "Not much, jefe. Some watermelons."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I heard somebody been haulin' wets on this road."
+      },
+      {
+        "speaker": "ELADIO",
+        "text": "I haven't seen anybody doing that."
+      },
+      {
+        "speaker": "WADE",
+        "text": "This same person been bragging all over the county how he don't have to cut that big gringo Sheriff in on it-- he can run his own operation 'thout any help. Como se llama, amigo?"
+      },
+      {
+        "speaker": "ELADIO",
+        "text": "Eladio Cruz."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You know this road got a bad reputation, Eladio--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58315",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "ELADIO",
+        "text": "Reputation?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Bandidos, Injuns--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58316",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "There's many an unfortunate soul been ambushed out on this stretch. Hope you're carrying some protection."
+      },
+      {
+        "speaker": "ELADIO",
+        "text": "Protection?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "You carryin' a firearm, son?  Don't lie to me now."
+      },
+      {
+        "speaker": "ELADIO",
+        "text": "Si--tengo escopeto--just a shotgun--"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Just a shotgun, huh? Better let me take a look at that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58317",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "YOUNG MERCEDES",
+        "text": "Donde esta? Estoy perdido--[Where are you? I'm lost--]"
+      },
+      {
+        "speaker": "ELADIO",
+        "text": "Aqui! [Here!]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58318",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "YOUNG MERCEDES",
+        "text": "No puedo ver la orilla! [I can't see the bank!]"
+      },
+      {
+        "speaker": "ELADIO",
+        "text": "Aqui! Venga por aqui! [Over here! Come this way!]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58319",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "YOUNG MERCEDES",
+        "text": "Vi a Rosaria arastrado para el corriente--[I saw Rosaria taken away by the current--]"
+      },
+      {
+        "speaker": "ELADIO",
+        "text": "No te molestas. Tenemos a ella. [Don't worry. We've got her.]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58320",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "ELADIO",
+        "text": "Como se llama? [What's your name?]"
+      },
+      {
+        "speaker": "YOUNG MERCEDES",
+        "text": "Mercedes Gonzales Ruiz."
+      },
+      {
+        "speaker": "ELADIO",
+        "text": "Me llama Eladio Cruz--Bienvenido a Tejas. [Welcome to Texas.]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58321",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "ENRIQUE",
+        "text": "Es muy lindo, su coche--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "En ingles Enrique. This is the United States. We speak English."
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "Is very beautiful, your car."
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "Good night, Enrique. She slides into the car--"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "Buenas noches, Senora Cruz. Enrique walks in the opposite direction--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58322",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "ENRIQUE",
+        "text": "Senora Cruz?"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "Quien es? [Who is it?]"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "Soy yo, Enrique! No tiene miedo-- [It's me, Enrique. Don't be afraid]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58323",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "MERCEDES",
+        "text": "What are you doing out there? Are you crazy?"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "Hay pasado un accidente muy grave-- [There's been a bad accident--]"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "In English, Enrique. We're in the United States--"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "I have some friends who have had a accident--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "You have somebody else out there?"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "We was by the river? And I hear my friend callin' for help, and I look and she has falling in the water--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "Don't tell me lies, Enrique. Que paso?"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "We was crossin' the river--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58324",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "MERCEDES",
+        "text": "Enrique! Quienes son estos? How could you bring them here?"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "They need help. Jaime, Anselma-- esta es mi jefa--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58325",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "ENRIQUE",
+        "text": "No! No puede hacer esto--[You can't do that--]"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "You think you're doing these people a favor? What are they going to do? Either they get on welfare or they become criminals--"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "No es la verdad--[That isn't true--]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58326",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "MERCEDES",
+        "text": "This girl is a friend of yours?"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "Es mi novia. [She's my girlfriend.]"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "I thought you were married!"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "I am marry to the cousin of a friend-- but only to be able to live here. This is the mother of my child--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "This girl has a child?"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "We have a daughter."
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "Tipico."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58327",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "MERCEDES",
+        "text": "Rapidamente! Everybody in the world is going to see!"
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "Donde vamos? [Where are we going?]"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "A casa de Porfirio Zayas. He used to be a doctor on the other side. Gunshot wounds, fixing babies--if you can pay he can handle it."
+      },
+      {
+        "speaker": "ENRIQUE",
+        "text": "Senora, anything it costs, I can work--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "Don't worry about it. He owes me some favors."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58328",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "\"Fishbait,\" says Buddy, in that quiet way of his, \"What you know about them tires that went missing from markets?\" Fishbait thinks for a minute, then he lifts up a loose board from the porch floor and calls down into it, \"C'mon out, Pooter, they caught us!\""
+      },
+      {
+        "speaker": "FENTON",
+        "text": "Buddy Deeds. He had a way."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "He known who it was onnacouna the tire tracks in the dirt from the back of the garage to where they loaded up. \"Old Fishbait,\" he says, \"never lifted a thing in this world if there was a way he could roll it.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58329",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "Sam! I was just telling a few about your old man."
+      },
+      {
+        "speaker": "FENTON",
+        "text": "He was a unique individual."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58330",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "Big day coming up--I wish we'd have thought of it while he was still living. But he went so unexpected."
+      },
+      {
+        "speaker": "FENTON",
+        "text": "Better late than never. Korean War hero, Sheriff for near thirty years-- Buddy Deeds Memorial P--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58331",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "FENTON",
+        "text": "Every other damn thing in the country is called after Martin Luther King, they can't let our side have one measly park?"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "King wasn't Mexican, Fenton--"
+      },
+      {
+        "speaker": "FENTON",
+        "text": "Bad enough all the street names are in Spanish--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58332",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "FENTON",
+        "text": "They just wanted it to be one of theirs--"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "That's not the whole story. The Mexicans that know, that remember, understand what Buddy was for their people.  Hell, it was Mercedes over there who swung the deciding vote for him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58333",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "FENTON",
+        "text": "Tell that one, Hollis--"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Hell, everybody heard that story a million times."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58334",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "The two of us were the only deputies back then me and Buddy--it's what-- '58--"
+      },
+      {
+        "speaker": "FENTON",
+        "text": "'57, 1 believe--"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "And the Sheriff at the time was Big Charley Wade. Charley was one of your old-fashioned bribe-or-bullets kind of Sheriffs, he took a healthy bite out of whatever moved through this county."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58335",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "\"Mas cerveza por favor.\""
+      },
+      {
+        "speaker": "FENTON",
+        "text": "That Buddy was a cool breeze."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58336",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "FENTON",
+        "text": "Charley Wade were known to have put a good number of people in the ground, and your daddy gets eyeball to eyeball with him."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "We made our collection at Roderick's place and that was the last anybody seen hide nor hair of him.  He went missing the next day, along with ten thousand dollars in county funds from the safe at the jail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58337",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "FENTON",
+        "text": "Your mother was a saint."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "--but Buddy Deeds was my salvation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58338",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "H.L.",
+        "text": "Historic occasion, isn't it?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Seems like we have another one every week."
+      },
+      {
+        "speaker": "H.L.",
+        "text": "Jorge and his Chamber of Commerce boys got to keep things hummin'--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58339",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "H.L.",
+        "text": "That kind of talk doesn't help, Sam."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Rather have that than the ten-foot- high catfish statue--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58340",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "H.L.",
+        "text": "Which is why we need to talk to you about the new jail--just so we're all on the same page."
+      },
+      {
+        "speaker": "SAM",
+        "text": "We don't need a new jail."
+      },
+      {
+        "speaker": "H.L.",
+        "text": "That's a matter of interpretation--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "We're already renting cells to the Feds for their overflow--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58341",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "H.L.",
+        "text": "Dammit, Sam, the people are concerned about crime--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "We need a drug rehab program, we need a new elementary school--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58342",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "H.L.",
+        "text": "When we backed you--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "When you backed me you needed somebody named Deeds to bump the other fella out of office.  Hey, folks--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58343",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I heard there was a bit of a fuss."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Oh, you know, the usual troublemakers. Danny Padilla from the Sentinel, that crowd."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58344",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "There was a faction pulling for that boy who was killed in the Gulf War-- Ruben--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "--Santiago."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Right. But nobody here ever noticed him till they read his name on the national news--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58345",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "That so?"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "She put it even at three to three, so as the Mayor I get to cast the tiebreaker. The older generation won't have any problem with it. They remember how Buddy come to be Sheriff, that it was all 'cause he took their part."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58346",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Never heard from him again?"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Not a peep. Buddy run the man out of town."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58347",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "Oh--he come to an accommodation. Money doesn't always need to change hands to keep the wheels turning."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Right."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Look, I know you had some problems with your father, and he and Muriel-- well--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58348",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I always wondered what you Mayors do when you're not cutting ribbons."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Sam! Hey podner! You caught me playing hooky--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Floating around out here, playin' hell with them bass--play a little cards, play a little golf, drink some beer--"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Sounds great. Where do I sign up?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I haven't been out here for a while."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "You go by your old house?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "No."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Just as well. The new people just painted it some God-awful color--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "We found a body out by the Army base yesterday. Been there for a long time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58349",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "Was it Davy Crockett or Jim Bowie?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "You recall if Charley Wade was a Mason?"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Charley? I believe he was. Used to go for lodge meetings over to Laredo. What's he got to do with your body?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "All it was wearing was a big old Masonic ring and a Rio County Sheriffs badge."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58350",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "You don't remember anything else from that last night you saw him, do you?"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "I told the story enough times--hell, we were just in the car, he was stewing about the fight with Buddy while we drove over to Roderick Bledsoe's--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Bledso"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "He owned the colored roadhouse before Big O--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "He still living?"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "No. I think his widow's still in their place in Darktown, though.  You think it's Charley Wade, huh?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Forensics people are sure of it. You have any idea who might have put him there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58351",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Besides my father, I mean."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "There's no call for that, Sam. Fella made himself a pile of enemies over the years."
+      },
+      {
+        "speaker": "SAM",
+        "text": "And Buddy was one of them."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "We got that dedication tomorrow. This is a hell of a time to be draggin' up old business."
+      },
+      {
+        "speaker": "SAM",
+        "text": "People have worked this whole big thing up around my father. If it's built on a crime, they deserve to know. Now I understand why you might want to believe he couldn't do it."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "And I understand why you might want to think he could."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58352",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Morning, Hollis."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Sam! Quite a do the other day. It meant a lot to folks that you said something."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You thought any more about our murder?"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "We have a murder?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Charley Wade."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "I wish I could tell you I remembered something new, but I can't."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I got an idea what happened."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Do you?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I think somewhere between Roderick Bledsoe's club and his house, Wade ran into Buddy Deeds. I think Buddy put a bullet in him, waited for him to die, threw him in the trunk of the Sheriff's car and drove him out by the Army post, I think he buried him under four feet of sand and never looked back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58353",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "You lived in the man's house what-- seventeen, eighteen years? And you didn't get to know him any better than that?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I got to go see somebody in San Antonio today. Your memory gets any better, I'll be back tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58354",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Fellas."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Hey, Sam."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Open late."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58355",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Imonna find out one way or the other."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Your father had the finest sense of justice of any man I ever met--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah, and my mother was a saint. For fifteen years the whole damn town knew he had another woman on the side. Stole ten thousand dollars to set her up in business. But hell, what's that? You got a problem? Buddy'll fix it. Facing some time in jail? Buddy'll knock half of it off-- if you do what he says, when he says. You got some business that's not exactly legal? Talk to Buddy--"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Buddy Deeds--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Buddy Deeds was a murderer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58356",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "HOLLIS",
+        "text": "The three of us cleaned up and took him to the post and put him under. Can't say I was much help."
+      },
+      {
+        "speaker": "SAM",
+        "text": "And the ten thousand?"
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Widow's benefits. He figured it would make the disappearance look better, and that Mexican gal was just scrapin' by after Charley killed her man. They didn't get hooked up till late--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58357",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Don't think the Rangers are likely to find out any more than they already have."
+      },
+      {
+        "speaker": "HOLLIS",
+        "text": "Word gets out who that body was, people are gonna think Buddy done it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58358",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "JORGE",
+        "text": "We're building up tourism, Sam--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "People come here to catch bass and to get laid at the Boy's Town in Cuidad Leon--"
+      },
+      {
+        "speaker": "JORGE",
+        "text": "Sam--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "You ought to put up a banner-- \"Frontera, Texas: Gateway to Cut- Rate Pussy\"--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58359",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "JORGE",
+        "text": "I got Eddie Richter at the Sentinel to kill that story."
+      },
+      {
+        "speaker": "SAM",
+        "text": "The Perdido thing?"
+      },
+      {
+        "speaker": "JORGE",
+        "text": "He agreed it wasn't exactly news--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Danny's gonna be out for blood the next time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58360",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "JORGE",
+        "text": "There was a mandate in the last election--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "It wouldn't happen to be your construction company gonna get the bid on building this thing, would it, H.L. And Jorge, you wouldn't be thinking about a couple dozen new jobs to dangle in front of the voters--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58361",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "JORGE",
+        "text": "There isn't money allocated for that. But a jail--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Look, I'm not gonna campaign against your deal here, but if anybody asks me, I got to tell them the truth. We-- don't--need--a new jail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58362",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "MARISOL",
+        "text": "Steve called for you."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Steve?"
+      },
+      {
+        "speaker": "MARISOL",
+        "text": "Steve. Board of Education Steve who likes you? He goes for us hot-blooded Mexican girls, I can tell."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Spanish, please. My mother would have a heart attack."
+      },
+      {
+        "speaker": "MARISOL",
+        "text": "Your mother's family is Spanish?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Sure, they go back to Cortez. When he rode by, they were squatting in a hut cooking hamsters for dinner."
+      },
+      {
+        "speaker": "MARISOL",
+        "text": "You got to be interested in somebody. All you do is work."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "All my mother does is work. That's how you get to be Spanish."
+      },
+      {
+        "speaker": "MARISOL",
+        "text": "How 'bout the Sheriff?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "The Sheriff."
+      },
+      {
+        "speaker": "MARISOL",
+        "text": "The old-high-school-heartthrob Sheriff. I thought you were crazy about each other. He's available, you're available--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "I'm unmarried. I'm not available."
+      },
+      {
+        "speaker": "MARISOL",
+        "text": "You told me one time it was true love."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58363",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "MERCEDES",
+        "text": "These ones coming up are getting stupider every year."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Maybe you're just getting less patient."
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "If they're going to survive here, they have to know how to work, Elalco! Adelante! Los clientes esperan!"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Well, you hire illegals--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "Nobody is illegal in my cafe! They've got green cards, they've got relatives who were born here--if they only had a little common sense I'd be very happy."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "If you spent a little more time training them--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "Did you come here to tell me how to run my business?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "No. I was wondering if you'd like to take a trip down south with us. Maybe see where you grew up--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "Why would I want to go there?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Oh, come on--you must be curious how it's changed. Amado is into this big Tejano roots thing and I've never been further than Ciudad Leon--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "You want to see Mexicans, open your eyes and look around you. We're up to our ears in them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58364",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "Mami, how old were you when my father--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "He was killed."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Right. When he was killed."
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "A little older than Paloma is now."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "How come you never got married again?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58365",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "There must have been somebody."
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "I was too busy."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Nobody's too busy."
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "Maybe now. It was different back then. I had this place, I was doing all the shopping, all the cooking. What do I need some chulo with grease under his nails to drink up the profit?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "I don't mean Fernando."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Mami, the first time I brought him home, those were your exact words-- \"some chulo with grease under his nails.\""
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "I never said that."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "You made it pretty damn clear you thought he was nobody."
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "I felt that you could do better for yourself--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "What? Become a nun? You didn't want me going out with Anglos--"
+      },
+      {
+        "speaker": "MERCEDES",
+        "text": "I never said that. It was just that boy--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "\"That boy\"--Mami, say his name for chrissakes!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58366",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Mrs. Bledsoe?"
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "That's me."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I'm Sheriff Deeds--"
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "Sheriff Deeds' dead, honey--you just Sheriff junior."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah, that's the story of my life."
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "You ever play one of these?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I've seen 'em."
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "Well, don't ever start up on 'em, cause once you do you can't stop. I tell myself I'm gonna play just three little games after breakfast, and here I sit with half the day gone."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You mind if I ask a few questions about your husband? Roderick?"
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "I won't say nothing bad about the man, but you can ask away."
+      },
+      {
+        "speaker": "SAM",
+        "text": "He had the club out on the old trail road--"
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "We run that twenty-odd years. Give it over to Otis Payne in 1967. April."
+      },
+      {
+        "speaker": "SAM",
+        "text": "So you must remember Sheriff Wade."
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "Not if I can help it."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You had to deal with him in running the club."
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "Them days, you deal with Sheriff Wade or you didn't deal at all. First of the month, every month, he remind you of who you really workin' for."
+      },
+      {
+        "speaker": "SAM",
+        "text": "He squeezed money out of you?"
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "Wasn't legal to sell liquor in a glass back then unless you was a club, see. Roderick used to say, \"Buy yourself a drink, you get a free membership.\" But Sheriff Wade, he could shut you down anytime."
+      },
+      {
+        "speaker": "SAM",
+        "text": "And my father?"
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "Sheriff Buddy was a different story. Long as Roderick throw his weight the right way on election day, make sure all the colored get out to vote- we was called colored back then, if you was polite--maybe throw a barbecue for the right people now and then, things was peaceful. That Sheriff Wade, though, he took an awful big bite."
+      },
+      {
+        "speaker": "SAM",
+        "text": "People didn't complain?"
+      },
+      {
+        "speaker": "MINNIE",
+        "text": "Not if they was colored or Meskin. Not if they wanted to keep breathin'."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Do you remember the last time you saw him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58367",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "MOLLY",
+        "text": "Pilar, is uhm--is Amado okay?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Okay? He's not here?"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "No. Is he sick?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "He's going to wish he was dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58368",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "I don't think you can take it personally--"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "I'd like to see them spend a day pulling 14-year-olds off of each other--I should get combat pay--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "I have new respect for some of my kids, meeting the parents they've been dealt--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58369",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "OTIS",
+        "text": "I didn't understand the spot I was putting Roderick in."
+      },
+      {
+        "speaker": "SAM",
+        "text": "And that was the last time you saw him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58370",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "OTIS",
+        "text": "Oh--I think he came in one more time with Hollis and--naw, your Daddy wasn't with them. Made their monthly pickup. Roderick wasn't in so I just kept my mouth good and shut and handed over that envelope."
+      },
+      {
+        "speaker": "SAM",
+        "text": "That was the night he disappeared?"
+      },
+      {
+        "speaker": "OTIS",
+        "text": "Could of been. That was white people's business."
+      },
+      {
+        "speaker": "SAM",
+        "text": "And when my father was Sheriff?"
+      },
+      {
+        "speaker": "OTIS",
+        "text": "What about it?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "What was your deal with him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58371",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "OTIS",
+        "text": "Buddy was more a part of the big picture--county political machine, chamber of commerce, zoning board if I kept those people happy, he was pretty much on my side.  Whenever somebody thought--they start up another bar for the black  folks, they'd be--how should I put this? They'd be officially discouraged."
+      },
+      {
+        "speaker": "SAM",
+        "text": "He ever accept cash for a favor?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58372",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "OTIS",
+        "text": "I'm not open. We were just talking."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Hollis probably told you we found Charley Wade."
+      },
+      {
+        "speaker": "OTIS",
+        "text": "Yeah. How about that? People start digging holes in this county, there's no telling what'll come up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58373",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PALOMA",
+        "text": "Not if you have half a brain in your head."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Of course you can."
+      },
+      {
+        "speaker": "PALOMA",
+        "text": "What?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "It doesn't have anything to do with being smart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58374",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PALOMA",
+        "text": "Mom?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "PALOMA",
+        "text": "You gonna stay out here?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "For a while."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58375",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PALOMA",
+        "text": "What's she singing about?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "What do you think?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58376",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PALOMA",
+        "text": "She finally got in--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "It's Saturday."
+      },
+      {
+        "speaker": "PALOMA",
+        "text": "You got in late last night."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Yeah. I had uhm--school business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58377",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PALOMA",
+        "text": "Can I get this?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Nobody really wears that stuff, Paloma."
+      },
+      {
+        "speaker": "PALOMA",
+        "text": "I could name five girls at school who have one just like it--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Enough with the clothes--"
+      },
+      {
+        "speaker": "PALOMA",
+        "text": "Just 'cause you went to Catholic school and wore a uniform."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "I only went for my last two years."
+      },
+      {
+        "speaker": "PALOMA",
+        "text": "How come?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Oh, my mother wanted to keep me away from away from boys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58378",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Morning, Sheriff."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Hey, Pete. How's it going?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Time marches on."
+      },
+      {
+        "speaker": "SAM",
+        "text": "How much you got left?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Three months."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You stop growing that loco weed at your place, you'd see a lot more daylight."
+      },
+      {
+        "speaker": "PETE",
+        "text": "It was for personal consumption."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You're going to smoke an acre and a half of marijuana?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "I got a bad stomach. It helps me digest."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58379",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Your father never bothered me about it. Leastways not till the drug people got on his back in the late '60s."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I thought he busted you a couple times."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Different charge. I had a still. Made my own mescal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58380",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "That's how I ruined my stomach."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I'm surprised he bothered with it."
+      },
+      {
+        "speaker": "PETE",
+        "text": "He was afraid I was going to poison somebody. Your father tried to do good for people--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "So I've heard--"
+      },
+      {
+        "speaker": "PETE",
+        "text": "And your mother was a saint. That summer I built the patio at your house? She made me lunch every day."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Well, you were working there--"
+      },
+      {
+        "speaker": "PETE",
+        "text": "It could have just been a box lunch from the jail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58381",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "You built our patio while you  were on the county?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Out in the fresh air, nice gringo lady making you pies--who's gonna sit back in a little jail cell all day? Sheriff Buddy, man. Como el no hay dos. And after that cabron Charley Wade--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I've heard Wade was a bit tough on the Mexicans--"
+      },
+      {
+        "speaker": "PETE",
+        "text": "He murdered Eladio Cruz. That tough enough for you?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Murdered him?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Chucho Montoya saw it with his own eyes. Shot him in cold blood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58382",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Something wrong?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "They've got my Amado."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Got him here?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Somebody called--something about an electronics store."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I'll see what's going on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58383",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I was--I was real sorry about Nando. He was a good fella. We haven't talked since."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "We haven't talked since high school."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah. I'll go check on your boy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58384",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "He's all yours."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Are you okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58385",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Field trip?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Lunch hour. My next class isn't till nine-thirty."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Want to take a walk?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58386",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Your mother still doesn't like me."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "I can't name anybody she does like these days."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I see she built a place up here by the river."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "A real palace. She rattles around alone in that thing--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "She's done well for herself--on her own and all--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "So she tells me three times a week."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58387",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "I thought you got through that pretty well."
+      },
+      {
+        "speaker": "SAM",
+        "text": "They cooked the whole thing up without asking me."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "People liked him."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Most people did, yeah."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "I remember him watching me once. When I was little--before you and I--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58388",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "I was on the playground with all the other kids, but I thought he was only looking at me. I was afraid he was going to arrest me--he had those eyes, you know--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Weird what you remember."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58389",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Your boy, there--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Amado."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Nice-looking kid."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "He hates me."
+      },
+      {
+        "speaker": "SAM",
+        "text": "No--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "With Paloma, it's more like she pities and tolerates me- totally age- appropriate. But Amado--he's--he's never been book-smart. Had a hard time learning to read. Me being a teacher and caring about those things is like an embarrassment--like a betrayal."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Fernando did okay, and he dropped out--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Fernando wasn't pissed off at everybody. He just wanted to fix their cars."
+      },
+      {
+        "speaker": "SAM",
+        "text": "It might just be the age. I spent my first fifteen years trying to be just like Buddy and the next fifteen trying to give him a heart attack."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58390",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "So why did you come back here, Sam?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Got divorced, I wasn't gonna work for my father-in-law anymore. The fellas down here said they'd back me--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "You don't want to be Sheriff."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I got to admit it's not what I thought it'd be. Back When Buddy had it-- hell, I'm just a jailer. Run a 60- room hotel with bars on the windows."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "It can happen so sudden, can't it? Being left out on your own."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You've got your mother, your kids--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "They've got me. Different thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58391",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "I should get back."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Pilar--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Looks real bad if the teacher's late for class. It's really nice to talk with you, Sam."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58392",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "We thought we were something, didn't we?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "I look at my kids in school--tenth, eleventh graders. That's who we were. Children."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "I mean what did we know about anything?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58393",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "When Nando died--it was so sudden--I was kind of in shock for awhile. Then I woke up and there was the whole rest of my life and I didn't have any idea what to do with it."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You know the other day, you asked why I came back?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I came back 'cause you were here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58394",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "Wow."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "How come it feels the same?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I don't know. It just feels good. Always did."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "So what are we gonna do about this?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "More, I hope."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58395",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "How long have you lived here?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Two years."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "There's nothing on the walls. No pictures--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Don't have kids. Other pictures--I don't know--it's nothing I want to look back on."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Like your story is over."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I've felt that way, yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58396",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "It isn't. Not by a long shot. He holds her and they lie silently for a moment--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Pilar--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "What was your father's name?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Eladio. Eladio. Cruz."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58397",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "You gonna tell your mother we been seeing each other?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "She'll figure it out sooner or later. I don't have to ask permission anymore, if that's what you mean."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You have any idea when your father died? Eladio?"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Couple months before I was born--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Try a year and a half. He bands her an old snapshot. PILAR looks at it--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58398",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "I've never seen my mother in a bathing suit before.  Didn't know she owned one."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Buddy bought the cafe for her with money he took from the county. Pilar looks away, struggling not to cry--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "They can't pull this on me. It isn't fair--I don't believe this--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "He paid the hospital bill when you were born. Your mom always calls you \"our beautiful daughter\" in the letters she wrote to him."
+      },
+      {
+        "speaker": "PILAR",
+        "text": "From the first time I saw you at school--all those years we were married to other people I always felt like we were connected."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I remember thinking you were the one part of my life Buddy didn't have a piece of--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58399",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "I'm not having any more children. After Amado, I had some complications-- I can't get pregnant again, if that's what the rule is about--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "If I met you for the first time today, I'd still want to be with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58400",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "PILAR",
+        "text": "We start from scratch--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah--"
+      },
+      {
+        "speaker": "PILAR",
+        "text": "Everything that went before, all that stuff, that history--the hell with it, right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58401",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "RAY",
+        "text": "Hospital says the other kid is in bad shape--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "The shooter local?"
+      },
+      {
+        "speaker": "RAY",
+        "text": "Down from Houston. I think he knew the girl before."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Okay--we'll take a statement from all the GIs before they go back to post. You can get the story from Otis over at the club."
+      },
+      {
+        "speaker": "RAY",
+        "text": "Any poop on the John Doe you found out there today?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Nothin' much. The Rangers put Ben Wetzel on it. Catch you later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58402",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "RAY",
+        "text": "You're out early."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "RAY",
+        "text": "Haven't seen much of you at the jail lately."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I been working on a few things."
+      },
+      {
+        "speaker": "RAY",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I'm going over to the other side."
+      },
+      {
+        "speaker": "RAY",
+        "text": "The Republicans?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "No--to Mexico. I've got to talk to somebody."
+      },
+      {
+        "speaker": "RAY",
+        "text": "They got telephones."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Gotta be in person."
+      },
+      {
+        "speaker": "RAY",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58403",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "RAY",
+        "text": "Sam? I--the Committee--you know Jorge and H.L. and all--they asked me--"
+      },
+      {
+        "speaker": "SAM",
+        "text": "They want you to stand for Sheriff next election."
+      },
+      {
+        "speaker": "RAY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You'd do a good job."
+      },
+      {
+        "speaker": "RAY",
+        "text": "How 'bout you?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Don't know if I'll still want it."
+      },
+      {
+        "speaker": "RAY",
+        "text": "I didn't want to be going around your back."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I appreciate you telling me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58404",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "You think we need a new jail?"
+      },
+      {
+        "speaker": "RAY",
+        "text": "Well, it's a complicated issue--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58405",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "RAY",
+        "text": "Excellent performance, my friend. The judge was very impressed."
+      },
+      {
+        "speaker": "SHADOW",
+        "text": "You don't need to cuff me."
+      },
+      {
+        "speaker": "RAY",
+        "text": "You been talking so much trash today, you made us think you're a dangerous criminal. Be a good boy, now--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58406",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "SHADOW",
+        "text": "You're the one who's a good boy. Man say \"fetch\" and you fetch--"
+      },
+      {
+        "speaker": "RAY",
+        "text": "Just doing my job."
+      },
+      {
+        "speaker": "SHADOW",
+        "text": "White man just using you to keep the Black man down."
+      },
+      {
+        "speaker": "RAY",
+        "text": "This isn't Houston, my friend. We pretty much running things now. Our good day has come."
+      },
+      {
+        "speaker": "SHADOW",
+        "text": "You suckers haven't had a good day since the Alamo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58407",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "RODERICK",
+        "text": "Don't mind him, Sheriff. Boy's just a bit slow, is all. He don't mean nothin' by it--"
+      },
+      {
+        "speaker": "WADE",
+        "text": "That the problem, son?  You Slow?"
+      },
+      {
+        "speaker": "RODERICK",
+        "text": "Otis, apologize to the Sheriff--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58408",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "RODERICK",
+        "text": "You got him too scared to peep, Sheriff. Maybe if you put that gun up--"
+      },
+      {
+        "speaker": "WADE",
+        "text": "You telling me what to do, Roderick?"
+      },
+      {
+        "speaker": "RODERICK",
+        "text": "No, Sheriff, I'm just--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58409",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "What's this I see? Is that whiskey in them glasses on the Bar? Roderick, I'm gonna have to cite you for a violation of state law--"
+      },
+      {
+        "speaker": "RODERICK",
+        "text": "This is a club, Sheriff--you been in here--"
+      },
+      {
+        "speaker": "WADE",
+        "text": "And people better clear out of here! Now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58410",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "ZACK",
+        "text": "Hey Sam. Sorry 'bout that."
+      },
+      {
+        "speaker": "SAM",
+        "text": "What's up?"
+      },
+      {
+        "speaker": "ZACK",
+        "text": "We had about a dozen wets come over just upriver. They ran into one of our posts--it was like a breakshot on a pool table, illegals runnin' every which way."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I haven't seen anybody come by."
+      },
+      {
+        "speaker": "ZACK",
+        "text": "We'll get 'em--  So you livin' out here now?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah. It's quiet--"
+      },
+      {
+        "speaker": "ZACK",
+        "text": "I heard about that deal for your father--You must be real proud."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Sure."
+      },
+      {
+        "speaker": "ZACK",
+        "text": "The stories people tell, he was a real colorful fella--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58411",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "WESLEY",
+        "text": "--but longhorns are hard to come by these days."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You sell much out here?"
+      },
+      {
+        "speaker": "WESLEY",
+        "text": "How am I gonna sell things if nobody comes by? This stretch of road runs between Nowheres and Nothin' Much."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Hell of a spot to put a business."
+      },
+      {
+        "speaker": "WESLEY",
+        "text": "But you don't see much competition, do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_58412",
+    "movie_id": "m423",
+    "turns": [
+      {
+        "speaker": "WESLEY",
+        "text": "Buffalo chips. Fella in Santa Fe told me he sells these as fast as the buffalo can squeeze 'em out."
+      },
+      {
+        "speaker": "SAM",
+        "text": "So when did Buddy leave?"
+      },
+      {
+        "speaker": "WESLEY",
+        "text": "For Frontera? Hell, I can't remember dates no more. I do recall it was after an affair of the heart had gone sour on him. He almost took some poor fella's head off at the Legion in Arroyo Grande, and figured it was time to move on."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You think he killed anybody in Korea?"
+      },
+      {
+        "speaker": "WESLEY",
+        "text": "They don't hand those medals out for hidin'in your foxhole. Would you buy this?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "No--"
+      },
+      {
+        "speaker": "WESLEY",
+        "text": "Me neither."
+      }
+    ]
+  }
+]

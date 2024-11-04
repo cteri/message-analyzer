@@ -1,0 +1,1858 @@
+[
+  {
+    "conversation_id": "conv_6001",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "Her name's Hannah."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Is that Jango?"
+      },
+      {
+        "speaker": "KELLY",
+        "text": "No, this is Jack.  Jango was hit by a UPS truck.  Can you believe it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6002",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "That's my sea anchor.  My second one. Made it out of part of the sail.  It keeps you from capsizing in a storm.  In theory.  And this, this I used to collect water. About half a cup a day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6003",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "All that time I waited to go on a cruise, and you went without me."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Yeah, well...couldn't be helped."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6004",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "What's that, written on the sail?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "My epitaph."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6005",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "There was a coffin?"
+      },
+      {
+        "speaker": "KELLY",
+        "text": "Yeah, coffin, headstone, the whole thing."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "What was inside?"
+      },
+      {
+        "speaker": "KELLY",
+        "text": "Your calendar, your cell phone, your whoo pig sooey hat, some pictures of that ketch you wanted."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "That about sums it up."
+      },
+      {
+        "speaker": "KELLY",
+        "text": "Maybe now's when you tell me about it."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "The plane went down.  My friends died.  I washed up on an island.  Then I found these barrels, built the raft, and here I am."
+      },
+      {
+        "speaker": "KELLY",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "The tide came in, the tide went out.  I survived.  That's the headline.  I survived."
+      },
+      {
+        "speaker": "KELLY",
+        "text": "Don't overwhelm me with the details.  You know how I hate that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6006",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "Come on.  Try."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Cliches, mainly.  Don't take anyone for granted.  Don't sweat the small stuff. Live each day like it's your last."
+      },
+      {
+        "speaker": "KELLY",
+        "text": "So simple to say, so hard to do."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Not when you have no choice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6007",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "You hated being alone.  Couldn't stand it.  Busy every minute.  Always plugged into something."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I didn't know what really being alone was.  No one back here does."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6008",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "This is so unfair."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "That's what I told the fish I caught. But I ate them anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6009",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "You okay?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Great.  Really."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6010",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "What will you do?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I don't know.  I really don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6011",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "I've got to get back to Memphis. Hannah's babysitter has finals."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "It means a lot...that you came."
+      },
+      {
+        "speaker": "KELLY",
+        "text": "I had to come.  To be sure you were okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6012",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "KELLY",
+        "text": "I love you, Chuck."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "You too."
+      },
+      {
+        "speaker": "KELLY",
+        "text": "I'm so glad you're alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6013",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "I need the latest PDRs on St. Petersburg."
+      },
+      {
+        "speaker": "LESLIE",
+        "text": "And how was your Christmas?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Terrific.  Yours?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6014",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "When's the next Jumbo?"
+      },
+      {
+        "speaker": "LESLIE",
+        "text": "The regular flight is scheduled for oh three hundred tomorrow."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Anything else?"
+      },
+      {
+        "speaker": "LESLIE",
+        "text": "There's a sweep leaving Memphis in an hour, goes through Sydney."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6015",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "My favorite doctor.  What's the verdict?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Under the circumstances your overall health is good.  Those salt water boils you picked up on the raft are ulcerated, but they're healing nicely."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6016",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Sorry...sorry... Why do my joints still ache?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Dehydration.  Vitamin deficiency. Protein deficiency.  Any or all of the above."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "All I ate was fish.  That's solid protein."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Protein digestion is very costly in water usage."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Which I didn't have."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "And fish are very low in fat, which is energy inefficient.  So you're going to burn up your own cells no matter how much you eat.  Luckily you ate the eyes and pancreas, which contain some Vitamin C, so you didn't get scurvy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6017",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "I am one lucky guy."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Your body chemistry and your exposure to the elements would normally lead to irritability, depression, anxiety, periods of self-reproach.  It's almost like schizophrenia.  Different sides of your personality might come to life, speak out, act out."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "But all that's behind me.  I'm fine now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6018",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "If you say you are."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I most definitely say I am."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Doctor Hegel tells me he discussed the Vietnam POW syndrome with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6019",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Yes, yes he did."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "You are aware of the potential disruptiveness on your loved ones when you return to your old life?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Not to mention on me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6020",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Doc, I'm not on the island.  I'm not on the raft.  I'm alive.  I'm so glad to be back, I can't tell you.  I just want out of here."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Well, when that IV runs out, you're through with us.  Just the dentist tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6021",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Need some help?"
+      },
+      {
+        "speaker": "DRIVER",
+        "text": "You bet I do.  High tide comes right up to this road."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6022",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "DRIVER",
+        "text": "You're not out of Pascagoula, are you?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6023",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "I used to drive one of those.  A long time ago."
+      },
+      {
+        "speaker": "DRIVER",
+        "text": "Hey, once a driver, always a driver.  You want a lift?  I've just got one more pickup."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6024",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "DRIVER",
+        "text": "You're Chuck Noland."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6025",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Bless us O Lord, and these thy gifts, which we are about to receive, from thou bounty, through Christ the Lord.  Amen."
+      },
+      {
+        "speaker": "ROGER",
+        "text": "Let's eat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6026",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "ROGER",
+        "text": "Thought you were going to bring her."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "So did I."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6027",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "But chickens?"
+      },
+      {
+        "speaker": "ROGER",
+        "text": "Sixty three pounds consumed per capita, up from twenty seven in 1960.  Going to pass beef.  Chicken's global.  No religious taboos.  You don't see your Hindus and your Muslims boycotting poultry."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "True enough.  No sacred chickens nowhere, so far as I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6028",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Really?"
+      },
+      {
+        "speaker": "ROGER",
+        "text": "Come on down to the plant.  It's state of the art.  We're doing for chickens what FedEx did for the delivery business."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Just don't count 'em before they hatch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6029",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "What happened to your pants?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Mom, meet Jango."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6030",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "It seemed like she had such a good time last time."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "It's nothing you did, Mom, believe me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6031",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Look, I help take care of the place.  You got my check, didn't you Mom?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "That new roof, that's your doing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6032",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Mom, this is a farm.  We've got real strawberries growing outside, we've got real cream."
+      },
+      {
+        "speaker": "MOM",
+        "text": "Oh no, the prodigal son's home.  We bring out the store bought."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6033",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Maybe I should take a few days off. Roger's working now, you could use some help around here..."
+      },
+      {
+        "speaker": "MOM",
+        "text": "Don't you even think about it."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "The place is falling apart."
+      },
+      {
+        "speaker": "MOM",
+        "text": "I'm doing fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6034",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Doing great, Mom, don't worry about me."
+      },
+      {
+        "speaker": "MOM",
+        "text": "There's settled folks, and there's nomads.  You're just not a settled folk. You never belonged here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6035",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "When'd you start working here?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "Roger got me on.  I wasn't doing anything, and -- but you're back, you're really back.  I would have come to Memphis, but --"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I wanted to come here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6036",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "I've got all this back pay coming.  Why don't you let me get you a place in town?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "This is my home.  I'm part of the wallpaper."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6037",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "What a journey you've had.  It seems more than a person should have to bear."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "The tide saved me, Mom.  I lived by it. I'm just wondering where it will take me next."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6038",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "TECHNICIAN",
+        "text": "Trying."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Kamal, you're breaking up.  Can you hear us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6039",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "TECHNICIAN",
+        "text": "Okay.  After three years the PTR reverts to tape storage, which is okay because we access it through the CPC.  Here it is.  Ten packages from the same sender.  Baku. Delhi.  St. Petersburg.  The guy was a real road warrior.  This package was Kuala Lampur.  No activity in his account after this package.  No forwarding addresses after K.L."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "What about the sender?"
+      },
+      {
+        "speaker": "TECHNICIAN",
+        "text": "Sure.  Bettina Peterson.  Marfa, Texas. Let's run a current check."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6040",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "TECHNICIAN",
+        "text": "Hmmm.  Durango, Colorado; Asheville, North Carolina, then...canceled her account."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Can you find her?"
+      },
+      {
+        "speaker": "TECHNICIAN",
+        "text": "You're looking at a Level III search. For your Level III, you gotta have E-4 authorization.  I don't have it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6041",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "VOICE",
+        "text": "Kamal is not here."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Who is this?  Where is Kamal?"
+      },
+      {
+        "speaker": "VOICE",
+        "text": "It is Ibrim, I, I am a sorter."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "What's going on down there?"
+      },
+      {
+        "speaker": "VOICE",
+        "text": "Kamal is not here.  We are very defused."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Who's in charge then, where is Chinn?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6042",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "What do you expect, from the guy who stole a kid's bicycle when his truck broke down?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Borrowed.  I borrowed it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6043",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "How'd it go?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Great.  Terrific.  The good guys won one for a change."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6044",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "You what?"
+      },
+      {
+        "speaker": "STAN",
+        "text": "It was fifteen minutes late."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6045",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "I checked the weather, you had the jet stream, you could have made it up."
+      },
+      {
+        "speaker": "STAN",
+        "text": "But I might not have."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Jesus.  I got it working... You have no idea how hard it was... They're finally a team..."
+      },
+      {
+        "speaker": "STAN",
+        "text": "I'm touched."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "You fucked us over."
+      },
+      {
+        "speaker": "STAN",
+        "text": "The point of FedEx, as I understand it, is to make the damn connection."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I was making a point."
+      },
+      {
+        "speaker": "STAN",
+        "text": "What?  Let Paris hold its plane?  Let Memphis take care of it?  Let somebody down the line clean up your mess?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Every person counts, every package counts, that's my point."
+      },
+      {
+        "speaker": "STAN",
+        "text": "You know what your problem is?  You just see the packages in front of you.  You don't see the big picture."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Baloney.  I do see the damn \"big picture.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6046",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "I didn't know we had sailboats."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "It's a ketch Kelly and I had chartered."
+      },
+      {
+        "speaker": "STAN",
+        "text": "For all those vacation days you got coming."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6047",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "And never take."
+      },
+      {
+        "speaker": "STAN",
+        "text": "Look, I'm sorry about your plane.  But I couldn't risk being late into Memphis."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Forget it."
+      },
+      {
+        "speaker": "STAN",
+        "text": "You know General McLelland, he wouldn't attack unless he had everything just right.  Finally Abe Lincoln came to him and said, General, if you're not going to use my army, could I borrow it for a while?  So he gave it to Grant and Grant just said, let's go."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I'm from Arkansas.  Tell me a story with Robert E. Lee in it and maybe I'll pay attention."
+      },
+      {
+        "speaker": "STAN",
+        "text": "We're warriors, not desk jockeys.  We've got to be bold.  You always want all your ducks lined up.  But nothing's 100 percent.  It's always 60-40, maybe 51-49. Hell, I'd take 40-60.  Then roll the dice."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "That's why you're a gambling man."
+      },
+      {
+        "speaker": "STAN",
+        "text": "That's why I'm running foreign and you're not.  That's why you're not married and I am."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "For the third time."
+      },
+      {
+        "speaker": "STAN",
+        "text": "Take the plunge, admit your mistakes, move on to tomorrow.  That's FedEx, that's women, that's life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6048",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "You are one sick fucker."
+      },
+      {
+        "speaker": "STAN",
+        "text": "I'm trying to help you here.  There's Warsaw, there's this --"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "This was nothing like Warsaw.  I held the truck then minutes, it's not that big a deal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6049",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "A hundred rubles St. Petersburg hits 95 percent in a month."
+      },
+      {
+        "speaker": "STAN",
+        "text": "Ninety five percent?  Just give me the money now."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Talk is cheap.  Are we on or not?"
+      },
+      {
+        "speaker": "STAN",
+        "text": "We're on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6050",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "Malaysia's tanking.  We're meeting in ten in operations."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Right.  Get me everything on Indonesia, New Guinea, all the way to Australia."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6051",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Stan, it's Chuck...Chuck Noland..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6052",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "God damn!  God damn!  Chuck, it's you!"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "It's me."
+      },
+      {
+        "speaker": "STAN",
+        "text": "You're fucking dead!"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I'm most definitely not dead.  And as I recall, you're the sick fucker."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6053",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "I beat the odds!"
+      },
+      {
+        "speaker": "STAN",
+        "text": "You beat 'em to shit, pal!  Jesus!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6054",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "Hello."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "This is Amber.  Her boyfriend lost his foot in a shark attack."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6055",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "How about we go somewhere else?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Want to see my raft?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6056",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "This stinks really bad."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "You should have smelled me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6057",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "Cool ropes."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I braided them."
+      },
+      {
+        "speaker": "STAN",
+        "text": "Must have taken a hell of a long time."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Time I had lots of."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6058",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "You were how long on this?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Forty-three days."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6059",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "When I first showed up, I thought you'd lost your fucking marbles."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I never thought it would end.  Then it did.  It was so great to be saved, I couldn't stop laughing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6060",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "To Wilson."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "To Wilson."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6061",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "You've been over the line and you came back.  You've been saved, hallelujah!"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Hallelujah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6062",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "I'm serious.  The burning bush, the big picture, the words in neon..."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "What's it all about?  It's about being so thirsty you'd crush a fish's backbone to suck out the spinal fluid -- that's what it's about."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6063",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "To life.  Fuck 'em if they can't take a joke."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "To life."
+      },
+      {
+        "speaker": "STAN",
+        "text": "That's all there is."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Believe me I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6064",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "Digital laser readers."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Digital laser readers.  Wow.  Terrific."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6065",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Take your time."
+      },
+      {
+        "speaker": "STAN",
+        "text": "What?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "That's what it's about."
+      },
+      {
+        "speaker": "STAN",
+        "text": "Being patient.  Don't rush things.  I get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6066",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Not just that.  Take your time.  Use it. Live it."
+      },
+      {
+        "speaker": "STAN",
+        "text": "Deep, real deep."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6067",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "STAN",
+        "text": "What, then?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "Deliver this package.  Then, I dunno."
+      },
+      {
+        "speaker": "STAN",
+        "text": "You want that delivered, we'll deliver it.  That's what we do."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "I need to do it."
+      },
+      {
+        "speaker": "STAN",
+        "text": "Finish what you started.  You haven't changed, Chuck.  It's still you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6068",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Thanks.  For everything."
+      },
+      {
+        "speaker": "STAN",
+        "text": "No sweat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6069",
+    "movie_id": "m43",
+    "turns": [
+      {
+        "speaker": "CHUCK",
+        "text": "Permission to come aboard, sir."
+      },
+      {
+        "speaker": "CHUCK/CAPTAIN",
+        "text": "Permission granted."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "May I ask, where are you bound?"
+      },
+      {
+        "speaker": "CHUCK/CAPTAIN",
+        "text": "San Francisco.  And you?"
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "As it happens, I'm headed for Frisco myself."
+      },
+      {
+        "speaker": "CHUCK/CAPTAIN",
+        "text": "Would you do us the honor of joining us? We're just sitting down at mess.  Pork chops and gravy, cranberries, baked potatoes with all the trimmings, fresh- baked bread, apple pie..."
+      },
+      {
+        "speaker": "CHUCK",
+        "text": "No please, join me.  Some sundried fish strips, a few eyeballs, some gills to munch on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6070",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ANGELA",
+        "text": "Only if you can afford it."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Try to think of nothing, Dorothy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6071",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "It's not ergot, it's not pituitary extract, it's not oil of rue..."
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "It claims to restore monthly regularity."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6072",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ANGELA",
+        "text": "Wilbur, the adopting couple is waiting in your office."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Life is waiting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6073",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "I was dreaming about you. How beautiful you were!"
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "You weren't dreaming about me."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "I was!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6074",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ANGELA",
+        "text": "Then I wasn't beautiful."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "You were! You *are*! It was fantastic."
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "It was just the ether, Wilbur..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6075",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "They want to replace me! The Board of Trustees wants to *replace* me!"
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "They just want you to hire some new help."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Some new *things* would be useful. I don't need any \"new help.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6076",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ANGELA",
+        "text": "He'll need clothes... some money..."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Let him try to *make* some money! That's part of \"seeing the world,\" isn't it?"
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "Oh, just stop it! You knew this was going to happen. He's a young man."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "He's still a boy--out in the world, he's still a boy."
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "Just find him some clothes, Wilbur. He could use some clothes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6077",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "He is a goddamn psychiatrist--of *course* he wants to \"help\"! He'd be happy if he could help *commit* me!"
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "It's that Mrs. Goodhall you have to be careful of, Wilbur."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "One has to be more than \"careful\" of Mrs. Goodhall--she has sufficient Christian zeal to start her own country! I'd like to give her a little ether."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6078",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ANGELA",
+        "text": "This is *your* life story, Wilbur! You just changed the dates!"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "\"An internship and two years of training at the Boston Lying-in, South End Branch. For his age, he was judged an accomplished gynecological obstetrical surgeon; he is also experienced in pediatric care...\""
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "You *invented* him! You've completely made his up!"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Don't you understand? The board is going to *replace* me! That's what the \"new blood\" is *for*!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6079",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ANGELA",
+        "text": "These *credentials* are against the law!"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "We all know who trained Homer--his credentials are as good as mine are. Don't you be holy to me about the *law*! What has the law done for any of us here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6080",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "Oh my, yes! This is a *far* superior taste--and crisp, too! You know, so many apples are disappointingly mealy. I wonder of most of the apples in my life weren't meant for pies!"
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "Wilbur, he picked them for us himself..."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "You don't find it depressing that Homer Wells is picking apples?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6081",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "I suppose it wouldn't hurt to *meet* him. What's his name again?"
+      },
+      {
+        "speaker": "ANGELA",
+        "text": "Dr. Homer Wells."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "I just hope he won't expect us to say *Grace* all the time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6082",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "BUSTER",
+        "text": "He *sniffs* that ether! I've seen him do it!"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "It's because he's too tired to sleep. He has to."
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "He *smells* like he could put you to sleep!"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "He's a doctor, Buster--doctors smell like ether."
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "*You're* a doctor, Homer--you don't smell like ether."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I'm *not* a doctor. I haven't been to medical school--I haven't even been to high school!"
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "But you've studied with the old man for *years*!"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I'm *not* a doctor!"
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "I'm sorry, Homer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6083",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "BUSTER",
+        "text": "I mean your parents."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I know who you mean. I think about leaving here, but not to find *them*."
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Whoever they were, they didn't *do* any of the things parents are supposed to do. Dr. Larch did those things, and Nurse Edna, and Nurse Angela."
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "Yeah. But sometimes I wish I could meet mine, anyway."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "What for, Buster? What would you do if you met them?"
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "Uh... I'd like to show them that I can cook, a little."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "You cook very well!"
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "And that I can drive a truck!"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Better than I can!"
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "Sometimes I want to meet them so I can kill them. Just sometimes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6084",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "BUSTER",
+        "text": "Homer, you know I would never kill anyone--you know I wouldn't."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6085",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "BUSTER",
+        "text": "I think Mary Agnes could kill someone."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I doubt it. She's just an..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6086",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "BUSTER",
+        "text": "What's she so emotional about?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I don't know. She got left here, like the rest of us, didn't she?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6087",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "BUSTER",
+        "text": "What'd she die of?"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "She died of *secrecy*, she died of *ignorance*..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6088",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "BUSTER",
+        "text": "What are you going to tell the little ones?"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "I'll tell them Fuzzy was adopted."
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "Why would the little ones believe that *anyone* would adopt him?"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "They'll believe it because they want to believe it."
+      },
+      {
+        "speaker": "BUSTER",
+        "text": "Shouldn't we tell Homer?"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "If Homer wanted to know what was happening here, he could pick up a telephone and call us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6089",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "CANDY",
+        "text": "It's time somebody ate *them*."
+      },
+      {
+        "speaker": "RAY",
+        "text": "I was lookin' for Wally's letter. I was gonna show it to Homer...  They made him a captain already-- *Captain* Worthington!"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Daddy, it's a letter to *me*."
+      },
+      {
+        "speaker": "RAY",
+        "text": "He mentions Homer, too, you know."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Wally said to say, \"Hello.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6090",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "RAY",
+        "text": "It's gettin' late. I think I'll pack it in."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Good night, Daddy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6091",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "RAY",
+        "text": "How about him not needin' the friggin' compass! How about that?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Daddy, *please*..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6092",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "RAY",
+        "text": "Good night, kids. Don't catch cold-- it's gettin' cold already."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Good night, Daddy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6093",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "So, Mrs..."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Candy. Candy Kendall."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6094",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "How many months are you?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Two."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6095",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "Is your family in the apple business, too?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "No, but I work there--I like it. My dad's a lobsterman."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I've never seen a lobster."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Really?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I've never seen the ocean, either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6096",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "I know."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "He's going to be dropping bombs on Mandalay! They're going to be shooting at him!"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Where's Mandalay?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Burma!"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Oh..."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "I can't have a baby alone. I don't even know if he's coming back!"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6097",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "CANDY",
+        "text": "I'm a little worried about the...  ...about how much bleeding is okay."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "It should taper off tomorrow, but it can come back again. You have cramps?  They'll ease up, almost entirely. As long as the bleeding isn't heavy, it's normal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6098",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "CANDY",
+        "text": "I guess I'll see you around the orchards. Thanks for everything."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Sure... I'll see you around."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6099",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "CANDY",
+        "text": "So. Not bored yet?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I'm *never* bored! It's all very... different for me... here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6100",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "Uh... have you been *feeling* okay?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "When I'm not thinking about Wally. I'm not good at being alone.  Oh, goodness. You meant... yes, I'm fine. I...  ...I don't suppose you've seen a lobster yet."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1738 @@
+[
+  {
+    "conversation_id": "conv_69013",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "GENERAL",
+        "text": "Sir -- we charged!..Gentlemen -- and I hope you will quote me -- I cannot say too much for the courage of the men who followed me into that Cheyenne camp..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "<U>Cheyenne</U>! What Cheyenne?"
+      },
+      {
+        "speaker": "GENERAL",
+        "text": "I beg your pardon?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "That camp you hit was Nawyecka Comanche...Chief Scar's bunch..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69014",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "My name's Edwards...I'm looking for my niece...she was in that camp when you attacked..."
+      },
+      {
+        "speaker": "GENERAL",
+        "text": "Well...I know there were some captives recovered..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69015",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Are you sure they didn't die of carbine shots fired by a bunch o' Yank bluebellies so scared they couldn't tell the difference between a Cheyenne and a Comanche?"
+      },
+      {
+        "speaker": "GENERAL",
+        "text": "Keefer!..Put this man under arrest!"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "That'll be the day...  'As we developed the village'... Next time you develop a village, hit it where the fightin' men are... You won't get any headlines for killin' squaws."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69016",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Not quite...Quarter Cherokee. The rest is Welsh...So they tell me."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "You've done a lot of growin'..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69017",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Somethin' mighty fishy about this trail, Uncle Ethan..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Stop callin' me 'uncle'...I ain't your uncle."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Don't have to call me 'sir' neither... Nor grampaw neither...Nor Methuselah neither...I can whup you to a frazzle."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69018",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "What you want me to call you?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Name's Ethan...Now what's so mighty fishy about this trail?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Well, fust off..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69019",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Well, come on!"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Easy!  It's forty miles, sonny...Horses can do with some grain and a little rest."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69020",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Nothing for you to see."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Leggo..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69021",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "All right...but I'm givin' the orders...You take 'em or we split up here and now..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Why, sure, Ethan...There's just the one thing we're after...finding Deborah and Lucy..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "If they're still alive..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69022",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Easy on that!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Sorry...We don't even know if Debbie 'n Lucy are with this bunch...Maybe they split up..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "They're with 'em -- if they're still alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69023",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "You want us to fire a shot if..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "No...nor build bonfires...nor beat drums neither. I'll meet you on the far side."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69024",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "You all right, Ethan?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Huh...?  Sure I'm all right..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69025",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Say!...What happened to your blanket? Lose it?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Must've...Anyway, I ain't goin' back to look for it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69026",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "What you goin' to do?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Get some sleep...Tomorrow's another day..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69027",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Say it. We're beat!"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "No...our turnin' back don't change anything...not in the long run. If she's alive, she's safe...for a while...They'll keep her to raise as one of their own, 'til she's of an age to..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69028",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "And you think we got a chance to find her?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "An Injun will chase a thing til he thinks he's chased it enough...Then he quits...Same when he runs...Seems he never learns there's such a thing as a critter that might just keep comin' on...So we'll find them in the end, I promise you that...We'll find them just as sure as the turning of the earth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69029",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Good night...Laurie..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Good night..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69030",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Jorgensen's been runnin' his cattle with my own..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "YOUR cattle?...<U>DEBBIE'S</U> cattle!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69031",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "He's agreed to take you on and share the increase from my herd while I'm gone...I'll be pushin' on tomorrow..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "I ain't stayin'...I set out lookin' for Debbie...I aim to keep on..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Why?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Because she's my...my..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "She's your nothin'...She's no kin to you at all!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "I always felt like she was...Her folks takin' me in, raisin' me like one of their own..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "That don't make 'em kin..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "All right...I ain't got no kin... I'm goin' to keep lookin' that's all."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "How? You got any horses, or money to buy 'em...You ain't even got money to buy cartridges...Jorgensen's offering you a good livin' here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69032",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Martin...I want you to know some- thin'..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Yeah...you want me to know I ain't got no kin -- no money -- no horses -- nothing but a dead man's clothes to wear!..You tole me that already... Now shut your head!"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Good night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69033",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Hey! What's the idea...?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Maybe I'm gettin' like Mose Harper -- my bones is cold tonight..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69034",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Not so funny...if you recollect what 'Nawyecka' means..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "What's that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69035",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Sorta like 'roundabout' -- like a man says he's goin' one place when he means to go just the reverse..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Oh..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "You all settled an' comfortable now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69036",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Futterman?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "He just couldn't wait..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Whatchu doin'?..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69037",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Let's go...I think I stumbled onto somethin'..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Scar?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69038",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "When are you goin' to learn to keep your mouth shut! Come on. Let's get out of here."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "But I just bought a good blanket."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Forget it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69039",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "What I heard back there was that a band o' hostile Nawyeckas came through this way less'n two weeks ago..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Think it might be...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69040",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "<U>YOU</U> don't understand, ya chunkhead! <U>You</U> didn't buy any blanket! Ya bought <U>her</U>!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "What?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "You got yourself a <U>wife</U>, sonny!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Oh no! Tell her she's got to go back..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "And have her whole family after our scalps for floutin' one o' their women?...No sir! Come on, Mrs. Pauley..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69041",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "That's the way to train 'em. Looks like Mrs. Pauley's goin' to make you a fine beautiful wife..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Cut it out, will ya..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69042",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Says her name's Wild Goose Flying in the Night Sky...but she'll answer to Look since it pleases ya..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Look?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69043",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "You ask her!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Look!  Scar?...  Do you know where he went? And if he has a girl with him...a <U>white</U> girl -- nai-bist pabo taibo..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69044",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Beats me how she could get that pony out o' camp without neither of us hearin' a thing..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "She ain't goin' back to her family, that's certain...not if she took off where the arrow points."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Think she means for us to follow?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "How should <U>I</U> know...She's YOUR wife!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69045",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "I think maybe we oughta..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Yeah, I kinda figgered you'd say that...Bein' a new husband and all..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69046",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Ethan, quit it!"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Nine...  Ten!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "What's the sense in it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69047",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Least, <U>THEY</U> won't feed any Comanches this winter...Killin' buffalo's as good as killin' Injuns in this country."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Peaceful tribes depend on the buffalo, too...."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Ain't that too bad...If you feel that sorry for your kinfolk, I'm surprised you didn't take up with that squaw wife of yours..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69048",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Well, you're a widower now..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "What'd the soldiers have to kill her for!.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69049",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "No...She's not..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I ain't sure...Where's that doll?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69050",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Lemme alone..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "You breeds are all alike -- two drinks an'..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69051",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Suit yourself...While you're enjoyin' your little conversation, I'll be ridin' out with Senor Fernandez here... The Comanch' medicine country ain't far...there's one camp with a chief named Cicatriz."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Never heard of him..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Cicatriz is Mex for <U>Scar</U>...an' he has a white girl in his tepee...Be seein' you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69052",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Stay out here."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Not likely."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69053",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "You figger Scar means to kill us?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "He's got to...All these years, run- nin', dodgin', knowin' we were after him...Now we caught up...It's him or us."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Why didn't he make his move back there?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I don't know...Somethin' tied his hands...maybe hospitality..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69054",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "How? She's even forgot her own language!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Debbie, you're comin' with us! Hear me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69055",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Go on! Get out of here while you can..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Over there!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69056",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "They'll be back..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "We won't be here...Come on!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69057",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "'I, Ethan Edwards, being of sound mind and without any blood kin, do hereby bequeath all my property of any kind to Martin Pauley...'  I don't want your property.... 'Sides, what do you mean no 'blood kin?' Debbie's your blood kin..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Not no more."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "You can keep your will!  I ain't forgettin' you was all set to shoot her yourself...What kind o' man are you, anyway."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "She's been with the bucks! She's nothin' now but a..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69058",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "What's that got to do with us?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "What's goin' on?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69059",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Wait! We go chargin' in, they'll kill her...and you know it."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "It's what I'm countin' on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69060",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "I know you are...Only it ain't goin' to be that way...she's alive..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Livin' with Comanches ain't bein' alive..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "She's alive...Better she's alive and livin' with Comanches than her brains bashed out..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69061",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "I saw it...And don't try to tell me it was Aunt Martha's or Lucy's..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "You don't remember it, but I remember. That was your mother's scalp!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69062",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "KEEFER",
+        "text": "Was your niece about their age?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Not far from it..."
+      },
+      {
+        "speaker": "KEEFER",
+        "text": "Hard to realize they're white, isn't it..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "They're not white any more -- they're <U>Comanche</U>!...Let's see the bodies..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69063",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Well, we only got the one lead -- Scar...And where we begin to look, I don't know..."
+      },
+      {
+        "speaker": "KEEFER",
+        "text": "There's one thing. We recovered a bushel of trinkets in that camp... cheap stuff...trade goods...Couldn't help noticing that most of it was Mexican...Maybe if you could talk to some of those Mexican traders along the border...What do they call themselves?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Comancheros..."
+      },
+      {
+        "speaker": "KEEFER",
+        "text": "That's the breed...Course it might take time."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Time's running out...But I'm obliged to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69064",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "I'd be obliged if you'd get to the point, ma'am."
+      },
+      {
+        "speaker": "MRS. JORGENSEN",
+        "text": "I am...I am...It's just that I know Martha'd want you to think of her boys as well as her girls...And if the girls are...dead...Ethan, don't let the boys waste their lives in vengeance!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69065",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MRS. JORGENSEN",
+        "text": "Well, you did all a body could, Ethan."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I got your boy killed."
+      },
+      {
+        "speaker": "MRS. JORGENSEN",
+        "text": "Don't go blamin' yourself..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69066",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MRS. JORGENSEN",
+        "text": "Why it's just a snip of calico..."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "You ever see it before...like mebbe on a dress Debbie wore?"
+      },
+      {
+        "speaker": "MRS. JORGENSEN",
+        "text": "Yes!..Yes, I remember!..Have they found her, Ethan?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "No...not yet..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69067",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "She's not a little girl any more."
+      },
+      {
+        "speaker": "MRS. JORGENSEN",
+        "text": "You've seen her!...She's alive?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I've seen her...and she's alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69068",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Oh, all right! Well...Martin says..."
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "From the beginning..."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "'Dear Miss Laury'...He spells it with a Y instead of an I...E...Wouldn't you think he'd know..."
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "Who cares what he spells it? Read the letter."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Dear Miss Laury...I take pen in hand to let you know Ethan and me still are trying to catch up with them Com- anches the late Mister Futterman told us about..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69069",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "The <U>late</U> Mister Futterman?"
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "That means Mister Futterman is dead, by golly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69070",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "JORGENSEN",
+        "text": "Every young man should at least once...Go on, Laurie! Read!"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "A little Comanche squaw - SQUAW!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69071",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "JORGENSEN",
+        "text": "They never find that girl."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Yours truly...  And he even has to write his full name...Martin Pauley...not even just <U>Martie</U>!...  I don't care if he <U>never</U> comes back!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69072",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Don't go takin' that stuff..."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Ain't worth the mendin'..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69073",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "What you gettin' red-in-the-face for?...I have brothers, haven't I?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Well I ain't one of 'em!"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "I'm a woman, Martie...  We wash and mend your dirty clothes all our lives...When you're little we even wash <U>you</U>....How a man can ever make out to get bashful in front of a woman I'll never know..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "You talk like a feller might just as leave run around nekkid..."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Wouldn't bother me...  I wouldn't try it in front of pa, though, was I you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69074",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Might at least have left me my pants!"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Shush!...Time for bed anyway...  Likely these'll need some takin' in...Oh, Martie, you're that gaunted! ...Ma's havin' a turkey for dinner tomorrow and..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69075",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Futterman!...He's got a little tradin' post on the South Fork o' the Brazos...Laurie, I just got to get me a good horse! Think yer pa would..."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Finish your breakfast..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "I gotta catch up with him, Laurie!"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Go on then! Pa's in the barn saddlin' the Fort Worth stud... an' you can take the light gelding with the blaze..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "But that's Sweet-face -- your own good horse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69076",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Take it and welcome...but don't count on finding me here when you get back...I've been dallying around this god-forsaken wind-scour almost two long years waitin' for you...I ain't cut out to be an old maid!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "I can't help it, Laurie...I just gotta catch up with Ethan..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69077",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "I...I wrote you a letter...Reckon you didn't get it..."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "One letter in five years...I read it till the paper dried up and the writing faded out..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "It wasn't much of a letter..."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "No, it wasn't...You mighta said you loved me...You mighta asked me to wait...At least that'd have been something..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "But I allus loved you...You know that, without my sayin' it...I couldn't bring myself to ask you to wait...the little I had... not knowin' how much longer until we found Debbie..."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "It isn't fair..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69078",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Don't cry, Laurie...I understand how it is...I'll just go 'way..."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "You do and I'll die, Martie...I will! I'll just die!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69079",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Martie...don't go! Not this time."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "You crazy?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "It's too late...She's a woman grown now..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "I got to fetch her home..."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Fetch <U>what</U> home?...The leavin's of Comanche bucks -- sold time an' again to the highest bidder?...With savage brats of her own, most like?..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "<U>Laurie</U>! Shut your mouth!"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Do you know what Ethan will do if he has a chance?...He'll put a bullet in her brain! And I tell you Martha would want him to!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Only if I'm dead!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69080",
+    "movie_id": "m509",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "She'd be about thirteen now..."
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "We got two around that age..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Where?"
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "You'll have to wait until we reach the agency...Fall in behind the column..."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "But couldn't you...?"
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "Sorry...  Keep the column moving!..Close ranks there!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69081",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Why else?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Come on, say it.  You know..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69082",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Say it anyway.  Come on, how much do you love me?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "\"With you, my life began and with you shall it end...\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69083",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "I have to cut his windpipe..."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "You're not a doctor, you'll hurt him!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "What else should I do, damn it, he's dying!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69084",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Ellen, move aside..."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Oh God, Tommi..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69085",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Stop that!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "You'll never get away from me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69086",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "So, how does it feel to be kissed by two women?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "They say it's fantastic.  At least that's what I read in a men's magazine.  So who are the two lucky ones?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Me and the muse, of course.  How is your book coming along?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69087",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Oh, the muse... we're still having our differences.  You know how it is with women."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Well then, I guess I'd better leave the two of you alone.  But don't forget..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69088",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "What kind of a horrible thing is that?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "It still worked in town."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "I mean the armchair!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Oh, that was upstairs.  A real antiquity!  I think it's great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69089",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Maybe the antenna's broken."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "We're probably lucky that we even have running water and electricity! Damned box!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69090",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Hey... the fuse."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Oh, damnit!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69091",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Do you know where fuse box is?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "In the cellar, I think. Wait, I'll take care of it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69092",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Look at this!  We'll have to fix the whole wiring.  This stuff is dangerous as hell."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "We'll call for someone from town first thing in the morning."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Are you crazy?  That costs a fortune!"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Do you have a better idea?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "I'll do it myself."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "You?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "My father was an electrician. Already forgot that?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "My father was a pilot.  And do I know how to fly?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69093",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Hey, flower child, the sixties are over.  And this stuff is hazardous to your health."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Yes, daddy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69094",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Well, if you won't let me smoke grass, then at least I'll go get myself some cigarettes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69095",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Making our very own solstice fire."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69096",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Is everything alright?  Aren't you feeling well?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "I just had a really strange experience."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69097",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Maybe I should talk to Dr. Roth about it."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Hey, take your time.  You know time heals better than any shrink ever can."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69098",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "I have a funny feeling.  Do you think we'll get over all that's happened?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "We just have to make a new beginning."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Cherry-red Tears."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "What?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Cherry-red Tears, your first book. I read it at least nine times.  And then I found out you were going to attend some kind of book fair."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Not a book fair.  I was signing autographs in a department store."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "I was so excited about meeting you. Again and again, I kept getting in the back of the line so I could be the last to talk to you."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "And two months later, we got married.  And all because of one sentence:  \"With you, my life began and with you shall it end...\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69099",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "I miss Tommi so much."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "So do I, believe me."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Do you really think anything can ever be like it was before?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Maybe different.  I don't know, Ellen."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "If we stand a chance at all, it's only by sticking together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69100",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Who was that?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Someone from the village."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69101",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Martin, it's not funny!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "You know, it's not always easy for me, either.  But at least I try not to give in to each and every neurosis."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69102",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Well, apparently it was a big mistake to try talking to you. Don't you remember what we promised to each other?  Honesty - trust!"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Come on, this isn't about honesty. You just need a good night's sleep. The way you toss and turn all night, even I hardly get any sleep."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69103",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Now, what did I do to deserve this?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Come on, at least try one.  It took me two hours to make these."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69104",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "So, did you sleep good?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Yeah... I have to go to town."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69105",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Hey, you're still here.  I suppose you like it here with us."
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "No, thanks.  I have everything I need.  Drive safely, you hear?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69106",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Don't tell me you've made friends with that wandering flea circus?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Why not?  She can guard the house. By the way, I gave her a name: Clara."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69107",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Where have you been all day?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "I went to see Prof. Roth!  You know, I had another one of those dreams last night.  I saw Tommi!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69108",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "But that's not the point! What if all these things are somehow connected?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Oh, baloney.  You should just hear yourself talk!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69109",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Where have you been?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "In the village.  Look what I found."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69110",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "\"Events commonly interpreted as haunting apparitions often result from psychic disharmonies or undigested traumatic ordeals...\""
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "Ellen, what are you trying to prove, anyway?  That we've created ourselves a ghost?  Come on!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69111",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "It's just a feeling.  Don't you sense it, too?"
+      },
+      {
+        "speaker": "MARTIN",
+        "text": "What? What am I supposed to sense?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "The house - Tommi - something just doesn't jive here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69112",
+    "movie_id": "m510",
+    "turns": [
+      {
+        "speaker": "MARTIN",
+        "text": "Who's that?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "I haven't the slightest idea."
+      }
+    ]
+  }
+]

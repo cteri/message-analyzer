@@ -1,0 +1,2158 @@
+[
+  {
+    "conversation_id": "conv_43213",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "HADDEN",
+        "text": "Hokkaido Island."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "The systems integration site."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Mmm.  Look closer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43214",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "HADDEN",
+        "text": "As each component was tested and shipped off to Texas a duplicate was maintained and assembled in Hokkaido -- for backup purposes, of course. We've been right behind you the entire time.  You see my problem:  I couldn't appear to control too large a percentage; my enemies wouldn't stand for it.  So I simply made sure the Japanese consortium received the systems integration contract.  Of course no one had to know the corporations involved were recently acquired, wholly-owned subsidiaries --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "-- of Hadden Industries."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43215",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Why don't you come back with me?"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Can't.  Doctor's orders.  The low oxygen/zero gravity environment is the only thing keeping the cancer from eating me alive.  It's all right -- I like it here. Ever try sex in zero-G?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43216",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JEAN-CLAUDE",
+        "text": "Very well.  Assume this is true. Assume they have only the best of intentions.  Suppose they decide to just step in and solve all our problems for us.  You have no objection to them so flagrantly intervening in human affairs?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "We've just lived through a century of incredible violence and self- destruction.  Do you call it 'interventionist' when you stop a toddler from walking in front of a truck?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43217",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "I'd say this is slightly different."
+      },
+      {
+        "speaker": "JEAN-CLAUDE",
+        "text": "Perhaps.  But on the off-chance that it is a 'doomsday device' of some kind, I plan to be very far away from your lovely Texas when it is activated."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I thought you were here because you want to go."
+      },
+      {
+        "speaker": "JEAN-CLAUDE",
+        "text": "I do.  More than anything.  But I am also a realist.  Soon this... what is your charming term -- ?  Dog and pony show will finally be over, and I will go home."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You're implying that the whole selection process is a sham?"
+      },
+      {
+        "speaker": "JEAN-CLAUDE",
+        "text": "I think it is your naivete I like best about you, Eleanor.  Oh, there'll be a worldwide protest, but we all knew it from the very beginning.  You Americans discovered the signal, you led the decryption effort.  The machine is being built on your home soil... Of course the passenger will be an American, chosen by Americans.  Anyway, it is what the whole world wants, no?  This is the big show. The sort you put on better than anyone.  It's good marketing.  It's good casting.  It's the American way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43218",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... Drumlin said you're been down at Arecibo for the last year."
+      },
+      {
+        "speaker": "PETER",
+        "text": "It's beautiful but it does get a little lonely.  Sometimes I think the reason we build these things in such godforsaken places isn't to avoid excess radio traffic but because we're all such pathetic antisocial misfits... Speaking of which:  How're you getting on with the old man?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "He's an incredible prick but I never learned so much in my life."
+      },
+      {
+        "speaker": "PETER",
+        "text": "That's what they all say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43219",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Ellie.  Arroway."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Peter Valerian."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Sounds like a Russian general."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Yavol."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43220",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "I read your paper on ETI's.  It's brilliant."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Keep it down, okay?  Drumlin thinks I'm enough of a flake as it is.  Look -- everyone here has their little fetishes.  Caven goes to topless bars, Vernon's got his carnivorous plants... mine just happens to be extraterrestrial intelligence."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "What a coincidence.  It happens to be my fetish too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43221",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... I'm just so sick of feeling defensive about the things I care about!  Or being lumped in with the lunatic fringe by people like Drumlin, when if they'd just put aside their preconceptions for two seconds and look at the facts..."
+      },
+      {
+        "speaker": "PETER",
+        "text": "They can't.  I think it's against human nature to admit to that level of... insignificance; to not see yourself as basically the center of the universe."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's like the pre-Copernicans who swore the sun revolved around the Earth, or the Victorians at the end of the last century who concluded that all major discoveries had now been made.  I mean... try to imagine civilization a thousand years ahead of us -- then imagine trying to explain... I dunno, a microwave oven -- to someone even a hundred years ago -- I mean the basic concepts didn't exist..."
+      },
+      {
+        "speaker": "PETER",
+        "text": "'Any sufficiently advanced technology...'"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "'... is indistinguishable from magic.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43222",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... I keep telling myself okay, that's just the price, you have to do your time doing shitwork before you're allowed to get to the good stuff... but if I have to catalog one more quasar...  God, I've missed you."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Any luck on the grant money?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Please.  Any chance of that died the day David Drumlin was appointed head of the N.S.F.  I have been in contact with a few other SETI people; we've been trying to find backing from private investors. I've even managed to scrounge a couple of hours of telescope time here and there..."
+      },
+      {
+        "speaker": "PETER",
+        "text": "And?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I've examined over forty stars of roughly solar spectral type but so far nothing.  Still, we've barely started..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43223",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... We've been going after some of the big multi-nationals but without much luck; got a donation from a New York dowager... We've even been thinking about selling T-shirts."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Ellie... even if you do manage to raise the money, have you thought about what it would really mean to follow through on this?  I mean a college fetish is one thing, but we're talking about your career. You won't be publishing.  You won't be taken seriously... and you could spend your entire life looking and never find anything at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43224",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "If we lived at any previous time in human history we wouldn't even have the option of failing -- we'd have to wonder our whole lives, unable to do anything about it.  This time, right now, is unique in our history, in any civilization's history -- the moment of the acquisition of technology.  The moment when contact becomes possible.  We've already beaten incredible odds by being lucky enough to be alive now."
+      },
+      {
+        "speaker": "PETER",
+        "text": "How close are you to getting this funding put together?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's almost there.  The hardest part is getting someone to sell us the telescope time."
+      },
+      {
+        "speaker": "PETER",
+        "text": "What if I said I could get Drumlin to agree to sell you time in New Mexico?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "The V.L.A.?"
+      },
+      {
+        "speaker": "PETER",
+        "text": "Thirty-one linked dishes.  You could search more sky there in a day than you could in a year here."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Peter -- if you can get him to do that for me he'd obviously do the same for you -- we could -- !"
+      },
+      {
+        "speaker": "PETER",
+        "text": "Actually --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "We could be together again --"
+      },
+      {
+        "speaker": "PETER",
+        "text": "-- I'm moving to Washington."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Greenbank?"
+      },
+      {
+        "speaker": "PETER",
+        "text": "I'm going on staff at the N.S.F.  To work for Drumlin."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "But what about your research -- ?"
+      },
+      {
+        "speaker": "PETER",
+        "text": "This is a chance to be of enormous help to other people's research -- to have the power to be a real advocate where David's got blind spots --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "But the work --"
+      },
+      {
+        "speaker": "PETER",
+        "text": "'The work,' Jesus, Ellie, can't there just once be more to life than the work?  Okay, maybe that's the only way to get the recognition, win the prizes --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Please, you're just as ambitious as I am, more --"
+      },
+      {
+        "speaker": "PETER",
+        "text": "Maybe that's the problem.  I want... a family, Ellie.  I want kids.  A townhouse on L street instead of still living like a college kid.  A real life.  Maybe that makes me a sellout but I don't care anymore. It's what I want."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And you think I don't want those things?  You think I don't stay up half the night wondering if I've made the right choice living half a world away from you, wondering if any of this is worth what I'm giving up for it everyday?  Let's get married."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Jesus --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Right now -- we'll drive down to Ramey and get the base chaplain to marry us."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Ellie --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm serious about this, Peter --"
+      },
+      {
+        "speaker": "PETER",
+        "text": "Ellie -- I'm getting married.  Her name's Laura.  She came up to Owens Valley to do her post-doc about six months after you left."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You sonofabitch."
+      },
+      {
+        "speaker": "PETER",
+        "text": "That is true.  But it's also true that if I really thought we wanted the same things, I'd follow you anywhere... but the truth is I don't think you want the company.  Be honest, El.  There's nowhere you'd rather be than sitting out at some remote corner of the world searching for the answers to the mysteries of the universe.  And call me crazy, but I just can't compete with that... I'm sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43225",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PETER",
+        "text": "Ellie."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Peter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43226",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PETER",
+        "text": "It's good to see you, Ellie."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43227",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Someone tell me this is really happening."
+      },
+      {
+        "speaker": "PETER",
+        "text": "It's really happening."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "That you, Valerian?"
+      },
+      {
+        "speaker": "PETER",
+        "text": "Like it or not."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Like it.  Almost there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43228",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PETER",
+        "text": "Ellie -- are you okay?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm -- I'm fine."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Thank God.  When we lost contact, I thought -- we thought... but you're okay.  We're still trying to determine the nature of the malfunction.  Did you notice anything at all that --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Wait -- hold on a minute --"
+      },
+      {
+        "speaker": "PETER",
+        "text": "It's all right, the important thing is you're safe --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Peter, what are you talking about? What malfunction?  What day is this?"
+      },
+      {
+        "speaker": "PETER",
+        "text": "What day?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "How long was I gone?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43229",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Peter... What is going on?  Has everyone gone completely insane?"
+      },
+      {
+        "speaker": "PETER",
+        "text": "That's one way of putting it.  Kitz, the President, the I.S.C. have shut down all official communications; there've also been reports of riots flaring up across the U.S. and Europe.  Until we figure out what went wrong things may get rough, especially for you --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "But the machine worked -- that's what I've been trying to tell everyone!  The tape -- it's all there, if they'd just look at...  ... the tape..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43230",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "I agree with Mr. Rank that there are unavoidable religious implications here -- but I don't think it justifies taking an alarmist position.  Dr. Arroway is right -- their chosen means of communication was a scientific one, and a scientific approach is probably appropriate, at least until the theological dimensions of the problem become more apparent."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And where exactly does that put your position...?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "I'd have to say I don't know enough to have one yet.  For the moment I don't believe the two approaches have to be mutually exclusive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43231",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Champagne please."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Make that two."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43232",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "... What I'm curious about are the wilderness years.  You're out there all alone, no money, mocked by the skeptics.  It must have taken tremendous faith."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'd say logic more than faith.  The odds were on my side."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "And what would you have done if the odds had gone against you?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I guess I would've felt sorry for the universe."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Spoken like a true believer."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "What about you?  Doesn't all of this shake your faith at all?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "How do you mean?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Well it's been a while, but I don't recall the Bible saying too much about alien civilizations."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "'My father's house has many mansions.'"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Very smooth.  It's Palmer, right? Where I came from a palmer was a person who cheated at cards.  Really though... the Bible describes a God who watches over one tiny world a few thousand years old.  I look out there and see a universe of hundreds of billions of galaxies, each with hundreds of billions of stars... I mean burn me for a heretic, but your God seems awfully small."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43233",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "Your 'faith' tells you that the distance a pendulum swings from the vertical can never get bigger, only smaller."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "That's not faith, it's physics.  The second law of thermodynamics."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43234",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "And you believe this law with all your heart and soul."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And mind, yes.  What are you --"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "So if I let the pendulum go, when it swings back you wouldn't flinch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43235",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "I flinched."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Only a tiny bit.  Even the most devout believer is allowed a little doubt."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "That's not doubt.  That's four hundred years of science fighting a billion years of instinct.  I always wondered what you religious types did with your free time."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Now you know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43236",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "... It's an old story.  I grew up in South Boston, more or less on the streets.  By the time I was thirteen I'd tried my first hit of heroin, by fifteen I'd stopped using but I was dealing full-time.  By the time I was nineteen I decided I didn't want to live any more, at least not in a world like that.  One day I got on a bus; I got as far as Ohio before my money ran out, and after that I just kept walking.  Didn't eat, didn't sleep... just walked.  I ended up collapsing in a wheat field.  There was a storm... I woke up...  And that's about as far as words'll go."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Can you try?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "I had... an experience.  Of belonging.  Of unconditional love. And for the first time in my life I wasn't terrified, and I wasn't alone."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And there's no chance you had this experience simply because some part of you needed to have it?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Look, I'm a reasonable person, and reasonably intelligent.  But this experience went beyond both.  For the first time I had to consider the possibility that intellect, as wonderful as it is, is not the only way of comprehending the universe. That it was too small and inadequate a tool to deal with what it was faced with."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You may not believe this... but there's a part of me that wants more than anything to believe in your God.  To believe that we're all here for a purpose, that all this... means something.  But it's because that part of me wants it so badly that I'm so stubborn about making sure it isn't just self-delusion. Of course I want to know God if there is one... but it has to be real.  Unless I have proof how can I be sure?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Do you love your parents?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I never knew my mother.  My father died when I was nine."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Did you love him?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Yes.  Very much."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Prove it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43237",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "So.  Is this kosher fraternizing with the enemy like this?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Some of my best friends are scientists."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I was referring to the selectees mingling with the selectors."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Some of my best friends are scientists.  They're saying the machine is alive."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Not exactly.  It has organic qualities, but we don't really understand how they're integrated with the mechanical systems."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Maybe you're creating a monster."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I don't think so."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Why?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's too... elegant.  The degree of economy is extraordinary; it's really the next logical step... Even on Earth technology has always aspired to a condition of nature. D.N.A. outclasses any computer we can come up with; the human body is the most exquisitely designed machine imaginable."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "In other words, God is one hell of an engineer."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "In other words."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43238",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "Relativity.  Explain this to me one more time... even if you traveled near the speed of light, when you came back --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "If you came back."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "If you came back... you'd only be four years older -- but over 50 years would have passed on Earth."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Something like that."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "And everybody you care about would be dead and buried."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43239",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "If you came back.  If you survived at all.  Which it's pretty certain you wouldn't."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "You're willing to die for this."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's what my whole life's been... aimed at; the only thing that's given it a sense of purpose."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43240",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "I read your book."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Really."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Losing Faith:  The Search For Meaning In the Age of Reason. Catchy."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "What'd you think?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm more interested in the story behind the story... How a young man goes from living on the streets of South Boston to being the best- selling media figure rubbing elbows with the President."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "I won't deny I was ambitious.  When I had my... experience... I wanted to tell my story to as many people as possible.  I'm the first to admit that process included making some compromises.  You didn't answer my question."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I thought it was well-written. Heart-felt.  And a little bit naive... But that's just the enemy's perspective."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "I don't consider you the enemy, Ellie.  I'm not 'out to get' technology.  I only ask the question:  Does it have to have all the answers?  I look out there and I see so much emptiness... People are so starved for meaning, and it's something they just don't seem to be getting from science."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Did you ever stop to think that maybe that isn't science's fault, but meaning's?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "I don't follow."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Maybe the reason people are having trouble finding meaning isn't because science has obscured it... maybe it's just revealed it isn't there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43241",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "Do you really believe your life is meaningless?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I don't know.  But as a scientist I have to consider that possibility."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "And yet you're willing to die for this cause, the one thing that's given your life a sense of purpose. Don't you see the contradiction here -- ?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's getting late..."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "What are you so afraid of, Ellie?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43242",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "Ellie --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's late.  We should go back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43243",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... Another question I would ask would be a very simple one.  How did you do it?  How did you evolve as far as you have and not destroy yourselves?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "An excellent question, Doctor.  But what if we don't like the answer?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "How do you mean?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "What if their answer is, 'Oh, that's easy.  A thousand years ago our world was in terrible shape, our population out of control, violent crime, no food... so we called a general council and decided to eliminate the anit-social.  The weak.  The sick.  The unwanted.  And ever since we've been doing great.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43244",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "Ellie... the last time we spoke... I said some things..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I remember.  You were indelicate, indiscreet and entirely less than tactful... Sound like anyone you know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43245",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "So.  The final countdown."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "The final countdown."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Oh.  I brought you something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43246",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "During the crusades -- pilgrims who made the journey to the holy land brought back a palm frond to show they'd actually been there.  I thought it sort of made sense that Earth is now your holy land, so..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43247",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "You're trembling."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I do seem to be... Maybe because I'm just a little bit terrified about tomorrow."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Maybe that's okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43248",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "What...?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "What is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43249",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "JOSS",
+        "text": "Ellie, what is it?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm sorry -- I can't --"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "What?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I can't do this --"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "What are you so afraid of?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Please, Palmer -- if you care for me at all, don't push this now --"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "What are my other options?  In fifty years?  Never?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Please --"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "I'm in love with you, Ellie."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Don't you understand?  I just have to hold it together -- just until tomorrow --"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "And then what?  Then you'll be safe?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "-- I don't know --"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Do you really think your life is meaningless, Eleanor?  Is that why you're so quick to risk it -- because if your life means nothing then you have nothing to lose?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I can't hear this now --"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Ellie, there is no reason you have to be alone."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And yet that's always how I seem to end up, isn't it?  If you really do love me, Palmer, you'll leave.  Now.  Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43250",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Hi."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Hi."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm assuming you read my deposition."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "It was quite a page turner."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Pretty ironic, huh?  I had to go all the way to the center of the galaxy... Just to find you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43251",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "So.  I'm assuming they sent you here to administer last rites?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "I'm not sure it's come to that."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "They don't believe me."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "I do."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You're sure you want to?  In the universe I saw we're not exactly the stars of the show.  What happened to me makes us all seem pretty damn small."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "It also makes God enormous.  I think of the scope of your universe, Ellie... and it takes my breath away.  As it will everyone else's."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I don't have any proof, Palmer."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Ellie, you're the proof.  You tell them your story.  Ultimately they'll have no choice but to believe you."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's not enough, don't you understand?  I know it happened -- but by every standard of science, by every standard I've lived my life by that fact is utterly beside the point.  It may be true but it doesn't matter because I can't prove it's real."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Ellie, the only one holding you to that standard is you!  The people want to hear your story, they need to hear it!"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "But --"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Have you seen what's happening out there?  The terror, the despair? The world is on fire, Ellie.  People need something they can believe in, something worthy, and you can give it to them!"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I want to, Palmer -- more than anything.  But it has to be real. It has to be true."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Ellie... if you go out there like this -- if you admit to even the possibility that what you experienced didn't actually happen -- I'm afraid they really will crucify you.  Please.  For your own sake, for the sake of the world... tell them what you know to be the truth.  Tell them it really happened."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43252",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... but it is a good question, and I suppose I'll always wonder about the answer:  Why would they send me back without proof?"
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Maybe what you experienced can't be reduced to images on a videotape. Maybe they still plan to grant your request, only in their own way, in their own time... Or maybe it's just like you said:  ultimately their motives may be as incomprehensible as their technology."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "In other words, God works in mysterious ways..."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "In other words."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43253",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "I don't know.  If it was a god, it was searching for a greater one.  It was still searching for meaning..."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Does that mean you think it doesn't exist?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm not sure...  Maybe it simply exists in the search for it.  Maybe its something we have to make for ourselves."
+      },
+      {
+        "speaker": "JOSS",
+        "text": "Meaning..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Something my dad -- they -- said. 'After all the suffering, after all the desolation of the void -- the one thing that makes the vastness tolerable is each other.'  The one thing that makes it bearable is love."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43254",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PROJECT OFFICIAL",
+        "text": "You have a question, Dr. Arroway?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I question the thinking behind sending the first ambassador to another civilization in armed -- basically announcing our intentions are hostile."
+      },
+      {
+        "speaker": "PROJECT OFFICIAL",
+        "text": "It's designed purely as a defensive device.  Call it a reasonable precaution."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Call it xenophobic paranoia.  Don't you see the absolute absurdity of this?  This isn't about them, it's about us -- our violence, our fear and mistrust --"
+      },
+      {
+        "speaker": "PROJECT OFFICIAL",
+        "text": "Dr. Arroway, you are entitled to your opinion.  But we feel quite strongly that it would by both irresponsible and naive to send a human being into a completely unknown, completely uncontrollable situation absolutely defenseless."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Y'know what?  Fine.  I guess if we want them to know the truth about who we are there's no quicker way to show them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43255",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "You kill me, you really do.  The first truly global, a-political event in history and you can't wait to spin it."
+      },
+      {
+        "speaker": "PROJECT OFFICIAL",
+        "text": "How would you propose we handle it, Doctor?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I guess I'd say I trust us enough to believe our response would be something to the effect of, thanks for the advice, but no thanks.  But to dilute or censor the truth, for whatever reason --"
+      },
+      {
+        "speaker": "PROJECT OFFICIAL",
+        "text": "Nobody is proposing we censor the truth here, Doctor.  We're simply talking about putting a mechanism in place --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "For managing the truth.  But the truth won't be managed, sir.  It stops being the truth the moment you try."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43256",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "Oh my God..."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "What is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43257",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "Well.  That would seem to decide it. Like it or not, for the moment, anyway, it looks like we're all in this together."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "But --"
+      },
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "That's it, Mike.  Last time I checked, I was still running the country.  Although it seems that for the moment, Dr. Arroway is running the planet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43258",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KITZ",
+        "text": "... as have all attempts at internal analysis.  We've tried sonargrams, magnetic resonance, gamma rays; it's completely impenetrable."
+      },
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "Recommendations?"
+      },
+      {
+        "speaker": "KITZ",
+        "text": "I don't know.  Maybe we built the damn thing wrong.  Maybe it was all a hoax...  The safest thing would probably be to do a Chernobyl; encase it in concrete."
+      },
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "Have your department make a full report."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43259",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "ALIBI",
+        "text": "Boss, I made an arrangement with that man to take his broom."
+      },
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Git your shovel and git to work."
+      },
+      {
+        "speaker": "ALIBI",
+        "text": "I don't think you understand. We made a deal ---"
+      },
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Git movin', I said."
+      },
+      {
+        "speaker": "ALIBI",
+        "text": "But I made this arrangement --"
+      },
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Cut that backsass!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43260",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "You don't take another man's place, boy."
+      },
+      {
+        "speaker": "ALIBI",
+        "text": "It wasn't his fault. Nobody said anything about seats. We --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43261",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "I'm lucky I got a broom. Work up top. Real easy job. Man, it's gonna be hot down in that ditch."
+      },
+      {
+        "speaker": "ALIBI",
+        "text": "We work down in the ditch?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43262",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "Fifty cents? Sweet job like that worth at least a buck."
+      },
+      {
+        "speaker": "ALIBI",
+        "text": "I'll make it a dollar."
+      },
+      {
+        "speaker": "KOKO",
+        "text": "Buck is a deal."
+      },
+      {
+        "speaker": "ALIBI",
+        "text": "I've got this weak heart. Too much drinking, I guess. As soon as they find out about it, they'll probably send me someplace else."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43263",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "Hot damn, Drag. Tomorrow's Saturday. Another week almost made."
+      },
+      {
+        "speaker": "ALIBI",
+        "text": "I got two years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43264",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "How'd you find me?"
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "Helen, she sent along your things with a note, and John here, he wrote to the police."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yeah. Well.  Gettin' up here, Boss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43265",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Well, Arletta, I got to stand down here."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "I allus hoped to see you well fixed and have me a crop of grandkids to kiss and fuss around with."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Like to oblige you, Arletta, but right off I don't know where to put my hands on 'em."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "Sometimes I wisht people was like dogs, Luke. Comes a time, a day like, when the bitch just don't recognize her pups no more, so she don't have no hopes nor love to bring her pain. She just don't give a damn. They let you smoke?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Smokin' it up here, Boss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43266",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Yeah, well, Arletta, you done your best. What I done with myself is my problem."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "No it hain't, Luke. You ain't alone. Ever whar you go, I'm with you, and so's John."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "You never thought that's a heavy load?"
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "We allus thought you was strong enough to carry it. Was we wrong?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43267",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "No. But things ain't always like they seem, Arletta. You know that. A man's gotta go his own way."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "Well, I don't know, I just wash my hands of it, I guess I just got to love you and let go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43268",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "What are you doin' here?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "We call it abuildin' time, Arletta."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "I ain't askin' what you'll do after you get out, because I'm gonna be dead and it don't matter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43269",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "You never wanted to live forever anyways, did you? It wasn't such a hell of a life."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "Oh, I had me some high old times. Yore old man, Luke, wasn't much for stickin' around, but damn it he made me laugh."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yeah, would of been nice to of knowed him, the way you talk about him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43270",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "ARLETTA",
+        "text": "You think life is some kind of ocean voyage and you start out with buntin' and hollerin' and high hopes, but the damn ship goes down before you ever reach the other side. Luke?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Here, Mom."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "What went wrong?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Nothin'. Ever'thing's cool's can be."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "No."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Tried to live always just as free and aboveboard as you been, and well, they ain't that much elbow room."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43271",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "ARLETTA",
+        "text": "You allus had good jobs, and that girl in Kentucky I taken a shine to her."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "She took off with that convertible feller..."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "Well, why not? Idee of marryin' got you all choked up, trying to pretend you was respectable you was borin' the hell out of all of us."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "I'm leavin' the place to John."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "That's good: he earned it."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "Nothin' to do with it. I ain't never give John the kind of feelin' I give you, so I'm payin' him off now. Don't feel you got to say anything. Way it is, sometimes, you just have a feelin' for a child or you don't, and with John I just didn't."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Gotta go, Arletta."
+      },
+      {
+        "speaker": "ARLETTA",
+        "text": "Laugh it up, kid. You'll make out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43272",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BLIND DICK",
+        "text": "Lookit her bounce."
+      },
+      {
+        "speaker": "GAMBLER",
+        "text": "Oh lean over here, lady. Lean this way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43273",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BLIND DICK",
+        "text": "Gotta have kings."
+      },
+      {
+        "speaker": "GAMBLER",
+        "text": "Sure he's got kings but you still gotta call him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43274",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BLIND DICK",
+        "text": "Go hard!"
+      },
+      {
+        "speaker": "GAMBLER",
+        "text": "Ram it in and break it off!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43275",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "GAMBLER",
+        "text": "Tell us about it."
+      },
+      {
+        "speaker": "BLIND DICK",
+        "text": "You steal a car?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43276",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "GAMBLER",
+        "text": "A salesman! Cool Hand Luke a salesman?"
+      },
+      {
+        "speaker": "BLIND DICK",
+        "text": "He's probably a gigolo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43277",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "GAMBLER",
+        "text": "We saw the broads."
+      },
+      {
+        "speaker": "BLIND DICK",
+        "text": "Yeah. Did you have them both at once or --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43278",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Comin' out here, Boss?"
+      },
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Yeah. Come on out, Luke."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43279",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "You was eyeballin', Luke. You can't gitcha mind on them weeds if yer eyeballin'..."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Boss, you don't need reasons to hit me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43280",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Then how come it ain't done yet?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I don't know, Boss."
+      },
+      {
+        "speaker": "BOSS PAUL",
+        "text": "You don't know!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43281",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "What's all this dirt in the yard?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I... I... I..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43282",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Please! Please!"
+      },
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Git to work!"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Don't hit me! Please, for God's sake, don't hit me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43283",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "You got your mind right, Luke?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yes, Boss. I got it right."
+      },
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Supposin' you was to backslide on us, Luke? Supposin' you was to backsass or try to run again..."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "No, Boss! I won't. I won't. I got my mind right. I got it right, Boss. Please don't hit me no more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43284",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Luke, you run again and we'll kill you."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I know, I know. Just don't hit me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43285",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Go git it, Luke."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yes sir, Boss Paul!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43286",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "You cut that up fer lunch, Luke."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yes, Boss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43287",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "He ain't even got the sense to run from the road like everybody else."
+      },
+      {
+        "speaker": "DOGBOY",
+        "text": "Blue'll git him, Boss. We'll git that bastid, Cool Hand Luke."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43288",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Captain says to wait 'til the Patrol gits here."
+      },
+      {
+        "speaker": "DOGBOY",
+        "text": "She's on to him. You shoulda waited fer me to git her out -- loose like she is, he kin run her crazy."
+      },
+      {
+        "speaker": "BOSS PAUL",
+        "text": "It ain't my fault you don't know how to handle your dogs."
+      },
+      {
+        "speaker": "DOGBOY",
+        "text": "How my suppose to handle a dog someone jus' let loose?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43289",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "BOSS PAUL",
+        "text": "Here's the Patrol."
+      },
+      {
+        "speaker": "DOGBOY",
+        "text": "She's got him! You hear that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43290",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Here, Captain."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Maliciously destroyin' municipal property while under the influence. What was that?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Cuttin' the heads off parkin' meters, Captain."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Well, we ain't never had one of them. Where'd you think that was gonna get you?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I guess you could say I wasn't thinkin', Captain."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Says here you done real good in the war: Silver Star, Bronze Star, couple Purple Hearts. Sergeant! Little time in stockades. Come out the same way you went in: Buck Private."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "That's right, Captain. Just passin' the time."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Well, you got yourself some time now. Two years. Hell, that ain't much, we got coupla men here doin' twenty spots. We got one who's got all of it. We got all kinds and you gonna fit in real good. Course in case you git rabbit in your blood and decide to take off fer home, you git a bonus a some time and couple leg chains to keep you slowed down a little -- fer your own good. You'll learn the rules. It's all up to you. I can be a good guy or I can be one mean son-of-a-bitch, it's up to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43291",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "You gonna get used to wearing them chains aftera while, Luke. But don't you never stop listenin' to them clinkin'. That's gonna remind you of what I been sayin'."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yeah, they sure do make a lot of cold, hard, noise, Captain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43292",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "TATTOO",
+        "text": "In the Navy, we used to call guys --"
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "Fasten your flap! All you Newmeats gonna have to shape up fast and hard on this gang. We got rules here an' in order to learn them, you gotta keep your ears open and your mouths shut."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43293",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "You was to sell your job, maybe this Lucas War Hero would give you a price."
+      },
+      {
+        "speaker": "TATTOO",
+        "text": "I'll give you fifty cents."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43294",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "TATTOO",
+        "text": "Had it done in Singapore. Bunch of us drunk as coots --"
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "Hey, Tattoo!"
+      },
+      {
+        "speaker": "TATTOO",
+        "text": "-- went down to see this old hag and she had needles the size of that cane."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43295",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "Only two? Man, I already done eight. Nothin' to it. Just make the days and let the weeks and the years make themselves."
+      },
+      {
+        "speaker": "TATTOO",
+        "text": "I did three hitches in the Navy. It ain't bad. After a while, you get used to it and the time --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43296",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "TATTOO",
+        "text": "That ain't nuthing compared to what we used to do in San Pedro. There was this ensign..."
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "Ah believe I smell me a blonde-haired lady."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43297",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "TATTOO",
+        "text": "You can't do that!"
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "You jes' watch us!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43298",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "Borrowin' or payin' back?"
+      },
+      {
+        "speaker": "TATTOO",
+        "text": "Borrowin'."
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "Mister Cool Hand here is the soft heart in our Loan Department. Next!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43299",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "You gotta mind your manners, you actin' like a hillbilly tramp."
+      },
+      {
+        "speaker": "KOKO",
+        "text": "Tramp! Beautiful!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43300",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "Newmeat looks like a poker player, Drag."
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "Wouldn't surprise me none.  Wicker Man says you got a hundred- twenny and some change in the Captain's safe and you got your five dollars pocket money... That'll buy you a whole fistfull of cards. You in or out?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43301",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "She looks just like Mrs. Patricia Handy, a married woman... I useta fool with. Man, I kin sniff blondes from a hunnert yards and redheads from a mile and a half."
+      },
+      {
+        "speaker": "KOKO",
+        "text": "Drag's been chain-ganging so long he's got a nose like a bloodhound."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43302",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "Oh, man, did you see her? Did you see her?"
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "I got eyes, don't I? How my not gonna see something like that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43303",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "I'm dyin'. I'm dyin'!"
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "Look, she's got paint on her toenails! Oh Lord, whatever I done, don't strike me blind for 'nother couple minutes. Oh you Lucille!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43304",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "Whatcha got?"
+      },
+      {
+        "speaker": "KOKO",
+        "text": "Pair'a nines."
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "I kin see that, brick head. I mean your hole card."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43305",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "Uh-huh. And he ain't got nothing showing. Raise his head off."
+      },
+      {
+        "speaker": "KOKO",
+        "text": "He's been betting his head from the gun. Gotta have kings."
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "So then you just call him."
+      },
+      {
+        "speaker": "KOKO",
+        "text": "I call."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43306",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "But there's still daylight left."
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "'Bout two hours left."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43307",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "Jus' take it slow, buddy."
+      },
+      {
+        "speaker": "KOKO",
+        "text": "What happened? How far did you get?"
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "Shut up. Let him eat. Don't pay them no mind, boy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43308",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "He ain't eating beans fer lunch."
+      },
+      {
+        "speaker": "KOKO",
+        "text": "He's eatin' steak and corn with butter and green beans and..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43309",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "DRAGLINE",
+        "text": "Looka that! Two of them. Oh my..."
+      },
+      {
+        "speaker": "KOKO",
+        "text": "I'm dyin'. I'm dyin'."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43310",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "Lemme see it!"
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "Get away!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43311",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "Oh lookit that brunette."
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "Mah baby! We're diggin' and dyin' but our boy Luke is lovin' and flyin'."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43312",
+    "movie_id": "m305",
+    "turns": [
+      {
+        "speaker": "KOKO",
+        "text": "Dragline, lemme look at the picture."
+      },
+      {
+        "speaker": "DRAGLINE",
+        "text": "What for?"
+      }
+    ]
+  }
+]

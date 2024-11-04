@@ -1,0 +1,1774 @@
+[
+  {
+    "conversation_id": "conv_27601",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WOMAN'S VOICE",
+        "text": "But now... they are all one with the Borg."
+      },
+      {
+        "speaker": "DATA",
+        "text": "I am unlike any lifeform you have encountered before. As an android, I am in complete control of my neural net. The information contained there cannot be forcibly removed."
+      },
+      {
+        "speaker": "WOMAN'S VOICE",
+        "text": "You are an imperfect being... created by an imperfect being. Finding your weakness is only a matter of time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27602",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "Who are you?"
+      },
+      {
+        "speaker": "WOMAN'S VOICE",
+        "text": "I am the Borg."
+      },
+      {
+        "speaker": "DATA",
+        "text": "That is a contradiction. The Borg act as a collective consciousness. There are no individuals."
+      },
+      {
+        "speaker": "WOMAN'S VOICE",
+        "text": "I am the beginning... the end. I am the one who is many. I am the Borg."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27603",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "The planet's surface is covered with Borg technology.  So is the moon... and three other planets in this solar system."
+      },
+      {
+        "speaker": "TROI",
+        "text": "But how?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27604",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "Did you know her?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "Not very well. We met shortly after the Enterprise-E was commissioned. I found her to be a most... promising officer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27605",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "Data... are you sure you're all right?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "I am still having difficulty integrating certain emotions into my programming. Grief, loss, remorse..."
+      },
+      {
+        "speaker": "TROI",
+        "text": "We still have to make reports on ten more crewmen killed in action. Maybe you should deactivate your emotion chip until we're done."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27606",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "No. Human beings do not have that luxury, and neither should I."
+      },
+      {
+        "speaker": "TROI",
+        "text": "I will admit... there are times when I wish I had an emotion chip I could turn on and off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27607",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "\"APR cell count?\" What the hell are you talking about?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Doctor Crusher has been... studying some advanced medical theories."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27608",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Juice?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Power. There hasn't been a lot of wind through here for the last couple of weeks. Most of the batteries are depleted."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27609",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Where's the battery room for the hospital?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "I told you, there's no --"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Where?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Outside, around back. Next to the water tank."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27610",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "What did you do to the batteries?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Oh... just a little tinkering. How is he?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27611",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "Captain, I'm starting to worry about the hull integrity. We've been running the support field at full power for three hours straight. I don't know how much longer it's going to hold up."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Understood. Keep me informed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27612",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "I have the silo, sir. Bearing three one zero... distance, three hundred meters."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Let's go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27613",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "This must be it."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "How serious is the damage?"
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "I'm having trouble scanning underground. There's a lot of radiation leaking from something."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Probably from the nuclear warhead. Cochrane was planning to use it to ignite the warp drive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27614",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "I'm picking up faint life signs twenty meters below."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "There should be an access hatch nearby..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27615",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "Alphanumeric lock. We need a password to get in..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I have the password right here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27616",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "Blast door. It's designed to protect the control room when the missile is launched."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "There should be some kind of manual release..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27617",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Picard to Enterprise.  Enterprise, please respond."
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "It could be the radiation, Captain. Try from the surface."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27618",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "This used to be the throttle valve assembly.  It controls the thrust of the engines. It's been completely vaporized... and without it, there's no way to launch the ship."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Can you reconstruct the throttle valve?"
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "Yeah... if I knew what it looked like. There's probably five hundred ways to design a valve like this..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We need to launch this ship in under eighteen hours...  There must be some design schematics... blueprints..."
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "We're tearing this place apart looking for them... but the computers are down, and the fires destroyed half the files...so far, nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27619",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "Maybe...  Sure. Yeah. As long as I could get a clear look at the intake configuration. But so far, we haven't found any other photos."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "If there are other photographs... I think I may know how to find them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27620",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Where's you get the alloy for the throttle itself?"
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "They used copper pipes in their plumbing... so I melted it down... and fused it with some tritanium from one of our phaser casings.  It's not the strongest alloy... but it's better than all this crude aluminum and steel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27621",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Ready to make a little history?"
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "Always am."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Phoenix to control.  Initiating five minute countdown... mark."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27622",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "We can't leave her out there. When the ship launches... she'll be killed."
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "Tell her to go back to Resurrection."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "She's a very... determined woman.  Phoenix to control. Mister Lange... let her in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27623",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "Captain --"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "This is Picard. I've suspended the launch sequence."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27624",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "Captain... we've got less than ten minutes before that Vulcan ship leaves the system. We've got to go <U>now</U>."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "It'll have to wait. Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27625",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "No... the door's too thick."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Then we'll just have to assume it's still there..."
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "What's still there?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Get a tricorder. You're going to have to track my exact position in that room..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27626",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "Solid rocket fuel at twenty-five thousand kilograms..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Altitude fifty kilometers..."
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "Entering the upper ionospere..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "There's a red light on the second intake valve."
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "Ignore it. We'll be fine.  Prepare for first stage shut-down and separation on my mark..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27627",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "Ready to deploy the warp nacelles."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "As they used to say... all systems are go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27628",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "The Vulcans should be out there right now. We need to break the warp barrier in the next five minutes if we're going to get their attention."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Bring the warp core on-line. I'll lay in a heading."
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "The nacelles are charged... nuclear warhead standing by. We're ready to ignite the warp drive."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "<U>Engage.</U>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27629",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Passing one-half light speed. The starboard nacelle's running a little hot..."
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "I'm on it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27630",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "The inertial dampers are having trouble compensating... I don't think Cochrane built this thing for comfort."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Speed -- two hundred, seventy-five thousand kilometers per second."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27631",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "There's no temporal shielding in here! We're starting to pick up relativistic effects!"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "One minute to warp threshold..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27632",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "Captain, the Enterprise!"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Picard to Enterprise.  Picard to Enterprise -- do you read me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27633",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Their com system must still be down."
+      },
+      {
+        "speaker": "GEORDI",
+        "text": "Well, I feel a whole lot better with them out there. We may need some help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27634",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI",
+        "text": "They're getting awfully close... what the hell are they doing?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We're crossing the threshold!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27635",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD'S VOICE",
+        "text": "Are we on schedule? The Vulcan ship will be here in less than two hours."
+      },
+      {
+        "speaker": "GEORDI'S VOICE",
+        "text": "It'll be tight, but we should make it."
+      },
+      {
+        "speaker": "PICARD'S VOICE",
+        "text": "What about our warp signature? It has to be strong enough for them to detect."
+      },
+      {
+        "speaker": "GEORDI'S VOICE",
+        "text": "I've enhanced the plasma injectors -- don't worry, they'll see it."
+      },
+      {
+        "speaker": "PICARD'S VOICE",
+        "text": "Well, with any luck... the Vulcans will land outside Resurrection tomorrow morning... and Earth will never be the same again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27636",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "GEORDI'S VOICE",
+        "text": "ATR setting..."
+      },
+      {
+        "speaker": "PICARD'S VOICE",
+        "text": "Active."
+      },
+      {
+        "speaker": "GEORDI'S VOICE",
+        "text": "Main bus..."
+      },
+      {
+        "speaker": "PICARD'S VOICE",
+        "text": "Ready."
+      },
+      {
+        "speaker": "GEORDI'S VOICE",
+        "text": "Initiate pre-ignition sequence."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27637",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Oh...  yes... ultraviolet protection. Thank you. Mister...?"
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "Lieutenant, actually. Lieutenant Jonathan Scrimm. I'm the head of the Resurrection Protective Force.  And you are?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Jean-Luc Picard."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "Great name. French?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "You don't sound French."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27638",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "SCRIMM",
+        "text": "Where in the States?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Oh... here and there. You know how it is."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "Not really. I was born and raised right here. Never had much use for travel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27639",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "SCRIMM",
+        "text": "Where are you from most recently?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "California. San Francisco."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "Beautiful city. Used to be, anyway. I didn't think anyone still lived there."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "There's a few of us left."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27640",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "SCRIMM",
+        "text": "That was a pretty clever trick you did with the hospital's batteries. How'd you do it?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "It wasn't a trick. I used to be an electrical engineer."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "Huh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27641",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "SCRIMM",
+        "text": "And what were you doing out at the missile silo?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I'm an old friend of Cochrane's... I wanted to see how he was doing."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "Lucky for him you came by when you did. He might be dead now."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "Maybe you can tell me what he's been doing in that silo. We heard some explosions out there this morning..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I think he was running a test on an old rocket engine... and one of the fuel cells burst."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27642",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "SCRIMM",
+        "text": "You seem to have an answer for everything."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Something wrong with that?"
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "Not yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27643",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "The invasion plans."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Invasion."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "These people you're calling \"Vulcans\"... who are they? Where do they come from? How many troops? What kind of weapons?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27644",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "There is no invasion..."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "Wrong answer, Mister Picard. Try again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27645",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "From another planet.  Oh, I almost forgot... they have green blood and pointed ears."
+      },
+      {
+        "speaker": "SCRIMM",
+        "text": "And you know all this... because <U>you're</U> a space-man too..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I'm afraid you've caught me. I am a space-man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27646",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RUBY",
+        "text": "Take care of him. He's a very special man."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes, he is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27647",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RUBY",
+        "text": "What are you, an idiot? Didn't you see the red light was on?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Ah... yes... but, I didn't realize that --"
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Thank God this plate was already fixed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27648",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Cochrane?"
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Yes... and I only had enough silver halide for one shot. So you're lucky you didn't screw it up."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I'm very sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27649",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RUBY",
+        "text": "Did you need something?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes... I wanted to ask you about some photographs I saw out at the silo. There were three of them... printed on some kind of fabric."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Bed sheets.  I used my last set of bed sheets to make those prints. Not the best material, but I haven't seen a clean piece of paper in five years."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Did you take any other pictures of the rocket?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27650",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RUBY",
+        "text": "\"Money.\" So you can get dome money..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I can try."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "You'd have to try real hard. No one's used currency in over ten years. What are you, from another planet?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27651",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "No... but sometimes I feel that way.  What I meant was, I'd be willing to trade for the photographs."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Trade. Okay. The photographs... for a straight answer.  Who are you? And how do you know Zephram?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I'm an old friend... I met him when he was doing his undergraduate work at Cornell back in --"
+      },
+      {
+        "speaker": "RUBY",
+        "text": "'Fraid not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27652",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "What?"
+      },
+      {
+        "speaker": "RUBY",
+        "text": "You're lying."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "What makes you say that?"
+      },
+      {
+        "speaker": "RUBY",
+        "text": "You're not someone who lies very easily... so it's obvious when you do... at least to me."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Are you always sucha good judge of character?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27653",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Were the two of you... involved?"
+      },
+      {
+        "speaker": "RUBY",
+        "text": "No... not like you and Doctor Crusher used to be."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "How did you know about that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27654",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Ruby... I need to talk to you about those photographs. It's very important."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "I'm sure it is. But it'll have to wait until tomorrow."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "It can't wait until tomorrow..."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Too bad.  Besides, it'll give you all night to think up a new set of lies."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27655",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "I'd say you already have."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Don't flatter yourself. I take pictures of a lot of junk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27656",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RUBY",
+        "text": "Okay, let's hear it. I'm sure you have a great explanation for why those rocket photos are so important you broke into my house."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We're trying to repair Doctor Cochrane's ship. It's been damaged and --"
+      },
+      {
+        "speaker": "RUBY",
+        "text": "We?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Myself... and a few other friends of Zephram's."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Friends from Cornell..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Some."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Lie. That's one. Keep going."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "A key piece of the ship has been destroyed... and our only hope to reconstruct it is if one of your photographs shows us what it looked like."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "All right. Truth. I believe that one. Why is it so urgent you couldn't wait until morning?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We have to launch his ship by tomorrow afternoon."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Or...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27657",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Why are you being so difficult? All I'm asking for is to look at one of the photographs. It'll take five minutes."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "And all I'm asking for is the truth. That would take five minutes.  For all I know, you caused the explosions at the silo... and now you're trying to steal Zephram's ship."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I am not a thief..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27658",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RUBY",
+        "text": "You're leaving, aren't you?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I have to..."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Where? And don't tell me San Francisco..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "No. It's a lot further than that."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "It's the future, isn't it? Just like you told Scrimm.  I knew you weren't from around here."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "No... I'm from France."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "I don't care if you're from France or Venus... just take me with you."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "That's impossible."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "Why?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "This may be hard for you to understand... but I'm duty-bound not to interfere with you, or anyone else here... any more than is absolutely necessary."
+      },
+      {
+        "speaker": "RUBY",
+        "text": "You've been interfering with my life ever since I met you.  Don't stop now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27659",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Signal the Endeavor to fall back. We'll cover them."
+      },
+      {
+        "speaker": "TROI",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27660",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "Incoming transmission from the Borg."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "On screen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27661",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Life signs?"
+      },
+      {
+        "speaker": "TROI",
+        "text": "Population... thirty-five billion...  All Borg."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27662",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "Captain...?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We have to follow them back... repair whatever damage they've done to that time-line."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27663",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Track their weapons fire."
+      },
+      {
+        "speaker": "TROI",
+        "text": "Western hemisphere... North American continent..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27664",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Port battery, ready sir!"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Fire."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27665",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Time travel... they're attempting time travel...  Full power, Mister Data. Worf, quantum torpedoes at my command!"
+      },
+      {
+        "speaker": "WORF",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27666",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Captain, there are five Borg ships closing in on our position."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Data, set a course for that vortex."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27667",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Hull integrity down to thirty percent..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Steady as she goes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27668",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Captain, I've found the Borg Sphere. It's on the far side of the planet...firing at the surface."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Intercept course, full impulse.  Weapons status?"
+      },
+      {
+        "speaker": "WORF",
+        "text": "Phasers are off-line... we have two quantum torpedoes left. But the computer targeting system has been destroyed."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Go to manual."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27669",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Target locked!"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Fire!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27670",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Worf, have Doctor Crusher, Mister La Forge and a security team meet me in Transporter Room Three. Civilian clothes."
+      },
+      {
+        "speaker": "WORF",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27671",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Incoming transmission from Starfleet Command. Admiral Hayes."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Onscreen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27672",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "We're caught in some kind of energy wake from the vortex..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Worf... torpedo... now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27673",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "They must've done it in the past... they went back and changed history..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "They did it... they assimilated Earth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27674",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Report."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "We're still in Earth orbit."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "On screen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27675",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Looks like they damaged the silo..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Life signs?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Can't tell. Long-range bio- sensors are off-line."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27676",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Captain?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "In twenty-four hours, Zephram Cochrane is supposed to conduct the very first warp test... from a missile silo in Montana. If I'm right, the Borg were trying to change the course of human history by killing him or destroying his ship."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "And if they succeed, humans won't make First Contact with the Vulcans tomorrow.  As First Officer I should be the one beaming down..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Normally, I would agree. But in this case, the mission requires a certain knowledge of 21st century history. You're many things, Number One, but you're not much of an historian."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27677",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Good luck, sir."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I'll keep in contact. You have the Bridge."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27678",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Return to our own time?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Then make it so. Have you determined how to recreate the temporal vortex?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27679",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Yes, sir. But Captain... are we... all going back?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Unless you'd like to stay."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "No, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27680",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Casualties are light, Captain. Minor buckling on the port nacelle. Nothing serious."
+      },
+      {
+        "speaker": "WORF",
+        "text": "Incoming message from the Starship Intrepid. Admiral Hayes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27681",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "I have assigned two damage control teams to locate the source of our communication problems. So far, they've had no success."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Assign another team if you need to. I want to re-establish communication with the Captain as soon as possible."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27682",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "A ship-wide decompression has been initiated!"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27683",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "What the hell is happening, Worf?"
+      },
+      {
+        "speaker": "WORF",
+        "text": "It appears that someone has taken over the Environmental Control Room."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27684",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "We saw at least thirty...and there are twenty-two Enterprise crewmembers reported missing... including Commander Data."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "We'll have to assume they've been assimilated into the Collective."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27685",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "To control the Enterprise, they'll have to gain access to one of two locations. Main Engineering... or the Bridge."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "We have to cover both possibilities.  We'll take care of the Bridge. Worf, take your men and seal off Main Engineering. Turn it into a fortress -- nothing gets in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27686",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "What are they doing?"
+      },
+      {
+        "speaker": "WORF",
+        "text": "They appear to be modifying the deflector dish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27687",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "They're re-routing the deflector power conduits..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Computer -- thermal enhancement."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27688",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "They're connecting the conduits to subspace communications..."
+      },
+      {
+        "speaker": "WORF",
+        "text": "They're converting the deflector dish into an antennae..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27689",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "We have to stop them from sending that message."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Agreed. Options?"
+      },
+      {
+        "speaker": "WORF",
+        "text": "Destroy the deflector dish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27690",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "You will have to realign the targeting array of the quantum torpedo... and reprogram the warhead for the localized detonation.  There's only one torpedo left..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "I guess I'd better get it right the first time."
+      },
+      {
+        "speaker": "WORF",
+        "text": "The Borg will undoubtedly attack. Set phasers to rotating modulation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27691",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Are you alright?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Just a little queasy..."
+      },
+      {
+        "speaker": "WORF",
+        "text": "Try not to look at the stars... keep your eyes on the ship."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Right."
+      },
+      {
+        "speaker": "WORF",
+        "text": "And Commander, whatever you do... do <U>not</U> vomit in your exo-suit. It would be... unpleasant."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "I'll keep that in mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27692",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Worf! I'm going to need at least five minutes!"
+      },
+      {
+        "speaker": "WORF",
+        "text": "Understood!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27693",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Report!"
+      },
+      {
+        "speaker": "WORF",
+        "text": "We've lost Bridge control!"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Emergency override!"
+      },
+      {
+        "speaker": "WORF",
+        "text": "Nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27694",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Report."
+      },
+      {
+        "speaker": "TROI",
+        "text": "We just lost main power... and we've got Class-Three alerts all over the ship. I'm not sure what's --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27695",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "Someone...?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "The Borg.  Some of them must've beamed over before we destroyed their ship.  Seal off that entire deck with emergency force fields."
+      },
+      {
+        "speaker": "TROI",
+        "text": "Wil... Data was down there."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Mister Worf... find Data if you can, but your top priority is isolating the Borg."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27696",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "All right... we've lost control of eight decks... three Cargo Bays... one Shuttlebay."
+      },
+      {
+        "speaker": "TROI",
+        "text": "Do we have any idea how many Borg we're dealing with?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27697",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "They're bypassing Engineering..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Where the hell are they going?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27698",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "To do what? If they wanted a weapon, they could've taken over a phaser bank or torpedo bay..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Deflector dish... why the deflector dish...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27699",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "I remember it made me sick."
+      },
+      {
+        "speaker": "TROI",
+        "text": "What are you suggesting?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "I think Mister Worf is suggesting that we go outside for a little stroll..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27700",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "I have to admit there was a moment there when --"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Hold that thought."
+      }
+    ]
+  }
+]

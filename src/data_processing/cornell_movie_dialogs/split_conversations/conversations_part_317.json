@@ -1,0 +1,2274 @@
+[
+  {
+    "conversation_id": "conv_31601",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "QUICKLY MEN... WORD ASSOCIATION, COOP. WHAT ARE YOU THINKING ABOUT RIGHT NOW?"
+      },
+      {
+        "speaker": "COOPER",
+        "text": "Teresa Banks."
+      },
+      {
+        "speaker": "COLE",
+        "text": "ALBERT?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31602",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "COOPER",
+        "text": "It was a year ago today that Teresa Banks was killed. I'm wondering if the murderer will ever kill again."
+      },
+      {
+        "speaker": "COLE",
+        "text": "ALBERT, WHY TYLENOL?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31603",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "Agent Chet said he wanted to check the trailer court one more time. He had me drive the van with the body back here. Which we did. It was 105 miles."
+      },
+      {
+        "speaker": "COOPER",
+        "text": "Anything else?"
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Did Gordon show you a woman named Lil?"
+      },
+      {
+        "speaker": "COOPER",
+        "text": "I'm up to speed, Stanley."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Agent Chet wouldn't tell me what the Blue Rose meant."
+      },
+      {
+        "speaker": "COOPER",
+        "text": "And neither will I."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Oh, alright.  You know, I liked Agent Desmond. He had his own M.O."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31604",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "I cracked the Whiteman case with this."
+      },
+      {
+        "speaker": "COOPER",
+        "text": "Stanley, I heard all about it."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "No one could've found those splinters without a machine like this and no one has a machine like this."
+      },
+      {
+        "speaker": "COOPER",
+        "text": "Tell me about the letter."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Take a look at this. Chet and I found it under Teresa Banks' ring fingernail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31605",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "COOPER",
+        "text": "And no one found the ring?"
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "No, sir, we did not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31606",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "COOPER",
+        "text": "Where is the ring?"
+      },
+      {
+        "speaker": "MAN FROM ANOTHER PLACE",
+        "text": "Someone else has it now."
+      },
+      {
+        "speaker": "COOPER",
+        "text": "That would indicate that it's the future."
+      },
+      {
+        "speaker": "MAN FROM ANOTHER PLACE",
+        "text": "The later events have never been kept a secret."
+      },
+      {
+        "speaker": "COOPER",
+        "text": "Where am I? And how can I leave?"
+      },
+      {
+        "speaker": "MAN FROM ANOTHER PLACE",
+        "text": "You are here and there is no place to go..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31607",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Had the FBI here once before. Back in the fifties when Hap was running the place."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Where's Hap?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "He's dead -- good and dead."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Sorry to hear it."
+      },
+      {
+        "speaker": "JACK",
+        "text": "He didn't suffer."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "I'd like to ask you a few questions about Teresa Banks"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Sheriff Cable's already asked me a few questions about Teresa Banks. She worked nights for a month. That's it."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Any friends?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "No."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Ever see her with someone else?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "No."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Did she ever mention any friends?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "No.  Ask Irene over there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31608",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "IRENE",
+        "text": "Take a good look around. There's nobody in this place -- you're meetin' the reason why. What'll it be?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "How come Jack let's you work here?"
+      },
+      {
+        "speaker": "IRENE",
+        "text": "Jack and I are united in holy matrimony."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Say no more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31609",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "Federal Bureau of Investigation, Special Agent Chet Desmond. I'd like to ask you a few questions about Teresa Banks. Jack said you knew her. How well?"
+      },
+      {
+        "speaker": "IRENE",
+        "text": "She only worked here a month. Nice girl. Never seemed to get here on time though. Ask me she had a little problem with --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31610",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "IRENE",
+        "text": "Came looking for a job with a friend of hers. Pretty girl. Could've been her sister."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "What happened to her?"
+      },
+      {
+        "speaker": "IRENE",
+        "text": "There was only one job. Teresa took the job. Her friend took a hike. Never saw her again."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Did you ever see Teresa take cocaine?"
+      },
+      {
+        "speaker": "IRENE",
+        "text": "No."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Do you take cocaine, Irene?"
+      },
+      {
+        "speaker": "IRENE",
+        "text": "No, I do not. I never took cocaine or any other drugs. I don't take drugs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31611",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "He's with me.  Anything you would like to tell us about Teresa Banks that would help us out?"
+      },
+      {
+        "speaker": "IRENE",
+        "text": "I've thought about that. I think her death is what you would call a \"freak accident\"."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31612",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "IRENE",
+        "text": "You know, I never told anybody, but once for about three days, just before her time, Teresa's arm went completely dead."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "IRENE",
+        "text": "Her left arm. It was numb. She said she couldn't use it. Said it had no feeling. Probably from the drugs she was taking.  I just thought I ought to tell you."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31613",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "That was really something.  That dancing girl.  What did it mean?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Code. If you work with Gordon you learn that right away."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Code, I've heard a lot about this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31614",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "Sort of shorthand."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Shorthand. Really?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "We're heading into a difficult situation."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "How do you figure?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "I'll explain it to you. Do you remember Lil's dance?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31615",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "Lil was wearing a sour face."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Her face had a sour look... that means we're going to have trouble with the local authorities. They are not going to be receptive to the FBI."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31616",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "Oh, the uncle is missing."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Not Cole's Uncle but probably the sheriff's uncle in federal prison."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "So the sheriff had got an Uncle who's committed a serious crime."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Right, which is probably why Lil was wearing a red wig meaning we are headed into a dangerous situation. Let me ask you something, Stanley, did you notice anything about the dress?"
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "The dress she was wearing had been altered to fit her. I noticed a different colored thread where the dress had been taken in. It wasn't her dress or she must have lost some weight."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Gordon said you were good. The tailored dress is our code for drugs. Did you notice what was pinned to it?"
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "A blue rose."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Very good, but I can't tell you about that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31617",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "What did Gordon's tie mean?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "What? That's just Gordon's bad taste."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Why couldn't he have just told you all these things?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "He talks loud. And he loves his code."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "I see. He does talk loud."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Gordon would not have sent us to Deer Meadow without thinking it was a high priority situation."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "It must be a high priority situation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31618",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "Solved the Whiteman Case with this."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "That's what I heard."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "No one could find those splinters without a machine like this. And no one had a machine like this."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "That's good."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Yes, it is good.  What do you think is in these other drawers?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "I don't know, Sam."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Maybe, later we could take a look."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Sure, but let's finish up with this first."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31619",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "Crushed skull. Probable cause repeated blows to the back of the head with an obtuse angled blunt object. Subject looks to be between 16 and 18 years of age."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Cole said she was 17."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31620",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "There appears to be a contusion under the ring finger of her left hand."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31621",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "Accidental?"
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Agent Desmond, would you hold the finger for me. There's something up there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31622",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "It is a piece of paper with the letter \"T\" imprinted on it. Take a look."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31623",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "Geez, Agent Desmond, it's three-thirty in the morning. Where are we going to sleep?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "We're not. You and I are going to get some food."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Yes, it's been several hours since we've eaten. I didn't realize that so much time had past, did you, Agent Desmond?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31624",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "Agent Desmond, it's..."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "It's late, Sam."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "It's not late, it's early. Really early."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31625",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "I doubt it was drugs, more likely a problem with a nerve. I could recheck the arm for injuries, but for real nerve work we are going to have to take the body back to Portland."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "I think that's a good idea."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31626",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "I think we should see the sun rise at the Canyon Trailer Park."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Are you speaking to me in a code?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "No, Sam, I'm speaking plainly and I mean just exactly what I say."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "In that case, we should go to the Canyon Trailer Park."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31627",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "She lived alone."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "She must have known someone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31628",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "You better dust this place, Sam."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "I'll get my kit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31629",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "Take a look at this."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "She's wearing a ring."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31630",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DESMOND",
+        "text": "My guess is there isn't enough detail in the photo to get an idea of the design on the ring, but we should do a blowup of this anyway."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "May I see the magnifying glass, Agent Desmond?  There doesn't seem to be enough detail in the photo to ascertain the design on the ring."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31631",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "I couldn't help but notice that you had a suspicion that Deputy Cliff was the murderer. You did think that, didn't you, Agent Desmond?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "He's not the murderer.  But he's a bozo."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Yes, he is like a clown."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31632",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "When he says, \"Discussion\", how do you take that, Agent Desmond?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "I don't take it, Sam. I give it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31633",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "STANLEY",
+        "text": "One thing that has been troubling me. That lamp at the diner. Do you think they were working on it for esthetic reasons or was their work due to faulty wiring?"
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Faulty wiring."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "Esthetics are subjective, aren't they, Agent Desmond?  I'm Sam Stanley. If you ever need me."
+      },
+      {
+        "speaker": "DESMOND",
+        "text": "Thanks, Sam, for the good work. You have a good eye for detail."
+      },
+      {
+        "speaker": "STANLEY",
+        "text": "We do notice things, don't we, Agent Desmond? Are you going back to the trailer park for the Blue rose?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31634",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "If I am going to get through math today, you're going to have to bring me up to speed quick."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "You didn't do your homework?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Noooo..."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Okay, this test is going to be about the theorems I told you about last week. You remember the..."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Don't tell me now. Tell me right before the test. I won't be able to remember long enough."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "You graduating this year will be proof that miracles happen."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31635",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "James called me last night looking for you."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "When?"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "The usual, 9:15."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "He probably wanted to drive over."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Were you with Bobby? Or are you two still fighting?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "No, and yes. I don't know what I'm going to do about Bobby. I know he is seeing someone else and that's okay with me, and he thinks I'm seeing someone else and that's not okay with him."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Are you going to tell him about that \"someone else\"?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I don't know what to do."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "You know what your problem is?  You're just too adorable..."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "You know, I think you're right. I'm just too adorable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31636",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "Laura Palmer, you're just too adorable."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I'm just too adorable. I'm just too adorable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31637",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "Are you going to see James tonight?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Why are you suddenly so interested in who I am going to see at night? Nighttime is my time."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "You're telling me, but only because you never let me in on any of it... you're not going to see Bobby, are you?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Maybe."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Oh god, Laura."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Well, why not?"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Because Bobby is a loser, you said so yourself. He's a goon.  James is the one.  He loves you with that \"lasting love\"... \"true love\"."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31638",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Yes, James is very sweet. Why don't you get out your violin, Donna?"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Sweet? God, he's gorgeous."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "James is very sweet and very gorgeous."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31639",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "Do you think that if you were falling in space you would slow down after a while or go faster and faster?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Faster and faster. For a long time you wouldn't feel anything. Then you would burst into fire... forever."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31640",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "Maybe I better start our homework."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Okay, I suppose I should go home."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Call me."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Sure. What do you want me to call you?"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Call me anything just don't call me late for dinner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31641",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "Laura?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Donna, are you my best friend?"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Of course..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31642",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "What is it Laura? What's wrong?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I just want a friend. Just one friend for just one minute..."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Laura, how about one friend for the rest of your whole life?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Yes, that's what I want. Thanks D."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Okay, L.  I am your friend... always. But sometimes... lately... I feel that you don't like being around me because I am so uptight.  No, I am uptight. I hate it... I don't want to be this way, but Laura I don't... I mean... I'm your friend no matter what way you are."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "You know, even when I think about your face I get happier."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31643",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "Do you want to talk?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "No, I want to smoke."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31644",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "I'm in a mess today, too.  I'm thinking about doing it with Mike. What do you think?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Donna, you are such a crack up. You don't even like Mike. Is this what you are going to do to show me you are not uptight."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "This is about sex, not like.  Mom, Laura's here and I think I will have one of those huckleberry muffins.  You want a muffin?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "If I can smoke it."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "You want a muffin?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Donna, you are a muffin."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31645",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "Goodbye, Muffin."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "No, you're the muffin."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31646",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "No place, fast.  And you're not coming."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Come on, Laura. I'm your best friend."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31647",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Isn't tonight the night you are going to do it with Mike?"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Laura, aren't you going to fix me a drink?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31648",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "Where are the Cookies?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "You mean Fred and Ginger?"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Dancing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31649",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "If I had a nickel for every cigarette your mom smoked, I'd be dead."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Gotta go, Donna. I'll call you tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31650",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31651",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "No.  I don't need to take this to be your friend."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "YES YOU DO, DONNA. What a downer you are!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31652",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Don't ever wear my stuff, don't ever wear my stuff. Never."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Okay, I won't wear your stuff... Why can't I wear your stuff?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Jacques, help me get her home. NOW!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31653",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "I won't wear your stuff.  I promise."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Not you, Donna, not you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31654",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "DONNA",
+        "text": "I can't remember anything about last night. Is there something I should remember?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "No, you should forget about last night."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Laura, I am your friend."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I know you are and you don't have to do anything crazy to prove it."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "You're not mad at me?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "No."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "I feel so bad. I had nightmares all night long.  They all knew you at that place."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "What can I tell you?"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "How did the car get back here?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "WE got it back, that's all."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "How did I get in the house? How did I get into my bed?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I can't help you there."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Was I wearing something of yours and you got mad at me?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "All my things have me in them. I don't want you to be like me."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "But I love you, Laura."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "And I love you, too. But don't wear my stuff."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Why do you do it, Laura?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Cause I like it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31655",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Hey, Pete. Can't believe your tank's dry up at the mill."
+      },
+      {
+        "speaker": "PETE",
+        "text": "No... hell, no. Just got in the truck, started drivin', looked down at the gauge and saw a big \"E\" starin' at me."
+      },
+      {
+        "speaker": "ED",
+        "text": "You know what that Big \"E\" stands for? Big Ed's Gas Farm."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Yep. You're right. That's why I'm here."
+      },
+      {
+        "speaker": "ED",
+        "text": "What'll it be?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Fill 'er up."
+      },
+      {
+        "speaker": "ED",
+        "text": "You got it."
+      },
+      {
+        "speaker": "PETE",
+        "text": "I haven't got it yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31656",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Nice night."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Yep...  Yes...  It is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31657",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "You missed somethin', Ed."
+      },
+      {
+        "speaker": "ED",
+        "text": "I did? I didn't see anything."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Yeah... look in here. Look at it from this angle."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31658",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Even this heavy work beats being at home with the old ball and chain."
+      },
+      {
+        "speaker": "ED",
+        "text": "Brother, I hear you talkin'."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31659",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "My secret diary. There are pages missing."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "Who would do that?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Bob."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "But Bob isn't real."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "The pages are gone. That's real."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "Maybe."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Bob is real. He's been \"having\" me since I was 12."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31660",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "The diary was hidden too well. He's the only one who could know where it was. He's getting to know me, now. He's real. He speaks to me."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "What does Bob say?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "He wants to be me... or he will kill me."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "No... No..."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Oh, yes... yes..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31661",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "You're not Bob are you, Harold? If you are, you can kill me right now. Kill me right now, if you are."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "Laura, no, I'm not. I'm not Bob.  Poor Laura. I wish I could help you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31662",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "I hate him, I hate it. Sometimes I love it. But now I'm afraid. I am so afraid."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "But you're strong Laura... so much stronger than I... How can I help you? I can't. I can't even go outside."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31663",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "HAROLD",
+        "text": "What about James? Can't James help you? You two are so in love."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "He's in love with a girl who's dead.  It is dangerous for you to have it. I'm sorry."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "I'm so sorry, Laura."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31664",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JACOBY",
+        "text": "Laura, you didn't come and see me today."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I couldn't it was Johnny Horne's birthday. I promised I'd be with him. I told you not to call me here."
+      },
+      {
+        "speaker": "JACOBY",
+        "text": "A little trouble with your parents is the least of your worries and something I am certainly willing to put up with."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I'm not."
+      },
+      {
+        "speaker": "JACOBY",
+        "text": "Did you make me a tape?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I already made you two tapes."
+      },
+      {
+        "speaker": "JACOBY",
+        "text": "Laura, you have to deal with all of this."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I'm dealing with it, Doc. Big time. Maybe I'll make you a tape tomorrow. Goodnight."
+      },
+      {
+        "speaker": "JACOBY",
+        "text": "Send me a kiss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31665",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JACQUES",
+        "text": "Baby, you know why? Cause it'll never get here."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Hey, Jacques..."
+      },
+      {
+        "speaker": "JACQUES",
+        "text": "No \"Jacques\". I am the Great Went."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I am The Muffin."
+      },
+      {
+        "speaker": "JACQUES",
+        "text": "And what a muffin you have."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31666",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JACQUES",
+        "text": "That's right. She called me. She even asked me what your fathers looked like..."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "What? She asked about my father?"
+      },
+      {
+        "speaker": "JACQUES",
+        "text": "But it wasn't him... she was after a huge guy, six foot four with a broken nose. She said he looked just like a boxer. Speaking of sandwiches... I think Bobby was arranging something for you...  Speaking of arrangements...  SPEAKING OF ARRANGEMENTS... Why don't you two come up to the cabin this week? Leo and I know that Santy Claus is coming to town... Thursday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31667",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JACQUES",
+        "text": "Right on time, baby."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Buy me a ticket to The Great Went."
+      },
+      {
+        "speaker": "JACQUES",
+        "text": "We're on our way, Baby."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Let's go all the way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31668",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "James..."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "Laura, I'll meet you at 2:30 after phys. ed."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31669",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JAMES",
+        "text": "Laura, do you love me?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Yes, I love you. I've told you, but it doesn't really matter."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "Why? It does."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "No, it doesn't... just kiss me."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "It does matter. We're in love."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "James, you don't know what you are talking about. Quit trying to hold on so tight. I'm gone... long gone like a turkey through the corn."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "You're not a turkey. A turkey is one of the dumbest birds on earth."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Gobble, gobble, gobble."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31670",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JAMES",
+        "text": "Where were you last night? We were supposed to get together. You didn't show up."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "You were supposed to show up. Maybe I wasn't."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "We were supposed to be together."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "How can I be together if I'm not together?"
+      },
+      {
+        "speaker": "JAMES",
+        "text": "You're on somethin' again, aren't you?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "James..."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "When am I going to see you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31671",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JAMES",
+        "text": "I've got to see you."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Not now."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "This afternoon?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Okay.  Oh god, it's Johnny Horne's birthday today."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "What about tonight?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I can't tonight."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I just can't, James. I can't do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31672",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JAMES",
+        "text": "What the hell is wrong with you?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "That's right. There's no place left to go is there, James?"
+      },
+      {
+        "speaker": "JAMES",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "You know it and I know it."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "What is wrong with us?... We have everything."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Everything, but everything."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "Oh, Laura."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "\"Oh, Laura...\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31673",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JAMES",
+        "text": "You always hurt the ones you love."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "You mean the ones you pity."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "Say anything you want... I know you love me and I love you."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I do love you.  Let's get lost together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31674",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Shit, maybe he'll kill you."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "What?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "When he finds out."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "What?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Bobby killed a guy."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "What are you talking about? Bobby didn't kill anybody."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "You want to see..."
+      },
+      {
+        "speaker": "JAMES",
+        "text": "See what?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Right. Open your eyes, James. You don't know me. Even Donna doesn't know me. Your Laura disappeared... It's just me now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31675",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JERRY",
+        "text": "Johnny, Johnny... let your Daddy and your Uncle and Leland talk.  Ben... Leland, we can play the French against the Norwegians. What do the French love more than anything?"
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Boating?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "No."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Hiking?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "No."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Eating?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "You'd think so."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Sex?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "You're getting warmer."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Trees?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Exactment. They are nuts about wood. They get goofy over trees."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31676",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "JERRY",
+        "text": "History is on our side, Ben. It's no accident that the great explorers were named Hennepin, Nicollet, Marquette."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "They were looking for wood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31677",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "TRUMAN",
+        "text": "Josie, I think we should go public."
+      },
+      {
+        "speaker": "JOSIE",
+        "text": "That would be wonderful, but it's only been a year since Andrew died."
+      },
+      {
+        "speaker": "TRUMAN",
+        "text": "What are you afraid of? What people think?"
+      },
+      {
+        "speaker": "JOSIE",
+        "text": "I don't want to offend the customs of your country."
+      },
+      {
+        "speaker": "TRUMAN",
+        "text": "Believe me, Josie, you would not offend the customs of this country. For instance, I don't eat fish eyes."
+      },
+      {
+        "speaker": "JOSIE",
+        "text": "Fish eyes?"
+      },
+      {
+        "speaker": "TRUMAN",
+        "text": "Even if it offended someone, I wouldn't eat a fish eye."
+      },
+      {
+        "speaker": "JOSIE",
+        "text": "Why wouldn't you eat a fish eye, Harry?"
+      },
+      {
+        "speaker": "TRUMAN",
+        "text": "I saw a guy eat a fish eye once in Seattle. He was digging through his food with his chopsticks for about five minutes till he found the fish eye and he dropped it into his throat. I guess it must have gotten stuck in his uvula because right away he started to have trouble. His throat began to flutter there like there was a wind blowing. And he couldn't swallow and they rushed to him and loosened his collar and they were asking him if he was alright and he started to turn blue and his eyes started to roll back into his head and he still couldn't get the fish eye out and they tried to do a Heimlich maneuver. I went over to him as they were preparing to do an emergency tracheotomy. They were over him with a knife when he suddenly shot the fish eye out of his throat and right onto the ceiling. Splat! It just stuck up there and spread out. It was about the size of a half dollar. And that's why I don't ever eat fish eyes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31678",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "TRUMAN",
+        "text": "I'm not saying it's right or wrong, it's just the way I feel. It's the custom thing I was thinking of. In America we don't use any part of the fish but the meat just to the side of the insides. We throw away the tail, the rest of the insides and the head."
+      },
+      {
+        "speaker": "JOSIE",
+        "text": "I understand."
+      },
+      {
+        "speaker": "TRUMAN",
+        "text": "We throw away the whole head."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31679",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Can I take the car?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Sure honey, what's the hurry?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I forgot my books at school."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31680",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "Laura."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31681",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "You lied to me about those school books. I found them upstairs on your bed."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "What were you doing in my room?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "I was looking for that blue sweater that you borrowed which I found balled up in the bottom of your closet. Now why did you lie to me? Where did you go?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I had to see Bobby. I know you really don't like Bobby, but there was a problem and I didn't think you would understand."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Oh, honey, you don't have to lie to me. Ever. You can tell me anything. I'll understand."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I'm sorry, Mom."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Now hurry, dinner's almost ready. Your father says he's starving."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31682",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "Laura, now I can't find that blue sweater. Did you take it again?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Mom... what are you wearing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31683",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "My god, I am going to have another breakdown. God, god."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Mom, take it easy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31684",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "I hate asparagus."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Sure you do, it's good for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31685",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Where's Dad?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Ben asked him to stay late to plan for the Norwegians."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "If it's okay with you I'm going to Bobby's to do my homework."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "It's a school night... back by nine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31686",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Good night, Mom."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Good night, sweetheart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31687",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Dad."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Hyggelig a mote dem. Jeg Heter Leland Palmer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31688",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LELAND",
+        "text": "The Norwegians are coming next week and I want you to learn to say what I just learned in Norwegian. So you can talk to them. I want you to learn to say, \"Hello, my name is Leland Palmer\"."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "But my name isn't Leland Palmer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31689",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LELAND",
+        "text": "Hi, honey, how's Donna?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Fine."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "School?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "...school's fine..."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Sit down... sit down... Are you hungry?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Not really."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31690",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LELAND",
+        "text": "Let me see."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Dad..."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Your hands are filthy... look, there is dirt way under this fingernail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31691",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LELAND",
+        "text": "Who was that?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "A friend from school."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "A special friend?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31692",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Dad... Dad... Who was that? How do you know him? He looked familiar. Have I met him?"
+      },
+      {
+        "speaker": "LELAND",
+        "text": "No, you haven't met him. Have you met him?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "No."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "We're late to get to your mother."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Just sit here for a moment. You seem very upset."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Guy just pulls up out of the blue... I mean... what is this world coming to?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31693",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Are you sure you're okay?"
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31694",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Dad?"
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Yes."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Did you come home during the day last week?"
+      },
+      {
+        "speaker": "LELAND",
+        "text": "No."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Oh, I thought I saw you."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "You know, I did come home, come to think of it, on Thursday. I had a severe headache and I was driving in the neighborhood so I just darted in and out of the house.  Where were you, Laura? I didn't see you?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I was down the street."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31695",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LELAND",
+        "text": "Laura. What's wrong this morning?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Stay away from me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31696",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LELAND",
+        "text": "DON'T MAKE ME DO IT."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "NO, YOU HAVE TO KILL ME."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "I always thought you knew it was me."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "NO! YOU CAN'T HAVE ME.  KILL ME."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31697",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "LELAND",
+        "text": "Hello, Laura. Hello Sarah. Where's my axe?  \"I'm hungry\"."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Oh, Leland."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31698",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "Neither is mine. And can't we talk about something serious for a change."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "This is serious. Mr. Benjamin Horne's got a delegation of Norwegians coming in next week and I want both of you to learn to introduce yourself. Sarah, you first."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31699",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "Leland, what are you doing?"
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Look at this finger here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31700",
+    "movie_id": "m224",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "Leland..."
+      },
+      {
+        "speaker": "LELAND",
+        "text": "Laura didn't wash her hands before dinner.  And look at this."
+      }
+    ]
+  }
+]

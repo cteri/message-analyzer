@@ -1,0 +1,2238 @@
+[
+  {
+    "conversation_id": "conv_57313",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "KLUTE",
+        "text": "Please. I said I don't want you to do this."
+      },
+      {
+        "speaker": "BREE",
+        "text": "Trask said I should move. Let's not make a thing of it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57314",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "KLUTE",
+        "text": "I got a call from Ross this morning. Cable owned a plot of woodland -- he'd go there on weekends. They found Tom Grunemann's body buried there. They've notified his wife."
+      },
+      {
+        "speaker": "BREE",
+        "text": "Oh.  Well it wasn't us city people that did it -- your fine rosy-cheeked country boy."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Mm."
+      },
+      {
+        "speaker": "BREE",
+        "text": "You're going back?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Mm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57315",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "BREE",
+        "text": "Well suppose I hadn't come downstairs. Would you just have folded up and sneaked away?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "No. I was going to come up. I wanted to ask you to marry me."
+      },
+      {
+        "speaker": "BREE",
+        "text": "You wanted to, or you are?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I am."
+      },
+      {
+        "speaker": "BREE",
+        "text": "You could at least look at me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57316",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "BREE",
+        "text": "Look -- yes. I mean thanks, but -- don't you think we better be realistic?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "About what?"
+      },
+      {
+        "speaker": "BREE",
+        "text": "Look at me. I'm pretty and sort of clever and very well intentioned, and dear God I'd tear your heart out!"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I don't think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57317",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "BREE",
+        "text": "How can you not think so? You know the things I can do."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "They don't scare me any more."
+      },
+      {
+        "speaker": "BREE",
+        "text": "What?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Doesn't scare me. I think we could handle it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57318",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "BREE",
+        "text": "Look, why should it be yes or no? Can't we keep it going and see? I mean we can keep in touch and visit each other and see. People do that, that's realistic."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "OK."
+      },
+      {
+        "speaker": "BREE",
+        "text": "You don't believe that either, do you? Why can't you see my side?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Can you use these?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57319",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "BREE",
+        "text": "Can I carry something for you, to the car?  Will you kiss me?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "No. I'm sore."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57320",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "CABLE",
+        "text": "She wouldn't be reliable anyhow -- a narcotics addict."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I believed her, Pete."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57321",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "CABLE",
+        "text": "All right, suppose it wasn't Tom Grunemann; where does that get you?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "It's where it doesn't get me. I've got nothing left that connects to anything."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "Then, close the case."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I better keep looking."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "Where, how?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I could try Arlyn Page again. She saw much more of the Dumper than Bree Daniel."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "You just finished telling me she had nothing to offer. Not Tom, you said, the Dumper was clearly not Tom."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "It's got to make sense some way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57322",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "CABLE",
+        "text": "I'm flying back out to Pennsylvania Friday; I'll fill them in on things."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "How is it back there?"
+      },
+      {
+        "speaker": "CABLE",
+        "text": "I think you're homesick.  I'll be out at my camp over the weekend. Nice right now, that touch of fall in the air, that skim of frost in the early mornings, very peaceful.  John, I'll be back here again Thursday; I'll be in touch. Lieutenant, thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57323",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "CABLE",
+        "text": "Sorry we had to meet here. But I'm pressed for time."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Well there's a couple --"
+      },
+      {
+        "speaker": "CABLE",
+        "text": "I read your report. I had to go along with it -- the idea of this being a wild goose chase, Tom being nowhere around --"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Well as a matter of --"
+      },
+      {
+        "speaker": "CABLE",
+        "text": "I've been up country, you know my summer place, my camp. I don't even have a telephone there. This morning they sent a messenger out, that you'd been trying to call me."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "I'm on my way to Chicago. Very important meeting tonight. Well -- any new developments?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Yeah, two things Pete, that --"
+      },
+      {
+        "speaker": "CABLE",
+        "text": "You said Trask was arranging laboratory work. Police laboratory. Anything from that?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Yeah. It wasn't Tom."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "I'm sorry. I don't understand."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "It wasn't Tom that broke in the room."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "It has to be Tom. You said he ripped up his own pictures, he --"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Not Tom. Whoever it was left a kind of souvenir, I told you, in her clothing. Semen. The laboratory got a blood group reading from that. The man was blood type 0; Tom was an AB."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "Some mistake perhaps that --"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "No. No mistake Pete. It doesn't prove who it was -- but proves it wasn't Tom."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "You must be discouraged."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Not too bad. This brings back that Dumper in the picture."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "That who?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Dumper, the man Bree Daniel mentioned and Arlyn Page knew and Jane McKenna knew."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "You said he was no possible connection with Tom. The Page girl told you that, not Tom."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Someone's been doing all these things."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "You were hired to look for Tom, not someone."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Pete, I've got a chance to buy Jane McKenna's black book."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "What?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Call-girls generally keep a book, you know, a list of their clients. Sometimes, if a girl retires, she'll even sell it worth good money. Jane McKenna had a black book; when she died it was stolen. I've been after it a long time."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "You were hired to look for Tom."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I'm meeting a man tomorrow night. He wants to meet me on East-River Drive -- he wants five hundred dollars for the book. Can you get that for me Pete?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57324",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "CABLE",
+        "text": "I can't follow you."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Will the Company put up five hundred dollars to get Jane McKenna's list of clients?"
+      },
+      {
+        "speaker": "CABLE",
+        "text": "No. It's ridiculous. This has nothing to do with Tom Grunemann."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "It probably has the Dumper's name. It might give us some kind of new lead.  I want a look at it anyhow."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "Klute, the Company's interest is Tom Grunemann. Solely and exclusively. You say you can't find Tom; all right, I'll see that you're paid off; the case is closed."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "All right, but I'm going to see that list."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57325",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "CABLE",
+        "text": "I can talk it over; possibly I can get the money. When are you meeting the man?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Tomorrow evening, nine. East River Drive and 73rd Street."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "Suppose I meet you there a half hour before."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Just send me a money order."
+      },
+      {
+        "speaker": "CABLE",
+        "text": "No, I'd -- like to be in on it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57326",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "KLUTE",
+        "text": "Well --"
+      },
+      {
+        "speaker": "CABLE",
+        "text": "Tomorrow. See you tomorrow night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57327",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "CABLE'S VOICE",
+        "text": "John, how are you?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I'll be sending you on a report tonight."
+      },
+      {
+        "speaker": "CABLE'S VOICE",
+        "text": "It's a beautiful day in Tuscarora - I don't envy you that humidity in the city."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "It's not so bad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57328",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "KLUTE",
+        "text": "Would you like to know what's in it? The report."
+      },
+      {
+        "speaker": "CABLE'S VOICE",
+        "text": "What's in it?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I think Tom Grunemann's dead. I've been a lot of places - I've asked a lot of people. I've found no proof he's around. I've found no proof he was ever around."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57329",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "CABLE'S VOICE",
+        "text": "I'm sure the FBI and the Police explored that possibility."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "No. They never did, really. But that's what I'm going to recommend. The next step. Unless something --"
+      },
+      {
+        "speaker": "CABLE'S VOICE",
+        "text": "Have you discussed this with them?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "It's in the report."
+      },
+      {
+        "speaker": "CABLE'S VOICE",
+        "text": "Do they have the report? Have you discussed it with them?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I wanted to give it to you first."
+      },
+      {
+        "speaker": "CABLE'S VOICE",
+        "text": "All right. All right --  John, just sit tight will you? I'll read your report, I'll discuss it with the others. I'll be back next Thursday, we'll talk the whole thing over then. Nothing til Thursday, all right?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "All right."
+      },
+      {
+        "speaker": "CABLE'S VOICE",
+        "text": "Thank you. Goodbye, John."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Goodbye, Pete."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57330",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "I've always respected Bree.  I'd like to make something clear."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I've just got a few --"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I'd like to make something clear. I don't go after a girl; a girl comes to me. Her choice. Right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57331",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "KLUTE",
+        "text": "I'm looking for a man. Tom Grunemann.  Bree thinks he may have been the dumper -- that call she had two years ago. She says you sent her on it."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Two years ago? Sorry."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "They tell me you use narcotics. Could I bring someone around to look at your arms?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Look -- dad -- I may stand better with the cops than you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57332",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "OK, a family matter. Between the girls. I had two other cows --  -- two other girls besides Bree."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "She told me."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "OK and one of them  Jane McKenna -- she blows a little jealous of Bree - you know? -- Bree comes first? And evidently she knew the freak --- that he was a dumper -- she conned me into passing him to Bree, you know, so Bree'd get hurt. I didn't know. Till afterwards."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Why didn't you tell Bree, afterwards?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You don't tell them. That one of their own in-laws laid a dumper on them?  Peace in the family.  Beyond that, I don't know. All she wrote."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I'd like to talk with Jane McKenna."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Would I be telling you all this? She copped out long ago. She committed suicide Baxter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57333",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "SPANGLER",
+        "text": "-- Usual case history -- this isn't a medical confidence, it's all of them -- broken family, lonely, confused, crummy childhood, early promiscuity, formal prostitution beginning in her teens, income twenty-five to thirty thousand a year.  Oh they don't keep the money: they get rid of it, they get pimps. Why?  Why do you want to know all this?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I want to know how Tom Grunemann got mixed up in it."
+      },
+      {
+        "speaker": "SPANGLER",
+        "text": "Not unusual."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Did she talk about him to you?"
+      },
+      {
+        "speaker": "SPANGLER",
+        "text": "About his letters -- that's all she remembered. Quite violent material, I'd say, obsessive, a quite sick man. But that's not unusual either."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Has she talked with you since prison?"
+      },
+      {
+        "speaker": "SPANGLER",
+        "text": "No. She had every good intention of it -- coming to me as a private patient, getting out of the life, devoting herself to an acting career."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I think she's trying that."
+      },
+      {
+        "speaker": "SPANGLER",
+        "text": "Oh sure they try. The idea of a better life.  But they don't really know much about life: They get confused -- or scared or frustrated or bored -- they pop back to the one thing they can handle. The trick. The trick. Men in bed. Not men in general, not life, not love, not even real sex -- it avoids all that. Just the trick, the transaction."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57334",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "KLUTE",
+        "text": "Klute. With a K. K - L - U -"
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Are you with plant security, Sergeant?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Town Police."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Then how are you involved?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I know Tom Grunemann."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "You knew the subject Thomas Grunemann. How well?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "We grew up together. Kids."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Can you account for his disappearance in any way?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "No."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Did he recently appear to you agitated or depressed?  -- indicates no -- Did he voice to you grievance or discontent with his research work here? Indicates no. Moral or sexual problems or peculiarities? --"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "No."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Marital problems in general? Indicates possibly -- am I right Sergeant?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Everybody's got some, I guess."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Did he ever mention specifically a girl or woman in New York?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "No."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Examine this letter please.  We recovered that from the shredder -- the plant disposal and incinerator system. Grunemann apparently typed it Friday, before he left, decided not to send it, tossed it away. We've already contacted the New York Police; they think they know the girl in question."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57335",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "ROSS",
+        "text": "But if Cable killed Grunemann why would he get you hired to look for Grunemann?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Because he knew I couldn't leave the case alone. And this way at least he'd keep track of it. And me."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "What about Grunemann's letters to the girl, everything like that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57336",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "ROSS",
+        "text": "Sounds to me you better shake him again. Put him in a spot he has to do something more -- but this time give him a time and a place to do it."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "He called this morning from Tuscarora. Asked me to meet him at 3:00 at the downtown heliport. He's on his way to Chicago."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57337",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "KLUTE",
+        "text": "That's a lot of people to die unknown."
+      },
+      {
+        "speaker": "TRASK",
+        "text": "Unknown, unidentified and unwanted. And there's more every day man, there's more everyday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57338",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "TRASK",
+        "text": "He's right you know. Waiting for the pusher, she'd tell you anything."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I believed her: the Dumper was not Tom Grunemann."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57339",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "TRASK",
+        "text": "That's how the other one died, you know. In the water."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I looked it up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57340",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "TRASK",
+        "text": "Well?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57341",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "TRASK",
+        "text": "Think this is our guy?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I don't know. It looks familiar to me."
+      },
+      {
+        "speaker": "TRASK",
+        "text": "Thought it might. It's off an arrest report you typed two years ago. Man you wanted samples of everybody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57342",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "KLUTE",
+        "text": "But what reason could he have? What possible reason?"
+      },
+      {
+        "speaker": "TRASK",
+        "text": "Unless he was involved with Grunemann's disappearance."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I knew Tom never wrote that letter."
+      },
+      {
+        "speaker": "TRASK",
+        "text": "What else do you know?"
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I never could believe that Tom was a split personality. I never believed he was a Dumper; and I don't believe he disappeared of his own volition; and I don't believe he's alive."
+      },
+      {
+        "speaker": "TRASK",
+        "text": "We have some very tentative circumstantial evidence of freeky behavior, but there's no evidence of murder - there's not even a body."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I don't believe Tom's alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57343",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "TRASK",
+        "text": "Gov, want to leave me that one. How come he got to play with this one, anyway."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "I left them here. I was doing some work here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57344",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "TRASK",
+        "text": "It's damn lucky you didn't have the dossier on Cable here."
+      },
+      {
+        "speaker": "KLUTE",
+        "text": "Nobody's seen that."
+      },
+      {
+        "speaker": "TRASK",
+        "text": "If we get anything from the lab, we'll have it by noon. And just think -- all he really had to do was write us a letter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57345",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "STREIGER",
+        "text": "Are you closing the case?"
+      },
+      {
+        "speaker": "ROSS",
+        "text": "No sir, we don't state that. We're countin --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57346",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "STREIGER",
+        "text": "Why couldn't you ever find out anything from the girl?"
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Trask --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57347",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "ROSS",
+        "text": "The subject got emotionallv disturbed; he just dropped out. There's thousands."
+      },
+      {
+        "speaker": "STREIGER",
+        "text": "Inspector we understand your position; ours is a little different. We have an investment in Tom Grunemann. The Company has an investment, and we feel entitled to investigate for ourselves."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Private investigation, you mean. Yes sir, of course you're entitled, and there's some very competent --"
+      },
+      {
+        "speaker": "STREIGER",
+        "text": "Klute offered us his services; we've accepted."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57348",
+    "movie_id": "m415",
+    "turns": [
+      {
+        "speaker": "STREIGER",
+        "text": "Klute knew Tom. He has a great many ideas about the case --"
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Yes sir, we know he --"
+      },
+      {
+        "speaker": "STREIGER",
+        "text": "We'd expect him to work in cooperation with you. He'd report to each of you and to our Company's New York office, to Pete -- Pete goes there on a regular schedule back and forth, and --"
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Mr. Streiger, speaking frankly -- we've appreciated the Sergeant's interest you know, all along. Here, locally. But New York, that's - well --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57349",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "ALVAREZ",
+        "text": "Mr. Kramer?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "I'm Dr. Alvarez, Judge Atkins asked me to look in on your son and prepare an evaluation sheet."
+      },
+      {
+        "speaker": "TED",
+        "text": "Oh, yes.  Won't you come in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57350",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "ALVAREZ",
+        "text": "Where is the child?"
+      },
+      {
+        "speaker": "TED",
+        "text": "He's in his room, playing."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "Good.  I'll see him in there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57351",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "ALVAREZ",
+        "text": "Mr. Kramer, do you ever have sex in here with anyone?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Doctor, I attempt to conduct my social life discreetly.  At the moment I am seeing no one."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "Does that distress you?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Not particularly."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "What does?"
+      },
+      {
+        "speaker": "TED",
+        "text": "The prospect of losing my child."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "Very well, I'd like to see him if I may."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57352",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "ALVAREZ",
+        "text": "What do you have here, Billy?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Detroit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57353",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "No.  But I've been to Brooklyn."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "I see you have people there. What are their names?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "That's Kim...and this one's Thelma and that's Mrs. Willewska and this is daddy and that's Batman and over there is Robin."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "What about your mommy?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Oh, sure.  Here, this can be mommy."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "Do you like to be with your mommy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57354",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "ALVAREZ",
+        "text": "What do you like best about her?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Lunch in a restaurant."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "What do you like best about your daddy?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Playing."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "Tell me, does your daddy ever hit you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57355",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "He hits me on the planet Kriptarium, when I steal the buried treasure from the famous peanut butter factory."
+      },
+      {
+        "speaker": "ALVAREZ",
+        "text": "In real life when does he hit you?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "My daddy doesn't hit me, silly. Why would my daddy hit me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57356",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TEACHER",
+        "text": "Ladies and gentlemen..."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Ladies and gentlemen..."
+      },
+      {
+        "speaker": "TEACHER",
+        "text": "Welcome to the greatest show on earth."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Welcome to the..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57357",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TEACHER",
+        "text": "Greatest."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Greatest..."
+      },
+      {
+        "speaker": "TEACHER",
+        "text": "Show."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Show..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57358",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TEACHER",
+        "text": "On earth."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "On earth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57359",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Huh?...Oh God...What time is it?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "The little hand is on the six and the big hand is on the nine. Where is mommy?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Oh, Christ...Ah, yeah...you want to know why mom's not here, right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57360",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "When is mommy coming back?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Soon.  Very soon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57361",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "I'll tell you what, kiddo--why don't I fix us some French toast?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Wow!  French toast, really?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Sure.  Didn't I ever tell you French toast was my specialty? I'll bet I never told you that. Now then, the first thing we need is...  ... eggs!  Right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57362",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "You forgot the milk."
+      },
+      {
+        "speaker": "TED",
+        "text": "That's right.  You're absolutely right...It's been a long time since I made French toast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57363",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "What about my orange juice?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Right.  One O.J. coming up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57364",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "When is mommy coming back?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Soon.  I told you before, very soon."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Will she pick me up after school?"
+      },
+      {
+        "speaker": "TED",
+        "text": "No.  If I'm not here, you go home with Thelma and Kim."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "What if she forgets?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I'll call Thelma and remind her, okay?  Don't worry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57365",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Uh, huh..."
+      },
+      {
+        "speaker": "TED",
+        "text": "You got a letter from mom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57366",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "You're late."
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm sorry, pal, but I had a meeting and--"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57367",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Okay...Same as usual..."
+      },
+      {
+        "speaker": "TED",
+        "text": "Billy, don't eat with your fingers."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57368",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Well, I see the Yankees finally won a game."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Mom, I mean dad?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Can I be excused?  I'm not hungry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57369",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Sure.  Too much birthday cake, right?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I guess..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57370",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Mom, I mean dad..."
+      },
+      {
+        "speaker": "TED",
+        "text": "Uh huh..."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "That's not the right soap.  We use the kind in the green and yellow box."
+      },
+      {
+        "speaker": "TED",
+        "text": "C'mon, there's not much difference--"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "We use the green and yellow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57371",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Mom, I mean dad..."
+      },
+      {
+        "speaker": "TED",
+        "text": "In a minute..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57372",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "You get a new fence."
+      },
+      {
+        "speaker": "TED",
+        "text": "C'mon, Billy.  I'm trying to work for God's sake..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57373",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "TED",
+        "text": "Je-sus Christ!  I catch all kind of shit at the office because I'm not pulling my weight because I'm busting my butt trying to be a decent goddamn father and--"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "TED",
+        "text": "That's terrific.  That's really terrific, but I notice I'm the one that's cleaning up this--  Oh, crap, I'll have to do this one over."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I'm sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57374",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Look, I'm sorry I yelled, okay?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "That's okay."
+      },
+      {
+        "speaker": "TED",
+        "text": "It's just...I've been catching a lot of flack at the office..."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "That's okay..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57375",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Salisbury steak."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I hate it."
+      },
+      {
+        "speaker": "TED",
+        "text": "You don't hate it.  We had Salisbury steak last week and you liked it fine."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "No I didn't.  I hate the brown stuff.  It's gross."
+      },
+      {
+        "speaker": "TED",
+        "text": "All it is is onions and gravy."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I'm allergic to onions."
+      },
+      {
+        "speaker": "TED",
+        "text": "You are not allergic of onions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57376",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "I want a pizza."
+      },
+      {
+        "speaker": "TED",
+        "text": "No.  This is fine.  Just take a bite, you'll like it fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57377",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "I think I'm going to throw up."
+      },
+      {
+        "speaker": "TED",
+        "text": "Oh, for God's sake...Here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57378",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "There, okay? Now that's just plain old hamburger."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Some of the brown stuff is still there."
+      },
+      {
+        "speaker": "TED",
+        "text": "Then eat around it."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "No."
+      },
+      {
+        "speaker": "TED",
+        "text": "Now listen to me, young man. Do you know what I had to go through to put this goddamn food on the goddamn table?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I don't care.  I hate it.  I want pizza."
+      },
+      {
+        "speaker": "TED",
+        "text": "Not on your life.  That's it. I've had it with crap around this house.  From now on, no more pizza!  Get it?  Starting right now you can eat real food like a normal human being!"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "No!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57379",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Owwww...You're hurting me... You're hurting me...I hate you ...I hate you..."
+      },
+      {
+        "speaker": "TED",
+        "text": "You're no bargain either, pal."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I want my mommy...I want my mommy.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57380",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "I want my...mm...ommy...I want mmmy...mommy..."
+      },
+      {
+        "speaker": "TED",
+        "text": "Tough shit.  You're stuck with me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57381",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Daddy?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I'm sorry..."
+      },
+      {
+        "speaker": "TED",
+        "text": "That's okay, pal.  Go back to sleep.  It's very late."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57382",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Daddy?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Uh huh?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Are you...gonna go...away?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57383",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Is mom ever coming back?"
+      },
+      {
+        "speaker": "TED",
+        "text": "You mean for good?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57384",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "I don't think so."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Oh..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57385",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Now go to sleep.  It's very late."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Good night."
+      },
+      {
+        "speaker": "TED",
+        "text": "Sleep tight."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Don't let the bedbugs bite."
+      },
+      {
+        "speaker": "TED",
+        "text": "See you in the morning light."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Dad?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57386",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I love you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57387",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Ohhh...Ohhhh...Ohhhhh..."
+      },
+      {
+        "speaker": "TED",
+        "text": "It's okay, son...I'm here... Just a little more to go... Don't worry, son...I'm here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57388",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Sleep tight.  Don't let the bedbugs bite..."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "See you in the morning light..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57389",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Billy.   This is Dr. Alvarez. She would like to talk to you."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57390",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Objection.  You're leading the witness."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57391",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Objection."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Sure.  Lots of times."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57392",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "See.  That's my name."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "It's my name too."
+      },
+      {
+        "speaker": "TED",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57393",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Wow!"
+      },
+      {
+        "speaker": "TED",
+        "text": "You like it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57394",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Is this really your desk?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Yep."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Is that really your chair?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Uh huh..."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Wow!  That's neat.   Can I sit in it?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57395",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Did mommy ever see this?"
+      },
+      {
+        "speaker": "TED",
+        "text": "No, she never did."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Are you going to get remarried?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't know.  I hadn't thought much about it."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Are you going to remarried Phyllis?"
+      },
+      {
+        "speaker": "TED",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57396",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "No, son.  Daddy and mommy will never get remarried."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Boy, I bet you if mommy ever saw this she'd remarried you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57397",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Mom--I mean, dad?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Uh, huh?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "What did you do when you were little?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I guess about the same kind of things you do."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Did you watch \"I Dream of Jeannie?\""
+      },
+      {
+        "speaker": "TED",
+        "text": "Uh, uh...We didn't have television then."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57398",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Was there apple juice when you were little?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Yeah, there was apple juice."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Was there Burger King?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Uh, uh.  There was no such a thing as Burger King."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "What else wasn't there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57399",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "BILLY",
+        "text": "Daddy!  You're home early.  Did you get fired again?"
+      },
+      {
+        "speaker": "TED",
+        "text": "No, son, I didn't get fired.  I'll tell you what we'll do, okay?  How about if we go to a Burger King and then we watch a little T.V. and then we get packed to go to the country tomorrow. Just you and me...How 'bout that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57400",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Billy, sometimes when a mother and a father are divorced, there's a discussion about who the child should live with, the mother or the father.  Now there is a man who is very wise.  He's called a judge.  And a judge has a lot of experience with divorces and he decides who it would be best for the child to live with."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Why does he decide?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Because...Well, that's what he does.  He's a very powerful man."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Like a principal?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Bigger than a principal.  The judge sits in robes in a big chair.. The judge has thought a lot about us, about you and me and your mom, and he has decided...  ...he has decided that it would be best for you to live with your mom Joanna in her apartment.  And I'm very lucky.  Because even though you'll live with your mom Joanna I'll get to see you once a week for dinner and a couple of weekends a month."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I don't understand, daddy."
+      },
+      {
+        "speaker": "TED",
+        "text": "What don't you understand, pal?"
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Where will my bed be, where will I sleep?"
+      },
+      {
+        "speaker": "TED",
+        "text": "At your mom's.  She'll have a bed for you in your own room."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Where will my toys be?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I'll send your toys there and I'm sure you'll get some new ones."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Who will read me my stories?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Your mom."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Daddy, what if The Face comes when I'm at mommy's?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Your mom knows all about The Face, okay?  Don't worry, she'll tell The Face to beat it."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Will you come and say good-night to me every night?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57401",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Objection!"
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Overruled.  The witness will answer, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57402",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Objection!  I must ask that the counsel be prevented from harassing the witness."
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Sustained."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57403",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Objection!"
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Overruled."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57404",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JUDGE",
+        "text": "Sustained."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Mr. Kramer, isn't it true that you were fired from your last job not more than six weeks ago?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57405",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JUDGE",
+        "text": "Are you introducing the question of negligence here, counselor?"
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Yes, your honor."
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "I see.  Well, you'll have to do better than that.  Do you have any affidavits to support negligence?"
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "I do not, your honor, however--"
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "This is an isolated incident, counselor, unless you can prove otherwise."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Does the witness deny the injury took place?"
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "No, counselor, I'm going to over- rule you on this line of questioning."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Then I have concluded my questions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57406",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Now then, Mrs. Kramer, would you tell the court how long you were married?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Six years."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "And would you describe those years as happy?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "The first couple, yes, but after that it became increasingly difficult."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Mrs. Kramer, did you ever work in a job while you were married to your ex-husband?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "No, I did not."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Did you wish to?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Yes.  I tried to talk to Ted-- my ex-husband--about it, but he wouldn't listen.  He refuses to discuss it in any serious way. I remember one time he said I probably couldn't get a job that would pay enough to hire a baby- sitter for Billy."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Tell me, Mrs. Kramer, are you employed at the present time?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Yes, I work for Jantzen as a sportswear designer."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "And what is your present salary?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I make thirty-one thousand dollars a year."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57407",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Mrs. Kramer, do you love your child?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Yes.  Very much."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "And yet you chose to leave him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57408",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "Yes...Look, during the last five years we were married, I had...I was getting more and more...unhappy, more and more frustrated.  I needed to talk to somebody.  I needed to find out if it was me, if I was going crazy or what.  But every time I turned to Ted--my ex-husband, he couldn't handle it.  He became very...I don't know, very threatened.  I mean, when- ever I would bring up anything he would act like it was some kind of personal attack.  Anyway, we became more and more separate ...more and more isolated from one another.  Finally, I had no other choice, I had to leave. And because of my ex-husband's attitude--his unwillingness to deal with my feelings, I had come to have almost no self- esteem...  At the time I left, I sincerely believed that there was something wrong with me--that my son would be better off without me.  It was only when I got to California and started into therapy I began to realize I wasn't a terrible person.  And that just because I needed some creative and emotional outlet other than my child, that didn't make me unfit to be a mother."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Your honor, I would like to place in evidence a report on Mrs. Kramer's therapy by her therapist, Dr. Elinore Freedman of La Jolla, California."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57409",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Mr. Kramer, why did you set up residence in New York?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Because my son is here.  And his father is here.  As a mother, I don't want my child to be separated from his father."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Mrs. Kramer, can you tell the court why you are asking for custody?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57410",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Objection."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "How long do you plan to live in New York, Mrs. Kramer?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57411",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Objection!"
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Your honor, I would request a direct answer to a direct question.  Does she have a lover?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57412",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Mrs. Kramer, how can you consider yourself a fit mother when you have been a failure at virtually every relationship you have undertaken as an adult?"
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Objection!"
+      }
+    ]
+  }
+]

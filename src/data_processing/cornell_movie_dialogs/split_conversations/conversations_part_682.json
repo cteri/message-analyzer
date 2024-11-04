@@ -1,0 +1,2402 @@
+[
+  {
+    "conversation_id": "conv_68113",
+    "movie_id": "m502",
+    "turns": [
+      {
+        "speaker": "UPHAM",
+        "text": "How do you do it?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "It's easy, it runs in my family, take my grandfather, for example..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68114",
+    "movie_id": "m502",
+    "turns": [
+      {
+        "speaker": "UPHAM",
+        "text": "You think he really believed it?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Who knows?  It worked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68115",
+    "movie_id": "m502",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "How fast?"
+      },
+      {
+        "speaker": "UPHAM",
+        "text": "Twenty-four-five."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Shit, that's nothing, I ran twenty- two flat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68116",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "I'm supposed to be leaving on a fellowship that I worked for my entire life.  I don't even care.  I met this boy over the summer, and I, I can't see him because of this, I can't talk to him, I can't talk to my father about... I wore these clothes, I thought, I thought that if I looked right and if I acted right then someone would talk to me.  But I look awful and I feel awful, could you, could you please talk to me?  Be a little decent."
+      },
+      {
+        "speaker": "AGENT",
+        "text": "We believe that your father operates in a large pool of cash that comes from phoney billings, phoney patients.  We've been investigating him for five years.  We believe that when they die, he takes their money."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Pardon me?"
+      },
+      {
+        "speaker": "AGENT",
+        "text": "Look, why don't you check it out for yourself?  See if your father fits the profile."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "What's the profile?"
+      },
+      {
+        "speaker": "AGENT",
+        "text": "Well, take a look around the house.  Is everything nice, but not too nice?  Are there lots of, uh, rugs, pieces of art, stereo equipment, uh, furniture, a lot of things bought with cash?  Does he give a lot of gifts?  Do the major items in your house cover around the nine thousand-dollar range?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You're trying to get me to say something, that's why you're telling me all of this."
+      },
+      {
+        "speaker": "AGENT",
+        "text": "Don't let your father's business infect your life."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "How can you, how can you say that?"
+      },
+      {
+        "speaker": "AGENT",
+        "text": "Because he's guilty."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No, no he's not."
+      },
+      {
+        "speaker": "AGENT",
+        "text": "We have records.  We have proof.  I'm sorry to be the one to have to tell you this, but it's going to get worse.  Now, if I were you, I would take that fellowship."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68117",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Jesus.  What, I live in a palace, right?  I have guests here."
+      },
+      {
+        "speaker": "AGENT SIMS",
+        "text": "Understanding the following rights..."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Speak with my lawyer."
+      },
+      {
+        "speaker": "AGENT SIMS",
+        "text": "So you refuse to answer my questions?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Just come down to my place of business, for god's sake.  I have people here."
+      },
+      {
+        "speaker": "AGENT SIMS",
+        "text": "Mr Court, be aware that we will be contacting a number of your business associates..."
+      },
+      {
+        "speaker": "JIM",
+        "text": "This evening is over."
+      },
+      {
+        "speaker": "AGENT SIMS",
+        "text": "And your former wife."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68118",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "AGENT SIMS",
+        "text": "The, uh, Cynthia Branson estate was worth how much?  Because her family..."
+      },
+      {
+        "speaker": "JIM",
+        "text": "What family?  We never heard from them.  I sold her house for them, made them money."
+      },
+      {
+        "speaker": "AGENT SIMS",
+        "text": "Hmmm.  Your income, Mr Court, hasn't changed substantially in seventeen years."
+      },
+      {
+        "speaker": "JIM",
+        "text": "That's right."
+      },
+      {
+        "speaker": "AGENT SIMS",
+        "text": "Why would you stay so long with an operation that is so clearly not a growth enterprise?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Taking care of people isn't a growth enterprise, Mr Sims.  I hope you write that down in your report, I'd like your bosses to read it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68119",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Hi."
+      },
+      {
+        "speaker": "ASSISTANT",
+        "text": "Is it a gift for your wife?  Are you getting a set together?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "No, I'm not married.  It's for my daughter."
+      },
+      {
+        "speaker": "ASSISTANT",
+        "text": "For going to school?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Yeah, she won a fellowship."
+      },
+      {
+        "speaker": "ASSISTANT",
+        "text": "Good for her."
+      },
+      {
+        "speaker": "JIM",
+        "text": "I'll take the whole set."
+      },
+      {
+        "speaker": "ASSISTANT",
+        "text": "Excellent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68120",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "ASSISTANT",
+        "text": "Thanks, I like yours too."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Listen, I don't know your name, but what are you doing for lunch?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68121",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "ASSISTANT",
+        "text": "I'm sorry, but they turned down your card."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Oh yeah, let me give you another card."
+      },
+      {
+        "speaker": "ASSISTANT",
+        "text": "Okay, thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68122",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Keep it."
+      },
+      {
+        "speaker": "ASSISTANT",
+        "text": "You're sure?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Yeah, I don't want it.  Um, thank you very much.  You're very kind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68123",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "CONSTANCE",
+        "text": "Lloyd?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Hey, sis."
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "I'm sorry. Sam had to do a new crown, we had [?], and Jason had a sore throat.  Your big graduation, and no one was there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68124",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "It's no problem.  I called Mom and Dad in Germany; it's like they were there."
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "I hope you understand."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Hey, bad throat, huh J-man?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68125",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "CONSTANCE",
+        "text": "Why do you eat that stuff?  There's no food in your food.  Not too loud, the red line's there for a reason."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "How do you know how to draw the red line anyway?"
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "Because it's loud enough so the neighbors don't complain, that's how come I know."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Good thing there's not a red line on you, J-man. YEAH!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68126",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "CONSTANCE",
+        "text": "Why can't you be his uncle and not his playmate?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Jesus Christ.  I get in a good mood.  How hard is it just to decide to be in a good mood, and then be in a good mood?"
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "Gee, it's easy."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Look, I'm really sorry that Mom and Dad made you take me in. Really.  If it's such a big deal, I'll go.  But remember this, it used to be fun.  It used to be warped, twisted and hilarious, and I mean that in the best possible way, I mean it as a compliment. I mean, I'm sorry T-I-M left you.  But I am not T-I-M."
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "I was hilarious once, wasn't I?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "I still am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68127",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "You're tough, J-man."
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "He's a mess!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68128",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "I'll be in my office."
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "I just washed this shirt, didn't I?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68129",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "No, no, don't go in there."
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "Forget it, forget it, it's mine, it's mine!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68130",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Hello Constance.  It's me, Lloyd... nothing, I'm just driving around... she broke up with me... what do I do?  Can't she come back?  How can I get her back?... I can't think, talk to me... I fucked up... I feel like crying... she gave me a pen.  I gave her my heart and she gave me a pen."
+      },
+      {
+        "speaker": "CONSTANCE",
+        "text": "Lloyd, honey, just come home, okay?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I'll be home soon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68131",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "That's unlikely."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "The movies are a good second date, you know, as a date?"
+      },
+      {
+        "speaker": "COREY",
+        "text": "But you never had a first date."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yes I did- I sat across from her in a mall.  We ate together.  We ate, that's eating, sharing an important physical event."
+      },
+      {
+        "speaker": "COREY",
+        "text": "That's not even a scam."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What's a scam?"
+      },
+      {
+        "speaker": "COREY",
+        "text": "Going out as friends."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68132",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "Then what's love?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I'm gonna call her."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Diane Court doesn't go out with guys like you.  She's a brain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68133",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Sounds great to me, I'm going to call her, that's what's cool about her."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Brains stay with brains.  The bomb could go off and their mutant genes would form the same cliques."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68134",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Look at those eyes."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Lloyd, give it up."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Do me a favor; take a picture of me with her."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Lloyd."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "C'mon, just do it."
+      },
+      {
+        "speaker": "COREY",
+        "text": "C'mon Lloyd."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Please?"
+      },
+      {
+        "speaker": "COREY",
+        "text": "That's just so embarrassing."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Please? COREY Alright. Alright, Okay, here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68135",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Wait for me for when I get round to the front."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Okay, I got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68136",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "You are such a great person Lloyd.  I'm a good person, but you are a great person."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Hang in there, man."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "See you tomorrow."
+      },
+      {
+        "speaker": "COREY",
+        "text": "See you.  Bye.  Bye Diane."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68137",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "Did you sleep with her?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I admit nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68138",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Alright, alright, alright, calm down, alright, calm down. Nothing's different."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Lloyd, listen to me.  EVERYTHING has changed.  You've had sex. No matter what you might think, nothing will ever be the same between you two.  You might be sixty.  You might be walking down the street, and you'll talk to her about something, whatever. But what you'll really be thinking is 'We had sex'."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "So, what's your point?"
+      },
+      {
+        "speaker": "COREY",
+        "text": "You've got to do something special.  You've got to make a statement."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68139",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Alright."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Lloyd, send her flowers, write her a letter.  Something."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I already did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68140",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "What does it say?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Read it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68141",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "I draw the line at seven un-returned phone calls."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Lloyd, you have to understand her family is being ripped apart. Like you and she were ripped apart.  Like Joe and I were ripped apart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68142",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "No, you're not a guy."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I am."
+      },
+      {
+        "speaker": "COREY",
+        "text": "The world is full of guys.  Be a man.  Don't be a guy."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "If she wants me, she can come to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68143",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "I don't feel anything."
+      },
+      {
+        "speaker": "DC",
+        "text": "Come on, it's graduation."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Did you see what Mr Carroll wrote in my yearbook?  Well, he ridiculed me all year long, and then he writes, \"You're a real live-wire, Love Mr Carroll.\"  Y'know, it's all so phoney."
+      },
+      {
+        "speaker": "DC",
+        "text": "He wants to leave things on a good note."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Well, where Mr Carroll uses the word 'love', I look for a new word."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68144",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DC",
+        "text": "Trapped in the body of a gameshow hostess."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Diane Court does not realise how good-looking she is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68145",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DC",
+        "text": "I wouldn't get my hopes up Lloyd."
+      },
+      {
+        "speaker": "COREY",
+        "text": "I'm sorry.  It's just you're a really nice guy, and we don't want to see you get hurt."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68146",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "Lloyd is doomed."
+      },
+      {
+        "speaker": "DC",
+        "text": "Meaning?"
+      },
+      {
+        "speaker": "COREY",
+        "text": "Meaning that she made the second date a family audition, which is the kiss of death for Lloyd."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68147",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DC",
+        "text": "I told him to be himself."
+      },
+      {
+        "speaker": "COREY",
+        "text": "He's got that nervous talking thing.  I told him not to speak."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68148",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DC",
+        "text": "Lloyd, it's us."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Look at his face, he did the deed."
+      },
+      {
+        "speaker": "DC",
+        "text": "You're an inspiration Lloyd; you should go on the seven hundred club or something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68149",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DC",
+        "text": "Wait a minute."
+      },
+      {
+        "speaker": "COREY",
+        "text": "You've got to show her respect, you've got to show her that you're not like Joe..."
+      },
+      {
+        "speaker": "DC",
+        "text": "Wait a minute."
+      },
+      {
+        "speaker": "COREY",
+        "text": "And above all, just because this happened gives you no right whatsoever..."
+      },
+      {
+        "speaker": "DC",
+        "text": "You know I just sit here listening, and you never let me talk."
+      },
+      {
+        "speaker": "COREY",
+        "text": "What?  I'm sorry, talk."
+      },
+      {
+        "speaker": "DC",
+        "text": "I've forgotten what I was going to say... okay, okay, I remember. Let him do what he wants."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68150",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "\"Dear Diane, I'll always be there for you, all the love in my heart, Lloyd.\"  I've never gotten a letter like this, have you?"
+      },
+      {
+        "speaker": "DC",
+        "text": "I dream about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68151",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "COREY",
+        "text": "I wrote sixty-three songs this year.  They're all about Joe, and I'm going to play every single one of them tonight."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "I just saw Joe.  He's here."
+      },
+      {
+        "speaker": "COREY",
+        "text": "Well, you don't have to be so dramatic about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68152",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "COREY",
+        "text": "It's too much pressure, it's not his crowd."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "What is wrong with this girl?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68153",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Hey, I know this is a strange thing to say, but maybe Diane Court really likes Lloyd."
+      },
+      {
+        "speaker": "COREY",
+        "text": "If you were Diane Court, would you honestly fall for Lloyd?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68154",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "U.S. ATTORNEY",
+        "text": "I can't give you that.  This guy's been ripping off grandma and grandpa for seventeen years.  He's been getting it from every end.  I'd love to hear his story."
+      },
+      {
+        "speaker": "COURT'S ATTORNEY",
+        "text": "One hundred thousand dollar fine and three months?"
+      },
+      {
+        "speaker": "U.S. ATTORNEY",
+        "text": "One hundred and twenty-five thousand and nine months."
+      },
+      {
+        "speaker": "COURT'S ATTORNEY",
+        "text": "I can accept that."
+      },
+      {
+        "speaker": "U.S. ATTORNEY",
+        "text": "And I want to turn the home over to the state."
+      },
+      {
+        "speaker": "COURT'S ATTORNEY",
+        "text": "He'd like to start serving immediately."
+      },
+      {
+        "speaker": "U.S. ATTORNEY",
+        "text": "I can put that together."
+      },
+      {
+        "speaker": "COURT'S ATTORNEY",
+        "text": "Confirm this with my office and my client."
+      },
+      {
+        "speaker": "U.S. ATTORNEY",
+        "text": "I'll put this past my boss"
+      },
+      {
+        "speaker": "COURT'S ATTORNEY",
+        "text": "Alright."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68155",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DC",
+        "text": "Lloyd, she's being difficult."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I'm going to take out Diane Court again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68156",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "That was a mistake.  The rain on my car is a baptism.  The new me.  Iceman, power Lloyd.  My assault on the world begins now. Believe in myself, answer to no one... You probably got it all figured out, Corey.  If you start out depressed, everything's kind of a pleasant surprise."
+      },
+      {
+        "speaker": "DC",
+        "text": "Look, why don't you just call Diane again?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68157",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DC",
+        "text": "Visit her at the home."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I'm not going back there.  I don't even know who you're talking about."
+      },
+      {
+        "speaker": "DC",
+        "text": "Lloyd, why do you have to be like this?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "'Cause I'm a guy, I have pride."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68158",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Well, it's almost over.  We've gone to school together for three years... I might cut that part out."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Why?  It's fine.  It's nice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68159",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Having taken a few courses at the university this year, I have glimpsed our future, and all I can say is... go back."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Ha!  Go back!  What a great line!"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You like it?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Oh yeah!"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I didn't think anyone would get it."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Oh no, no, it's... it's wonderful.   It's... no, don't worry about it.  You're very funny.  Go back, that's great!"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Alright, no more, I'm going to save it."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68160",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Ha!"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Well, it's almost over.  We've gone to school together for three years, and we've been through a lot.  But with that training out of High School gone, what's going to happen to us?  We all know what the answers are.  We want to be happy, go to college, own a car, maybe raise a family.  But what if that doesn't happen?  I have, I have to be honest though, I have all the hope and ambition in the world.  But when I think about the future, the truth is, I am really...scared."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68161",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Dad, you have to teach me to suture this weekend."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Okay, I promise I will.  Just come here a minute, I want to show you something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68162",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Well, since I'm not only your father, I'm also your friend; I had to get you two presents."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68163",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "God, that's... this is ridiculous."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Now this is the only thing your mother ever gave me that I kept. Now it's yours.  Go ahead, open it."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Oh god, I don't need all these presents.  I don't know any kid who got a car, I mean..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68164",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "They really applauded you today honey."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I was standing up there and looking at all the people, and I felt like they didn't know me.  I mean, maybe I shouldn't have taken all those courses out of school, because everybody thinks I... forget it."
+      },
+      {
+        "speaker": "JIM",
+        "text": "No, wait a minute.  Everybody thinks you're what?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Everybody thinks I'm a priss."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Diane, in a million years, you could never be a... priss.  It's all working out for you honey, don't you see?  It's all working out, just like we planned.  All the years of summer school, all the vacations you gave up, it's all working out just the way we planned..."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Stop it, stop it, stop it."
+      },
+      {
+        "speaker": "JIM",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I love you dad."
+      },
+      {
+        "speaker": "JIM",
+        "text": "I love you too honey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68165",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "What?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "I just had a phone call."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Tell me, is it bad news?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "No, no, just listen.  You won the Wreath  fellowship."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Are you kidding?  You're not kidding?  You're not kidding!"
+      },
+      {
+        "speaker": "JIM",
+        "text": "You won it.  You're going to study at the finest institute at England, the toughest fellowship in the country, and you won."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I won?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "You're going to take a big step, a big leap, and before you do, I just want one thing from you, miss.  You stand up straight and admit you're special."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68166",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "God, I'll have to go on a plane."
+      },
+      {
+        "speaker": "JIM",
+        "text": "We'll worry about that later.  Now come on, tell me that you're special."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68167",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Don't do this to me. You're too good at making me nervous."
+      },
+      {
+        "speaker": "JIM",
+        "text": "No, listen to me.  You're the best in the country, don't you understand?  It's like a pyramid.  It starts out with everybody, and it narrows through your life and through everything, and all the hoopla and the competition narrows it down to one brilliant person who is so special that they celebrate you on two continents.  And it's you.  So tell me something, where's the flaw in that?  There is no flaw."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68168",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Morning honey."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad, I'm so glad I went.  Goodnight."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Wait a minute.  How was Lloyd?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Lloyd was such a gentleman.  He was funny and nervous and strange, and I met people that I never would have met before, then I blew it.  I called him basic.  Can you believe I did that?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Well, I don't think he's really been embarrassed by it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68169",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Goodnight."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Goodnight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68170",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "She's not the world's greatest flyer, let me tell you.  When she was eight years old, she..."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Now why can't I tell the story?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68171",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Well, let me start it.  I'm flying down to Los Angeles on business, and I decide to take her on her first aeroplane."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I knew how planes flew, but I was still a little nervous."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Crash paranoia."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68172",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "So anyway, they closed the doors, and she starts to scream.  I've never in my life heard anyone scream quite like that."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "And then you got up and you told them to turn the plane around."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Which they did.  Let me finish."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Okay, I give up."
+      },
+      {
+        "speaker": "JIM",
+        "text": "So anyway, these two federal marshals meet the plane, and they take our address, and they ask us never to fly with 'Friendly Skies' again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68173",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Oh yeah.  There was, uh, somebody on the plane worked in a recording studio, and, uh, we got this telephone call, this guy is making a sound effects record, and he'd gotten our address and he wanted to know if he could come over and record her scream."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Which they did, and every once in a while on a commercial, you can hear me scream."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68174",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Morning."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad, I'm sorry."
+      },
+      {
+        "speaker": "JIM",
+        "text": "You should be."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I was irresponsible, I should have called."
+      },
+      {
+        "speaker": "JIM",
+        "text": "You bet you should have called.  You still live at home.  Don't make me call the police at three-thirty in the morning, don't make me call hospitals."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad, I'm so sorry.  I know this is a bad time."
+      },
+      {
+        "speaker": "JIM",
+        "text": "You've always called before, always.  Now I'm not asking what you did, I just want to know that you're alright."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I'm fine."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Do you wanna make things easier on me?  Now tell me where you were because this is, this is bullshit.  You can say anything to me, I hope you still know that."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I know that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68175",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Lloyd?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad, yes.  And I'm scared to death of what you must think of me right now."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Sit down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68176",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Did he ever get rough with you?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad, no.  But I didn't want any problems, so I decided not to sleep with him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68177",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Dad, maybe I shouldn't go with all that's happening to you."
+      },
+      {
+        "speaker": "JIM",
+        "text": "You're going."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "But listen, if I had a friend in the same position, I would tell her to delay a year."
+      },
+      {
+        "speaker": "JIM",
+        "text": "You're going."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "It doesn't feel right to me.  I, I don't even have the right luggage yet."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Bon voyage."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You're not listening to me."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Diane!  Alright, let's stop this right now.  Let's not put our energy into something ridiculous.  This isn't even smart thinking."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad, why are you acting this way?  Is this because of the other morning?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68178",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Do you love him?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I like him a lot."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Well listen to me.  Now, I know you like him, I know he's nothing like those frat kids you can't stand, but honey, after the excitement wears off, then what, huh?  What are you going to talk about?  What do you have in common?  You're going to be part of an international think-tank, and he's going to be kicking punching bags."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68179",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Unbelievable.  This is a nightmare."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Diane, you owe it to yourself to get on that plane with no attachments, no strings, because after you get over there, things are going to change.  People change."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad, you and I have talked about this.  Lloyd and I have talked about this.  Believe me, this is well-covered territory."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Diane, I'm not asking you to sever all relations with the boy. Give him a present, here, let him know you still care.  Give him this pen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68180",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Dad, in a million years, I would never give him a pen.  What's wrong with having some fun?  I like him."
+      },
+      {
+        "speaker": "JIM",
+        "text": "'I like him'?  Diane, I'm talking about being honest with people, being decent..."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad, I love him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68181",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "If I pick it up, we'll only get back together."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Well then don't pick it up. You know what's best."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68182",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Dad, are you okay in there?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Just finishing up in here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68183",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "What happened to you?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Dad, did you do it?  Did you take that money?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Sweetheart, no.  Don't be ridiculous."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Swear to god, I need to know the truth."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Honey!"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Swear to god."
+      },
+      {
+        "speaker": "JIM",
+        "text": "I swear to god."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "But I found the money."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Honey, it's not what you think."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "What am I supposed to think?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Honey, about what?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You stole from them, you lied to me.  How do you think that's supposed to make me feel?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "You think you know what this money is?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yes, I..."
+      },
+      {
+        "speaker": "JIM",
+        "text": "No, you don't know what it is.  It's not for me.  This money's for you, for when you come back from England with honors to set you up, so you don't have to depend on anybody again.  Diane, I take better care of these people than their families do.  I care for them, I give them flowers, I feed them, I wipe their mouths..."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No, but you stole from them."
+      },
+      {
+        "speaker": "JIM",
+        "text": "I made their lives better."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You let me believe you.  You knew you were guilty, and you let me become a part of it.  God, how... how could you..."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Alright, alright.  Go ahead.  When I'm old, give me someone like me, but go ahead."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I trusted you.  I stood up in court five years ago and I picked you."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Why are you being so hateful to me?  Is this because of Lloyd?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No.  I told you everything, you lied to me.  I would have done anything for you."
+      },
+      {
+        "speaker": "JIM",
+        "text": "That's right, work it out."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No, I will.  I don't want to leave something out because I know I can say anything to you.  You're a liar, and a thief."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Take it easy how mad you make me, I'm the only dad you've got."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I'm so ashamed dad."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Don't say that, it's not good for you.  You're..."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You're right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68184",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Hello."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Hi."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I don't know what to say to you, except goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68185",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Mom, please?"
+      },
+      {
+        "speaker": "MRS COURT",
+        "text": "Diane, I do have a history with this man, and it's not the greatest.  I see you so seldom, I'd really rather know about you."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "This is me telling you about me."
+      },
+      {
+        "speaker": "MRS COURT",
+        "text": "You know, I don't even know if you've got a young man in your life?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I just wonder what could be more important than what's going on with dad."
+      },
+      {
+        "speaker": "MRS COURT",
+        "text": "If we could just talk about boys everything would be so much easier.  You know, your room is always ready for you, you can always come home if... alright, what do you want me to do?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "If they ask you questions, and they probably will ask you questions, would you please say something nice about him mum? Help him?"
+      },
+      {
+        "speaker": "MRS COURT",
+        "text": "Alright."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You will?"
+      },
+      {
+        "speaker": "MRS COURT",
+        "text": "Okay.  Oh, here's Ray.  Just talk to him because when you don't, your mouth turns down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68186",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Thank-you.  The real world."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Look at those eyes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68187",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "No noise, no sound, no movement, nothing!  Hello, Diane?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Hi.  You called me?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah.  I read about your fellowship in the paper, and I'm very glad you called me back."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah.  I just wanted to congratulate you on your scholarship to England, and I wanted to tell you that I thought your speech was really incredible."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Thank you very much."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Whoah, what a day, huh?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah.  What a day."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Quick question - do you know who I am?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yes, we sat together at Bell's Square."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah, yeah, yeah.  You remember?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No, I read it on the message."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Okay, um, so it's Lloyd and... uh... uh... let's go out.  Do you wanna go out?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Oh, thanks, but I'm busy."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Busy?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yes.  Things are pretty hectic right now, but thanks."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Are you busy on Friday?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah, I have to help my father."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Are you busy on Saturday?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Saturday, I have some things to do around the house."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "So you're monumentally busy?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Well, not monumentally."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What about tonight then, are you going to that party at Valhere's?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Hmmm...."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Look Diane, I'm sorry, but I can't allow you to leave the country without going to Valhere's graduation party.  This gentleman, he's twenty-two, and he comes out of hiding once a year for this occasion, and he dresses up as the Lakeside rooster, and he,"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68188",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Actually, I think that I..."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Y'know, you're not in England yet, you know that of course, and by the way, I want to just tell you that I lived in England for a few months,"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68189",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Well..."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "No tips.  I won't give you any tips of any kind."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I'll go."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Pardon me?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I'll go."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "You will?  Excellent, alright, this is great.  You will, really?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68190",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Alright.  This is really great.  Alright, we're going out. It's a date.  It's a scam.  Whatever, whatever, alright, I'll pick you up at what, eight O' clock?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Eight."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Eight. Eight O' clock."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Goodbye."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68191",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Whoa."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Would you hold this for me?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68192",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "What are these?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "They're Bavarian Death style  pretzels."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Oh.  Um, would it be terrible if I wanted to go home early?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68193",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Keymaster?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah, I have to judge who can drive home and who can't. I have to keep their keys."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "So it's an honor?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68194",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "So we can finally talk?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68195",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "He does this every year?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "It's the worst job since keymaster."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68196",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Thank-you."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I hereby surrender my duties as keymaster, give me a beer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68197",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Have a good sleep."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Bye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68198",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Alright, this is some of the things they wrote me; \"Glad I finally met you\", \"You always seemed nice\", \"Wish I could have known you more\"..."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Mine say stuff like \"Lloyd, see you around maybe\""
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Nobody knew me before tonight."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "They knew of you.  Now they know you."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah, but I feel like I fit in for the first time, you know? Like I just held them far away from me, and they did the same to me."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "That's cool then."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah.  I'm so glad we did this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68199",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "It's just you and your dad, right?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah, but that's an old story, you don't want to hear it."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Sure I do."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Well, my parents split up when I was thirteen, and... god, I actually had to... I went into court and I had to choose between the two of them.  So I chose my dad.  It just felt safer that way, you know?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Watch out for that glass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68200",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Thanks.  But either way it still feels..."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Twisted?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You know what?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You're a great date.  I've never really gone out with someone as basic as you."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Basic.  Hmmm."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "So what's your job this summer?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Job?  Being a great date."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No, I'm serious."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "So am I. I want to see you again.  I want to see you as much as I can before you leave.  I said it."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I only have something like sixteen weeks."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Sixteen weeks is a long time."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Then call me tomorrow."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Today is tomorrow."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Then call me later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68201",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Or, or I could always wear this one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68202",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Boy, this is a mother dictionary."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah, I've had it forever.  I used to have this thing with marking the words that I looked up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68203",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Nice one."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I think you should wear that."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You think so?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Mmmm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68204",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Oh."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I had a checklist in mind.  I thought that if babies were on the plane, the plane couldn't crash.  But all the babies were crying, and I thought they knew something I didn't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68205",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "After work?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I usually have a break after the dinner service, if you want to stop by."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Won't you see me later?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I know you think my job is strange.  You don't like old people, do you?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Me?  Sure I do."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Come on."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Well, except for one thing.  I used to work at a smorgasbord, and, and the old people would flock there, and, and they loved to eat.  And they just jammed their mouths, you know?  The used to eat with their mouths open, and you know, it's just too much for me.  You get to be thinking about how short life is, and how maybe, maybe has no meaning because you wake up and you're frying burgers"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68206",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "I think that's ageism, and that's, that's being prejudiced against people because they're old.  Maybe their mouths don't work as well as yours."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Really?  Um... I... well... you're really turning me around here,"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68207",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Stop by later."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Okay, bye, I will."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Okay, bye."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I'll see you there.  Bye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68208",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "You have to meet Bess."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Okay."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "She's amazing.  She's ninety-three, she's a writer, and I told her about you."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Wait, wait.  You told her about me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68209",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What did you say?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Well... just meet her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68210",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "It's okay, everybody does that."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I just don't want it to get too heavy.  I feel really overloaded. I have this theory of convergence, that good things always happen with bad things.  But I know you have to deal with them at the same time, but I just, I mean I don't know why they have to happen at the same time, I mean, I don't know why, I just wish I could work out... Am I just babbling?  Do you know what I mean?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "No."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I just can't have any social life right now."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Don't worry about it.  We're just having coffee.  We'll be anti- social."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Be friends?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah.  With potential."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Friends with potential."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68211",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah, just keep going first, keep going around.  Get the feel of it, feel the clutch, when you put it in a little?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "You know how it'll come out and feel... y'know... little more, little more... Yeah, yeah, that's right.  Go round just at first, keep it in first, just feel it."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I'm doing alright."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah.  Now, when you feel like you're confident,..."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "If you'll just maybe ease it into second."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68212",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Okay, this is important..."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Am I wrecking my car?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah, a little bit.  Listen, this is important.  When you feel it start to give, put the clutch in."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Oh.  I was putting the..."
+      }
+    ]
+  }
+]

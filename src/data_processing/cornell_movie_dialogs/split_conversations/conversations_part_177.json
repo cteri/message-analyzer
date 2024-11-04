@@ -1,0 +1,2418 @@
+[
+  {
+    "conversation_id": "conv_17601",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "There you are! Barnard, you'd better get your things together. We're leaving."
+      },
+      {
+        "speaker": "BARNARD",
+        "text": "Leaving?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes. I've just been talking with the porters. They're going to take us. We've got clothing, food, everything. Come on!"
+      },
+      {
+        "speaker": "BARNARD",
+        "text": "When are you going to start?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Right this very minute!  The porters are waiting for us on the plateau. And that Chinaman thought he could stop me. Come along."
+      },
+      {
+        "speaker": "BARNARD",
+        "text": "I think I'll stick around. I'll leave with the porters on their next trip."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You mean you don't want to go?"
+      },
+      {
+        "speaker": "BARNARD",
+        "text": "Well - I'm"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I see. You're afraid of going to jail, eh?"
+      },
+      {
+        "speaker": "BARNARD",
+        "text": "Well, no. You see, I got this plumbing business"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "All right! If you insist on being an idiot, I'm not going to waste time coaxing you.  How about you?"
+      },
+      {
+        "speaker": "BARNARD",
+        "text": "Oh, no - you don't want to go yet, honey.  She'll stick around too.  Is that right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17602",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "And mine's Conway."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "How do you do?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You've no idea, sir, how unexpected and very welcome you are. My friends and I - and the lady in the plane - left Baskul night before last for Shanghai, but we suddenly found ourselves traveling in the opposite direction"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17603",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "Where is your mad pilot?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "He must have had a heart attack, or perhaps the fumes. When the plane landed he was dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17604",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "You will need suitable clothes for the journey. It is not particularly far, but quite difficult."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17605",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "And the wine - excellent."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "I'm glad you like it. It's made right here in the valley."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17606",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "It's three thousand feet, practically straight down to the floor of the valley. The Valley of the Blue Moon, as we call it. There are over two thousand people in the Valley besides those here in Shangri-La."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Who and what is Shangri-La? You?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Goodness, no!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "So there are others?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Oh, yes."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Who, for instance?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "In time you will meet them all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17607",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "For a man who talks a great deal, it's amazing how unenlightening you can be."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "There are some things, my dear Conway, I deeply regret I may not discuss."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You know, that's the fourth time you've said that today. You should have a record made of it."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Shall we go inside? I should so like to show you some of our rare treasures."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17608",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "By the way, what religion do you follow here?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "We follow many."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17609",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "To put it simply, I should say that our general belief was in moderation. We preach the virtue of avoiding excesses of every kind, even including  the excess of virtue itself."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "That's intelligent."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "We find, in the Valley, it makes for better happiness among the natives. We rule with moderate strictness and in return we are satisfied with moderate obedience. As a result, our people are moderately honest and moderately chaste and somewhat more than moderately happy."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "How about law and order? You have no soldiers or police?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Oh, good heavens, no!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "How do you deal with incorrigibles? Criminals?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Why, we have no crime here. What makes a criminal?  Lack, usually. Avariciousness, envy, the desire to possess something owned by another. There can be no crime where there is a sufficiency of everything."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You have no disputes over women?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Only very rarely. You see, it would not be considered good manners to take a woman that another man wanted."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Suppose somebody wanted her so badly that he didn't give a hang if it was good manners or not?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Well, in that event, it would be good manners on the part of the other man to let him have her."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "That's very convenient. I think I'd like that."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "You'd be surprised, my dear Conway, how a little courtesy all around helps to smooth out the most complicated problems."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17610",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "But Mr. Chang, all these things - books, instruments, sculpture - do you mean to say they were all brought in over those mountains by porters?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "They were."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Well, it must have taken"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Centuries."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Centuries! Where did you get the money to pay for all those treasures?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Of course we have no money as you know it. We do not buy or sell or seek personal fortunes because, well, because there is no uncertain future here for which to accumulate it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17611",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "That would suit me perfectly. I'm always broke. How did you pay for them?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Our Valley is very rich in a metal called gold, which fortunately for us is valued very highly in the outside world. So we merely . . ."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "buy and sell?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Buy and - sell? No, no, pardon me, exchange ."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I see. Gold for ideas. You know Mr. Chang, there's something so simple and naive about all of this that I suspect there has been a shrewd, guiding intelligence somewhere. Whose idea was it? How did it all start?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "That, my dear Conway, is the story of a remarkable man."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Who?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "A Belgian priest by the name of Father Perrault, the first European to find this place, and a very great man indeed. He is responsible for everything you see here. He built Shangri-La, taught our natives, and began our collection of art. In fact, Shangri-La is Father Perrault."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "When was all this?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Oh, let me see - way back in 1713, I think it was, that Father Perrault stumbled into the Valley, half frozen to death. It was typical of the man that, one leg being frozen, and of course there being no doctors here, he amputated the leg himself."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "He amputated his own leg?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Yes. Oddly enough, later, when he had learned to understand their language, the natives told him he could have saved his leg. It would have healed without amputation."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Well, they didn't actually mean that."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Yes, yes. They were very sincere about it too. You see, a perfect body in perfect health is the rule here. They've never known anything different. So what was true for them they thought would naturally be true for anyone else living here."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Well, is it?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Rather astonishingly so, yes. And particularly so in the case of Father Perrault himself. Do you know when he and the natives were finished building Shangri-La, he was 108 years old and still very active, in spite of only having one leg?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "108 and still active?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "You're startled?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Oh, no. Just a little bowled over, that's all."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Forgive me. I should have told you it is quite common here to live to a very ripe old age. Climate, diet, mountain water, you might say. But we like to believe it is the absence of struggle in the way we live. In your countries, on the other hand, how often do you hear the expression, \"He worried himself to death?\" or, \"This thing or that killed him?\""
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Very often."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "And very true. Your lives are therefore, as a rule, shorter, not so much by natural death as by indirect suicide."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "That's all very fine if it works out. A little amazing, of course."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Why, Mr. Conway, you surprise me!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I surprise you? Now that's news."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "I mean, your amazement. I could have understood it in any of your companions, but you - who have dreamed and written so much about better worlds. Or is it that you fail to recognize one of your own dreams when you see it?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Mr. Chang, if you don't mind, I think I'll go on being amazed - in moderation, of course."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Then everything is quite all right, isn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17612",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "One moment. You say the High Lama is the only one who can give us any information?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "The only one."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "And he can arrange for the porters to take us back?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "The High Lama arranges everything, Mr. Conway."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Well, then he's the man I want to see.  Will you come along?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17613",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Yes. I'm afraid it does."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Shall we have another?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "No thanks. Not tonight if you don't mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17614",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "Charming, isn't she?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Yes, charming."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Your brother seems quite fascinated by her."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Why not? She's an attractive young woman."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Young? She arrived here in 1888. She was 20 at the time. She was on her way to join her betrothed - when her carriers lost their way in the mountains. The whole party would have perished but for meeting some of our people."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Amazing!  She still doesn't look over 20. When is she likely to grow old in appearance?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Not for years. Shangri-La will keep her youthful indefinitely."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Suppose she should leave it?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Leave Shangri-La! That's not likely. You couldn't drive her out."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "No, I mean about her appearance. If she should leave the valley - what would happen?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Oh, she'd quickly revert in her appearance to her actual age."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "It's weird.  Chang, how old are you?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Age is a limit we impose upon ourselves. You know, each time you Westerners celebrate your birthday, you build another fence around your minds."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17615",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "You must prevail upon him not to attempt the journey. He could never get through that country alive."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I can't let him go alone. It's suicide!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17616",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GLORIA",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "I've offered you some warm broth. I thought perhaps-"
+      },
+      {
+        "speaker": "GLORIA",
+        "text": "You get out of here! If any of you men think you can come busting in here-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17617",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "Please calm yourself. You'll soon be well if you do."
+      },
+      {
+        "speaker": "GLORIA",
+        "text": "I don't need any advice from you! Get me a doctor!"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "I'm sorry, but we have no doctors here."
+      },
+      {
+        "speaker": "GLORIA",
+        "text": "No doctors?  That's fine. That's just fine."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Please let me help you."
+      },
+      {
+        "speaker": "GLORIA",
+        "text": "Sure, you can help me! You can help me jump over that cliff! I've been looking and looking at the bottom of that mountain, but I haven't got the nerve to jump!"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "You shouldn't be looking at the bottom of the mountain. Why don't you try looking up at the top sometimes?"
+      },
+      {
+        "speaker": "GLORIA",
+        "text": "Don't preach that cheap, second- hand stuff to me!  Go on, beat it. Beat it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17618",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "Of course, the porters will be very well paid - that is, within reason."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "I'm afraid that wouldn't help. You see, we have no porters here."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "No porters here!!"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17619",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "What exactly do you mean by \"almost any time now\"?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Well, we've been expecting this particular shipment for the past two years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17620",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "You know, it's very, very strange, but when you saw me in the corridor, I was actually on my way to you. I bring the most amazing news.  The High Lama wishes to see you, Mr. Conway."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "The High Lama! Who in blazes is he?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17621",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "Amazing, Mr. Chang. This place is amazing! And that marble quarry in the valley is simply magnificent. Oh, I've looked around. I've seen everything. Your woodworkers and your cloth-weavers - they all seem so very, very happy."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Yes."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "You may not know it, Mr. Chang, but right here you have Utopia.[15]"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "You've very kind Mr. Lovett."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "I don't mean it in that sense. I only give credit where credit is due.  Er, Mr. Chang, I'm very anxious to have you realize that I never for a moment believed that ridiculous kidnapping story."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Oh, I'm so glad."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Simply preposterous. Do you know what I did last night? Last night, Mr. Chang, I held a sort of a self- inventory. I said to myself last night, Mr. Chang, I said, \"Lovey\"  Mr. Lovett! \"Mr. Lovett,\" I said, \"you are an ungrateful fool . . . \""
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Why, no."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "\"Ungrateful fool . . . !\"  Those were my very words to myself last night. \"Here are these people in Shangri-La doing everything in their power to make our stay comfortable and happy and I haven't done one single thing to show my appreciation.\""
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Now, what would you like to do?"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Well, Mr. Chang, I thought, with your permission of course, and while I'm waiting for these porters, I would like to organize classes for those children in the valley and teach them something practical and something useful. Geology."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Splendid!"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Isn't it? Isn't it! You know I was a professor for twenty years? - and a very good one."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "I'm sure you were. When would you like to start?"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Oh, immediately."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Then it's done."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Oh, thank you. Thank you!"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17622",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "We were just going to bury him when you came along."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Pardon me"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17623",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "In that event, we better make arrangements to get some porters immediately. Some means to get us back to civilization."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Are you so certain you are away from it?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "As far away as I ever want to be."
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Oh, dear."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17624",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "Oh, yes. There is a tribe of porters some five hundred miles from here. That is our only contact with the outside world. Every now and again, depending upon favorable weather of course, they make the journey."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "How can we get in touch with them?"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "In that respect, you are exceedingly fortunate. We are expecting a shipment from them almost any time now"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17625",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CHANG",
+        "text": "The High Lama is the only one from whom any information can come."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Don't believe him, Bob. He's just trying to get out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17626",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "A fine trick! Smart, aren't you? What a pack of lies you told us about those porters! Of course the minute they arrive, we can make arrangements to leave. If they take us. But you knew very well you'd tell them not to!"
+      },
+      {
+        "speaker": "CHANG",
+        "text": "Now, my dear boy. You shouldn't"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You've been lying to us ever since we got here! Apparently it's worked with some people. Perhaps it's because they lack the courage to do anything about it. But not me, Chang. You're up against the wrong man. I'll get out of here, if I have to blow this fantastic place into the valley! I'll get outporters or no porters!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17627",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "MARIA",
+        "text": "It's all your fault! It was all arranged until he spoke to you! Why can't you leave us alone?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Do you mean to tell me you want to leave Shangri-La?"
+      },
+      {
+        "speaker": "MARIA",
+        "text": "I'll die if I have to stay here another minute! I've waited a long time for this chance to go, and you're not going to stop me now. If I have to, I'll go alone. It was I who bribed the porters. If it weren't for me, you'd never get out!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I thought the porters had instructions from the High Lama not to take anyone."
+      },
+      {
+        "speaker": "MARIA",
+        "text": "The High Lama? Who pays any attention to him? The porters laugh at the High Lama. All they want to know is how much gold he will give them. Well, I gave them more gold. I've been stealing it for a year. I'd do anything to get out of this place. To get away from that High Lama - the one who calls himself Father Perrault! Why, he's been insane for years!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Father Perrault is dead."
+      },
+      {
+        "speaker": "MARIA",
+        "text": "He's dead? That's fine. You won't see me shedding any tears over him!  Oh George, you must take me with you!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Aren't you afraid to leave? You don't want to look like an old woman, do you?"
+      },
+      {
+        "speaker": "MARIA",
+        "text": "Old woman? Chang told you that, didn't he?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MARIA",
+        "text": "I thought so!  He tells everyone I'm old. He wants them to stay away from me. He can't stand it when anyone comes near. He's punished me for every minute I've spent with George. If it weren't for him, I would have been out of here long ago, but he always stops me. Six months ago, I tried to escape and he locked me in a dark room. I nearly went crazy.  Look at me, Mr. Conway, do I look like an old woman? Is this the skin of an old woman? Look into my eyes and see if these are the eyes of an old woman?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17628",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "You're lying, aren't you?"
+      },
+      {
+        "speaker": "MARIA",
+        "text": "No, Mr. Conway, I'm not lying. What reason could I have for lying? The chances are that we'll never come out of that horrible trip alive, but I'd rather die out there in a snowstorm and be buried alive, than to stay here one more minute now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17629",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "MARIA",
+        "text": "Are you taking me?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Yes, of course. Certainly. Come on!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17630",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "MARIA",
+        "text": "No, I can't! I can't! You've got to let me rest! You've got to let me rest!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Hey!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17631",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "HIGH LAMA",
+        "text": "Sit here, near me. I am an old man and can do no one any harm."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Are you the High Lama?"
+      },
+      {
+        "speaker": "HIGH LAMA",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17632",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "HIGH LAMA",
+        "text": "I trust you have been comfortable at Shangri-La, since your arrival."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Personally, I've enjoyed your community very much. But my friends do not care for this mystery. They are determined to leave as soon as"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17633",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "It's astonishing - and incredible, but"
+      },
+      {
+        "speaker": "HIGH LAMA",
+        "text": "What is it, my son?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You're the man Chang told me about! You're the first - who - two hundred years ago  you're still alive, Father Perrault!"
+      },
+      {
+        "speaker": "HIGH LAMA",
+        "text": "Sit down, my son.  You may not know it, but I've been an admirer of yours for a great many years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17634",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "HIGH LAMA",
+        "text": "That Conway seemed to belong here. In fact, it was suggested that someone be sent to bring him here."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "That I be brought here? Who had that brilliant idea?"
+      },
+      {
+        "speaker": "HIGH LAMA",
+        "text": "Sondra Bizet."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Oh, the girl at the piano?"
+      },
+      {
+        "speaker": "HIGH LAMA",
+        "text": "Yes. She has read your books and has a profound admiration for you, as have we all."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Of course I have suspected that our being here is no accident. Furthermore, I have a feeling that we're never supposed to leave. But that, for the moment, doesn't concern me greatly. I'll meet that when it comes. What particularly interests me at present is, why was I brought here? What possible use can I be to an already thriving community?"
+      },
+      {
+        "speaker": "HIGH LAMA",
+        "text": "We need men like you here, to be sure that our community will continue to thrive. In return for which, Shangri-La has much to give you. You are still, by the world's standards, a youngish man. Yet in the normal course of existence, you can expect twenty or thirty years of gradually diminishing activity. Here, however, in Shangri- La, by our standards your life has just begun, and may go on and on."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "But to be candid, Father, a prolonged future doesn't excite me. It would have to have a point. I've sometimes doubted whether life itself has any. And if that is so, then long life must be even more pointless. No, I'd need a much more definite reason for going on and on."
+      },
+      {
+        "speaker": "HIGH LAMA",
+        "text": "We have reason. It is the entire meaning and purpose of Shangri-La. It came to me in a vision, long, long, ago. I saw all the nations strengthening, not in wisdom, but in the vulgar passions and the will to destroy. I saw their machine power multiply until a single weaponed man might match a whole army. I foresaw a time when man, exulting in the technique of murder, would rage so hotly over the world that every book, every treasure, would be doomed to destruction. This vision was so vivid and so moving that I determined to gather together all the things of beauty and culture that I could and preserve them here against the doom toward which the world is rushing.  Look at the world today! Is there anything more pitiful?  What madness there is, what blindness, what unintelligent leadership! A scurrying mass of bewildered humanity crashing headlong against each other, propelled by an orgy of greed and brutality. The time must come, my friend, when this orgy will spend itself, when brutality and the lust for power must perish by its own sword. Against that time is why I avoided death and am here, and why you were brought here. For when that day comes, the world must begin to look for a new life. And it is our hope that they may find it here. For here we shall be with their books and their music and a way of life based on one simple rule: Be Kind.  When that day comes, it is our hope that the brotherly love of Shangri-La will spread throughout the world.  Yes, my son, when the strong have devoured each other, the Christian ethic may at last be fulfilled, and the meek shall inherit the earth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17635",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "LAMA",
+        "text": "Yes, of course, your brother is a problem. It was to be expected."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I knew you'd understand. That's why I came to you for help."
+      },
+      {
+        "speaker": "LAMA",
+        "text": "You must not look to me for help. Your brother is no longer my problem. He is now your problem, Conway."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Mine?"
+      },
+      {
+        "speaker": "LAMA",
+        "text": "Because, my son, I am placing in your hands the future and destiny of Shangri-La.  For I am going to die."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17636",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "LAMA",
+        "text": "I have waited for you, my son, for a long time. I have sat in this room and seen the faces of newcomers. I have looked into their eyes and heard their voices - always in hope that I might find you . My friend, it is not an arduous task that I bequeath, for our order knows only silken bonds. To be gentle and patient, to care for the riches of the mind, to preside in wisdom, while the storm rages without."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Do you think this will come in my time?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17637",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Bob! I think I hear motors!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Colonel, wait a minute, they may be here now!  Say George, get down on that field and guide those planes in when they get here."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17638",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "And be sure that none of the natives get in."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Hello? Colonel?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17639",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "The power house - they've blown it up! The planes can't land without lights."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Come on! We'll burn the hangar. That will make light for them!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17640",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "All right, go ahead!  We go on to the next plane. Bring out any people that are left."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Right, Bob."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17641",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Bob, these are all that are left."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Come on! Quick! This way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17642",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "The next time you're in wild country like this, keep in touch with the British Consul."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Aha - very good, Freshie.[3] Very good. You'd better put his name on the list and make out a report later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17643",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Just what I needed too."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Just this once, Bob. I feel like celebrating. Just think of it, Bob - a cruiser sent to Shanghai just to take you back to England. You know what it means.  Here you are. Don't bother about those cables now. I want you to drink with me.  Gentlemen, I give you Robert Conway - England's new Foreign Secretary."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17644",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Hurray!"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "How I'm going to bask in reflected glory!  People are going to point to me and say, \"There goes George Conway - brother of the Foreign Secretary.\""
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Don't talk nonsense. Give me the bottle."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17645",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Hello, Freshie. Did you make that report out yet?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes, Bob."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Did you say we saved ninety white people?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Hurray for us. Did you say that we left ten thousand natives down there to be annihilated? No, you wouldn't say that. They don't count."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You'd better try to get some sleep, Bob."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Just you wait until I'm Foreign Secretary. Can't you just see me, Freshie, with all those other shrewd, little Foreign Secretaries?  You see, the trick is to see who can out-talk the other. Everybody wants something for nothing, and if you can't get it with smooth talk, you send an army in. I'm going to fool them, Freshie. I'm not going to have an army. I'm going to disband mine. I'm going to sink my battleships - I'm going to destroy every piece of warcraft. Then when the enemy approaches we'll say, \"Come in, gentlemen - what can we do for you?\"  So then the poor enemy soldiers will stop and think. And what will they think, Freshie? They'll think to themselves - \"Something's wrong here. We've been duped. This is not according to form. These people seem to be quite friendly, and why should we shoot them?\" Then they'll lay down their arms. You see how simple the whole thing is? Centuries of tradition kicked right in the pants  and I'll be slapped straight into the nearest insane asylum."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17646",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Don't worry, George. Nothing's going to happen. I'll fall right into line. I'll be the good little boy that everybody wants me to be. I'll be the best little Foreign Secretary we ever had, just because I haven't the nerve to be anything else."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Do try to sleep, Bob."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Huh? Oh, sure, Freshie. Good thing, sleep."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17647",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Oh, stop it!"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "The bloke up there looks a Chinese, or a Mongolian, or something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17648",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "George, what are you going to do?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I'm going to drag him out and force him to tell us what his game is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17649",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "What are these people?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I don't know. I can't get the dialect."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17650",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Oh George, come on."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "It's not knowing that's so awful, Bob. Not knowing where you're going, or why, or what's waiting when you get there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17651",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "What is it? Has he fainted?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "It looks like it.  Smell those fumes?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17652",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "He's dead."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Dead?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17653",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "See that spot?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "That's where we were this morning. He had it marked. Right on the border of Tibet. Here's where civilization ends. We must be a thousand miles beyond it - just a blank on the map."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What's it mean?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "It means we're in unexplored country - country nobody ever reached."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17654",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Hello, George.  Cigarette?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Thanks.  I suppose all this comes under the heading of adventure."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "We've had plenty of it the last few days."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "It's far from over, from what I can see. This place gives me the creeps, hidden away like this - no contact with civilization. Bob, you don't seem concerned at all."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Oh, I'm feeling far too peaceful to be concerned about anything.  I think I'm going to like it here."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You talk as though you intend on staying."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Something happened to me, when we arrived here, George, that - well - did you ever go to a totally strange place, and feel certain that you've been there before?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You're a strange bird. No wonder Gainsford calls you the man who always wanted to see what was on the other side of the hill."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17655",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Don't you ever want to see what's on the other side of the hill?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What could there be except just another hill? In any event, I'm not curious. At the moment, it seems to me we should be concerned about getting home. I'd give anything to be in London right now."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Of course you would. If ever we get out of this place, the thing for you to do is to take that job with Helen's father."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What do you mean if we should get out?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Did I say \"if\"?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "That's what you said."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Well - I mean"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What's on your mind, Bob? You talk as though we're going to have trouble getting out of here."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "George, I've been putting things together. Do you notice the resemblance between those natives and the pilot? And why did those clothes materialize so conveniently when they met us at the plane? Chang himself just said that they never venture beyond that point. What brought them there? Unless it was to meet us?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Chang's first question was about the pilot."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "There must be some connection between the plane and this place. They must have deliberately brought us here. Why, Bob? What reason could they have for doing a thing like that?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "That's what's on the other side of the hill."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17656",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Well - I heard that if you want a man's wife, she's yours, if he's got any manners."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Nothing about the porters yet?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Porters?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Good heavens, Bob, we've been here two weeks and we haven't found out a thing."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Well, we haven't been murdered in our beds yet, George, have we?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I'm afraid the porters are just a myth.  I guess we never will know why we're here, or how long we're going to be held prisoners."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Shhh!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17657",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "George, what do you think you're doing?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Let me go, Bob!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17658",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "George, come back!"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Chang! Chang! Chang!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17659",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Let me up! Let me up!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "All right. Sorry, George."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17660",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "What about the porters?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Porters?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Didn't you find out anything about the porters?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Why - I'm sorry - but I"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17661",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "For heaven's sake, Bob, what's the matter with you? You went out there for the purpose of"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "George. George - do you mind? I'm sorry, but I can't talk about it tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17662",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "George - you're behaving like a child. You haven't opened your mouth in two weeks."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I don't see that there's anything to say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17663",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "I said we're getting out of here. Back to civilization. I made a deal with the porters. They brought in a load of books or something, and they're leaving tomorrow at dawn. They're waiting for us five miles outside the valley. Come on, get your things together. Where's your top coat?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You can't leave, George."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Why not? What's going to stop me?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You mustn't. You've got to stay here now."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Stay here?!  What's the matter with you, Bob? You've been acting strangely ever since we came here.  I've never seen you like this. Why can't we leave? What's stopping us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17664",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Something grand and beautiful, George. Something I've been searching for all my life. The answer to the confusion and bewilderment of a lifetime. I've found it, George, and I can't leave it. You mustn't either."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I don't know what you're talking about. You're carrying around a secret that seems to be eating you up. If you'll only tell me about it."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I will, George. I want to tell you. I'll burst with it if I don't. It's weird and fantastical and sometimes unbelievable, but so beautiful!  Well, as you know, we were kidnapped and brought here . . ."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17665",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Well, I - I really don't know what to say. Except that you must be completely mad."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "So you think I'm mad?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What else can I think after a tale like that?  Good heavens, Bob, things like that don't happen today. We're living in the twentieth century."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "So you think it's all nonsense, huh?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I think you've been hypnotized by a lot of loose-brained fanatics. Why, I wouldn't believe it if I heard it in an English monastery. Why should I swallow it here in Tibet?  How do you know the things they told you are true? Did they show you any proof?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I don't need any proof."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I knew there was a reason I hated this place. I'd give half my life to fly over it with a load of bombs just for what they've done to you. How do you know the things they told you are true? Did they show you any proof? All this talk about the Lamas being hundreds of years old. How do you know? Did you see their birth certificates?  I can't believe it, Bob. A bunch of decrepit old men sit around and dream about reforming the world. And you, Bob Conway - two-feet-on- the-ground Conway - want to join them. It's horrible."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Is that all my story meant to you?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What else could it mean to me? It's obviously a lot of bunk."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Then you'd better go, George. This is no place for you."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "It's no place for you, Bob. Think of what's waiting for you. Do you want to stay here until you're half dead? Until your mind starts corroding like the rest of them?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Please, George. I don't want to talk about it anymore."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You've got to talk about it. What about me? You said they stole that plane to bring you here. I didn't want to come. You owe me some responsibility."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I'm tired of owing you things. You're free to go. Go ahead."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "It's that girl - that girl has twisted and turned"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Enough! Never mind the girl!  Well, why don't you go?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17666",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Look here, Bob, Ever since I can remember, you've looked after me. Now I think you're the one that needs looking after. I'm your brother, Bob. If there's something wrong with you, let me help you."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Oh, George . . ."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Besides, I - I don't feel like making that trip alone, Bob."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "George, you couldn't possibly stay here, could you?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I'd go mad!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "George, I may be wrong, I may be a maniac. But I believe in this, and I'm not going to lose it.  You know how much I want to help you, but this is bigger, stronger if you like than brotherly love. I'm sorry, George. I'm staying."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Well, I can't think of anything more to say. Goodbye, Bob."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17667",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "George, are you sure of the porters? About their taking care of you, I mean?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Oh yes. It's all set. Maria made the arrangements."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Maria?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes, the little Russian girl."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "What's she got to do with it?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "She's going with me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17668",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "You can't take her away from here!"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Because you can't. Do you know what will happen to her if she leaves Shangri-La? She's a fragile thing that can only live where fragile things are loved. Take her out of this valley and she'll fade away like an echo."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What do you mean - \"fade away like an echo\"?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "She came here in 1888!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17669",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "This would be funny - if it wasn't so pathetic. Why, she isn't a day over twenty!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You're wrong, George."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I'm not wrong. She told me so. Besides, she wouldn't have to tell me. I'd know anyway.  I found out a lot of things last night.  I'm not ashamed of it either. It's probably one of the few decent things that's ever happened in this hellish place."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17670",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "So everyone is serenely happy in Shangri-La? Nobody would ever think of leaving?  It's all just so much rot! She's pleaded with me ever since I came here to take her away from this awful place. She's cried in my arms for hours, for fear I'd leave her behind. And what's more, she's made two trips to the plateau to bribe the porters - for me!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I don't believe it! I don't believe a word of it!"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "All right. I'll prove it to you! You believe everything they've told you - without proof! I'll prove my story!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17671",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "She was kidnapped and brought here two years ago just as we were, Bob."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I don't believe it! I can't believe it. She's lying.  You're lying. You're lying! Every word you've been saying is a lie! Come on, say it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17672",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "You say the porters are waiting for us?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "The clothes?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes, everything!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "What about the others?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I've already asked them. They're afraid to make the trip. We'll have to send an expedition back after them."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Come on! We're wasting time!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17673",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Lucky thing for me you snapped out of it, too. You saved my life. I never could have made it alone."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "What was that?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "was saying"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Can't you shut up? Must you go on babbling like an idiot?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17674",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Bob, can't you get them to wait for us? They're leaving us farther behind every day."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "There's nothing that would suit them better than to lose us, but we must go on.  Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17675",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Target practice again! One of these days they're going to hit us."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "As long as they keep on aiming at us, we're safe.  Come now, child."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17676",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Where did you come from?"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "I'm Alexander P. Lovett, sir."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Why aren't you registered through our office?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17677",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Where were you hiding?"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Hiding? Oh, no. Hunting - I was in the interior - hunting fossils. This morning I looked up suddenly"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I know - and a war broke out right over your head."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17678",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "No. That's not possible! If we had landed, we all would have been awakened."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Of course. We never left the air. I know - I didn't sleep the whole night long."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "That fellow got on at Baskul."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "What's he doing? Where's he taking us? He may be a maniac for all we know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17679",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "Good."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "What if he refuses?"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "We'll smash his face in. That's what we'll do."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Brilliant!  Can anyone here fly a plane?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17680",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "I guess we're in for it."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "In for what?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I don't know. He must have had some purpose in taking the plane away from Fenner.  When he lands, we'll find out."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "You mean to tell me you're not going to do anything until we land?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "What do you suggest?"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Why, you - you Look here - he may dash us to pieces!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "It might afford you a great deal of relief.  Now gentlemen, I'm going back to sleep. Oh, and I was having such a peaceful dream.  As soon as he lands, let me know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17681",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Imagine having all that fuel there, waiting for us!  George, something tells me our journey is just beginning."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Where are we going? Huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17682",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Huh? I give it up. But this not knowing where you're going is exciting anyway."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Well, Mr. Conway, for a man who is supposed to be a leader, your do- nothing attitude is very disappointing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17683",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "At the mercy of a mad pilot."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "We'd be eternally grateful if you"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17684",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Oh, please. I hope you're not going to run away this time."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "My name's Sondra."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "hope you'll forgive me for"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17685",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "You know, each time I see you, I hear that music. What is it?"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Oh, you mean my pigeons."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17686",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Was this your idea?"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Yes. Hold this pigeon."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You suggested my being brought here, didn't you? What gave you the idea I'd fit in?"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "That was easy. I read your books."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Oh, you've read my books. You do more things! What have my books got to do with it?"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "I saw a man whose life was empty."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "A man whose life was empty!"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Oh, I know. It was full of this and full of that. But you were accomplishing nothing. You were going nowhere, and you knew it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17687",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "SONDRA",
+        "text": "As a matter of fact, all I saw was a little boy whistling in the dark."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "A little boy whistling in the dark!? Do you realize that there is a British cruiser waiting at Shanghai, smoke pouring out of its funnels, tugging at its moorings, waiting to take Mr. Conway back to London? Do you know that at this minute there are headlines shrieking all over the world the news that Conway is missing? Does that look like a man whose life is empty?"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You're absolutely right. And I had to come all the way to a pigeon house in Shangri-La to find the only other person in the world who knew it. May I congratulate you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17688",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "SONDRA",
+        "text": "I really only brought you here to show you my pigeons!"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Don't worry about the pigeons. From now on, you can put flutes on my tail and bells on my feet!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17689",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "There are so many questions I'd like to ask you, I hardly know where to begin."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "I'll help you. To begin with, you'd like to know what I'm doing here. Whether I was born here."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Well, I was almost born here. It took place in that wild country beyond the pass. My father and mother were in a party of explorers who got lost and wandered around for a year. When Chang found us, only Father and I were alive. But he was too weak to climb the pass. He died on the way. I was brought up here by Father Perrault himself."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Father Perrault! I envy you. I talked to him last night."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Yes, I know."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Father Perrault. Of course I can't quite get used to this age thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17690",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "SONDRA",
+        "text": "I'm thirty."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Oh, you're going to make life very simple."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17691",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "SONDRA",
+        "text": "What is?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "All of it. Father Perrault and his magnificent history. This place, hidden away from the rest of the world, with its glorious concepts, and now you come along and confuse me entirely."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "I'm sorry. I thought I was to be the light. But why do I confuse you? Am I so strange?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "On the contrary, you're not strange. And that in itself is confusing. I have the same idea about Shangri- La. The sense that I've been here before, that I belong here."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "I'm so glad."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I can't quite explain it, but everything is somehow familiar. The very air that I breathe. The Lamasery, with its feet rooted in the good earth of this fertile valley, while its head explores the eternal. All the beautiful things I see, these cherry blossoms, you - all somehow familiar.  I've been kidnapped and brought here against my will. A crime, a great crime, yet I accept it amiably, with the same warm amiability one tolerates only from a very dear and close friend. Why? Can you tell me why?"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Perhaps because you've always been a part of Shangri-La without knowing it."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I wonder."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "I'm sure of it. Just as I'm sure there's a wish for Shangri-La in everyone's heart. I have never seen the outside world. But I understand there are millions and millions of people who are supposed to be mean and greedy. Yet I just know that secretly they are all hoping to find a garden spot where there is peace and security, where there's beauty and comfort, where they wouldn't have to be mean and greedy. Oh, I just wish the whole world might come to this valley."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Then it wouldn't be a garden spot for long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17692",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Beautiful! I'm waiting for the bump."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Bump?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "When the plane lands at Shangri-La and wakes us all up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17693",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "CONWAY",
+        "text": "Ouch!"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "You see, it's not a dream."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You know, sometimes I think that it's the other that's the dream. The outside world. Have you never wanted to go there?"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Goodness, no. From what you tell me about it, it certainly doesn't sound very attractive."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "It's not so bad, really. Some phases are a little sordid, of course. That's only to be expected."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Oh, the usual reasons. A world full of people struggling for existence."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Struggling, why?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Well, everybody naturally wants to make a place for himself, accumulate a nest egg, and so on."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "You know, if you keep on asking that, we're not going to get anywhere. And don't ask me why."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "I was just going to."
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "It's the most annoying word in the English language. Did you ever hear a child torture his parent with it?  Mother's little darling musn't stick her fingers in the salad bowl. Why? Because it isn't lady- like to do that. Why? Because that's what forks are made for, darling."
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Why, mother?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Because mother read it in a book somewhere, and if mother's little darling doesn't take her fingers out of the salad bowl this instant, mother's going to wring her little neck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17694",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "SONDRA",
+        "text": "Would you like to wring my little neck?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "I'd love it!"
+      },
+      {
+        "speaker": "SONDRA",
+        "text": "Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17695",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "SONDRA",
+        "text": "I've thought about it for years.  I knew you'd come. And I knew if you did - you'd never leave.  Am I forgiven for sending for you?"
+      },
+      {
+        "speaker": "CONWAY",
+        "text": "Forgiven.  You know, when we were on that plane, I was fascinated by the way its shadow followed it. That silly shadow racing along over mountains and valleys, covering ten times the distance of the plane. It was always there to greet us with outstretched arms when we landed. And I've been thinking that somehow you're that plane, and I'm that silly shadow. That all my life I've been rushing up and down hills, leaping rivers, crashing over obstacles, never dreaming that one day that beautiful thing in flight would land on this earth and into my arms."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17696",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "It would serve you right if you were left behind."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "How could I know that a war was going to break out right over my head!  Right over my head. Oh, my word! I tell you, those Chinese were pouncing on me from every direction. I had to get into these ridiculous clothes in order to escape."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17697",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Couldn't you arrange to make a little less noise?"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "I tell you, we're going west, and Shanghai is east of here!"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Be quiet! Fenner's the best pilot in China. He knows what he's doing."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "It's Fenner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17698",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "What do you want him to do?"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "I don't know. I'm a paleontologist, not a Foreign Secretary."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17699",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Mountain grass. It's good, too. Here, have some. I've read of people lasting thirty days on this stuff."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_17700",
+    "movie_id": "m124",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Why, he's speaking English."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "English!"
+      }
+    ]
+  }
+]

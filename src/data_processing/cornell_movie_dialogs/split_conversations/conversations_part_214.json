@@ -1,0 +1,2058 @@
+[
+  {
+    "conversation_id": "conv_21301",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "TAXI DRIVER",
+        "text": "Where to, madame?"
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Can you recommend a restaurant?"
+      },
+      {
+        "speaker": "TAXI DRIVER",
+        "text": "Well, there's Pruniers if you care for seafood. If you want to lunch in the Bois, there's..."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Where do you eat?"
+      },
+      {
+        "speaker": "TAXI DRIVER",
+        "text": "At Père Mathieu's."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Where is that?"
+      },
+      {
+        "speaker": "TAXI DRIVER",
+        "text": "It's just a place for workmen."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Where is it?"
+      },
+      {
+        "speaker": "TAXI DRIVER",
+        "text": "Eight blocks down in the Rue de Poivrel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21302",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "RAKONIN",
+        "text": "Your Highness."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "How do you do, my friend."
+      },
+      {
+        "speaker": "RAKONIN",
+        "text": "Your Highness, forgive this intrusion, but..."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "What is it, Rakonin? Did you lose your job?"
+      },
+      {
+        "speaker": "RAKONIN",
+        "text": "No, madame, something of the utmost importance... it concerns your jewels."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "My jewels?!"
+      },
+      {
+        "speaker": "RAKONIN",
+        "text": "I remember one birthday of His Majesty, our beloved Czar... I had the honor of being on guard at the summer palace... I still see you bending before His Majesty... You wore your diadem and a necklace... your face seemed to be lighted by the jewels."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Why do you bring this up after so many years?"
+      },
+      {
+        "speaker": "RAKONIN",
+        "text": "They are here!... Your jewels!... Here in Paris!"
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Alexis! Do you know what you are saying?"
+      },
+      {
+        "speaker": "RAKONIN",
+        "text": "This morning three Soviet agents arrived. I overheard a telephone conversation with Mercier, the jeweler. Your Highness, they are going to sell them!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21303",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "RAKONIN",
+        "text": "I am sorry... I have to leave."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Thank you so much, my friend. I will get in touch with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21304",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "BUZHARDT",
+        "text": "Sir, the charges are serious -- first, abuse of power; second, obstruction of justice; third, failure to cooperate with Congress; and last, bombing Cambodia ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "They can't impeach me for bombing Cambodia.  The President can bomb anybody he wants."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21305",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "BUZHARDT",
+        "text": "Sir, if I may ... echo my concern ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Then tell Richardson to fire him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21306",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "You're lawyers.  How can you let this shit go by!  Look!  This?  Nixon can't say this."
+      },
+      {
+        "speaker": "BUZHARDT",
+        "text": "You did say it, sir."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Never.  I never said that about Jews!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21307",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "BUZHARDT",
+        "text": "We could check the tape again, sir."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "You don't need to check the tape.  I know what I said."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21308",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "For Christ's sake, it soils my mother's memory.  Do you think I want the whole goddamn world to see my mother like this?  Raising a dirty mouth!"
+      },
+      {
+        "speaker": "BUZHARDT",
+        "text": "But sir, we'll have to start over from the beginning.  We don't have the staff to ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21309",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "CUSHMAN",
+        "text": "Mr. President, I don't know what to say.  As soon as we learned from the Secret Service you were en route, the Director was notified.  He should be here any minute."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Where the hell is he?"
+      },
+      {
+        "speaker": "CUSHMAN",
+        "text": "Uh, he's rushing back from his tennis game, sir ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "So ... let's go ..."
+      },
+      {
+        "speaker": "CUSHMAN",
+        "text": "He told me to take you to his conference room."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "No.  His office.  I want a very private conversation.  I don't want to be bugged."
+      },
+      {
+        "speaker": "CUSHMAN",
+        "text": "Then his office will be fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21310",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "How's the job coming, Bob?"
+      },
+      {
+        "speaker": "CUSHMAN",
+        "text": "Frankly, sir, it stinks.  I have no access.  I'm lucky Helms lets me have a staff."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "We'll see about that ..."
+      },
+      {
+        "speaker": "CUSHMAN",
+        "text": "He's nervous, sir.  He's heard you're looking for a new director."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Well, he certainly isn't acting like it."
+      },
+      {
+        "speaker": "CUSHMAN",
+        "text": "That's Helms.  He's \"sang froid,\" a world-class poker player."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Yeah?  Well, I own the fucking casino."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21311",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "The bigger problem I see is this guy who was arrested, McCord -- James McCord -- he headed up security for the Committee to Re-Elect.  He turns out to be ex-CIA."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "\"Ex-CIA\"?  There's no such thing as \"ex-CIA,\" John -- they're all Ivy League Establishment.  Is he one of these guys with a beef against us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21312",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "So, what about those Watergate clowns, John?  This fuck Sirica's crazy. Thirty-five-year sentences!  There were no weapons.  Right?  No injuries. There was no success!  It's just ridiculous."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Sirica's just trying to force one of them to testify.  But they're solid."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Then what about this Washington Post crap?  Woodwind and Fernstein?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21313",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "Mr. President, Hunt wants more money. Another hundred-and-thirty thousand."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Son of a bitch."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "He says if he doesn't get it right away, he's going to blow us out of the water.  And he means it.  Ever since his wife died in the plane crash, he's been over the edge."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Pay him.  Pay him what he wants."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21314",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "Executive clemency ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "What?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Hunt has nothing to lose now.  Pardon all of them.  Nobody's going to investigate a crime for which the criminals have already been pardoned."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I like that.  That's a solution."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21315",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Mitchell?  Mitchell's ... family."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Either it goes to Mitchell or it comes here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21316",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "How much do you need?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Uh, I would say these people are going to cost a million dollars over the next two years ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "We could get that."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Uh huh ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "We could get a million dollars.  We could get it in cash.  I know where it could be gotten."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21317",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "I'm still not confident we can ride through this.  Some people are going to have to go to jail.  Hunt's not the only problem.  Haldeman let me use the $350,000 cash fund in his safe to make the payments.  Ehrlichman had a role, a big role, in the Ellsberg break-in. And I'm ... uh, I think it's time we begin to think in terms of cutting our losses."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "You say, John, cut our losses and all the rest.  But suppose the thing blows and they indict Bob and the others. Jesus, you'd never recover from that, John.  It's better to fight it out instead, and not let people testify ..."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Sir, I still don't think, uh, we can contain it anymore.  There's a cancer on the presidency.  And it's growing. With every day that ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Jesus, everything is a crisis among the upper intellectual types, the softheads.  The average people don't think it's much of a crisis.  For Christ's sake, it's not Vietnam ... no one's dying here.  Isn't it ridiculous?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "I agree it's ridiculous but --"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I mean, who the hell cares about this penny-ante shit.  Goldwater put it right.  He said: \"Well for Christ's sake, everybody bugs everybody else; we know that.\" ... It's the cover-up, not the deed that's really bad here.  If only Mitchell could step up and take the brunt of it; give them the hors d'oeuvre and maybe they won't come back for the main course.  That's the tragedy of all this.  Mitchell's going to get it in the neck anyway. It's time he assumed some responsibility."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21318",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "He's right.  Maybe it's time to go to the hang-out route, John.  A full and thorough investigation ... We've cooperated with the FBI, we'll cooperate with the Senate.  What do we have to hide?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "No, we have nothing to hide."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "We have nothing to hide.  But the only flaw in the plan is that they're not going to believe the truth.  That is the incredible thing!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21319",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "You want me to put it all in writing? Over my signature?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Nobody knows more about this thing than you do, John."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21320",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "I'm not going to be the scapegoat for this.  Haldeman and Ehrlichman are in just as deep as me."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "John, you don't want to start down that road.  I remember what Whittaker Chambers told me back in '48 -- and he was a man who suffered greatly -- he said, \"On the road of the informer, it's always night.\"  This is beyond you or even me.  It's the country, John.  It's the presidency."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "I understand that, sir."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Good.  You know how I feel about loyalty.  I'm not going to let any of my people go to jail.  That I promise you.  The important thing is to keep this away from Haldeman and Ehrlichman. I'm trusting you to do that, John.  I have complete confidence in you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21321",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "I was sorry to hear about your wife."
+      },
+      {
+        "speaker": "HUNT",
+        "text": "Yes ... I got the money."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "The President would like to know if that was the last payment."
+      },
+      {
+        "speaker": "HUNT",
+        "text": "I'll bet he would."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Is it?"
+      },
+      {
+        "speaker": "HUNT",
+        "text": "In Richard Nixon's long history of underhanded dealings, he has never gotten better value for his money.  If I were to open my mouth, all the dominoes would fall."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21322",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "How the hell do you have the temerity to blackmail the President of the United States?"
+      },
+      {
+        "speaker": "HUNT",
+        "text": "That's not the question, John.  The question is: Why is he paying?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "To protect his people."
+      },
+      {
+        "speaker": "HUNT",
+        "text": "I'm one of his people.  The Cubans are his people.  And we're going to jail for him."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Howard, you'll serve no more than two years, then he'll pardon you."
+      },
+      {
+        "speaker": "HUNT",
+        "text": "John, sooner or later -- sooner, I think -- you are going to learn the lesson that has been learned by everyone who has ever gotten close to Richard Nixon.  That he's the darkness reaching out for the darkness.  And eventually, it's either you or him. Look at the landscape of his life and you'll see a boneyard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21323",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "It was her wrist.  And it was through a plate-glass door."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Anyway, they had to take her to Bellevue.  Maybe she'll stay this time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21324",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Let's not forget they're just kids, they don't vote."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "It's the fall of the Roman Empire, are you blind?  And we're putting fig leaves on the statues ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21325",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Yeah ... Sullivan thinks Henry's leaking.  He's the one ..."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Yeah, I knew it.  I knew it from '69 on, and I said it all along, didn't I ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21326",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Who's gonna tell Mitchell?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "You do it."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Why me?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "'Cause he hates you.  It's worse when you get it from someone you trust."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "He's wrong, you know -- about Kennedy, LBJ, Truman."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "How so?"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Sure, they did stuff, but nothing like this, Bob.  Forget Watergate, the break-ins, the Enemies list.  You got an attempted firebombing at the Brookings Institution, planting McGovern stuff on the guy that shot Wallace, trying to slip LSD to Jack Anderson."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "The \"Old Man\" plays politics harder than anybody else."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "You think this is just about politics?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21327",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "It's a code or something."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "I figured that out."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "I think he means the Kennedy assassination."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "They went after Castro.  In some crazy way it got turned on Kennedy.  I don't think the \"P\" knows what happened, but he's afraid to find out.  It's got him shitting peach pits."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Christ, we created Frankenstein with those fucking Cubans."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21328",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "Eight words back in '72 -- \"I covered up.  I was wrong.  I'm sorry\" -- and the American public would've forgiven him.  But we never opened our mouths, John.  We failed him."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Dick Nixon saying \"I'm sorry\"? That'll be the day.  The whole suit of armor'd fall off."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "So you tell Mitchell ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21329",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Colson doesn't know about it; he's pure as a virgin on this one.  It's just not clear the burglars knew what they were looking for.  They were heading to McGovern's office later that night."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Jesus!  Did Mitchell know?"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Mitchell's out of his mind now. Martha just put her head through a plate-glass window."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Jesus!  Through a window?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21330",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Martha's an idiot, she'll do anything to get John's attention.  If Mitchell'd been minding the store instead of that nut Martha we wouldn't have that kid Magruder runnin' some third-rate burglary!  Was he smoking pot?"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Mitchell?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "No!  Magruder!  That sonofabitch tests my Quaker patience to the breaking point."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21331",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "McCord? ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Find out what the hell he was doing at \"CREEP.\"  This could be trouble. These CIA guys don't miss a trick. This could be a set-up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21332",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "I don't have time for all this shit!  Just handle it, Bob!  Keep it out of the White House.  What else? Kissinger's waiting -- he's gonna throw a tantrum again if I don't see him, threatening to quit ... again."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Well, sir ... it turns out -- one of the people implicated is still, you see, on our White House payroll."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Who?  Not another goddamn Cuban?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21333",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Hunt?  Howard Hunt?"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "He left his White House phone number in his hotel room."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21334",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Goddamn! How long have we had this fucking dog?!  Two years, he still doesn't come!  We need a dog that looks happy when the press is around."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Well, he's photogenic.  Let's try dog bones?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21335",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "I like it.  I like the idea."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Is it legal?  I mean has anyone ever done it before?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Sure.  Lyndon, JFK, FDR -- I mean, Truman cut the shit out of my investigation of Hiss back in '48."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21336",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Where's Hunt now?"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "In hiding.  He sent Liddy to talk to me."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "And?"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "He wants money."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Pay him."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Pay him?  I told him to get out of the country.  It's crazy to start ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "What the hell are you doing, Ehrlichman?  Screwing with the CIA?  I don't care how much he wants -- pay him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21337",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "It's more than that.  It could be more than that.  I want Hunt paid."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Uh, we've never done this before, sir ... How do we pay?  In ... hundreds?  Do you fill a black bag full of unmarked bills?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "This is not a joke, John!"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "No, sir."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "We should set up a Cuban defense fund on this; take care of all of them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21338",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Oh, I suppose you would've just let them take over.  These aren't fraternity pranks, John.  It's anarchy.  A revolution!"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "I don't know if I'd go that far, sir."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Is the war worth it?  Is it worth a one-term presidency?  Because I think right now that's what we're looking at."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I will not go down as the first American president to lose a war! Going into Cambodia, bombing Hanoi, bombing Laos -- it buys us time so we can get out and give the South Vietnamese a fighting chance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21339",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Excuse me ... Are you talking about recognizing China, Mr. President? That would cost us our strongest support."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "No ... I can do this because I've spent my whole career building anti Communist credentials."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21340",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "We can't touch Hoover --"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "I thought the gloves were off."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "-- as long as he's got secret files on everybody.  I don't want 'em used against us.  What about the CIA?  Helms's done nothing for us.  I want to see him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21341",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "The soldiers were provoked.  The students started it, for Christ's sake!"
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Sir, there's dead American kids here. Let's say we don't apologize for Kent State, but maybe we could have a national prayer day ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21342",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "He's in the dumps, sir.  Agnew.  Every time you have him attack the press, they give it back to him in spades. He's become the most hated man in America."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Yeah, good old Spiro.  Well, better him than me.  What the hell is he but an insurance policy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21343",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "He's begging for a meeting, chief.  He wants to go overseas for awhile."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Well, no place where they speak English.  That way he can always say he was misquoted."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21344",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "The country's loving it."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "The hard-core four million \"Nixon nuts\" aren't gonna go for it ... They'll say I sold out to the Communists."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21345",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "No, you didn't, Bob."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Looks like he talked to Joe Kraft ... and to the Times.  Told them he was dead set against the bombing, that you were ... \"unstable.\"  Claims he has to handle you \"with kid gloves\" ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21346",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "I would personally enjoy doing that, sir."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "No, no.  He's our only \"star\" right now.  He'd go crying straight to the press.  He'd crucify us -- the sonofabitch!  Get someone from our staff on his ass. Tap his phones.  I want to know everyone he talks to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21347",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "I end the longest war in American history and they keep harping on this chickenshit!  You know who's behind this, don't you -- it's Teddy Kennedy! He drowns a broad in his car and he can't run for president."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "He got pretty burned at Chappaquiddick."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "My point exactly!  Somebody had to die before his shit got in the paper! Fucking Kennedys get away with everything.  Do you see me screwing everything that moves?  For Christ's sake!  I did what the New York Times editorial page said we should do!  I ended the war, I got SALT I with the Russians, I opened China!  So why are these cocksuckers turning on me?  Because they don't like the way I look.  Where I went to school."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21348",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "What about England?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Forget it.  Ehrenberg's paid three times that much ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21349",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "It'll never wash.  Pardoning them means we're guilty.  The people, the press will go nuts."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "And what am I supposed to do?  Just sit here and watch them coming closer? Eating their way to the center?  Lyndon bugged!  So did Kennedy!  FDR cut a deal with Lucky Luciano. Christ, even Ike had a mistress! What's so special about me?  What about Lyndon?  He could make a couple of calls to the Hill and shut this whole thing down.  Did anyone talk to him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21350",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "I don't know, I don't know ... I just know we've made too many enemies."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Sir, Bob and I are gonna have to testify before Earvin's committee."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "No, you're not!  You're going to claim executive privilege and you're going to stonewall it all the way -- plead the Fifth Amendment.  I don't give a shit.  They can't force the President's people to testify."
+      },
+      {
+        "speaker": "EHRLICHMAN",
+        "text": "Executive privilege will make it look like we're covering up."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "We are covering up!  For some petty, stupid shit.  There are things I can say -- when other people say them, they'd be lies. But when I say them nobody believes me anyway ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21351",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "This is June twentieth?"
+      },
+      {
+        "speaker": "HAIG",
+        "text": "It's marked.  Also there's June twenty third.  And this year -- March twenty first.  Those are the ones ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21352",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "Sorry ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "... go on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21353",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "... Y'know Al, if Hoover was alive none of this would've happened.  He would've protected the President."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "Mr. Hoover was a realist."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I trusted Mitchell.  It was that damn big mouth wife of his."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "At least Mitchell stood up to it."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Not like the others -- Dean, McCord, the rest ... We never got our side of the story out, Al.  People've forgotten.  I mean: \"Fuck you, Mr. President, fuck you Tricia, fuck you Julie!\" and all that shit, just words, but what violence!  The tear gassing, the riots, burning the draft cards, Black Panthers -- we fixed it, Al, and they hate me for it -- the double dealing bastards.  They lionize that traitor, Ellsberg, for stealing secrets, but they jump all over me 'cause it's Nixon.  ... They've always hated Nixon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21354",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "May I say something, Mr. President?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "There's no secrets here, Al."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "You've never been a greater example to the country than you are now, sir, but ... but you need to get out more, sir, and talk to the people.  No one I know feels ... close to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21355",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "No, sir, you did not."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Damn right.  And there's still a helluva lotta people out there who wanna believe ... That's the point, isn't it?  They wanna believe in the President."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21356",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "You're all set, sir.  Just push this button.  Good night, Mr. President."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "You know, Al, men in your profession ... you give 'em a pistol and you leave the room."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "I don't have a pistol."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "'Night, Al."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21357",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Exactly!  We've got to take the war to them.  Hit 'em where it hurts -- right in the nuts.  More assassinations, more killings.  Right, Al?"
+      },
+      {
+        "speaker": "HAIG",
+        "text": "That's what they're doing."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "These State Department jerks, Bill, don't understand; you got to electrify people with bold moves.  Bold moves make history, like Teddy Roosevelt -- \"T.R.\" -- rushing up San Juan Hill.  Small event but dramatic.  People took notice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21358",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "It's the President's personal property!  I will never give up my tapes to a bunch of Kennedy-loving Harvard Democrat cocksuckers!"
+      },
+      {
+        "speaker": "HAIG",
+        "text": "This could trigger the impeachment. They'll go to the Supreme Court next."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Let 'em try!  I appointed three of those bastards!  I'm not giving 'em my tapes!"
+      },
+      {
+        "speaker": "HAIG",
+        "text": "Can the president afford to ignore a subpoena?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Who the fuck does Cox think he is?  I never made a dime from public office!  I'm honest.  My dad died broke.  You know the sonofabitch went to law school with Jack Kennedy? ... The last gasp of the Establishment! They got the hell kicked out of 'em in the election, so now they gotta squeal about Watergate 'cause we were the first real threat to them in years. And by God, Al, we would have changed it, changed it so they couldn't have changed it back in a hundred years, if only ..."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "Congress is considering four articles of impeachment, sir."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "For what?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21359",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "About a dozen."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "A dozen?  I got half of 'em elected. I still got the South and Goldwater and his boys.  I'll take my chances with the Senate."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21360",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "Who?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Cox!  Fire him."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "But he works for the Attorney General. Only Richardson can fire him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21361",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "Richardson won't do that.  He'll resign."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "The hell he will!  Fire him, too.  If you have to go all the way down to the janitor at the Justice Department, fire the sonofabitch!  And ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21362",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "... an action that will at last, once and for all, show that what I knew and what I did with regard to the Watergate break-in and cover-up were just as I have described them to you from the very beginning ..."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "He's completely lost touch with reality."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I had no knowledge of the cover-up until John Dean told me about it on March twenty-first.  And I did not intend that payment to Hunt or anyone else be made ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21363",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "\"Victory at Sea,\" Al ... Henry.  The Pacific Theatre.  Christ, you can almost feel the waves breaking over the decks."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "I'm afraid we have another problem, Mr. President."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21364",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "June twenty-third, '72, sir.  The part that's underlined.  Your instructions to Haldeman regarding the CIA and the FBI."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "So?"
+      },
+      {
+        "speaker": "HAIG",
+        "text": "Your lawyers feel it's the ... \"smoking gun.\""
+      },
+      {
+        "speaker": "NIXON",
+        "text": "It's totally out of context.  I was protecting the national security.  I never intended --"
+      },
+      {
+        "speaker": "HAIG",
+        "text": "Sir, the deadline is today."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Can we get around this, Al?"
+      },
+      {
+        "speaker": "HAIG",
+        "text": "It's the Supreme Court, sir; you don't get around it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21365",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "If you resign, you can keep your tapes as a private citizen ... You can fight them for years."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "And if I stay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21366",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "The army?"
+      },
+      {
+        "speaker": "HAIG",
+        "text": "Lincoln used it."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "That was civil war."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "How do you see this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21367",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HAIG",
+        "text": "We can't survive this, sir.  They also have you instructing Dean to make the payoff to Hunt."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "There is nothing in that statement the President can't explain."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "Sir, you talked about opening up the whole \"Bay of Pigs\" thing again."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "That's right ..."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "Three days before, on the June twentieth tape -- the one with the eighteen-minute gap --"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I don't know anything about that."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "... you mentioned the \"Bay of Pigs\" several times.  Sooner or later they're going to want to know what that means.  They're going to want to know what was on that gap ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "It's gone.  No one will ever find out what's on it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21368",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "... they smelled the blood on me this time, Al.  I got soft.  You know ... that rusty, metallic smell ..."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "I know it well, sir."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "It came over from Vietnam, you know."
+      },
+      {
+        "speaker": "HAIG",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "That smell.  I mean, everybody suffered so much, their sons killed. They need to sacrifice something, y'know, appease the gods of war -- Mars, Jupiter.  I am that blood, General.  I am that sacrifice, in the highest place of all ... All leaders must finally be sacrificed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21369",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "They did what?!  I don't understand. Why'd they go into O'Brien's office in the first place?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Evidently to install bugs and photograph documents."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21370",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "But O'Brien doesn't even use that office.  The Democrats've moved to Miami.  There's nothing there!"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "It was just a fishing expedition. Apparently it was their fourth attempt at the DNC."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Their fourth!"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "It's possible they were looking for evidence of an illegal Howard Hughes donation to the Democrats, so the Democrats couldn't make an issue of your Hughes money."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Contributions!  It was a legal contribution.  Who the hell authorized this?  Colson?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21371",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "We feel the bigger concern is Gordon Liddy ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "That fruitcake!  What about him?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Well, you know, sir, he's a nut.  He used to work here with the \"Plumbers\" and now he's running this Watergate caper.  You remember his plan to firebomb the Brookings using Cubans as firemen?  He wanted to buy a damned fire truck!  Magruder thinks he's just nutty enough to go off the reservation."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "What's Liddy got?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Apparently he was using some campaign cash that was laundered for us through Mexico.  The FBI's onto it.  We could have a problem with that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21372",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "He works for Colson.  He used him on the Pentagon Papers.  We're trying to figure out when he officially stopped being a White House consultant.  After the arrest he dumped his wiretapping stuff into his White House safe."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Howard Hunt is working for the White House?  No shit!  This is goddamn Disneyland!  Since when?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21373",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "On the list of horribles, I know what he is.  And I know what he tracks back to.  You say he was involved in the Plumbers?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Definitely.  Colson had him trying to break into Bremer's apartment after Bremer shot Wallace, to plant McGovern campaign literature."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I had nothing to do with that.  Was he ... in the Ellsberg thing?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Yes, you approved it, sir."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I did?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "It was right after the Pentagon Papers broke.  They went in to get his psychiatric records."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Fucking hell."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "We were working on China."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21374",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Well, why not?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Our own intelligence capability -- to fix the leaks?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21375",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Howard Hunt? ... Jesus Christ, you open up that scab ... and you uncover a lot of pus."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "What do you mean, sir?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21376",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "But what are we paying him for?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Silence!"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "But, sir, you're covered -- no one here gave orders to break into the damned Watergate.  We're clean.  It's only the Ellsberg thing, and if that comes out, it's \"national security.\""
+      },
+      {
+        "speaker": "NIXON",
+        "text": "\"Security\" is not strong enough."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "How about a COMINT classification?  We put it on the Huston plan.  Even the designation is classified."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "\"National Priority.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21377",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "\"National security priority restricted and controlled secret.\""
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "We'll work on it.  I say we cut ourselves loose from these clowns and that's all there is to it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21378",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "Should we talk to Trini about paying these guys?  Or maybe Chotiner?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "No, keep Trini out of this. Chotiner's too old.  And for God's sake, keep Colson out.  It's time to baptize our young counsel.  That means Dean can never talk about it.  Attorney-client privilege.  Get to it.  And Dean -- you stay close on this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21379",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Bob, did I approve the Ellsberg thing? You know, I'm glad we tape all these conversations because ... I never approved that break-in at Ellsberg's psychiatrist.  Or maybe I approved it after the fact?  Someday we've got to start transcribing the tapes."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "You approved that before the fact, because I went over it with you.  But ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Uh, no one, of course, is going to see these tapes, but ..."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "That's right, and it's more a problem for Ehrlichman.  He fixed Hunt up with the phony CIA ID's, but ... what else does Hunt have on us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21380",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "We've got to turn off the FBI.  You just go to the CIA, Bob, and tell Helms that Howard Hunt is blackmailing the President.  Tell him that Hunt and his Cuban friends know too damn much, and if he goes public, it would be a fiasco for the CIA.  He'll know what I'm talking about."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "All right."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Play it tough.  That's the way they play it and that's the way we're going to play it.  Don't lie to Helms and say there's no involvement, but just say this is sort of a comedy of errors, bizarre, without getting into it.  Say the President believes it's going to open up the whole Bay of Pigs thing again.  Tell Helms he should call the FBI, call Pat Gray, and say that we wish for the sake of the country -- don't go any further into this hanky-panky, period!"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "The Bay of Pigs? ... That was Kennedy's screw-up.  How does that threaten us?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Just do what I say, Bob."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Yes, sir, but ... do you think Gray'll go for it?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Pat Gray'll do anything we ask him. That's why I appointed him."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "He'll need a pretext.  He'll never figure one out for himself."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Christ, you're right -- Gray makes Jerry Ford look like Mozart.  Just have Helms call him.  Helms can scare anybody."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "The only problem with that, sir -- it gets us into obstruction of justice."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "It's got nothing to do with justice. It's national security."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "How is this national security?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Because the President says it is.  My job is to protect this country from its enemies, and its enemies are inside the walls."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21381",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "I suppose you thought the Presidency was above this sort of thing."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "This isn't a \"moral\" issue, Bob.  We have to keep our enemies at bay or our whole program is gonna go down the tubes.  The FBI is filled with people who are pissed that I put Gray in and not one of their own.  Vietnam, China, the Soviet Union: when you look at the big picture, Bob, you'll see we're doing a hell of a lotta good in this world.  Let's not screw it up with some shit-ass, third-rate burglary."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "I'll talk to Helms.  Oh, Pat asked if you're coming to the Residence for dinner tonight."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "No, no, not tonight.  Don't let her in here.  I have too much to do."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Yes, sir.  I'll talk to Helms, and, uh ... what's our press position on this Watergate thing?  What do I tell Ziegler to tell them?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21382",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "... When we consider the lineup of the world, we find there are 590 million people on our side, 800 million on the Communist side, and 600 million who are neutral.  The odds are 5 to 3 against us ..."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "He wouldn't do the makeup.  Said it was for queers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21383",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "I think ... I think ... that's the sort of very dangerous and irresponsible suggestion that ... helping the Cuban exiles who oppose Castro would, uh ... not only be a violation of international law, it would be ..."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "He's treading water.  Don't mention Khrushchev."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "... an open invitation for Mr. Khrushchev to become involved in Latin America.  We would lose all our friends in Latin America."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21384",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "Meanwhile, what happens to the country?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "The bastard!  If I'd called his shot on Cuba I would've won.  He made me look soft."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21385",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Where are they?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Dick, you don't have to make a statement.  Herb covered it for you."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "No!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21386",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "Cue the crowd.  Go to the woman's group.  Get the bald guy, he's great ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I, unlike Senator Kennedy, have a plan to end the war.  But not for peace at any price, but peace with honor!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21387",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "He wasn't protecting me.  He was putting me on notice."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "What?  That he knew Johnny Roselli? Hoover knew a lot of gangsters."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Yeah, but Roselli wasn't just any gangster.  He was the gangster who set up Track 2 in Cuba."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21388",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "I don't understand.  Track 2's Chile?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Chile, Congo, Guatemala, Cuba. Wherever's there's a need for an Executive Action capability, there's a Track 2.  In Cuba, Track 1 was the Bay of Pigs invasion.  Track 2 ... it was our idea.  We felt the invasion wouldn't work unless we got rid of Castro.  So we asked ourselves -- who else wants Castro dead?  The Mafia, the money people.   So we put together Track 2 ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21389",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "The first assassination attempt was in '60, just before the election."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Before?!  Eisenhower approved that?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "He didn't veto it.  I ran the White House side.  The mob contact was Johnny Roselli.  One of the CIA guys was that jackass, Howard Hunt."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Jesus!"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "And not just Hunt.  Frank Sturgis, all those Cubans.  All of them in the Watergate.  They were involved in Track 2 in Cuba.  Hunt reported to my military aide. But I met with him several times as Vice President.  That's what worries the shit out of me.  I don't know how much Hunt knows.  Or the Cubans."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "So?  You wanted Castro dead. Everybody wanted Castro dead.  If Hunt and the others are CIA, why don't we just throw this back in the CIA's lap? Let Richard Helms take the fall?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Because ... because Dick Helms knows too much ... If anyone in this country knows more than I do, it's Hoover and Helms!  You don't fuck with Dick Helms!  Period."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21390",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "Alright.  But why, if Kennedy is so clean in all this, didn't he cancel Track 2?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Because he didn't even know about it. The CIA never told him, they just kept it going.  It was like ... it had a life of its own.  Like ... a kind of \"beast\" that doesn't even know it exists.  It just eats people when it doesn't need 'em anymore.  Two days after the Bay of Pigs, Kennedy called me in.  He reamed my ass ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21391",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "... he'd just found out about Track 2."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "You never told him?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I didn't want him to get the credit. He said I'd stabbed him in the back. Called me a two-bit grocery clerk from Whittier."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21392",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "If they didn't tell Kennedy about Track 2, how did Hoover find out?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "They had us bugged.  Christ, he had everybody bugged.  Yeah, he was gonna support me in '68, but he was also threatening me.  That was Hoover: he'd give you the carrot, but he'd make damn sure the stick went right up your ass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21393",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "Well, one way or the other, Kent State is not good.  We have to get out in front of this thing.  The PR is going to murder us."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Money.  Follow the money."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "These kids are being manipulated by the Communists.  Like Chambers and Hiss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21394",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "... never complain, never explain, John ..."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "I tell you, the soldiers were provoked.  Now stop this pussyfooting around.  Dead kids!  How the hell did we ever give the Democrats a weapon like this?  I mean, if Cambodia doesn't work, we'll bomb Hanoi if we have to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21395",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "... and we've got the economic guys at five.  The Dow lost another 16 points. They're going to want a decision on the budget.  Sir?  ... Are we holding the line on a balanced budget?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "No ... a little deficit won't hurt. Jesus, they're serious.  Why're we stopping?"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Run 'em over."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21396",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "Get that little fucker!  Great tackle! Reminds me of my days at Whittier. Most of these kids are useless."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Probably flunking, nothing to do except come down here and meet girls. Henry's out there with them."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "There's a poison in the upper classes, Bob.  They've had it too soft.  Too many cars, too many color TVs ..."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Don't forget the South, sir, the West. Filled with the good football colleges, straight kids.  There's more of 'em with you than against you.  Not like these mudmutts."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "It's the parents' fault really."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21397",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "But, hell, this is nothing compared to Venezuela.  When I was Vice President, Ike sent me down there like a blocking back.  They threw rocks, broke out our windows, almost overturned the car. Read Six Crises, Bob.  Boy, Pat was brave!"
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Yeah, we've got to get our vice president off the golf course and back there on the college circuit.  That's top priority."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21398",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "Mr. President!"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "It's okay, Bob, we're just rapping, my friends and I.  We actually agree on a lot of things ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21399",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "HALDEMAN",
+        "text": "We really must go, Mr. President."
+      },
+      {
+        "speaker": "NIXON",
+        "text": "Don't forget, the most important thing in your life is your relationship with your Maker ...  Don't forget to be on God's side."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21400",
+    "movie_id": "m150",
+    "turns": [
+      {
+        "speaker": "NIXON",
+        "text": "She got it, Bob.  A nineteen-year-old college kid ..."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "What?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "She understood something it's taken me twenty-five fucking years in politics to understand.  The CIA, the Mafia, the Wall Street bastards ..."
+      },
+      {
+        "speaker": "HALDEMAN",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "NIXON",
+        "text": "... \"The Beast.\"  A nineteen-year-old kid.  She understands the nature of \"the Beast.\"  She called it a wild animal."
+      }
+    ]
+  }
+]

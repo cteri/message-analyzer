@@ -1,0 +1,1930 @@
+[
+  {
+    "conversation_id": "conv_80719",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "MAYOR",
+        "text": "How do you do, Miss Viridiana!"
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Is anything the matter, Mr. Mayor?"
+      },
+      {
+        "speaker": "MAYOR",
+        "text": "You cannot leave ..."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MAYOR",
+        "text": "There's been an accident."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Where?"
+      },
+      {
+        "speaker": "MAYOR",
+        "text": "Come with me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80720",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "MONCHO",
+        "text": "Why are you crying?"
+      },
+      {
+        "speaker": "RITA",
+        "text": "I'm afraid."
+      },
+      {
+        "speaker": "MONCHO",
+        "text": "Don't invent stories; go to bed."
+      },
+      {
+        "speaker": "RITA",
+        "text": "A black bull came."
+      },
+      {
+        "speaker": "MONCHO",
+        "text": "A black bull!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80721",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "RITA",
+        "text": "It's a very big one."
+      },
+      {
+        "speaker": "MONCHO",
+        "text": "Very, very?"
+      },
+      {
+        "speaker": "RITA",
+        "text": "Yes -- very, very big!"
+      },
+      {
+        "speaker": "MONCHO",
+        "text": "He couldn't get through the door, then?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80722",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "RITA",
+        "text": "He came in through the cupboard."
+      },
+      {
+        "speaker": "MONCHO",
+        "text": "You little liar! Get out of here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80723",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "MONCHO",
+        "text": "I'll box your ears if you don't show some respect for the dead! You mustn't play under this tree."
+      },
+      {
+        "speaker": "RITA",
+        "text": "Don Jaime loved to watch me skip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80724",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Have you repaired the windows of the dormitories?"
+      },
+      {
+        "speaker": "MONCHO",
+        "text": "They shut all right now. And the blankets are ready."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80725",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "What's going on, Moncho?"
+      },
+      {
+        "speaker": "MONCHO",
+        "text": "This louse is looking for trouble."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80726",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "In you go! Moncho, lead the way!  You stay here."
+      },
+      {
+        "speaker": "MONCHO",
+        "text": "But, miss ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80727",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "You have decided to leave, Moncho."
+      },
+      {
+        "speaker": "MONCHO",
+        "text": "Yes!"
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "I can't do anything to make you stay? These people annoy you, isn't that it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80728",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Mother?"
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "I've just had a letter from your uncle. He won't be able to come when you take your vows."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "All right, Mother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80729",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "I hardly know him. I saw him only once, some years ago. I can't even remember him."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "In any case he's asking you to come and stay with him."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "I don't want to leave the convent, Mother."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "I'm afraid that his health is not good. He's your only relative and you ought to say farewell to him before taking your vows. You will certainly never see him again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80730",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "But why does he want to see me? He has never bothered about me."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "He has paid for your studies and your maintenance, and he has just sent your dowry. Does that mean so little to you, Viridiana?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80731",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "I have no desire to see the world again, but if you order me to..."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "The retreat will start soon. You can leave tomorrow morning."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80732",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "Good morning. You weren't expecting me, were you?"
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Mother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80733",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "Ever since yesterday, when we heard by chance about the tragedy, we have been very anxious for you. Why didn't you write? I would have come immediately."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "I had so many things to think about!"
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "A suicide is horrible. I know. But you should have told me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80734",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "Is there some grave impediment which prevents you from taking your vows? There must be something."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "I have nothing to reproach myself for. All I know is that I've changed. With all my strength, which is not much, I will follow the road that the Lord has shown me. One can also serve outside a convent."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "Are you aware of the pride there is in what you're saying?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80735",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Forgive me if I have offended you."
+      },
+      {
+        "speaker": "MOTHER SUPERIOR",
+        "text": "You are forgiven. Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80736",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Give the little girl to me. Come here, sweetheart. Are you ready?"
+      },
+      {
+        "speaker": "PELON",
+        "text": "When you are, miss."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Good, then let's go!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80737",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Don't talk like that!"
+      },
+      {
+        "speaker": "PELON",
+        "text": "I'll talk the way I want to. I've had enough of this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80738",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Would you mind telling me what I did wrong to you to deserve your insults?"
+      },
+      {
+        "speaker": "PELON",
+        "text": "I've had a gutful of this."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "If you want to stay you'll have to exercise a little self-control, and be a bit more humble to everybody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80739",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "POCA",
+        "text": "She has the face of an angel. What a pity you can't see her."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Right, let's go.  And keep the compliments to yourself. I don't like them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80740",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "What about you, Manuel?"
+      },
+      {
+        "speaker": "POCA",
+        "text": "I'm only good at making people laugh."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "That's all right; we all laugh here, but not at you; I'll see to that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80741",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "POCA",
+        "text": "She looks like a sick marrow!"
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Don't pay any attention to him. It's very good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80742",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "POCA",
+        "text": "Ask the priest, miss."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "That's enough.  Go join the others, and don't come back here.  And you'll have to control your temper."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80743",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "RAMONA",
+        "text": "Welcome, miss. I'm Ramona, Don Jaime's servant."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Ah! Pleased to meet you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80744",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "RAMONA",
+        "text": "How do you feel?"
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "I have a headache."
+      },
+      {
+        "speaker": "RAMONA",
+        "text": "That will soon pass. It's nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80745",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "What happened to me?"
+      },
+      {
+        "speaker": "RAMONA",
+        "text": "You fainted last night after supper. The master and I carried you here."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Have I slept long?"
+      },
+      {
+        "speaker": "RAMONA",
+        "text": "Oh, you slept well; don't worry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80746",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "RITA",
+        "text": "Hello."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Hello."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80747",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Good morning, Rita. How are we today?"
+      },
+      {
+        "speaker": "RITA",
+        "text": "Today, a good girl."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "Could I trouble you for my glass of milk?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80748",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "What?"
+      },
+      {
+        "speaker": "RITA",
+        "text": "Yes, yes, I saw you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80749",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "How did you see me?"
+      },
+      {
+        "speaker": "RITA",
+        "text": "From the terrace."
+      },
+      {
+        "speaker": "VIRIDIANA",
+        "text": "It's very wicked to spy. Why did you do it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80750",
+    "movie_id": "m596",
+    "turns": [
+      {
+        "speaker": "VIRIDIANA",
+        "text": "I'm going to the hen house. Are you coming with me?"
+      },
+      {
+        "speaker": "RITA",
+        "text": "No, I don't want to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80751",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "ALEXIEV",
+        "text": ") Daryl Lindenmeyer was only here briefly, one semester at most. But he was singularly the most brilliant student I ever had in a classroom. He created programs so beautiful, so lyrical, they were almost like symphonies..."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Can you tell us what's on the disc?"
+      },
+      {
+        "speaker": "ALEXIEV",
+        "text": ") There is one program with approximately 1.3 million lines of programming. It is thoroughly secured, which is not surprising considering Lindenmeyer created it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80752",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "In English, please."
+      },
+      {
+        "speaker": "ALEXIEV",
+        "text": "I accidently triggered a protection mechanism which erased the entire program."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80753",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "ALEXIEV",
+        "text": "It was very wellhidden. There was no way to see it until it was too late."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "It's not your fault. We appreciate you trying."
+      },
+      {
+        "speaker": "ALEXIEV",
+        "text": "Look, I feel bad about this, so I'm going to try to look into the programming of his Maestro teaching tool for you.  ) I've had one sitting around for years. Maybe I can learn something that you'll find useful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80754",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "You son-ofabitch, I'm going to kill you."
+      },
+      {
+        "speaker": "ALEXIEV",
+        "text": "Me? What did I do?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80755",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "I'm sorry, I thought you were somebody else."
+      },
+      {
+        "speaker": "ALEXIEV",
+        "text": "I've discovered something about Lindenmeyer'5 Maestro teaching tool I thought you should know...  The harm done to the music students who used the device  it was not by accident. The machine was designed explicitly for that purpose. Lindenmeyer intended to hurt the kids using it."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Jesus Christ.  I know who the dominant personality is.  Lindenmeyer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80756",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "My first two pairs of convicts suffered the same fate."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Why wasn't I told?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80757",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "We don't know how, but Sid 6.7 made himself into an android."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "You mean a nanotech synthetic organism."
+      },
+      {
+        "speaker": "COX",
+        "text": "Whatever."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80758",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "Recognize this? How would you like your old job back?"
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Catch him and your record's clean."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80759",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "DEANE",
+        "text": "This is the newest technology approved for general implementation. It's called a locater implant. Every parolee gets one.  We're going to know where you are every second for the rest of your life."
+      },
+      {
+        "speaker": "COX",
+        "text": "If you try to run, I'll hunt you down and kill you myself."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Yes or no, Mr. Barnes?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80760",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "There's already a task force out looking for Lindenmeyer. Every other officer in the city will be hunting Sid right along with you."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "But only you will know he's not human."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80761",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "DEANE",
+        "text": "What are they doing in Los Feliz?"
+      },
+      {
+        "speaker": "COX",
+        "text": "Madison lives two blocks from their present location."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Why would they be going there?"
+      },
+      {
+        "speaker": "COX",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "I wish we could hear them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80762",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "Barnes wouldn't kill two innocent guards."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "He would slaughter eight people sitting in a room, but not two prison guards?"
+      },
+      {
+        "speaker": "COX",
+        "text": "Do I need to remind you what happened to his wife? To his daughter?  I will stake my reputation that Barnes didn't kill those guards."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "You already have staked your reputation.  Mayor Bennett and I have been friends a long time. Since Grimes tried to kill him, it doesn't take a rocket scientist to come to the conclusion that Sid 6.7 might go after him, too.  Bennett's Re-Election Rally is tomorrow night and we already have enough trouble on our hands with one psychotic on the loose.  The fail-safe online, yet?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80763",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "You all right?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Why'd.. .you pull me out?"
+      },
+      {
+        "speaker": "COX",
+        "text": "Donley started experiencing the attack for real. If I hadn't gotten you out, the same thing would have happened to you.  You may not believe this, Parker,"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80764",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "What the hell did you have to shoot the busboy for?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "He was a computer program for crissake."
+      },
+      {
+        "speaker": "COX",
+        "text": "You were supposed to act as if everything was real."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Real, my ass. It's an overblown game.  Anybody ever catch that fucking psycho?"
+      },
+      {
+        "speaker": "COX",
+        "text": "Before you, nobody else had gotten close enough to Sid 6.7 to take a shot at him. Hell, nobody else had even been able to start tracking him before he got to them first.  New scar  you making it okay in there?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "I'm getting by."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80765",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "But with the six months off I get for being your guinea pig, I've only got to survive another 17 years, 5 months, and 23 days."
+      },
+      {
+        "speaker": "COX",
+        "text": "Don't give up, Parker. Not ever."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "You know those cheesy Christmas cards of your family under that tree in your back yard you keep sending me every year?"
+      },
+      {
+        "speaker": "COX",
+        "text": "What about them?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Do me a favor  keep sending them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80766",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "You're wasting your time. I'm not going to play any more of your goddam games."
+      },
+      {
+        "speaker": "COX",
+        "text": "Parker Barnes, I'd like you to meet Crime Czar Elizabeth Deane."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "It's too early in the morning for me to be cordial. You got any coffee?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80767",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "These were taken inside LETAC an hour ago. Pretty pictures, aren't they?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "I've seen worse."
+      },
+      {
+        "speaker": "COX",
+        "text": "Name was Clyde Reilly. Hardware specialist.  LETAC surveillance cameras got a picture of the perp as he left the building."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80768",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "Jesus Christ.  Can you kill it?"
+      },
+      {
+        "speaker": "COX",
+        "text": "If you can catch him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80769",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "She's going to help you understand what makes Sid 6.7 tick."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "What she's going to do is get in my way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80770",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "This is the personnel file on the programmer, Lindenmeyer. There might be something in it you can use."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "She wasn't part of the deal, Cox."
+      },
+      {
+        "speaker": "COX",
+        "text": "Fine  you want to stay here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80771",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "Officers in Toluca Lake just found an affluent couple...completely gutted.  So were the first two cops to arrive on scene."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Their weapons missing?"
+      },
+      {
+        "speaker": "COX",
+        "text": "Sid 6.7 is now armed."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Where's my gun?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80772",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "Don't worry, they have no idea where you are."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "You sonofabitch. How could you let them put the implant in my head? How?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80773",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "She saved your life, Parker. She didn't have to, but she did."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Then I guess we're even."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80774",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "When this is over, will you get this goddam thing out of my head?"
+      },
+      {
+        "speaker": "COX",
+        "text": "On my life, I promise you I will."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "If you're lying, I'll hunt you down and kill you myself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80775",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "... illegal search of Lindenmeyer' s duplex. Eleven civilian vehicles damaged or destroyed. Twentyfour citizen complaints. And the calls are just starting to come in...  I forgot what it's like to have you on the streets."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Any sign of Lindenmeyer?"
+      },
+      {
+        "speaker": "COX",
+        "text": "None. He could be hiding, he could be helping Sid, or could be in little pieces on Santa Monica beach.  Any idea what Sid's going to do next?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Until we know what new influences are affecting him, we can't be sure."
+      },
+      {
+        "speaker": "COX",
+        "text": "In other words, we collectively don't know shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80776",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "MADISON",
+        "text": "I should have told him."
+      },
+      {
+        "speaker": "COX",
+        "text": "Don't blame yourself. In your shoes, I don't think I would have told Parker, either.  So do you think Grimes has become the dominant personality?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "I'm not sure. My guess is that's what Sid wants us to think."
+      },
+      {
+        "speaker": "COX",
+        "text": "You think he's smart?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Captain, I'm afraid of how smart Sid 6.7 is.  But I'm even more afraid of what's he's becoming."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80777",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "MADISON",
+        "text": "There is no way Parker killed those guards. No way."
+      },
+      {
+        "speaker": "COX",
+        "text": "I think we both know who did.  What's so urgent?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "I need your help--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80778",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "Why didn't anybody tell me?!"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "I don't set policy.  You have the key?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80779",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "COX",
+        "text": "Give me 30 seconds, then flip every switch you can reach."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80780",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "MADISON",
+        "text": "Ms. Deane, you wanted to see me?"
+      },
+      {
+        "speaker": "DEANE",
+        "text": "We have an emergency situation which requires somebody with expertise in criminal psychology. Under the authority vested in me by the President, I'm giving you temporary reassignment."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "What's the assignment?"
+      },
+      {
+        "speaker": "DEANE",
+        "text": "You're going to put your theories to practice. I'm sending you into the field."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80781",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "DEANE",
+        "text": "That's also where Mr. Barnes lost his arms to Mathew Grimes' booby trap. What's your point, Dr. Carter?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Letting a lunatic like Parker Barnes loose in the free world is like lighting a fuse. At some point, he will go off -- you saw what happened in the simulator. The risk to the public is unacceptably dangerous."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Not if you're with him every step of the way."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "The man played judge, jury, and executioner with eight people's lives. He lost control and is capable of doing it again."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "I understand the risks involved here. But there is nobody better qualified to go after Sid 6.7 than Barnes. And, there is nobody who knows him better than you. If a situation becomes volatile, you will find a way to quell it. I have complete confidence in you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80782",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "DEANE",
+        "text": "I watched your simulation, Mr. Barnes. Very impressive. You know, you're the only one to ever go up against Sid 6.7 who is still alive."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Only because I got pulled out early."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Nobody else ever got anywhere near him. Nobody else... understands him like you do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80783",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "DEANE",
+        "text": "Think you can do it?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Not from in here."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "This is a full pardon. It authorizes your immediate release."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80784",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "What happens if I can't catch him?"
+      },
+      {
+        "speaker": "DEANE",
+        "text": "If Sid 6.7 hasn't killed you, we throw you back in here and you serve out the rest of your sentence."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "How do you know I won't run?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80785",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "DEANE",
+        "text": "Barnes, where the hell have you been?!"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Trying to find out where the bomb is. Where the hell have you been?"
+      },
+      {
+        "speaker": "DEANE",
+        "text": "What did you find out?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Call off the manhunt looking for me. I didn't kill the transport guards."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "It's already been called off. Witnesses confirmed you weren't the shooter.  Did you find out where the bomb is?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "No, but I've confirmed the reelection rally is the target.  How much C-4 is missing?"
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Enough to level an entire city block."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "If I were you, I'd get every demolition team in the city searching in and around the Biltmore Hotel."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Demolition teams have searched everywhere in and around the hotel. I don't know where..."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Sid is smart enough to know you'd check everywhere in the immediate area. Whatever the device is, he's probably got it timed to move into position just before it detonates.  Have the demo teams check every subway tunnel, water pipe, gas pipe, and sewer pipe that goes under, over, or into the arena."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "You know how much man power you're talking about?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "You're the highest law enforcement official in the country. Use the fucking army if you need to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80786",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "DEANE",
+        "text": "This better not be a wild goose chase."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Or what, you'll authorize my death a second time today?"
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Don't forget, convict, if this psycho isn't stopped, you go right back to rotting in a prison cell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80787",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "DEANE",
+        "text": "What did Cox pull him out early for?"
+      },
+      {
+        "speaker": "WALLACE",
+        "text": "Barnes used to work for him when he was still a cop in the field, remember?"
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Don't remind me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80788",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "DEANE",
+        "text": "What the hell happened?"
+      },
+      {
+        "speaker": "WALLACE",
+        "text": "Lindenmeyer developed neural connectors that tap directly into the nervous system. If the simulator isn't calibrated properly, experiencing death in this level of VR is like experiencing death within a dream. The experience becomes real."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Simulations are supposed to give participants practice in realistic, dangerous scenarios while protecting them from the risks they are exposed to in the real world."
+      },
+      {
+        "speaker": "WALLACE",
+        "text": "I was assured the problem was corrected."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80789",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "WALLACE",
+        "text": "It makes me nervous just seeing him in a uniform.  I will never forget the first time I saw the photos from the crime scene."
+      },
+      {
+        "speaker": "DEANE",
+        "text": "Neither will the public.  The media has caught wind of his pardon. Unless Mr. Barnes starts giving me some tangible results, I'm going to put him back in his cage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80790",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "WALLACE",
+        "text": "You embarrassed me in front of the highestranking law enforcement official in the country.  Do you have any idea how much money you just cost me?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "The reason you insisted on testing my system with prisoners is because of the increased risks involved with increased realism."
+      },
+      {
+        "speaker": "WALLACE",
+        "text": "Of the six prison inmates you've tested  all of whom have had at least some military or survival training - only Mr. Barnes is still breathing."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "I'm still making adjustments..."
+      },
+      {
+        "speaker": "WALLACE",
+        "text": "You've had a yearandahalf to make all the adjustments you want, Lindenmeyer.  ) Elizabeth Deane does not give second chances. Neither do I. You're fired."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "I'M WHAT?!"
+      },
+      {
+        "speaker": "WALLACE",
+        "text": "You are to turn over the Sid 6.7 program, and all its documentation, for immediate destruction. Is that understood?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "I understand... I understand perfectly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80791",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "WALLACE",
+        "text": "How does he know who I am?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "He hears...everything."
+      },
+      {
+        "speaker": "WALLACE",
+        "text": "As a matter of fact, I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80792",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "REILLY",
+        "text": "HEY!!!"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "Show's over unless I get to see what you've been working on after hours."
+      },
+      {
+        "speaker": "REILLY",
+        "text": "I haven't been working on anything."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "Do I get to see it or not?"
+      },
+      {
+        "speaker": "REILLY",
+        "text": "Bastard...  Sheila, don't go anywhere. I'll be right back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80793",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "LINDENMEYER",
+        "text": "Get that fucking thing away from me!"
+      },
+      {
+        "speaker": "REILLY",
+        "text": "You're...such a wimp."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80794",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "REILLY",
+        "text": "Watching your VR people Auto Reset gave me the idea."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "It's nanotechnology, isn't it? Machines the size of molecules..."
+      },
+      {
+        "speaker": "REILLY",
+        "text": "Coordinated by polymer neural net."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "It feels so.. .real."
+      },
+      {
+        "speaker": "REILLY",
+        "text": "It's better than real. It's synthetic flesh. Synthetic blood. Synthetic organs...  It's a physiological machine."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "This is supposed to be years away."
+      },
+      {
+        "speaker": "REILLY",
+        "text": "As far as the public is concerned, it is. The reason you got fired, and I got my second demo into production, is I'm a lot smarter than you. I never give my best stuff away."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "How do you kill it?"
+      },
+      {
+        "speaker": "REILLY",
+        "text": "Separate the character module from the neural net..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80795",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "REILLY",
+        "text": "... and you get nanodeath.  Don't worry, I've got a bunch of other ones."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "Amazing. I hate to say it, but it is."
+      },
+      {
+        "speaker": "REILLY",
+        "text": "I know.  I'm ready to incubate something a little more advanced than a coldblooded reptile. If you want to experience the future, meet me in my office in 15 minutes. And bring the Sheila 3.2 character module with you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80796",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "LINDENMEYER",
+        "text": "You need a maid."
+      },
+      {
+        "speaker": "REILLY",
+        "text": "What I need is a nymphomaniac."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80797",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "LINDENMEYER",
+        "text": "I told you this would work.. By setting back the clocks, he has absolutely no idea he's in virtual reality. He still thinks he's in the real world."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "What's wrong with Parker?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "How should I know?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Show me his physical sensory level."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80798",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "LINDENMEYER",
+        "text": "I wonder how that..."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Turn it down!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80799",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "LINDENMEYER",
+        "text": "He's developing a hemisphere imbalance."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Talk so I can understand."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "If I don't adjust the level of neural information each side of his brain is receiving, he won't be able to walk when I take him out of VR."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Then fix it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80800",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "SID 6.7",
+        "text": "Don't be angry with me, Daryl."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "Did you recognize the son-of-a bitch who got away?"
+      },
+      {
+        "speaker": "SID 6.7",
+        "text": "Should I have?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "Think hard -- it'll come to you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80801",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "LINDENMEYER",
+        "text": "All they want to produce around here is mediocrity!"
+      },
+      {
+        "speaker": "SID 6.7",
+        "text": "True genius is rarely rewarded within its lifetime."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "It was you, wasn't it?"
+      },
+      {
+        "speaker": "SID 6.7",
+        "text": "It was me, what?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "You amped the neural connectors back up, didn't you?  You're the reason the convict died. You're the reason I got fired!"
+      },
+      {
+        "speaker": "SID 6.7",
+        "text": "I couldn't just let them make you bring down my degree of difficulty. I'm a triple-twisting, double back flip off the high platform, not a swan dive."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "My God..."
+      },
+      {
+        "speaker": "SID 6.7",
+        "text": "Which God would that be, the one who created me, or the one who created you?  In your world, the Lord giveth, and the Lord taketh away. But in my world, the one who gave me life doesn't have the balls to stop a couple of bureaucratic assholes from taking it away."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "What do you expect me to do, put your character module in my pocket and just walk you out of here?"
+      },
+      {
+        "speaker": "SID 6.7",
+        "text": "I had something a little different in mind.  Instead of just playing Peeping Tom with Reilly, why don't you get him to show you what he's been working on after hours?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80802",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "SID 6.7",
+        "text": "She's some of your finest work, Daryl."
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "All my work is my finest."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80803",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "SID 6.7",
+        "text": "You catching my drift?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "I think I understand what you have in mind..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80804",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "LINDENMEYER",
+        "text": "SID  NO!!!"
+      },
+      {
+        "speaker": "SID 6.7",
+        "text": "What do you expect me to do, thank him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80805",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "SID 6.7",
+        "text": "I am beautiful, aren't I?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "Of course you are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80806",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "SID 6.7",
+        "text": "How can I ever thankyou for bringing me back to life a second time, Daryl?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "Help me get out of here."
+      },
+      {
+        "speaker": "SID 6.7",
+        "text": "Glad to..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80807",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "SID 6.7",
+        "text": "You made me a composite of 183 of the most vicious people who ever lived.  What do you think I'm doing?"
+      },
+      {
+        "speaker": "LINDENMEYER",
+        "text": "I'm begging you...please don't kill me! Please!"
+      },
+      {
+        "speaker": "SID 6.7",
+        "text": "Don't worry. Through me, you will live forever..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80808",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "You actually listen to all those tapes?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "No, I just like the effect a tape recorder has on you.  How you feeling today?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "A little less than yesterday."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "In other words, par for the course.  How do you feel about the simulation you participated in yesterday?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "John died."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "I know. I was there. I saw the whole thing.  If I was your therapist, I would have advised you against putting yourself back into that kind of situation."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "You're not my therapist. You're hear to study me. Face it  I'm nothing more than a lab rat to you."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "That's not true, Parker."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "If I had died yesterday, you'd have already dissected my brain and analyzed it to see if I carry any genetic predisposition toward violence."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "What was going through your mind when you killed the busboy?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Not much. He was just a computer program. Nothing more."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "You didn't see the expression you had on your face when you pulled the trigger. But I did.  You kind of liked it, didn't you? That thrill of going over the edge again. Of taking out an innocent bystander or two, as long as you got the target..."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Go to hell."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "It was just like before, wasn't it? Wasn't it?  But you are making progress. Instead of killing seven people to get the one you're after, this time there was only one other person involved."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Enough!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80809",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "MADISON",
+        "text": "I need to know what snapped in you. What made you capable of it. You have to make me understand."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "I don't have to do anything except survive. And it's taking everything I've got just to do that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80810",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "I don't need a babysitter."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "What you need is a collar."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80811",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "Every day for the last five years, I told myself someday I would be out here again. No more bars. No more guards. No more fights just to stay alive.  Every day for the last five years, I told myself that lie."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "It wasn't a lie."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Every time I said it, it was. I never really thought I was going to make it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80812",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "MADISON",
+        "text": "You all right?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Fine. Never felt better in my life.  See, I'm a good liar."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80813",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "MADISON",
+        "text": "You ready for this?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Don't worry. If I can't handle it, I'll just kill everybody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80814",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "MADISON",
+        "text": "He was reenacting Charles Manson's LaBianca murders."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Manson didn't kill the first cops to arrive on the scene."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Whoever did this wanted to do Charlie one better  to improve upon what was already done."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Charlie? You say that like you're close, personal friends."
+      },
+      {
+        "speaker": "MADISON",
+        "text": "I've spent over 50 hours interviewing him.  Charlie killed Leno and Rosemary LaBianca because of the ugly way the members of his family had butchered Sharon Tate. After seeing the blood bath on television, he wanted to show them how it should be done.  The question is, what does Charlie have to do with Sid 6.7?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "I know who would know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80815",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "Learn anything from Lindenmeyer's file?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "He had a twin brother who was a musical child prodigy who died in an electrical accident at age eight. Lindenmeyer went into an emotional shell until was 17. All he did day and night was play the violin."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "What happened when he was 17?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Every music school in the country rejected him and he turned to computers.  Stay here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80816",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "MADISON",
+        "text": "You've got a problem with me carrying a gun?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Do me one favor  if you shoot at anything, make sure I'm nowhere near it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80817",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "PARKER",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "MADISON",
+        "text": "Checking my pulse. It's elevated.  You enjoy frightening me, don't you?"
+      },
+      {
+        "speaker": "PARKER",
+        "text": "You've studied me, now I'm studying you. Seems only fair, don't you think?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_80818",
+    "movie_id": "m597",
+    "turns": [
+      {
+        "speaker": "MADISON",
+        "text": "This Lindenmeyer's a real piece of work."
+      },
+      {
+        "speaker": "PARKER",
+        "text": "Maybe after they catch him, you should write a book about him..."
+      }
+    ]
+  }
+]

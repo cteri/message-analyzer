@@ -1,0 +1,2262 @@
+[
+  {
+    "conversation_id": "conv_68213",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Little more gas.  Ease it up.  Hold on- minor setback.  Now you feel confident, right?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Now, go into second.  Little more gas... Yeah!  You can get  this whole problem.  Now, maybe you downshift to first?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "This is so noble."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Well no, it's not noble, but it's a good aid to your lesson."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68214",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Let's get outta here.  You want to?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68215",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Are you comfortable?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yes.  Are you shaking?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "No."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You're shaking."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I don't think so."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You're cold."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I don't think I am."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Then why are you shaking?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I don't know.  I'm happy."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Here are some blankets.  This is a good song, this is a really good song."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68216",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Check your mail tomorrow.  I sent you a letter, a letter."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Your letter came yesterday."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "It did?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Uh-huh.  It was wonderful."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Why didn't you tell me?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "It was wonderful."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I've never sent a letter like that, you know?  I mean, I felt like I wanted to tell you something, but I didn't put it in the letter, and I didn't say it, but I want to say it now, I'm not sure if I should say it, you know, 'cause people always say it and don't mean it, but I think that I mean it, so, um, I just wanted to tell you..."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No, we don't have to say it."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "How do you know what I'm going to say?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I don't know what you're going to say, but I think that..."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I was just going to tell you that I love you.  I said it."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I know.  Lloyd, let's not start putting things on this level."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What?  This is a good level, isn't it?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "How can I look at you and say this?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Say what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68217",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "I think that we should spend some time apart."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Well, I need to study, and..."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "You need to study?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Okay, how much time do you need?  I mean, you know, I mean you'll be leaving in a little while, so that's answered some questions."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "We'll see."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Okay.  It's good knowing this."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Yeah, uh-huh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68218",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Okay, what did we just decide?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "We decided..."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "'Cause I'm worried, did you just break up with me?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No, no."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "It sounded like you did."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No.  We decided that we're friends.  I mean, I know it's a terrible word..."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Well, if we're friends, why can't we see each other?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I think that we should stop going out on dates."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I feel like a dick.  You must think I'm a dick."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No, I don't, I don't."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah you do."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Lloyd, we shared the most intimate thing two people can share."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "You shared it with a dick."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No I didn't."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Is this because of your dad?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Did you talk to Corey?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Why, did you tell Corey what happened?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "She figured it out.  I'm sorry if that upsets you."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "No, that's fine.  She'll tell everybody, but that's fine."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Did you tell anybody?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Just my dad."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "You told your dad?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "You have Corey and DC.  I have my dad."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What, I'm sorry I said that.  Forget I said it, it's what I thought I meant, but forget it."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Lloyd, I love you, okay?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What is that?  What are you doing with your hands?  Talk to me, you're talking like that girl Sheila."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Don't be mean, this is hard for me too."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Then don't do it."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Oh shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68219",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "My father's guilty.  He lied to me, he lied to everybody.  I just left home... I need you."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "You do?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Everything else means nothing to me.  If I hurt you again, I'll die."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Hurt me again?  Not a chance, don't worry about it."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I love you."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I love you.  How many more times do I have to say it?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "One more time would be nice."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I love you.  Please, I love you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68220",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "I'm fine."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Okay, good, this is all very noble."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68221",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "DIANE",
+        "text": "Okay."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Alright, high level air safety tips.  If anything happens, it'll usually be in the first five minutes of the flight, right?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Okay."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "So when you hear the smoking sign go 'ding', you know everything's going to be okay."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Good to know."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Right, I'm just going to keep talking until that ding happens, which is going to be soon."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Okay."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Alright, personalised flight care from Corey.  Books, cassettes, magazines, anything?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Not right now, thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68222",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "How's it going?"
+      },
+      {
+        "speaker": "DIANE",
+        "text": "Nobody thought we'd do this.  Nobody really thinks it's going to work, do they?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "No.  You just described every great success story.  Alright, it's alright."
+      },
+      {
+        "speaker": "DIANE",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68223",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "GUY 2",
+        "text": "Man, all you gotta do is find a girl who looks just like her, nail her, and then dump her man, get her off your mind."
+      },
+      {
+        "speaker": "MARK",
+        "text": "Your only mistake is that you didn't dump her first.  Diane Court is a showpony.  You need a stallion, my friend.  Walk with us and you walk tall."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68224",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MARK",
+        "text": "It's your castle, man."
+      },
+      {
+        "speaker": "GUY 2",
+        "text": "Man, you never had a chance with a girl like that."
+      },
+      {
+        "speaker": "MARK",
+        "text": "Hey man, I was in love once.  I got hurt really bad.  I never wanna go through that again."
+      },
+      {
+        "speaker": "GUY 2",
+        "text": "Man, you're bringing me down!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68225",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "GUY 2",
+        "text": "You're freaking out here man."
+      },
+      {
+        "speaker": "MARK",
+        "text": "You've gotta get her out of your head, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68226",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah, you gotta go 'YEAH', strength.  Poor little man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68227",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "YEAH!"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "He's back.  Hey my brother, can I borrow a copy of your 'Hey Soul Classics'?"
+      },
+      {
+        "speaker": "JASON",
+        "text": "No my brother, you have to go buy your own."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Hook up the jab, hook up the jab."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68228",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "PAIN!"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Work that jab, work that hook, work that jab, okay, take a break, take a break."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68229",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Jim Court?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Hello.  May I please speak with Diane please?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Sorry, Diane isn't here at the moment."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Uh... okay... um..."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Is this the guy with the Mustang?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "No."
+      },
+      {
+        "speaker": "JIM",
+        "text": "The guy with the Datsun?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "No."
+      },
+      {
+        "speaker": "JIM",
+        "text": "The truck?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Uh, no, not really, no actually, basically, you don't know me. I'm a friend of your daughters; well I sat with her yesterday at the mall."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68230",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Why don't I just get your phone number, that's usually how it works."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Oh.  Okay then... Lloyd Dobler, 555-1342."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68231",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Okay, I'll give here the message."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Okay. She's really pretty great, isn't she?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "What?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "She's really pretty great, isn't she?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Yeah, she is.  Good luck."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Okay.  Good afternoon.  Goodbye."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Jim Court... no, this is her father.  I'll take..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68232",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Hi.  Lloyd Dobler, sir.  Pleasure to meet you."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Hello Lloyd."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Hello.  Heard about that graduation present.  Really quite a car. Look, I know you're busy, you don't' have to retain me, but you can trust me.  I'll tell you a couple of things about myself, I'm nineteen, been overseas for a couple of semesters, but now I'm back.  I'm an athlete, so I rarely drink.  Kickboxing.  You heard of kickboxing, sport of the future?  Don 'The Dragon' Wilson, Lenny [?] merciless, one of the champions of the sport?  I can see by your face, no.  My point is, you can relax because your daughter will be safe with me for the next seven to eight hours."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Fine Lloyd."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "How ya doing?  Is she around?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Yeah.  Honey?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68233",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Thanks Lloyd."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "How do you pay for one of those?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Well, we pay for the [?].  That guy didn't want to part with it, a little matter of nine thousand dollars."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68234",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "Yeah Lloyd.  What are your plans for the future?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Spend as much time as possible with Diane before she leaves."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Seriously, Lloyd."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I'm totally and completely serious."
+      },
+      {
+        "speaker": "JIM",
+        "text": "No, really."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "You mean like career?  Uh, I don't know.  I've, I've thought about this quite a bit sir, and I'd have to say considering what's waiting out there for me, I don't want to sell anything, buy anything or process anything as a career.  I don't want to sell anything bought or processed, or buy anything sold or processed, or... process anything sold, bought or processed, or repair anything sold, bought or processed, you know, as a career I don't want to do that.  So, uh, my father's in the army, he wants me to join, but I can't work for that corporation, so what I've been doing lately is kickboxing, which is really a, uh, new sport, but I think it's got a good future.  As far as career longevity goes, I don't really know, because, you know, you can't really tell.  Your training sticks  as a fighter, you know, but it's no good, you know, you have to be great, but I can't really tell if I'm great until I've had a couple of pro fights. But I haven't been knocked out yet.  I don't know, I can't figure it all out tonight sir, I'm going to hang with your daughter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68235",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Hi, Lloyd.  This is my eighth and final call..."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Go ahead, pick it up if you want."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I just wanted to say that I've thought about everything, and I've decided something.  I'm going to give you another chance.  Maybe no one's listening, or maybe your father's listening.  Mr Court, if you're listening to this, hello, how are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68236",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "She wouldn't get out of the car.  I brought her all the way here, she said she was going to come here, and she wouldn't get out of the car.  But I thought that is was important, that she come to see you, because I know that if you go somewhere and you don't deal with your family stuff, then you're just gonna, she's gonna, um..."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Are you going to England with her Lloyd?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "That's one of the things I wanted to talk to you about sir."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Are you?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Am I going?  Am I going to England?  I've thought about this quite a bit, and I've realised what I probably should do is just carve out a goal for my future and find out what I wanna do with my life, do all the stuff that I've been avoiding in a big way. I mean, Diane and I can wait for each other, right?  What's she gonna... she's gonna run off with some English guy?  There's no way."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Well Lloyd, I admire you for not hitching a ride.  You know, my daughter's a lot different to you."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I know."
+      },
+      {
+        "speaker": "JIM",
+        "text": "She's very successful."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I know"
+      },
+      {
+        "speaker": "JIM",
+        "text": "Very talented."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I know.  But then I reconsidered.  'Cause I figured out what I really wanna do with my life, what I want to do for a living is I wanna be with your daughter.  I'm good at it."
+      },
+      {
+        "speaker": "JIM",
+        "text": "You're not a permanent part of her life.  You're a distraction."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I'm the distraction that's going to England with her sir.  Are you alright sir?  Are you okay?"
+      },
+      {
+        "speaker": "JIM",
+        "text": "I'm incarcerated, Lloyd!  I don't deserve to lose my daughter over this.  I don't deserve to have you as my go-between.  And I can't for the life of me figure out how she could choose to champion in mediocrity the way she flirts around you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68237",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "JIM",
+        "text": "\"You can't know the horrible disappointment I feel...\""
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I know this part, keep reading."
+      },
+      {
+        "speaker": "JIM",
+        "text": "She can't still be angry at this, it's gotta get better."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "It does, it does if it's the version signed 'I still can't help loving you'.  Read that."
+      },
+      {
+        "speaker": "JIM",
+        "text": "Just her name."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Just knowing a person like that exists, knowing that for a minute that she felt that and wrote 'I still can't help loving you'. That's gotta be a good thing, right?  That's gotta be a good thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68238",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Joe.  Joe.  She's written sixty-five songs.  They're all about you.  They're all about pain."
+      },
+      {
+        "speaker": "JOE",
+        "text": "So what's up?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Stop freaking with her head man.  Just stop playing with her mind, you know?  She's a human being.  She's a person.  She's very talented, you know."
+      },
+      {
+        "speaker": "JOE",
+        "text": "Dude, why do you think I keep her tapes?  They're going to be valuable some day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68239",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "My car."
+      },
+      {
+        "speaker": "JOE",
+        "text": "Your car?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68240",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Diane Court."
+      },
+      {
+        "speaker": "JOE",
+        "text": "Dude, I can't do it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68241",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MISS EVANS",
+        "text": "Lloyd.  Lloyd Dobler, I've got you."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "How ya doin' Miss Evans?"
+      },
+      {
+        "speaker": "MISS EVANS",
+        "text": "You missed every one of your career counselling sessions.  Call me obsessive, compulsive, but let's do this right now."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "No way."
+      },
+      {
+        "speaker": "MISS EVANS",
+        "text": "Lloyd."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68242",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MISS EVANS",
+        "text": "Don't make this like a counsel, Lloyd. I got statistics I can show you, I got graphs I can show you.  That's all the stuff I can show you, it all says the same thing.  You have to decide on a career."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "My dad's a lieutenant colonel in the army, he wants me to join, he wants to pull some strings.  I mean, there's no possible way."
+      },
+      {
+        "speaker": "MISS EVANS",
+        "text": "We'll just make an appointment for you at Seattle Junior College."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68243",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MISS EVANS",
+        "text": "Lloyd, everybody in that party put something down on their record except you."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "How many people really know what they want though?  I mean, a lot of them think that they have to know, right? But inside, they don't really know, so, I don't know.  But I know that I don't know."
+      },
+      {
+        "speaker": "MISS EVANS",
+        "text": "Hang tough, Lloyd."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68244",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Oh boy."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Hey."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Mike Cameron, how you doing?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "What?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Mike Cameron.  This is one fresh jam, huh?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah, hey, oh god.  Listen, I wanted to... I don't know you very well, you know, but I wanted to ask you, how did you get Diane Court to go out with you?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I called her up."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah, but how come it worked?  I mean like, what are you?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I'm Lloyd Dobler."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "This is great, this gives me hope.  Thanks."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Alright.  Key?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68245",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Ooop, excuse me."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "How you doin', brother?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I don't really know where we are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68246",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "VALHERE",
+        "text": "It's gotta stay purple.  All night.  Hey Lloyd, how ya doin'?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "You know Diane Court?"
+      },
+      {
+        "speaker": "VALHERE",
+        "text": "Wow, man.  Well.  Listen man, I need you to be the keymaster."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68247",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "LLOYD",
+        "text": "Oh, I was just going to..."
+      },
+      {
+        "speaker": "VALHERE",
+        "text": "A very responsible young man you're out with tonight."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I was gonna..."
+      },
+      {
+        "speaker": "VALHERE",
+        "text": "Thanks a lot Lloyd."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I was just going to kind of move around."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68248",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "VALHERE",
+        "text": "You know, every year I throw this party, every year nobody helps me clear up.  Why am I yelling?"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "VALHERE",
+        "text": "I don't know.  Good on you man.  Alright Lloyd."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Maybe we'll come by tomorrow, help you clear up or something."
+      },
+      {
+        "speaker": "VALHERE",
+        "text": "Diane, everybody loves that you showed up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68249",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "VALHERE",
+        "text": "Certainly."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I am happy to say that this bag is officially empty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68250",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MARK",
+        "text": "We finally graduated, big dude guy!"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Alright!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68251",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MARK",
+        "text": "I love you man"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I love you too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68252",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MARK",
+        "text": "Give me my firebird keys!"
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "You must chill!  You must chill!  I have hidden your keys. CHILL!"
+      },
+      {
+        "speaker": "MARK",
+        "text": "I love you man."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Alright, I love you too. Go to sleep."
+      },
+      {
+        "speaker": "MARK",
+        "text": "We're full on bonded."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "Yeah, alright."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68253",
+    "movie_id": "m503",
+    "turns": [
+      {
+        "speaker": "MARK",
+        "text": "Later for you, Luke."
+      },
+      {
+        "speaker": "LLOYD",
+        "text": "I got a question.  If you guys know so much about women, how come you're here at like the Gas 'n' sip on a Saturday night completely alone, drinking beers, no women anywhere?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68254",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "BRINNLITZ GUY 2",
+        "text": "Oskar - my friend Lena."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "How do you do?  What can I get you, what're you drinking?"
+      },
+      {
+        "speaker": "BRINNLITZ GUY 2",
+        "text": "Nothing's changed.  Then again, something has changed, hasn't it?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Things worked out.  I made some money over there, had some laughs, you know. It was good."
+      },
+      {
+        "speaker": "BRINNLITZ GUY 2",
+        "text": "Now you're back."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Now I'm back, and you know what I'm going to do now?  I'm going to have a good time.  So are you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68255",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "He's essential.  Without him, everything comes to a grinding halt.  If that happens -"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Itzhak Stern?  He's on the list."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "He is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68256",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "Well, let's find him."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "He's on the list.  If he were an essential worker, he would not be on the list. He's on the list.  You can't have him."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I'm talking to a clerk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68257",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "What's your name?"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Sir, the list is correct."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I didn't ask you about the list, I asked you your name."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Klaus Tauber."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68258",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "The gentleman thinks a mistake's been made."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "My plant manager is somewhere on this train. If it leaves with him on it, it'll disrupt production and the Armaments Board will want to know why."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68259",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "You know what, you'd like her."
+      },
+      {
+        "speaker": "EMILIE",
+        "text": "Oskar, please -"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "What -"
+      },
+      {
+        "speaker": "EMILIE",
+        "text": "I don't have to like her just because you do.  It doesn't work that way."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "You would, though.  That's what I'm saying."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68260",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "EMILIE",
+        "text": "It's not a charade, all this?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "A charade?  How could it be a charade?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68261",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "EMILIE",
+        "text": "Luck."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "War."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68262",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "What?"
+      },
+      {
+        "speaker": "EMILIE",
+        "text": "I feel like an old-fashioned couple. It feels good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68263",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "EMILIE",
+        "text": "Should I stay?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "It's a beautiful city."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68264",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "EMILIE",
+        "text": "Should I stay?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "It's up to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68265",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GESTAPO",
+        "text": "Your friend Amon Goeth has been arrested."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I'm sorry to hear that."
+      },
+      {
+        "speaker": "GESTAPO",
+        "text": "There are some things that are unclear. We need to talk."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I'd love to, it'll have to wait until I get back.  I have to leave."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68266",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "All right, okay, let's talk."
+      },
+      {
+        "speaker": "GESTAPO",
+        "text": "In Breslau."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Breslau?  I can't go to Breslau.  Not now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68267",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "We started without you."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68268",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "You know, they told me you were going to be trouble - Czurda and Scherner."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "You're kidding."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68269",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "He looks great, though, doesn't he? I have to know - where do you get a suit like that?  what is that, silk?  It's great."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I'd say I'd get you one but the guy who made it, he's probably dead, I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68270",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "I go to work the other day, there's nobody there.  Nobody tells me about this, I have to find out, I have to go in, everybody's gone -"
+      },
+      {
+        "speaker": "GOETH",
+        "text": "They're not gone, they're here."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "They're mine!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68271",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "Every day that goes by, I'm losing money. Every worker that is shot, costs me money - I have to get somebody else, I have to train them -"
+      },
+      {
+        "speaker": "GOETH",
+        "text": "We're going to be making so much money, none of this is going to matter -"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "It's bad business."
+      },
+      {
+        "speaker": "GOETH",
+        "text": "Some of the boys went crazy, what're you going to do?  You're right, it's bad business, but it's over with, it's done.  Occasionally, sure, okay, you got to make an example.  But that's good business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68272",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "Scherner told me something else about you."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Yeah, what's that?"
+      },
+      {
+        "speaker": "GOETH",
+        "text": "That you know the meaning of the word gratitude.  That it's not some vague thing with you like with some guys."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "True."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68273",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "Do you have any idea what's involved? The paperwork alone?  Forget you got to build it all, getting the fucking permits, that's enough to drive you crazy.  Then the engineers show up.  They stand around and they argue about drainage - I'm telling you, you'll want to shoot somebody, I've been through it, I know."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Well, you've been through it.  You know. You could make things easier for me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68274",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "It's true.  Never happen in Cracow, though, we all love you too much."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I pay you too much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68275",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "You held back Stern.  You held back the one man most important to my business."
+      },
+      {
+        "speaker": "GOETH",
+        "text": "He's important to my business."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "What do you want for him, I'll give it to you."
+      },
+      {
+        "speaker": "GOETH",
+        "text": "I want him.  Come on, let's go inside, let's have a good time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68276",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "I tried to call you, I'm running a little late, this is taking longer than I thought.  Have a drink."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "GOETH",
+        "text": "I got a shipment of Hungarians coming in, I got to make room for them.  It's always something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68277",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "You took my workers."
+      },
+      {
+        "speaker": "GOETH",
+        "text": "They're taking mine.  When I said they didn't have a future I didn't mean tomorrow.  Auschwitz."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "When?"
+      },
+      {
+        "speaker": "GOETH",
+        "text": "I don't know.  Soon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68278",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "You want these people."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "These people, my people, I want my people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68279",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "What are you, Moses?  What is this? Where's the money in this?  What's the scam?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "It's good business."
+      },
+      {
+        "speaker": "GOETH",
+        "text": "Oh, this is \"good business\" in your opinion. You've got to move them, the equipment, everything to Czechoslovakia - it doesn't make any sense."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Look -"
+      },
+      {
+        "speaker": "GOETH",
+        "text": "You're not telling me something."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "It's good for me - I know them, I'm familiar with them.  It's good for you - you'll be compensated.  It's good for the Army.  You know what I'm going to make?  Artillery shells.  Tank shells. They need that.  Everybody's happy."
+      },
+      {
+        "speaker": "GOETH",
+        "text": "Yeah, sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68280",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "If you admit to making three, then it's four, actually.  But how?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I just told you."
+      },
+      {
+        "speaker": "GOETH",
+        "text": "You did, but you didn't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68281",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "Yeah, all right, don't tell me, I'll go along with it, it's just irritating to me I can't figure it out."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "All you have to do is tell me what it's worth to you.  What's a person worth to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68282",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOETH",
+        "text": "Where are the guards?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "The guards aren't allowed on the factory floor. They make my workers nervous."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68283",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOLDBERG",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "You don't recognize it?  Maybe that's because it's not what I asked for."
+      },
+      {
+        "speaker": "GOLDBERG",
+        "text": "You asked for shoe polish."
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "My buyers sold it to a guy who sold it to the Army.  But by the time it got there - because of the cold - it broke, the whole truckload."
+      },
+      {
+        "speaker": "GOLDBERG",
+        "text": "So I'm responsible for the weather?"
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "I asked for metal, you gave me glass."
+      },
+      {
+        "speaker": "GOLDBERG",
+        "text": "This is not my problem."
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "Look it up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68284",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOLDBERG",
+        "text": "Ghetto Police.  I'm a policeman now, can you believe it?"
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "Yeah, I can."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68285",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "GOLDBERG",
+        "text": "Hey, Poldek, how's it going?  You know about the list?  You're on it."
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "Of course I'm on it."
+      },
+      {
+        "speaker": "GOLDBERG",
+        "text": "You want to stay on it?  What do you got for me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68286",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "What do I got for you?"
+      },
+      {
+        "speaker": "GOLDBERG",
+        "text": "Takes diamonds to stay on this list."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68287",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "LOWENSTEIN",
+        "text": "I want to thank you, sir, for giving me the opportunity to work."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "You're welcome, I'm sure you're doing a great job."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68288",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "LOWENSTEIN",
+        "text": "The SS beat me up.  They would have killed me, but I'm essential to the war effort, thanks to you."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "That's great."
+      },
+      {
+        "speaker": "LOWENSTEIN",
+        "text": "I work hard for you.  I'll continue to work hard for you."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "That's great, thanks."
+      },
+      {
+        "speaker": "LOWENSTEIN",
+        "text": "God bless you, sir."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Yeah, okay."
+      },
+      {
+        "speaker": "LOWENSTEIN",
+        "text": "You're a good man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68289",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "Like this?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "There's nothing in the stores."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68290",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "You have any idea what a shirt like this costs?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Nice things cost money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68291",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "How many?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I don't know, ten or twelve.  That's a good color.  Dark blues, grays."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68292",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "How you feeling, all right?"
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "What's the matter, everything all right at home?  Mila's okay?"
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "She's good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68293",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "What's wrong with it?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "How should I know?  It's broken. See what you can do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68294",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "Good.  How's it going?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Things are great, things are great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68295",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I'm having a drink, come on in, we'll have a drink."
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "I mean where have you been? Nobody's seen you around for a while."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I've been here.  I guess I haven't been out."
+      },
+      {
+        "speaker": "PFEFFERBERG",
+        "text": "I thought maybe you'd like to come over, have some dinner, some of the people are coming over."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Yeah?  Yeah, that'd be nice, let me get my coat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68296",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "RASCH",
+        "text": "Oskar, good of you to come."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Are you kidding, I never miss a party. Police Chief Rasch, my wife Emilie."
+      },
+      {
+        "speaker": "RASCH",
+        "text": "How do you do?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68297",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "RASCH",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "I need a drink."
+      },
+      {
+        "speaker": "RASCH",
+        "text": "Oh, God, you don't have a drink?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Wine?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68298",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "One of these days the Russians are going to show up unannounced at my gate.  I'd like the chance to defend myself.  I'd like my wife to have that chance.  My civilian engineers. My secretary."
+      },
+      {
+        "speaker": "RASCH",
+        "text": "We're losing the war, aren't we."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "It kind of looks that way."
+      },
+      {
+        "speaker": "RASCH",
+        "text": "Pistols?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Pistols, rifles, carbines ...  I'd be grateful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68299",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHERNER",
+        "text": "I'd never ask you for money, you know that. I don't even like talking about it - money, favors - I find it very awkward, it makes me very uncomfortable -"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "No, look.  It's the others.  They're the ones causing these delays."
+      },
+      {
+        "speaker": "SCHERNER",
+        "text": "What others?"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Whoever.  They're the ones.  They'd appreciate some kind of gesture from me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68300",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHERNER",
+        "text": "That'd be fine."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Done.  Lets not talk about it anymore, let's have a good time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68301",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHERNER",
+        "text": "The place produces nothing.  I shouldn't say that - nothing it produces reaches the Army.  That's not all right."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "So I'll talk to him about it."
+      },
+      {
+        "speaker": "SCHERNER",
+        "text": "He's a friend of yours, you want to help him out. Tell me this, though - has he ever once shown you his appreciation?  I've yet to see it. Never a courtesy.  Never a thank you note.  He forgets my wife at Christmas time -"
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "He's got no style, we all know that. So, we should hang him for it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68302",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHERNER",
+        "text": "He doesn't deserve your loyalty.  More important, he's not worth you making threats against us."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Did I threaten anybody here?  I stated a simple fact."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68303",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "STERN",
+        "text": "I was just the accountant."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Simple engineering, though, wouldn't you think?  Change the machines around, whatever you do, you could make other things, couldn't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68304",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "Once the war ends, forget it, but for now it's great, you could make a fortune. Don't you think?"
+      },
+      {
+        "speaker": "STERN",
+        "text": "I think most people right now have other priorities."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68305",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "STERN",
+        "text": "Get the contracts and I'm sure you'll do very well.  In fact the worse things get the better you'll do.  It was a \"pleasure.\""
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "The contracts?  That's the easy part. Finding the money to buy the company, that's hard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68306",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "Jews, yeah.  Investors."
+      },
+      {
+        "speaker": "STERN",
+        "text": "Jews can no longer own businesses, sir, that's why this one's for sale."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Well, they wouldn't own it, I'd own it. I'd pay them back in product.  They can trade it on the black market, do whatever they want, everybody's happy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68307",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "STERN",
+        "text": "Pots and pans."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Something they can hold in their hands."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68308",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "STERN",
+        "text": "I don't know anybody who'd be interested in that."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "They should be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68309",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "What was that about the SS, the rate, the ... ?"
+      },
+      {
+        "speaker": "STERN",
+        "text": "The Jewish worker's salary, you pay it directly to the SS, not to the worker. He gets nothing."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "But it's less.  It's less than what I would pay a Pole.  That's the point I'm trying to make.  Poles cost more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68310",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "I could try to read this or I could eat my lunch while it's till hot.  We're doing well?"
+      },
+      {
+        "speaker": "STERN",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Better this month than last?"
+      },
+      {
+        "speaker": "STERN",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SCHINDLER",
+        "text": "Any reason to think next month will be worse?"
+      },
+      {
+        "speaker": "STERN",
+        "text": "The war could end."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68311",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "What?"
+      },
+      {
+        "speaker": "STERN",
+        "text": "There's a machinist outside who'd like to thank you personally for giving him a job."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68312",
+    "movie_id": "m504",
+    "turns": [
+      {
+        "speaker": "SCHINDLER",
+        "text": "Don't ever do that to me again."
+      },
+      {
+        "speaker": "STERN",
+        "text": "Do what?"
+      }
+    ]
+  }
+]

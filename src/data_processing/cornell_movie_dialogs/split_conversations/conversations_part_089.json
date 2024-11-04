@@ -1,0 +1,1678 @@
+[
+  {
+    "conversation_id": "conv_8801",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BRENDA",
+        "text": "Good night, Alice."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Good night, Brenda."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8802",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Cabin B is ready."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "Push on this side. Alice, this is Jack, Marcie and Ned. Push."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8803",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "STEVE",
+        "text": "That's got her. Thanks. I'm Steve Christy. Welcome to Camp Crystal Lake. You got some grubby clothes? Climb into 'em. Alice, see if Bill has cleaned out the boathouse. I want him to start with the canoes. What happened to Brenda?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "You told her to sweep the courts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8804",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "STEVE",
+        "text": "You draw very well."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Oh, thanks. I wish I could spend more time at it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8805",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "STEVE",
+        "text": "Any particular reason?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Just a feeling.  Nothing personal."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "You want to leave?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I don't know. Probably be best for everybody."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "You may not care a lot about this place, Alice, but I mean to make it my whole life. It's been my whole life. Gimme a chance. Stay a week. Help get it ready. Next Friday, if you're not happy, I'll put you on the bus myself. I'll be grateful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8806",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Next Friday."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "Thanks, Alice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8807",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "STEVE",
+        "text": "I've got to go to town and pick up the trailer and all that other stuff, but I'll be back around ten. If you're still up, we can talk, okay?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8808",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Steve said for you to start on the boats."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I finished the boats."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8809",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Alice? The others show up?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Everybody except the girl who's supposed to handle the kitchen. Annie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8810",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "You think you're gonna last all summer?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I'm not sure I'll last all week.  I'll tell Steve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8811",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Steve said you were thinking of leaving. True?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Un-hunh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8812",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Oh, my God..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "You okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8813",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "How come you're leaving?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "It's long and personal. It has nothing to do with you or the other kids."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Maybe I can help?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8814",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "And it's this place. It makes no sense, but it spooks me."
+      },
+      {
+        "speaker": "BILL",
+        "text": "You're right. It makes no sense."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8815",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Filmmaker."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Artist."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8816",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "It still hurts?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I walked into it knowing I'd get hurt, but I thought I could stand anything.  I just wasn't ready for that kind of pain. We were supposed to meet in L.A. When I got back there, he sent a telegram saying he was going back to his wife."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8817",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "What'll you do when you leave here?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8818",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I didn't know I was asleep... What time is it?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Almost five."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8819",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "You can only do what you can do."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "And then Steve looks at you with those hurt eyes -- like you don't care about children..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8820",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "How the... did he get in there?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Slipped in. Probably liked the scent of your perfume."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8821",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Trouble?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Bad bulb or no power. It's getting a little gloomy in here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8822",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Jack and Marcie are gonna be drenched."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Not if they're where I think they are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8823",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "It wouldn't matter except Steve should be getting back pretty soon. It wouldn't look so great if he fell over them."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Good point."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Well, it hasn't been that long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8824",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Help you clean up?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Absolutely."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8825",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I don't hear it anymore."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Can't hear anything through that wind and rain."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "It sounded like Brenda."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I'll go take a look."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Did somebody leave the lights on at the softball field?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8826",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Where?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "They're off now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8827",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "I'll go check on Brenda."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8828",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Jack?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Marcie?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Hey, guys!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8829",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "It's dead. Try the pay phone."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Do you have a dime? A quarter?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "No. There must be some in the desk somewhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8830",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "What's the matter with it?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Wet. I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8831",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Why don't we run? Just run now?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "It's over twenty miles to the crossroads. Steve'll be back in an hour. Things will straighten out then. We'll take his Jeep and get help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8832",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "How come?"
+      },
+      {
+        "speaker": "NED",
+        "text": "Some campers drowned. Then some counselors got killed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8833",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I'll be along."
+      },
+      {
+        "speaker": "NED",
+        "text": "Don't burn that gorgeous body, or I'll scratch your eyes out..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8834",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "NED",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Ned? We're gonna be working together for a while. You're a nice guy without all the entertainment, okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8835",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Sure."
+      },
+      {
+        "speaker": "NED",
+        "text": "I'm gonna go lie down and catch some z's. Today wiped me out.  Thanks, Alice."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "You're welcome."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8836",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "CLAUDETTE",
+        "text": "You said we were special."
+      },
+      {
+        "speaker": "BARRY",
+        "text": "I meant everything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8837",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BARRY",
+        "text": "You know what I said, though."
+      },
+      {
+        "speaker": "CLAUDETTE",
+        "text": "I can't, Barry..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8838",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BARRY",
+        "text": "I wouldn't know."
+      },
+      {
+        "speaker": "CLAUDETTE",
+        "text": "Oh, you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8839",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BARRY",
+        "text": "Claudette..."
+      },
+      {
+        "speaker": "CLAUDETTE",
+        "text": "Somebody'll see."
+      },
+      {
+        "speaker": "BARRY",
+        "text": "No, they won't..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8840",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "CLAUDETTE",
+        "text": "Somebody's there, Barry."
+      },
+      {
+        "speaker": "BARRY",
+        "text": "Come on, Claudette. A man's not made of stone."
+      },
+      {
+        "speaker": "CLAUDETTE",
+        "text": "Let's go back, Barry..."
+      },
+      {
+        "speaker": "BARRY",
+        "text": "I need you so much, Claudette."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8841",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "What the hell?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Where'd you get that stuff?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8842",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Give me a hand?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "For sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8843",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "This is almost like the one at my uncle's cabin in Maine."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Here we go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8844",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "I'll be okay. Holy shit..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Don't get up. Take a second..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8845",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "You saved my life."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I had to."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I figured if I didn't save you. I'd have to give you mouth-to-mouth and that would have ruined my appetite."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8846",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Floor probably leaks. This area is full of springs."
+      },
+      {
+        "speaker": "BILL",
+        "text": "A short somewhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8847",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Is it stuck?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8848",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Roll him over!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Get behind him more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8849",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Chance to get even?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "I'll spot you five points."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8850",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "You just had some lucky shots."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Where's Ned?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8851",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "NED",
+        "text": "Did anyone ever tell you you're beautiful when you're angry?"
+      },
+      {
+        "speaker": "BRENDA",
+        "text": "I don't believe you..."
+      },
+      {
+        "speaker": "NED",
+        "text": "Want to see my trick shot? It's even better."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8852",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "BRENDA",
+        "text": "You ever fire one of those bows again, and I'll tack you up on the wall to dry."
+      },
+      {
+        "speaker": "NED",
+        "text": "God, but I love that sexy talk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8853",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "NED",
+        "text": "What do you want to be when you grow up?"
+      },
+      {
+        "speaker": "BRENDA",
+        "text": "Dancer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8854",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "NED",
+        "text": "Holy shit..."
+      },
+      {
+        "speaker": "BRENDA",
+        "text": "We wouldn't want you thinking you're the only show-off in camp, would we?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8855",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "NED",
+        "text": "No wonder they lost America. How could you sneak around in the bushes wearing that? What's to eat?"
+      },
+      {
+        "speaker": "BRENDA",
+        "text": "Whatever you make yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8856",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "NED",
+        "text": "What hath God wrought?"
+      },
+      {
+        "speaker": "BRENDA",
+        "text": "That was the telephone."
+      },
+      {
+        "speaker": "NED",
+        "text": "Ha! You wily oriental! The phone was \"Mr. Watson, come in here, I need you.\" \"What hath God wrought\" was the telegraph."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8857",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Ha!"
+      },
+      {
+        "speaker": "NED",
+        "text": "Sometimes I only think about kissing women."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8858",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Ow!"
+      },
+      {
+        "speaker": "NED",
+        "text": "I was just wondering if you thought there'd by any other gorgeous women at Camp Crystal Lake. Besides yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8859",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "NED",
+        "text": "What about the dope paragraph in Mr. Christy's letter?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Quote: Controlled substances are expressly forbidden. Possession or use of marijuana or alcohol on campgrounds will means instant dismissal. Unquote."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8860",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "NED",
+        "text": "Jack?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Coach, athletic director somewhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8861",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "It's gonna be a long summer."
+      },
+      {
+        "speaker": "NED",
+        "text": "Wait, wait! When I was finding these goodies in the shed. I also found this letter which a camper never sent home. Listen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8862",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Steve taught me how to use the emergency generator. The town power lines are supposed to be real shitty."
+      },
+      {
+        "speaker": "NED",
+        "text": "God, but I love that macho talk! Emergency generators! The Indian used campfires."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8863",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "How about our last jay?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Good call."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8864",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Just a walk, for Chrissakes."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "Boy, we sure do have a lot of filthy small-minded people around here.  Wait a minute, I'll get my diaphragm and be right with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8865",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Wind's up. It's shifted a good hundred and eighty degrees."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "Makes me want to hold on and never let go."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I love you."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "I love you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8866",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "What about Neddy?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "I don't love Neddy."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "He keeps on acting like such an asshole!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Ned!"
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "Don't call him."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I thought you wanted to give him one of your motherly lectures. Ned is gonna do whatever he wants to do, you know."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "I guess..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8867",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Looks like a storm."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "I'm a little scared of storms. Always have been. Since I was a kid."
+      },
+      {
+        "speaker": "JACK",
+        "text": "You? The brick?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8868",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "It's just a dream."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "I call it my shower dream."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8869",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "This is no dream. Want to escape for a while?"
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "Lead the way!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8870",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "Are you wet?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Just a little. Wait a minute, woman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8871",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "Mmmmmmmph?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Mmmmmmmph."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "Best over..."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Umhummmmph."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "Like waves. It's never been likes waves before."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Whassamatta?"
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "Gotta pee. You're lying on my bladder."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8872",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "Sex is all you ever think of, Neddy."
+      },
+      {
+        "speaker": "NED",
+        "text": "There you are dead wrong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8873",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "It's beautiful..."
+      },
+      {
+        "speaker": "NED",
+        "text": "Yeah, and it also look like it hasn't seen a coat of paint in six years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8874",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "Cowboy."
+      },
+      {
+        "speaker": "NED",
+        "text": "Girls can't be cowboys."
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "Okay, Fireman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8875",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "NED",
+        "text": "Doctor. Now, if you were a flavor of ice cream, what would you be?"
+      },
+      {
+        "speaker": "MARCIE",
+        "text": "Rocky Road."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8876",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "Last line of Gone With the Wind?"
+      },
+      {
+        "speaker": "NED",
+        "text": "Frankly, Scarlet, I don't give a damn!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8877",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "You okay?"
+      },
+      {
+        "speaker": "NED",
+        "text": "Those things can be nasty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8878",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "MARCIE",
+        "text": "Wait'll you're really in trouble and see what happens..."
+      },
+      {
+        "speaker": "NED",
+        "text": "But it's in the brochure! \"Camp Crystal Lake has a full drama program.\" You just saw it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8879",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Anything else you want?"
+      },
+      {
+        "speaker": "STEVE",
+        "text": "No, thanks. I'm fine. Sandy."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You can't go back there tonight. Not in that stuff. 'Less you wanta get drownded."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "I got to."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Aw."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8880",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "STEVE",
+        "text": "I have six new counsellor up there. They're all babes in the woods in every sense of the word."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "They'll be okay if they know enough to stay in outta the rain."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "How much do I owe you?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "One night on the town."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "I mean..."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "...I know what you mean. Two and a quarter. Plus fifteen percent tip to make up for me spending the night alone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8881",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "STEVE",
+        "text": "Yeah. I got it on before this --  -- all started."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "That's thirty percent."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "For two lonely nights."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8882",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "TIERNEY",
+        "text": "I told you not to buy that hunk of junk!"
+      },
+      {
+        "speaker": "STEVE",
+        "text": "I think water got into the electrical system. You ride me back to camp? I'll get one of my counselors to drive me back tomorrow morning."
+      },
+      {
+        "speaker": "TIERNEY",
+        "text": "Why not?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8883",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "TIERNEY",
+        "text": "Bad enough we got a full moon; it's Friday the 13th. They keep statistics. We get more accidents, more robberies, more rapes, more homicides, more of everything when there's a full moon. It affects people. Makes 'em nuts."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "You've made a science out of coincidence."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8884",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "TIERNEY",
+        "text": "Have to drop you here, Steve."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8885",
+    "movie_id": "m64",
+    "turns": [
+      {
+        "speaker": "STEVE",
+        "text": "Good luck."
+      },
+      {
+        "speaker": "TIERNEY",
+        "text": "Another coincidence."
+      },
+      {
+        "speaker": "STEVE",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8886",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "BORDER GUARD",
+        "text": "How many with you?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "Just my son and I."
+      },
+      {
+        "speaker": "BORDER GUARD",
+        "text": "What is your purpose in Mexico?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "Vacation. I'm taking him to see his first bullfight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8887",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "BORDER GUARD",
+        "text": "What was that?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "Oh, that's just my daughter in the bathroom."
+      },
+      {
+        "speaker": "BORDER GUARD",
+        "text": "You said it was just you and your son."
+      },
+      {
+        "speaker": "JACOB",
+        "text": "I meant me, my son and my daughter."
+      },
+      {
+        "speaker": "BORDER GUARD",
+        "text": "Open the door. I'm coming aboard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8888",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "CARLOS",
+        "text": "Whatsamatter with you? Are you crazy?"
+      },
+      {
+        "speaker": "SETH",
+        "text": "Why the fuck, outta all the god forsaken shit holes in Mexico, did you have us rendezvous at that place?"
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "I don't know, one place's as good as another."
+      },
+      {
+        "speaker": "SETH",
+        "text": "Have you ever been there before?"
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "No, but I passed by it a couple of times. It's out in the middle of nowhere. It seems like a rowdy place, so there wouldn't be a lot of police. And it's open from dusk till dawn. You said meet you in the morning."
+      },
+      {
+        "speaker": "SETH",
+        "text": "Well, because you picked that place out of a hat, my brother's dead now. And this girl's family's dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8889",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "CARLOS",
+        "text": "I'm sorry to hear that. What were they, psychos?"
+      },
+      {
+        "speaker": "SETH",
+        "text": "Did they look like psychos? They were fuckin' vampires. Psychos don't explode when sunlight hits 'em, I don't care how crazy they are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8890",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "CARLOS",
+        "text": "Oh, Seth, how can I ever make it up to you?"
+      },
+      {
+        "speaker": "SETH",
+        "text": "You can't, but fifteen percent instead of thirty for my stay at El Ray is a good start."
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "Twenty-eight."
+      },
+      {
+        "speaker": "SETH",
+        "text": "Jesus Christ, Carlos, my brother's dead and he's not coming back, and it's all your fault. Twenty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8891",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "CARLOS",
+        "text": "You like the car?"
+      },
+      {
+        "speaker": "SETH",
+        "text": "I said new, this is an '90."
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "It's hardly been used at all. I got it from a drug dealer who only drove it 5 times in as many years. Swear to God. That's like new."
+      },
+      {
+        "speaker": "SETH",
+        "text": "So do I just follow you?"
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "Yeah, follow us."
+      },
+      {
+        "speaker": "SETH",
+        "text": "So let's do it."
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "Vamanos!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8892",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "JACOB",
+        "text": "We got about two more hours of day light left. That'll get us into El Paso, which is right next to the border. We'll stop at a motel --"
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "Stop? We're not going to actually stop at a motel, are we?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8893",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "JACOB",
+        "text": "Unless you two wiseacres wanna be introduced to the joys of hitchhiking, what say we drop this?"
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "The truth hurts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8894",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "SCOTT",
+        "text": "Why do you want to stop?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "I'm exhausted."
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "Lie in the back, Dad, I'll drive us into Mexico."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8895",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "SCOTT",
+        "text": "What's this guy's problem?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "I have no idea."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8896",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "SCOTT",
+        "text": "What are you gonna do?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "I'm gonna try and get us across the border."
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "No, dad, you gotta tell 'em that they're back there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8897",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "JACOB",
+        "text": "Have you forgotten about your sister?"
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "They're gonna kill us. They get us across the border, they're gonna take us out in the desert and shoot us."
+      },
+      {
+        "speaker": "JACOB",
+        "text": "If they get over the border, they're gonna let us go."
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "Dad, I watch those reality shows. They never let anybody go. Any cop will tell you, in a situation like this, you get a chance, you go for it. This is our chance."
+      },
+      {
+        "speaker": "JACOB",
+        "text": "What about Kate?"
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "They're gonna kill her anyway. At least now with all these cops we've got a fighting chance."
+      },
+      {
+        "speaker": "JACOB",
+        "text": "Son, I have this situation under control. I know exactly what I'm doing. You're going to have to trust me on this."
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "If trusting you means trusting those fuckin' killers, I can't do that. If you don't tell the cops, I will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8898",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "JACOB",
+        "text": "Now, you listen to me. You ain't gonna do a goddamn fucking thing, you hear me! Nobody cares what you think, I'm running this show, I make the decisions."
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "He's running the show."
+      },
+      {
+        "speaker": "JACOB",
+        "text": "I'm running the show. I make the plays, and you back the plays I make. Stop thinking with your fucking balls. Kate in a room with a couple of desperate men with nothing to fucking lose ain't the time to \"go for it.\" I need your cover. Cover my ass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8899",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "SCOTT",
+        "text": "You don't believe in suicide."
+      },
+      {
+        "speaker": "JACOB",
+        "text": "It's not suicide if you're already dead. Two..."
+      },
+      {
+        "speaker": "SCOTT",
+        "text": "Okay, I'll kill you when you change, I swear to God in Jesus Christ's name."
+      },
+      {
+        "speaker": "JACOB",
+        "text": "Thank you, son."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8900",
+    "movie_id": "m65",
+    "turns": [
+      {
+        "speaker": "SCOTT",
+        "text": "Why did they block the door again?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "To keep the daylight out! This is where they sleep! Get to the door!"
+      }
+    ]
+  }
+]

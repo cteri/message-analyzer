@@ -1,0 +1,2030 @@
+[
+  {
+    "conversation_id": "conv_74913",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "What's this?  What's this... this picture?"
+      },
+      {
+        "speaker": "MARROW",
+        "text": "That?  That's Hill House."
+      },
+      {
+        "speaker": "MARY",
+        "text": "This is where we're going?"
+      },
+      {
+        "speaker": "MARROW",
+        "text": "Yes.  It's perfect, isn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74914",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "MARROW",
+        "text": "There were no children.  Rene died, and <u>then</u> Hugh Crain built all of this, and then he died. His heart was broken."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74915",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MARROW",
+        "text": "Have either of you seen David Watts?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "No, but Nell's been here longer than I have."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74916",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "When do we take the tests?"
+      },
+      {
+        "speaker": "MARROW",
+        "text": "Every day.  Basically we'll be hanging out together like we have so far this evening."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74917",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Well this is a cozy breakfast."
+      },
+      {
+        "speaker": "MARROW",
+        "text": "Good morning, Theo.  Luke."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74918",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Maybe they're Mary's."
+      },
+      {
+        "speaker": "MARROW",
+        "text": "Mary came with me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74919",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MARROW",
+        "text": "Get a blanket!"
+      },
+      {
+        "speaker": "THEO",
+        "text": "It's okay... we're all here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74920",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MARROW",
+        "text": "Your fear of him was real.  That's all the ghost anyone needs."
+      },
+      {
+        "speaker": "THEO",
+        "text": "How could you do this to people?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74921",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MARROW",
+        "text": "Is she asleep?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "Yes.  But I promised I wouldn't let her alone the whole night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74922",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "She needs help."
+      },
+      {
+        "speaker": "MARROW",
+        "text": "I'll take her with me to the University tomorrow.  I can't believe I read the test wrong.  I didn't see anything that looked like she was suicidal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74923",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "He's wandering around the house, and Nell heard him.  She thought it was ghosts.  Let's go look for him again."
+      },
+      {
+        "speaker": "MARROW",
+        "text": "No.  If he's lost somewhere in the house... he'll have to stay lost until tomorrow, until the night is over.  What we have to do now is be together, with Nell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74924",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Oh God, we can't get out!"
+      },
+      {
+        "speaker": "MARROW",
+        "text": "Nell, what do we do?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74925",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "I'm not going back to New York City.  I'm going to find an apartment with a little flower garden, where you can just see the ocean and at night, when the wind comes in just right, you can hear the sound of the harbor.  What about you?"
+      },
+      {
+        "speaker": "MARROW",
+        "text": "I'm a scientist.  I just conducted an experiment.  Now I have to write it up."
+      },
+      {
+        "speaker": "THEO",
+        "text": "But the experiment was a failure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74926",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "Oh!  You scared me."
+      },
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "Me?  No.  What are you doing here?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "Are you Mister Dudley, the caretaker?"
+      },
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "Yeah, I'm Mister Dudley, the caretaker.  What are you doing here?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "I'm with Dr. Marrow's group.  I'm supposed to check in with Mrs. Dudley up at the house.  Is she here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74927",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "Why do you need a chain like that?"
+      },
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "That's a good question.  What is it about fences?  Sometimes a locked chain makes people on both sides of the fence just a little more comfortable.  Why would that be?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74928",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "Is there something about the house?"
+      },
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "Mrs. Dudley'll be waiting for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74929",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "That's where she hanged herself."
+      },
+      {
+        "speaker": "NELL",
+        "text": "Who?"
+      },
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "Rene Crain.  Up there.  Rope. Ship's hawser.  Hard to tie. Don't know how she got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74930",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "Why?"
+      },
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "Why'd she kill herself?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "She was unhappy."
+      },
+      {
+        "speaker": "NELL",
+        "text": "Why?"
+      },
+      {
+        "speaker": "MR. DUDLEY",
+        "text": "Can't say.  Haven't been here that long.  Well, it's Labor Day, gotta get to work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74931",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MRS. DUDLEY",
+        "text": "It's make the soup or answer the door.  Can't do both."
+      },
+      {
+        "speaker": "NELL",
+        "text": "Mrs. Dudley."
+      },
+      {
+        "speaker": "MRS. DUDLEY",
+        "text": "So far."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74932",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "They're so beautiful.  Aren't they?"
+      },
+      {
+        "speaker": "MRS. DUDLEY",
+        "text": "I've seen 'em.  Lot to dust."
+      },
+      {
+        "speaker": "NELL",
+        "text": "Well, I've never lived with beauty.  You must love working here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74933",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MRS. DUDLEY",
+        "text": "It's a job.  I keep banker's hours.  I set dinner on the dining room sideboard at six.  You can serve yourselves.  Breakfast is ready at nine.  I don't wait on people.  I don't stay after dinner.  Not after it begins to get dark.  I leave before dark comes.  We live in town.  Nine miles.  So there won't be anyone around if you need help.  We couldn't even hear you, in the night."
+      },
+      {
+        "speaker": "NELL",
+        "text": "Why would we --"
+      },
+      {
+        "speaker": "MRS. DUDLEY",
+        "text": "-- no one could.  No one lives any nearer than town.  No one will come any nearer than that.  In the night.  In the dark."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74934",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "MRS. DUDLEY",
+        "text": "No one could.  No one lives any nearer than town."
+      },
+      {
+        "speaker": "NELL",
+        "text": "No one will come any nearer than that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74935",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "And what you're wearing, that's great, too."
+      },
+      {
+        "speaker": "NELL",
+        "text": "This?  It's from a thrift shop."
+      },
+      {
+        "speaker": "THEO",
+        "text": "What did it cost?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "Fifteen dollars."
+      },
+      {
+        "speaker": "THEO",
+        "text": "That'd be seventy in New York. You stole it!"
+      },
+      {
+        "speaker": "NELL",
+        "text": "It's all I could afford."
+      },
+      {
+        "speaker": "THEO",
+        "text": "Wait.  You're not wearing that ironically?  This is really you?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "I don't know what you mean."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74936",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Don't worry, I probably won't be in here much.  Light sleeper."
+      },
+      {
+        "speaker": "NELL",
+        "text": "That's why we're here."
+      },
+      {
+        "speaker": "THEO",
+        "text": "What do you do?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "I'm between jobs right now.  My last job... it... the person I was working for... the job ended. Over.  So... And you?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "That depends."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74937",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "Not really."
+      },
+      {
+        "speaker": "THEO",
+        "text": "Don't tell me Boston is different from New York."
+      },
+      {
+        "speaker": "NELL",
+        "text": "Ohh, sure, you have trouble with commitment."
+      },
+      {
+        "speaker": "THEO",
+        "text": "My boyfriend thinks so, my girlfriend doesn't.  If we could all live together... but... they hate each other.  It's hard to be Miss Perversity when you're the only one at the party.  D'you know what I mean?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "No."
+      },
+      {
+        "speaker": "THEO",
+        "text": "A blank canvas!  I could paint your portrait, directly on you. Or maybe not.  So, you?  Husbands? Boyfriends?  Girlfriends?  Where do you live?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "I don't have anyone.  But I do have a little apartment of my own.  It has a little flower garden.  You can just see the ocean.  At night, when the wind comes in just right, you can hear the buoys in the harbor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74938",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Jeez."
+      },
+      {
+        "speaker": "NELL",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74939",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "I love this house.  I really love this house."
+      },
+      {
+        "speaker": "THEO",
+        "text": "You're okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74940",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "A monster?  But he built this for the woman he loved, like the Taj Mahal."
+      },
+      {
+        "speaker": "THEO",
+        "text": "The Taj Mahal wasn't a palace, it was a tomb.  Why didn't he tell us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74941",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "You've been out of the world for a long time, haven't you?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "Yes.  I've missed it."
+      },
+      {
+        "speaker": "THEO",
+        "text": "No.  The world has missed you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74942",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "Good night, Theo."
+      },
+      {
+        "speaker": "THEO",
+        "text": "You, too.  Happy tossing and turning."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74943",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "If this was some sort of joke, I'm going to kill him."
+      },
+      {
+        "speaker": "NELL",
+        "text": "You know it wasn't a joke, Theo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74944",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "Yes.  I feel realy rested, too. Theo?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "I guess.  Oh, your hair!  It looks good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74945",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "How could he have left without his keys?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "Two sets.  I don't know.  Maybe they're not even his."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74946",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Watts?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "What's his first name?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "David."
+      },
+      {
+        "speaker": "NELL",
+        "text": "David?  David Watts?  Can you hear us?  David!  Daviiiiid!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74947",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "David?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "Maybe he never came in.  If he'd come in, he would have left his bags at the door, right?  Or maybe he got here early, and went for a walk, and fell.  Maybe he's outside."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74948",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Is it over?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "No, it's getting worse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74949",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "Theo... Did you?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "Maybe you did it yourself."
+      },
+      {
+        "speaker": "NELL",
+        "text": "Why?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "I don't know.  You've been alone for a long time, maybe you want attention.  Maybe he did it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74950",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "That's so sad."
+      },
+      {
+        "speaker": "NELL",
+        "text": "There's hundreds of them.  This must be a record of the children who died at the mills, like Luke said."
+      },
+      {
+        "speaker": "THEO",
+        "text": "Before he painted your name over Mister Crain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74951",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Well, it wasn't me.  Mister Dudley had to clean it and he knows that he's in charge of all the messes so why would he make more work for himself and...  You said the Good Doctor was with you."
+      },
+      {
+        "speaker": "NELL",
+        "text": "I don't know what to think anymore."
+      },
+      {
+        "speaker": "THEO",
+        "text": "Just think about one thing right now: What color?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74952",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "I've never had a pedicure before."
+      },
+      {
+        "speaker": "THEO",
+        "text": "Well?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "Red.  What else?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74953",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "I'm sorry I was mad at you, Theo."
+      },
+      {
+        "speaker": "THEO",
+        "text": "Me too.  Although I learned one thing about you, that you don't know about yourself.  You can be a pretty decent bitch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74954",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "I'll take that as a compliment.  In the city, what kind of place do you live in?"
+      },
+      {
+        "speaker": "THEO",
+        "text": "I have a loft."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74955",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "You want to move to New York, you want to move in with me?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "I don't know, you know..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74956",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "My place isn't like yours, Nell, it doesn't have a view of sea.  It doesn't have a view of anything. What's interesting about the way I live is what goes on inside the walls.  Living with me... My boundaries aren't very well defined, Nell.  Do you know what I mean?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "I'm trying.  Have you ever kept something to yourself because you were afraid it'd ruin things."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74957",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Are you sure?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "I think so."
+      },
+      {
+        "speaker": "THEO",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74958",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Marrow said the same thing as last night, he <u>says</u> --  -- that he checked with Mrs. Dudley.  And he says that she told him that all the fireplaces in the West Wing connect to the main chimney.  He says that he thinks that the flue was open, and with the windstorm, he says that what probably happened was some kind of freak air current --"
+      },
+      {
+        "speaker": "NELL",
+        "text": "-- What do you think?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74959",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Then who is?  Come on, Nell.  Deep down, if you really thought it wasn't Jim, why wouldn't you be leaving right this second?  Why wouldn't you be afraid?  Really afraid."
+      },
+      {
+        "speaker": "NELL",
+        "text": "Because I don't want to ruin things.  Because home is where the heart is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74960",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "Nell, what happened?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "Carolyn showed me where she hid him, hid him with all the ones he killed --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74961",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "This is real, I'm not making it up!  Theo, you saw it!  You were there -- the banging and last night.  You, you all saw the painting!"
+      },
+      {
+        "speaker": "THEO",
+        "text": "Nell, it makes sense.  It all makes sense.  You and I, we were scaring each other, working each other up."
+      },
+      {
+        "speaker": "NELL",
+        "text": "-- but the painting!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74962",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "I'm going to stay with you until you fall asleep.  And then I'm going to get some brandy."
+      },
+      {
+        "speaker": "NELL",
+        "text": "I don't think I want any."
+      },
+      {
+        "speaker": "THEO",
+        "text": "I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74963",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "They're all in here.  All the ones he killed.  They're just children! We have to help them!"
+      },
+      {
+        "speaker": "THEO",
+        "text": "Come on!  Why are we waiting?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74964",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "THEO",
+        "text": "What'd you come back for, babe?"
+      },
+      {
+        "speaker": "NELL",
+        "text": "Just had to be sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74965",
+    "movie_id": "m551",
+    "turns": [
+      {
+        "speaker": "NELL",
+        "text": "Oh, Theo.  You know I don't have an apartment."
+      },
+      {
+        "speaker": "THEO",
+        "text": "Then let's go get you one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74966",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "Adhara.  I told your father, if you're looking for a name, you can't go wrong with a constellation."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "I used to hate it.  Now I like it."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Could be worse, he could've named you Reticulum."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74967",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "Is there anything in the world that you want or need?"
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "I <u>want</u> to know why you <u>need</u> that scary guy in your house."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Gordon?  He's been with me for years. He's not as tough as he looks."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Then what good is he?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Is it possible that you're too young to be acquainted with the idea of loyalty?"
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Is that a problem?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Not for you, clearly."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "I'm loyal to things that make me happy."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Am I a thing?"
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Well, you're certainly not a person."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "I'm not."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "No.  You're not specific enough to be a person.  You're more like a vibe."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "I'm so glad we're having this chat."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "It's not a knock."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "It's not a compliment."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "It's an observation.  Like:  I'm hungry. When are we eating?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "As soon as you get dressed."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "What kind of food?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Anything but Japanese."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "I'm not into finger foods.  Too fussy."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Like you."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "I don't like do-it-yourself cuisine. Buffets.  Salad bars."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "You demand to be served.  A fork fetishist."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "It's just fuel to me.  I'm not there for distractions."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "For some, eating is a sensual experience. <u>The</u> sensual experience."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "That's what Gordon's always saying."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Oh, god."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74968",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ADHARA",
+        "text": "Italian?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Italian."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Who?"
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Not who, food.  Should we get Italian."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74969",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ADHARA",
+        "text": "I like the colors."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "We all did."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "It must've been a time.  A golden moment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74970",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ADHARA",
+        "text": "Hey, I thought you weren't a buffet person."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "I'm a gracious host."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74971",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ADHARA",
+        "text": "I've lived in L.A. all my life, I've never done this drive."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "All your life.  That happened while I swam the length of my pool."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74972",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "What's the matter?"
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Nothing.  I guess it's hard to pass on this road."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "The freeway's faster, but lacks a certain majesty."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Just feels like the car behind has been following us the longest time."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "I sure hope so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74973",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "We think someone is here."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "We think?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "We can't find ...  ... two of our guys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74974",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "No."
+      },
+      {
+        "speaker": "ADHARA",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Because --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74975",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "STACY",
+        "text": "Hey."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "Come over here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74976",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "AVERY",
+        "text": "How they goin', kid?"
+      },
+      {
+        "speaker": "STACY",
+        "text": "Not bad."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "How'd you like to kill someone for me?"
+      },
+      {
+        "speaker": "STACY",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74977",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "AVERY",
+        "text": "Same as last time -- the rest after."
+      },
+      {
+        "speaker": "STACY",
+        "text": "Where do we go?"
+      },
+      {
+        "speaker": "AVERY",
+        "text": "When you find the guy, you'll know."
+      },
+      {
+        "speaker": "STACY",
+        "text": "What shit is this.  I just do it.  I don't prepare it."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "I'll point you in the right direction, but you'll have to take it to the end- zone.  He's a hit-and-run gunman -- I figure he's not cruising the Polo Lounge."
+      },
+      {
+        "speaker": "STACY",
+        "text": "This is un-fucking professional."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "See, a successful man like me has limitations -- I lose touch at a street level.  So I have to depend on a smart boy like you who's closer to the nitty and the gritty than I am."
+      },
+      {
+        "speaker": "STACY",
+        "text": "Fuck you, Mr. whatever-your-name is. This is a lifestyle I embrace."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "That's why I'm letting you take care of this.  I'm the one with appearances to maintain.  But who gives a shit about you?  Not even God."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74978",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "What."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "There's been some trouble downtown."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "What kind?"
+      },
+      {
+        "speaker": "AVERY",
+        "text": "What the papers used to call a \"gangland slaying.\""
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Our black friends?"
+      },
+      {
+        "speaker": "AVERY",
+        "text": "No, Terry.  They don't work like that. Jenny Wilson's father paid a little visit, left a message."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "I thought he was in prison, in England."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "Well, either they have a very liberal work-release program, or he's out, because he's here in L.A., looking for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74979",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "AVERY",
+        "text": "You should have let me do the talking."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Why, because you're my security consultant?  This cocksucker nearly burnt my house down."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "What did you tell them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74980",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "I mean, Gordon must weigh a good four hundred pounds."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "Heavier than that now.  But are there any drugs in that stomach to back up your story."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "As it happens.  I didn't make that part up."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "And where is this guest?  Don't they want to interview him."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "I don't know everyone here.  He was so traumatized he split.  Maybe he was Gordon's <u>pusher</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74981",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "Where do <u>you</u> think he is, Mike."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "We'll find him."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "No.  I mean.  Not even your people should be involved.  Right?  It's too close now."
+      },
+      {
+        "speaker": "AVERY",
+        "text": "You could use a few of my prime shitkickers up here."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "You think I'm staying?"
+      },
+      {
+        "speaker": "AVERY",
+        "text": "There's already gonna be talk about how people close to you keep falling into canyons."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Well, can we make it one more.  Nowhere the fuck near me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74982",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "CREEP",
+        "text": "You broke last time."
+      },
+      {
+        "speaker": "STACY",
+        "text": "Let him break - he likes to break."
+      },
+      {
+        "speaker": "CREEP",
+        "text": "Fuck you."
+      },
+      {
+        "speaker": "STACY",
+        "text": "I wouldn't talk."
+      },
+      {
+        "speaker": "CREEP",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "STACY",
+        "text": "I saw your mother on the Strip last night.  She went up to three guys, said she'd like 'em to stick one in each, know what I mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74983",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "DEALER",
+        "text": "Oh really?  Where you from?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "England.  Only, we saw there was a show on, thought I might pick something up for a price, type of thing."
+      },
+      {
+        "speaker": "DEALER",
+        "text": "You came to the right place, sir.  My wife's second cousin is English.  Well, Scotch-Irish.  Can I interest you in a holster?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Just luck, this, really.  Never been to one of these before."
+      },
+      {
+        "speaker": "DEALER",
+        "text": "You're in gun country now, my friend."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Been to the Boat Show."
+      },
+      {
+        "speaker": "DEALER",
+        "text": "Packs a punch, but it's compact, has accessible features -- makes a nice concealed-carry piece."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74984",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "DEALER",
+        "text": "I can take care of the paperwork."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "DEALER",
+        "text": "No problem.  If <u>you</u> don't have a problem with me reporting this gun stolen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74985",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "DEALER",
+        "text": "Man knows what he likes."
+      },
+      {
+        "speaker": "ED",
+        "text": "Lookin' good."
+      },
+      {
+        "speaker": "DEALER",
+        "text": "That's a high-end item.  Total reliability."
+      },
+      {
+        "speaker": "ED",
+        "text": "What'd you call that -- the Protector?"
+      },
+      {
+        "speaker": "DEALER",
+        "text": "Yes, sir.  Won't find a better CQC on the market."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74986",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "CQ what?"
+      },
+      {
+        "speaker": "DEALER",
+        "text": "Close Quarters Combat.  Keep one in my own home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74987",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "Edward Rama?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Eduardo.  Rama."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "You're home, then."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74988",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "I didn't expect anyone."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "No reason."
+      },
+      {
+        "speaker": "ED",
+        "text": "I mean, what has it been -- six months?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Round about, yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74989",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "I didn't even know who I was writing to -- just someone with the same last name. She never talked about any family."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "It was better than a telegram."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74990",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "Who done it, then?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Snuffed her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74991",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "I never said nothin' about nothin' like that.  No, no, no.  That's not what I wrote to you."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "No, but between the lines, eh? Mysterious circumstances, and that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74992",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "This bloke she was bunked up with.  This Terry what'sit."
+      },
+      {
+        "speaker": "ED",
+        "text": "Terry Valentine."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Valentine.  What's he got to say for himself?"
+      },
+      {
+        "speaker": "ED",
+        "text": "I dunno.  What's he gonna say?  They had a fight that night, she drove away, she was upset?  I don't even know the guy. Don't get me wrong, Jenny and me were friends, but we didn't travel in the same social circles.  She had her life, I had mine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74993",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "What more is there."
+      },
+      {
+        "speaker": "ED",
+        "text": "I'm just sayin' -- it was a steep hillside.  There was no moon that night ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74994",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Coulda happened to anyone, man.  I never knew her to be reckless.  I mean, sure, she would smoke a little grass, or something, have a few drinks.  But that's it, nothing more than that."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "No, not my girl.  Self-control, she had. Point of pride.  And people don't change, do they."
+      },
+      {
+        "speaker": "ED",
+        "text": "I dunno ... Maybe they do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74995",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Boomerang."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Y'what?"
+      },
+      {
+        "speaker": "ED",
+        "text": "I knew when I was droppin' that letter into the mail slot it was gonna come back and smack me in the face.  I did my time, okay?  My sister, her ol' man's up in Chino right now doin' eight years."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "This ain't your lot?"
+      },
+      {
+        "speaker": "ED",
+        "text": "You kiddin', man?  I don't need a wife and screamin' kids.  I still got my youth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74996",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "I go to work, try to keep my life together, put all that shit behind me, man.  What d'you want from me."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "I only asked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74997",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "What, tryin' to catch him with another bird?"
+      },
+      {
+        "speaker": "ED",
+        "text": "That's what I thought, man.  But it was not a hotel or nothin' that we went to. It was someplace else."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Where abouts?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74998",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Bad place, man.  Bad people.  Some guys loading some trucks.  Some kinda deal goin' down.  I don't know and I don't care.  Maybe they're shipping fava beans to Eskimos."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Did Jenny know?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Valentine wasn't even there.  If he was into something, if she was involved -- who can say.  But I'll tell you something.  She stood in front of these dudes, man.  Eyeballing <u>them</u>.  Checking <u>them</u> out.  I felt like she was covering <u>my</u> ass that day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_74999",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "What you gonna do, man?  You gonna go to the cops?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Nah, coppers don't do nothing, do they."
+      },
+      {
+        "speaker": "ED",
+        "text": "Those streets up in the hills, man. Gotta be real careful, keep your eye on the ball.  Two o'clock in the morning, it's dark, your mind is all agitated, you're drivin' a little too fast ...  Those curves don't kid around."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75000",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "You should talk to Elaine.  That was her best friend."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "She didn't write to me, did she."
+      },
+      {
+        "speaker": "ED",
+        "text": "She didn't know what to say.  I thought someone should say something. To someone.  With me it was, I don't know -- Jenny liked me for some reason.  I felt like I owed her."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Who'd Jenny get it off of -- this grass or whatever?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Not me, man.  I'm no drug dealer, what you think."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "I think you didn't get that lot in the Navy, doing your National Service."
+      },
+      {
+        "speaker": "ED",
+        "text": "I already told you, man.  Corcoran.  Know what that is?  State prison."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Nick's a nick, n' it?  No matter what state you're in.  State of remorse, most likely -- for gettin' caught."
+      },
+      {
+        "speaker": "ED",
+        "text": "But that's not me anymore.  That's when I was into the gang lifestyle.  That's not who I am now.  Five years in the joint -- that's it for me, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75001",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "You're kiddin' me, right?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "What do I do, then, look in the bleedin' Yellow Pages?"
+      },
+      {
+        "speaker": "ED",
+        "text": "These are not guys you can just go run a number on, man."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Thought perhaps there'd be dispensing machines, you know.  Bung in your coins, come out with a .44 Magnum, fully-loaded."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75002",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Are you a resident of California? You gonna fill out forms, man?  Do the background check?  Go through a three-day waiting period?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Sod that.  Gotta get back before my probation officer wonders where I've skived off to."
+      },
+      {
+        "speaker": "ED",
+        "text": "Probation?  Man, you crazy.  They shouldn't've let you outta your country, much less prison."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Travelling on a dodgy passport, n' all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75003",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "He don't have a concealed weapons permit."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Don't have time for a lot of paperwork, y'know.  Just popped over on a quick visit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75004",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "No.  Not at all.  Do we?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Not me, man."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "I mean, it's already a steal, n'it -- what you said -- four hundred for this one?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75005",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "You hadda show up on a weekend.  This weekend.  Wouldn't've even been a gun show ... for another month."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Fucking out of order, that.  Shouldn't be allowed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75006",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Now what.  You gonna take your new arsenal, go visit Terry Valentine, just like that?  Boom bam boom."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "It's only insurance.  Can't be too careful.  This Terry Valentine, he's probably a wonderful fella.  They were together how long?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Five years, I think.  Long time."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Well, there you are.  Jen must've liked him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75007",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Jenny told me she met him at the beach. Got blinded by his smile.  You believe that shit?  Son of a bitch never smiled at me.  Buried her at a \"private\" service.  Private for who. Him?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Hang about.  I thought you said he come into the restaurant where you worked with Jenny."
+      },
+      {
+        "speaker": "ED",
+        "text": "He came in with Jenny to the restaurant where I work.  That's not where they met."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "And that's where you met Jenny."
+      },
+      {
+        "speaker": "ED",
+        "text": "No, no -- Jenny used to work as a waitress.  Before she met him.  But that's not where she met me.  Not in my restaurant."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "How'd the two of you hook up, then?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Oh, Jenny was in my acting class."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75008",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Told you you wouldn't be able to see through that gate."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Gate's open.  I had a butcher's at the house."
+      },
+      {
+        "speaker": "ED",
+        "text": "Who'd you butcher at the house?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Butcher's hook.  Look.  I don't much reckon those minders of his."
+      },
+      {
+        "speaker": "ED",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "He's brought in the heavy mob."
+      },
+      {
+        "speaker": "ED",
+        "text": "What?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Extra muscle.  Bodyguards."
+      },
+      {
+        "speaker": "ED",
+        "text": "Has he?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "They look a right load of wallies. Patrolling back and forth outside the gate, all ponced up like the fuckin' Household Cavalry.  Watch it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75009",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "That was one of them?"
+      },
+      {
+        "speaker": "WILSON",
+        "text": "See what I mean?  Wearing bloomin' uniforms n' all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75010",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "What's so fucking funny?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Those aren't guards.  They're valets."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75011",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "Valets.  What d'ya mean valets.  What is he, then, the Earl of fucking Doncaster?"
+      },
+      {
+        "speaker": "ED",
+        "text": "<u>Valets</u>.  They park cars.  He's having a party."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_75012",
+    "movie_id": "m552",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "Valets, eh?  Aren't we all la-de-da."
+      },
+      {
+        "speaker": "ED",
+        "text": "I thought you just wanted to check out the house, man."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Well, that's what we're doin', n' it."
+      },
+      {
+        "speaker": "ED",
+        "text": "No one else is even here yet."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "First in, first out, that's me."
+      }
+    ]
+  }
+]

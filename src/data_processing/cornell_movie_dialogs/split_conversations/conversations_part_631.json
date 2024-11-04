@@ -1,0 +1,2026 @@
+[
+  {
+    "conversation_id": "conv_63013",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "Jess?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "Eggs?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63014",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Oh...uh, no, just some milk, Mom."
+      },
+      {
+        "speaker": "MOM",
+        "text": "You okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63015",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Yeah, I'm fine.  Just really hot upstairs."
+      },
+      {
+        "speaker": "MOM",
+        "text": "I know it's warm...  I wish you'd call someone to check out the air conditioning, Ken."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63016",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "So, school going alright?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Okay, I guess."
+      },
+      {
+        "speaker": "MOM",
+        "text": "Making friends?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63017",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "Maybe we should call a doctor."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "No.  I'm okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63018",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "I'm not taking drugs, Dad.  Can I go to bed now?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "Sure...go ahead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63019",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "Jesse, please, let's talk about this!"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I'm okay.  Just leave me alone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63020",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Morning."
+      },
+      {
+        "speaker": "MOM",
+        "text": "How'd you sleep, honey, okay?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63021",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "KERRY",
+        "text": "Hi, guys."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Hi, Kerry."
+      },
+      {
+        "speaker": "KERRY",
+        "text": "I got your invitation yesterday. Thanks.  Any cute guys gonna be there?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "All of them."
+      },
+      {
+        "speaker": "KERRY",
+        "text": "Yor dad picking the music again?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Mom's trying to keep him upstairs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63022",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "MRS. POLETTI",
+        "text": "There's a Jesse on the phone."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Okay...thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63023",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "MRS. POLETTI",
+        "text": "We're gonna stay out of your way tomorrow night."
+      },
+      {
+        "speaker": "LISA",
+        "text": "You're going out?"
+      },
+      {
+        "speaker": "MRS. POLETTI",
+        "text": "We're going to bed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63024",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "MRS. POLETTI",
+        "text": "We're going up to bed now."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Thanks, Mom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63025",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Mrs. Parker, was Kristen acting different? Did you notice anything strange before she made the attempt?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Kristen specializes in strangeness.  I've spent thousands on psychiatirists."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Did she always have nightmares?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "They've gotten worse since I took away her credit cards."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I'm serious."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Look, Miss Thompson, I don't know what you want from me."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Just some answers.  There are other kids involved, its not just Kristen.  All good kids, smark kids."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I'm sorry to hear that, but you're the experts on this, not me.  If I had any insights, believe me, I'd share them with you."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I'm sure you would."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Now if you'll excuse me, I have to get to the club."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I'll need to take her things."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "The maid packed a suitcase.  Teresa!  Teresa?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I'll get it.  Please, I don't mind."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "First door up the stairs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63026",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Are you crazy?  You'll wake the whole neighborhood!"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Hi Mom."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Don't \"hi Mom\" me.  What are you still doing up?  It's past one!"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "I thought I'd wait for you."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Well, I'm home now, so you can go right to sleep.  C'mon, angel."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "It's okay, I'm not tired.  Really."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Kristen, don't start with me.  You know what your shrink said..."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "He's full of shit."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I am not going to let you get me into an argument, goddamn it.  Not tonight.  Now get in bed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63027",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "And you don't want to keep him waiting."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "That's right.  I don't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63028",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Honey, you'll wake the whole neighborhood!"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Mom?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "What are you still doing up?  It's past one."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "I thought I'd wait for you."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Well, I'm home now, so you can go right to sleep.  C'mon, angel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63029",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "What?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "I had such an awful dream."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63030",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "Can we talk?  Just for a minute?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Can't it wait till morning?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Please Mom?  I just don't want to be alone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63031",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Good morning, Jennifer."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Morning, Doctor Goldman."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "How's your hand?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63032",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "JENNIFER",
+        "text": "Menthol, regular, ultra-light."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "They're healing up nicely."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "I've been good.  When do I get cigarette priveleges back?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Don't hold your breath."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63033",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Girl, what are you doing?"
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Watching TV."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I can see that. You watch too damn much TV."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Research."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Oh, right.  You're gonna be a TV star."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Wait and see."
+      },
+      {
+        "speaker": "MAX",
+        "text": "If Simms catches you in here after lights out, she'll chew my ass ragged."
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "I gotta stay up, Max."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Jennifer --"
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Just tonight, please?  I can't handle the nightmare.  Not tonight.  Not after Phillip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63034",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "If you get caught, I never saw you. Deal?"
+      },
+      {
+        "speaker": "JENNIFER",
+        "text": "Deal.  Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63035",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KINCAID",
+        "text": "Horseshit."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "No, she's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63036",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "I know who's trying to kill you."
+      },
+      {
+        "speaker": "KINCAID",
+        "text": "Don't fucking humor us.  We're not in the mood."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "He wears a dirty brown hat.  He's horribly burned.  He has razors on his right hand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63037",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KINCAID",
+        "text": "So what do we do about this creep?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Last time, it was me against him.  I wasn't strong enough...alone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63038",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "You didn't think we'd let you go alone?"
+      },
+      {
+        "speaker": "KINCAID",
+        "text": "No fuckin' way.  We're a team."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63039",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Kincaid -- we should find the others first..."
+      },
+      {
+        "speaker": "KINCAID",
+        "text": "YOU'RE HOT STIT WITH A LITTLE MUTE KID -- LET'S SEE YOU TAKE A PIECE OF ME!  KRUEGER!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63040",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "What's happening?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "He's close..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63041",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "I'm glad things have worked out for you."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "I think new York was just what I needed.  So many people.  I never feel alone."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "The city that never sleeps.  So what will you do now?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "I don't know.  I'm busy with school. New friends.  But I'll never forget the old ones."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "To old friends.  And your new dreams."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "To old friends."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63042",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "It was great seeing you again.  I'm glad you dropped by."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Do you still...see each other?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Yes.  I'm going to see her tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63043",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "You pulled me in somehow, didn't you?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "I -- I think so!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63044",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "I used to live in this house."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "But...it's just a house I've dreamed about.  I dream about it all the time.  Thank you for what you did last night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63045",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Have you ever done that before?  Pulled someone into your dream?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "When I was a little girl.  Three or four. If I had a nightmare, I'd bring my Dad in. The dream would always get better.  He always used to tell me about it the next day -- he used to think they were his dreams. NANCY When did it stop?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "When I was still a kid.  My folks got divorced.  After a while, I thought I'd imagined the whole thing.  I guess I didn't."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "It's an amazing gift."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63046",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "That man in my dreams.  He's real isn't he?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "He's real."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63047",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "Nancy?  Would you sit with me awhile?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63048",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "You like gymnastics?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "I was on the team at school.  I was never very good, though."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "We're not always as good at things as we'd like."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Yeah, but I was really not good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63049",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "I haven't been able to do that since I was a little girl."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "You did it the other night."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "That was different."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "You never lose a gift like that.  You just forget how to use it.  How about it?  Will you try?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63050",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Freddy?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "He's heavy in the halls..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63051",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "Joey needs us.  I can feel him."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "How do we find him, Kristen?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63052",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63053",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "Nancy!"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "He's too strong!  He was never this strong!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63054",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Kristen, can you pull us out?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "They sedated me.  We're stuck here till it wears off."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Let's try this way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63055",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "Are you okay?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63056",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "He's gone.  It's over.  Please don't die, Nancy.  Please."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I'm so proud of you all.  Tell Neil I..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63057",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "LORENZO",
+        "text": "Hi, sweet stuff.  Good news."
+      },
+      {
+        "speaker": "TARYN",
+        "text": "Can't be good news coming from you."
+      },
+      {
+        "speaker": "LORENZO",
+        "text": "Pulled night duty.  Trimble's sick."
+      },
+      {
+        "speaker": "TARYN",
+        "text": "So?"
+      },
+      {
+        "speaker": "LORENZO",
+        "text": "So...got the keys to heaven, baby."
+      },
+      {
+        "speaker": "TARYN",
+        "text": "What?"
+      },
+      {
+        "speaker": "LORENZO",
+        "text": "The dispensary.  I'm talking clean pharmaceutical high.  A night at Club meth."
+      },
+      {
+        "speaker": "TARYN",
+        "text": "I don't do that shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63058",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "LORENZO",
+        "text": "What are these, beauty marks?"
+      },
+      {
+        "speaker": "TARYN",
+        "text": "Those are ancient history."
+      },
+      {
+        "speaker": "LORENZO",
+        "text": "Oh yeah?  Well, if you're ever in the mood for a history lesson, I'm your teacher, understand?"
+      },
+      {
+        "speaker": "TARYN",
+        "text": "Stay out of my face or I'll go straight to Max."
+      },
+      {
+        "speaker": "LORENZO",
+        "text": "Now who's gonna take the word of a crazy junkie chick like you?"
+      },
+      {
+        "speaker": "TARYN",
+        "text": "Fuck off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63059",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "The whole wing's devoted ot this program.  That's your office."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "A little basic, but nice."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'll have a file cabinet in there before tomorrow.  The patient's rooms are down here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63060",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "This is Phillip.  We call him The Walker."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Why is that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63061",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Max, where's Kristen?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "She's been waiting outside your office since breakfast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63062",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Puttin' in soem late hours, I see.  If you're trying for O.T., you're in the wrong place."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I just wanted to be here for the kids. how are they?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Restless.  Very restless."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63063",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "You need me, I'll be here all night."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Thanks, Max."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63064",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Save your breath, Ms. Thompson.  Dr. Simms gave me specific instructions. Nobody gets to see Kristen -- especially you.  She made that real clear."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "But Max, she needs me.  It could mean life or death."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63065",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "I don't know..."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "It'll be my last chance.  Pleese?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63066",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "You got five minutes."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63067",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Nothing like a little cheery news to start the day."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Say listen, Doc.  I got a new theory about all these suicides."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Don't hold back on us, Max.  We need all the help we can get."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Fucked up chromosomes, man.  Think about it.  Their parents all dropped acid in the Sixties."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "It beats Dr. Simm's theory.  She thinks it's nothing but sex, drugs, and rock & roll."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Shit, that's what keeps people alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63068",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "THOMPSON",
+        "text": "Well, if it isn't my little girl... come to visit her Daddy."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "It's been a long time."
+      },
+      {
+        "speaker": "THOMPSON",
+        "text": "Yeah, but here you are.  How'd I get so lucky?  I thought you were trying to forget I was alive."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "That's not true.  You're the one who's trying to forget."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63069",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "THOMPSON",
+        "text": "Fred Krueger's dead.  You always had a little trouble understanding that, Princess."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "You know what he did.  He's doing it again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63070",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "I think we can stop him this time. Stop him for good.  But we need to know where the bones were hidden."
+      },
+      {
+        "speaker": "THOMPSON",
+        "text": "I lost too much over this already.  I'm through with it."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "People are still dying.  After all this time.  Stop running away from it.  Daddy, please...don't make me beg.  You owe me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63071",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "It's over.  It's over."
+      },
+      {
+        "speaker": "THOMPSON",
+        "text": "Nancy..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63072",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Crossed over?"
+      },
+      {
+        "speaker": "THOMPSON",
+        "text": "But I couldn't go until I told you how sorry I am for all the things I've done."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63073",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Tell me about the kids."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "You'll get to meet them all tomorrow. They're...survivors.  In a way.  All severely sleep disordered.  Insomnia, narcolepsy, bedwetting..."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "But nightmares are the common thread?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Right.  They seem to share a group delusion,  a \"boogeyman\" for lack of a better word.  They're so traumatized, they'll do anything not to sleep."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Anything?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "We lost a kid about a month ago to Fairview.  I don't know where he got the razor...but he cut off his own eyelids to stay awake."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Oh God."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Ever work with vets?  These kids act like they've got D.S.S. -- Delayed Stress Syndrome. If I didn't know better, I'd swear they'd seen heavy combat."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I wouldn't be so sure they haven't."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "What's that supposed to mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63074",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "I've had some experience with pattern nightmares."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "So I've been told.  Practically an obsession of your."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Call it a passion.  I've got to get going."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Make sure to check in with Max, he'll give you the 25 cent tour."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63075",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Ms. Thompson."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Call me Nancy."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Only if you call me Neil.  What was that nursery rhyme all about?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Just something children sing...to keep the boogeyman away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63076",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "You're late."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Didn't get much sleep."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Well, we've got --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63077",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Yes, tell us, Nancy."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "All I can say is this isn't something that's just going to disappear.  you're all going to have to face it.  Fight it. And if you're willing to work together... wiling to stand up to your deepest fears...I think we can beat it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63078",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "This is nice."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Never been here before?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Must have opened while I was away at school."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Most authentic Mexican food in Springwood, which isn't saying much.  your parents still live around here?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "My mother's dead.  Died in her sleep."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Sorry."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "My father an I...well, the family just seemed to fall apart."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Sounds like a rough time."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "It was.  Neil, do you believe in other realities?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "I've been to Pittsburgh.  Does that count?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I'm serious."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Okay...I believe in different levels of conciousness, that sort of thing...but if you're into UFO's or Atlantis, you've lost me."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "What if I told you your patients are in real physical danger from their dreams?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "That's a new one.  Is that what they're teaching now at Stanford?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "That's what I know."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "The nightmares are nothing but a symptom of their real problems."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "All right.  Then let's eliminate the symptom for the time being."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "With Hypnocyl?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "That's right."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "You want me to prescribe an experimental psychoactive drug to a bunch of suicidal teenagers?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Just until we get things under control."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Dream deprivation is nothing to fool around with.  you have no business taking it yourself."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I used to be like them, Neil.  I know what they're going through."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "So do I."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Do you?  You told me they're survivors...and they are.  But how much longer they survive is up to us."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "I'm sorry, Nancy.  The answer is no."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63079",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "I can't believe I just did that."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Do you think we can get the Hypnocyl in by tomorrow?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "We're gonna try."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63080",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "To who?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Doesn't matter."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "C'mon.  Let's get out of this rain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63081",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Stop blaming yourself."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "I'm running out of answers. A patient sleepwalks out of a security ward up to a tower with no access.  A girl, alone in a room, dies by jumping six feet straight up into a television set. Nothing makes sense anymore."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Then maybe you're ready."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "For what?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "The truth."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Try me."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Only if you're willing to put aside everything you've learned and trust me. Can you do that?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "I can do that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63082",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "You sound like Peter Pan."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Remember -- open mind."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Okay, we're going to try a little group hypnosis."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63083",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Take us there, Kristen."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Breathe deeply and relax...starting with your toes, relax everything until there's no tension left in your bodies.  None at all.  Keep following the pendulum..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63084",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "We can try again."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Everybody take five."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63085",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "We made it.  Neil, we made it!"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "This isn't possible.  And even if it is...what the hell am I doing here?  Did you drag me in here too?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63086",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Take it slowly.  Remember, this is a dream. Anything is possible."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Anything?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63087",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "What are we going to do?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "There's nothing we can do.  It's out of our hands."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63088",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "You're not going in.  That's exactly what he wants.  As long as you're on Hypnocyl, it's the only way he can get to you."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Don't you think I know that?  I don't have any choice."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Bullshit.  Getting yourself killed won't do the kids any good.  Besides, we do have a choice."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Assuming your mysterious nun in right."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "I've heard crazier things this week."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "All right.  Whoever she is, I'll admit she seems to know more about Krueger than I do."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "The question is, what happened to Freddy's body?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "They burned him to death in his boiler room, but they were smart enough to hide the remains."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Who would know where they were hidden?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "There's only one man...and its time for him to talk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63089",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Nancy..."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "I'll be okay.  Just give me a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63090",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Oh Christ.  Simms put Kristen in the Quiet Room for the night.  They sedated her."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "No..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63091",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Neil, it's no use.  You saw how he is."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Just go.  Kristen needs you.  Keep her awake somehow.  Do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63092",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "TARYN",
+        "text": "I'm Taryn White.  I only came here because it was a better deal than juvie hall.  Also, I guess 'cause I'm going through some very stange shit."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Your dreams?"
+      },
+      {
+        "speaker": "TARYN",
+        "text": "Hey, everybody has bad dreams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63093",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "TARYN",
+        "text": "Who is he?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Freddy Krueger.  He was a child murderer before he died.  After he died, he became ...something worse.  Six years ago Freddy killed my friends. He almost killed me.  I thought I got rid of him -- but I guess he was too strong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63094",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "TARYN",
+        "text": "What'd you do, take the scenic route?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Sshhh.  No time for that.  Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63095",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NANCY",
+        "text": "Okay, straight talk only in here."
+      },
+      {
+        "speaker": "TARYN",
+        "text": "What about Kristen?"
+      },
+      {
+        "speaker": "NANCY",
+        "text": "We can't get to her.  I've tried."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63096",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "SIMMS",
+        "text": "And you won't make any progress until you can recognize your dreams for what they are."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "And what are they?"
+      },
+      {
+        "speaker": "SIMMS",
+        "text": "The by-product of guilt.  Psychological scars steaming from moral conflicts and overt sexuality."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63097",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "SIMMS",
+        "text": "We'll begin sedation tonight.  Starting with him."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "You can't!  They'll be defenseless against their dreams."
+      },
+      {
+        "speaker": "SIMMS",
+        "text": "That's precisely what they need.  Some uninterrupted REM sleep to release all this negative energy."
+      },
+      {
+        "speaker": "NANCY",
+        "text": "Neil, please --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63098",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "THOMPSON",
+        "text": "In there.  Charlie Penny owns the place. We knew no one would ever find it.  I'm not even sure I can find it again."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "How do we get in?"
+      },
+      {
+        "speaker": "THOMPSON",
+        "text": "They used to keep a spare key."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63099",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "We've got work to do."
+      },
+      {
+        "speaker": "THOMPSON",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "You're about to attend a funeral.  One that's long overdue."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63100",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "THOMPSON",
+        "text": "What was that?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "What?"
+      },
+      {
+        "speaker": "THOMPSON",
+        "text": "Listen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63101",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Somebody else is out here."
+      },
+      {
+        "speaker": "THOMPSON",
+        "text": "No.  We're alone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63102",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Science...I suppose."
+      },
+      {
+        "speaker": "NUN",
+        "text": "A sad choice."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "There are times when it doesn't offer much comfort.  I've seen you before.  Sister...?"
+      },
+      {
+        "speaker": "NUN",
+        "text": "Mary Helena."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "You do volunteer work at the hospital?"
+      },
+      {
+        "speaker": "NUN",
+        "text": "I come from time to time.  When I'm needed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63103",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "I could've saved them."
+      },
+      {
+        "speaker": "NUN",
+        "text": "Only one thing can save the children. The unquiet spirit must be laid to rest.  It is an abomination to God and Man."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "I beg your pardon?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63104",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "This wing's been closed for years.  What was this place?"
+      },
+      {
+        "speaker": "NUN",
+        "text": "Purgatory...fashioned by the hands of men.  Twisted, lost souls, the worst of the criminally insane, were locked away in here like animals."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "The whole facility was shut down in the Forties, wasn't it?  Some kind of scandal..."
+      },
+      {
+        "speaker": "NUN",
+        "text": "A young girl on the staff was accidentally locked in here over the holidays.  The inmates managed to keep her hidden for days.  She was raped...hundreds of times. When they found her, she was barely alive...and with child."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "My God."
+      },
+      {
+        "speaker": "NUN",
+        "text": "That girl was Amanda Krueger.  Her child --"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Freddy."
+      },
+      {
+        "speaker": "NUN",
+        "text": "The bastard son of a hundred maniacs. Some say he was murdered, though no body was ever found."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63105",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "You said something before...about laying him to rest...?"
+      },
+      {
+        "speaker": "NUN",
+        "text": "You must find the remains...and bury them in hallowed ground."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63106",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "SIMMS",
+        "text": "How is he?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Cooling down."
+      },
+      {
+        "speaker": "SIMMS",
+        "text": "If he continues having these outbursts, I'll have to have him isolated permanently."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Don't worry, it won't come to that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63107",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "SIMMS",
+        "text": "What did you think?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Frankly, I don't understand why some grad school superstar is being treated like a seasoned pro."
+      },
+      {
+        "speaker": "SIMMS",
+        "text": "She's been doing ground-breaking research on pattern nightmares."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Elizabeth, we don't need any outside help.  I know these kids.  I don't want some hot-shot taking chances with them just so she can get published."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63108",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Okay, Group's in session.  Straight talk only in this room."
+      },
+      {
+        "speaker": "SIMMS",
+        "text": "Today I'd like to start by getting us acquainted with our new staff member, Nancy Thompson.  Let's make her feel welcome."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63109",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "That's enough, Kincaid."
+      },
+      {
+        "speaker": "SIMMS",
+        "text": "There will be no repeat occurences of last night's events.  From now on, your doors will be locked during sleeping hours.  We'll begin a policy of evening sedation.  For everybody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63110",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "NEIL",
+        "text": "Elizabeth, I'm prescribing Hypnocyl.  It's a dream suppressant."
+      },
+      {
+        "speaker": "SIMMS",
+        "text": "I know what it is.  I just can't believe what I'm hearing.  What has she talked you into?"
+      },
+      {
+        "speaker": "NEIL",
+        "text": "Nothing.  They're my patients.  It's my decision.  I want the dreams stopped until we get some answers."
+      },
+      {
+        "speaker": "SIMMS",
+        "text": "I won't allow it."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "I'll go straight to Carver if I have to.  He'll either back me up or accept my resignation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63111",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "SIMMS",
+        "text": "I'm sorry, Neil.  You brought this on yourself."
+      },
+      {
+        "speaker": "NEIL",
+        "text": "For God's sake, Elizabeth...just try to help the kids, will you?  Listen to them."
+      },
+      {
+        "speaker": "SIMMS",
+        "text": "Of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63112",
+    "movie_id": "m461",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "I'm Will Stanton, and um...I've had a little accident, as you can see."
+      },
+      {
+        "speaker": "TARYN",
+        "text": "Accident my ass.  I thought this was supposed to be straight talk in here."
+      }
+    ]
+  }
+]

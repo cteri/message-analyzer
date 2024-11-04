@@ -1,0 +1,2702 @@
+[
+  {
+    "conversation_id": "conv_1201",
+    "movie_id": "m9",
+    "turns": [
+      {
+        "speaker": "WENDOVER",
+        "text": "See what?"
+      },
+      {
+        "speaker": "SIR IAN",
+        "text": "The pattern.  Each incident occurred almost precisely a thousand statute miles from the Pole.  A line through the points of occurrence makes almost a complete circle..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1202",
+    "movie_id": "m9",
+    "turns": [
+      {
+        "speaker": "WENDOVER",
+        "text": "Well, I'll be - !"
+      },
+      {
+        "speaker": "SIR IAN",
+        "text": "I'll be another!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1203",
+    "movie_id": "m9",
+    "turns": [
+      {
+        "speaker": "SIR IAN",
+        "text": "Just musing about our 'one-eyed adversary' and the legend of Homer.  'Cyclopes' were the Sons of Heaven, who forged the thunder- bolts thrown by Zeus."
+      },
+      {
+        "speaker": "WENDOVER",
+        "text": "Our 'Cyclops' throws quite a thunderbolt, itself!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1204",
+    "movie_id": "m9",
+    "turns": [
+      {
+        "speaker": "WENDOVER",
+        "text": "You plotted the course of Cyclops?  Then that's <u>our</u> course!  Wherever <u>he</u> goes, <u>we</u> go.....until we get him!"
+      },
+      {
+        "speaker": "SIR IAN",
+        "text": "Or, perhaps, until he gets us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1205",
+    "movie_id": "m9",
+    "turns": [
+      {
+        "speaker": "SIR IAN",
+        "text": "We've asked ourselves that - over and over - a thousand times."
+      },
+      {
+        "speaker": "WENDOVER",
+        "text": "But <u>answers</u> are what we need - not more questions!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1206",
+    "movie_id": "m9",
+    "turns": [
+      {
+        "speaker": "WENDOVER",
+        "text": "Due north.  At five knots...no, six!"
+      },
+      {
+        "speaker": "SIR IAN",
+        "text": "Toward the Pole!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1207",
+    "movie_id": "m9",
+    "turns": [
+      {
+        "speaker": "SIR IAN",
+        "text": "Cyclops will have to linger at the Pole to recharge his power banks."
+      },
+      {
+        "speaker": "WENDOVER",
+        "text": "All right - go to it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1208",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "You got yourself a computer, Alma."
+      },
+      {
+        "speaker": "ALMA",
+        "text": "Been putting my files into it. You take sugar and milk?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "No. Black."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1209",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "ALMA",
+        "text": "Are you alright, Wade?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah, sure. Why? I got this damned tooth, I got a few things bugging me, like everybody else. But I'm okay."
+      },
+      {
+        "speaker": "ALMA",
+        "text": "Well, you look... sad. Upset. I don't mean to pry. I'm sorry about your mother. It was a nice funeral."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Alma, I think there's some dirty business going on in this town."
+      },
+      {
+        "speaker": "ALMA",
+        "text": "Always has been."
+      },
+      {
+        "speaker": "WADE",
+        "text": "This is maybe worse than you and I are used to.  What I'm talking about, I'm talking about murder. Among other things."
+      },
+      {
+        "speaker": "ALMA",
+        "text": "Who?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Evan Twombley, the union boss who got shot. Somebody murdered him."
+      },
+      {
+        "speaker": "ALMA",
+        "text": "Who?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "You know Jack Hewitt, the kid I work with?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1210",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "...if Jack told the truth, he could be free by the time he's my age."
+      },
+      {
+        "speaker": "ALMA",
+        "text": "Sometimes things are simpler than you think. Let me ask you a question."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You don't believe me?"
+      },
+      {
+        "speaker": "ALMA",
+        "text": "About Jack? No. Have you checked out the tax bill on your father's farm lately?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I know he's due for the last two years. I was thinking of paying it when the insurance comes in."
+      },
+      {
+        "speaker": "ALMA",
+        "text": "Has anybody offered to buy it?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "As a mater of fact, yes. LaRiviere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1211",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "ALMA",
+        "text": "This is from three years ago. Some difference, huh?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "What is the Northcountry Development Association?"
+      },
+      {
+        "speaker": "ALMA",
+        "text": "I went down to Concord to check it out. The president is Mel Gordon. The vice-president and treasurer is Gordon LaRiviere. Those boys are buying up the mountain, Wade. $364,000 this year. I believe that's out of LaRiviere's league."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Twombley involved?"
+      },
+      {
+        "speaker": "ALMA",
+        "text": "No."
+      },
+      {
+        "speaker": "WADE",
+        "text": "He musta found out. They had to get rid of him. And Jack'll get blamed."
+      },
+      {
+        "speaker": "ALMA",
+        "text": "All the figures show is that Gordon LaRiviere is going to be a very rich man using his position as Selectman. In a year or two, you won't recognize this town."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1212",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "What are you boys up to?"
+      },
+      {
+        "speaker": "CHICK",
+        "text": "Same old shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1213",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "CHICK",
+        "text": "The good news is we haven't got to your car yet. The bad news --"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Just tell me when you'll have it fixed."
+      },
+      {
+        "speaker": "CHICK",
+        "text": "-- the bad news is there's a problem with Gordon's truck what somebody drove through the ice last night. Figured you'd know something about that, Wade."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah. I know about that."
+      },
+      {
+        "speaker": "CHICK",
+        "text": "LaRiviere says he ain't gonna pay for the fixin' of your car. A couple hundred for the clutch. I got some more bad news. Wanna hear it?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Tell me."
+      },
+      {
+        "speaker": "CHICK",
+        "text": "Chub says you're fired."
+      },
+      {
+        "speaker": "WADE",
+        "text": "He can't fire me. LaRiviere already did that this morning."
+      },
+      {
+        "speaker": "CHICK",
+        "text": "He's a Selectman. The town. He said to tell you to turn your badge in and clean out your office. I'm supposed to pull the CB and police light out of your car. They're town property."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1214",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "I screwed up the divorce. I agreed with everything she said. I wanted her to like me. I just want to be a good father."
+      },
+      {
+        "speaker": "HAND",
+        "text": "It would help if you were married, if there was someone at home while you work."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I plan to. Soon."
+      },
+      {
+        "speaker": "HAND",
+        "text": "How soon?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "This spring."
+      },
+      {
+        "speaker": "HAND",
+        "text": "Good. It would help if there were some drug or alcohol abuse on the part of your ex-wife. Sexual problems upsetting to the child."
+      },
+      {
+        "speaker": "WADE",
+        "text": "It looks pretty hopeless, don't it?"
+      },
+      {
+        "speaker": "HAND",
+        "text": "No, not exactly. I'll look at the divorce decree, see if we can get it redrawn. Interview your daughter. Jill, right?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "HAND",
+        "text": "Fine. I'll need a $500 retainer. You can mail it."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Jesus. How much... how much will the whole thing cost?"
+      },
+      {
+        "speaker": "HAND",
+        "text": "Hard to say. If we go for custody, depositions, psychiatric evaluations, it could drag on. Ten or twelve thousand dollars. She could win on appeal. If we just want to get the visitation rights redrawn, assuming they're unduly restrictive, it wouldn't be more than twenty-five hundred."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Oh."
+      },
+      {
+        "speaker": "HAND",
+        "text": "You might be better off legally as well as financially to just go for the --"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah. I know. The custody suit thing was just my getting back at her. I'm not as dumb as I look. Whatever you say. I love my daughter.  I'll send you the five hundred."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1215",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "You heard the news."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "I hear Twombley got shot."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1216",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "You see it?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Nope. Heard it. We wasn't far apart. I spotted this buck, then I heard the gun go off and Twombley was gone. I looked over the little cliff we was using for a stand and there the fucker was, deader'n shit. Called it right in."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "This is gonna be one fucking mess to clean up. Twombley's son-in-law and daughter are up the weekend. Didn't you say you'd seen him, Wade?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1217",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "Might as well take the rest of the day off. You look sort of fucked up. You've been paid for the day, anyhow, right?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Not exactly. I mean, he never paid me."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "You'll get your money. Don't talk to any newspapers about this. Twombley's a big deal down in Massachusetts, you know. Tell them your lawyer says you shouldn't comment."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Lawyer? I don't need no lawyer, do I?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "No, of course not. Just say it, that's all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1218",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "He's on to us!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Shit! What are we gonna do?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Maybe I can buy him off. I gotta talk to Mel."
+      },
+      {
+        "speaker": "JACK",
+        "text": "You can't buy Wade off."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "We bought you."
+      },
+      {
+        "speaker": "JACK",
+        "text": "That was me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1219",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "TWOMBLEY",
+        "text": "It's not enough snow, not for tracking the bastards. No advantage there, kid."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Don't worry, Mr. Twombley, I know where those suckers are. Rain or shine, snow or no snow. I know deer. We'll kill us a buck today. Guaranteed. Before ten."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Guaranteed, eh?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yep. Right about now the does are holing up in the brush piles. The bucks are right behind them and we're right behind the bucks.  This gun gets fired before ten o'clock. Whether it kills a deer or not is more less up to you. I'll put you inside 30, 35 yards of a buck the first four hours of the season. That's what you're paying me for, ain't it?"
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Damn straight!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1220",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Done much shooting with that rifle yet?"
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Tell you what. You get me close to a big buck by ten, kid, there's another hundred bucks in it."
+      },
+      {
+        "speaker": "JACK",
+        "text": "If you get it?"
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "JACK",
+        "text": "You might not kill it."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "You think so."
+      },
+      {
+        "speaker": "JACK",
+        "text": "You might gut-shoot it or cripple it for somebody else to find and tag. Can't guarantee that won't happen, especially with a new gun. I may have to shoot it."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "You take care of your end, kid, I'll take care of mine."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Mmm."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "You understand what I'm saying? I want a deer, a dead one, not a cripple or whatthefuck."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I get it.  No sweat. You'll get yourself a deer and you'll get him dead. And you'll have him by coffee time."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "And you'll get your extra hundred bucks."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Wonderful!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1221",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "TWOMBLEY",
+        "text": "I'm okay."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Follow close. We'll cross the next meadow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1222",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "I used to play ball."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Drafted by the Red Sox."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "You played for the Sox?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Double A. New Britain."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Oh."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Pitcher. \"Best ballplayer to come out of New Hampshire since Carlton Fisk.\""
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Really."
+      },
+      {
+        "speaker": "JACK",
+        "text": "They said."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Hmm."
+      },
+      {
+        "speaker": "JACK",
+        "text": "The only difference between me and that Clemens on TV is luck, shit luck."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Ruined my arm. Brought me along too fast. Why'd it have to be my fucking arm, I used to think. Then I realized it had to be somebody's fucking arm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1223",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Safety on?"
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "JACK",
+        "text": "This way."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "Sun's gettin high."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Deers have ears too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1224",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Fresh tracks.  Deer shit. Big one. Here's your buck, Mr. Twombley. I'll circle around."
+      },
+      {
+        "speaker": "TWOMBLEY",
+        "text": "You only got a little while if you want your hundred bucks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1225",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Don't mind if I do."
+      },
+      {
+        "speaker": "JACK",
+        "text": "LaRiviere's having a hell of a time in there. Master of fucking ceremonies."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Where's that gun you were bragging on today?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1226",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "No brag. Just fact."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Got you for -- 450, 500 bucks?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1227",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "I thought I told you to move that truck!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Relax, Chief. We're leaving. You wanna toke?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "You gotta be more careful about that shit. Gordon or one of those guys sees you smoking that wacky tabacky around me they'll expect me to bust you. And I'll be outta a job."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Some job. Here, have a hit. Don't be such a hardass. I know you got problems, but everybody's got problems."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Not here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1228",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Got a job first thing in the morning, first day of season. Saturday I'll hunt for myself. Twombley something. - Er --"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Evan. He's a mucky-muck union official from Massachusetts. You're lucky."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Don't know about lucky. The guy's a full-blown asshole. Pay's good, though. $100 a day. I got to guarantee a kill, of course. Which I can do. There's some monster bucks hiding out up there."
+      },
+      {
+        "speaker": "WADE",
+        "text": "How'd you get the job?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Gordon, he's always got some angle working. He wants to keep Twombley happy, I'm his boy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1229",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Like you and Gordon?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Right. The sonofabitch couldn't get along without me."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah, he'd go broke tomorrow if you quit him."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Right!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1230",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Bastard's got his high beams on."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1231",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Aw, shit, she's here to get Jill. Me and Jill had a little argument. Jack, I got to get back, get back to town. Move this thing, will you? See if you can get back to the Town Hall before they get there, okay?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Piece of fucking cake."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1232",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Where'd Twombley get shot?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "In the chest."
+      },
+      {
+        "speaker": "WADE",
+        "text": "No, I mean whereabouts."
+      },
+      {
+        "speaker": "JACK",
+        "text": "A half mile in, along the old lumber road."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You bring him up yourself? That's a steep climb."
+      },
+      {
+        "speaker": "JACK",
+        "text": "The ambulance guys lugged him up."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You stayed away?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Where'd you get the blood?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "What blood?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "On your sleeve."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Musta... How'd I know? What're you doing, playing cop?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I gotta make a report to Fish and Game. I was just wondering, that's all. What'd he do, to shoot himself, I mean?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Who the fuck knows? Musta slipped or something. I just heard the gun go off."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I never seen a man shot before. Not even in the service. Must be something."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Well, I didn't actually see him do it. Like I said."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Sure you did."
+      },
+      {
+        "speaker": "JACK",
+        "text": "What?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Saw him do it?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "What the fuck you telling me, Wade? I never seen the guy get shot, I told you that."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You musta seen him get shot. I know you did."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Let's get the fuck outta here. You're not making any sense, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1233",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "There's your old twenty-gauge, and that there's the new Browning you was showing me last night. This must be Twombley's gun. Brand new. Very fancy tooling. Probably fired one time. It's a beautiful piece of work.  But what the hell, Jack, I guess you deserve it. Right's right."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Twombley sure as hell won't be shooting it again."
+      },
+      {
+        "speaker": "JACK",
+        "text": "He sure as hell won't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1234",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "I'm fucking out of here."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Lawford?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Out of this fucking job. This job sucks. Working outside in the winter sucks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1235",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Open the door, will ya?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Why don't you quit now, you want out so bad?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Open the door. We're late."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I mean it -- you got enough money now. Head out for California. Surf's up, Jack, and you're digging wells in the snow."
+      },
+      {
+        "speaker": "JACK",
+        "text": "What do you mean I got money? I'm as broke as you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1236",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "I'm sorry for the screw-up. But I couldn't help it it's too late to go trick-or-treating now. I couldn't help it I had to stop at Penny's for the costume. And you were hungry, remember."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Who's fault is it then if it's not yours? You're the one in charge, Daddy."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Look. Those kids are still trick-or- treating. They're still out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1237",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Those are the Hoyts."
+      },
+      {
+        "speaker": "JILL",
+        "text": "I don't care. They're out."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Can't you see... look out there. Nobody's got their porch lights on anymore. It's too late. Those Hoyt kids are just out to get in trouble. See, they put shaving cream all over that mailbox there. They chopped down Herb Crane's new bushes. Little bastards. Jesus H. Christ."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1238",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JILL",
+        "text": "Why do they do that?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Do what?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "You know."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Break stuff?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "Yeah. It's stupid."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I guess they're stupid."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Did you do that when you were a kid?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Well, yeah. Sort of. Nothing really mean. Me and my pals, me and my brothers. It was kind of funny then. Stealing pumpkins, soaping windows. Stuff like that."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Was it funny?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "To us it was."
+      },
+      {
+        "speaker": "JILL",
+        "text": "But it's not funny now."
+      },
+      {
+        "speaker": "WADE",
+        "text": "It's not funny now. I'm a cop and I gotta listen to all the complaints people make. I'm not a kid anymore. You change."
+      },
+      {
+        "speaker": "JILL",
+        "text": "I bet you did lots of bad things."
+      },
+      {
+        "speaker": "WADE",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "I just think you used to be bad."
+      },
+      {
+        "speaker": "WADE",
+        "text": "No. I didn't used to be bad. No sir. Where do you get this stuff? From your mother?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "No. She doesn't talk about you anymore."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1239",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Go on, Jill. Some of those kids you still know."
+      },
+      {
+        "speaker": "JILL",
+        "text": "I don't want to."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Why? Why not? You know these kids from when you went to school here. It hasn't been that long."
+      },
+      {
+        "speaker": "JILL",
+        "text": "It's not that."
+      },
+      {
+        "speaker": "WADE",
+        "text": "What then?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "It's stupid."
+      },
+      {
+        "speaker": "WADE",
+        "text": "It's fun."
+      },
+      {
+        "speaker": "JILL",
+        "text": "I want to go home.  I don't like it here."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Oh, Jesus, come on, will you? Don't mess this up anymore than it's already been messed up. Join the other kids. Do that and before you know it you'll be as happy as a goddamned clam."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1240",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Some party, huh? Sorry I lost sight of you. I had to step outside for a smoke. You find anybody you know here? There must be some kids you used to know from school. You want to go tomorrow? See your old teachers? Be more fun than hanging out with me all day."
+      },
+      {
+        "speaker": "JILL",
+        "text": "No."
+      },
+      {
+        "speaker": "WADE",
+        "text": "No what?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "No I didn't see anybody I know. No I don't want to go to school here tomorrow. I want to go home."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You are home. There are lots of kids you still know here."
+      },
+      {
+        "speaker": "JILL",
+        "text": "I don't want to be here. Don't worry, I love you, Daddy, I do. But I want to go home."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Jesus. Listen, Jill, tell you what. Tomorrow morning, you still want to go home, I'll drive you down. I'll get off work or something."
+      },
+      {
+        "speaker": "JILL",
+        "text": "I called Mommy."
+      },
+      {
+        "speaker": "WADE",
+        "text": "What? You called Mommy? Just now?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Jesus, why?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "I... because I want to go home. She said she'd come and get me."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Come and get you! Shit! It's a damn half hour drive each way. Why didn't you talk to me about it first?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "See, I knew you'd be mad."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah. Yeah, right, I'm mad. What'd you tell her, for Christ sake?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "I told her I wanted to come home. Daddy, don't be mad at me."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Well, I guess I am. I planned this, I planned all this, you know. I mean, it's sort of pathetic, but I planned it. You shouldn't have called your mother.  C'mon, we're gonna call her before she leaves."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1241",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "She's gone already!  Gone already! Couldn't wait."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "WADE",
+        "text": "That's all you got to say? \"Yes\"."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "WADE",
+        "text": "She won't be here for a half hour. Think you can stand it that long?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Where do you expect to wait for her? Obviously downstairs with the other kids isn't good enough."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1242",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Sit right there by yourself if you want. Wait for her by yourself. That's fine with me. Just dandy. I'm going downstairs."
+      },
+      {
+        "speaker": "JILL",
+        "text": "That's fine with me too. When Mommy comes, tell her I'm up here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1243",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JILL",
+        "text": "Dad."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I'm glad you're here. Can you stay for a while?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1244",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JILL",
+        "text": "Are we going in this?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah. My car's in the shop. This'll be fine."
+      },
+      {
+        "speaker": "JILL",
+        "text": "It's pretty old."
+      },
+      {
+        "speaker": "WADE",
+        "text": "It belongs to Pop."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Pop?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Grandpa. My father. It's his."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1245",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "How about a Big Mac?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "Mommy won't let me eat fast food. You know that. It's bad for you."
+      },
+      {
+        "speaker": "WADE",
+        "text": "C'mon, we can always sneak a Big Mac. And a cherry turnover. Your favorite. What do you say?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "No."
+      },
+      {
+        "speaker": "WADE",
+        "text": "What do you want, then?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You can't have nothing, Jill. We need lunch. Mr. Pizza?"
+      },
+      {
+        "speaker": "JILL",
+        "text": "Same thing, Daddy. Mommy says --"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I know what Mommy says. I'm in charge today, though."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Okay. So we'll get what you want. What do you want?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1246",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Nothing, I guess. I guess I can wait till we get home. Maybe we'll stop by Wickham's for a hamburger when we get to Lawford. That suit you? You always like Wickham's."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Okay."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1247",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Please don't cry. Please, honey."
+      },
+      {
+        "speaker": "JILL",
+        "text": "What are you sorry for?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I don't know. For the food business. I guess. I just thought, you know, we'd sneak a Big Mac on Mommy, like we used to."
+      },
+      {
+        "speaker": "JILL",
+        "text": "I want to go home."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You can't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1248",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "JILL",
+        "text": "That's illegal, you know."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I know."
+      },
+      {
+        "speaker": "JILL",
+        "text": "You're a policeman."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Nope. Not anymore. I'm nothing anymore."
+      },
+      {
+        "speaker": "JILL",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1249",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Jill, please, it's alright. Nothing happened."
+      },
+      {
+        "speaker": "JILL",
+        "text": "I want to go home."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Okay, let's go home, then."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1250",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "We're looking for the funniest costume! And the scariest! And the most imaginative! And the best costume of all!"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Got here just in time. Go ahead. Jump in line. Maybe you'll win a prize."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1251",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Tomorrow, Gordon."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Watch this snow. It's coming down tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1252",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "Told you the snow was coming down. Take the grader."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Where's the plow?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Jimmy took it. Jack's out hunting with Evan Twombley."
+      },
+      {
+        "speaker": "WADE",
+        "text": "His son-in-law damn near killed me."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "At the school crossing. In his BMW. Coulda hurt some kids. I'm gonna bust his ass."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Don't go playing policeman."
+      },
+      {
+        "speaker": "WADE",
+        "text": "What am I -- a security guard? You hired me, you and your Selectman friends."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "You don't want the extra police pay?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I'm not saying that."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Get the grader. Go out 29 past Toby's. Don't let Lillian get to you. She didn't belong here. That's why she left."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Fuck you."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "That's what I love about a small town. You know everybody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1253",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "What's the hurry?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "A hunting accident. Jack and Twombley."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I figured you already heard."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Twombley, Jesus. We got to get moving: I got to get up there. How would I know? C'mon, you drive. We'll take my truck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1254",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "Fuck. Turn it off.  All you heard was there was some kinda accident?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Twombley's shot. I heard that. Not Jack. He's okay, I assume."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Fuck. You don't know how bad or anything?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "You mean Twombley?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Yes, Wade, I mean Twombley. Put out that cigarette. Fuck. Fuck. Fuck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1255",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "He more than likely just shot himself in the foot or something. That's what usually happens."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "I shoulda sent you instead of Jack."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I wish you had. I'd rather be deer hunting instead of freezing my ass on that fucking grader."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "You ain't the hunter Jack is. And he can't drive the grader worth shit."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Like hell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1256",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "That must've been Twombley. Jesus. I bet that was Twombley."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You want me to follow them to Littleton?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Let's get to the top and talk to Jack first. He'll know what happened. He fucking better. If this coulda been avoided, I'll put that kid's ass in a sling."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1257",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "What the fuck. My day's already ruined.  Give me the keys. You can go back with Jack. You still got a shitload of plowing to do."
+      },
+      {
+        "speaker": "WADE",
+        "text": "It ain't done, if that's what you mean."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Something bugging you?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah. A few things."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Well, right now we're not too interested. Finish up what you gotta do, then you can get bugged on your own time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1258",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "How you holding up, Wade?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I'm fine, fine."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "You Rolfe?  I remember you from high school. You're a teacher now? Harvard?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1259",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Sorry about the long lunch. My clutch is going out again."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "You ever think of getting a new car, Wade?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "On what you pay me?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Elaine! Call Chub Meritt and have him pick up Wade's car, fix the clutch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1260",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "What do I have to do for it?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Nothing, Wade, I've been thinking. You don't get enough appreciation around here and it's time we changed things a little."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I saw Mel Gordon in here this morning."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "So?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "He say anything about the summons I tried to give him? Sonofabitch wouldn't accept it."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Wade, that wasn't smart. Going out right after the man's father-in-law shot himself. Let it go. Call it a favor to me."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You? Why?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Mel's doing some business with me. It's nice to do favors for people you do business with. He was in a hurry. No big deal."
+      },
+      {
+        "speaker": "WADE",
+        "text": "That was before Twombley was shot. Before he knew."
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "What's the difference? Take my truck, take a rest -- stop worrying about Mel Gordon. Have you decided what to do with your old man's place -- he going to stay there?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Want to buy?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Don't light that in here. I'm allergic."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I won't. You interested?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Maybe."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You and Mel Gordon?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "Could be."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Always count on old Wade for a good screwing. Why should I always pay more, sell cheap? Why should you guys make all the money. You and Mel and Jack. Right's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1261",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LARIVIERE",
+        "text": "Wade, you're done.  Let me have the shop keys."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You two, don't you get it? He's using you. You're his slaves.  Jesus Christ, Jack, don't you see that?"
+      },
+      {
+        "speaker": "LARIVIERE",
+        "text": "The key, Wade."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah, you can have the key. It's the key that's kept me locked to you all these years. I give it to you with pleasure.  Now I'm free. See how easy it is, Jack? All you got to do is give back what the man gave you, and you're free of him.  I've got to call my brother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1262",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Lillian!"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Where's Jill?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1263",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Me and Jill, we just had a little spat. She felt kind of left out, I guess, from not knowing some of the new kids --"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Where is she now? Is she in the truck with your friends?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1264",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "While you went off for a few beers with your friends? Is that Hettie Rodgers there, with whatzizname?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "She's grown up some, hasn't she?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Oh, Jesus, lay off, will you? It looks like you've won this fucking round already, so lay off a little, for Christ's sake."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1265",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "I don't want her to go, Lillian."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Don't cause a scene. No one's trying to win any 'rounds'. Don't make it any worse."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I'm not making it any worse. You are. Me and Jill could've worked this thing out. It's normal, it's even normal for me to get a little touchy about it. Believe it or not. How do you think this makes me look, treating her like some tragic victim or something?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1266",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "You ever come to your father's grave anymore?"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "No, not anymore. It's too... it's too far."
+      },
+      {
+        "speaker": "WADE",
+        "text": "We should talk."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "We've done all our talking, Wade."
+      },
+      {
+        "speaker": "WADE",
+        "text": "It's just..."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Let the past be.  I'm sorry about your mother. I liked her. You never know how much women like that suffer. It's like they live their lives with the sound turned off -- and then they're gone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1267",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "Wait there. She'll be right out.  Is there snow on the ground up in Lawford?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah, lots."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "See. Get your boots."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Hi honey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1268",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "No problem. Look, I..."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "You make me sick. I can't believe you've sunk so low."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Low as what? What have I done? It's bad to want to see your own daughter?"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "You know what I'm talking about. For what you're doing to me and to the child you say you love so much. Love. You won't get away with it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1269",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "LUGENE",
+        "text": "Are you okay, Wade? What was wrong? Why were you holding everyone up?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Did you see that sonofabitch in the BMW? He could've killed somebody."
+      },
+      {
+        "speaker": "LUGENE",
+        "text": "Did you get his number?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I know who it is."
+      },
+      {
+        "speaker": "LUGENE",
+        "text": "Good. Who?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Mel Gordon."
+      },
+      {
+        "speaker": "LUGENE",
+        "text": "I still don't understand --"
+      },
+      {
+        "speaker": "WADE",
+        "text": "From Boston. Evan Twombley's son-in- law -- he was driving. I know where they're headed. Up the lake, Agaway. The old man's out deer hunting with Jack Hewitt, so they probably got some big weekend party planned."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1270",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "New hat?  Jill's up, I see."
+      },
+      {
+        "speaker": "WADE",
+        "text": "For a while."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "How's she doing?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Okay. She's fine."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "You two want to do anything tomorrow and need a third party, give me a call, okay? I'm off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1271",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "Don't worry. I can protect my virtue. I mean, c'mon, Wade, give me a break."
+      },
+      {
+        "speaker": "WADE",
+        "text": "See you tomorrow, maybe."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "You okay?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1272",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "You okay?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "I'm sorry about what I said."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Said what?"
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "About you and Jill and needing a third person. She went back to Lillian?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Forget it."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I'm going to start one of those custody suits. I don't give a fucking shit. You know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1273",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "You don't mean that."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah. I mean that."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "No you don't. You're pissed, that's all. You ought to cool off for a few days then have a long talk with Lillian. You know? Work it out with her, tell her how you feel. Lillian's not out to get you."
+      },
+      {
+        "speaker": "WADE",
+        "text": "The hell she isn't. Lillian's been trying to nail me to a cross since the day I met her. I'm gonna hire me a fucking lawyer from Concord and get this thing, this divorce thing, rearranged. I've been thinking about it a lot. It's like she owns Jill or something. Nobody owns nobody, especially not kids. And I pay her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1274",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "Call me."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Tonight. Let's get together."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1275",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "Jack's sort of sensitive, I guess. More than most. But he'll be okay in a few weeks."
+      },
+      {
+        "speaker": "WADE",
+        "text": "There's something funny about that shooting. There's lots funny about it, actually."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "I heard he was drunk at Toby's last night and got in a fight with Hettie. He drove off without her..."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I'm sure, I'm positive it didn't happen the way Jack says it did."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "...Jack's turned into one of those men who are permanently angry. He used to be a sweet kid, but it's like, when he found out he couldn't play ball anymore, he changed. Now he's like everyone else."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I've been wondering if maybe Jack shot Twombley, instead of Twombley shooting himself. I've been wondering maybe Jack shot him on purpose."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Wade! How can you even think such a thing? Why would Jack Hewitt do that, shoot Twombley on purpose?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1276",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Money."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Jack doesn't need money."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Everybody needs money. Except guys like Twombley and that sonofabitch son-in-law of his. People like that."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Jack wouldn't kill for it. Besides, who would pay him?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Lots of people. Guy like Evan Twombley, Boston union official, probably got lots of people want to see him dead. The Government's been investigating his links with the Mafia."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "The Mafia hire Jack Hewitt?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "No, I just know Jack's lying about what happened. He just seemed -- I know that kid, what he's like inside. He's a lot like I was at his age."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "You wouldn't have done anything like that, shot someone for money."
+      },
+      {
+        "speaker": "WADE",
+        "text": "No. Not for money. But, if somebody'd given me half a damned excuse -- I was pretty fucked up, you know."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "But not now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1277",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "I can see what you looked like as a kid."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "You knew me as a kid."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yeah, but never what you looked like. Not really. Never really studied your face, like now. I was never able to see you as a kid when you were a kid until now, this way."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "What way?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "After making love. I like it. It's nice to see that in a grown-up person."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "It's nice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1278",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "Don't you think, do you still think it's a good idea to press this custody thing -- just now?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I'm her father -- supposed to be, but I'm not able to. Yes. Yes, I am. It may be the only thing in my life I've been so clear about wanting. Even if it takes a big fight."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Then... I guess you have to."
+      },
+      {
+        "speaker": "WADE",
+        "text": "There's another thing I've been thinking about. I don't know how you feel about the idea, Margie, because we've never talked about it. But I've been thinking lately, I've been thinking we should get married sometime. You and me."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Oh, Wade."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I've been thinking about it, that's all."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "You've been married twice --"
+      },
+      {
+        "speaker": "WADE",
+        "text": "It was to the same woman. I was just a kid...  It's not like a marriage proposal or anything, just a thought. Something for you and me to talk about and think about. You know?"
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Alright. I'll think about it."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1279",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "Did you tell them?  That we were coming?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Don't you think it's proper for a fella to introduce his girl to his parents?"
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "I know your parents."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I just want to pick up my divorce papers. For the lawyer. It won't take long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1280",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "Are you sure they're home? Did you call?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "The truck's here. Looks like they've stayed inside since the snow started."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1281",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Strange."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Think they're alright?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Of course! I would've heard."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "How?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I don't know for Christ's sake!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1282",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "This is nuts."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Wade."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1283",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Jesus Christ, Pop, let's go home. I got waylaid. Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1284",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "What on earth is happening to you? Why are you acting this way?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "It's my tooth! My fucking tooth! I can't even think anymore because of it."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "I heard you talking. You got fired this morning, didn't you?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Look, that's temporary, believe me. There's so much shit gonna hit the fan the next few days, my getting fired by LaRiviere and Merritt won't matter a bit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1285",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Going somewhere, Margie?"
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "I'm just cleaning out some of this stuff that's built up. For the rummage sale. And some things for the cleaners. And the laundromat."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Don't lie to me. You're leaving me, I can see that."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Don't be silly. Hi, Jill."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1286",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MARGIE",
+        "text": "Have you been heating the house? Not just with the stove."
+      },
+      {
+        "speaker": "POP",
+        "text": "There's a furnace."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "You're not using it today?"
+      },
+      {
+        "speaker": "POP",
+        "text": "It's broke I guess. There's an electric in the bedroom."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Maybe Wade should take a look at it. Your pipes'll freeze.  Wade, would you do that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1287",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "POP",
+        "text": "Coffee's perked."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "When did she die?"
+      },
+      {
+        "speaker": "POP",
+        "text": "Is...? She's dead then?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1288",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "POP",
+        "text": "It makes me sad."
+      },
+      {
+        "speaker": "MARGIE",
+        "text": "Can --?"
+      },
+      {
+        "speaker": "POP",
+        "text": "Makes me sad it was her. Instead of me. I shoulda froze."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1289",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MEL GORDON",
+        "text": "Whitehouse. Next time, phone ahead."
+      },
+      {
+        "speaker": "WADE",
+        "text": "How's that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1290",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MEL GORDON",
+        "text": "I said, 'Next time, phone ahead.'"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Jesus Christ. Mr. Gordon, when I come all the way to serve somebody a summons, I don't call ahead for an appointment."
+      },
+      {
+        "speaker": "MEL GORDON",
+        "text": "What the hell are you talking about?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I'm issuing you a ticket. Moving violation."
+      },
+      {
+        "speaker": "MEL GORDON",
+        "text": "Moving violation! I just got out of bed and you're telling me you're giving me a goddamn speeding ticket? Now? Are you nuts? Is that it, Whitehouse? You're nuts?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yesterday morning, you passed a stopped school bus, which was flashing its lights, then you--"
+      },
+      {
+        "speaker": "MEL GORDON",
+        "text": "Hold on!"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Don't ever put your hands on me, Mr. Gordon."
+      },
+      {
+        "speaker": "MEL GORDON",
+        "text": "You're talking about a goddamned ticket, from when I passed you at the school where you were deciding to hold up traffic while dreaming of becoming a traffic cop or something?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Don't give me a hard time, Mr. Gordon. I'm just --"
+      },
+      {
+        "speaker": "MEL GORDON",
+        "text": "Doing your fucking job. I know. I watch television too."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Yes. Here's your ticket."
+      },
+      {
+        "speaker": "MEL GORDON",
+        "text": "You get the hell out of my house now, asshole. And know this -- you are going to be a lucky asshole if I haven't got you fired before the day is out. I can do it with one phone call, and I'm pissed enough to do it now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1291",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "MRS. GORDON",
+        "text": "Who are you?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "I was... I'm Wade Whitehouse. I was wondering, is your husband here?"
+      },
+      {
+        "speaker": "MRS. GORDON",
+        "text": "He's asleep. We were up very late."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Well, yes, I'm... I want to say that I'm real sorry about your father, Mrs. Twombley."
+      },
+      {
+        "speaker": "MRS. GORDON",
+        "text": "Mrs. Gordon. Thank you."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Well, yeah, I suppose. Sure. I just had a little business to settle with Mr. Gordon. I'm the local police officer."
+      },
+      {
+        "speaker": "MRS. GORDON",
+        "text": "Something about my father?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Oh, no. No, it's a... it's a traffic thing. No big deal."
+      },
+      {
+        "speaker": "MRS. GORDON",
+        "text": "Can't it wait, then?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1292",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Take care, Wade."
+      },
+      {
+        "speaker": "WADE",
+        "text": "You be careful of that little bastard. He's dying to get in your pants, you know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1293",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "It don't look right."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "The sign. It looks like it's spelled wrong or something."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Fuck. Wade Whitehouse. It's people like you that keep this fucking town from prospering. Whatever somebody does to improve things around here, you gotta find fault with it."
+      },
+      {
+        "speaker": "WADE",
+        "text": "I'm not finding fault. It's a good idea, good for you, good for the town. Real modern too."
+      },
+      {
+        "speaker": "NICK",
+        "text": "This town sucks."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Aw, c'mon, I was only saying there's something wrong with \"Home Made Cooking\", that's all. The sign's fine. What it says is wrong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1294",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Marg!"
+      },
+      {
+        "speaker": "WADE",
+        "text": "That goddamned woman. Thinks she can cart Jill off and leave me alone like this. I'm more than pissed, Margie. I'm a whole lot more than pissed. I been that plenty and I know the difference. This is different."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Marg! You got orders!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1295",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "You talked to Jack?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Not since last night. He took a guy hunting."
+      },
+      {
+        "speaker": "NICK",
+        "text": "The fucker shot himself. Ker-bang! That's what it sounds like. Not on purpose. I assume accidental."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Jack?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "The other guy."
+      },
+      {
+        "speaker": "WADE",
+        "text": "Where... how'd you hear that?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "CB. Little while ago. One of the boys on the way in picked up Jack on the CB calling for state troopers. I figured you'd know what really happened. The fucking guy kill himself? This Twombley, who the fuck is he, anyhow?"
+      },
+      {
+        "speaker": "WADE",
+        "text": "No, I... I've been out on the grader all morning. Twombley's summer people. Massachusetts. Friend of Gordon's. It was his idea for Jack to take him hunting.  I gotta go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1296",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Jillie, you want a cheese grilled sandwich?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "It's called a grilled cheese sandwich, you dub."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1297",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Wade, I got a message for you.  Jack Hewitt, he's looking for you. Wants you to clear your stuff out of his office in Town Hall."
+      },
+      {
+        "speaker": "WADE",
+        "text": "His office. You mean my old office."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Well, I guess -- that's what he said."
+      },
+      {
+        "speaker": "WADE",
+        "text": "He got his deer yet?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "No, he's out now. Somewhere on the mountain. I'd stay away from him if I were you. He's real pissed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1298",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Rolfe."
+      },
+      {
+        "speaker": "POP",
+        "text": "A lesson in work and its rewards. You'll thank me for this one day.  Sally, turn off that TV!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1299",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "WADE",
+        "text": "Just do it."
+      },
+      {
+        "speaker": "POP",
+        "text": "Atta-go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1300",
+    "movie_id": "m10",
+    "turns": [
+      {
+        "speaker": "POP",
+        "text": "What was that?  You got something to say, say it! Say it!"
+      },
+      {
+        "speaker": "WADE",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "POP",
+        "text": "You no-good pup!"
+      }
+    ]
+  }
+]

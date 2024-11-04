@@ -1,0 +1,1710 @@
+[
+  {
+    "conversation_id": "conv_21101",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "You know what they say -- there's nothing like home."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "That's right... and we might as well face it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21102",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "Let's be happy that we're all alive."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "And that's something we owe to Ninotchka."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21103",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "What a lovely room you have here."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "How many families live here with you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21104",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "She's right...  anyhow let's talk ourselves into it."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "Just see how happy the people look... from here...."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21105",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "And if it is too late for you your children will eat it."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Let's forget the future... let's stop being sentimental... let's start that omelet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21106",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "We can say whatever we want. We can shout... we can complain... Look...  The service in this hotel is terrible!  See? Nobody comes... nobody pays any attention. That's freedom."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "No, that's bad management."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21107",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "MANAGER",
+        "text": "Is there anything I can do for you, monsieur?"
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "No, no."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21108",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "I am Comrade Buljanoff."
+      },
+      {
+        "speaker": "MANAGER",
+        "text": "Monsieur."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "May I ask how much your rooms are?"
+      },
+      {
+        "speaker": "MANAGER",
+        "text": "Well, gentlemen, I'm afraid our rates are rather high."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "Why should you be afraid?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21109",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "How are things in Moscow?"
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Very good. The last mass trials were a great success. There are going to be fewer but better Russians."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21110",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "This is the apartment we have reserved for you, Comrade Yakushova. I hope you like it."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Which part of the room is mine?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21111",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "Which lawyer?"
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "You didn't get legal advice?"
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "We didn't want to get mixed up with lawyers. They are very expensive here. If you just say hello to a lawyer... well, there goes another cow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21112",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Comrade Buljanoff..."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "Yes, Comrade?"
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Do you spell Buljanoff with one or two f's?"
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "With two f's, if you please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21113",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "Is there anything I can do, Comrade?"
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "You might get me an accurate map of Paris. I want to use my spare time to inspect the public utilities and make a study of all outstanding technical achievements in the city."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "Yes, Comrade."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21114",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "There's something else which I know will appeal to you. A visit to the Paris sewers. They tell me it is extremely instructive."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Huh?... Why don't you get a haircut, Buljanoff? You all look so wintry, Comrades. And why do we always keep the windows closed?  Isn't it amazing, at home there's still snow and ice and here... Look at the birds. I always felt a little hurt that our swallows deserted us in the winter for capitalistic countries. Now I know why. We have the high ideal but they have the climate... well, Comrades, I don't think I need you any more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21115",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Now let's forget everything except that we're together."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "That's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21116",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Let's not close our eyes. There are many good things to see here too."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "I think I need my glasses."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21117",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "Comrades... I'm out of the omelet."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Don't worry... there will be enough."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21118",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "It is high time you got out of Russia."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "I must be stern with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21119",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Don't forget, the day will come when you will have to face Razinin."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "Good old Razinin! Is he still alive? How does he manage?"
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "But, Comrades..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21120",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Is it possible to bring you back to reality for a moment? I must have a complete report of your negotiations and a detailed expense account."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "Don't ask for it, Ninotchka. There is a Turkish proverb which says, \"If something smells bad, why put your nose in it?\""
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "And there is a Russian saying: \"The cat who has cream on his whiskers had better find good excuses.\""
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "With our cream situation what it is, it is Russia which should apologize to the cats."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Friends... friends, Buljanoff, Iranoff..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21121",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "All you have to do is say \"open sesame.\""
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "I don't know how I can get you out of it this time. How will it end? What will happen to you?"
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "Shall we tell her?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21122",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Guest?"
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "We have opened a restaurant..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21123",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "We are not only serving good food, we are serving our country... we are making friends."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Who gave you this idea? What is responsible for all this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21124",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "You think because you represent the former Duchess..."
+      },
+      {
+        "speaker": "LEON",
+        "text": "The Duchess..."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "The former Duchess!"
+      },
+      {
+        "speaker": "LEON",
+        "text": "In any case, gentlemen, a charming, beautiful, exquisite woman. I warn you, if this case comes to trial it will be before a French court, and when the Duchess takes the stand..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21125",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "Not that we are giving in one inch, but tell us... what is in your mind?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Well, gentlemen, how about my proposition?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21126",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "About this telegram to Moscow. Why should you bother? I'll write it for you."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "Leon... Leonitchka...  Why are you so good to us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21127",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "BULJANOFF",
+        "text": "Didn't we put up a strong resistance?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Oh, yes, yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21128",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "Boys, boys... don't forget Russia is your mother country. Three sons walking out all at once... that's too much for any mother."
+      },
+      {
+        "speaker": "BULJANOFF",
+        "text": "Well, if your mother turns against you, you have to look for someone to adopt you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21129",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "GASTON",
+        "text": "Good morning, Your Highness."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Good morning, Gaston."
+      },
+      {
+        "speaker": "GASTON",
+        "text": "Count d'Algout is still asleep."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "That's all right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21130",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "SWANA",
+        "text": "Nonsense. How can you fight the Reds and make yourself agreeable to the Whites if you don't keep up your strength."
+      },
+      {
+        "speaker": "GASTON",
+        "text": "Shall I draw your bath, sir?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21131",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "GASTON",
+        "text": "A blue shirt, perhaps?"
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Blue? Let's offset his mood. Find a striped one, and brighten it with a great blaze of tie."
+      },
+      {
+        "speaker": "GASTON",
+        "text": "Very well, Your Highness."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21132",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "Good evening, Gaston."
+      },
+      {
+        "speaker": "GASTON",
+        "text": "Good evening, Monsieur."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21133",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "GASTON",
+        "text": "Count d'Algout, there have been several telephone..."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Go to bed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21134",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "GASTON",
+        "text": "Your breakfast, monsieur."
+      },
+      {
+        "speaker": "LEON",
+        "text": "I don't feel like any breakfast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21135",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "What time have you, Gaston?"
+      },
+      {
+        "speaker": "GASTON",
+        "text": "Eight forty-two, sir."
+      },
+      {
+        "speaker": "LEON",
+        "text": "I guess it is eight forty-two."
+      },
+      {
+        "speaker": "GASTON",
+        "text": "You seem to be a bit nervous, sir."
+      },
+      {
+        "speaker": "LEON",
+        "text": "I am, Gaston."
+      },
+      {
+        "speaker": "GASTON",
+        "text": "If you will forgive me, ever since you met that Bolshevik lady I've noticed a distinct change in you, sir."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Have you?"
+      },
+      {
+        "speaker": "GASTON",
+        "text": "Decidedly. Yesterday I was greatly amazed when I came from the market and found that you had made your bed, sir."
+      },
+      {
+        "speaker": "LEON",
+        "text": "And Gaston, I was happier all day long. I felt I'd contributed something."
+      },
+      {
+        "speaker": "GASTON",
+        "text": "Well, sir, if you should do it again, which I hope you won't, please remember the order. Counterpane, blanket, blanket, sheet, sheet."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Ah, there's something poetic about the simple processes of labor. Counterpane, blanket, blanket, sheet, sheet... it should be set to music!"
+      },
+      {
+        "speaker": "GASTON",
+        "text": "May I add, sir, that it was with great amazement that I found a copy of Karl Marx's Capital on your night table. That is a socialistic volume which I refuse to so much as dust, sir. I view with alarm, sir, the influence over you of this Bolshevik lady."
+      },
+      {
+        "speaker": "LEON",
+        "text": "I can't follow you, Gaston, isn't it about time that you realized the unfairness of your position? You being my servant? Wouldn't you like to stand on an equal footing with me?"
+      },
+      {
+        "speaker": "GASTON",
+        "text": "No, sir."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Isn't there any revolt in you? Sometimes when I order you around don't you feel like kicking me in the pants?"
+      },
+      {
+        "speaker": "GASTON",
+        "text": "No, sir."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Oh, you're a reactionary! Don't you look forward to the day when you can come in here and stand square on your two feet and say, \"Hey, you, d'Algout! from now on it's going to be share and share alike\"?"
+      },
+      {
+        "speaker": "GASTON",
+        "text": "Emphatically not, sir. The prospect terrifies me. Now, don't misunderstand me, sir, I don't resent your not paying me for the past two months, but the thought that I should split my bank account with you... that you should take half of my life's savings... that is really too much for me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21136",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "GENERAL SAVITZKY",
+        "text": "Your Highness..."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Yes, General Savitzky?"
+      },
+      {
+        "speaker": "GENERAL SAVITZKY",
+        "text": "I want you to know all the White Russian exiles in Paris are keeping their fingers crossed about the jewels. They are very interested in the case. Swana suspects her countrymen."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Are they indeed? Thank you."
+      },
+      {
+        "speaker": "GENERAL SAVITZKY",
+        "text": "They hope the settlement will bring you a fortune."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "General, please... if you hear any rumors that I am a charitable person, will you please kill them at their source?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21137",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "SWANA",
+        "text": "You're looking magnificent, Leon...  ...isn't he, General Savitzky?"
+      },
+      {
+        "speaker": "GENERAL SAVITZKY",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21138",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "SWANA",
+        "text": "General, would you mind making my excuses at our table? I'll be back in a few moments."
+      },
+      {
+        "speaker": "GENERAL SAVITZKY",
+        "text": "Certainly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21139",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "HEADWAITER",
+        "text": "Good evening, Your Highness."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Good evening, Louis. You seem to be very crowded tonight. Can you manage a table near the floor?"
+      },
+      {
+        "speaker": "HEADWAITER",
+        "text": "Certainly, Your Highness, this way please... Count d'Algout made the reservation this afternoon."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Count d'Algout..."
+      },
+      {
+        "speaker": "HEADWAITER",
+        "text": "It is only a small table but it will be no trouble to put in some extra chairs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21140",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "HEADWAITER",
+        "text": "Only one in the rear, I'm afraid."
+      },
+      {
+        "speaker": "SWANA",
+        "text": "That's perfect!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21141",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "HEADWAITER",
+        "text": "Is this satisfactory?"
+      },
+      {
+        "speaker": "SWANA",
+        "text": "Thank you, Louis."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21142",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "Comrades, why should we lie to each other? It's wonderful."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Let's be honest. Have we anything like it in Russia?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21143",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "They tell me when you ring once the valet comes in; when you ring twice you get the waiter; and do you know what happens when you ring three times? A maid comes in -- a French maid."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Comrades, if we ring nine times... let's go in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21144",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "I don't want to go to the Hotel Terminus."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "If Lenin were alive he would say, \"Buljanoff, Comrade, for once in your life you're in Paris. Don't be a fool. Go in there and ring three times.\""
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "He wouldn't say that. What he would say is \"Buljanoff, you can't afford to live in a cheap hotel. Doesn't the prestige of the Bolsheviks mean anything to you? Do you want to live in a hotel where you press for the hot water and cold water comes and when you press for the cold water nothing comes out at all? Phooey, Buljanoff!\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21145",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "We can wait."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Do we give the impression of people who are pressed for money?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21146",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "You know, Monsieur Mercier, this is all non-sense."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "These may have been the jewels of the Duchess Swana, but, like all private property, they were confiscated by the State."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21147",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "We can call our ambassador."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "I give you my word! They were confiscated legally!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21148",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "That won't help you! You can't intimidate us!"
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "Soviet Russia will put all its might behind this case."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21149",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "Yes, Leon..."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "What is it, my boy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21150",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "Leon, my little boy."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "Oh, Leon, you are so good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21151",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "Halt negotiations immediately. Envoy extraordinary arrives Thursday six ten with full power. Your authority cancelled herewith. Razinin."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "It is Thursday!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21152",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "This is a fine thing. Maybe we've missed him already."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "How can you find somebody without knowing what he looks like?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21153",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "We don't blame you, Leon, but when we came from Russia we believed in simplicity..."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "We avoided luxury and extravagance and today... well, if you were to offer us a glass of champagne, we wouldn't say no."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21154",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "They tell me it has a wonderful restaurant on the second floor."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "While you eat, you look at the view."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21155",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "Let's do that."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "It's a real Paris reunion."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "If you close your eyes and listen to our voices we might be in Paris."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21156",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "...des petites fraises des bois... de la crème de Bretagne..."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "...so it blows up that big... what they call an Omelette Surprise!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21157",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "Well, I think it's getting late. Good night, Ninotchka."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Thank you for a wonderful dinner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21158",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "That was our idea when we first came. All we thought we would get out of this trip was a Turkish bath, but... we learned better."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "Ninotchka, we are in the magic East, the country of Aladdin and His Lamp..."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "...Ali Baba and the Forty Thieves... into one single hour you can crowd a thousand and one nights."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21159",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "Don't call it desertion. Our little restaurant... that is our Russia... the Russia of borscht, the Russia of beef Stroganoff, blinis with sour cream..."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "...the Russia of piroshki... people will eat and love it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21160",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "There's something in Constantinople... something irresistible...."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "...it is in the air... it may come around the corner as you walk down the street...."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21161",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "We don't want to be disturbed."
+      },
+      {
+        "speaker": "LEON",
+        "text": "My name is Count d'Algout. I telephoned."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "If you want to see us you must come later."
+      },
+      {
+        "speaker": "LEON",
+        "text": "I just want a word with Monsieur Mercier."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "But you can't..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21162",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "Well, gentlemen... how about a little lunch?"
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Get out of here!"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Don't look so gloomy, gentlemen. All is not lost. You may have a chance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21163",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "All right, go ahead, get her on the witness stand! What can she say?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "But how will she look? The fashions this spring are very becoming to her. Gentlemen, the judge will be French, the jury will be French, everybody in that courtroom will be French. Have you ever seen a French court when a beautiful woman sits on the witness stand and lifts her skirt a little? You sit down and pull up your pants and where will it get you?"
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "I suppose you expect us to hand over the jewels?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Oh, no, no. I am not a highwayman, I'm just a nuisance. All I'm trying to do is make things as difficult as possible."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21164",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "What proposition?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "I just said let's have a little lunch.  Room service."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21165",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "What's the name of that Commissar on the Board of Trade?"
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Razinin."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Razinin, Board of Trade, Moscow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21166",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "And if we have to go to Siberia..."
+      },
+      {
+        "speaker": "LEON",
+        "text": "I'll send you a muff."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21167",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "She says she won't be intimidated by parasites. She called the Duchess a blood-sucking aristocrat and a blackmailer."
+      },
+      {
+        "speaker": "LEON",
+        "text": "What did she say about me?"
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "I think she covered you with the parasites."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21168",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "You found your way to us and we weren't easy to reach, were we?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "No, no."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21169",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "I am looking for Michael Simonovitch Iranoff."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "I am Michael Simonovitch Iranoff."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "I am Nina Ivanovna Yakushova, Envoy Extraordinary, acting under direct orders of Comrade Commissar Razinin. Present me to your colleagues."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21170",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "Comrade Buljanoff..."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Comrade."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Comrade Kopalski..."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Comrade."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "What a charming idea for Moscow to surprise us with a lady comrade."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21171",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "How much does this cost?"
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Two thousand francs."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "A week?"
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "A day."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Do you know how much a cow costs, Comrade Iranoff?"
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "A cow?"
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Two thousand francs. If I stay here a week I will cost the Russian people seven cows.  Who am I to cost the Russian people seven cows?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21172",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Well, it means another two weeks in Paris."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Too bad we have to waste all that time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21173",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Come, now, you must not talk that way.... You have to adjust yourselves.... We must be brave."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Brave... that's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21174",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Only myself and two other girls. One is a cello player in the opera and the other a street-car conductor."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Just three people in a room this size? Whew!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21175",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "Bad news?"
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Look for yourselves."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21176",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "But Buljanoff, Iranoff, Kopalski..."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Now, please, Ninotchka, don't start figuring it out in cows."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "You've done it again and I am responsible. How can you forget yourselves this way? You were sent here to make money, not to spend it."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Buljanoff, she still has those old- fashioned Bolshevik ideas."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21177",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "...we have a wonderful electric sign: \"Dine With Buljanof, Iranoff, and Kopalski.\""
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "You mean you are deserting Russia?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21178",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "MANAGER",
+        "text": "Yes, monsieur?"
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Just looking around."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21179",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "This is Comrade Kopalski."
+      },
+      {
+        "speaker": "MANAGER",
+        "text": "Monsieur."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21180",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "MANAGER",
+        "text": "I might be able to accommodate you. Is there some more luggage?"
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Oh, yes, but have you a safe here big enough to hold this?"
+      },
+      {
+        "speaker": "MANAGER",
+        "text": "I'm afraid we have no boxes of that size in our vault, but there is one suite with a private safe..."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "That's even better."
+      },
+      {
+        "speaker": "MANAGER",
+        "text": "But, gentlemen, I am afraid..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21181",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "IRANOFF",
+        "text": "A Special Envoy is coming from Moscow. He'll occupy the Royal Suite. Move our things to the smallest room you've got."
+      },
+      {
+        "speaker": "MANAGER",
+        "text": "Yes, monsieur."
+      },
+      {
+        "speaker": "IRANOFF",
+        "text": "Right away... instantly!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21182",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "Now, monsieur, you have no right..."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Just a moment.  I hope you haven't closed this deal, Monsieur Mercier. It might bring you into serious difficulties."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21183",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "We may have a chance."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Yes... a very slim one. I want to be fair. I don't deny that you might make out some kind of a case."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "We haven't anything to discuss with you. We'll talk to a lawyer!"
+      },
+      {
+        "speaker": "LEON",
+        "text": "All right -- go ahead... you talk to the lawyer and I'll talk to the judge!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21184",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "How does this strike you? Commissar Razinin, Board of Trade, Moscow. Unexpected situation here. Duchess Swana in Paris claims jewels, and has already brought injunction against sale or removal. After long and careful study we suggest in the interest of our beloved country a fifty-fifty settlement as best solution. Iranoff, Buljanoff, and Kopalski."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "If we say that, Leon... we'll be sent to Siberia!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21185",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "What's new?"
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "Leon, Leonitchka, she is not going to negotiate! She is going to fight that injunction. She's going to make a precedent of it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21186",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "Well, boys, I'd like to help you but what can I do? Yesterday I waited six hours in the lobby!"
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "She doesn't leave her room! She has been locked in for the last two days with lawyers and law books!"
+      },
+      {
+        "speaker": "LEON",
+        "text": "All right, then make an appointment with her so I can see her!"
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "We can't... but you are so ingenious, Leon..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21187",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "If we had known we would have greeted you with flowers."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Don't make an issue of my womanhood. We are here for work... all of us. Let's not waste time. Shall we go?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21188",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "He is a porter. He wants to carry them."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Why?... Why should you carry other people's bags?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21189",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "Allow me, Comrade."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "No, thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21190",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "It's a hat, Comrade, a woman's hat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21191",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "I am ashamed to put the picture of Lenin in a room like this.  Comrades, your telegram was received with great disfavor in Moscow."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "We did our best, Comrade."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "I hope so for your sake.  Let us examine the case. What does the lawyer say?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21192",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "We dealt directly with the representative of the Grand Duchess. I am sure if we call him he will give you a very clear picture."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "I will not repeat your mistake. I will have no dealings with the Grand Duchess nor her representative."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21193",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Will you send me some cigarettes, please?  Comrades, I am not in a position to pass final judgment but at best you have been careless in your duty to the State.  You were entrusted with more than a mere sale of jewelry. Why are we peddling our precious possessions to the world at this time? Our next year's crop is in danger and you know it. Unless we can get foreign currency to buy tractors there will not be enough bread for our people. And you three comrades..."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "We did it with the best intentions..."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "We cannot feed the Russian people on your intentions. Fifty per cent to a so-called Duchess!... Half of every loaf of bread to our enemy! Comrade Kopalski, go at once to our Embassy and get the address of the best lawyer in Paris."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "Yes, Comrade."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "You, Comrade Iranoff, go to the Public Library and get me the section of the Civil Code on property."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21194",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "I acted on your suggestion and got in touch with the Power and Light authorities. Whenever you want to visit their plants they are open to you."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Oh yes, Power and Light. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21195",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "If there is anything we can do for you..."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "No, not a thing. Would you like to go out?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21196",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "How are you, you three scoundrels?"
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "Well, we're back home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21197",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "And your own gas cooker? That's marvelous!  Naturally it's not the Royal Suite..."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Sssh! Once and for all, we're in Moscow!"
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "Yes, there's no doubt of that...  Just look out of the window and there it is."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "And it's great! Think what it was a few years ago and what it is now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21198",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "The same spring we had in Paris. Just as good."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "Even the swallows are back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21199",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Now, comrades... there is something better in life than crumbs of French pastry."
+      },
+      {
+        "speaker": "KOPALSKI",
+        "text": "Yes, a good piece of apfel strudel...."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "We will get that... we'll get everything... maybe a little bit later but we'll get it... We must be patient... Finally we got the spring, didn't we? We got the swallows, and you will get your apfel strudel too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21200",
+    "movie_id": "m149",
+    "turns": [
+      {
+        "speaker": "KOPALSKI",
+        "text": "...and Kopalski."
+      },
+      {
+        "speaker": "NINOTCHKA",
+        "text": "Don't make it difficult for me. This is no more a pleasure trip for me than it is for you."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1858 @@
+[
+  {
+    "conversation_id": "conv_26601",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "PRICE",
+        "text": "We made a deal with Barrack One."
+      },
+      {
+        "speaker": "BAGRADIAN",
+        "text": "Any news on Dunbar?"
+      },
+      {
+        "speaker": "PRICE",
+        "text": "He's still in the Kommandant's office. That's all I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26602",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "PRICE",
+        "text": "Do Cagney. Like you did yesterday."
+      },
+      {
+        "speaker": "BAGRADIAN",
+        "text": "There was that ammunition train in the depot at Frankfurt, see? So Dunbar gets himself in the men's room and fixes a time bomb, see? Then he waits until the train starts moving out, see? And one of the cars got the door open with some straw on the floor, see? So he throws it, see, and three minutes later -- voom! See?"
+      },
+      {
+        "speaker": "PRICE",
+        "text": "Throws what? How could he have a time bomb?"
+      },
+      {
+        "speaker": "BAGRADIAN",
+        "text": "Just pulled the old match gag, see!"
+      },
+      {
+        "speaker": "PRICE",
+        "text": "What's the match gag?"
+      },
+      {
+        "speaker": "BAGRADIAN",
+        "text": "Take some matches, see?  And a cigarette, see?  Tuck the cigarette in like this, see?  Now the cigarette keeps burning like a fuse, see?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26603",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "BAGRADIAN",
+        "text": "Where's Hoffy? Why don't we get any news about Dunbar?"
+      },
+      {
+        "speaker": "PRICE",
+        "text": "Don't worry. He'll be all right."
+      },
+      {
+        "speaker": "BAGRADIAN",
+        "text": "I had to be the ham! I had to shoot off my mouth!"
+      },
+      {
+        "speaker": "PRICE",
+        "text": "Forget it. He'll be back here. They've got no proof."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26604",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "They ought to be under the barbed wire soon."
+      },
+      {
+        "speaker": "BLONDIE",
+        "text": "Looks good outside."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26605",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Come on!"
+      },
+      {
+        "speaker": "BLONDIE",
+        "text": "Static!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26606",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Ready?"
+      },
+      {
+        "speaker": "BLONDIE",
+        "text": "Roger."
+      },
+      {
+        "speaker": "HOFFY",
+        "text": "Okay. Move on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26607",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Three's a crowd, especially if you've got to cut your way through barbed wire.  Here's the wire cutters.  Are the civilian clothes ready?"
+      },
+      {
+        "speaker": "BLONDIE",
+        "text": "Coming up."
+      },
+      {
+        "speaker": "HOFFY",
+        "text": "Get going on the trap door."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26608",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "COOKIE",
+        "text": "W-w-will that do or do you want some m-m-m --?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "That'll do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26609",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "COOKIE",
+        "text": "There's only one pair left."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "We'll get some more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26610",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "What's the matter? You on their team now? You think I'm the guy?"
+      },
+      {
+        "speaker": "COOKIE",
+        "text": "I don't know anymore."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26611",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "I understand how you feel, Cookie. It's sort of rough -- one American squealing on other Americans. Then again, Cookie -- maybe that stoolie's not an American at all. Maybe he's a German the Krauts planted in this barracks. They do this type of thing. Just put an agent in with us -- a trained specialist. Lots of loose information floating around a prison camp. Not just whether somebody wants to escape, but what outfits we were with and where we were stationed, and how our radar operates. Could be, couldn't it?"
+      },
+      {
+        "speaker": "COOKIE",
+        "text": "In this barracks?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Why not? Just one of the boys. Sharing our bunks. Eating our chow. Right in amongst the ones that beat me up. Except that he beat hardest."
+      },
+      {
+        "speaker": "COOKIE",
+        "text": "Who is it?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "That's not the point, Cookie. The point is what do you do with him? You tip your mitt and the Jerries pull him out of here and plant him someplace else, like Stalag Sixteen or Fifteen. Or you kill him off and the Krauts turn around and kill off the whole barracks. Every one of us. So what do you do?"
+      },
+      {
+        "speaker": "COOKIE",
+        "text": "Who is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26612",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "COOKIE",
+        "text": "If you don't want to tell me, why don't you tell Hoffy? Or Security?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Yeah. Security."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26613",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "So long, Cookie. The department store is all yours. What's left of it."
+      },
+      {
+        "speaker": "COOKIE",
+        "text": "So long, Sefton."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26614",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Now what kind of a crack is that?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "No crack. Two packs of cigarettes say they don't get out of the forest."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26615",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Hold it, Sefton. So we heard some shots -- so who says they didn't get away?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Anybody here wanna double their bet?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26616",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "Private property, bub."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "How come the Krauts knew about that stove, Security? And the tunnel? How come you can't lay down a belch around here without them knowing it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26617",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Come on, Trader Horn! Let's hear it: what'd you give the Krauts for that egg?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Forty-five cigarettes. The price has gone up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26618",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Nice guy! The Krauts shoot Manfredi and Johnson last night and today he's out trading with them."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Look, this may be my last hot breakfast on account of they're going to take away that stove. So will you let me eat it in peace?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26619",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "What's your beef, boys? So I'm trading. Everybody here is trading. Only maybe I trade a little sharper. So that makes me a collaborator."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "A lot sharper, Sefton! I'd like to have some of that loot you got in those footlockers!"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "You would, would you? Listen, Stupe -- the first week I was in this joint somebody stole my Red Cross package, my blanket and my left shoe. Well, I wised up since. This ain't no Salvation Army -- this is everybody for himself. Dog eat dog."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "You stink, Sefton!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26620",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Static is right! The radio's static, Patton's static, we're static!"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Maybe it's going to be a longer war than you figured -- eh, Duke?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26621",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "I suppose they also know about your distillery and the horseraces?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "That's right."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "Just what makes you and them Krauts so buddy-buddy?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Ask Security.  You tell him, Price. You've got me shadowed every minute of the day. Or haven't you found out yet?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26622",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "I grease the Kraut guards. With ten percent of the take."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "And maybe a little something else?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "A little something what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26623",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Yeah, what about it?  Cut the horsing around. We know he's the stoolie and we know what the pay- off is. Let's get on with it."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Let's get on with what? What is this anyway? A Kangaroo Court? Why don't you get a rope and do it right?"
+      },
+      {
+        "speaker": "DUKE",
+        "text": "You make my mouth water."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "You're all wire happy, boys. You've been in this camp too long. You put two and two together and it comes out four. Only it ain't four."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26624",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "What are you looking at him for?  Any objections, Sefton?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Take it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26625",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Next we're going to auction off your department store -- and your stable."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Why not?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26626",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "Have a cigar."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26627",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "I wouldn't worry about Schulz. I'd worry about Sefton. Remember me? I'm the stoolie."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "You ain't going to squeal this one, brother."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "No? Aren't you a little afraid to turn the stoolie loose on that compound? For a tip-off like this, you know what the Krauts would pay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26628",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "Here's the knife to do it with. Only make sure you got the right throat."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "We're looking at it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26629",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Brother, were we all wet about you!"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Forget it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26630",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Put me down for ten, you louse."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "I'll call the whole pot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26631",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Don't ask me. Price was elected Security."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "Okay, Security -- what happened?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26632",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Come again?"
+      },
+      {
+        "speaker": "DUKE",
+        "text": "You betcha. I said one of us is a stoolie. A dirty, stinkin' stoolie!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26633",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Break it off!"
+      },
+      {
+        "speaker": "DUKE",
+        "text": "How much more do we have to take from him?"
+      },
+      {
+        "speaker": "HOFFY",
+        "text": "There'll be no vigilante stuff. Not while I'm Barrack Chief."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26634",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "How did he get over there?"
+      },
+      {
+        "speaker": "DUKE",
+        "text": "Easy! Walked right through the gate, past the guard. Like he was some Kraut Field Marshal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26635",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "The S.S. Men are here to pick up Dunbar. They're taking him to Berlin. Looks like he's finished."
+      },
+      {
+        "speaker": "DUKE",
+        "text": "Only he ain't quite finished yet. Blondie -- get that smudge pot. Tie it to Steve's leg."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26636",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Then we're all in on it?"
+      },
+      {
+        "speaker": "DUKE",
+        "text": "Everybody but Joey, and you know who."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26637",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "You killed them, huh? Both of them?"
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "Such nice boys! It makes me sick to --"
+      },
+      {
+        "speaker": "DUKE",
+        "text": "Don't wear it out!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26638",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Cut out the guff, Schulz. We're on to you. You know everything that's happening in this barrack. Who's tipping you off?"
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "Tipping me off? I do not understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26639",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "Come on, Schulz! Spill it! How did you get the information? About Manfredi and Johnson? About the stove and the tunnel? Who's giving it to you? Which one of us is it?"
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "Which one of you is what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26640",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUKE",
+        "text": "That's the general idea.  Only it's not so general as far as I'm concerned."
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "You are talking crazy!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26641",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "Lieutenant Dunbar? It wouldn't be James Schuyler Dunbar? From Boston?"
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "Yes, it would. Do we know each other?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26642",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "Maybe he would. We applied for Officers' Training together, remember? They turned me down, but I'm glad to see you made it. Of course, it couldn't be that all that dough behind you had something to do with it!  His mother's got twenty million dollars."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "Twenty-five."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "They've got a summer house in Nantucket, with an upstairs polo field.  You better put a canopy over his bunk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26643",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "What did you expect, glamor boy? The Officers' Club with a steam room and a massage maybe?"
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "Just a minute. You made a couple of cracks before and I let them slide. But I don't intend to take any more. If you resent my having money, start a revolution, but get off my back."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Look, Lieutenant. All your dough won't help you here. Because here you're on your own. And no mother to throw you a lifebelt. Now let's see how good you can swim."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26644",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "Shut off the moaning, or we'll have the dogs on us. Shut it off, Lieutenant. This is orders!"
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "My legs are frozen."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "You'd better get that blue blood circulating, because we're busting out of this stink-hole in exactly --  -- one minute and twenty seconds."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "Sefton!"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "What did you expect, a St. Bernard dog?"
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "Not you."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "What some brandy?"
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "Who doesn't! Suppose we wait until we hit the Waldorf Astoria."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "It's on me."
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "You won't get off that cheap."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "What are the chances busting out of here?"
+      },
+      {
+        "speaker": "SEFTON",
+        "text": "We'll know in forty seconds.  Only in a democracy can a poor guy get his keister shot off with a rich guy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26645",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SEFTON",
+        "text": "Let's blow, Chauncey."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "Let's!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26646",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUNBAR",
+        "text": "I am Lieutenant Dunbar."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "What is your number?"
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "105-353."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "That is correct.  Lieutenant Dunbar, I came to apologize for the accommodations. Ordinarily, of course, we never put officers up with enlisted men."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "I'll live."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Quite a transportation jam we are having outside of Frankfurt! They are very angry in Berlin. They will be even angrier on the East Front, waiting for that ammunition train. Don't you think so, Lieutenant?"
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "I don't know what you're talking about, Colonel."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Of course you don't. Now, Lieutenant, how would you like to join me in my quarters? I have a nice fire going."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "I'm okay here. Why bother?"
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "No bother. I'm very grateful for a little company. You see, I suffer from insomnia."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "Ever try forty sleeping pills?"
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Abfuehren!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26647",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "You have no idea how boring my life here is. If it weren't for an occasional air raid or some foolish prisoners trying to escape, I wouldn't know what to do. I want to thank you for keeping me company. I don't drink, I don't smoke, I don't read. I hate music. That only leaves good conversation. It will be a shame to lose you."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "I didn't do it -- I didn't do it."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Of course you did! Twenty-six carloads of munitions gone off like a trick cigar! The S.S. is running around in circles. The Gestapo is arresting the wrong people. And von Scherbach has caught the fish. Most amusing, isn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26648",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "You are being rude again."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "I want to sleep. Give me five minutes on that couch."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Nine-thirty. General von Pfeffinger should be at his desk by now. Shall we call Berlin and tell him the good news?"
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "I didn't do it. I didn't do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26649",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "There will be two S.S. men here tomorrow to take you to Berlin. You will be interrogated by the General Staff. When you come to the part about your arrest, I'm sure you won't forget to give me the proper credit."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "I want to sleep... I haven't slept for three days."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "You will remember the name? Von Scherbach? VON SCHER-BACH!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26650",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "DUNBAR",
+        "text": "I didn't do it. I was in the Frankfurt station and the train was three miles away when it blew up."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Oh, come now! You threw a time bomb."
+      },
+      {
+        "speaker": "DUNBAR",
+        "text": "How could I have had a time bomb? They searched me when they took me prisoner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26651",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "GERMAN LIEUTENANT",
+        "text": "Here we have a typical barrack. It houses seventy-five men. Every one of them has his own bunk, naturally."
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "Naturally. It would be rather awkward to have three men in one bunk."
+      },
+      {
+        "speaker": "GERMAN LIEUTENANT",
+        "text": "As for the blankets, you will notice they are very warm. Fifty percent wool."
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "They also smell of moth balls.  When were they issued? This morning?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26652",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "GENEVA MAN",
+        "text": "What do you do for heat in this barrack? No stove?"
+      },
+      {
+        "speaker": "GERMAN LIEUTENANT",
+        "text": "The men here used it for a trap door, so we had to remove it temporarily."
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "How long is temporarily? I trust not until July."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26653",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Well, Herr Inspector! How did you find the camp? Crowded but gemuetlich, shall we say?"
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "I want to talk about Lieutenant Dunbar. Is this Lieutenant Dunbar?"
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "It is."
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "What exactly is he charged with?"
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Whatever it is, it's out of your jurisdiction. This man is not a prisoner of war. Not any more. He is a saboteur."
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "He is a prisoner of war until you can prove sabotage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26654",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "GENEVA MAN",
+        "text": "And the way you search your prisoners, it does sound rather unlikely."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "All I know is he did it. I am satisfied."
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "I am not. According to the Geneva Convention --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26655",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "You were saying --?"
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "Simply this. After the hostilities are ended, there will be such a thing as a War Crimes Commission. If this man should be convicted without proper proof, you will be held responsible, Colonel von Scherbach."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Interesting."
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "Isn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26656",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Very well. If you insist on details. I have ways of finding out about that blasted time bomb. Good day, sir.  You will forgive me for receiving you like this?"
+      },
+      {
+        "speaker": "GENEVA MAN",
+        "text": "Perfectly all right. I do not like boots."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26657",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SCHULTZ",
+        "text": "Aufstehen, gentlemen! Please! You do not want to stay in bed on such a beautiful morning we are having today!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Say, Schulz --"
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "Jawohl?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Sprechen Sie deutsch?"
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "Jawohl."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Then droppen Sie dead!"
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "Ja -- ja! Droppen Sie dead! Always mit the jokes! Droppen Sie dead!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26658",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Jawohl!"
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "Some are not bad at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26659",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Wisecrackers? Where did he pick up his English? In a pretzel factory?"
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "You always think I am a square. I have been to America.  I wrestled in Milwaukee and St. Louis and Cincinnati. And I will go back! The way the war is going I will be there before you!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You should live so long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26660",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Hey, Schulz! I got a deal for you. Suppose you help us escape. We'll go home and have everything ready for you in Madison Square Garden. For the world championship! Schulz, the Beast of Bavaria versus Halitosis Jones!"
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "Droppen Sie dead!  Raus mit dem Ofen. Los! Los!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26661",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Why don't we accept, Animal? The worst that can happen is we wind up a couple of lamp shades."
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "Raus! Raus! All of you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26662",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "SCHULTZ",
+        "text": "What is this? This is water?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "It's a mouse trap."
+      },
+      {
+        "speaker": "SCHULTZ",
+        "text": "And this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26663",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "When you get going on those broads, think of me!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Animal! Animal! Aren't you ashamed of yourself? A couple of guys are trying to escape and you're thinking of broads. Broads?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26664",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Shut up, Animal!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Maybe they were layin' for 'em out there!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26665",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Good morning, Animal! What'll it be for breakfast? Scrambled eggs with little sausages? Bacon and eggs sunny- side up? Griddle cakes? A waffle?"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Stop it, Harry!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Coffee? Milk? Or how about a little cocoa?"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Why do you do this to me every morning?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hamburger and onions! Strawberry shortcake! Gefillte fish! Banana split! French fried potatoes! Chicken a la king!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26666",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "I'll kill you, Harry -- so help me!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Let go, Animal! It's roll call! Hitler wants to see you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26667",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "'We will remove the iron stove -- the one that was camouflaging the trap door.'"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'm telling you, Animal, these Nazis ain't Kosher."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "You can say that again!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'm telling you, Animal -- these Nazis ain't Ko --"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "I said say it again. I didn't say repeat it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26668",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Hey -- Russki -- Russki! Look at those bublichkis! Over here!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Comrade! Comrade! Otchi Tchorniya -- Otchi Tchorniya!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26669",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Look at me! I'm your baby!  Get a load of that blonde one! Built like a brick Kremlin!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hey -- Comrade! Over here! This is Harry Shapiro -- the Volga Boatman of Barrack four!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Lay off! The blonde is mine!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26670",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Let me go! Let me go!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "They'll shoot you, Animal!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26671",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "It's chow, Animal! Chow!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Who wants to eat? I just wanna get over there!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "No you don't! You don't want any broads with boots on!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "I don't care if they wear galoshes!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You want Betty Grable!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Let me go!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Betty Grable!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26672",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Animal! When the war's over, remember I told you I'd fix you up with Betty Grable!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Yeah? How you going to fix me up with Betty Grable?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "How? We go to California. I got a cousin that's working for the Los Angeles Gas Company. That's how we get the address, see? Isn't that clever? I take you up to her house and ring the doorbell and say, 'Congratulations, Miss Grable. We have voted you the girl we'd most like to be behind barbed wire with, and I'm here to present the award'."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "What's the award?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What d'ya think, jerko! You're the award!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Me? What if she don't want me?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "If she don't want you, she don't get anything."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "You're teasing me again!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Let go, Animal! It's chow! We'll miss chow!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26673",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "No, Animal."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "No?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "No. Your eyeball goes. The top of your head. Gotta wind up with athlete's stomach."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26674",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Easy, Animal! Easy!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Where'd that come from?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26675",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Don't you remember, Animal? A chicken lays those things."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "It's beautiful!  You goin' to eat it all yourself?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26676",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Thanks. You're a real pal!  What're we goin' to do with it?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Plant it, Animal, and grow us a chicken for Christmas."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26677",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Ain't that too bad! Tomorrow he'll have to suck a raw egg!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "He don't have to worry. He'll trade the Krauts for a six-burner gas range. Maybe a deep freeze too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26678",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Wunderbar! Isn't he wunderbar!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "He's the grrrrreatest!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26679",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Equipoise! Equipoise! What did I tell you, Animal?"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Come on, baby! Daddy's going to buy you a hunk of cheese!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26680",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Schnickelfritz! I told you Schnickelfritz! Why'd you make me bet on Equipoise!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I clocked him this morning. He was running like a doll."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "You clocked him! Why don't I clock you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26681",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Look at her! Isn't she beautiful! Married an orchestra leader!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "So what? There's other women!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Not for me! Betty! Betty!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Cut it out. Animal! I'll fix you up with a couple of those Russian women!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "You'll fix me up!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Sure, Animal! I'll get you over there!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "How? Pinky Miller from Barrack 8 tried to get over there and they shot him in the leg!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "It takes a gimmick, Animal, and I figured us a little gimmick."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "You did?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Sharp. Sometimes I'm so sharp it's frightening."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26682",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "To the Brick Kremlin!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "She'll never forgive me!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Bombs away!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26683",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Harry -- I'm blind!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Blind? How stupid can you get, Animal? I drank the stuff myself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26684",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "What do those broads say?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What do they always say?"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "That's what I wanna hear."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "It's not good for you, Animal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26685",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Hey! This is with a typewriter! It's from a finance company!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "So it is from the finance company. So it's better than no letter at all. So they want the third payment on the Plymouth.  So they want the fourth, the fifth, the sixth and the seventh. So they want the Plymouth."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Sugar-lips Shapiro! Frightening, ain't it?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "This is a good one!  Shut up, everybody! Listen to this!  'The President of the United States to Harry Shapiro. Greeting: Having submitted yourself to a local board, you are hereby notified to report...' What do you know! So now I'm a draft evader!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26686",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "That Schulz pig. I'll get him yet."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "You hold him. I'll slug him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26687",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Why don't we just look in those footlockers?"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Come on, you little stooge. Hand over them keys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26688",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Grable, not Gable!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Do Jimmy Durante!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26689",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Do Grable."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hey, here's Esther Williams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26690",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "There, Joey -- ain't that better than being a lawyer?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Animal! Got a little something for you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26691",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "I'll open mine now."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "I'll open mine, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26692",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Come on, Animal -- let's trip the light fantastic!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "Let me alone."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You're crying, Animal."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "It's that song, Harry!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You don't want to cry over a dame that doesn't even know you're alive! Snap out of it!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "There's a time in every man's life when he wants to be alone! So go away!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26693",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "May I have this dance, Miss?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Why, sure!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26694",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "But it's not just those legs. It's that nose of yours I'm crazy about. That cute little button of a nose!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hey, Animal! Animal!"
+      },
+      {
+        "speaker": "STOSH",
+        "text": "I've been crazy about you for years. I've seen every picture you've ever made six times. I'd just sit there and never even open that popcorn bag."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Animal! Animal! Wake up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26695",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "STOSH",
+        "text": "Betty! Betty!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "This is me, Animal! It's Harry Shapiro!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26696",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Let me do it, Hoffy."
+      },
+      {
+        "speaker": "STOSH",
+        "text": "You want to go?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "No. I want to draw."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26697",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Sergeant Hoffman from Barrack 4."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Yes, Sergeant Hoffman?"
+      },
+      {
+        "speaker": "HOFFY",
+        "text": "As the duly elected Compound Chief, I protest the way these bodies are left lying in the mud."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Anything else?"
+      },
+      {
+        "speaker": "HOFFY",
+        "text": "Yes. According to the Geneva Convention, dead prisoners are to be given a decent burial."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Of course. I'm aware of the Geneva Convention. They will be given the burial they deserve. Or perhaps you would suggest we haul in twenty-one cannons from the Eastern Front and give them a twenty-one gun salute?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26698",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Good evening, Sergeants.  A bit dank in here, isn't it?... Where is the Baracken-Fuehrer?"
+      },
+      {
+        "speaker": "HOFFY",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "You have a Lieutenant here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26699",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "...a Lieutenant James Dunbar?"
+      },
+      {
+        "speaker": "HOFFY",
+        "text": "Yes, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26700",
+    "movie_id": "m190",
+    "turns": [
+      {
+        "speaker": "HOFFY",
+        "text": "Wait a minute. We have some rights here.  Why is this man being taken out?"
+      },
+      {
+        "speaker": "VON SCHERBACH",
+        "text": "Curtains would do wonders for this barrack.  You will not get them."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1818 @@
+[
+  {
+    "conversation_id": "conv_9201",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "The radiation is not an anomaly, it's the clue. This creature is far too unique on every level to be some lost dinosaur."
+      },
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "Don't tell me why it's not, tell me what the hell it is."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What do we know? It was first sighted off the French Polynesian Pacific. An area that has been exposed to dozens of nuclear tests over the last thirty years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9202",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "You know, he's not an enemy trying to evade you. He's just an animal."
+      },
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "What are you suggesting?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "When I needed to catch earthworms, I knew the best way to catch them was not to chase them. I had to draw them out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9203",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Well, yes. I did. Clearly he was injured and bled."
+      },
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "You see, all we need to do is get a better shot at it with weapons that don't rely on heat seeking..."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Um, excuse me, sir, but the situation's more complicated than that. The blood I recovered revealed that the creature is either about to lay eggs or already has."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9204",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "No, it reproduces asexually. That's why we must find the nest. If we don't, dozens will be born, each one capable of laying eggs of its own. Very quickly we could be looking at an enormous population."
+      },
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "So after we kill the creature we'll begin a search for the nest."
+      },
+      {
+        "speaker": "NICK",
+        "text": "It may be too late by then. These eggs will hatch very quickly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9205",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "You gave them the tape?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "No, it's still in my tent. It's...oh my God, she took it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9206",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "We think there's a strong reason to believe it may be hiding inside one of the buildings within the sequestered area."
+      },
+      {
+        "speaker": "MAYOR",
+        "text": "But you don't know for sure!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9207",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "General Anderson, the problem was the terrain. If we lure him out into a more open area such as this portion of Central Park...  We should be able to take him down."
+      },
+      {
+        "speaker": "MAYOR",
+        "text": "Last time you didn't even scratch it!"
+      },
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "That's not true. Our worm guy, er, I mean, Dr. Tatopoulos found blood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9208",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "MAYOR",
+        "text": "Do you have any idea what's going on out there? The phones are ringing off the hook with people screaming to be let back into the city."
+      },
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "We're sending divers into the river now to retrieve the body."
+      },
+      {
+        "speaker": "MAYOR",
+        "text": "That thing's dead. What the hell are we waiting for?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9209",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "MAJOR HICKS",
+        "text": "Organize a search party. I want a complete sweep of the entire city and subway system."
+      },
+      {
+        "speaker": "MAYOR",
+        "text": "You don't have the authority to do that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9210",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "RAYMOND",
+        "text": "Are you looking for this?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9211",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Do I know you?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "We've met before."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Oh yeah, the insurance guy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9212",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "RAYMOND",
+        "text": "SDECE, Service de Documentation Exterieure et de Contre-Espionnage. Agent Phillip Raymond."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Sounds like a big company."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "It's the French Secret Service."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Oh."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "We have learned that your American friends have decided not to look for the creature's nest."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Are you sure? How do you know?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "We know."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Why are you telling this to me?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "I need you to trust me."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Why do you need that?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "I need your trust if you're to help me find the nest."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Oh, my bags. I've checked them in."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "We, have already taken care of them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9213",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "How did you get all of this stuff into the country?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "This is America. There is nothing you can not buy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9214",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "So why all the secrecy? Why aren't you guys working with the US military?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "I am not permitted to speak of such things."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9215",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "RAYMOND",
+        "text": "I am a patriot. I love my country. Can you understand that?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Sure."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "It is my job to protect my country. Sometimes I must even protect it from itself. From mistakes we have made. Mistakes that we do not want the world to know about."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Your talking about the nuclear testing in the Pacific."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "Yes. This testing done by my country left a terrible mess. We are here to clean it up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9216",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Here. 23rd street subway station. Where we first found the fish. With a little luck, this will lead us right to it."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "So you're in?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Are you kidding? I always wanted to join the French Foreign Legion."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9217",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "What's with the chewing gum?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "Makes us look more American."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9218",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "They've turned off the ventilation system. They're calling him to dinner."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "Let's hope we are not the hors d'oeuvres."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9219",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Three eggs. I thought there would be more."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "You were right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9220",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "RAYMOND",
+        "text": "I think we should leave now."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Good idea."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9221",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "RAYMOND",
+        "text": "Contact the military and get them to send a bomber to blow up this building before these things escape."
+      },
+      {
+        "speaker": "NICK",
+        "text": "How do I do that?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "555-7600. Tell them it's a code dragonfly. They should get you through."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9222",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "RAYMOND",
+        "text": "What'd they say?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I can't get through. I don't know what's wrong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9223",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "RAYMOND",
+        "text": "Who the hell are you?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "It's okay. I know her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9224",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "It's Raymond."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Where are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9225",
+    "movie_id": "m67",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I understand."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "I just wanted to say, au revoir and thank you for your help, my friend."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Wait.  Au revoir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9226",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "QUELLEK",
+        "text": "Dr. Lazarus... I hope that I'm not breaching protocol but.. I am so very humbled to stand in your presence... I have studied your missions extensively... Though I am Thermian, I have lived my life by your philosophy, by the code of the Mak'tar."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Well good, that's very... nice."
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "By Grabthar's Hammer, Dr. Lazarus, I-"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Don't do that. I'm not kidding."
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "I'm sorry, sir, I was only-"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Just don't."
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "...Yes sir.  Your quarters sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9227",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "This is it?"
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "Yes sir. Marvelous, isn't it? Completely distractionless."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Where's my bed?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9228",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "QUELLEK",
+        "text": "Just as on your home planet, sir. If I may say, it took me three years to master the spikes, but now I sleep with a peace I never thought possible..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Is that the bathroom?"
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "Yes sir... The use of your waste facilities were strangely absent from the historical records, so we had to extrapolate purely on the basis of your anatomy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9229",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "QUELLEK",
+        "text": "Dr. Lazarus, here is your surface mapper.  I have programed it to the coordinates of a Beryllium Sphere of sufficient density."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "Good luck on your mission, Sir. By Grabthar's Hammer, by the Suns of Warvan I wish you-"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Uh uh! What did we talk about?"
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "Right... Sorry, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9230",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "QUELLEK",
+        "text": "Sir, it's you  Thank Ipthar!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Quellek. What are you doing in there?"
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "I avoided capture using the Mak'tar stealth haze.  Where is everyone?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Come with me. I'll explain on the way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9231",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "QUELLEK",
+        "text": "Sir! The pressure.  It's normalizing."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Open."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9232",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Okay, Quellek, let's get back to the command deck and-Suddenly we hear a PISTOL BLAST and Quellek's chest turns RED. Alexander and Quellek look down at the blood, horrified."
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "I'm... I'm shot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9233",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Not so bad. We'll get you to medical quarters. You're going to be fine."
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "I... I don't think I'm going to make it Sir..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No, don't talk like that, son. We're going to get you fixed up."
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "... It has been my greatest honor to serve with you.  LIving by your example these years, my life has had meaning.  I have been blessed.  Sir, I... I..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9234",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Don't speak, Quellek."
+      },
+      {
+        "speaker": "QUELLEK",
+        "text": "You'll forgive my impertinence, sir, but even though we had never before met, always considered you as a father to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9235",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "Come on, old friend..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Friend. You stole all my best lines.  You cut me out of episode two entirely!.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9236",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "You WILL go out there."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I won't and nothing you say-"
+      },
+      {
+        "speaker": "JASON",
+        "text": "\"The show must go on.\""
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "...Damn you!  Damn you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9237",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "I'm glad you asked... To me the most important qualities of a Galaxy Explorer are loyalty..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "... to camera center no matter whose shot you're blocking..."
+      },
+      {
+        "speaker": "JASON",
+        "text": "Leadership...."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9238",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "God, what an ass."
+      },
+      {
+        "speaker": "JASON",
+        "text": "COME IN PROTECTOR... PROTECTOR..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9239",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "Calm down everybody.   We're just here to negotiate General Sarris' surrender."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "\"Just!?\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9240",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "At ease men."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Like throwing gasoline on a fire..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9241",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "We've got to stop!"
+      },
+      {
+        "speaker": "JASON",
+        "text": "We stop we die. Keep holding the thruster down Tommy!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You don't hold a thruster down! It's for quick boosts"
+      },
+      {
+        "speaker": "JASON",
+        "text": "Like YOU know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9242",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "NO!  WE'RE ALMOST THROUGH!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "DON'T BE INSANE, STOP! FULL STOP!"
+      },
+      {
+        "speaker": "JASON",
+        "text": "KEEP GOING! KEEP GOING!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9243",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "About this much."
+      },
+      {
+        "speaker": "JASON",
+        "text": "What's the scale?  Is that ten miles? A hundred miles?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "THIS much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9244",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "There it is. The Beryllium sphere."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Must be some sort of mining facility."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9245",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Go ahead!"
+      },
+      {
+        "speaker": "JASON",
+        "text": "You go first! There's no time!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Oh, of course, I forgot! YOU have to be the hero, don't you?... Heaven forbid anyone else get the spotlight once! Oh no, Jason Nesmith couldn't possibly-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9246",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "What?  What?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "JASON",
+        "text": "I heard something. A squeal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9247",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Fred's no good, Jason. You're going to have to kill it"
+      },
+      {
+        "speaker": "JASON",
+        "text": "KILL IT? Well I'm open to ideas!..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9248",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "ALEXANDER??? PLEASE? You're my advisor, advise me!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "... . Well  you have to figure out what it wants... What's its motivation?"
+      },
+      {
+        "speaker": "JASON",
+        "text": "It's a DAMN ROCK MONSTER!!! It doesn't HAVE motivation!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "That's your problem.  You were never serious about the caraft...  \"I'm a rock... I just want to be a rock... Still. Peaceful.. Tranquil..\" ...\"Oh, but what's this?  Something's making noise... No, not noise, no... MOVEMENT.  VIBRATIONS.  Make the vibrations stop, they go straight into me like a knife!... I must CRUSH the thing that makes the vibrations...\""
+      },
+      {
+        "speaker": "JASON",
+        "text": "Am I crazy, or do you actually have something there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9249",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Hundreds dead, all so you could play at being the Commander.' You've murdered us all you egomaniacal sonofabitch!"
+      },
+      {
+        "speaker": "JASON",
+        "text": "Shut up.' Just shut up you purple skinned monstronsity,"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9250",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "\"Purple skinned monstrosity...?\""
+      },
+      {
+        "speaker": "JASON",
+        "text": "I was staying in character.  \"Egomaniacal sonofabitch?\""
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Sense memory. I see you got to win the fight..."
+      },
+      {
+        "speaker": "JASON",
+        "text": "I had the shot..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9251",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "~hex!  Alex, are you oKav?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Yes. Good was done this ....."
+      },
+      {
+        "speaker": "JASON",
+        "text": "Okay... Let's go, buddy, they can take It from here... I'mo-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9252",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Jason, before we entered the black hole, my instruments detected strange energy surge from Sarris' shiD~ similar to..."
+      },
+      {
+        "speaker": "JASON",
+        "text": "No time to worry about that, Alex. Tommy, let's get this thing slowed down... Gwen, see if you can calculate the impact point. Guy, cet down to deck C and make sure tne injured are secured. Also lets-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9253",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "He's a twit!"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Oh, and did you hear he booked another fan appearance without us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9254",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "Not again..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I played Richard III..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9255",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "Settle down, Alex..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No. I can't go out there! I won't say that ridiculous catch phrase one more time. I won't.  I can't!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9256",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "What the hell is going on?!!?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Jason, what have you gotten us into?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9257",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "He wants to THINK!?"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "No, Jason, that's a wrap!  There's nothing to think about!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9258",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Could you possibly try  not to hit  every  single  one!"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "They're drifting toward me... I think they're magnetic!..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9259",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "What's happened?"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "The engines are dead. We're drifting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9260",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "You were holding it upside down weren't you?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Shut up."
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "You know, with the makeup and everything1 I actually thought he was smart for a second."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You think you could do better \"Laredo?\""
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Hey, watch that \"Laredo\" shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9261",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "And note the sucked in gut."
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "...Sleeves rolled halfway up the biceps..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9262",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "This is ludicrous.  Why are you listening to this man?  Must I remind you that he is wearing a costume, not a uniform?...  He's no more equipped to lead us than THIS fellow.  No offense."
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "You have a better plan, Alex?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "As a matter of fact, I do. Look at their eyes. They're obviously nocturnal. Come sundown they will go into the forest to hunt. So our plan is simply to wait for nightfall instead of mounting an insane assault in full daylight simply because we did it that way in episode 31.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9263",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "He's a miserable twit!"
+      },
+      {
+        "speaker": "GWEN",
+        "text": "The guy is terminally selfish!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9264",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "GWEN",
+        "text": "Oh Alex, get away from that thing..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Dear God.... How did I come to this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9265",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "GWEN",
+        "text": "Alex you can't -just leave."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Oh can't I? Watch me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9266",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Oh good, there's nothing to eat."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "Why didn't you stop at the market?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I still haven't got this bloody thing off."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "You could order something in."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "A boy comes to the door."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "I don't know... It just wasn't like him."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Yes, poor Jason. As we speak he's probably out somewhere talking rubbish to a roomful of hangers-on. While here I sit eating Christmas cheese in Spring."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9267",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Oh my god, It's real."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "All this from watching the.. historical records?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9268",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "We heard it the first time!"
+      },
+      {
+        "speaker": "GWEN",
+        "text": "Shit! I'm doing it! I'm repeating the damn computer!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9269",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "May I get the check?"
+      },
+      {
+        "speaker": "GWEN",
+        "text": "The ships are gaining..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9270",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "WE'VE HAVE TO STOP!"
+      },
+      {
+        "speaker": "GWEN",
+        "text": "FRONT ARMOR IS GONE! JUST SLOW IT DOWN A LITTLE!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9271",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "\"Go into the cloud! ..."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "Alex? Where are you going?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "To see if there's a pub."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9272",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "GWEN",
+        "text": "Look at that... Will you LOOK at that... They look like little children..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Could they be the miners?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9273",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "GWEN",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Nobody was WATCHING?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9274",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "GWEN",
+        "text": "Those blue things ate everybody here?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "It doesn't make sense... Surely they could have fortified the compound against those creatures..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9275",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "He knocked me out the sonofabitch. Where is he?"
+      },
+      {
+        "speaker": "GWEN",
+        "text": "Down there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9276",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "You said \"the Commander."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "What?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Back there. You said \"the Commander is down there with a bunch of cannibals.\""
+      },
+      {
+        "speaker": "GWEN",
+        "text": "No I didn't."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Yes you did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9277",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "GWEN",
+        "text": "He always has to make the big entrance."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "By Grabthar's Hammer, this is true. 159\tNT. LIVING ROOM - SOMEWHERE - NIGHT\t159"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9278",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "KYLE",
+        "text": "He dissed us AGAIN, Brandon!"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "He probably... Has some very important business to attend to..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9279",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "KYLE",
+        "text": "Hi Brandon."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "No time for pleasantries, Kyle. We have a level five emergency. The Commander needs us to get him to the core and shut it down before it overloads."
+      },
+      {
+        "speaker": "KYLE",
+        "text": "Oh.  Okay."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "You've got the utility systems walkthrough, right?"
+      },
+      {
+        "speaker": "KYLE",
+        "text": "I have sectors 1-28.  I think Hector has the upper levels."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "We'd better get everybody online.  And Kyle, Stop downloading porn.  Your frame rate is unacceptable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9280",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "BRANDON",
+        "text": "Commander, please settle a dispute that my crew and I are having. In \"The Quasar Dilemma\", the Sentient had taken control of the ship's guidance systems, however-"
+      },
+      {
+        "speaker": "JASON",
+        "text": "Excuse me guys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9281",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "BRANDON",
+        "text": "Commander, as I was saying... In \"The Quasar Dilemma\", you used the auxiliary of deck b for Gamma override. But online blueprints indicate deck b is independent of the guidance matrix, so we were wondering where the error lies?"
+      },
+      {
+        "speaker": "JASON",
+        "text": "It's a television show. Okay? That's all. It's just a bunch of fake sets, and wooden props, do you understand?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Yes but, we were wondering-"
+      },
+      {
+        "speaker": "JASON",
+        "text": "There IS no quantum flux and there Is no auxiliary... There's no goddamn ship  Do you get it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9282",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "BRANDON",
+        "text": "... Yes?"
+      },
+      {
+        "speaker": "JASON",
+        "text": "We accidently traded Vox units when we bumped into each other on Saturday."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Oh... Oh, I see. Oh."
+      },
+      {
+        "speaker": "JASON",
+        "text": "What's  your name, son?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Brandon."
+      },
+      {
+        "speaker": "JASON",
+        "text": "Brandon, I remember you from the convention, right?... You had a lot of little technical observations about the ship, and I spoke sharply to you..."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Yes, I know, and I want you to know I thought about what you said... I know you meant it constructively but..."
+      },
+      {
+        "speaker": "JASON",
+        "text": "It's okay. Listen-"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "... But I want you to know that I am not a complete braincase, okay? I understand completely that It's just a TV show. There is no ship, there is no Beryllium Sphere, no diagital conveyor... I mean, obviously it's all just a-"
+      },
+      {
+        "speaker": "JASON",
+        "text": "It's real, Brandon. All of it, It's real."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "I knew it!... I KNEW it!..."
+      },
+      {
+        "speaker": "JASON",
+        "text": "Brandon.. . The crew and I are in trouble and we need your help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9283",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "Okay, we got it."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Okay, you can go on in... I'm going to get Kyle. He knows the utility tunnel system better than anybody alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9284",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "BRANDON",
+        "text": "Okay, now left at the next turn... Past the oxygen units.  Make a right there. Then go through the antimatter vent..."
+      },
+      {
+        "speaker": "JASON",
+        "text": "Okay...  Okay, now what."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Now make a right, you'll see a doorway that opens on the central manufacturing facility.  The bowels of the ship."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9285",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "BRANDON",
+        "text": "Commander, do you have a camera?  I'd die to see this in person... All they showed on T,V was a machine here, and a wall here... I don't know why they didn't show the whole thing."
+      },
+      {
+        "speaker": "JASON",
+        "text": "We'd never have the budget for this."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Okay, so do you see a door marked \"CORE UNIT?\" Should be down at the far end to your left."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9286",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "Yes...?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Okay, that's where you want to be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9287",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "Brandon.. Just in case I die, there's something I have to know..."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Yes Commander?"
+      },
+      {
+        "speaker": "JASON",
+        "text": "What does the Omega 13 do?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Well, that's the big question, isn't it?"
+      },
+      {
+        "speaker": "JASON",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "It's been the subject of an extremely heated debate on the internet for years. Many believe that is a matter collapser, a bomb capable of destroying all matter in the universe in a chain reaction lasting 13 seconds."
+      },
+      {
+        "speaker": "JASON",
+        "text": "But you don't?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "No,  I am of the firm belief that in reality it is not a matter killer, but a matter REARRANGER, converting all molecules to the exact state they existed thirteen seconds previous to activation thus effecting a thirteen second time jump to the past."
+      },
+      {
+        "speaker": "JASON",
+        "text": "How did you come to that conclusion?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "My cousin's boyfriend's sister went out with the screenwriter. His favorite movie is the Omegaman.  He's seen it 13 times..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9288",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "BRANDON!\tTIME TO GO!"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Yes Commander... All right, you're almost there. Just go through the chompers and over the pit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9289",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "BRANDON",
+        "text": "Commander, you and Lt. Madison will have to go through the crushers one at a time in three second intervals. Tell me when the first crusher hits the bottom..."
+      },
+      {
+        "speaker": "JASON",
+        "text": "Okay, now. But-"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Wait two seconds then go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9290",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "No, wait, are you-"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Lt. Madison, GO."
+      },
+      {
+        "speaker": "JASON",
+        "text": "Shit! Go!"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "GO Commander."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9291",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "BRANDON",
+        "text": "Go. They're off again."
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Up."
+      },
+      {
+        "speaker": "JASON",
+        "text": "What?  Up?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Berithium lava coming through. Use the handholds above you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9292",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "JASON",
+        "text": "I'm at the control oaneh. What do I do?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Raise the glass and push the blue button."
+      },
+      {
+        "speaker": "JASON",
+        "text": "That's It?"
+      },
+      {
+        "speaker": "BRANDON",
+        "text": "Yeah. What's wrong? JASON ~~othIno. I -ust oncuont ot wou~o oc oomooooateo onan onat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9293",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "COMPUTER",
+        "text": "Structural damage at 68 percent."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "We're getting major structural damage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9294",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "GWEN",
+        "text": "I just can't believe it. Any of it!  Look at this room!.. They designed it based on the Tuaran Pleasure ship from \"historical document\" thirty seven.  Oh and wait, wait, listen to this!  Computer?"
+      },
+      {
+        "speaker": "COMPUTER",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "GWEN",
+        "text": "What's the weather like outside?"
+      },
+      {
+        "speaker": "COMPUTER",
+        "text": "There is no weather in space."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "I never get tired of that joke."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9295",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "COMPUTER",
+        "text": "The ship is sustaining structural damage."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "Guys, we're sustaining structural damage!..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9296",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "COMPUTER",
+        "text": "The enemy is matching velocity."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "The enemy is matching velocity."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9297",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "GWEN",
+        "text": "Computer, what about our engines? Why don't we have power?"
+      },
+      {
+        "speaker": "COMPUTER",
+        "text": "The Beryllium Sphere has fractured under stress."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "It's fractured..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9298",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "COMPUTER",
+        "text": "Negative. The Beryllium sphere will have to be replaced."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "We need another one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9299",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "COMPUTER",
+        "text": "Negative, no reserve Beryllium sphere exists onboard."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "No, we don't have an extra Beryllium sphere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9300",
+    "movie_id": "m68",
+    "turns": [
+      {
+        "speaker": "COMPUTER",
+        "text": "Systems register functional."
+      },
+      {
+        "speaker": "GWEN",
+        "text": "All systems are working, Commander."
+      }
+    ]
+  }
+]

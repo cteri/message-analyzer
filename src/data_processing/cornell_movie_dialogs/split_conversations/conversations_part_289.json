@@ -1,0 +1,2238 @@
+[
+  {
+    "conversation_id": "conv_28801",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "HAGEN",
+        "text": "Mike, why are you cutting me out of the action?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Tom, we're going to be legitimate all the way, and you're the legal man.  What could be more important than that."
+      },
+      {
+        "speaker": "HAGEN",
+        "text": "I'm not talking about that.  I'm talking about Rocco Lampone building a secret regime.  Why does Neri report directly to you, rather than through me or a caporegime?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28802",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "HAGEN",
+        "text": "Bookkeepers know everything. Rocco's men are all a little too good for the jobs they're supposed to be doing.  They get a little more money than the job's worth.  Lampone's a good man; he's operating perfectly."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Not so perfectly if you noticed."
+      },
+      {
+        "speaker": "HAGEN",
+        "text": "Mike, why am I out?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "You're not a wartime Consigliere. Things may get tough with the move we're trying."
+      },
+      {
+        "speaker": "HAGEN",
+        "text": "OK, but then I agree with Tessio. You're going about it all wrong; you're making the move out of weakness... Barzini's a wolf, and if he tears you apart, the other families won't come running to help the Corleones..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28803",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Christ, Tom; I needed more time with him.  I really needed him."
+      },
+      {
+        "speaker": "HAGEN",
+        "text": "Did he give you his politicians?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Not all...I needed another four months and I would have had them all.  I guess you've figured it all out?"
+      },
+      {
+        "speaker": "HAGEN",
+        "text": "How will they come at you?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I know now.  I'll make them call me Don."
+      },
+      {
+        "speaker": "HAGEN",
+        "text": "Have you agreed on a meeting?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "A week from tonight.  In Brooklyn on Tessio's ground, where I'll be safe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28804",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "I've never seen anything like it."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I told you I had a lot of relatives."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28805",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "Michael, what are those men doing?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "They're waiting to see my father."
+      },
+      {
+        "speaker": "KAY",
+        "text": "They're talking to themselves."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "They're going to talk to my father, which means they're going to ask him for something, which means they better get it right."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Why do they bother him on a day like this?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Because they know that no Sicilian will refuse a request on his daughter's wedding day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28806",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "No.  His name is Luca Brasi.  You wouldn't like him."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Who is he?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "You really want to know?"
+      },
+      {
+        "speaker": "KAY",
+        "text": "Yes.  Tell me."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "You like spaghetti?"
+      },
+      {
+        "speaker": "KAY",
+        "text": "You know I love spaghetti."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Then eat your spaghetti and I'll tell you a Luca Brasi story."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28807",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Once upon a time, about fifteen years ago some people wanted to take over my father's olive oil business.  They had Al Capone send some men in from Chicago to kill my father, and they almost did."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Al Capone!"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "My Father sent Luca Brasi after them.  He tied the two Capone men hand and foot, and stuffed small bath towels into their mouths. Then he took an ax, and chopped one man's feet off..."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Michael..."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Then the legs at the knees..."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Michael you're trying to scare me..."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Then the thighs where they joined the torso."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Michael, I don't want to hear anymore..."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Then Luca turned to the other man..."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Michael, I love you."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "...who out of sheer terror had swallowed the bath towel in his mouth and suffocated."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28808",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "I never know when you're telling me the truth."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I told you you wouldn't like him."
+      },
+      {
+        "speaker": "KAY",
+        "text": "He's coming over here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28809",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Tom...Tom, I'd like you to meet Kay Adams."
+      },
+      {
+        "speaker": "KAY",
+        "text": "How do you do."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "My brother, Tom Hagen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28810",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "If he's your brother, why does he have a different name?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "My brother Sonny found him living in the streets when he was a kid, so my father took him in.  He's a good lawyer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28811",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "I didn't know your family knew Johnny Fontane."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Sure."
+      },
+      {
+        "speaker": "KAY",
+        "text": "I used to come down to New York whenever he sang at the Capitol and scream my head off."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "He's my father's godson; he owes him his whole career."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28812",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "We have something for your mother, for Sonny, we have the tie for Fredo and Tom Hagen gets the Reynolds pen..."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "And what do you want for Christmas?"
+      },
+      {
+        "speaker": "KAY",
+        "text": "Just you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28813",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "What will your father say?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "As long as I tell him beforehand he won't object.  He'll be hurt, but he won't object."
+      },
+      {
+        "speaker": "KAY",
+        "text": "What time do they expect us?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "For dinner.  Unless I call and tell them we're still in New Hampshire."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Michael."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Then we can have dinner, see a show, and spend one more night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28814",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "Michael, what are you doing?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Shhh, you be the long distance operator.  Here."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Hello...this is Long Distance.  I have a call from New Hampshire.  Mr. Michael Corleone.  One moment please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28815",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "Would you like me better if I were a nun?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "No."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Would you like me better if I were Ingrid Bergman?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28816",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "Michael?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I'm thinking about it."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Michael..."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "No, I would not like you better if you were Ingrid Bergman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28817",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Hello.  Kay?"
+      },
+      {
+        "speaker": "KAY",
+        "text": "How is your father?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "He'll be OK."
+      },
+      {
+        "speaker": "KAY",
+        "text": "I love you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28818",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "I LOVE YOU."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Yeah Kay, I'm here."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Can you say it?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "KAY",
+        "text": "Tell me you love me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28819",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "I can't..."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Please say it."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Look.  I'll see you tonight, OK?"
+      },
+      {
+        "speaker": "KAY",
+        "text": "OK."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28820",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Visiting hour ends at eight thirty. I'll just sit with him; I want to show respect."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Can I go to the hospital with you?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I don't think so.  You don't want to end up on page 3 of the Daily News."
+      },
+      {
+        "speaker": "KAY",
+        "text": "My parents don't read the Daily News.  All right, if you think I shouldn't.  I can't believe the things the papers are printing. I'm sure most of it's not true."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I don't think so either.  I better go."
+      },
+      {
+        "speaker": "KAY",
+        "text": "When will I see you again?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I want you to go back to New Hampshire...think things over."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28821",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "When will I see you again?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28822",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "I have to see my father and his people when we get back to the Mall."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Oh Michael."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "We'll go to the show tomorrow night--we can change the tickets."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Don't you want dinner first?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "No, you eat...don't wait up for me."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Wake me up when you come to bed?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28823",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "Your sister wants to ask you something."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Let HER ask."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28824",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "Why are you so cold to her and Carlo?  They live with us on the Mall now, but you never get close to them."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I'm busy."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Connie and Carlo want you to be godfather to their little boy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28825",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "Will you?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Let me think about it, O.K.?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28826",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "KAY",
+        "text": "Michael, it's not true.  Please tell me."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Don't ask me."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Tell me!"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "All right, this one time I'll let you ask about my affairs, one last time."
+      },
+      {
+        "speaker": "KAY",
+        "text": "Is it true?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28827",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "I'm Michael Corleone--this is my father.  What happened to the detectives who were guarding him?"
+      },
+      {
+        "speaker": "NURSE",
+        "text": "Oh your father just had too many visitors.  It interfered with the hospital service.  The police came and made them all leave just ten minutes ago.  But don't worry.  I look in on him."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "You just stand here one minute..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28828",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "NURSE",
+        "text": "You cannot stay here...I'm sorry."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "You and I are going to move my father right now...to another room on another floor...Can you disconnect those tubes so we can wheel the bed out?"
+      },
+      {
+        "speaker": "NURSE",
+        "text": "Absolutely not!  We have to get permission from the Doctor."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "You've read about my father in the papers.  You've seen that no one's here to guard him.  Now I've just gotten word that men are coming to this hospital to kill him.  Believe me and help me."
+      },
+      {
+        "speaker": "NURSE",
+        "text": "We don't have to disconnect them, we can wheel the stand with the bed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28829",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "SONNY",
+        "text": "I was worried when we couldn't get in touch with you in that hick town."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "How's Mom?"
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Good.  She's been through it before. Me too.  You were too young to know about it.  You better wait outside; there're some things you shouldn't hear."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I can help you out..."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Oh no you can't, the old man'd be sore as hell if I let you get mixed up in this."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Jesus Christ, he's my father, Sonny."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Theresa."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28830",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "SONNY",
+        "text": "All right, Mikey...who do we have to hit, Clemenza or Paulie?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "What?"
+      },
+      {
+        "speaker": "SONNY",
+        "text": "One of them fingered the old man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28831",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Clemenza?  No, I don't believe it."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "You're right, kid, Clemenza is okay. It was Paulie."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "How can you be sure?"
+      },
+      {
+        "speaker": "SONNY",
+        "text": "On the three days Paulie was sick this month, he got calls from a payphone across from the old man's building.  We got people in the phone company.  Thank God it was Paulie...we'll need Clemenza bad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28832",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Is it going to be all-out war, like last time?"
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Until the old man tells me different."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Then wait, Sonny.  Talk to Pop."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Sollozzo is a dead man, I don't care what it costs.  I don't care if we have to fight all the five families in New York.  The Tattaglia family's going to eat dirt.  I don't care if we all go down together."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "That's not how Pop would have played it."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "I know I'm not the man he was.  But I'll tell you this and he'll tell you too.  When it comes to real action, I can operate as good as anybody short range."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "All right, Sonny.  All right."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Christ, if I could only contact Luca."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Is it like they say?  Is he that good?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28833",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "SONNY",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "To the city."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Send some bodyguards."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I don't need them, Sonny.  I'm just going to see Pop in the hospital. Also, I got other things."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28834",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Sonny...Sonny--Jesus Christ, I'm down at the hospital.  I came down late.  There's no one here.  None of Tessio's people--no detectives, no one.  The old man is completely unprotected."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "All right, get him in a different room; lock the door from the inside. I'll have some men there inside of fifteen minutes.  Sit tight, and don't panic."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I won't panic."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28835",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "SONNY",
+        "text": "Mikey, you look beautiful!"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Cut it out."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "The Turk wants to talk!  The nerve of that son of a bitch!  After he craps out last night he wants a meet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28836",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "We can't wait.  No matter what Sollozzo say about a deal, he's figuring out how to kill Pop.  You have to get Sollozzo now."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "The kid's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28837",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "SONNY",
+        "text": "Go on Mike."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "They want me to go to the conference with Sollozzo.  Set up the meeting for two days from now.  Sonny, get our informers to find out where the meeting will be held. Insist it has to be a public place: a bar or restaurant at the height of the dinner hour.  So I'll feel safe.  They'll check me when I meet them so I won't be able to carry a weapon; but Clemenza, figure out a way to have one planted there for me.  Then I'll kill them both."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28838",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Why don't you stop living like a bum and get this place cleaned up."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "What are you, inspecting the barracks?  You ready?  Did Clemenza tell you be sure to drop the gun right away?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "A million times."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Sollozzo and McCluskey are going to pick you up in an hour and a half on Times Square, under the big Camels sign."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28839",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "O.K.  How long do you think before I can come back?"
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Probably a year..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28840",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "SOLLOZZO",
+        "text": "I'm glad you came, Mike.  I hope we can straighten everything out.  All this is terrible, it's not the way I wanted things to happen at all. It should never have happened."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I want to settle things tonight.  I want my father left alone."
+      },
+      {
+        "speaker": "SOLLOZZO",
+        "text": "He won't be; I swear to you be my children he won't be.  Just keep an open mind when we talk.  I hope you're not a hothead like your brother, Sonny.  It's impossible to talk business with him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28841",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "We're going to New Jersey?"
+      },
+      {
+        "speaker": "SOLLOZZO",
+        "text": "Maybe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28842",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Most important...I want a sure guarantee that no more attempts will be made on my father's life."
+      },
+      {
+        "speaker": "SOLLOZZO",
+        "text": "What guarantees can I give you?  I am the hunted one.  I've missed my chance.  You think too highly of me, my friend...I am not so clever...all I want if a truce..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28843",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "SOLLOZZO",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Is it all right if I go to the bathroom?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28844",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "PRIEST",
+        "text": "Do you pledge to guide and protect this child if he is left fatherless? Do you promise to shield him against the wickedness of the world?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Yes, I promise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28845",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "PRIEST",
+        "text": "Do you renounce Satan."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I do renounce him."
+      },
+      {
+        "speaker": "PRIEST",
+        "text": "And all his works?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I do renounce them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28846",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "PRIEST",
+        "text": "Do you wish to be baptized?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I do wish to be baptized."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28847",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "TESSIO",
+        "text": "Barzini's people chisel my territory and we do nothing about it.  Pretty soon there won't be one place in Brooklyn I can hang my hat."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Just be patient."
+      },
+      {
+        "speaker": "TESSIO",
+        "text": "I'm not asking you for help, Mike. Just take off the handcuffs."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Be patient."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28848",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "TESSIO",
+        "text": "Let us fill up our Regimes."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "No.  I want things very calm for another six months."
+      },
+      {
+        "speaker": "TESSIO",
+        "text": "Forgive me, Godfather, let our years of friendship be my excuse. How can you hope for success there without your strength here to back you up?  The two  go hand in hand. And with you gone from here the Barzini and the Tattaglias will be too strong for us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28849",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "TESSIO",
+        "text": "Barzini wants to arrange a meeting. Says we can straighten any of our problems out."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "He talked to you?"
+      },
+      {
+        "speaker": "TESSIO",
+        "text": "I can arrange security."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28850",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MOE",
+        "text": "Mike, good to see you.  Got everything you want?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "MOE",
+        "text": "The chef cooked for you special; the dancers will kick your tongue out and you credit is good!  Draw chips for all these people so they can play on the house."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Is my credit good enough to buy you out?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28851",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MOE",
+        "text": "Buy me out?..."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "The hotel, the casino.  The Corleone family wants to buy you out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28852",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MOE",
+        "text": "The Corleone family wants to buy me out.  I buy you out.  You don't buy me out."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Your casino loses money.  Maybe we can do better."
+      },
+      {
+        "speaker": "MOE",
+        "text": "You think I scam?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "You're unlucky."
+      },
+      {
+        "speaker": "MOE",
+        "text": "You goddamn dagos.  I do you a favor and take Freddie in when you're having a bad time, and then you try to push me out."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "You took Freddie in because the Corleone family bankrolled your casino.  You and the Corleone family are evened out.  This is for business; name your price."
+      },
+      {
+        "speaker": "MOE",
+        "text": "The Corleone family don't have that kind of muscle anymore.  The Godfather is sick.  You're getting chased out of New York by Barzini and the other families, and you think you can find easier pickings here.  I've talked to Barzini; I can make a deal with him and keep my hotel!"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Is that why you thought you could slap Freddie around in public?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28853",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "You straightened my brother out?"
+      },
+      {
+        "speaker": "MOE",
+        "text": "Hell, he was banging cocktail waitresses two at a time.  Players couldn't get a drink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28854",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "I have to go back to New York tomorrow.  Think of your price."
+      },
+      {
+        "speaker": "MOE",
+        "text": "You son of a bitch, you think you can brush me off like that?  I made my bones when you were going out with cheerleaders."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28855",
+    "movie_id": "m203",
+    "turns": [
+      {
+        "speaker": "SONNY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "Do you recognize my voice?"
+      },
+      {
+        "speaker": "SONNY",
+        "text": "I think so.  Detective squad?"
+      },
+      {
+        "speaker": "VOICE",
+        "text": "Right.  Don't say my name, just listen.  Somebody shot your father outside his place fifteen minutes ago."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Is he alive?"
+      },
+      {
+        "speaker": "VOICE",
+        "text": "I think so, but I can't get close enough.  There's a lot of blood. I'll try to find out more."
+      },
+      {
+        "speaker": "SONNY",
+        "text": "Find out anything you can...you got a Grand coming."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28856",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "MARGE",
+        "text": "How do you do."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "What are you doing in Mongi?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28857",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "MARGE",
+        "text": "You should come and have lunch with us, before you go -- Dickie?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Sure. Any time."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "And be careful in the sun. Your gray's in danger of turning a little pink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28858",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Sorry, sorry, sorry. I know, I'm late, I'm a swine."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "Did you forget where I live? It's four o'clock."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I just woke up. I'm sorry."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "You just woke up!"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Fausto and I -- we took the boat out, we were fishing, and then it was dawn and we'd caught absolutely nothing."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "Well, we ate everything without you."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "We?"
+      },
+      {
+        "speaker": "MARGE",
+        "text": "Yes, Tom Ripley's here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28859",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "MARGE",
+        "text": "Tom was telling me about his trip over. Made me laugh so much I got a nosebleed."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Is that good?"
+      },
+      {
+        "speaker": "MARGE",
+        "text": "Shut up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28860",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "MARGE",
+        "text": "I'll do it. I make a fabulous martini."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Everybody should have one talent.  What's yours?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28861",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "MARGE",
+        "text": "What? What?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Meet my father, Herbert Richard Greenleaf 1st."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28862",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Uncanny!"
+      },
+      {
+        "speaker": "MARGE",
+        "text": "I don't get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28863",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "MARGE",
+        "text": "Hi Tom."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Marge, Ripley's saying goodbye."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "I'll come down."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Did you speak to my father?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28864",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Okay, we're going to Naples. There's a club, it's not a club, it's a cellar."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "It's vile."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Yes, it's vile. Don't worry, you don't have to come.  It's great. You're going to love it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28865",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "It'll just be for a little while. He can be... he makes me laugh."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "Okay, darling."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "You'd say if you mind?"
+      },
+      {
+        "speaker": "MARGE",
+        "text": "No, I like him."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Marge, you like everybody."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "I don't like you."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Then I'll go to your place and you can move in with Tom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28866",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Now you know why Miss Sherwood always shows up for breakfast. It's not love it's the coffee machine."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "It's the one task Dickie can do on his own -- make coffee."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Shut up."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "Oh darling -- is that for me?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "No it's for Tom as he didn't complain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28867",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "I had to promise, capital P, never to take it off -- otherwise I'd give it to you."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "Bastard!  Isn't it great, Tom? I found it in Naples. I bargained for about two weeks."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I hope it wasn't cheap."
+      },
+      {
+        "speaker": "MARGE",
+        "text": "Oh, it was."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28868",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "MARGE",
+        "text": "Dubious but special honor, Tom -- crewing Dickie's boat. Alright, bar's open."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Yes please!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28869",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "MARGE",
+        "text": "If you're not at my place by 7.00, Tom and I are running off together."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28870",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "He's drowning me!"
+      },
+      {
+        "speaker": "MARGE",
+        "text": "It's always the same whenever someone new comes into his life -- Freddie, Fausto, Peter Smith-Kingsley -- he's wonderful -- did you meet him, he's a musician? -- ...and especially you, of course... and that's only the boys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28871",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "MARGE",
+        "text": "Well, she was already dead, darling, wasn't she, so I suppose --"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I don't know why people say this country's civilised. It isn't. It's fucking primitive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28872",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Who's this?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "It's Tom. Tom Ripley. We were at Princeton together."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Okay.  And did we know each other?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Well, I knew you, so I suppose you must have known me."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Princeton is like a fog, America's like a fog.  This is Marge Sherwood. Tom -- sorry, what was it?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Ripley. Hullo. How do you do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28873",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Nothing. Nothing much. Passing through."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Passing through! You're so white. Did you ever see a guy so white, Marge? Gray, actually."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "It's just an undercoat."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Say again?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "You know, a primer."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "That's funny."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28874",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Who? Oh, Tom, hello, how are you? We thought you'd disappeared. We were going to send out a search party."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "No, still here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28875",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "I'm intruding."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Can you mix a martini?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28876",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Forging signatures. Telling lies. Impersonating practically anybody."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "That's three. Nobody should have more than one talent. Okay, do an impression."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Now? Okay. Wait a minute. Talent --  The only talent my son has is for cashing his allowance."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "What? What's this?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I like to sail, believe me, I love to sail! Instead I make boats and other people sail them."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Stop! It's too much! You're making all the hairs on my neck stand up!"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Jazz, let's face it, it's just an insolent noise."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I feel like he's here. Horrible. Like the old bastard is here right now! That's brilliant! How do you know him?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I met him in New York."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Marge! You've got to hear this!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28877",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Could you ever conceive of going there, Tom, and bringing him back?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "What?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I'd pay you. If you would go to Italy and persuade my son to come home. I'd pay you $1000."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28878",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "I'm never going back!"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "No, I think your mother, her illness --"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "It's got nothing to do with my mother! She's had leukemia for -- ! This is what makes me boil about him! HE wants me back! -- it's got nothing to do with my mother."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I don't know, Dickie, I'm just telling you what I --"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Go back! Go back to New York or call him if you can find a telephone that works, and tell him wild horses wouldn't drag me back to him or his shipyard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28879",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "You like jazz!"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I love jazz."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "This is the best. Marge says she likes jazz, but she things Glenn Miller is jazz."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28880",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Bird! Ask me the name of my sailboat --"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I don't know. What's the name of your sailboat?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Bird!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28881",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Good afternoon!"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "What time is it?  Oh God! Do you always type your letters?  That should be two Ts."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I can't write and I can't spell. That's the privilege of a first-class education. You're upstairs at the back. I think Ermelinda made the bed up."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "This is so good of you."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Don't say it again. Now you're a Double Agent and we're going to string my Dad along, I was thinking we might buy a little car with the expense money he's sending you. What do you think, Marge... a little Cinquecento with my Dad's money?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28882",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "You're a dark horse, Ripley. Engaged?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Your parents met her."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Oh God -- I can just imagine -- if only Dickie would settle down... doesn't every parent deserve a grandchild? Never! I swear on your ring, Marge. I am never going back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28883",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "I'm doing this wrong, aren't I?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "You're doing great. We'll make a sailor of you yet. You're doing really well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28884",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Could we sail to Venice?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Sure. I love Venice."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I have to go to Venice."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "See Venice and die, isn't that right? Or is it Rome? You do something and die, don't you? Okay, Venice is on the list."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "And Rome."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Do you ski?  Don't tell me -- you're a lost cause! That's the next thing to deal with. We're planning to go to Cortina at Christmas. Excellent skiing. Excellent.  Marge -- Ripley can't ski. We'll have to teach him that, too. Have you ever known such low class?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28885",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "You're breaking my ribs!"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "What?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "You're breaking my ribs!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28886",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "I could fuck this icebox I love it so much.  What were you actually doing in New York?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I played piano in a few places."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "That's one job, you told me a lot of jobs."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "A few places -- that's a few jobs. Anyway, I don't want to think about New York."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "The mysterious Mr Ripley. Marge and I spend hours speculating.  Cold beer. Thank you Dad."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Copy out from here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28887",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "I love the fact you brought Shakespeare with you and no clothes. Ermelinda says you wash the same shirt out every night. Is that true?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "No! I've got more than one shirt!"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "She can do that stuff for you. Anyway, just wear some of my things, wear anything you want, most of it's ancient."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Now your signature.  Not \"Dickie\". Your signature."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28888",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Without the glasses you're not even ugly.  I don't need them because I never read. How do I look."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Like Clark Kent.  Now Superman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28889",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "I know. I write like a child."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Pretty vile. See this: The S and the T, do you see? -- fine, vulnerable -- that's pain, that's secret pain."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "It must be a deep secret, cause I don't know about it."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Your handwriting -- nothing more naked. See -- nothing's quite touching the line -- that's vanity."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Well we certainly know that's true."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28890",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Do you have any brothers?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "No, no brothers, no sisters."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Me neither. Nor does Marge. All only children -- what does that mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28891",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Means we never shared a bath. I'm cold. Can I get in?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "No!"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I didn't mean with you in it."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Okay, you get in. I'm like a prune anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28892",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "What does he say?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "He's getting impatient. He wants me to reassure him you'll be home by Thanksgiving."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "You've got to get a new jacket. Really. You must be sick of the same clothes. I'm sick of seeing you in them."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I can't. I can't keep spending your father's money."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I love how responsible you are. My Dad should make you Chief Accountant or something. Let me buy you a jacket. There's a great place when we get to Rome, Batistoni."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28893",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Where do we find a carozza for the Forum, or can we hire any of them -- ?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Relax."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "It's just there's so much to do in a single day."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Relax. The most important question is where to eat. I hope Freddie made a reservation."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Freddie?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Freddie Miles. You know -- he's organizing the Cortina skiing trip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28894",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Look, Tom, we've got to go to a club and meet some friends of Freddie's. The best thing is -- if you want to be a tourist -- grab a cab and we can meet up at the railway station."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "What club?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Freddie's arranged it with some of the skiing crowd. Come if you want but I thought you wanted to see the Forum...?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I did. And then maybe get the jacket and what have you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28895",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "Shoes too?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "You said I could pick out a jacket and I just... Sorry."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Get undressed in your own room, would you?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I thought you'd missed the train."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Freddie drove me back in his car."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Is Freddie here?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "He's downstairs."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I was just fooling around. Don't say anything. Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28896",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "What's the fight about? That's her fiancee, isn't it? Are they blaming him?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I don't know! Why are you asking me?  How can it take an hour to find an ambulance?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28897",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "She was pregnant. Did you know that? Do you know what that means in a place like this?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I'm prepared to take the blame."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "You've been so good to me. You're the brother I never had. I'm the brother you never had."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "She came to me for help, she needed money, and I didn't help her. I didn't help her. Now she's dead and it's my fault."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I'm not going to say anything -- to Marge, or anybody, the police -- It's a secret between us and I'll keep it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28898",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "...The thousand dollars, of course, was only due in the event that you succeeded in bringing Dickie home. Naturally, I hope the trip has afforded you some pleasure despite the failure of its main objective you need no longer consider yourself obligated to us in any way..."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "You can't blame him. You could hardly expect this to go on forever."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I thought you might write again. Now that we're brothers..."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I can't, how can I, in all decency? We've had a good run, haven't we?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "What about Venice? Can we stick to that plan at least?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I don't think so, Tom. You can't stay on here without money. It's time we all moved on. Besides I'm sick of Mongi. Especially now with everything -- I really want to move to the North. I need to check out San Remo next week, find somewhere new to keep the boat. But it would be great, though, if you came with me. Our last trip before you leave. There's a jazz festival -- we could say goodbye in style. What do you think? A last trip?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28899",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "To Mongibello and the happiest days of my life."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "To Mongi. You're cheerful tonight."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I'm suddenly quite happy to be going back."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "That's good."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I've got plans!"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Ripley's plans."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Esatto. I'm always planning."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Did I know you at Princeton, Tom? I didn't, did I?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Why are you asking all of a sudden?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "No reason. Because you're leaving, I guess. I don't think you were there, were you?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Why?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I mean it as a compliment. You've got such great taste, I don't know. Most of the thugs at Princeton had tasted everything and had no taste. Used to say, the cream of America: rich and thick. Freddie's the perfect example."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Then I'll take it as a compliment."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "I knew it! I had a bet with Marge!"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Ha."
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "Do you even like jazz -- or was that something for my benefit?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I've gotten to like it. I've gotten to like everything about the way you live. It's one big love affair. If you knew my life back home in New York..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28900",
+    "movie_id": "m204",
+    "turns": [
+      {
+        "speaker": "DICKIE",
+        "text": "I'm thinking of giving up the sax, what do you think about drums?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "What?"
+      },
+      {
+        "speaker": "DICKIE",
+        "text": "So cool."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2310 @@
+[
+  {
+    "conversation_id": "conv_69213",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "I insist--and a beaker for Mr. Marlowe. The BARMAN does the business."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I hear you have a new play for the Curtain."
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "Not new--my Doctor Faustus."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I love your early work. \"Was this the face that launched a thousand ships and burnt the topless towers of Ilium?\""
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "I have a new one nearly done, and better. The Massacre at Paris."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Good title."
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "And yours?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Romeo and Ethel the Pirate's Daughter.  Yes, I know."
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "What is the story?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Well, there's a pirate  In truth, I have not written a word."
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "Romeo isItalian. Always in and out of love."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Yes, that's good. Until he meets"
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "Ethel."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Do you think?"
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "The daughter of his enemy."
+      },
+      {
+        "speaker": "WILL",
+        "text": "The daughter of his enemy."
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "His best friend is killed in a duel by Ethel's brother or something. His name is Mercutio."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Mercutiogood name."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69214",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Good luck with yours, Kit."
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "I thought your play was for Burbage."
+      },
+      {
+        "speaker": "WILL",
+        "text": "This is a different one."
+      },
+      {
+        "speaker": "MARLOWE",
+        "text": "A different one you haven't written?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69215",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "NOL AS BENVOLIO",
+        "text": "\"Good morrow, cousin.\""
+      },
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"Is the day so young?\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69216",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "NOL AS BENVOLIO",
+        "text": "\"But new struck nine.\""
+      },
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"Ay me, sad hours seem long. Was that my father that went hence so fast?\""
+      },
+      {
+        "speaker": "NOL AS BENVOLIO",
+        "text": "It was. What sadness lengthens Romeo's hours?\""
+      },
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"Not having that which, having, makes them short.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69217",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"Out.\""
+      },
+      {
+        "speaker": "NOL AS BENVOLIO",
+        "text": "\"Of love?\""
+      },
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"Out of her favour where I am in love.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69218",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "Two hours at prayer!"
+      },
+      {
+        "speaker": "NURSE",
+        "text": "Lady Viola is pious, my lord."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Piety is for Sunday! And two hours at prayer is not piety, it is self- importance!"
+      },
+      {
+        "speaker": "NURSE",
+        "text": "It would be better that you return tomorrow, my lord."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "It would be better that you tell her to get off her knees and show some civility to her six-day lord and master."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69219",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "Not ready? Where is she?"
+      },
+      {
+        "speaker": "NURSE",
+        "text": "Be patient, my lord, she is dressing."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Will you ask Her Majesty to be patient?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69220",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "NURSE",
+        "text": "Be good to her, my lord!"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "I will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69221",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "NURSE",
+        "text": "God bless you!"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Thank you. Let go, there's a good nurse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69222",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "Did you like Proteus or Valentine best? Proteus for speaking, Valentine for looks."
+      },
+      {
+        "speaker": "NURSE",
+        "text": "I liked the dog, for laughs."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "But Silvia I did not care for much. His fingers were red from fighting and he spoke like a schoolboy at lessons. Stage love will never be true love while the law of the land has our heroines played by pipsqueak boys in petticoats! Oh, when can we see another?"
+      },
+      {
+        "speaker": "NURSE",
+        "text": "When the Queen commands it."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "But at the playhouse. Nurse?"
+      },
+      {
+        "speaker": "NURSE",
+        "text": "Be still."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69223",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "NURSE",
+        "text": "Playhouses are not for well-born ladies."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "I am not so well-born."
+      },
+      {
+        "speaker": "NURSE",
+        "text": "Well-monied is the same as well-born and well-married is more so. Lord Wessex was looking at you tonight."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "All the men at court are without poetry. If they look at me they see my father's fortune. I will have poetry in my life. And adventure. And love. Love above all."
+      },
+      {
+        "speaker": "NURSE",
+        "text": "Like Valentine and Silvia?"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "No . . . not the artful postures of love, but love that over- throws life. Unbiddable, ungovernable, like a riot in the heart, and nothing to be done, come ruin or rapture. Love like there has never been in a play.  I will have love or I will end my days as a . . ."
+      },
+      {
+        "speaker": "NURSE",
+        "text": "As a nurse."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "But I would be Valentine and Silvia too. Good Nurse, God save you and good night. I would stay asleep my whole life if I could dream myself into a company of players."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69224",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "He sees himself in me! Romeo Montague, a young man of Verona."
+      },
+      {
+        "speaker": "NURSE",
+        "text": "Verona again."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "A comedy of quarreling families reconciled in the discovery of Romeo to be the very same Capulet cousin stolen from the cradle and fostered to manhood by his Montague mother that was robbed of her own child by the Pirate King!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69225",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "NURSE",
+        "text": "Your mother, and your father"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "From tomorrow, away in the country for three weeks! Is Master Shakespeare not handsome?"
+      },
+      {
+        "speaker": "NURSE",
+        "text": "He looks well enough for a mountebank."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Oh, Nurse! He would give Thomas Kent the life of Viola De Lesseps's dreaming."
+      },
+      {
+        "speaker": "NURSE",
+        "text": "My lady, this play will end badly. I will tell."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "You will not tell. As you love me and as I love you, you will bind my breast and buy me a boy's wig!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69226",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "Your Majesty."
+      },
+      {
+        "speaker": "QUEEN",
+        "text": "Stand up straight, girl."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69227",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "QUEEN",
+        "text": "I have seen you. You are the one who comes to all the plays--at Whitehall, at Richmond."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Your Majesty."
+      },
+      {
+        "speaker": "QUEEN",
+        "text": "What do you love so much?"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Your Majesty"
+      },
+      {
+        "speaker": "QUEEN",
+        "text": "Speak out! I know who I am. Do you love stories of kings and queens? Feats of arms? Or is it courtly love?"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "I love theatre. To have stories acted for me by a company of fellows is indeed"
+      },
+      {
+        "speaker": "QUEEN",
+        "text": "They are not acted for you, they are acted for me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69228",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "QUEEN",
+        "text": "And--?"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "And I love poetry above all."
+      },
+      {
+        "speaker": "QUEEN",
+        "text": "Above Lord Wessex?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69229",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "QUEEN",
+        "text": "But playwrights teach nothing about love, they make it pretty, they make it comical, or they make it lust. They cannot make it true."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Oh, but they can!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69230",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "Your Majesty"
+      },
+      {
+        "speaker": "QUEEN",
+        "text": "There was a wager, I rememberas to whether a play can show the very truth and nature of love. I think you lost it today.  You are an eager boy. Did you like the play?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69231",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "Your Majesty!"
+      },
+      {
+        "speaker": "QUEEN",
+        "text": "Why, Lord Wessex! Lost your wife so soon?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Indeed I am a bride short. How is this to end?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69232",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "QUEEN",
+        "text": "As stories must when love's denied--with tears and a journey. Those whom God has joined in marriage, not even I can put asunder."
+      },
+      {
+        "speaker": "QUEEN",
+        "text": "Lord Wessex, as I foretold, has lost his wife in the play- house--go make your farewell and send her out. It's time to settle accounts.  How much was the wager?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Fifty shillings.  Pounds."
+      },
+      {
+        "speaker": "QUEEN",
+        "text": "Give it to Master Kent. He will see it rightfully home. WESSEX gives his purse to VIOLA."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69233",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "RALPH AS NURSE",
+        "text": "\"I know not.\""
+      },
+      {
+        "speaker": "SAM AS JULIET",
+        "text": "\"Go ask his name--If he be married, My grave is like to be my wedding bed.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69234",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "SAM AS JULIET",
+        "text": "\"All my fortunes at thy foot I'll lay, And follow thee my lord throughout the world.\""
+      },
+      {
+        "speaker": "RALPH AS NURSE",
+        "text": "\"Madam!\""
+      },
+      {
+        "speaker": "SAM AS JULIET",
+        "text": "\"I come, anon--But if thou meanest not well, I do beseech thee--\""
+      },
+      {
+        "speaker": "RALPH AS NURSE",
+        "text": "\"Madam!\""
+      },
+      {
+        "speaker": "SAM AS JULIET",
+        "text": "By and by I come to cease thy strife and leave me to my grief. A thousand times good night!\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69235",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "ROSALINE",
+        "text": "When will you write me a sonnet, Will?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "I have lost my gift."
+      },
+      {
+        "speaker": "ROSALINE",
+        "text": "You left it in my bed. Come to look for it again."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Are you to be my muse, ROSALINE?"
+      },
+      {
+        "speaker": "ROSALINE",
+        "text": "Burbage has my keeping but you have my heart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69236",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "ROSALINE",
+        "text": "Will!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "I would have made you immortal.  Tell Burbage he has lost a new play by Will Shakespeare."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69237",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Mr. Pope! Mr. Phillips! Welcome, George Bryan! James Armitage!  Sam! My pretty one! Are you ready to fall in love again?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I am, Master Shakespeare."
+      },
+      {
+        "speaker": "WILL",
+        "text": "But your voice  Have they dropped?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "No, no, a touch of cold only. We suspect he is lying but WILL has turned away."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Master Henslowe, you have your actors."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69238",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Master Shakespeare"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Luck be with you, Sam.  Sam?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "It is not my fault, Master Shakespeare. I could do it yesterday."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Sam! Do me a speech, do me a line."
+      },
+      {
+        "speaker": "SAM",
+        "text": "\"Parting is such sweet sorrow\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69239",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"Have not saints lips, and holy palmers too?\""
+      },
+      {
+        "speaker": "SAM AS JULIET",
+        "text": "\"Ay pilgrim, lips that they must use in prayer.\""
+      },
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"Oh then, dear saint, let lips do what hands to: They pray: grant thou, lest faith turn to despair.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69240",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"Thus from my lips, by thine, my sin is purg'd.\""
+      },
+      {
+        "speaker": "SAM AS JULIET",
+        "text": "\"Then have my lips the sin that they have took.\""
+      },
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"Sin from my lips? Oh trespass sweetly urg'd. Give me my sin again.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69241",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"The brightness of her cheek would shame those stars As daylight doth a lamp. Her eyes in heaven Would through the airy region stream so bright That birds would sing and think it were not night. See how she leans her cheek upon her hand. O that I were a glove upon that hand, That I might touch that cheek."
+      },
+      {
+        "speaker": "SAM AS JULIET",
+        "text": "\"Ay me.\""
+      },
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"She speaks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69242",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "SAM AS JULIET",
+        "text": "I would not for the world!"
+      },
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "I have night's cloak to hide me from their eyes; And but thou love me, let them find me here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69243",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"O wilt thou leave me so unsatisfied?\""
+      },
+      {
+        "speaker": "SAM AS JULIET",
+        "text": "\"What satisfaction can'st thou have tonight?\""
+      },
+      {
+        "speaker": "VIOLA AS ROMEO",
+        "text": "\"The exchange of thy love's faithful vow for mine.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69244",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "SIR ROBERT",
+        "text": "She is a beauty, my lord, as would take a king to church for a dowry of a nutmeg."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "My plantations in Virginia are not mortgaged for a nutmeg. I have an ancient name that will bring you preferment when your grandson is a Wessex. Is she fertile?"
+      },
+      {
+        "speaker": "SIR ROBERT",
+        "text": "She will breed. If she do not, send her back."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Is she obedient?"
+      },
+      {
+        "speaker": "SIR ROBERT",
+        "text": "As any mule in Christendom. But if you are the man to rider her, their are rubies in the saddlebag."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "I like her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69245",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "TILNEY",
+        "text": "Like you, I found him not at home!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "So this is the favour you find in the Chamberlain's Men."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69246",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "TILNEY",
+        "text": "What does Burbage care of that? He is readying the Curtain for Kit Marlowe."
+      },
+      {
+        "speaker": "WILL",
+        "text": "You have opened the playhouses?"
+      },
+      {
+        "speaker": "TILNEY",
+        "text": "I have, Master Shakespeare."
+      },
+      {
+        "speaker": "WILL",
+        "text": "But the plague"
+      },
+      {
+        "speaker": "TILNEY",
+        "text": "Yes, I know. But he was always hanging around the house."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69247",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Who are you, master?"
+      },
+      {
+        "speaker": "URCHIN",
+        "text": "I am Ethel, sir, the Pirate's daughter."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I'll be damned if you are!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69248",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Better fortune, boy."
+      },
+      {
+        "speaker": "URCHIN",
+        "text": "I was in a play. They cut my head off in Titus Andronicus. When I write plays, they will be like Titus."
+      },
+      {
+        "speaker": "WILL",
+        "text": "You admire it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69249",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "URCHIN",
+        "text": "I like it when they cut heads off. And the daughter mutilated with knives."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh. What is your name?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69250",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "URCHIN",
+        "text": "Wait, you'll see the cat bites his head off."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I have to get back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69251",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "My lady!"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Who is there?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Will Shakespeare!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69252",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "Anon, good nurse. Anon.  Master Shakespeare?!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "The same, alas."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Oh but why \"alas?\""
+      },
+      {
+        "speaker": "WILL",
+        "text": "A lowly player."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Alas indeed, for I thought you the highest poet of my esteem and a writer of plays that capture my heart."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh--I am him too!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69253",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Oh my lady, my love!"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "If they find you here they will kill you."
+      },
+      {
+        "speaker": "WILL",
+        "text": "You can bring them with a word."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Oh, not for the world!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69254",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Can you love a fool?"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Can you love a player?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69255",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Wait! You are still a maid and perhaps as mistook in me as I was mistook in Thomas Kent."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Answer me only this: are you the author of the plays of William Shakespeare?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "I am."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Then kiss me again for I am not mistook."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69256",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "I do not know how to undress a man."
+      },
+      {
+        "speaker": "WILL",
+        "text": "It is strange to me, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69257",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "I would not have thought it. There is something better than a play."
+      },
+      {
+        "speaker": "WILL",
+        "text": "There is."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Even your play."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "And that was only my first try."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Well perhaps better than my first."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69258",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "You would not leave me?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "I must. Look-- how pale the window."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Moonlight!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "No, the morning rooster woke me."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "It was the owl--come to bed"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69259",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Oh, let Henslowe wait."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Mr. Henslowe?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Let him be damned for his pages!"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Oh--no, no!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "There is time. It is still dark."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "It is broad day!  The rooster tells us so!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "It was the owl. Believe me, love, it was the owl."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69260",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "Oh, do not go"
+      },
+      {
+        "speaker": "WILL",
+        "text": "I must. I must"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69261",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "Oh, Will!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Yes, some of it is speakable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69262",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "\"Good night, good night. As sweet repose and rest Come to thy heart as that within my breast. O wilt thou leave me so unsatisfied?\""
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "That's my line!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh, but it is mine too!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69263",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "I found something in my sleep. The Friar who married them will take up their destinies."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Oh, but it will end well for love?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "In heaven, perhaps. It is not a comedy I am writing now. A broad river divides my lovers--family, duty, fate--as unchangeable as nature."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Yes, this is not life, Will. This is a stolen season."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69264",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "You cannot! Not for the Queen herself!"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "What will you have me do? Marry you instead?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "To be the wife of a poor player?--can I wish that for Lady Viola, except in my dreams? And yet I would, if I were free to follow my desire in the harsh light of day."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "You follow your desire freely enough in the night. So, if that is all, to Greenwich I go."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Then I will go with you."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "You cannot, Wessex will kill you"
+      },
+      {
+        "speaker": "WILL",
+        "text": "I know how to fight!"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Stage fighting!  Oh, Will! As Thomas Kent my heart belongs to you but as Viola the river divides us, and I will marry Wessex a week from Saturday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69265",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "Will! What--?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "A literary feud. Quite normal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69266",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Marlowe's touch was in my Titus Andronicus and my Henry VI was a house built on his foundations."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "You never spoke so well of him."
+      },
+      {
+        "speaker": "WILL",
+        "text": "He was not dead before. I would exchange all my plays to come for all of his that will never come."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "You lie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69267",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "You lie in your meadow as you lied in my bed."
+      },
+      {
+        "speaker": "WILL",
+        "text": "My love is no lie. I have a wife, yes, and I cannot marry the daughter of Sir Robert de Lesseps. It needed no wife come from Stratford to tell you that. And yet you let me come to your bed."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Calf love. I loved the writer, and gave up the prize for a sonnet."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I was the more deceived."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69268",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "I love you, Will, beyond poetry."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh, my love  You ran from me before."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "You were not dead before. When I thought you dead, I did not care about all the plays that will never come, only that I would never see your face. I saw our end, and it will come."
+      },
+      {
+        "speaker": "WILL",
+        "text": "You cannot marry Wessex!"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "If not Wessex the Queen will know the cause and there will be no more Will Shakespeare."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69269",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Nono."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "But I will go to Wessex as a widow from these vows, as solemn as they are unsanctified."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69270",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "Will you read it for me?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "\"Wilt thou be gone? It is not yet near day> It was the nightingale and not the lark That pierced the fearful hollow of thine ear. Nightly she sings on yon pomegranate tree. Believe me, love, it was the nightingale.\""
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "\"It was the lark, the herald of the morn, No nightingale. Look, love, what envious streaks Do lace the severing clouds in yonder east. Night's candles are burnt out, and jocund day Stands tiptoe on the misty mountain tops. I must be gone and live, or stay and die.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69271",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "\"thou need'st not to be gone.\""
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "\"I have more care to stay than will to go. Come death, and welcome. Juliet wills it so. How is't my soul? Let's talk. It is not day.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69272",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "A hired player no longer. Fifty pounds, Will, for the poet of true love."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I am done with theatre. The playhouse is for dreamers. Look where the dream has brought us."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "It was we ourselves did that. And for my life to come I would not have it otherwise."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I have hurt you and I am sorry for it."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "If my hurt is to be that you will write no more, then I shall be the sorrier."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69273",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "The Queen commands a comedy, Will for Twelfth Night."
+      },
+      {
+        "speaker": "WILL",
+        "text": "A comedy! What will my hero be but the saddest wretch in the kingdom, sick with love?"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "An excellent beginning  Let him bea duke. And your heroine?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Sold in marriage and half way to America."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "At sea, then--a voyage to a new world?she lands upon a vast and empty shore. She is brought to the dukeOrsino."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Orsinogood name"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "But fearful of her virtue, she comes to him dressed as a boy"
+      },
+      {
+        "speaker": "WILL",
+        "text": "and thus unable to declare her love"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69274",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "But all ends well."
+      },
+      {
+        "speaker": "WILL",
+        "text": "How does it?"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "I don't know. It's a mystery"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69275",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "You will never age for me, nor fade, nor die."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Nor you for me."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Good bye, my love, a thousand times good bye."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Write me well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69276",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "My lady Viola."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "My lord."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "I have spoken with your father."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "So my lord? I speak with him every day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69277",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "My lady VIOLA."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Lord Wessex. You have been waiting."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "I am aware of it, but it is beauty's privilege."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "You flatter, my lord."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "No. I have spoken to the Queen.  Her majesty's consent is requisite when a Wessex takes a wife, and once gained, her consent is her command."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Do you intend to marry, my lord?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Your father should keep you better informed. He has bought me for you. He returns from his estates to see us married two weeks from Saturday.  You are allowed to show your pleasure."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "I do not love you, my lord."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "How your mind hops about! Your father was a shopkeeper, your children will bear arms, and I will recover my fortune. That is the only matter under discussion today. You will like Virginia."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Virginia?!"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Why, yes! My fortune lies in my plantations. The tobacco weed. I need four thousand pounds to fit out a ship and put my investments to work--I fancy tobacco has a future. We will not stay there long, three or four years . . ."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "But why me?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "It was your eyes. No, your lips."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69278",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "Will you defy your father and your Queen?"
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "The Queen has consented?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "She wants to inspect you. At Greenwich, come Sunday. Be submissive, modest, grateful and brief."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "I will do my duty, my lord."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69279",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "Good morning, my lord!"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Ah! My lady! The tide waits for no man, but I swear it would wait for you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69280",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "I meanYour Majesty, they do not, they have not, but I believe there is one who can"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Lady Viola isyoung in the world. Your Majesty is wise in it. Nature and truth are the very enemies of playacting. I'll wager my fortune."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69281",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "You look sad, my lady! Let me take you riding."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "It is not my riding day, my lord."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Bless me, I thought it was a horse."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "I am going to church."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "I understand of course. It is to be expected."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "It is to be expected on a Sunday."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "And on a day of mourning. I never met the fellow but once at your house."
+      },
+      {
+        "speaker": "VIOLA",
+        "text": "Mourning? Who is dead, my lord?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Oh!--dear God, I did not think it would be me to tell you. A great loss to playwriting, and to dancing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69282",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA",
+        "text": "He is dead?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Killed last night, in a tavern! Come, then, we'll say a prayer for his soul"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69283",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Your name?"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "Thomas Kent. I would like to do a speech by a writer who commands the heart of every player."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69284",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Take off your hat."
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "My hat?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Where did you learn how to do that?"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "I . . ."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Wait there."
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "Are you Mr. Shakespeare?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Let me see you. Take off your hat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69285",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Do you understand me?"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "No, sir."
+      },
+      {
+        "speaker": "WILL",
+        "text": "He is speaking about a baggage we never even meet! What will be left in your purse when he meets his Juliet?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69286",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "I am very sorry, sir, I have not seen Act Two."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Of course you have not! I have not written it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69287",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "She tells me to keep away. She is to marry Lord Wessex. What should I do?"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "If you love her, you must do what she asks."
+      },
+      {
+        "speaker": "WILL",
+        "text": "And break her heart and mine?"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "It is only ours you can know."
+      },
+      {
+        "speaker": "WILL",
+        "text": "She loves me, Thomas!"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "Does she say so?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "No. And yet she does where the ink has run with tears. Was she weeping when she gave you this?"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "I  Her letter came to me by the nurse."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Your aunt?"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "Yes, my aunt. But perhaps she wept a little. Tell me how you love her, Will."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Like a sickness and its cure together."
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "Yes, like rain and sun, like cold and heat.  Is your lady beautiful? Since I came to visit from the country, I have not seen her close. Tell me, is she beautiful?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh, if I could write the beauty of her eyes! I was born to look in them and know myself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69288",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "And her lips?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh, Thomas, her lips! The early morning rose would wither on the branch, if it could feel envy!"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "And her voice? Like lark song?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Deeper. Softer. None of your twittering larks! I would banish nightingales from her garden before they interrupt her song."
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "She sings too?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Constantly. Without doubt. And plays the lute, she has a natural ear. And her bosom--did I mention her bosom?"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "What of her bosom?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh Thomas, a pair of pippins! As round and rare as golden apples!"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "I think the lady is wise to keep your love at a distance. For what lady could live up to it close to, when her eyes and lips and voice may be no more beautiful than mine? Besides, can a lady born to wealth and noble marriage love happily with a Bankside poet and player?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Yes, by God! Love knows nothing of rank or riverbank! It will spark between a queen and the poor vagabond who plays the king, and their love should be minded by each, for love denied blights the soul we owe to God! So tell my lady, William Shakespeare waits for her in the garden!"
+      },
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "But what of Lord Wessex?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "For one kiss, I would defy a thousand Wessexes!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69289",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "VIOLA AS THOMAS",
+        "text": "Oh!--it's--it's--oh, it's a house of ill- repute!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "It is, Thomas, but of good reputation. Come, there is no harm in a drink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69290",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "\"Poet?\""
+      },
+      {
+        "speaker": "WILL",
+        "text": "I was a poet till now, but I have seen beauty that puts my poems at one with the talking ravens at the Tower."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69291",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "How do I offend, my lord?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "By coveting my property. I cannot shed blood in her house but I will cut your throat anon. You have a name?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Christopher Marlowe at your service."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69292",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Here we come at last, my lord!"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "Are you bringing your laundry woman?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Her chaperone. My lady's country cousin.  My, but you be a handsome gallant, just as she said! You may call me Miss Wilhelmina!"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "On a more fortuitous occasion, perhaps"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh, my lord, you will not shake me off, she never needed me more, I sear by your breeches!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69293",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "Is there a man?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "A man, my lord?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "There was a man, poet--a theatre poet, I heard--does he come to the house?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "A theatre poet?"
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "An insolent penny-a-page rogue, Marlowe, he said, Christopher Marlowe--has he been to the house?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Marlowe? Oh yes, he is the one, lovely waistcoat, shame about the poetry."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "That dog!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69294",
+    "movie_id": "m511",
+    "turns": [
+      {
+        "speaker": "WESSEX",
+        "text": "You upstart inky pup! Now I will show you your place, which is in hell!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "You are on my ground."
+      },
+      {
+        "speaker": "WESSEX",
+        "text": "By God, I'll fight the lot of you"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69295",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "ALEX",
+        "text": "What's his name?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I don't know -- Campbell or something?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69296",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "All right, just a few questions."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "I'd like to ask you about your hobbies."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69297",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Do a little freebasemaybe, from time to time?"
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Or maybe just phone out for a pizza?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69298",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Turning very briefly to the subject of corporate finance -- no, this is important. Leveraged buy-outs -- a good thing or a bad thing?"
+      },
+      {
+        "speaker": "ALEX",
+        "text": "With which of the following figures do you most closely identify: Joan of Arc, Eva Braun or Marilyn Monroe?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69299",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "ALEX",
+        "text": "Squash is often used as a metaphor to represent a struggle for personal domination."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Serve."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "I was trying to educate you."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Just serve."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "In the same fashion as chess."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "What?"
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Chess. Chess is often used as well."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Will you shut up and play."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "You're a bad loser."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I haven't lost yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69300",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "ALEX",
+        "text": "I don't want to devalue your victory, but I just want you to know: I wasn't trying to win."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Victory is the same as defeat. It's giving in to destructive competitive urges."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "You learn that in your psychotherapy group?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Discussion group, Alex, discussion."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69301",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "ALEX",
+        "text": "What do you think?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "About what?"
+      },
+      {
+        "speaker": "ALEX",
+        "text": "About this guy, this Hugo person."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I don't have time."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "I'm only asking what you think."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I don't have time to discuss it now. I don't care so long as he's not a freak."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69302",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "He made it clear."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Why, thank you, David."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69303",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Only on expenses."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "It's true. A newspaper is paying for all this. A newspaper..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69304",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "ALEX",
+        "text": "No, she's not in. Without waiting for any more, he replaces the reciever and walks to the door, where he picks up the mail. On his way back from the door, David emerges, ready to go to work."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Have you seen him?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Alex, I don't have the time --"
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Yes or no, yes or no, yes or --"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69305",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "I saw my grandmother, of course, but I don't suppose that counts. I mean, she was alive at the time."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Can I show you something?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69306",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "No."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Think about it."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "No."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Come on, David."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "No."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Juliet?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69307",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "You mean immoral."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "I'm only asking you both to think about it."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "It's asick idea, Alex. It's sick."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "But don't tell me that you're not tempted by it. Don't tell me that you're not interested. I know you well enough."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "You think so?"
+      },
+      {
+        "speaker": "ALEX",
+        "text": "All right, then, go ahead, telephone. Telephone the police. Try again. No one's going to stand in your way. Go ahead. Tell them there's a suitcase of money and you don't want it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69308",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "He's still here."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "He couldn't get his car started."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "When are you going to let the police know?"
+      },
+      {
+        "speaker": "ALEX",
+        "text": "You call them if you want."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "And what about you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69309",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "ALEX",
+        "text": "Now what else? DAVID I don't know."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "A spade, we need a spade -- I wish you would concentrate -- we need a spade if we're going to dig a pit."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "So who's going to do it?"
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Dig the pit, I don't know."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "No, not that."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Then what? Who's going to do what?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "You know what I'm talking about."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Do I? What? What? What are you talking about?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "You know what. Who's going to do it."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "We all are, David, we're all going to do it. Each of us, you, me and Juliet, will do his or her bit. Is that fair enough?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I can't do it."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "I don't hear this."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I won't be able to."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "You're telling me you want out? Already? You're telling me you don't want the money? Hugo is going off. He smells. The flat smells. We can't wait any longer."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I'm just telling you I can't cut him up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69310",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "ALEX",
+        "text": "Family? Family? Friends? Drugged-up wandering suicidal search of the self fuck-ups don't have families, David."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I just thought we should discuss it."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Take his legs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69311",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "Look, if I draw the short straw, then I'll do it, but I'm not going to do it just because you won't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_69312",
+    "movie_id": "m512",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Finished."
+      },
+      {
+        "speaker": "ALEX",
+        "text": "But not quite."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Is that going to be deep enough?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1922 @@
+[
+  {
+    "conversation_id": "conv_47413",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Morning!"
+      },
+      {
+        "speaker": "ED",
+        "text": "Erin?  What are you --"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "You know what, Mr. Potter?  I completely forgot your birthday this year.  And seeing as how you've been so good to me, I think that is a terrible oversight.  So what I been doing over the last few days is I've been putting together a present for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47414",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "Ho - ly - shit."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Oh, now don't get all jealous, Ed.  I got a little something for you, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47415",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "I don't know what to say."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Say you were wrong."
+      },
+      {
+        "speaker": "ED",
+        "text": "I was wrong."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Say you shortchanged me and you shortchanged yourself."
+      },
+      {
+        "speaker": "ED",
+        "text": "I did.  Both."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Say you'd be the luckiest son of a bitch on Earth if I didn't up and quit over all this."
+      },
+      {
+        "speaker": "ED",
+        "text": "The luckiest son of a bitch in the universe, Erin.  The luckiest son of a bitch in history."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47416",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ED",
+        "text": "But I know you're not gonna quit on me."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "How do you know that?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Cause you got a little voice in your head saying, do the right thing.  Give him another chance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47417",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Careful you don't spit from here; you could kill someone."
+      },
+      {
+        "speaker": "ED",
+        "text": "You see your office?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Yeah.  Yours is nicer."
+      },
+      {
+        "speaker": "ED",
+        "text": "Oh, okay.  Here it comes."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Here what comes?"
+      },
+      {
+        "speaker": "ED",
+        "text": "The extortion, the threats ..."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I wasn't gonna --"
+      },
+      {
+        "speaker": "ED",
+        "text": "\"I can always find someplace else to work. Someplace that'll pay me a fortune and give me a view of the French Riviera ...\""
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Ed, I swear, I'm not --"
+      },
+      {
+        "speaker": "ED",
+        "text": "Okay, fine.  <u>Fine</u>  You backed me into a corner again.  You're holding me hostage ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47418",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "What is that?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Take it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47419",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Two million dollars?"
+      },
+      {
+        "speaker": "ED",
+        "text": "The firm took in sixty.  That's three percent.  Seemed like a fair bonus to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47420",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "POTTER",
+        "text": "When'd they file the demur?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Yesterday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47421",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "POTTER",
+        "text": "How many counts?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Sixty-nine.  We've got good answers to all of 'em."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47422",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "POTTER",
+        "text": "Who's the judge?"
+      },
+      {
+        "speaker": "ED",
+        "text": "Corey."
+      },
+      {
+        "speaker": "POTTER",
+        "text": "Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47423",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "POTTER",
+        "text": "I've also been thinking about the team. Responsibilities, who should cover what --"
+      },
+      {
+        "speaker": "ED",
+        "text": "Right."
+      },
+      {
+        "speaker": "POTTER",
+        "text": "I think we should makes some changes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47424",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "EMBRY",
+        "text": "I was working in the compressor, and out of nowhere the supervisor calls me up to the office and says, we're gonna give you a shredder machine, and send you on down to the warehouse.  We want you to get rid of all the documents stored out there."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Did he say why?"
+      },
+      {
+        "speaker": "EMBRY",
+        "text": "Nope.  And I didn't ask."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Did you get a look at the stuff you destroyed?"
+      },
+      {
+        "speaker": "EMBRY",
+        "text": "Well, it's pretty boring work, shredding -- you gotta find some way to entertain your mind.  So yeah, I took a look."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "And ...?"
+      },
+      {
+        "speaker": "EMBRY",
+        "text": "There was a lot of dull stuff -- vacation schedules, the like.  But then there were a few memos about the holding ponds.  The water in them.  They had readings from test wells, stuff like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47425",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "And you were told to destroy those?"
+      },
+      {
+        "speaker": "EMBRY",
+        "text": "That's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47426",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "EMBRY",
+        "text": "Course as it turns out, I'm not a very good employee."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "EMBRY",
+        "text": "Well.  There were a few documents that I somehow didn't get around to shredding.  That I kept instead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47427",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "How come you didn't say anything when you found these things?"
+      },
+      {
+        "speaker": "EMBRY",
+        "text": "At the time, I thought, I got six kids, some of 'em want to go to college.  I can't afford to lose my job.  I told myself I was being honorable.  But there's nothing honorable in what I did.  Maybe that's why they picked me for the job. Maybe they knew what kind of man I was."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47428",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ROSS",
+        "text": "Oh, hey -- lemme give you a hand there."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Thank you very much.  Aren't you a gentleman?  Mr. ..."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Ross."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Ross.  Real pleased to meet you.  I'm Erin."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47429",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ROSS",
+        "text": "Erin.  Cool.  What can I do for you, Erin?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Well, believe it or not, I am on the prowl for some water records."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "You come to the right place."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I guess I did."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "You just tell me what you want to look at and I'll be glad to dig 'em out for you."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I wish I knew.  It's for my boss.  He's fighting his water bill, and he wants me to find all manner of bills from all kinds of places.  The easiest thing would probably be if I just squeezed back there with you and poked around myself.  Would that be okay?"
+      },
+      {
+        "speaker": "ROSS",
+        "text": "Heck, yeah.  Come on back.  Just gonna need you to sign in here --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47430",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ROSS",
+        "text": "Pattee?  That your middle name?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Nope.  Maiden."
+      },
+      {
+        "speaker": "ROSS",
+        "text": "You're married."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Not anymore."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47431",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ROSS",
+        "text": "You know what, Erin?  I got nothing but time here.  Why don't you let me do that for you, and you can get your kids some dinner."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Ross -- you are an absolute angel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47432",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Hey, Ross.  Tell me something.  Does PG&E pay you to cover their ass, or do you just do it out of the kindness of your heart?"
+      },
+      {
+        "speaker": "ROSS",
+        "text": "I don't know what you're talking about."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "The fuck you don't.  No one calls me Pattee. That heavy-breathing sicko that called the other night could've only found out about me from you.  People are dying, Ross.  You got document after document here, right under your nose, that says why, and you haven't said word one about it.  I wanna know how the hell you sleep at night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47433",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "FRANKEL",
+        "text": "What kind of chromium is it?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "There's more than one kind?"
+      },
+      {
+        "speaker": "FRANKEL",
+        "text": "Yes.  There's straight-up chromium -- does all kinds of good things for the body. There's chrom 3, which is fairly benign, and then there's chrom 6, hexavalent chromium, which, depending on the amounts, can be very harmful."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Harmful, like -- how?  What would you get?"
+      },
+      {
+        "speaker": "FRANKEL",
+        "text": "With repeated exposure to toxic levels -- God, anything, really -- respiratory disease, liver failure, heart failure, reproductive failure, chronic headaches, bone or organ deterioration -- plus, of course, any type of cancer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47434",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "So that stuff -- it kills people."
+      },
+      {
+        "speaker": "FRANKEL",
+        "text": "Oh, yeah.  Definitely.  Highly toxic, highly carcinogenic.  Bad, bad stuff."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Well, how do I find out what kind of chromium is up in Hinkley?"
+      },
+      {
+        "speaker": "FRANKEL",
+        "text": "Have you been to the water board?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Hunh-uh.  What's that?"
+      },
+      {
+        "speaker": "FRANKEL",
+        "text": "Every county has one.  They keep records of anything water-related within their jurisdiction.  You should be able to find something there."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "County water board.  All righty, thanks."
+      },
+      {
+        "speaker": "FRANKEL",
+        "text": "Good luck.  Oh -- I wouldn't advertise what you're looking for if I were you ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47435",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Put your napkins in your laps and eat up."
+      },
+      {
+        "speaker": "KATIE",
+        "text": "How come you're not eating?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47436",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "KATIE",
+        "text": "Mommy, can I get a flower?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Sweetheart, you can get a whole big bunch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47437",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "KATIE",
+        "text": "I hate it too.  I hate this trip."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Oh, come on, where's your sense of adventure?  We're going someplace you never been before."
+      },
+      {
+        "speaker": "KATIE",
+        "text": "I'm gonna hate it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47438",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "KATIE",
+        "text": "Yeah.  A real moron."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Some kind of half-wit, no-good, big-haired, bimbo, I bet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47439",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Look, I know you're mad.  But the way this job is, things come up at the last minute, real important things, and I gotta deal with them.  Now I don't like me missing dinner any more than you do, but we're all gonna have to get used to it, cause the fact is, it's gonna happen sometimes."
+      },
+      {
+        "speaker": "KATIE",
+        "text": "It happens all the time."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "That's not true; we had dinner together just last night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47440",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "What are you <u>doing</u>?  Where's George?"
+      },
+      {
+        "speaker": "KATIE",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "George!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47441",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ROSALIND",
+        "text": "Masry & Vititoe, can I help you?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Hi, Rosalind, this is Erin.  Brockovich. From the file room?  I was wondering if you could tell Mr. Masry that I'm following up on that real estate thing out of the office."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47442",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ROSALIND",
+        "text": "You've been reading for hours."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I'm a slow reader, on account of the fact that I look at the word \"dog\" and see \"god\"."
+      },
+      {
+        "speaker": "ROSALIND",
+        "text": "Hey, just so long as you see Him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47443",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ROSALIND",
+        "text": "Hey, Erin, I thought you were taking a sick day."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "So did I."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47444",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "What's going on in there?"
+      },
+      {
+        "speaker": "ROSALIND",
+        "text": "Some meeting.  With PG&E people."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "PG& -- Are you sure?"
+      },
+      {
+        "speaker": "ROSALIND",
+        "text": "Yup.  They must be important, too, cause they came on a special plane."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47445",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Hey, Ros, where are they?"
+      },
+      {
+        "speaker": "ROSALIND",
+        "text": "In the conference --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47446",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Hey, Ros.  Nice view, huh?"
+      },
+      {
+        "speaker": "ROSALIND",
+        "text": "Yeah, I'm gonna start sleeping here.  Masry & Vititoe, can I -- damn it.  Does anyone know anything about these phones?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47447",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "There's no way a son of mine hates Funky Town.  It's impossible."
+      },
+      {
+        "speaker": "MATTHEW",
+        "text": "Well I hate it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47448",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MATTHEW",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Thank God we got you away from her, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47449",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MATTHEW",
+        "text": "Can I play roller hockey?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "We'll see."
+      },
+      {
+        "speaker": "MATTHEW",
+        "text": "When?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47450",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MATTHEW",
+        "text": "Randy's mom said yes right away."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Well, God damn it, Matthew -- Randy's mom doesn't work eighteen-hour days, and Randy's dad didn't leave her, so figuring out who's gonna take who where is a little easier over at Randy's house."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47451",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "God damn it, Matthew.  What the hell are you doing out here?"
+      },
+      {
+        "speaker": "MATTHEW",
+        "text": "I'm gonna go live with George."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47452",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "We'll work out the roller hockey thing, okay?  Whatever you want, we'll work it out. I promise."
+      },
+      {
+        "speaker": "MATTHEW",
+        "text": "You always say that.  Then you go to work and forget you promised."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I never forget, honey.  I try, real hard. It's just, for some reason, I don't seem to be able to organize things right and -- when it comes to you guys, I end up falling short."
+      },
+      {
+        "speaker": "MATTHEW",
+        "text": "You never fall short for the work people.  I guess maybe you just love them more."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Oh, God, sweetheart, no.  There's nothing on Earth I love more than you.  Nothing.  I promise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47453",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MATTHEW",
+        "text": "She's one of the sick people?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Yeah.  She is.  But you know what?  That's why I'm helping her.  So she can get some medicine to make her feel better."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47454",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MATTHEW",
+        "text": "How come her own mom isn't helping her?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Cause her own mom's real sick, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47455",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Hey -- those are my files --"
+      },
+      {
+        "speaker": "THERESA",
+        "text": "Yeah, we had them couriered over.  And listen, good work.  They're a great start. We're just going to have to spend a little time filling in the holes in your research."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47456",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Excuse me -- Theresa, was it?  There are no holes in my research."
+      },
+      {
+        "speaker": "THERESA",
+        "text": "No offense.  There are just some things we need that you probably didn't know to ask."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Don't talk to me like I'm an idiot, okay?  I may not have a law degree, but I've spent 18 months on this case, and I know more about those plaintiffs than you ever will."
+      },
+      {
+        "speaker": "THERESA",
+        "text": "Erin.  You don't even have phone numbers for some of them."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Whose number do you need?"
+      },
+      {
+        "speaker": "THERESA",
+        "text": "Everyone's.  This is a lawsuit.  We need to be able to contact the plaintiffs."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I said, <u>whose number do you need</u>?"
+      },
+      {
+        "speaker": "THERESA",
+        "text": "You don't know six hundreds plaintiffs' numbers by heart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47457",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "THERESA",
+        "text": "Annabelle Daniels."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Annabelle Daniels.  714-454-9346."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47458",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "THERESA",
+        "text": "Okay, look -- I think we got off on the wrong foot here --"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "That's all you got, lady.  Two wrong feet. In fucking ugly shoes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47459",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Well, hello to you, darlin'."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "What the hell do you think you're doing, making all that Goddamn noise?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Just introducing myself to the neighbors."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Well, I'm the neighbors.  There, now we're introduced, so you can shut the fuck up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47460",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Ooh, now, see, if I'da known there was a beautiful woman next door, I'da done this different.  Let's start over.  My name's George.  What's yours?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Just think of me as the person next door who likes it quiet, and we'll get along fine."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Now, don't be like that.  Tell you what. How about if I take you out on a date to apologize for my rudeness?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47461",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "You want my number?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I do."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Which number do you want, George?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You got more than one?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Shit, yeah.  I got numbers coming out of my ears.  Like, for instance, ten."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Ten?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Sure.  That's one of my numbers.  It's how many months old my little girl is."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You got a little girl?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Yeah.  Sexy, huh?  And here's another: five. That's how old my other daughter is.  Seven is my son's age.  Two is how many times I been married and divorced.  You getting all this?  16 is the number of dollars in my bank account.  454-3943 is my phone number. And with all the other numbers I gave you, I'm guessing zero is the number of times you're gonna call it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47462",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "No."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "C'mon.  I bought 'em for you, to make up for that night."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Return 'em.  Maybe you'll get your money back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47463",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "I had a good neighbor, George.  She was 60 and Mexican and she watched my kids for free.  Something tells me you're not gonna be able to measure up to that."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You need help with your kids?  I could probably do that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47464",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "I'm not gonna leave my kids with you."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Cause I don't even know you."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yeah, and whose fault is that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47465",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Yeah.  I'm probably ruining them."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "How?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I'm never here.  I gotta leave 'em with this weird sitter all afternoon who costs a fortune and smells like chicken fat."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I was serious before, you know.  If you need someone to keep an eye on them -- after school or something -- I don't have a job now, so I'm around in the afternoons."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Great.  Another deadbeat."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I'm not a deadbeat.  I work when I need to."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Yeah?  And what do you do the rest of the time, live off your trust fund?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I do construction, which pays real good. And I make it last by living cheap."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I hope that's not supposed to impress me."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Are you this hard on everyone who tries to help you?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "It's been a while.  Maybe I'm just out of practice."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Then lemme remind you, the polite thing is to say, thank you, that's a real nice offer, I don't mind taking you up on it."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Why in the hell would you want to watch my kids?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Cause I like kids.  I like hanging out with them."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47466",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "You're around every afternoon?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yup.  Usually working on my bike.  No big deal.  If it doesn't work out, you can send 'em back to the chicken fat lady."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47467",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "This isn't gonna get you laid, you know."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yeah, we'll just see about that, won't we?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47468",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "What're you doing?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Better safe than sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47469",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "I'm gonna put a dead bolt on your front door, too.  This isn't exactly the safest neighborhood in the world, you know."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Thanks for reminding me."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I guess we get what we pay for, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47470",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "You think it could make you sick, living in a place like this?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What do you mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47471",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Fixing a leak under your sink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47472",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Great."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I'm gonna clean it up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47473",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "What kind of person lives like this?  Huh? What kind of person lets her kids run around in a house crawling with bugs the size of housecats?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "It's a simple thing.  Everybody gets them. All we gotta do is call an exterminator."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I <u>can't</u> call an exterminator.  I can't afford one.  God, I can't even afford my <u>phone</u>.  I got fired."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What?  But you been working so hard --"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Doesn't matter.  Doesn't make one bit of difference.  Oh God, George, how'd this happen to me? How'd I end up so ... so <u>nothing</u>?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47474",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "You're not nothing, Erin."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Well, I'm sure as hell not what I thought I was gonna be.  I was supposed to have one of those great lives, with everything all laid- out and perfect.  I mean, hell -- I was Miss Wichita, for God's sakes.  Did I tell you that?  You live next door to a real live beauty queen.  I still got the tiara.  I kept it cause I thought it meant something.  I thought it meant I was gonna do something great with my life.  I thought it proved I was gonna grow up to be someone."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You are someone."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "No I'm not.  Look at me.  I'm not."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You're someone to me.  You're someone real special to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47475",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "George, I am just trying to do something nice for my kids on my one day off.  Could you please not give me a hard time about it?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "One toy per kid is doing something nice. Four is ... something else."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Well, hell, I guess that's it, then, huh? They're scarred for life.  They're gonna start holding up 7-11's any day now."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I'm just saying --"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I know what you're saying, and I don't wanna hear it.  I am doing the best I can."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47476",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "I'm not gonna quit cause of one creepy phone call, George."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Come on, Erin.  A job's supposed to pay your bills, not put you in danger."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I'm not in danger.  I have a dead bolt. Remember?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47477",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Look, don't take this the wrong way, but don't you think you might be out of your league here?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "No, see -- that's exactly what those arrogant PG&E fucks want me to think -- that because they got all this money and power, we don't stand a chance in hell against them.  But you know what?  They're wrong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47478",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "It doesn't have to be this complicated, Erin.  There's a lot of jobs out there."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "How would you know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47479",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "You mind telling me what that's supposed to mean?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "If you got a problem with me taking care of your kids instead of getting some job, just say so."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I didn't say that."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Cause I can get a job.  I will.  And you can start leaving the kids with the chicken fat lady again.  Would that make you happy?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Keep your voice down."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I know what they can sleep through, Erin.  I probably know it better than you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47480",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "I'm so tired I'm about to drive off the road.  Keep me awake, willya?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What do you want, a joke?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "No, no jokes, I gotta pee.  Just tell me about your day.  What went on back there?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Well, come to think of it, we did have a big event around here.  Beth started talking."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "What?  Beth?  My Beth?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yeah.  We were sitting around at lunch and she pointed at a ball and said, \"ball.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47481",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "I'm bored, and so are the kids."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Just a few more minutes, then we can go.  Take her, will you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47482",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "I'm just saying -- we have one night to ourselves, why do we have to spend it here?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Cause it's my office party.  If you had an office, I'd go to your party."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47483",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "That's Ed."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Lock the door."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "No, I wanna say hi."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47484",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "It wouldn't kill you to talk about something other than yourself and your own fucking job once in a while --"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "What do you want to talk about instead? <u>Your</u> day?  That's a fascinating subject."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47485",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Fuck you.  Just cause I don't spend all day trying to prove what hot shit I am --"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "That is not what I'm --"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Bull<u>shit</u>, Erin.  Bullshit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47486",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "What's going on?  What are you doing?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Thinking."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "About what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47487",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "About this."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "It's a pair of earrings.  I saw 'em in the mall one day, and I thought, damn, those would look good on those beautiful earlobes. So I bought 'em.  And I said to myself, next time Erin says something nice, does something nice, I'll surprise her with 'em.  Know how long ago that was?  Six months.  In six months, you haven't said one nice thing to me.  That's a long time."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I'm sorry.  I'm just working so hard --"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I know.  But still.  Six months.  I think you oughta either find a different job or a different boyfriend.  Cause there may be men who don't mind being the maid and getting nothing in return, but I'm sure as shit not one of 'em."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I can't leave my job, George."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yeah, you can.  You could just quit.  People do it all the time."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I can't.  Look -- this job -- it's the best thing that ever happened to me.  I mean it. For the first time in my life, I got people respecting me.  Up in Hinkley, I walk into a room and everyone shuts up just to hear what I got to say.  I never had that.  Ever. Don't ask me to give it up.  I need it."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "More than you need me."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I need it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47488",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "You already packed up your stuff?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I pretty much knew what your answer was gonna be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47489",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "They said that'd be tomorrow.  They just wanna keep an eye on me another night."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Fine.  I'll drop 'em off tomorrow afternoon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47490",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Mm-hm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47491",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Hi.  It's me.  I got a favor to ask you."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I don't do favors for you anymore."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "It's not for me; it's for my kids.  You're the only one I trust them with."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47492",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "They up?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Hunh-uh.  Not yet.  Look, don't take any of 'em on your bike, okay?  Call a cab if you wanna go somewhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47493",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "How long's this whole thing gonna take?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I don't know.  Few days.  Thanks for helping me.  I appreciate it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47494",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "And I miss you."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yeah, well -- good help is hard to find."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47495",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Think you could learn?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "You know me.  I pick things up real fast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47496",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "You shouldn't be driving around, you know. You're sick."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Yeah, but I'm gonna get better.  A lot of these folks aren't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47497",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "What time is it?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Real early.  We're just gonna take your car to get some breakfast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47498",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "No, I need my car --"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "We'll just be a minute.  Get a little more sleep."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47499",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Promise you'll turn around if you get tired."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I will.  Bye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47500",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "I'm embarrassed."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "That's okay.  I understand."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "It's just -- the pain.  It's only getting worse.  I can't be a good wife.  I can't be a good mother."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I'm real sorry, Laura."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47501",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "LAURA",
+        "text": "Know what I always thought I wanted outta life, Erin?  A Jaguar."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Jaguar's a darn pretty car."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "I thought if I could spend that kinda money on a car, it'd mean everything else was fine.  I don't even know how much they cost."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "A lot.  But you hang in there, maybe you'll get one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47502",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "I mean, it's not a problem or anything, but -- I'm just a little unclear on what those things are.  I thought maybe you'd know."
+      },
+      {
+        "speaker": "JANE",
+        "text": "What do I look like, Erin?  A library?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47503",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Someone stole my stuff."
+      },
+      {
+        "speaker": "JANE",
+        "text": "Nice to see you, Erin.  We've missed you."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I had photos of my kids, plus a mug --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47504",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "JANE",
+        "text": "-- toothbrush, toothpaste, and a pair of hose.  Here."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "There may be jobs where you can disappear for days at a time, but this isn't one of them.  Here, if you don't do the work, you don't get to stay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47505",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "What am I supposed to do, check in every two seconds?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "Yes.  It's called accountability."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I am not talking to you, bitch."
+      },
+      {
+        "speaker": "JANE",
+        "text": "<u>Excuse me</u>?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47506",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Where's my paycheck?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "Have you been logging on?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "What?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "I moved payroll onto the computer.  It only knows to process paychecks for employees who log on in the morning and off at night."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Now how'm I supposed to do that when I'm not in here most mornings and nights?"
+      },
+      {
+        "speaker": "JANE",
+        "text": "You're clever.  I'm sure you'll think of something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47507",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MANDY",
+        "text": "Excuse me, are you Erin Brockovich?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Yeah.  Who are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47508",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MANDY",
+        "text": "When Donna told us about you, and what you told her about the chromium, we figured that might have something to do with this, too."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "It sure could, yeah.  Thanks a lot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47509",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MANDY",
+        "text": "There's something else, too."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47510",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MANDY",
+        "text": "I know.  It's an awful lot."
+      },
+      {
+        "speaker": "ERIN",
+        "text": "I'm surprised Donna didn't say anything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47511",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "MANDY",
+        "text": "You know that thing it says in here about rashes?"
+      },
+      {
+        "speaker": "ERIN",
+        "text": "Uh-huh?"
+      },
+      {
+        "speaker": "MANDY",
+        "text": "Well, this old neighbor of mine, Bob Linwood -- he ran the dairy on Community -- seemed like someone in his family always had a rash somewhere or other.  I just figured it was something in the genes.  And you know how it is -- you don't like to ask about things like that ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47512",
+    "movie_id": "m336",
+    "turns": [
+      {
+        "speaker": "ERIN",
+        "text": "Hi, sweetie.  Were you a good girl?  Where are Matt and Katie?"
+      },
+      {
+        "speaker": "MRS. MORALES",
+        "text": "Outside with the sprinkler.  So it's good?"
+      }
+    ]
+  }
+]

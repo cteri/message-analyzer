@@ -1,0 +1,2034 @@
+[
+  {
+    "conversation_id": "conv_67713",
+    "movie_id": "m499",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Hi."
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "Hi."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67714",
+    "movie_id": "m499",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "You look good."
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "You look good yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67715",
+    "movie_id": "m499",
+    "turns": [
+      {
+        "speaker": "VICTORIA",
+        "text": "I thought you were never going to call me."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You did?"
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "I really wanted you to call me, and I thought you were never going to --"
+      },
+      {
+        "speaker": "SAM",
+        "text": "You could have called me --"
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "No way.  No way I was going to be the first woman you went out with after...  There is no percentage whatsoever in being the first woman anyone goes out with after..."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You <u>are</u> the first woman I'm going out with."
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "Oh."
+      },
+      {
+        "speaker": "SAM",
+        "text": "So whatdya say? I'll get the check, and I'll call you in eight months."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67716",
+    "movie_id": "m499",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "We can't finish the job.  She's on her sixth painter, now she's thinking maybe she wants the fireplace rebricked --"
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "I know her pretty well.  Maybe I could call her --"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I've already solved it.  I've hired a hit man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67717",
+    "movie_id": "m499",
+    "turns": [
+      {
+        "speaker": "VICTORIA",
+        "text": "Is he there?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "No.  After he was born, every time we started to make love, he would cry.  He had an uncanny sense of timing.  We really shouldn't do anything here anyway."
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "Absolutely.  Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67718",
+    "movie_id": "m499",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "He's ten."
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "He's good at it."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I read an article about this ..."
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "I read the same article..."
+      },
+      {
+        "speaker": "SAM",
+        "text": "It takes time --"
+      },
+      {
+        "speaker": "VICTORIA",
+        "text": "Absolutely.  When I come back, maybe the two of us should spend some time together, on our own.  What do you think?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Sure.  Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67719",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "I told you it would happen. It's bound to happen when a man works alone!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Why didn't you give a warning signal?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Your foreman says that's a foreman's job."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67720",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Want to go up to your office, Mr. Alexander?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Naturally. You think I parked here for a cup of coffee?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You're welcome to one."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No thanks."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "The men would like to know who this gentleman is."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "That's none of their affair."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67721",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "I mean it. I know your work record. You were in line for foreman when this trouble started -- did you know that? You had a real future with this company, but you let those Reds stir you up. And now they'll sell you down the river. Why don't you wake up, Ray?  That's your name, isn't it, Ray?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "No. My name is Quintero. Mister Quintero."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67722",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Are you going to let us pass -- or do I have to call the Sheriff?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "There's nothing stopping you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67723",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "SHERIFF",
+        "text": "Mornin'."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "How's it going?"
+      },
+      {
+        "speaker": "SHERIFF",
+        "text": "Well, those new fellows you hired from out of town -- we brought 'em up here in a truck this morning, but they took one look at that picket line and turned tail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67724",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "SHERIFF",
+        "text": "Not so sure about that. Letter of the Law, you know. All the injunction says is no picketing by miners."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Whose side are you on anyway?"
+      },
+      {
+        "speaker": "SHERIFF",
+        "text": "Now don't get excited, Mr. Alexander. They'll scatter like a covey of quail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67725",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Well?"
+      },
+      {
+        "speaker": "SHERIFF",
+        "text": "I've tried everything but shootin' 'em down."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You haven't tried locking them up!"
+      },
+      {
+        "speaker": "SHERIFF",
+        "text": "You want 'em all arrested?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No, just the ring leaders. The fire-eaters. And the ones with big families ...  Barton -- where's that boy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67726",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "SHERIFF",
+        "text": "Got any more ideas?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I don't make policy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67727",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ANTONIO",
+        "text": "Take a drink. Calm down!"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "I say we gotta take action. Now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67728",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Now why don't you let these gentlemen pass? Don't you know who's in that car?"
+      },
+      {
+        "speaker": "ANTONIO",
+        "text": "It's the paymaster from Moscow -- with our gold."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "No, no, it's the president of the company himself -- come all the way out here to make Jenkins general manager. So why you acting so mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67729",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ANTONIO",
+        "text": "Jenkins ain't no boss.  Mean we're gonna let people like Jenkins stay here?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You can't send him back to Oklahoma. It'd be inhumane."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67730",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ANTONIO",
+        "text": "How goes it?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "It never ends."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67731",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Three hours! Just to heat enough water to wash this stuff!  I tell you something. If this strike is ever settled -- which I doubt -- I don't go back to work unless the company installs hot running water for us.  It should've been a union demand from the beginning."
+      },
+      {
+        "speaker": "ANTONIO",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67732",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ANTONIO",
+        "text": "It's like Charley Vidal says -- there's two kinds of slavery, wage slavery and domestic slavery. The Woman Question, he calls it."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "The woman question?"
+      },
+      {
+        "speaker": "ANTONIO",
+        "text": "Question, question -- the problem, what to do about 'em."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "So? What does he want to do about 'em?"
+      },
+      {
+        "speaker": "ANTONIO",
+        "text": "He says give 'em equality. Equality in jobs, equality in the home. Also sex equality."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "What do you mean -- sex equality?"
+      },
+      {
+        "speaker": "ANTONIO",
+        "text": "You know ...  What's good for the goose is good for the gander."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67733",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "BARTON",
+        "text": "Hear you had a little trouble, Quintero. Defective fuse?  Well, you're all in one piece. So what's the beef?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You know the beef. This new rule of yours, that we work alone. We're taking it up with the Super."
+      },
+      {
+        "speaker": "BARTON",
+        "text": "Super's busy -- with your Negotiatin' Committee."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "So much the better."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67734",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "BARTON",
+        "text": "Now wait a minute. Super's the one made the rule. He ain't gonna give you no helper."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "He will if he wants us to go on blasting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67735",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Foreman wants to get the ore out. Miner wants to get his brothers out. In one piece."
+      },
+      {
+        "speaker": "BARTON",
+        "text": "You work alone, savvy? You can't handle the job, I'll find someone who can."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Who? A scab?"
+      },
+      {
+        "speaker": "BARTON",
+        "text": "An American."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67736",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "BARTON",
+        "text": "I checked the drift just before he blasted. It was all clear ... The man must have been asleep or something."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You weren't even there. You were back at the station. Kalinsky told me ..."
+      },
+      {
+        "speaker": "BARTON",
+        "text": "You're a liar, Pancho. A no-good, dirty ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67737",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESTELLA",
+        "text": "Are you sick, Mama?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "No, Estellita."
+      },
+      {
+        "speaker": "ESTELLA",
+        "text": "Are you sad?  Are we going to church? For your confession?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Later. When I finish the ironing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67738",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESTELLA",
+        "text": "Mama, can I put the candles ..."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Hush... not a word about the cake, hear?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67739",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESTELLA",
+        "text": "Why are they singing, Mama?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "They are singing for me."
+      },
+      {
+        "speaker": "ESTELLA",
+        "text": "Can we light the candles now? On the cake?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Yes. We will light the candles."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67740",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "To the mine?"
+      },
+      {
+        "speaker": "TERESA",
+        "text": "Sure. Where they're negotiating. In the company office. We'll go up there and picket the place."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67741",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "TERESA",
+        "text": "Come on, Esperanza -- how about it? We got to."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "No. No. I can't. If Ramón ever found me on a picket line ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67742",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "He can't drink this milk. It'll make him sick. He's on a formula.  I was a fool! I shouldn't have kept him with me."
+      },
+      {
+        "speaker": "TERESA",
+        "text": "Don't you worry. We'll get some action."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67743",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "TERESA",
+        "text": "It's all set. Consuelo's squad can take they day off tomorrow. We're taking over."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Good. Come in, we'll work it out. Sit down, sit down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67744",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "TERESA",
+        "text": "So they had a little taste of what its like to be a woman ... and they run away."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "With Ramón it's ... pride. I spoke out of the bitterness in me. And he was hurt."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67745",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "We're only one payment behind. I argued with her. It isn't right."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "It isn't right, she says. Was it right that we bought this ... this instrument?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67746",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "But you had to have it, didn't you? It was so nice to listen"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "I listen to it. Every night. When you're out to the beer parlor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67747",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "Where you going?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Got to talk to the brothers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67748",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "This water's cold again."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "I'm sorry. The fire's gone out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67749",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Forget it."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Forget it? I chop wood for the stove five times a day. Every time I remember. I remember that across the tracks the Anglo miners have hot water in pipes. And bathrooms. Inside."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Do you think I like living this way? What do you want of me?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67750",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "We did. It got lost in the shuffle."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "What?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "We can't get everything at once. Right now we've got more important demands."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "What's more important than sanitation?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "The safety of the men -- that's more important! Five accidents this week -- all because of speed-up. You're a woman, you don't know what it's like up there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67751",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "First we got to get equality on the job. Then we'll work on these other things. Leave it to the men."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "I see. The men. You'll strike, maybe, for your demands -- but what the wives want, that comes later, always later."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Now don't start talking against the union again."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "What has it got me, your union?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67752",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Esperanza, have you forgotten what it was like before the union came?  When Estella was a baby, and we couldn't even afford a doctor when she got sick? It was for our families! We met in graveyards to build that union!"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "All right. Have your strike. I'll have my baby. But no hospital will take me, because I'll be a striker's wife. The store will cut off our credit, and the kids will go hungry. And we'll get behind on the payments again, and then they'll come and take away the radio..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Is that all you care about? That radio? Can't you think of anything except yourself?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "If I think of myself it's because you never think of me. Never. Never. Never..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67753",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Stop it! The children are watching. Stop it!"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Never... never... never!"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Aaah, what's the use?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67754",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "I did not mean to weep again. Why should I weep for joy?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "I'm a fool."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "No, no ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67755",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "Was it expensive, the beer?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Antonio paid for it."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Forgive me ... for saying you never thought of me."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "I did forget. Luís told me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67756",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "What's the matter?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "It's nothing. Just a little catch ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67757",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Mother of God ...have mercy ..."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Have mercy on this child ... let this child live ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67758",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "A fighter, huh?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "He was born fighting. And born hungry."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Drink, drink, Juanito. You'll never have it so good."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "He'll have it good. Some day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67759",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "What were they saying? About you? In there?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "They say I am no good to you."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "You are no good to me -- in jail."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "I'd lie on my cot in the cell and I couldn't sleep with the bugs and the stink and the heat. And I'd say to myself, think of something nice. Something beautiful. And then I'd think of you. And my heart would pound against the cot for love of you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67760",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Not just Juanito. You'll have it good too, Esperanza. We're going to win this strike."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "What makes you so sure?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Because if we lose, we lose more than a strike. We lose the union. And the men know this. And if we win, we win more than a few demands. We win...  ... something bigger. Hope. Hope for our kids. Juanito can't grow strong on milk alone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67761",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "Let them take it!"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Over my dead body."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "I don't want your dead body. I don't want you back in jail either."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "But it's yours. I won't let them ..."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Can't you see they want to start a fight so that they can lock you all up at one time?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67762",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "It's not fair ... I should be there with them. After all, I'm the one who got the women the vote."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "No."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "But the motion passed. It's ... it's not democratic of you to ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "The union don't run my house.  Those Anglo dames stirred you up to make fools of yourselves -- but you don't see any of them down there."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Yes, I do. There's Ruth Barnes."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "She's the organizer's, wife. She's got to be there."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "NO, she wants to be there.  And there's Mrs. Kalinsky."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "There's Jenkins' wife. You don't see her on no picket line."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Anglo husbands can also be backward."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Can be what?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Backward."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67763",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "You all right?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67764",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Must've been some experience for you, huh?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "I guess you got enough today to last a lifetime, huh?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "I'm going back tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67765",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "You might get hurt.  Listen, if you think I'm gonna play nursemaid from now on, you're crazy ... I've had these kids all day!"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "I've had them since the day they were born."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67766",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "I'm telling you. I don't stay home with these kids tomorrow."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Okay. Then, tomorrow, I take the kids with me to the picket line."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67767",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "How do you feel?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "I'm okay. But it's nice to be home."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Four nights. How did you sleep?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "We raised such a fuss they finally brought cots in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67768",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Did you have to sign a pledge? Not to go back to the line?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "No, no ... we wouldn't do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67769",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "But if you go back they'll lock you up again."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "No, no ... the Sheriff had enough of us. We drove him crazy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67770",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "We've got to have a talk, you and me."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "All right, but later. I've got a meeting now."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "A meeting?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Yes. To plan for the picket line tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67771",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "I waited up till midnight."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You weren't waiting for me."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "That meeting only lasted ten minutes.  The first night I'm home, and you run to the beer parlor. What is it? Can't you bear the sight of me?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Be still ..."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "But you wanted to talk. Tell me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67772",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "Tell me."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "We can't go on this way. I just can't go on living with you. Not this way."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "No. We can't can't go on this way. We can't go back to the old way either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67773",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Hunting."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "When?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Sun up."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Alone?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "No."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Ramón -- you can't."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Why not? I'm not needed here."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "But you are needed. Especially now -- with most of the other men away. You're captain of the stand-by squad."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Sure, the standby squad. Stand-by for the funeral."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Whose funeral? We're doing all right. There hasn't been a scab near the picket line for three days."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "And you know why? Because the company knows they can starve us out -- even if it takes another two, three months. What's it to them if the mine's shut down a little longer?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "It's a lot to them. They'd do anything to open that mine."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Aah! They've got other mines. You don't see the larger picture.  They've got millions. Millions. They can outlast us, and they know it."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "You mean you're ready to give up?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Who said anything about giving up? I'll never go back to the company on my knees. Never."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67774",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "Ramón were not getting weaker. We're stronger than ever before.  They're getting weaker. They thought they could break our picket line. And they failed. And now they can't win unless they pull off something big, and pull it off fast."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "I don't know. But I can feel it coming. It's like ... like a lull before the storm. Charley Vidal says ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Charley Vidal says!  Don't throw Charley Vidal up to me!"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Charley's my friend. I need friends.  Why are you afraid to have me as your friend?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "I don't know what you're talking about."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "No, you don't. Have you learned nothing from this strike? Why are you afraid to have me at your side? Do you still think you can have dignity only if I have none?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You talk of dignity? After what you've been doing?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "Yes. I talk of dignity. The Anglo bosses look down on you, and you hate them for it. \"Stay in your place, you dirty Mexican\" -- that's what they tell you. But why must you say to me, \"Stay in your place.\" Do you feel better having someone lower than you?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Shut up, you're talking crazy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67775",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "ESPERANZA",
+        "text": "Whose neck shall I stand on, to make me feel superior? And what will I get out of it? I don't want anything lower than I am. I'm low enough already. I want to rise. And push everything up with me as I go ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Will you be still?"
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "And if you can't understand this you're a fool -- because you can't win this strike without me! You can't win anything without me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67776",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "This is what we've been waiting for."
+      },
+      {
+        "speaker": "ESPERANZA",
+        "text": "What are you saying?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "This means they've given up trying to break the picket line.  Now we can all fight together -- all of us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67777",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RUTH",
+        "text": "Why didn't you support her? You're the worst of the lot."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "But honey ..."
+      },
+      {
+        "speaker": "RUTH",
+        "text": "Or why don't you just put a sign outside? \"No dogs or women allowed!\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67778",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "We can't think of them just as housewives -- but as allies. And we've got to treat them as such."
+      },
+      {
+        "speaker": "RUTH",
+        "text": "Look who's talking! The Great White Father, and World's Champion of Women's Rights."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Aw, cut it out, Ruth."
+      },
+      {
+        "speaker": "RUTH",
+        "text": "Me, I'm a camp follower -- following this organizer from one mining camp to another -- Montana, Colorado, Idaho. But did he ever think to organize the women? No. Wives don't count in the Anglo locals either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67779",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Don't horse me. Price of zinc's never been higher. They don't want no strike -- not with their war boom on."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Then why's the company hanging tough? They've signed contracts with other locals -- why not this one?"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Because most of us here are Mexican- Americans! Because we want equality with Anglo miners -- the same pay, the same conditions."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Exactly. And equality's the one thing the bosses can't afford. The biggest club they have over the Anglo locals is, \"Well -- at least you get more than the Mexicans.\""
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Okay, so discrimination hurts the Anglo too, but it hurts me more. And I've had enough of it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67780",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Hear those deputies slugged 'Cente."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Yeah. Lots of provocation lately. They figure if they can lock up the leadership on some phony riot charge, maybe they can bust the strike."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67781",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Go on. Spill it."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Well, you're the organizer. You work out strike strategy -- and most of the time you're dead right. But when you figure everything the rank-and-file's to do down to the last detail, you don't give us anything to think about. You afraid we're too lazy to take initiative?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You know I don't think that."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Maybe not. But there's another thing ... like when you came in tonight --  I heard you ask your wife, \"Who's that? His grandfather?\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67782",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "HARTWELL",
+        "text": "That's all right -- it's no secret. My name's Hartwell. I'm from the company's Eastern office."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You mean Delaware?"
+      },
+      {
+        "speaker": "HARTWELL",
+        "text": "No. New York."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "New York? You're not the Company President by any chance?"
+      },
+      {
+        "speaker": "HARTWELL",
+        "text": "No ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Too bad. The men've always wanted to get a look at the President.  But you've come out here to settle the strike?"
+      },
+      {
+        "speaker": "HARTWELL",
+        "text": "Well, if that's possible ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "It's possible. Just negotiate."
+      },
+      {
+        "speaker": "HARTWELL",
+        "text": "Are we talking to a union spokesman?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67783",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "What are you doing here?  Something wrong with Mama?"
+      },
+      {
+        "speaker": "LUIS",
+        "text": "I thought maybe you forgot..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Forgot what?"
+      },
+      {
+        "speaker": "LUIS",
+        "text": "It's Mama's Saint's Day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67784",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Luís! Come down here!"
+      },
+      {
+        "speaker": "LUIS",
+        "text": "Papa! We seen 'em! Two scabs! Over there!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67785",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "RAMÓN",
+        "text": "Where's your mama?"
+      },
+      {
+        "speaker": "LUIS",
+        "text": "She's coming. Charley Vidal gave her a lift."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67786",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "LUIS",
+        "text": "Boy! Did you see the way Mama whopped that deputy with her shoe? Knocked the gun right out ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "I don't want you hanging around there, hear?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67787",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "LUIS",
+        "text": "Papa, can't I leave now? There's a meeting of the Junior Shop Stewards ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "The what!"
+      },
+      {
+        "speaker": "LUIS",
+        "text": "The Junior Shop Stewards. There's lots of ways we can help."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Don't I have enough troubles without them shipping you off to reform school?"
+      },
+      {
+        "speaker": "LUIS",
+        "text": "But Papa -- you need all the help you can get."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You've got to help around the house!"
+      },
+      {
+        "speaker": "LUIS",
+        "text": "But you've got me doing everything. Mama never used to make me dry the ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You should have helped her without being asked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67788",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Ramón ... listen for the love of God ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You ... You ... I'd expect it of an Anglo, yes ... but you ..."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Ramón ... listen to me ... I'm in a\tjam ... I had to get a job ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You Judas ... blood-sucker ..."
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "Ramón -- listen my kids ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Tú! Traidor a tu gente! Rompehuelga! Desgraciado!"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "My kids don't have enough to eat!"
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You think my kids have enough to eat, you rat?"
+      },
+      {
+        "speaker": "SEBASTIAN",
+        "text": "I know, it's wrong. Just let me go. I'll leave town ... just let me go."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "You think I was going to work you over? I wouldn't dirty my hands with you ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67789",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "SAL",
+        "text": "But you don't pull a strike when the bosses want it -- so they can smash your union. You wait till you're ready, so you can win."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Do the bosses wait? No sanitation. So my kids get sick. Does the company doctor wait? Twenty bucks. So we miss one payment on the radio I bought for my wife. Does the company store wait? \"Pay -- or we take it away.\" Why they in such a hurry, the bosses' store? They're trying to scare us, that's why -- to make us afraid to move. To hang on to what we got -- and like it! Well, I don't like it I'm not scared ... and I'm fed up -- to here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67790",
+    "movie_id": "m500",
+    "turns": [
+      {
+        "speaker": "SAL",
+        "text": "And another thing. Your attitude toward Anglos. If you're gonna be a leader ..."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "What attitude?"
+      },
+      {
+        "speaker": "SAL",
+        "text": "You lump them all together -- Anglo workers and Anglo bosses."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "He's a guest in my house, isn't he?"
+      },
+      {
+        "speaker": "SAL",
+        "text": "Sure. But you want the truth? You're even suspicious of him."
+      },
+      {
+        "speaker": "RAMÓN",
+        "text": "Maybe. I think he's got a few things to learn about our people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67791",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "BO",
+        "text": "What you want to do is go back the way you came and make a left at the bottom. It'll take you right to the highway."
+      },
+      {
+        "speaker": "DANNY/TOM",
+        "text": "That's it?"
+      },
+      {
+        "speaker": "BO",
+        "text": "Are you Australian?"
+      },
+      {
+        "speaker": "DANNY/TOM",
+        "text": "No."
+      },
+      {
+        "speaker": "BO",
+        "text": "Good. I fucking hate Australians."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67792",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "DANNY/TOM",
+        "text": "You got a bathroom I can use before we hit the road?"
+      },
+      {
+        "speaker": "BO",
+        "text": "Yeah? First door on the right. It ain't that dirty.  Just kinda' filthy is all."
+      },
+      {
+        "speaker": "DANNY/TOM",
+        "text": "You mind?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67793",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "BO",
+        "text": "No, I don't mind.  That's how come I told you about it."
+      },
+      {
+        "speaker": "DANNY/TOM",
+        "text": "I was talking to my wife."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67794",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "JIMMY",
+        "text": "Bobby?"
+      },
+      {
+        "speaker": "BOBBY",
+        "text": "Shhh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67795",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "JIMMY",
+        "text": "What?"
+      },
+      {
+        "speaker": "BOBBY",
+        "text": "The spiders."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67796",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "BOBBY",
+        "text": "Jimmy, Jimmy, Jimmy, Jimmy. Rhymes with Simmy."
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "BOBBY",
+        "text": "What can I do for you?"
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Um, coupla' eight balls oughta do us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67797",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "BOBBY",
+        "text": "What?"
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Come on.  Ease off the girl."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67798",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "JIMMY",
+        "text": "Fuck man. Come on, Bobby."
+      },
+      {
+        "speaker": "BOBBY",
+        "text": "Bobby, Bobby, Bobby.  Rhymes with ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67799",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "All I saw was the headlights. The high beams were on."
+      },
+      {
+        "speaker": "BOOKMAN",
+        "text": "Not even a guess?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67800",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "Yeah, but he was in silhouette."
+      },
+      {
+        "speaker": "BOOKMAN",
+        "text": "How about in the house?"
+      },
+      {
+        "speaker": "DANNY",
+        "text": "They were wearing ski masks. I told you all of this."
+      },
+      {
+        "speaker": "BOOKMAN",
+        "text": "Did you see his hair color?"
+      },
+      {
+        "speaker": "DANNY",
+        "text": "No, Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67801",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "BOOKMAN",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Nothing, I'm trying to remember..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67802",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "Ride 'em cowboy)"
+      },
+      {
+        "speaker": "BUBBA",
+        "text": "You like that?"
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Who wouldn't?"
+      },
+      {
+        "speaker": "BUBBA",
+        "text": "First rate, ain't it?"
+      },
+      {
+        "speaker": "DANNY",
+        "text": "It's downright classy is what it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67803",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "BUBBA",
+        "text": "I wanna do a small buy first.  Ten thousand.  We'll see how it goes."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Why? The guys is ready to deal now."
+      },
+      {
+        "speaker": "BUBBA",
+        "text": "Because I don't know him and I don't really know you, partner."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Now that's down-right insulting."
+      },
+      {
+        "speaker": "BUBBA",
+        "text": "I'll have to live with that.  My money my risk, my rules."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67804",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "I guess I don't have a hell of a lot of choice."
+      },
+      {
+        "speaker": "BUBBA",
+        "text": "Get used to it.  You're in a very tenuous position on the food chain, hoss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67805",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "BUBBA",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Everything go?"
+      },
+      {
+        "speaker": "BUBBA",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Just make sure you come alone. This guy won't like any surprises"
+      },
+      {
+        "speaker": "BUBBA",
+        "text": "I ain't a idiot, asshole."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "I'll see you tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67806",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "Look...I'd like to help you out ... but I really don't want to get involved."
+      },
+      {
+        "speaker": "COLETTE",
+        "text": "I understand. Thanks anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67807",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "COLETTE",
+        "text": "Jesus, I look like a raccoon."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "I was thinking Alice Cooper."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67808",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "COLETTE",
+        "text": "Oh God."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Come on, cheer up. It could be worse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67809",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "COLETTE",
+        "text": "How?"
+      },
+      {
+        "speaker": "DANNY",
+        "text": "I don't know .... you could be staking your financial future on stealing Bob Hope's stool specimen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67810",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "COLETTE",
+        "text": "What about the guy on the very bottom?"
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Leave me out of this."
+      },
+      {
+        "speaker": "COLETTE",
+        "text": "That bad, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67811",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "COLETTE",
+        "text": "Could be worse.  Oh sorry, forgot who I was talking to."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Ouch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67812",
+    "movie_id": "m501",
+    "turns": [
+      {
+        "speaker": "COLETTE",
+        "text": "Don't worry, he's probably passed out with his head in the toilet by now."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "This man sounds like a real catch."
+      },
+      {
+        "speaker": "COLETTE",
+        "text": "Oh, he's a keeper all right."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Colette ..."
+      }
+    ]
+  }
+]

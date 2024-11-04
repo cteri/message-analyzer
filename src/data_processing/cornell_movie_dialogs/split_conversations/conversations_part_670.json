@@ -1,0 +1,2182 @@
+[
+  {
+    "conversation_id": "conv_66913",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "So none of us knows who's paying the freight, this is just some anonymous job. For all we know, we're working for different people."
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "Now that is an interesting proposition."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66914",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Don't talk to me unless you tell me what I want to hear, understand?!?  You have no choice in this, don't think about winning, think about staying alive.  I want the item, and if you don't give it to me, I'm gonna kill you."
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "I don't have it with me..."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Bullshit!"
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "I swear..."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Then where is it?"
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "I sent it to myself in Paris."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Sent it where?"
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "A post office box."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66915",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "PHONE VOICE",
+        "text": "Is it done?"
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "It's done."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66916",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "PHONE VOICE",
+        "text": "Gregor, is that you?"
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "Much to your disappointment, no doubt."
+      },
+      {
+        "speaker": "PHONE VOICE",
+        "text": "It was a mistake, it shouldn't have happened."
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "I'm in the middle of saving you people a great deal of money -- the least you could do is have the decency to pay me!"
+      },
+      {
+        "speaker": "PHONE VOICE",
+        "text": "So what do we do?"
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "What I do is none of your concern.  What you should do is wait for my next phone call.  I'm going to find a place where I can tilt the field in my favor.  When I'm ready, I'll call you and tell you what I want you to do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66917",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SWEDE",
+        "text": "How so?"
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "Because if there's more than one party involved, if we really are working for different people, then perhaps some of us are on different sides.  Your orders might be different from mine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66918",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "GREGOR",
+        "text": "I would imagine that the great satisfaction in all of this will be killing the American."
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "I hadn't thought about it.  Understand me, Gregor -- I take no pleasure in killing.  It doesn't bother me one bit, but I don't get off on it."
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "A means to an end, is that it?"
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "That's it."
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "Then I guess we're set."
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "There is one other thing..."
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "What's that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66919",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "GREGOR",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "Don't cross me..."
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "Nobody's going to do that!"
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "Really?"
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "I need you, Swede, I can't do this without you!"
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "I just wanted to make sure you knew who you were dealing with."
+      },
+      {
+        "speaker": "GREGOR",
+        "text": "I do, I do..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66920",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Hello, Jean-Pierre."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Hello, my friend.  He doesn't look French to me, Vincent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66921",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "He's tough, your American friend."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Yes, Sam's tough alright."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "And you respect him."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Of course.  Don't you?"
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "I've never seen a man who could have taken what he just went through.  He's a cop?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Not exactly."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Not exactly?  But close enough, eh?  So he saved your life, then?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "How did you know?"
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "If he hadn't you'd have put a bullet in his head a long time ago."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66922",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "American."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Well, Vincent's American friend, shall we see what we can do for you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66923",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Are you sure you won't have a drink?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "No booze...Pain's in the mind, and the mind I can control.  Alright, let's do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66924",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "You think you can stitch me up on you own?"
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Don't worry, we'll take care of it."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Then if you don't mind...  I'm gonna pass out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66925",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Some, thanks.  Enough to move on, for now."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "You should really let a doctor look at that."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Soon."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "But first you have something to take care of?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Something important?  A thing that cannot wait?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "It gets done now or not at all.  Another couple of days and the parties concerned are gone where I can't get them."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Forgive my intrusion into your affairs, but I am the one who connected Vincent to this job, his agent, if you will.  He is one of my oldest friends and I owe him a great debt, much like the debt I suspect he owes you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66926",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "He sees this differently, as you well know."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I didn't expect that he would."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "You suffered through an agonizing pain last night, pain you could have avoided by declaring yourself an agent of the law."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Vincent told you that I'm a cop?"
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Not a word.  But no ordinary criminal would have the extensive military and medical expertise you do.  And so I place the pieces of the puzzle together in a way that makes sense to me.  You work for some government agency and you carry a gun, and in my world, that makes you a cop."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66927",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "So this is what, a test?"
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Call it a reckoning of character."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66928",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "If I was healthy, I could take that away from you."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Perhaps.  But you are not healthy, and if you try I'll kill you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66929",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "So what is it you want to know?"
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "I suppose I want to know how a man like you is created."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Created?"
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "Perhaps forged is a better word.  Like steel.  Like a sword.  You're a modern Samurai.  I've spent my life around extraordinary men -- men like Vincent. But I've never seen anyone like you.  I'm afraid Vincent will die if he goes with you."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Vincent's life is his own burden; he'll have to carry it for himself.  And I'm not any kind of Samurai."
+      },
+      {
+        "speaker": "JEAN-PIERRE",
+        "text": "You seem one to me."
+      },
+      {
+        "speaker": "SAM",
+        "text": "A Samurai has honor, a Samurai live by the code of Bushido, the way of the warrior.  I'm just a killer for hire.  The world isn't about honor, anymore. It's about survival."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66930",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "The point remains: we could be working for different people.  There's a chance for one of us...  Maybe more than one of us -- has been paid to cross the others.  I don't know about you guys, but I like to know who I'm working for.  It can help prevent a great deal of...  ...unpleasantness."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Anybody tries to unpleasant me I'll put two between his eyes -- one to do the job and the other to make sure it takes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66931",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "You shoot alright."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Gets the job done."
+      },
+      {
+        "speaker": "SAM",
+        "text": "All in the stomach, though.  Your man might live."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Not for long."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Long enough to shoot back."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Is that right?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "It's been known to happen."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Why don't you go do better, then..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66932",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "LARRY",
+        "text": "Yeah, well...  My way works too."
+      },
+      {
+        "speaker": "SAM",
+        "text": "My way is better."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66933",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "It's a cocktail.  Mostly demerol, cut with a little crank because we might need you awake in the real near future."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Fine with fucking me, we got work to do. I don't care what it takes, we are getting our property back and putting it into the hands of the people who are gonna pay us a great deal of money when we do.  I don't know about the rest of you guys, but I'm not the kind of guy to just sit back and take it in the ass.  I don't mean that in, like, a literal way..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66934",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "LARRY",
+        "text": "What are you gonna do, call him up and ask him to give us back our shit?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Did he bring that with him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66935",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "LARRY",
+        "text": "What're you talking about, man?  I don't understand."
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "What a surprise..."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "I got a surprise for you, blondie..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66936",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SWEDE",
+        "text": "They call me Swede."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Who's they?"
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "Everybody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66937",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SWEDE",
+        "text": "You should watch what you eat."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Who the fuck died and appointed you food czar?"
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "I'm just worried about your health, Larry.  You could stand to shed a few pounds."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "And you could stand to get a little smarter, ain't that right you dumb blonde fuck?"
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "Who you calling dumb, dickless?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66938",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SWEDE",
+        "text": "I ride with fat-boy..."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Eat shit and die slowly..."
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "After we stop the target car I get out and use the heavy artillery to kill the driver and his bodyguard."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "I blast the lead car into oblivion..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66939",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "LARRY",
+        "text": "Where is this broad?"
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "You should learn a little patience."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Is that right?"
+      },
+      {
+        "speaker": "SWEDE",
+        "text": "It's consider a virtue in some corners of the world."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Not in mine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66940",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SWEDE",
+        "text": "I don't particularly like killing, tubby, but I want you to know that this one I'm going to enjoy."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "I don't think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66941",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Sorry I'm late..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What makes you think we're here to meet you?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Who else would you be?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66942",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Perhaps the police?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I know cops -- and you're no cop."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66943",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Cigarette?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "No thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66944",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "He trusts you to lock up?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Let's just say he knows who I am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66945",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "I'm Vincent.  And I coordinate."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Coordinate what?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Things.  This is my country, you know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66946",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Where to?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "To see a man about a thing."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I can do that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66947",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Pretty much what you'd expect."
+      },
+      {
+        "speaker": "SAM",
+        "text": "That's what I thought."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66948",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "He says this is their block."
+      },
+      {
+        "speaker": "SAM",
+        "text": "As in, they own it?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Something like that..."
+      },
+      {
+        "speaker": "SAM",
+        "text": "And I suppose he's saying that we oughta give them something for using it, huh?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I didn't know that you spoke French."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I don't.  But the language he's speaking is universal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66949",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "What'd you say to him?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I asked if we could give him anything else."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66950",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "That was a nice move you did on our young friend.  Judo?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Jujitsu."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Same thing, isn't it?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Not at all.  Similar, but not the same."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What's the difference?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "One's a lot more painful than the other."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66951",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Help yourself.  Since when do you smoke?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I have, I don't know, maybe a cigarette a week."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "A cigarette?  As in one?  One cigarette a week, who smokes like that?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I do."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Christ, I smoke a pack-and-a-half a day, and I tell myself I could be worse.  It's just so damned pleasurable."
+      },
+      {
+        "speaker": "SAM",
+        "text": "It has it's moments.  Course, you get cancer and die, that's the down side."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "There is that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66952",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "So, Vincent: why bring me along for the ride?  Job like this calls for a warm body, somebody who can stand around and look threatening.  A tough guy."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Like Larry or Swede."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Exactly.  Why not bring them?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Let's just say I thought the conversational possibilities were limited.  Of course, I might have brought Gregor, but he didn't seem like the right candidate -- for this."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Watch that one, he's an ex-spook for sure, maybe Stasi, maybe KGB.  He's smart, Gregor is."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "So is the woman."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Deirdre?  Smart, yeah, and seriously goddamned dangerous."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I wonder if she truly left the IRA."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I've wondered that myself.  None of this answers my question, though...  Why bring me?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I wanted to see who you were."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Who am I?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66953",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You were once some kind of special forces.  Airborne Ranger, maybe a Navy SEAL.  After that you rode shotgun for the CIA in some place like El Salvador or Afghanistan, a real mercenary.  Only now -- now you're like the rest of us, it's a very competitive market since the end of the cold war.  There's a lot of hired guns out here, and not nearly enough work to go around."
+      },
+      {
+        "speaker": "SAM",
+        "text": "That's right: there's not hardly enough work these days, nothing that pays the big money, anyhow.  Then along comes this job, paying so much goddamned money I couldn't afford not to take it.  Somebody's paying through the nose for this."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "They certainly are.  Whatever it is we're going to steal, it must be quite something."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Whatever it is it must be goddamned priceless."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66954",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Lovely, isn't it?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "They'd have to keep something like this under lock and key in New York, and it would still get fucked up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66955",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I just wanted to see something."
+      },
+      {
+        "speaker": "SAM",
+        "text": "See what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66956",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "I needed to know."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You need to know a lot of shit, Vincent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66957",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "You know, what you pulled back there, that was bullshit."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I needed to see if you were a cop.  I'm a popular man with the police, Sam, and whenever they try to catch me they always do it with an inside guy -- some man on some job who seems more trustworthy than all the others put together.  And that's the guy you have to watch out for.  I hate cops..."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Well I ain't a cop."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66958",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "How did you know?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Know what?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "That there was a gun pointed at me."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I saw you look off when Francois nodded his head.  I figured he wasn't pointing out a particularly rare shrub, and the rest was easy."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "But how did you know I would have the presence of mind to pull my weapon when I did?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Because that's what I would have done..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66959",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "The question still remains: what do we do now?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Gregor's cell phone..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66960",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You weren't around when I woke up, I thought maybe something had happened.  This has been one very fucked up job, Sam, and I'm not taking any more chances on anybody...  Including you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66961",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I came up here to sneak a smoke."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You were smoking?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I hope you don't mind I took your pack. It was on the table."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Please, help yourself.  Smoke as many you'd like."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66962",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I borrowed that, too..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Of course...whenever you feel like it just help yourself."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I have a feeling I'm about to start buying my own."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66963",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "It was at that."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "A lot of people died."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I've seen a lot of people die before."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I haven't.  Not like that.  How do you get used to it?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "You don't.  You just learn to live with it."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I won't lie -- there have been times when I had to do it, times when the only way to get out alive was to see that the other man didn't."
+      },
+      {
+        "speaker": "SAM",
+        "text": "We live in a singular world, my friend."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I never really thought I was part of the world you move in, Sam, to tell you the truth.  I'm a hood, a thief.  Big time in a small time king of way.  To the local police I'm a prize, to the local hoods I'm a legend.  But to a guy like you I'm just another two bit hired gun."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You might be a hired gun, Vincent, but I got a feeling you cost more than two bits."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66964",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "He's going back."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Not necessarily.  He could go off road at any number of places.  He might not even be in the country anymore."
+      },
+      {
+        "speaker": "SAM",
+        "text": "It's Paris.  The route's too indirect for anything else.  A guy like Gregor, he doesn't waste time on this road unless he has to be on it in the first place. Otherwise, he'd be out of the country by now.  He's going to Paris.  Now I just hope we can find him before he gets there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66965",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You're a cop...you're a fucking cop...I should kill you."
+      },
+      {
+        "speaker": "SAM",
+        "text": "But you can't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66966",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "That makes twice now you've saved my life."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I didn't save your life back there. Risked it, maybe -- but I didn't save shit."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You see it your way, I'll see it mine. You need a doctor."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You know one around here?  Somebody you trust?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "No...I thought I'd take you to the hospital."
+      },
+      {
+        "speaker": "SAM",
+        "text": "No hospitals.  I'll fix this myself if I have to."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Fix it yourself?  Why are we even doing this?  There's no need to run, Christ...  You're a cop."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Not exactly."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You're with Interpol -- you're a cop."
+      },
+      {
+        "speaker": "SAM",
+        "text": "If I was a cop, a real cop, I'd have busted you a long time ago.  This isn't about you, it's about the job I have to do."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "And what job is that?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "My job, Vincent, a job you don't need to know about.  I can't go to the local cops -- they'd never be able to get close enough at this point.  It's me or nobody, and I've been on this job too goddamned long not to finish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66967",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "It looks to me like we're all that's left of our group."
+      },
+      {
+        "speaker": "SAM",
+        "text": "We?  There is no we in my world now, Vincent, just me."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I'm going with you."
+      },
+      {
+        "speaker": "SAM",
+        "text": "This doesn't involve you, don't you understand?  I can't even guarantee you any money out of all this."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "It isn't about money for me, not anymore."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You don't have to do this."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Yes I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66968",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Alright, it's done."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You see the bullet?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Clearly."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Good.  Now take the forceps, and remember, Vincent, what we're doing here is routine.  I've done stuff like this at least twenty times in the field.  There are no vital organs where you're working, no major muscles or arteries -- you can't kill me.  Just make sure you've got the bullet before you try to pull it out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66969",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You know him?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I know of him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66970",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "The Irish representative?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66971",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "What's this?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "The address of the Russian production company.  Just in case we need to find them."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Thorough man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66972",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "You sure your friend got the right place?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "If Tony says this is it, then it's it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66973",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Tell me, Sam: why do you do this?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Do what?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Continue when it would be so much easier to give it up."
+      },
+      {
+        "speaker": "SAM",
+        "text": "It's my job."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Then quit.  You don't work for Interpol, Sam."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Sure I do.  You heard him, you heard the guy -- that's what he said, what Edvard said."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "It's a cover, then.  A cover within a cover, a feint within a feint.  You work for the CIA, it's the only possible answer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66974",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I'm a field agent -- last of an already extinct breed.  I do dark ops."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Dark ops?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Dark operations.  Wet work.  Kidnaping. Assassination."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Very ugly."
+      },
+      {
+        "speaker": "SAM",
+        "text": "It is at that."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Not very zen of you, huh?  Not so much the modern Samurai after all."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I never made that claim."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I know.  Jean-Pierre did."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You were behind the door?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I was waiting to see what would happen. I didn't want to kill him if I didn't have to."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You would have done that?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I would have tried not to.  But yes, if it would have kept him from shooting you, I would have."
+      },
+      {
+        "speaker": "SAM",
+        "text": "How could you have done that?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Because I owe you.  Look at that..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66975",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "They don't have the package."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You think?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "You said it yourself: Gregor's not dead. If they had the package, they'd have killed him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66976",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "What the fuck happened?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I don't know..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You don't know?  Bullshit, you had her, there was no way out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66977",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Give me a cigarette."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Right now?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Gimme a goddamn cigarette!!!!"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Why are you driving?  You're not French, you don't live here, you don't know these roads.  Why are you driving?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66978",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "I'm not here very much."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Business keeps you on the road?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Something like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66979",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I know I don't need to say this to you, but I need to say it to you.  This is my job, I have to do it."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "So I do it."
+      },
+      {
+        "speaker": "SAM",
+        "text": "No you don't, and you know it."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "If our positions were reversed, would you leave me?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "In a minute."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I think not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66980",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Do we need anything else?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yeah.  We need out fucking heads examined."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66981",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Not here.  They might see it."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "If I'm going to die for the CIA, I'm going to go out smoking.  Besides, there's half a forest between us and them, they can't see a goddamned thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66982",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Time to quit."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Just like that?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Not just like that... Just before I turn around and it's six months from now and the first thing I do when I wake up in the morning is light a cigarette."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What of it?  Samurai pain in the ass."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Would you stop with that..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Why?  You've got more force of will than anyone I've ever seen.  You handle a gun like it's a part of you, you perform surgery on yourself without anesthesia...  And most amazing of all, you quit smoking, just like that."
+      },
+      {
+        "speaker": "SAM",
+        "text": "The mark of a true Samurai.  What I do for the Company, Vincent, is no different than what you do.  We're both hired guns, and this is a job -- like any other job."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Why then, Sam, don't you act like this is a job like any other?  Surely, if you are a hired gun, you realize that some times you just have to walk away without getting what you came for."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Because I don't walk away."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "It's the one thing I've got left to hold onto.  Jean-Pierre is one of your closest friends, is he not?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Closest and oldest."
+      },
+      {
+        "speaker": "SAM",
+        "text": "And yet you would have killed him to save my life.  You have a sense of honor, Vincent, that I can't even remember anymore.  I don't know that I ever even had it to begin with.  All I know to do, Vincent, is to finish my job."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "And when you finish?  What then?  This package, whatever it is, do you give it to the CIA?  Do you really think they deserve it?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "That's a good question."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Do you have a good answer?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "No, I don't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66983",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You have to stop doing that!"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I'll work on it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66984",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Let's get him out of here..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Finish the job..."
+      },
+      {
+        "speaker": "SAM",
+        "text": "And now..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Finish it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66985",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You son-of-a-bitch..."
+      },
+      {
+        "speaker": "SAM",
+        "text": "What?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You speak French."
+      },
+      {
+        "speaker": "SAM",
+        "text": "What of it?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Nothing..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66986",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "\"Your field dressing saved his life.\" That's three I owe you."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You don't owe me a goddamned thing, Vincent, and you know it.  You stepped in front of a bullet for me.  I owe you a heavy debt."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I know."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You better get some sleep, alright?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Tell me something first.  The package: what was it?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I don't know.  Nobody knows, except a bunch of people who are too dead to tell us.  There's probably a couple of guys back at the Company who know, but I don't think they plan to tell me anytime soon."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "What happened to it?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Gone.  Destroyed."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I guess that's for the best."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66987",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I told you, I quit."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "Just to keep me company, Sam -- I hate smoking alone.  How about you?  I thought all you IRA types smoked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66988",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "What's the story?"
+      },
+      {
+        "speaker": "TONY",
+        "text": "It's an international thing.  Several different peoples involved, criminals from all over the world, experts brought together to do a job.  But maybe the most interesting thing about it is that preeminent in the plot we find the Russian Mob and the IRA in bed together. An unlikely group of partners."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66989",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Gaelic."
+      },
+      {
+        "speaker": "TONY",
+        "text": "You sure?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "I'm sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66990",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Why's that?"
+      },
+      {
+        "speaker": "TONY",
+        "text": "Cause the Russian production company would be easier to find."
+      },
+      {
+        "speaker": "SAM",
+        "text": "It's the Irish tape we want."
+      },
+      {
+        "speaker": "TONY",
+        "text": "Gonna be tough."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66991",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "TONY",
+        "text": "Last I heard there was a film rep for the Irish players staying at this address, name of Seamus Reilly."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Seamus Reilly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66992",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Why didn't you kill her?"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "Why didn't you kill him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66993",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You slept with her!"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "How is it these fellahs managed to get the drop on us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66994",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "You slept with her!"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "You should have kill him when you had the chance.  But no..."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You put everything on the line because you..."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "You slept with the fucker!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66995",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "TONY",
+        "text": "My man, how you doing?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I'm alright.  And you?"
+      },
+      {
+        "speaker": "TONY",
+        "text": "Doing well.  This is?"
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "A friend.  I was telling him about how you always have the latest tapes."
+      },
+      {
+        "speaker": "TONY",
+        "text": "Why don't we step into my office..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66996",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "I was wondering if you had any movies that were particularly new."
+      },
+      {
+        "speaker": "TONY",
+        "text": "Matter of face there's this flick I've been hearing about.  I haven't seen it, but from what I hear it's pretty cool."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66997",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Do you have the tape?"
+      },
+      {
+        "speaker": "TONY",
+        "text": "I might know where you could get a copy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66998",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "TONY",
+        "text": "What I've heard so far, it's all a lot of talk.  I wasn't so sure what to make of it at first, cause, like I said, the Irish and the Russians are an unlikely mix."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "You said you might know where we can get a copy of this tape?"
+      },
+      {
+        "speaker": "TONY",
+        "text": "All depends on whether you want the Russian or the Gaelic language version."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_66999",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Can you get it?"
+      },
+      {
+        "speaker": "TONY",
+        "text": "The Russian would be easier."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67000",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "TONY",
+        "text": "Seamus Reilly, boy's a serious Irish Auteur -- a real firebrand.  Thinks his more moderate filmmaking brethren have turned to making movies for peace-loving pussies, if you see what I'm saying."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "I get the picture."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67001",
+    "movie_id": "m494",
+    "turns": [
+      {
+        "speaker": "VINCENT",
+        "text": "Tony and I have to talk some business, first."
+      },
+      {
+        "speaker": "TONY",
+        "text": "I gotta try and overcharge him, he has to moan about the price, we settle somewhere in the middle."
+      },
+      {
+        "speaker": "VINCENT",
+        "text": "It's a matter of respect.  Why don't you wait outside, this won't take long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67002",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "DWAYNE",
+        "text": "Sort of!"
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "Hey Dwayne why don't you introduce him to your funeral parlor cousin?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67003",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "DWAYNE",
+        "text": "What the hell happened here?"
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "Looks like some kind of drug deal or something, they're not from around here --  one of them's still alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67004",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "DWAYNE",
+        "text": "I'd like to know what they were doing in my town!  Did you get ID off any of them?"
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "None of them had any --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67005",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "BOOTH",
+        "text": "Damn."
+      },
+      {
+        "speaker": "DWAYNE",
+        "text": "I want to get some hounds down here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67006",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "DWAYNE",
+        "text": "Whatsamatter with you?  Aren't you concerned about all of this?"
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "I can't get enough of it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67007",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "DWAYNE",
+        "text": "I should kill you right here! I never thought you'd do this to me but I guess there's a lot I didn't know about you!"
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "Dwayne listen to me -"
+      },
+      {
+        "speaker": "DWAYNE",
+        "text": "Shut up!  Not another word out of you!  You're going down, the Feds know all about it!  You didn't know some of it was marked, did you! Where's the rest?"
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "I don't know what you're -"
+      },
+      {
+        "speaker": "DWAYNE",
+        "text": "Don't lie to me!!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67008",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "EARL",
+        "text": "Ready to roll, partner?"
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "Sure thing, and --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67009",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "BOOTH",
+        "text": "Don't spend it all in one place."
+      },
+      {
+        "speaker": "EARL",
+        "text": "I knew you'd come through. Jesse observes the transaction Booth and Earl start to leave."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67010",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "EARL",
+        "text": "How old is Otis anyhow, thirty?"
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "The horniest dog in Nevada."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67011",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "EARL",
+        "text": "Thanks for the loan, man.  I'll have it in a few days, I promise."
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "Well I hope so.  That pretty much cleaned me out."
+      },
+      {
+        "speaker": "EARL",
+        "text": "I would have asked my sister, but its better to leave family out, always leads to trouble."
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "I hear you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_67012",
+    "movie_id": "m495",
+    "turns": [
+      {
+        "speaker": "EARL",
+        "text": "Yeah...I remember my brother-in-law Gary, the wheel watcher.  He finally got on the show and won seven thousand dollars!  Plus some leather furniture. Do you think I saw any of that?  His excuse was the government got it all."
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "Seven thousand..."
+      },
+      {
+        "speaker": "EARL",
+        "text": "He would have won more but he blew it at the end.  Didn't know what Cash and Carry was."
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "Cash and what?"
+      },
+      {
+        "speaker": "EARL",
+        "text": "Cash and Carry, you know, FDR, World War two..."
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "Never heard of it."
+      },
+      {
+        "speaker": "EARL",
+        "text": "Oh, you would have done great."
+      },
+      {
+        "speaker": "BOOTH",
+        "text": "I probably would have.  I guess the clues damn near before everyone."
+      },
+      {
+        "speaker": "EARL",
+        "text": "That's what everyone thinks.  But according to him, when it's the real thing, it's quite an intimidatin' environment in which to concentrate."
+      }
+    ]
+  }
+]

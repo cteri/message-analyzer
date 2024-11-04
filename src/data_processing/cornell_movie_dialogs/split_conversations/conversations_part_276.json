@@ -1,0 +1,1718 @@
+[
+  {
+    "conversation_id": "conv_27501",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "NARA",
+        "text": "Sir, they've detonated an isolytic burst... a subspace tear is forming..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "On screen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27502",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "NARA",
+        "text": "The tear is closing on us... impact in fifteen seconds..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Eject the core."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27503",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "The purpose being I intend to shove it down the Son'a's throat."
+      },
+      {
+        "speaker": "NARA",
+        "text": "Commander, if one of their weapons hits that gas..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "It's our only way out of here, Mister Nara."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27504",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PERIM",
+        "text": "Commander, I'm showing two Son'a ships on an intercept course."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "How long 'til they reach us?"
+      },
+      {
+        "speaker": "PERIM",
+        "text": "Eighteen minutes..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27505",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "What's inside that nebula cluster?"
+      },
+      {
+        "speaker": "PERIM",
+        "text": "Cometary debris, pockets of unstable metreon gas... we don't want to go in there, sir..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Yes, we do.  You're relieved, Ensign. Take over at Ops."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27506",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PERIM",
+        "text": "I thought subspace weapons were banned by the Khitomer Accord..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Remind me to lodge a protest..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27507",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PERIM",
+        "text": "We're still thirty-six minutes from transmission range, sir."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "We're through running from these bastards."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27508",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PERIM",
+        "text": "They're powering their forward weapons array."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Blow out the ramscoop. Stand by full thrusters."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27509",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "They need us to mediate some territorial dispute..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We can't delay the archaeological expedition to Hanoran Two. It would put us into the middle of monsoon season..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "The Diplomatic Corps is busy with Dominion negotiations."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "... so they need us to put out one more brush fire.  Anyone remember when we used to be explorers?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27510",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "'Yew-cheen chef-faw.'"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Deck ten."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27511",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Who is it?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Commander Riker..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27512",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "... and gorgonzolla cheese."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We won't be able to go any faster than one-third impulse in that muck..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Nothing dangerous turned up in the astrometric survey..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "So where are the 'environmental concerns' the Admiral was talking about?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "The only unusual readings were low levels of metaphasic radiation from interstellar dust across the region..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27513",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Admiral Dougherty wants to know why we haven't left yet..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We're not going anywhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27514",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Deck five."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "You Klingons never do anything small, do you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27515",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Prepare the ship for departure at oh-seven-hundred hours."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27516",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "You must be planning on doing some hunting."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Go back to your quarters  That's an order."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27517",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "There's a short letter I left you all, just some... sentimental nonsense... the computer will bring it to your attention at oh- four-hundred... I'd just as soon you delete it..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Fat chance. I'll post it on every monitor on the ship..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27518",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "The Council has ordered a halt to the Ba'ku relocation while they conduct a top-level review."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Top level review, my ass. There'll be no cover-up of this. Not after I get..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27519",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "SOJEF",
+        "text": "My name is Sojef, Captain."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Jean-Luc Picard... my officers Doctor Crusher and Counselor Troi."
+      },
+      {
+        "speaker": "SOJEF",
+        "text": "Would you like something to eat?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "No, we're here to... rescue them."
+      },
+      {
+        "speaker": "SOJEF",
+        "text": "As you wish. But I would ask you to disarm yourselves. This village is a sanctuary of life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27520",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "SOJEF",
+        "text": "We came here from a solar system on the verge of self- annihilation... where technology had created weapons that threatened to destroy all life. A small group of us set off to find a new home... a home that would be isolated from the threats of other worlds.  That was three hundred and nine years ago."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "You've not aged a day since then?"
+      },
+      {
+        "speaker": "SOJEF",
+        "text": "Actually, I was a good deal older when we arrived... in terms of my physical condition."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27521",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "SOJEF",
+        "text": "I wish there was a way to bring them back home."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Ask them."
+      },
+      {
+        "speaker": "SOJEF",
+        "text": "I'm afraid there's too much bitterness... on both sides."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27522",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF'S COM VOICE",
+        "text": "Bridge to Captain Picard. We are approaching sector four-four-one."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Slow to impulse. We're on our way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27523",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF'S COM VOICE",
+        "text": "I... I must have slept through my alarm. I'm on my way..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We'll skip the court martial this time... Picard out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27524",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF'S COM VOICE",
+        "text": "Worf to Picard..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes... yes, I... can hear you..."
+      },
+      {
+        "speaker": "WORF'S COM VOICE",
+        "text": "We're trying to get to you, sir..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27525",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Worf, you must hurry..."
+      },
+      {
+        "speaker": "WORF'S COM VOICE",
+        "text": "We're coming as fast as we can... we can't risk using phasers..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I understand. Tell Doctor Crusher to have a hypospray of lectrazine ready..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27526",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Captain..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Worf, what the hell are you doing here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27527",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "I've already modified a tricorder with one of his spare actuation servos. Its operational range is only seven meters but it should shut him down..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "It's good to have you back, Worf.  Slow to one-third. Take us in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27528",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Sensors are not picking up any ships coming from the surface..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Transmit a wide band co-variant signal. That'll get his attention."
+      },
+      {
+        "speaker": "WORF",
+        "text": "He might be using the planet's rings to mask his approach."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "The metaphasic radiation in those rings is in a state of extreme flux. Steer clear of them, Mister Worf..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27529",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Come out, come out wherever you are..."
+      },
+      {
+        "speaker": "WORF",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Hmm? Oh, it's just something my mother used to..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27530",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Sir, if we fire a tachyon burst, it may force him to reset his shield harmonics. When he does, we could beam him out..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Make it so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27531",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Direct hit. He's resetting his shield harmonics..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Beam him out!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27532",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "He's activated a transport inhibitor."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Prepare to enter the atmosphere... we'll use the ionospheric boundary to shake him..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27533",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Scanners are off line!"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Evasive maneuvers... heading one- four-zero mark three-one..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27534",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Do you know Gilbert and Sullivan?"
+      },
+      {
+        "speaker": "WORF",
+        "text": "No, sir. I haven't had a chance to meet all the new crew members since I've been back..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "They're composers, Worf, from the nineteenth century. Data was rehearsing a part in H.M.S. Pinafore before he left...  \"A British tar is a soaring soul, As free as a mountain bird, His energetic first should be ready to resist A dictatorial word...\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27535",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Sir, inertial coupling is exceeding tolerance... if we don't release him, he may destroy both vessels..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I'm not letting go of him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27536",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "The damping sequencer was damaged by phaser fire!"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Transferring controls to manual."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27537",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Did any of the hostages mention a cloaked ship during their debriefings?"
+      },
+      {
+        "speaker": "WORF",
+        "text": "No, sir..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Debrief them again.  Have you been in a fight, Commander?"
+      },
+      {
+        "speaker": "WORF",
+        "text": "No, sir. It is a gorch."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Gorch?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27538",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Doctor Crusher asked to talk to you when you returned..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Picard to Crusher..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27539",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Should I distribute phasers to the Ba'ku, sir...?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "No. We'll be responsible for that, Mister Worf."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27540",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "You need a haircut, Commander."
+      },
+      {
+        "speaker": "WORF",
+        "text": "Accelerated hair growth is often experienced by Klingons during Jak'tahla..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27541",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "The Ba'ku could use some rest, sir. According to the geo-scan, this may be the safest area for the next few kilometers..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Very well. We'll take an hour. Break out some rations..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27542",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Isolinear tags. Their transporters can lock onto them."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We have to find shelter..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27543",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "All injector sub-systems are confirmed off-line."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Decloak the holo-ship and engage a tractor beam, Mister Worf."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27544",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "One. It's Ru'afo."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Can you beam him off?"
+      },
+      {
+        "speaker": "WORF",
+        "text": "Negative. He's established a security field around the control room..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Is there any other way to disable the injector?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27545",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "... Population three hundred million..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Say the greeting again..."
+      },
+      {
+        "speaker": "TROI",
+        "text": "Yew-cheen chef-faw... emphasis on the 'cheen' and the 'faw'..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27546",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "Oh, my God, are they vegetarians? That's not in here..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Better have the chef whip up a light balsamic vinaigrette... something that goes well with chrysanthemums..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27547",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "We've downloaded all the files on the duck blind mission as well as intelligence reports on the Son'a."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "You have two days to become experts... Mister Worf, your job and mine will be to find a plan to safely capture Data."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27548",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Counselor?"
+      },
+      {
+        "speaker": "TROI",
+        "text": "They have an incredible clarity of perception, Captain. I've never encountered a species with such mental discipline..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27549",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "The Son'a discovered an M-class planet with humanoid life six months ago. Turned out it's in us to get approval for a sociological study. The Federation Council suggested it be a joint mission..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Why was Data assigned?"
+      },
+      {
+        "speaker": "TROI",
+        "text": "\"Environmental concerns\", again. An android could be safely exposed to the elements during the installation of a duck blind..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27550",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "I don't see anything to suggest the Son'a have any interest in sociology..."
+      },
+      {
+        "speaker": "TROI",
+        "text": "What are they interested in...?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Wine, women and song."
+      },
+      {
+        "speaker": "TROI",
+        "text": "You should feel right at home with them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27551",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Nomadic, collectors of precious metals, jewels..."
+      },
+      {
+        "speaker": "TROI",
+        "text": "Hmm, I should feel right at home with them..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "You're in luck... it says here they've taken women from several races as indentured servants."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27552",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "Why would we be involved with these people?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Good question."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27553",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "You haven't done that in a long time..."
+      },
+      {
+        "speaker": "TROI",
+        "text": "What...?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "What you're doing to my neck..."
+      },
+      {
+        "speaker": "TROI",
+        "text": "Was I doing something to your neck?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27554",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "It says here that some form of genetic damage has apparently prevented the Son'a from procreating..."
+      },
+      {
+        "speaker": "TROI",
+        "text": "No children?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "If that's true, they're a dying race."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27555",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "Come in.  Hi."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Got a minute? I... need a little counseling.  First time for everything. Do I... lie down... or what?"
+      },
+      {
+        "speaker": "TROI",
+        "text": "Whatever makes you comfortable..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27556",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "This isn't one of the usual therapeutic postures..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "But it's comfortable."
+      },
+      {
+        "speaker": "TROI",
+        "text": "Why don't you try sitting up?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Or you could try lying down."
+      },
+      {
+        "speaker": "TROI",
+        "text": "You're in quite a mood today."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27557",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Both.  I think I'm having a mid-life crisis..."
+      },
+      {
+        "speaker": "TROI",
+        "text": "... I believe you..."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "... I'm not sleeping well..."
+      },
+      {
+        "speaker": "TROI",
+        "text": "... Doctor Crusher has something that'll take care of that..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27558",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "What I need, I can't get from Doctor Crusher...  Counselor, do you think it's possible for two people to go back in time to fix a mistake they've made?"
+      },
+      {
+        "speaker": "TROI",
+        "text": "On this ship, anything can happen. And usually does."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27559",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "TROI",
+        "text": "Augh."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Augh?"
+      },
+      {
+        "speaker": "TROI",
+        "text": "I never kissed you with a beard before."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27560",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "All hands. Battle stations!"
+      },
+      {
+        "speaker": "TROI",
+        "text": "And have you noticed how your boobs have started to firm up?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27561",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RU'AFO",
+        "text": "Initiate launch sequence."
+      },
+      {
+        "speaker": "SON'A OFFICER #2",
+        "text": "Activating injector assembly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27562",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RU'AFO",
+        "text": "Exactly as the simulations predicted..."
+      },
+      {
+        "speaker": "SON'A OFFICER #2",
+        "text": "Sir, I am not showing any change in metaphasic flux levels..."
+      },
+      {
+        "speaker": "RU'AFO",
+        "text": "Your scanners must be malfunctioning."
+      },
+      {
+        "speaker": "SON'A OFFICER #2",
+        "text": "All ship functions are off-line."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27563",
+    "movie_id": "m195",
+    "turns": [
+      {
+        "speaker": "RU'AFO",
+        "text": "This ship is equipped with fourteen long range transporters... are they all useless...?"
+      },
+      {
+        "speaker": "SON'A OFFICER #2",
+        "text": "They must have been locked and secured after we were beamed here."
+      },
+      {
+        "speaker": "RU'AFO",
+        "text": "Isolate one and re-route its command sequence through the auxiliary processor..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27564",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "ADMIRAL HAYES",
+        "text": "The new quantum torpedoes are doing the trick, Jean-Luc. We've destroyed forty-seven Borg ships so far... and only lost fifteen of our own.  But one of the Borg ships has broken through our defenses, and it's heading directly for Earth. Can you handle it?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Absolutely."
+      },
+      {
+        "speaker": "ADMIRAL HAYES",
+        "text": "Good hunting. Hayes out."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Mister Data, set a pursuit course. Maximum warp."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27565",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Admiral... what's the status of the Borg fleet?"
+      },
+      {
+        "speaker": "ADMIRAL HAYES",
+        "text": "It's been destroyed. The Borg threat is over.  Are you all right? The Enterprise disappeared from our sensors for a moment."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We're fine, sir. It will take some... time to explain."
+      },
+      {
+        "speaker": "ADMIRAL HAYES",
+        "text": "I look forward to reading your report."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27566",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Montana.  Energize."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "Montana? Well, that answers everything. Why the hell are we --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27567",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BEVERLY",
+        "text": "Go where? Hello? Is anyone going to tell me what we're doing here?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We're here to find Zephram Cochrane. He may be injured or dead."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "Cochrane... the inventor of warp drive?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "But he's been dead for three hundred...  Oh God... we've gone back in time again, haven't we?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I'm afraid so. If the Borg succeed in preventing First Contact with the Vulcans... Earth will remain in the Second Dark Age... an easy target when the Borg arrive in the 24th century."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "Well, why didn't you just say so in the first place?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27568",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "It's Cochrane."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "I've stabilized him for now... but he's in a coma and he's going to need radiometric therapy. I want to take him to the ship."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27569",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "It's not the radiation... and there's nothing wrong with the combadges... the Enterprise just isn't responding."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "Jean-Luc, this man needs medical attention, now."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "As I recall, the town of Resurrection is about two kilometers East of here. They might have a hospital..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27570",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BEVERLY",
+        "text": "What are we waiting for? Let's go."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "It may not be that simple. This is an extremely difficult and paranoid time in human history."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "Are you saying they won't help us?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I'm saying they might shoot us on sight. You have to remember... these people have watched their entire way of life collapse around them."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "There must be some good people... even in this time."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Let's hope so. Because if Cochrane dies... the future may die with him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27571",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BEVERLY",
+        "text": "He's stable... for now.  But it would be better if we could contact... our friends."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes. But until then, you'll have to make do with what you've got."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "That'll be interesting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27572",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "I have to go back to the silo. Will you be all right?"
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "I'll be fine.  He's a different story."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27573",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "You actually performed surgery...?"
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "It was an experience. Metal scalpels... needle and thread..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27574",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BEVERLY",
+        "text": "But I had a little help. Surgical transporter. I used it to beam out most of the bone fragments from his brain."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "How did Doctor Almack react to that?"
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "He was so confused by what I was doing, I don't think he even noticed.  Any word from the Enterprise?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Not yet."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "You think they're still up there?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "If they're not... we'd better get used to living in Montana."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "That might not be so bad... at least for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27575",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Regardless of how I may feel about Ruby... our fates lie along different paths. Nothing can change that."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "You want some advice? Don't do this again.  You know exactly what I mean."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Beverly, there were many reasons why you and I..."
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "I'd call them excuses. And the first excuse on both our lists was our \"sense of duty.\" We convinced ourselves that it was more important than anything else. And you know what? It's not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27576",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "How long has he been unconscious?"
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "At least four hours."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27577",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "Is it Japanese?"
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "Um... yeah.  Now he's going to need a respirator. Do you have one?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "We have two... but we don't have the juice to run them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27578",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BEVERLY",
+        "text": "His automatic reflexes are fluctuating. We've got to get him on a respirator."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Bag him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27579",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BEVERLY",
+        "text": "The occipital fracture is widening... we're going to have to fuse the bones..."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "I'm a little worried about some of these bone fragments. If they move any closer to the brain, we could be looking at a hemorrhage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27580",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "You are the guiding intelligence behind the Borg...?"
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Intelligence... ambition... desire... I bring order to chaos..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27581",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Have you ever wondered what it's like to have flesh?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "It is impossible to imagine sensations for which I have no frame of reference."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27582",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BORG QUEEN",
+        "text": "You've taken your first step toward perfection. How does it feel?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "I do not know what you are referring to."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "That's because you haven't been properly... stimulated yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27583",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Do you know what this is, Data?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "It would appear that you are attempting to graft organic skin onto my endo-skeletal structure."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "What a cold description... for such a beautiful gift."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27584",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "No. I will not betray my friends."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "They're not your friends... they've held you back... kept you from your destiny..."
+      },
+      {
+        "speaker": "DATA",
+        "text": "That is not true. They have tried to help me."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Have they given you what I have given you? Did they even try?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "I... do not want this..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27585",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BORG QUEEN",
+        "text": "You're becoming more human all the time, Data. Now you're learning how to lie."
+      },
+      {
+        "speaker": "DATA",
+        "text": "I wish to... go back to the way I was."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "More lies."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27586",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Have you ever know a woman? Do you know what it's like to feel her breath on your face... her skin against yours... flesh against flesh?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "My creator did not intend for me to experience these things."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "I'm your creator now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27587",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "I am... grateful for what you have given me. But I still do not wish to be assimilated."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "A universe of sensation is waiting for you... don't you want to explore it... with me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27588",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Then take the final step... give me the Enterprise... and we can be together... always."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27589",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BORG QUEEN",
+        "text": "I've deactivated the sensory inputs. That flesh on your body is just meat, now."
+      },
+      {
+        "speaker": "DATA",
+        "text": "No... no, please... you cannot..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27590",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Isn't it better like this...?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "Yes... but the Enterprise... my duty..."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "... is to yourself. Don't make me hurt you again..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27591",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "No... no, it's so... empty... please... give it back... I need it..."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "And I need to control this ship. Let me into your mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27592",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "There is a perimeter alert. A ship has entered sensor range."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Vulcan?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27593",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Your diagnostics are in error. I need weapons."
+      },
+      {
+        "speaker": "DATA",
+        "text": "The problem must lie in the interface between Starfleet and Borg technology. Your console may not be configured to handle the data flow."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Can you configure it?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "I believe so."
+      },
+      {
+        "speaker": "BORG QUEEN",
+        "text": "Do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27594",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "Dispersive armor is holding."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Bring us about. Target Borg ship alpha four, port side battery."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27595",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "The Borg ship has modified its shields, Captain. Our phasers will no longer be effective."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Ready quantum torpedo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27596",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "We are approaching the Terran System, Captain."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Go to impulse. Where's the Borg ship?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "It has entered Earth orbit.  Correction -- it is not in orbit. It is heading directly toward the surface."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27597",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "I have helm control."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Where's the Sphere?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27598",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "The vortex is collapsing, sir."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Contact Starfleet Command."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27599",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "What year is it?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "According to our astrometric readings... the year is 2063."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27600",
+    "movie_id": "m196",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Mister Data, I want to know the exact date and time.  Give me a damage report on that missile silo."
+      },
+      {
+        "speaker": "DATA",
+        "text": "Today is March second, 2063. The time in Montana is oh-eight-forty- five."
+      }
+    ]
+  }
+]

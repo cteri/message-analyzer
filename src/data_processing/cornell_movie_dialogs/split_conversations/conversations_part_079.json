@@ -1,0 +1,1802 @@
+[
+  {
+    "conversation_id": "conv_7801",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "We've got pressure."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Clear and open on my mark. Three... two... one... mark."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7802",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "Jesus its huge."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Ice crystals everywhere. This place is a deep freeze."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7803",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "That means they didn't abandon ship."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "So where are they? Starck, any luck with the bio-scan?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7804",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Peters is right, no one's here."
+      },
+      {
+        "speaker": "PETERS",
+        "text": "I don't know, this place is really dark, I can't see a thing..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7805",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "I can see the hatch."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Starck, you still showing those readings?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7806",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "The blood came from somewhere, Peters..."
+      },
+      {
+        "speaker": "PETERS",
+        "text": "There's no one here, Skipper."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7807",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "Okay. I'm on the bridge."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What you got, Peters?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7808",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "Everything's been shut down. Conserving power, I guess. Green light on the hull, it's intact."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "The science workstation has power, I'll see if I can find the crew from here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7809",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "I found one."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Alive?"
+      },
+      {
+        "speaker": "PETERS",
+        "text": "Frozen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7810",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Justin, check the containment for radiation leaks. Peters..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "...how's the client?"
+      },
+      {
+        "speaker": "PETERS",
+        "text": "Crystallized."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7811",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Can anybody hear me..."
+      },
+      {
+        "speaker": "PETERS",
+        "text": "Skipper..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Peters..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "...you okay?"
+      },
+      {
+        "speaker": "PETERS",
+        "text": "Yeah. I'm -- I'm okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7812",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Peters, I want you to go through the ship's log, see if we can't find some answers."
+      },
+      {
+        "speaker": "PETERS",
+        "text": "I can use the station in Medical, keep an eye on Justin..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Fine. Starck, I want you to repeat the bio-scan..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7813",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "I can run the image through a series of filters, try to clean it up."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7814",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "That's a negative, Starck."
+      },
+      {
+        "speaker": "PETERS",
+        "text": "Justin."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7815",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Peters. We need to know what happened to the crew. Before it happens to us."
+      },
+      {
+        "speaker": "PETERS",
+        "text": "I'll get back to the log. But on the bridge, I won't go back, back in there..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7816",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "Captain Miller, I just want to say..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "The clock is running, Dr. Weir. If you'll follow the rest of the crew, they'll show you to the gravity tanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7817",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "Captain Miller, I appreciate this opportunity..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Doctor Weir, my crew is not going on your mission because we want to. We were pulled off a well deserved leave, to be sent out to the middle of nowhere, and no one's even told us why."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "I've been authorized to brief you and the crew once we reach Neptune space."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Until then, do what you're told and stay out of my way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7818",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "It was the ship's maiden voyage, to test the drive. The Event Horizon moved to safe distance using ion thrusters. They received the go-ahead to activate the gravity drive.  And the ship vanished from all our scopes. No radar contact, no enhanced optical, no radio contact of any kind. They disappeared without a trace.  Until now."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Where has it been for the last seven years?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "That's what we're here to find out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7819",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "What does it say?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "NSA encryption specialists have deciphered some of the message..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7820",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "That's the engineering containment. And there's the main airlock. We can dock there."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Smith, use the arm and lock us onto that antennae cluster."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Be careful. It's not a load bearing structure..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7821",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Dr. Weir, I need you on the bridge."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Captain, I didn't come out here to sit on your bridge, I need to be on that ship..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Once the ship is secured, we'll bring you on board --"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "That is not acceptable --"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "-- once we've secured the ship, that's the way it is!  I need you to guide us from the comm station. This is where I need you. Help us to do our job."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7822",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "You're in the central corridor. It connects the personnel areas to Engineering."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Peters and I will search the forward decks. Justin, take Engineering. No hot-dogging, not on this one, alright?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7823",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "I can see that, what're they for?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "In an emergency, the charges detonate in series, destroying the central section and separating the personnel areas from the rest of the ship. That way, if the gravity drive malfunctions, the crew could use the foredecks as a lifeboat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7824",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Easy, Peters, we're okay, we're okay. Let's finish the sweep."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Captain Miller, the foredecks are just ahead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7825",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "Any survivors?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Negative."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7826",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "No one?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "They're empty, Dr. Weir. Moving forward."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7827",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "It beats dying, Mister Smith."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Dr. Weir's right. Get on board the Event Horizon. I'll meet you at the airlock."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7828",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "One of my men is down. I want to know what happened to him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7829",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Hold on, what's this \"gravitational distortion?\""
+      },
+      {
+        "speaker": "WEIR",
+        "text": "It's possible that a burst of gravity waves escaped from the Core, distorting space-time. They could be what hit the Lewis and Clark."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What could cause them?  What's in the Core?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "It's complicated..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "How much time do you need? We have seventeen hours and forty-two minutes. Now: what is in the Core?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7830",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "It's insane."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "\"Insane?\" The finest astronauts fought to be posted to this ship. It would take the Lewis and Clark a thousand years to reach our closest star. The Event Horizon could be there in a day..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "If it worked."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "If it worked, yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7831",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "I want this room sealed. The Second Containment is off limits."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "There's no danger. The black hole is contained behind three magnetic fields, it's under control."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Your black hole damn near ripped my ship apart. It may have killed one of my men.  No one goes near that thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7832",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "You have something, Dr. Weir?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "The date."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What about it?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "The Event Horizon's computer think's it's 2034."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "It's 2041..."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Exactly. The ship's internal clock is off by seven years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7833",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Explanation?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Intense gravitational fields effect the passage of time, it's possible...  Black holes make sense on paper, it's all math, you see, but as to what really happened...  The Event Horizon has passed beyond our plane of reality, and like Lazarus, returned from the dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7834",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "What the hell is that? Dr. Weir?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7835",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "We barely have enough power for life support as it is, if we can't stop the drain, we're not gonna make it."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "The Core...!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7836",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "We don't get the power back, our air's gonna go bad."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Check the Core for radiation. Carbon dioxide may be the least of our worries."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7837",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "We're a long way from home and we're in a bad place. Let's not make it worse. If anyone has any constructive suggestions, now is the time."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "I think I can stabilize the fields around the singularity, that should prevent another power drain."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7838",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Is that your \"expert opinion?\" The only answer we've had out of you is \"I don't know.\""
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Justin just tried to kill himself. The man is clearly insane."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7839",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "I want to know what caused that noise. I want to know why one of my crew tried to throw himself out of the airlock."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Thermal changes in the hull could have caused the metal to expand and contract very suddenly, causing reverberations --"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "That's bullshit and you know it! You built this fucking ship and all I've heard from you is bullshit!"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "What do you want me to say?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "You said this ship creates a gateway..."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "To what? Where did this ship go? Where did you send it?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "I don't know..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Where has it been for the past seven years?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "I don't know..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "The \"Other Place,\" what is that...?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "I DON'T KNOW!  I don't know. There's a lot of things going on here that I don't understand. Truth takes time."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "That's exactly what we don't have, Doctor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7840",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "We're leaving."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "You can't, your orders are specific..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "\"...to rescue the crew and salvage the ship.\" The crew is dead, Dr. Weir. This ship killed them. And now it's killing us."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "You're insane. You've lost your mind."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Maybe you're right. But it's still my command, and I have leeway to abort when I feel there is an unacceptable threat to my crew. And I think there is.  Starck, download all the files from the Event Horizon's computers. Coop, Smith, finish moving the CO2 scrubbers back onto the Clark."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Don't... don't do this..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "It's done."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7841",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "What about my ship?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "We will take the Lewis and Clark to a safe distance and then launch tac missiles at the Event Horizon until I am satisfied that she has been destroyed.  Fuck this ship."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "You... You can't do that!"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Watch me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7842",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "You can't leave. She won't let you."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Just get your gear back onto the Lewis and Clark, doctor, or you'll find yourself looking for a ride home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7843",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "I told you... She won't let you leave..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Son of a bitch!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7844",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Your eyes..."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "I don't need them anymore. Where we're going, we won't need eyes to see."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Do you know what a singularity is, Miller? Does your mind truly fathom what a black hole is?  It is NOTHING. Absolute and eternal NOTHING. And if God is Everything, then I have seen the Devil.  It's a liberating experience."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7845",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "If you miss me, you'll blow out the hull. You'll die too."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "What makes you think I'll miss?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7846",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "Weir is dead."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Then who the fuck are you?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Your fear. Do you remember the Goliath, Miller?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7847",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "What are you?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "You know."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "You want me to believe you're the Devil, well, I don't, that's bullshit!"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "I'm not the Devil."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Then what, what are you? Tell me..."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Better if I just show you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7848",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "WEIR",
+        "text": "There is no Devil. There is no God. There is only... NOTHING."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "You're lying...!"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "I'm not asking you to believe me. You'll see for yourself... and so will your crew. You're all coming with me."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Starck... Cooper..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7849",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "You can't have them. Go to hell."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "NOOO!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7850",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "I don't like it either, but you know the rules: we get the call, we go. Is the course locked in?"
+      },
+      {
+        "speaker": "SMITH",
+        "text": "Locked and cocked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7851",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "Jesus..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What is that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7852",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "Heading three-three-four..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "...Make your approach vector negative fourteen degrees..."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "One-four degrees..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7853",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "We have a lock on the Event Horizon's navigation beacon. It's in the upper ionosphere, we're in for some chop."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Bring us in tight. Starck, get on the horn, see if anyone's listening..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7854",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "We're all on edge, Smith. We're a long way out..."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "That's not it. That ship was built to go faster than light... That's just wrong, it goes against everything we know..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What are you trying to say? \"If God had intended Man to fly, he would have given us wings?\""
+      },
+      {
+        "speaker": "SMITH",
+        "text": "Something like that, yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7855",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "I guess we're about to find out. Keep us slow and steady."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Dr. Weir...!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7856",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "We've got some weather."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "I noticed. Starck, anybody home?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7857",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "1500 meters. We're getting too close..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Where is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7858",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "Proximity warning! 900, 800 meters, 700... we're right on top of it, we're gonna hit!"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Starck..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7859",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Put it through TACS. Smith, you up for a flyby?"
+      },
+      {
+        "speaker": "SMITH",
+        "text": "Love to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7860",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "It is now.  We're locked in."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Starck, give me a read."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7861",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "Captain Miller..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Smith, where the hell have you been?!"
+      },
+      {
+        "speaker": "SMITH",
+        "text": "We have a situation here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7862",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Do we have enough time for a weld?"
+      },
+      {
+        "speaker": "SMITH",
+        "text": "We don't have time to fart."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "We're losing pressure at 280 liters a second and our oxygen tanks are cracked. In three minutes, our atmosphere will be gone. We are fucking dead."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "No one's dying on my watch, Smith! What about the reserve tanks?"
+      },
+      {
+        "speaker": "SMITH",
+        "text": "They're gone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7863",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "But..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "You heard me, Smith. Peters, are you with me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7864",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "Captain Miller, you copy?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "I'm here, Smith, how's the Clark?"
+      },
+      {
+        "speaker": "SMITH",
+        "text": "I've found a six inch fracture in the outer hull. We should be able to repair it and re-pressurize, it's gonna take some time."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "We don't have time, Smith. In twenty hours we run out of air."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "Understood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7865",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "...you break all the laws of physics, you think there won't be a price? You already killed the first crew..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "That's enough!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7866",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "Sir."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Get outside, go back to work. I'll join you shortly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7867",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "Captain, we got a problem."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Now what?"
+      },
+      {
+        "speaker": "SMITH",
+        "text": "She was right behind me, I turn around, she's gone. She could be anywhere."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Alright. Prep the Clark for launch. I'll find her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7868",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "Skipper..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What is it, Smith?"
+      },
+      {
+        "speaker": "SMITH",
+        "text": "I just saw Weir, I think he was messing around on the Clark."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7869",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Smith, get out of there..."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "Come again, Skipper?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "One of the explosives is missing from the corridor. I think Weir may have put it on the Clark."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7870",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Get off the Clark now and wait for me at the airlock."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "No, no, we just got her back together..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Get out of there now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7871",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "SMITH",
+        "text": "Where is it, where is it..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Smith? Smith! Fuck!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7872",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "We're past the outer marker, we can engage the ion drive whenever you're ready."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Justin?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7873",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "Ion drive will engage in... T-minus ten minutes."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Let's go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7874",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Starck, why aren't you on the bridge?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "I just finished drying..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Then what are you doing here? Come on, people, let's go!  And Cooper... Put some pants on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7875",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "Crossing the horizon. Optimum approach angle is fourteen degrees."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Come around to three-three-four..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7876",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "Something's wrong with the bio-scan."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Radiation interference?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "There's not enough radiation to throw off the scan. I'm picking up trace life forms, but I can't get a lock on the location."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7877",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "That's an affirmative."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Keep your eyes open."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7878",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Everybody okay?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "We're all here."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Okay. Let's find out how much time we just bought."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7879",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "It tastes bad."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "But you can breathe it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7880",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "The antennae array's completely fried, we've got no radio, no laser, no highgain... No one's going to be coming to help us."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "How much oh-two do we have?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "Oxygen is not the problem."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Carbon dioxide?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "It's building up with every breath we take. And the CO2 filters on the Event Horizon are shot."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "We can take the filters from the Clark..."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "I thought of that, with the filters from the Clark, we've got enough breathable air for twenty hours. After that, we'd better be on our way home."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What about the life readings you picked up?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "The Event Horizon sensors show the same thing: \"Bio-readings of indeterminate origin.\" Right before that wave hit the Clark, there was some kind of surge, right off the scale, but now it's back to its previous levels."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What's causing the readings?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "I don't know, but whatever it is, it's not the crew."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "So where is the rest of the crew? We've been over every inch of this ship and all we've found is blood. Dr. Weir? Any suggestions?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7881",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "What's the point? I'll just get the same thing..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Not acceptable. I want to know what's causing those readings. If the crew is dead, I want the bodies, I want the crew found."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "I can reconfigure the scan for C-12, amylase proteins."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Do it. Dr. Weir..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7882",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "Maybe one of the original crew?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "No. It was someone else."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "Who?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Dr. Weir, you were right there, you must have heard something, seen something..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7883",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "Miller..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What is it, Starck?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "...I ran the bio-scan with the DNA/RNA filter. The results were bio-readings of indeterminate origin..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "\"...bio-readings of indeterminate origin,\" don't you have anything useful to tell me?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "I've got a theory."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7884",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Go ahead."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "There was a another surge in the bio- readings right before you... you saw what you saw. We picked up a similar readings right before the Clarke was damaged. What if there were a connection between the two? The gravity waves, the hallucination, all part of an defensive reaction, like an immune system..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7885",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "You've got to listen..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "To what? What are you saying? This ship is alive?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "I didn't say that, I said the bio- readings correspond to what happened to you, the ship is reacting to us..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "We're hanging on by our fingernails and you're giving me bullshit stories..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7886",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "It's not bullshit, it's the only conclusion the data supports..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Starck, do you know how crazy that sounds? It's impossible."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "I know that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7887",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "If you knew it was impossible, then why'd you waste my time?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "I thought you wanted an answer. And that's the only one I have."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7888",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "What I want is to survive the next ten hours."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "Nine hours and twenty-two minutes."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "I'm going outside to work on the Clark. And Starck... don't tell anyone what you just told me. We've got enough to worry about."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7889",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "Miller, come in..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "What's going on in there, Starck?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "Justin's in the airlock."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7890",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "What?"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "He's awake, he's in the airlock, he's not wearing a suit."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Stay here! Don't stop working!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7891",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "I'm on my way, Starck."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "You better hurry. He's engaged the override, we can't open the inner door."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7892",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Tuck yourself into a crouched position, shut your eyes as tight as you can!"
+      },
+      {
+        "speaker": "STARCK",
+        "text": "Five seconds."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7893",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "Weir can't be alive."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "Whatever was on that bridge wasn't Weir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7894",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "Weir activated the drive. He's sending us to the Other Place."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "We've got to shut it down, we've got to..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7895",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "BLOW THE FUCKER UP."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "Blow it up?"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "We blow the Corridor. Use the foredecks as a lifeboat, separate it from the rest of the ship. We stay put..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7896",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "I'll do it --"
+      },
+      {
+        "speaker": "MILLER",
+        "text": "No. I'll be right back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7897",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "MILLER",
+        "text": "We're armed. This fucker's ready to blow..."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "...repeat, we're armed..."
+      },
+      {
+        "speaker": "STARCK",
+        "text": "Miller, he's back, he was in the tank..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7898",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "STARCK",
+        "text": "Weir."
+      },
+      {
+        "speaker": "MILLER",
+        "text": "He's dead..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7899",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "First time in a grav couch?"
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_7900",
+    "movie_id": "m57",
+    "turns": [
+      {
+        "speaker": "PETERS",
+        "text": "Don't worry about it. He's hard, but he's fair. You're lucky to be shipping out with him. He's one of the few Captains in the service with experience in the Outer Reach."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "He's been past Mars?"
+      },
+      {
+        "speaker": "PETERS",
+        "text": "He served on the Goliath."
+      },
+      {
+        "speaker": "WEIR",
+        "text": "Wasn't that ship destroyed?"
+      },
+      {
+        "speaker": "PETERS",
+        "text": "They attempted to rescue a supply shuttle bound for Titan. The shuttle's oh-two tanks ruptured during the rescue, flooded both ships with pure oxygen. There was a spark and both ships were incinerated. The Skipper and three others just made it to a lifeboat. Captain Miller was able..."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2218 @@
+[
+  {
+    "conversation_id": "conv_77013",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "You took that money from Julia's hand."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "I didn't."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Then what are you hiding?"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "It's a piece of evidence that's worth a great deal more than that."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "You hand that over to the police."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "I'll do nothing of the sort."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "All right, then.  I'll tell them."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "I don't think you will.  It's your father's."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I don't believe it! You're lying!"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "There!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77014",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Oh!"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "Now do you believe me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77015",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Mother!"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "And I'll give then proof!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77016",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "How are you?  Here.  Get under this."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Thanks...  we're taking your cab."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77017",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "Is your father still in there?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "He's waiting for you."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Did he tell you where he was going?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "He wouldn't say."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Tch-tch-tch --  Well, goodbye, Miss Wynant.  You wouldn't drive slowly, so you don't get a tip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77018",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "He didn't do it -- Nick!"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "What do you mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77019",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Another Martini --"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Hello, there!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77020",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "You know, we know each other."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Of course we do! We've been friends for years."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Aren't you Nick Charles?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "You don't remember me.....  I'm Dorothy Wynant."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77021",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Not that scrawny little....?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "NICK",
+        "text": "How did you ever remember me?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "was fascinated with you....  a real live detective....  You used to tell me the most wonderful stories.  Were they true?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Probably not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77022",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Andy...  this is Nick Charles.  He worked on a case for father."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Yes.  Some nut who wanted to kill him.  How is your father?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "That's what I was going to ask you.  he's disappeared!"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Disappeared!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77023",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I don't know anything -- I've been in California for four years. What about his lawyer? Used to be a guy named Mac-- something."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Macaulay."
+      },
+      {
+        "speaker": "NICK",
+        "text": "That's it...  Herbert Macaulay."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "tried him once -"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Why don't you try him again?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77024",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Your father?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "No.  The lawyer -- I'm going to see him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77025",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "How do you do?  I'm sorry we have to rush."
+      },
+      {
+        "speaker": "NICK",
+        "text": "We're at the Normandie for a couple of weeks.  Why don't you drop around?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Thanks.  We will.  Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77026",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I just wanted to relieve your mind. Your father's alive and all right."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Oh, thank heaven."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77027",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Come on in."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I've got to see you alone!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77028",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "You heard about Julia Wolf?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "There."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What are you trying to tell me? That you did it?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Yes.  I hated her for coming between my mother and father.  She kept me from seeing my father.  I went down there to ask her where he was.  She wouldn't tell me, and I shot her."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Where did you hit her?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Why... in the heart."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Pretty good shot you are. What did she do?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "She fell down."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Did she make any sound?  Didn't scream?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Which way did she fall?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "She... she fell over backwards."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Oh, yeah?  People fall toward a shot, you know...  not back from it.  I knew you were lying."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77029",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Where did you get this gun?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I bought it in a pawn shop."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Don't lie to me."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "That's the truth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77030",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Hello, Dorothy."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Hello, Nick!  And a party - celebrating father's third murder -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77031",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Dead?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "He's been dead for three months."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77032",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "It's been the same one for three months."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Forgive me.  How are you?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Take a good look at him, Dad.  Now please try to remember him... 'cause he's going to be your son- in-law."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77033",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "He'll still be your son-in-law!"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "You see how much we have to say."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Dad, this is what I really wanted to ask you...."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77034",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Mother's set her heart on a big church wedding."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Yes, she would."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I hate all that fuss.  But I'll do it on one condition -- that you're there to give me away."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "What would your mother say to that?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "This is my wedding."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Wouldn't it be a little embarrassing ...  all of us there ...  your other and me and your stepfather?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "He can stay home.  Please, Dad, won't you?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "If you think it'll be all right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77035",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "WYNANT",
+        "text": "Wait a minute.  When is it going to be? I'm leaving town tonight."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "It's a secret.  I can't even tell you, my dear.  I've got an important idea to work on."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "A new invention?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Yes.  And I don't want anybody to steal it from me."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "We were planning to be married right after Christmas."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Oh, I'll be back before Christmas."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "It's a promise?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "That's one thing I won't forget.  Where's Macaulay?  I ought to be starting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77036",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "WYNANT",
+        "text": "How's your brother?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "He's all right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77037",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "WYNANT",
+        "text": "I'd like to see him.  Why don't you bring him down?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "You know how it is, Dad.  He's sort of under Mother's thumb."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "I know -- I know --"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "You're not missing much.  He's cuckoo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77038",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "WYNANT",
+        "text": "Like all the rest of us.  Has this fellow...  ...has he seen the whole family?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "And he still wants to marry me!"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "He's a brave man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77039",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Poor Dad, does that still bother you?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Only in bad weather."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "But it isn't bad weather now."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Better get home before it is."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Goodbye, darling.  Don't you dare forget...  December 30th."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Goodbye, my boy.  Take care of Dorothy.  Show her that there is such a thing as a happy marriage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77040",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "DR. WALTON",
+        "text": "You can take that out to the car."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Going to run him through the fluoroscope?"
+      },
+      {
+        "speaker": "DR. WALTON",
+        "text": "Yes."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Do you mind if I come down and see it?"
+      },
+      {
+        "speaker": "DR. WALTON",
+        "text": "Not at all."
+      },
+      {
+        "speaker": "NICK",
+        "text": "I'm very interested in that body."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77041",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Shrapnel!"
+      },
+      {
+        "speaker": "DR. WALTON",
+        "text": "Must have been in the war.  That might account for the cane and his limp."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Yes... yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77042",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MIMI",
+        "text": "What is it, Gilbert? Tell mother! What did he say?"
+      },
+      {
+        "speaker": "GILBERT",
+        "text": "He said that father's in town. He's been seeing Julia right along."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "That woman!"
+      },
+      {
+        "speaker": "GILBERT",
+        "text": "She could tell you where father is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77043",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GILBERT",
+        "text": "Did they find any clues...  a gun or fingerprints or anything?"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "Not a thing."
+      },
+      {
+        "speaker": "GILBERT",
+        "text": "Was there much blood?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77044",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GILBERT",
+        "text": "Did you kill her?"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "Gilbert!"
+      },
+      {
+        "speaker": "GILBERT",
+        "text": "Why not? You had a perfectly good motive."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "I hope you won't talk that way to the police when they come here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77045",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GILBERT",
+        "text": "Well, I've got my alibi.  I was at the Public Library.  Where were you?"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "Children, will you go into the next room? I want to talk to Chris alone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77046",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GILBERT",
+        "text": "I saw him too... he was wearing a green suit with a white tie..."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "What are you talking about, Gilbert? You weren't there!"
+      },
+      {
+        "speaker": "GILBERT",
+        "text": "know.  But I saw him -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77047",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "How'd you people happen to pop in?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "We hear this is getting to be sort of a meeting place for the Wynant family, so we figure we'll stick around in case the old man himself shows up.  Then we seen him...  ...sneak in and we decide to come up.  And pretty lucky for you."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Yes.  I might not have been shot."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "We were looking for this bird."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77048",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I never saw him before."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "What's he want of you?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Wanted to tell me he didn't kill Julia Wolf."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "What's that to you?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "What'd he think it was to you?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Ask him.  I don't know."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "I'm asking you."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Keep on asking."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77049",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Not without a warrant."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "So you say -  Go on, Bob."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77050",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "Have you got a pistol permit?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "No."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Ever heard of the Sullivan Act?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77051",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "This gun yours?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "No."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Who's is it?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I'll have to try to remember."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Okay.  There's plenty of time. I guess we got to ask you a lot more questions than we counted on. We'll come up tomorrow when you're feeling better.  Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77052",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "You oughtn't to play this trick on me.  Running out when I was giving you time to rest up before I asked you those questions."
+      },
+      {
+        "speaker": "NICK",
+        "text": "You mean about that gun?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "That ain't a gun any more.  The firing pin's busted - the -  Don't waste time talking about that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77053",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "Man to man, Mr. Charles, are you working on this case?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Man to man, I'm not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77054",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "So would I."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "It's a bargain then.  Anything you want to know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77055",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "What about the suicide?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Oh, that's a phoney.  The men didn't even have to go down."
+      },
+      {
+        "speaker": "NICK",
+        "text": "I thought it might be.  From now on, they're going to think that every thin man over six feet with white hair is Wynant."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77056",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "You've been there?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Yeah. Couldn't find a thing. This is the way we figure it.  Wynant goes to Julia's apartment. He finds Morelli there... sees she's two- timing him.  They have a fight. But he figures he don't want to do anything then.... Morelli might squeal.  So he goes away. He don't let his lawyer know anything has happened... he lets him go ahead and and hand over money to Julia to give to him, so that Julia will think it's all blown over. Then, when she don't expect it... he lets her have it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77057",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "No proof?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Nothing yet to cinch it."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Fifty will get you a hundred that he didn't do it."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "For one thing, he was too absent- minded to hold a grudge."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Who's your candidate?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I haven't got that far yet.  But I don't think that everything points to Wynant.  What about the alibis?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "They're all O.K.  Mrs. Jorgensen, the boy, Dorothy, Macaulay... even Morelli... we had to let him go."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What about Jorgensen?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "I'll check on that.  I'm afraid this is kinder dull for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77058",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "What about this Nunheim?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Oh, he's all right.  We know all about him.  He does a little stooling for us every once in a while."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Did you know he was hanging around Julia?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "No."
+      },
+      {
+        "speaker": "NICK",
+        "text": "He's holding out on you."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Let's go and see.  Taxi!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77059",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "Well, what'd you think?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I think we're on the right track."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Who're you calling?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I'm calling your office so you can send out a man to trail him. I want to see where he goes."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Trail him!  Trail who?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Nunheim!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77060",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "Get anything?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "She's ready to talk.  It won't do any harm, though - to find out where he is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77061",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "I guess that cinches it, eh, Mr. Charles?  He killed them both - Julia Wolf and Nunheim."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Fifty will still get you a hundred."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "This is enough for me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77062",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Just rolled them up and threw them in."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Lucky thing for us they weren't in that lime."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Extraordinarily lucky."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77063",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "\"D.W.R.\"  That case you worked on... the guy who threatened to kill Wynant... what what was his name?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Rosebreen."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Could this be him?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I never saw him.  I don't think anyone saw him."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "He said Wynant tried to steal an invention."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Yes.  But we figured it was just blackmail..."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Just the same, Wynant wouldn't mind having him out of the way, would he?  How long should you say this body'd been here, Doc?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77064",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "What're you doing here?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I'll take care of him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77065",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "Are you kidding?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "No."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Why didn't you tell me? .... Why didn't you hold him?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Because I found out for certain that he didn't commit the murders."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77066",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "You mean that body-----?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "--was Wynant's."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77067",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "Shut up."
+      },
+      {
+        "speaker": "NICK",
+        "text": "You see, he'd been very clever. Everybody, even our astute friend Guild, thought that Wynant was alive and that he was the murderer. But our hero had just one weak link in his chain.  The telegrams, wires and telephones were all very well - but no one had seen Wynant. So he picked on poor Mimi here to strengthen his case.  Mimi is the only one at the table who can tell us who the real murderer is.  Mimi, who was it that told you to say you'd seen Wynant?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77068",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "When was the last time you gave her money for Wynant?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Yesterday.  I gave her a thousand dollars."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Seen any signs of it, Bill?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77069",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "I said he hadn't written me."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Oh, then you did hear from him?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Well...."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Well, what?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "He telephoned me today."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "He did!"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "I wasn't in.  My secretary took the message.  He left word for me to meet him at the Plaza."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "When was that?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "About three."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Did you go?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Yes.  But he didn't show up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77070",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "I know he'll turn up as soon as he sees this in the papers.  You can't think he had anything to do with it, Mr. Guild.  He wasn't the kind of man that...."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Do you know what they fought about that night he went away?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "I didn't know they had a fight."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Well, thanks.  We'll call you when we need you again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77071",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "There are a few things we want to check up on."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "I see."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "You say you were in the room with the body from the time you discovered it 'til we came?"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "Why yes."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Did you see anything in Miss Wolfe's hand?"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "No."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Are you sure you didn't leave the room...  that one of the bellhops or maids might not have been in there alone?"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "I don't think so.  Of course I was terribly upset...  I hardly knew what I was doing."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "The Medical Examiner seems to think that the body was touched.  He says it looks as if the girl's hand had been forced open after she was killed...."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77072",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "That's all right.  Well, we'll be going."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "Goodbye."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77073",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "You did!"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "That's nothing.  I saw him myself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77074",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "What kind of clothes was he wearing?"
+      },
+      {
+        "speaker": "MIMI",
+        "text": "A brown suit, brown shoes and a white shirt and a grayish tie with red, or reddish brown figures on it."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Tell 'em."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77075",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MIMI",
+        "text": "That's ridiculous."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Let him have his say out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77076",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "Good morning --"
+      },
+      {
+        "speaker": "NORA",
+        "text": "Good morning, Lieutenant -  Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77077",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NORA",
+        "text": "But he's interested!"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "I don't mind telling you I'd rather have you working with us than against us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77078",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NORA",
+        "text": "Do you think that Wynant did it?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Looks like he planned, something. He shut up his apartment and his shop."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77079",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NORA",
+        "text": "I think we may as well sit down."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "I guess all the suspects are here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77080",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NORA",
+        "text": "Mr. Guild means guests!  Oh, there are two more to come."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "They'll be here.  Don't worry.  My men are picking them up."
+      },
+      {
+        "speaker": "NORA",
+        "text": "You're a great help to a hostess. I wish I always had you for my dinner parties."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77081",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NUNHEIM",
+        "text": "Have a shot?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "What's the idea of telling me you just knew the Wolfe girl by sight?"
+      },
+      {
+        "speaker": "NUNHEIM",
+        "text": "That's all I did, Lieutenant. That's the God's truth.  Maybe I said hello to her or how are you or something like that when I saw her, but that's all I knew her. That's the truth.  All right.  Put your mouth in and I'll pop a tooth out of it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77082",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NUNHEIM",
+        "text": "She drives me nuts.  She's been ragging me all day."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Maybe if you quit running around after other women you wouldn't have so much trouble with this one."
+      },
+      {
+        "speaker": "NUNHEIM",
+        "text": "That's a lie, Lieutenant...  Anybody that says that is a liar."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Want to take a poke at him?"
+      },
+      {
+        "speaker": "NUNHEIM",
+        "text": "I didn't mean you, Mister."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77083",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "You'd done better to have told me that in the beginning.  Where were you the afternoon she was knocked off?"
+      },
+      {
+        "speaker": "NUNHEIM",
+        "text": "You don't think I had anything to do with it?"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Where were you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77084",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "GUILD",
+        "text": "Where were you?"
+      },
+      {
+        "speaker": "NUNHEIM",
+        "text": "Marian!  Marian! Don't go! I'll behave!  I'll do anything!  Don't go, Marian!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77085",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NUNHEIM",
+        "text": "Let me go!  Let me bring her back. I can't get along without her. I'll bring her right back and I'll tell you anything you want to know. Let me go!"
+      },
+      {
+        "speaker": "GUILD",
+        "text": "Sit down!  We didn't come here to watch you and that broad dance around a May pole.  Where were you the afternoon the girl was killed?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77086",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NUNHEIM",
+        "text": "I can't remember offhand, Lieutenant.  Maybe I was over at Charlie's shooting pool. Maybe I was here.  She'd remember."
+      },
+      {
+        "speaker": "GUILD",
+        "text": "How'd you like to be thrown in the can on account of not remembering?"
+      },
+      {
+        "speaker": "NUNHEIM",
+        "text": "Just give me a minute....  I'll remember. I'm not stalling, Lieutenant.  You know I always come clean with you.  Gee, it'd serve me right if you had pinched me...  that's the afternoon I was.... wait, I'll show you...!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77087",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MIMI",
+        "text": "Don't mind what she says, Chris."
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "How can I help but mind? I'm constantly humiliated...  just because I haven't money."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "I'll get some."
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "You've said that for weeks."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "I know."
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "Why don't you go to see Julia? She handles his money."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "Chris!"
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "All right.  All right."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "I couldn't go near that woman."
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "I said all right!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77088",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MIMI",
+        "text": "What are you going to do?"
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "Just what I said I'd do."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "You wouldn't do that...  you wouldn't!"
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "Wouldn't I.  Just watch me."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "Chris -- Chris -- !"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77089",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MIMI",
+        "text": "and there she was lying dead.  The police said she'd probably been killed about ten minutes before I got there."
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "I thought you said you weren't going there."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "Why, you said..."
+      },
+      {
+        "speaker": "JORGENSEN",
+        "text": "Never mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77090",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "JULIA",
+        "text": "We're just having a little drink."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "So I see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77091",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "WYNANT",
+        "text": "Who's that man?"
+      },
+      {
+        "speaker": "JULIA",
+        "text": "He's not anybody.  Just a fellow I used to know."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "I thought you'd given up that sort of friend."
+      },
+      {
+        "speaker": "JULIA",
+        "text": "This is the first time I've seen him in years.  I didn't want him to think I was high-hatting him."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "I don't like him."
+      },
+      {
+        "speaker": "JULIA",
+        "text": "Don't worry.  You won't see him again.  What happened? Did you change your mind about going?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "No.  I just came back for a second. I wanted to get those bonds."
+      },
+      {
+        "speaker": "JULIA",
+        "text": "What bonds?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "The government bonds.  The ones you took from the office safe."
+      },
+      {
+        "speaker": "JULIA",
+        "text": "Oh yes.  Why, you told me to sell them a long time ago."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "I'd never tell you to sell those. I bought them for my daughter."
+      },
+      {
+        "speaker": "JULIA",
+        "text": "Don't you remember...."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Now see here, Julia.  You're counting a little too much on my being absent-minded.  You've been taking a little here and there for some time, and I haven't said anything about it.  But this is fifty thousand dollars!"
+      },
+      {
+        "speaker": "JULIA",
+        "text": "Do you realize that you're accusing me of ...."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "No one else had the combination of that safe.  You took them.  What did you do with them?"
+      },
+      {
+        "speaker": "JULIA",
+        "text": "What if I did take them? I'm sick and tired of seeing you hand out thousands of dollars to that family of yours...."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "That's my business."
+      },
+      {
+        "speaker": "JULIA",
+        "text": "supporting that gang of loafers! There's not one of them that cares a damn for you.  A wife who threw you out the first time your foot slipped.  They wouldn't raise a hand to help you.  And I've given my whole life for you.  If you kicked off tomorrow, where'd I be? Out in the gutter!  Sure I took those bonds.  Who has a better right -- ?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77092",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "WYNANT",
+        "text": "I want that money right now, or I'll hand you over to the police."
+      },
+      {
+        "speaker": "JULIA",
+        "text": "Go ahead!"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "They'll be pretty rough with you....with your record."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77093",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "JULIA",
+        "text": "That's a fine thing to throw up to me after all I've been to you...."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Hello ....  give me ....  Well ....  ?"
+      },
+      {
+        "speaker": "JULIA",
+        "text": "I'll give it back to you ....  all I've got ....twenty-five thousand..."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "You're going to return every cent of it!"
+      },
+      {
+        "speaker": "JULIA",
+        "text": "I can't! I haven't got it!"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "What did you do with the rest?"
+      },
+      {
+        "speaker": "JULIA",
+        "text": "I never had it."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Then someone was in with you.  Who was it? -- Who was it?  I'll answer that --  Hello ...  hello ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77094",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NORA",
+        "text": "Is there a Mr. Macaulay in the house?  Oh, it's you."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Yes?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77095",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NORA",
+        "text": "Oh, hello.  Come on in."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Good morning. I'm afraid this isn't a very \"Merry Christmas\" for you."
+      },
+      {
+        "speaker": "NORA",
+        "text": "Oh, he's sitting up."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77096",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NORA",
+        "text": "Asta - don't bother Mr. Macaulay."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "That's all right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77097",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "I got word from Wynant this morning..."
+      },
+      {
+        "speaker": "NORA",
+        "text": "So did we.  I mean, Sherlock here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77098",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NORA",
+        "text": "Oh, please, Nick."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Would it help any if I could persuade him to meet you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77099",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "WYNANT",
+        "text": "Did you get my money?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "I do wish you'd tell me where you're going."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "I'm not telling anyone."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "But suppose some business comes up..."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "That's just why I'm going."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77100",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "One hundred...  two hundred... three..."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Never mind."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "I wish you'd count them.  There's a thousand dollars there."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "I trust you."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Isn't there anything else I can do for you? Have you bought your ticket?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "No."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Well, let me do that for you."
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "You might do that.  Get me a ticket for...  No, you don't!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77101",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "WYNANT",
+        "text": "Thanks, and goodbye."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "What'll I do if something comes up?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "Settle it yourself.  What have I got a lawyer for?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Is Julia going with you?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77102",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "But what if you need more money?"
+      },
+      {
+        "speaker": "WYNANT",
+        "text": "I left instructions with Julia. She'll get it from you.  Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77103",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "How are you?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Hello, Macaulay.  Come in."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Dorothy told me you were here.  I was going to telephone but...."
+      },
+      {
+        "speaker": "NICK",
+        "text": "That's all right.  What are you drinking?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77104",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "Nothing, thank you.  Nothing.  I wanted to see you...  What's Mimi up to, Charles?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Mimi?  ...  Oh, Dorothy's mother.  Does she have to be up to something?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "She usually is.  Trying one way or another to get money out of Wynant. I wanted to find out if you were er - er -  --sleuthing for her."
+      },
+      {
+        "speaker": "NICK",
+        "text": "I haven't been a detective for four years."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "You don't say --"
+      },
+      {
+        "speaker": "NICK",
+        "text": "My wife's father died and left her a lumber mill and a narrow guage railroad and a couple of other things.  And I'm looking after them."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "I see.  I see."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What's all the fuss about? Is he in hiding?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "You know as much about it as I do. I haven't seen him in three months."
+      },
+      {
+        "speaker": "NICK",
+        "text": "No word at all?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "He sends word through Julia Wolf when he wants money...  I give it to her and she gives it to him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77105",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "My wife."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "How do you do?  What did you say?....  He is?.... Where is he?  Very well.  He's back in town....  Wynant.  Thank heaven.  He's waiting for me now.  Forgive me, Mrs. Charles...  but I've been so upset.  It's no joke working for a man like that.  I must be off.  Goodbye....  Goodbye,"
+      },
+      {
+        "speaker": "NICK",
+        "text": "S'long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77106",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "How are you?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "I hate to bother you when you're laid up."
+      },
+      {
+        "speaker": "NICK",
+        "text": "That's all right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77107",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "What are the chances of getting you to do what he wants?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Slim."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77108",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "It might."
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "He gave me a code message to insert in the Times, in case I wanted to get in touch with him."
+      },
+      {
+        "speaker": "NICK",
+        "text": "It wouldn't hurt to put it in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77109",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "I've done that already. He should appear, you know.  It doesn't look well... his staying away at a time like this."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Hello.... oh, just a minute.  Police department?"
+      },
+      {
+        "speaker": "MACAULAY",
+        "text": "Hello....  Where?  In Allentown.  Yes... When is the next train? Right - I'll get that.  Wynant's tried to commit suicide. They want me to come down and identify him.  I guess this changes the whole story, doesn't it?  That looks like an admission of guilt.  And I had such hopes.  I thought if you got on the case, you'd be able to clear him.  I thought that Mimi.... the way she acted... I was sure that....  Oh, well, well... it's no use thinking of it now.  I'm sorry to have wasted so much of your time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77110",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "But it must have been Wynant.  I should have known if it weren't his voice."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Oh he as clever about that.  He called when you were out.  That same afternoon, Julia telephoned to him. She said that you were coming, Mimi, to ask about Wynant. He got terrified. He was afraid that Julia would break down and tell... so he went to Julia and killed her and left Wynant's watch chain in her hand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77111",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MACAULAY",
+        "text": "I have no right to answer that."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What about it, Tanner.  Isn't that the truth?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77112",
+    "movie_id": "m569",
+    "turns": [
+      {
+        "speaker": "MIMI",
+        "text": "Oh, Nick... Nick!"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Hello, Mimi."
+      },
+      {
+        "speaker": "MIMI",
+        "text": "want to talk to you about something very important."
+      }
+    ]
+  }
+]

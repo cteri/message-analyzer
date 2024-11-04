@@ -1,0 +1,1970 @@
+[
+  {
+    "conversation_id": "conv_19001",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "Who's controlling your mind?"
+      },
+      {
+        "speaker": "DAVE",
+        "text": "Whoa!... The government. They control everybody's mind. You're too fucking stupid to know that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19002",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "This has nothing to do with Walter."
+      },
+      {
+        "speaker": "DAVE",
+        "text": "They want Walter dead!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19003",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "Tell me what's wrong."
+      },
+      {
+        "speaker": "DAVE",
+        "text": "Particles, man. I feel them all the time. I feel them in my arms and legs man, that's how they punish me."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "How can I help you with the particles?"
+      },
+      {
+        "speaker": "DAVE",
+        "text": "It's not just the particles man, it's the whole fucking machine, this is how they get assassins to operate. It's been this way since the cuban missile crisis."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19004",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "They have less power over you if you look into my eyes."
+      },
+      {
+        "speaker": "DAVE",
+        "text": "Huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19005",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "DAVE",
+        "text": "Tell my dad."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Tell him what, what do you want me to tell him?"
+      },
+      {
+        "speaker": "DAVE",
+        "text": "Tell my dad I'm sorry about the watch."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I'll tell him. Where does he live. We'll get him on the phone right now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19006",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "DAVE",
+        "text": "I hate fucking Springfield."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Is that where you're family lives?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19007",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "EARL",
+        "text": "Where's the car?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I need to get something straight first."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19008",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "It's my job to see that no one gets killed, Earl... Including you."
+      },
+      {
+        "speaker": "EARL",
+        "text": "Then where's my FUCKING car!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19009",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "EARL",
+        "text": "Really?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Absolutely. Bank robbers are generally your smartest criminals."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19010",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "The Old Guy? What kind of show of faith is that? I want Debbie."
+      },
+      {
+        "speaker": "EARL",
+        "text": "Am I gettin' the car?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You're gettin' the car."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19011",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "EARL",
+        "text": "What?!"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You want a convertible or hardtop?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19012",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Manual or automatic?"
+      },
+      {
+        "speaker": "EARL",
+        "text": "Automatic."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19013",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "JAIL GUARD #2",
+        "text": "Who are you again?"
+      },
+      {
+        "speaker": "KORDA",
+        "text": "Johnny Hawkins. Bail Bonds. I gotta be over at county in fifteen minutes, alright?"
+      },
+      {
+        "speaker": "JAIL GUARD #2",
+        "text": "Johnny who?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19014",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "JAIL GUARD #2",
+        "text": "Hold on a second here."
+      },
+      {
+        "speaker": "KORDA",
+        "text": "Is there a problem?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19015",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "JAIL GUARD #2",
+        "text": "You signed out twice."
+      },
+      {
+        "speaker": "KORDA",
+        "text": "I what?"
+      },
+      {
+        "speaker": "JAIL GUARD #2",
+        "text": "Look, why don't you just come on back inside for a second."
+      },
+      {
+        "speaker": "KORDA",
+        "text": "Wait a minute, lemme see that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19016",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "KIMURA",
+        "text": "Hi, Roper."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Hi, Kimura. Where's the command post?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19017",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "KIMURA",
+        "text": "The suspect came in shortly after the bank opened. Botched robbery. A teller hit the silent alarm. He took seven hostages. Shot one -- the guard. He's still alive. So far he's asked for..."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "...a car."
+      },
+      {
+        "speaker": "KIMURA",
+        "text": "That's right, and a plane waiting at the airport. If he doesn't..."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "...get 'em, he's going to start shooting hostages in five minutes..."
+      },
+      {
+        "speaker": "KIMURA",
+        "text": "That's right."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "What's the suspect's name?"
+      },
+      {
+        "speaker": "KIMURA",
+        "text": "Earl."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19018",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "We got a guy who's probably on drugs. He's got a record of 459's and he was busted on possession. But he's never been busted on a major felony. What's his demeanor?"
+      },
+      {
+        "speaker": "KIMURA",
+        "text": "Well he's a little fucking agitated -- he ripped the phone out."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I have to go face to face."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19019",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Anything on Korda so far?"
+      },
+      {
+        "speaker": "KIMURA",
+        "text": "Solis said to keep you clear of this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19020",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "What do you got on Korda?"
+      },
+      {
+        "speaker": "KIMURA",
+        "text": "We ran a search on relatives. He has a cousin in town -- Clarence Teal. Smalltime thief. Last known address was on Pine Street. He moved out a month ago. We've got a couple leads on him to check out."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Did you check out DMV for any vehicles registration?"
+      },
+      {
+        "speaker": "KIMURA",
+        "text": "Being faxed over now."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "How about the record room for any incident reports? He might be a victim. We can get medical records. Check with burglary detail and see if anyone else knows him, knows his habits."
+      },
+      {
+        "speaker": "KIMURA",
+        "text": "Roper..."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "And what about bars? We can talk to neighbors to see what bars he frequents."
+      },
+      {
+        "speaker": "KIMURA",
+        "text": "Roper, we're into it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19021",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "KORDA",
+        "text": "You don't have to come here."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Yes, I do. That way there's no misunderstandings. I need to make sure no one's hurt, then we can take care of business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19022",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "KORDA",
+        "text": "Alright, Roper. You want to come... come."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Good. I won't be armed. We gotta operate on trust here. We're going to wrap this up and have you guys out of here as soon as possible."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19023",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "KORDA",
+        "text": "Are you in charge, Roper?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Yep."
+      },
+      {
+        "speaker": "KORDA",
+        "text": "I want a car. Like a four wheel drive. I want it in perfect condition. I want a uniformed cop to drive it up right here. I want him to leave the engine running and walk to the end of the street. Then we'll come out. I don't want any remote control devices in it. I know all the tricks. If it's not in perfect condition, and I mean if its even low on wiper fluid, I'm going to kill somebody and we're gonna start again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19024",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "KORDA",
+        "text": "I want a plane waiting at the airport. I'll tell them where I want to go when I get there."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Is that all?"
+      },
+      {
+        "speaker": "KORDA",
+        "text": "For now that's all."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You'll get it. But, Joe, I want you to do something for me. Let me take a look around inside. Make sure everybody's okay."
+      },
+      {
+        "speaker": "KORDA",
+        "text": "No. You just do shit for me right now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19025",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Joe, I'm doing a lot for you. I think you could give me something to cement the deal... One hostage."
+      },
+      {
+        "speaker": "KORDA",
+        "text": "I'll give you something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19026",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "KORDA",
+        "text": "You can't kill me like this."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "What if you and me got into a struggle... and my gun went off?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19027",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "KORDA",
+        "text": "Open your shirt."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I'm not wearing a wire. This is just between you and me."
+      },
+      {
+        "speaker": "KORDA",
+        "text": "Shut the fuck up and do what I say!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19028",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Satisfied?"
+      },
+      {
+        "speaker": "KORDA",
+        "text": "Open the bag, dump everything on the table."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19029",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "It's all there."
+      },
+      {
+        "speaker": "KORDA",
+        "text": "Spread it out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19030",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "KORDA",
+        "text": "I'm impressed. I didn't think you could do it. What did you have to do, steal them?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "KORDA",
+        "text": "That's not going to look too good on your service record."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I'll worry about that. Let's get on with it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19031",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "Same here. I've watched you in action. Very impressive."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You've got a lot of hard work ahead of you if you want to be a negotiator."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I'm ready to do it.  And I'm going to be here more than two weeks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19032",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Don't go reading my lips, man. That's an intrusion. Save that shit for the sniper school. Comprende?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Sorry... Habit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19033",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "We're already past it, aren't we, Kevin?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "If you say so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19034",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "You ever been in a hostage situation?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Only at the very end."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "How do you feel after a shooting."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Like it had to be done."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19035",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "It rarely has to be done."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I've rarely shot anyone."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "SWAT is a lifesaving unit, you know."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I know."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Try to remember that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19036",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "What's the point of this?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "A little exercise in lateral thinking. The obvious solution isn't always the only solution... See you tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19037",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "I'm sorry about your friend. I had a friend in SWAT killed. I know how it can be."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I appreciate your concern. Let's leave it at that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19038",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "So, McCall, how come you ended up in San Francisco?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "They recruited me. Promised me fast advancement."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Recruited you from where?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "National Marksman Competition."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "With your qualifications you must have had a lot of offers. Why here?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Furthest point I could find from New York."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You don't like New York?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Spent my whole life there. I just wanted to get out for a while."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You'd never been out of New York?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Been to Toronto. My mother was born there."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "How did you like Toronto?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "It was okay."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You're a real excitable sort, aren't you?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "You caught me on an \"up\" day.  How about you? How did you end up in San Francisco?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I grew up in Oakland... Crossed the Bay Bridge and here I was.  So you're looking for \"fast advancement\"."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Is there something wrong with that?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I'm not sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19039",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "How are we gonna get him out of there?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "We could fill it with water."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19040",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "Eighty-five percent of domestic disturbances of this nature end in murder/suicide."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Not the ones I'm at."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19041",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Come on. Let's go for a drink."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I don't really like to drink."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You have to. It's a tradition."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Well, if I have to, I have to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19042",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "You got a girlfriend?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Why? You like my ass?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19043",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "You wouldn't want to put a small wager on this, would you?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I don't gamble."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19044",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "Yeah, I've got a girlfriend."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You living together?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "She's back in Jersey... going to graduate school."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Explain how that works."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "She's going to come here when she graduates and then we're gonna get married."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "She grow up in Livingtston, too?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "No, no, no...  She's from Hoboken."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Oh, \"city girl\". Don't you ever long for companionship with her such a long way away in New Jersey?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "We see each other every couple of months."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Every couple of months, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19045",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "That's a lot of commitment. I admire that."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Do you really?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "No. Actually I think it's fucking crazy, I don't know if I could do it."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Thanks for clearing that up.  I hear your former girlfriend is going out with Greg Barnett."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Where did you hear that?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Around. Barnett's tough competition."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Yeah, well that's a sore subject, and therefore out of bounds to a young sprout of a hostage negotiator under my tutelage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19046",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Lesson two, \"Dead Eye\"... should have been lesson one. Never exchange yourself for a hostage."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I think I can handle that one."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Yeah, you think so, but it comes up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19047",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "You think you can learn, McCall?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19048",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "First things is, don't say, \"What's going on?\" Everybody knows what's going on. I come into this situation, I say,  \"I'm glad to see nobody's hurt. That's good. I'm here to help you.\"  Second: You hesitated. Don't hesitate. If you're thinking, talk while you're thinking, or else he's going to think you're plotting. Which you are. If he thinks you're plotting, you're going to make him nervous. You don't want him nervous. Got that?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "No."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "It'll come. Try again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19049",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "Tell me what you need."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I need you to bring me the scumbag who ran off with my wife so I can cut off his nuts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19050",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "I can't do that."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Then get out of my face you worthless piece of frogshit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19051",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Nah, I just throw that in because I enjoy it."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "So what do I say to this guy?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You could say something like,  \"Tell me what the scumbag's name is. Maybe we can work something out.\""
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "What? Bring somebody in so he can cut his nuts off?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19052",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "If you want to be a successful negotiator, you've got to learn to lie."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I'm not good at lying."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Get good at it."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "It's against my nature."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19053",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "You know the ten commandments?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "What's the first commandment?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Thou shall have no other God before me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19054",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "You tell me."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Thou shall not kill... You've killed, right?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Why?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "To save lives."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "So why would you hesitate to lie to save lives?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19055",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "My name's McCall. I'm unarmed."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Okay, stop."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19056",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "What did you see?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "A dirtbag behind the counter holding a sawed-off. A Berretta nine millimeter in his belt. A female hostage, red dress, on the floor in front of the cereal display. Male hostage, jeans and blue checked shirt, three feet to her right. Another male hostage, white pants, green shirt, Nikes, laying in front of the magazine rack. A female dirtbag with a gun under her shirt, sitting against the beer cooler, trying to pass herself off as a hostage, and there's a special on toilet-paper, four for a buck twenty-nine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19057",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "Why did he do it?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Because he knew the little girl had zero chance of survival and his chances would be a little better... We had a plan, but SWAT opened up too early. He got caught in the crossfire.  Let's move on... Notice this. Always use the eyes to keep the connection. It almost like hypnosis. That's the most important thing. Create a connection. You're always on their side..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19058",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "You know why I like the track?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "You're a compulsive gambler?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19059",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "See the favorite? Tail up. Washy. He doesn't want to run today. Cross him off... Now the Six looks good. On his toes. Coat shiny. This trainer/jockey combo does well. We can't leave him out.  What do you think?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I have two words for you... Seek help."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I have three words for you... Ex-ac- ta."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19060",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "I bought you a four-six exacta box. You owe me twenty bucks."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19061",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "We need the 4 and 6 to finish to first and second."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19062",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Ronnie... Yeah, so."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Now she's going out with Greg Barnett?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "So what do you want?... An autograph."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I don't know why she'd pick him over you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19063",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "I'm just practicing my lying."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Still needs work."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "You're right. I'll never be as good a liar as you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19064",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "The 6 horse is last."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "That's okay. That's his style."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "To run last?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "To run late!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19065",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "The 6 horse is still last."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "He'll be running at the quarter pole."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19066",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "They need to run first and second?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Yeah, first and second."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19067",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "COME ON RUSSELL!...  Who the fuck's Russell?!"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "The jockey!"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "COME ON, RUSSELL!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19068",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "We won!"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "We lost."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "We won."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "How much you wanna bet?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "You want to bet on whether you won your bet? This is getting sick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19069",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "How long you been coming here?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "About six years. My partner took me."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Is it always like this?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Occasionally you lose."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19070",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "See this. Solis has me driving the shit-mobile, and he picked this up straight out of impound for fourteen grand. Probably worth thirty."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Police corruption. It's everywhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19071",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "There's your answer. He's smart."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "He's cutting down the visibility."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "And doing a very good job of it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19072",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "He's got the girl."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Damnit!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19073",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "What the fuck is going on."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I don't know, but I've got to get on there."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "You're crazy."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Pull up alongside."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19074",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "It might have happened no matter who was up there."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Bullshit! Would it have happened to you?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Maybe... There's one thing you have to remember... You don't create the situations. You can only try to save people from them."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I thought I could do it. I was so damn sure of myself. But I didn't know what to say. The words wouldn't come. My mouth turned to mush. You make it look so easy, Roper. But it is not. It's not easy.  It's a different job than looking through the rifle scope."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "That it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19075",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "How many have you lost?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I look at it as how many I've saved. That's the way you've got to look at it."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "And what about the ones you don't save?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You live with it... and they haunt you. It doesn't leave."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "And what if you can't live with it?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You've got to decide that for yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19076",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "He's gonna kill her no matter what. If I take him these jewels he's gonna kill me and her."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "So what do you want to do?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "That's a chance I gotta take."
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "Then we better get moving... But there's no way we can get the jewels out of evidence."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19077",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "MCCALL",
+        "text": "Mare Island is an abandoned shipyard, cranes, high buildings... he'll be in place where he can see everything.  How are we going to get me in there?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Good question."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19078",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "McCall, you all right?"
+      },
+      {
+        "speaker": "MCCALL",
+        "text": "I'm okay. Korda... went down the side of the building..."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Stay put."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19079",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Roper. Metro Division. Hostage Negotiator. Give me the short version."
+      },
+      {
+        "speaker": "OFFICER #1",
+        "text": "Husband came home. Found that guy and his wife \"in flagrante\". Now he's holding her at knife point."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Which apartment?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19080",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Have you evacuated anyone?"
+      },
+      {
+        "speaker": "OFFICER #1",
+        "text": "Only that floor."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Is the hostage injured?"
+      },
+      {
+        "speaker": "OFFICER #1",
+        "text": "Don't know. She keeps screaming to stay out. He keeps screaming to stay out. We decided to stay out."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Well, there's a good amount of agreement on that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19081",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "I know how you feel, Ray."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "You don't know shit, and I suggest you leave."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19082",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "I can't leave, Ray. It's part of my negotiator's oath. Once I'm in the room with the hostage, I have to stay."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "You don't want to see what I'm going to do to her."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Let me show you something, Ray."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19083",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Same thing happened to me, man. She cheated on me, but I forgave her. You know why?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "I ain't interested in your life story."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Because I was partially to blame. I wasn't around as much as I should have been. I forgot how to love her."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "She's the one to blame. Not me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19084",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Ray, think about how she looked when you married her. Think about how happy you were. Don't lose that, man. Don't give up everything."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "What am I giving up? I'm laid off last year. I'm down to my last unemployment check. I'm out on the streets looking for work and this bitch is banging some asshole in my bed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19085",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Ray, if you walk out of here with me, I'll get you a job."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "Doing what? Cleaning toilets?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I can't guarantee you what it will be. But I swear on my life, I'll find you work."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "And why the fuck would you do that for me?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Not for you, Ray. For me. A close friend of mine was killed this week. The way I figure it, I stop you from doin' what you said, I'm one up on body count."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "Who the fuck are you, Mother Teresa?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "My name's Scott Roper."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19086",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "This baseball player you're going out with...  He's no good for you."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Really?! He's a wonderful guy. He makes two million a year, and he worships me."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I worship you."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "You worship yourself."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Ronnie, forget this what's-his-name."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Greg."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Did you know he's already got a bad knee? In another 10 years you're going to be pushing him around in a wheelchair."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19087",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "RONNIE",
+        "text": "You know what I think? I think you only want me now, because I'm with somebody else."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Who cares what you think. I want you back and that's all that matters."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19088",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Let me take you out tomorrow night... Pleeease."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "I'm going out with Greg tomorrow."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "This Greg is really getting in my way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19089",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Please. I'm begging you."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Oh, I've got to get a shot of this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19090",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "RONNIE",
+        "text": "Hey."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Hey yourself. Came by to see Troy."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "A little late for that, Scottie. He's asleep.  Jack Daniels?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I'm not drunk. Yet."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Maybe you should be."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You heard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19091",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "RONNIE",
+        "text": "Yeah. I'm sorry."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Can I come in?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19092",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "That a new picture?"
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "About 4 months old. I'm working in a new style."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19093",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "I won't stay long. I had to talk to someone."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "You don't usually talk to anyone when you're hurting."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "It was my fault. I was right downstairs. I should have gone up with him."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Scott, You can't save everyone."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I've proved that, didn't I?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19094",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "Oh, hell, forget it. This won't work."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "What do you want from me?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Something I guess I can't have anymore."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Don't try to make me feel guilty. The whole time we were together, you went out of your way to prove you didn't need me. Now, suddenly, for one night, you need me again. I can't do it. I can't be more than your friend. Because I know what will happen. In a few weeks you'll be back on top, and you'll shut me out just as soon as you don't need me again."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "You think I didn't need you?"
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "If you did, you never showed it."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Ronnie..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19095",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "I wanted to get this out of the way."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "You got a bet on the game tonight?"
+      },
+      {
+        "speaker": "ROPER",
+        "text": "As a matter of fact, I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19096",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "RONNIE",
+        "text": "It's already started."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I was going to catch the last half on TV."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19097",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "That kind with the garlic and the oil that I like so much?"
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "No. The kind from Kraft, with the macaroni and the cheese."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "I've been craving that stuff all week."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "And it's hard to get."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19098",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "What do you think?"
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Mmm, needs a little something."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "What are you talking about? This is it. This is the stuff right here.  Well, maybe just a pinch more sugar."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Yeah that's it."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Why don't you just stick your finger in and stir it up."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Scottie..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19099",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "RONNIE",
+        "text": "Scottie, remember the day you lost that hostage in union square. You came over that night and we made mad, crazy love. But I didn't even know what happened... 'til I heard it on the news the next morning."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "It's because I wanted to keep you away from that world."
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "It's not that world. It's your world. It's part of who you are."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "Veronica, it's not easy for me... I don't know if I can change overnight. But what I'm telling you is that I want to share everything with you, because I don't ever want to be without you again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_19100",
+    "movie_id": "m133",
+    "turns": [
+      {
+        "speaker": "ROPER",
+        "text": "What about Greg? What are you gonna tell him?"
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "It's okay. We broke up."
+      },
+      {
+        "speaker": "ROPER",
+        "text": "When?"
+      },
+      {
+        "speaker": "RONNIE",
+        "text": "Just now."
+      }
+    ]
+  }
+]

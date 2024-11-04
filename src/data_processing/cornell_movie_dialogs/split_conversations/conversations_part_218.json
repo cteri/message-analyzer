@@ -1,0 +1,2314 @@
+[
+  {
+    "conversation_id": "conv_21701",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "Sorry you had to see that. You were saying?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "I was saying that it seems probable that she witnessed the murder, but her memory of it is gone, at least for the time being. I also think you ought to have her stay with someone tonight.  Any idea who Chloe or Lonnie are?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "No... Friends from the diner maybe?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "Well, you should find out. She keeps talking about them..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21702",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Hey, Sheriff. How's everything?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Oh, you know, the usual... keeping the world safe."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "...I meant your food."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Oh, right... 's fine. Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21703",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I'm in a motel. Has something happened to Del? Did he do something stupid?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "BETTY, I NEED TO TALK TO YOU... IN PERSON! WHERE'RE YOU AT?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "IF THIS IS ABOUT DEL, FORGET IT! I'M NOT COMING BACK!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "GODAMMIT, BETTY!... WHO'S CHLOE?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'M THROUGH TALKING NOW! GOODBYE!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21704",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Sheriff, I don't..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "C'mon, Betty, open up! I got some questions for you about..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21705",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "Yeah, it was great. Really put the whole idea of \"church bake sales\" in perspective..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "You know, Elden, some people actually read more than just the Classifieds..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Why don't you go back to doing something you're good at... like that Lonelyhearts column?  I'll take a refill there, Betty..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21706",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "I thought you said the eggs weren't..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "It's fine. Mind your own meal..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "You should get the order you want."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "And you should keep your nose out of another man's omelette...  It's no big deal, Betty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21707",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "Why you always gotta embarrass me? I been eating lunch with you since grade school and you always gotta embarrass me!"
+      },
+      {
+        "speaker": "ROY",
+        "text": "They're just eggs, Elden, how embarrassing can eggs be?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "...plenty"
+      },
+      {
+        "speaker": "ROY",
+        "text": "Who eats eggs for lunch, anyhow?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Mind your own business. You just said that shit so you could look at her a little longer, anyway..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21708",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "Okay, let's go... I got nothing for the record yet."
+      },
+      {
+        "speaker": "ROY",
+        "text": "Oww! My arm, careful!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Ahh, what'd you do now... fall off your bike again?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "No, it's nothing, I... my piranha just mauled me a little when I layed their food out."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Good God... they're meat eaters, Roy, just drop the shit in there!"
+      },
+      {
+        "speaker": "ROY",
+        "text": "I can't... they prefer a more formal presentation. I don't usually go so close to the surface, but I was..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "...you are so goddamn weird.  Oh, and by the way, get the hell outta here!"
+      },
+      {
+        "speaker": "ROY",
+        "text": "No, Elden, I need to..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "You need to get yourself gone from my crime scene. And leave Betty alone, she's..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "She knows who killed Del. Elden, she said it was a woman."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "It wasn't a woman."
+      },
+      {
+        "speaker": "ROY",
+        "text": "Yes it was. Betty saw the whole thing! Your killer's name is Chloe..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "I'm tellin' you it wasn't no woman, Roy!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21709",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Jesus..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "You think a woman did that?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21710",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "So, you think you're gonna find his scalp hanging in some tepee?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "They no longer live in tepees, Mr. College Graduate."
+      },
+      {
+        "speaker": "ROY",
+        "text": "Did you send anyone out there?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "You bet I did. I got a squad car on the way to the reservation right now."
+      },
+      {
+        "speaker": "ROY",
+        "text": "Bad idea..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "You just go write your little story, Roy. I'll handle the police work..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "You better handle what's in this garbage can first."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21711",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "I questioned Joyce about all this..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Seems she was pretty familiar with 'ol Del. On a regular basis, if you get my drift..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "...and half the other guys in this town. Including you, I believe..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Junior year!"
+      },
+      {
+        "speaker": "ROY",
+        "text": "Anyway, so what?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "So? ...Suppose Betty found out about them?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "You said a woman couldn't have done it."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "A woman can write a check."
+      },
+      {
+        "speaker": "ROY",
+        "text": "So you're saying Betty Sizemore -- our Betty Sizemore -- who you were in swing choir with -- has now hired somebody to scalp her husband in her own kitchen while she watched? You're amazing."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "'S just a theory... just 'cause I'm thinking it don't mean I like it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21712",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Oh, you're sharp as a tack, Elden."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "That's it! YOU'RE GONE!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21713",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Oww, the arm, the arm!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "You just don't know when to quit, Roy! You were jealous of me when I got hall monitor in seventh grade, and you're still jealous now!!!"
+      },
+      {
+        "speaker": "ROY",
+        "text": "One question, Doctor, please!  You can't do this! I'm the press, I have rights!!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "That's right, you have the right to remain silent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21714",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "What if the killers didn't see her? You published her picture -- you're gonna get her killed!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "No, we're bringing the community into the effort to find her."
+      },
+      {
+        "speaker": "ROY",
+        "text": "You're lying!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "I spoke to Betty Sizemore yesterday.  That's right. There's no doubt in my mind, folks... she's on the run. Whether or not she's mixed up in all this remains to be seen..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "That's bullshit, Sheriff! You think she's a suspect!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "I'd like to apologize for our local boy. He's been in love with Betty since the fifth grade, y'see. He means well, but he's in over his head on this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21715",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "What the hell do you want?... Hey, Sue Ann, what's up?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "We think we know where Betty is."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Ah, shit... Do I have to hear this now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21716",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "I see you're sticking to the diet Betty put you on..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Worry about your own goddamn lunch!"
+      },
+      {
+        "speaker": "ROY",
+        "text": "Tell him what you told me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21717",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "Why do I need to see this? Did he ask you to...?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "Listen! I saw 'Chloe' and 'Lonnie' on T.V. They're television characters."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21718",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Yeah? Well, she called Sue Ann yesterday from Arizona."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "She said she was in Arizona, did she?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21719",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Come on, Elden, think about it. The driver, all them trunks standing open like that... something's going on here!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "I know that..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "Well, do something, then, damnit!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "You watch your mouth when you're in a goddamn county vehicle... You don't think I see what's going on? Del, now this Cooley fella, both of 'em mixed up with Joyce... 'S not no conspiracy, not some episode off the X-Files... 's just a crime of passion, plain and simple. Betty's on some kind'a pre-minstral rampage, that's what is going on here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21720",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Oww... Did you have to make these things so tight?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "No, I didn't have to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21721",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Elden, let me out of here. Now! This is ridiculous, I need medical attention!"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "That's a nice name for what you need..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "Come on, I have to get this dressing off... it itches! And what about my fish? Who is taking care of them?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21722",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "Just shut up a second and listen... That, uh... that bar in Arizona? Where you said Betty was?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "What about it?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Any idea where it is?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "Little place called \"Williams,\" why?"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "I just got something off the wire. The woman who owns it was murdered last night.  Now, I'm not saying I agree with you or nothing, but... what else do you know?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "I know plenty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21723",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "That's a lie! I figured it out! I've been trying to tell this dumbass --"
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "Fuck you, Roy Ostrey!"
+      },
+      {
+        "speaker": "ROY",
+        "text": "-- small-time, pissant, Barney Fife --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21724",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "We're in a shootout, Roy! Shut up about the damn fish!"
+      },
+      {
+        "speaker": "ROY",
+        "text": "YOU shut up!  They're beautiful, but get them some water."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21725",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BALLARD",
+        "text": "We need ammo... Go check his jacket, I'll cover you."
+      },
+      {
+        "speaker": "ROY",
+        "text": "I'm not going out there! Let's wait for the real police..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "You gotta go, we're pinned down!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21726",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "You wanna see if he has more shells, go ahead. I say we wait..."
+      },
+      {
+        "speaker": "BALLARD",
+        "text": "No, no, no... you don't know shit about procedure! You don't send your best..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "I've got the working gun, Elden, me! You wasted all your bullets so you crawl out there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21727",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "JOYCE",
+        "text": "Uhh, no, we haven't picked a date yet... well, once he dumps her we will.  He's out pricing banners... I don't expect him back."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "\"Banners?\""
+      },
+      {
+        "speaker": "JOYCE",
+        "text": "You know, flags and shit... he said \"for a livelier look\" or something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21728",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "JOYCE",
+        "text": "Need something else?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "No, I was just... How you doing?"
+      },
+      {
+        "speaker": "JOYCE",
+        "text": "Great. Good. Content..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Oh. How come?"
+      },
+      {
+        "speaker": "JOYCE",
+        "text": "I dunno. Job satisfaction, I guess...  How's things at the Tip Top?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "They're fine... you miss it?"
+      },
+      {
+        "speaker": "JOYCE",
+        "text": "You must be joking."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Hmm.  So, Del get that car he sold you up and running yet?"
+      },
+      {
+        "speaker": "JOYCE",
+        "text": "Oh, yeah, he's got things up and running, alright..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "'Kay, good. Bye, then..."
+      },
+      {
+        "speaker": "JOYCE",
+        "text": "Uh-huh.  Anyway, I'm thinking Easter, 'cause I just fucking love pastels."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21729",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "Who are these idiots?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "This is Roy Ostrey, he's a reporter. And this is Sheriff Ballard. We all went to Fair Oaks High together..."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Oh, this is wonderful..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21730",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "...I s'pose you did that so I could take my sweater off or something."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "No, just stand there... lemme look at you a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21731",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "Do you know who I am?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "...I... I know what you are."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Do you know why I'm here?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I've got a pretty good idea. You're here to kill me, so kill me. You want me to be afraid, but I'm not. I don't care who you are, or why you two killed my husband..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21732",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "You really... didn't have anything to do with what Del was doing, did you?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I have no idea what he was mixed up in... it was always something."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "So you weren't involved with him in his pathetic attempt to diversify?  Were you mixed up in the drugs, Betty?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Drugs? God, no! I'm totally against drugs."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Damn, life is strange. I had you figured for this cold-blooded, calculating bitch -- Not that I didn't admire you for it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21733",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "...well, if you're not going to slit my throat, why'd you come up here?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "...to see you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21734",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "...I never meet people like you. I'm a garbageman of the human condition. I deal with trash, mostly, people willing to trade any part of themselves for a few more minutes of their rotten lives. But you... you're different."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I am?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Sure. You could probably have any thing you wanted... somebody as beautiful and stylish as yourself, and you don't even realize it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21735",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "I'm appreciably older than you, but my health is good. I take care of myself, and I got some money socked away. You'd never have to work again, that's for sure. I'd treat you like a queen."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Umm, I don't think that..."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Wait. Let me get this out.  I like the symphony, walks in the rain, sunsets, animals and children. I read passionately, and I like to discuss things. I'm basically conservative, but flexible. I've been involved in the death of thirty- two people, but I can live with that because the world is lighter by thirty- two pieces of shit, excuse my language."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "\"Thirty-two?\""
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Well, thirty-three, but I'm not counting Del, on account of you... so, what do you think?  You probably feel I'm flattering myself to see us together."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I don't feel that, no. I just... I'm not really who you think I am."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "No one is, honey. Here, listen to this... \"If who I am and who I hope to be should meet one day, I know they will be friends.\" Now that's beautiful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21736",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I wrote that when I was twelve... where'd you get that?!"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "I know. I borrowed it from your grandparents because I... I... it doesn't matter. Don't worry, they're fine...  Look, I used to feel that same way, said practically those same words, sitting at night in a foxhole in Korea...  I've chased you across the country, Betty, and I come to find out we're a lot more alike than you'd think."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I thought you were a garbageman of humanity, or something."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Yes, but I'd sort of like to put that behind me now..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21737",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "That's my son! My son is dead!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "You're sorry? YOU'RE THE REASON WE'RE HERE!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "WAIT A SECOND! I AM NOT THE REASON YOU'RE HERE! I WAS MINDING MY OWN BUSINESS, LIVING A PERFECTLY BORING LIFE UNTIL YOU CAME ALONG!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21738",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "If we went out that window right now we'd have a chance..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I better go check on them."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Wait, Betty... you still haven't answered me."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "This is really awkward..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21739",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "Ahh, it's too late, anyway. It's too late.  Listen, I could shoot my way out, maybe take one of them with me... If you'd gimme my gun back."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'd rather not..."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Betty, I don't wanna shrivel up alone in some stinking prison. No way. I've got some professional pride. And I don't want anybody else to get the credit for taking me out."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "...what're you saying?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "When a Roman general knew a battle was lost, he'd throw himself on his sword."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21740",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "Did... did you really come here because you love this guy?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Yes... Not the actor, though, the doctor. I think."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21741",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "So all this... really was because of that soap opera? My son is dead because you came out here to be with that doctor? A fake doctor?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I wouldn't have put it quite that way, but..."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Wesley didn't even want to come up here. He warned me, but I insisted...  I have to ask you, Betty...are you crazy?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I don't think I am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21742",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHIEF NURSE",
+        "text": "Of course, I don't know every doctor who works here..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Dr. Ravell's the finest surgeon on the staff. You must know him. He's incredibly handsome, gentle, considerate. He's being sued for sexual assault right now, but --  It's not true. He was set up."
+      },
+      {
+        "speaker": "CHIEF NURSE",
+        "text": "Well, I certainly would have heard about that."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Of course, he's only here two days a week. He's also on staff over at Loma Vista."
+      },
+      {
+        "speaker": "CHIEF NURSE",
+        "text": "...I don't think I know that hospital."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "It's in a very pretty area that gets a lot of sun, has palm trees out front, mountains in the background..."
+      },
+      {
+        "speaker": "CHIEF NURSE",
+        "text": "Really? You've just described all of Southern California."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21743",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHIEF NURSE",
+        "text": "What you did yesterday was reckless at best. You are not an employee of this hospital! If that boy dies I don't even want to think of the lawsuit that'll follow. Are we communicating here?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Yes, ma'am."
+      },
+      {
+        "speaker": "CHIEF NURSE",
+        "text": "Good. I'm prepared to offer you a job. You can help out in the pharmacy until your California certification and references arrive, but you are not to touch anyone. Is that totally clear?  Fine..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21744",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "CHIEF NURSE",
+        "text": "You can start tomorrow. And don't say a word about this to anyone.  Is that issue?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Umm... yes. Back home."
+      },
+      {
+        "speaker": "CHIEF NURSE",
+        "text": "Alright. Oh, and one more thing about what you did yesterday... Well done."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21745",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Did you watch it yet?"
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Sure did. I'll tell you, if that man was any better looking it'd be a crime 'a some sort..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Yep. Hey, I got a surprise for tonight. We're going to the Starlite in style!"
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Oh, Betty --"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'll give you a hint. If you scrunch up your eyes a bit it looks just like a Jaguar..."
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Honey, I'm really sorry, I was gonna call you about tonight. Larry's got a lodge meeting. There's no way I can get a sitter this fast."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "No... what about your sister?"
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "I can't ask her again -- Nathan, stop it! Jesse, don't take that, hit back! -- I feel terrible, hon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21746",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "It's all right."
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "You sure? Maybe next week we could..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Uh-huh. No, we'll do it later. 'S only a birthday, right? I'll have another one next year..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21747",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "SUE ANN",
+        "text": "Aahhh...  So what color is it?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "What?"
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "The LeSabre!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Maroon.  I stole it."
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "What?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "He wasn't going to let us use it, so I just took it."
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Oh, I wish we could just get in it and drive, and drive, and drive!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Yeah, me too."
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Sorry, hon. Happy Birthday..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I gotta go make dinner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21748",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "SUE ANN",
+        "text": "Let me know if you need anything, okay?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Are you and Larry happy?"
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Oh, I dunno... enough, I s'pose."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Then you should treasure that... you gotta hold on to whatever you got that's any good, even if it's only a little bit."
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "All you been through... I ever tell you what a good friend you are?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "All the time..."
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Well, you are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21749",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Something bad happened to Del and me, didn't it?"
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Yeah, hon. Real bad. You just get some sleep, everything's gonna be fine."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Sue Ann, I'm sorry about all this, but I just know there's something special out there for me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21750",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "SUE ANN",
+        "text": "Halfway where? You've gotta come home. We've been worried sick about you. Are you alright?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Sue Ann, I thought you of all people would back me up on this, you know what Del's like. How did he take my note?"
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Betty, honey, listen to me. A man came by from Mutual Life Insurance. He says you've got money comin' to you from Del's policy.  Del's life insurance policy -- Are you with me?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "What are you talking about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21751",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Tell Del I'm sorry. I left so quick, but I need to do this."
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Do what?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I gotta go."
+      },
+      {
+        "speaker": "SUE ANN",
+        "text": "Betty! Listen to me! Del is ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21752",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "...of course you do.  You don't remember me?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I take it I should. I'm sorry."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "We were engaged."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21753",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "I beg your pardon?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "But I'm the one who's sorry. Letting you go was the biggest mistake of my life.  We were thirteen days away from getting married and... I just got scared. It's a mistake I've had to live with for six years. But it's behind me now...  And I hope you can put it behind you. I've missed you... David."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21754",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "That's very kind of you."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "The day I left you I just drove and drove. I drove all day and all that night, and I didn't go anywhere. I just kept driving. I stopped at a little country church, and the pastor let me in, and I sat --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21755",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Oh, you mean Fred."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "No, Del."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Right, Del. Del was one hot salesman. Of cars. He could talk anyone into anything."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "You knew Del?!"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Honey, I didn't want to tell you at the time, but Del and I go way back. We went to school together. In fact, he saved my life. Two more minutes in that icy water and I would have drowned. But Del jumped in and grabbed me. We fell out of touch eventually, but I still owe him one."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "He never told me anything about... that's unbelievable!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21756",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "I tried to tell myself it was for the best, that there was a reason behind it. But... Del?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "There was no plan! I was just young and stupid and scared!"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You never gave us a chance..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I know that. I can't tell you how many times I've said that to myself in those exact words."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21757",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Why do they keep calling you George?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I don't know. Why do you keep calling me George?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21758",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "I guess we all did.  You know, I didn't marry Leslie because I loved her. I married her to forget you..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Oh, David... I'm sorry I caused you that much pain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21759",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Oh my God! What's Lonnie doing here?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You're late, Eric."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21760",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Lyla's very nice."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes, she is."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "She told me I was charming and relentless, and would go far in this town. And she said that unlike the other charming, relentless people she knew, she liked me."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "She's a good person to know.  So where did you study again?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Carleton School of Nursing. Two semesters, but Del made me give it up..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Alright, okay... I think you broke the record for staying in character about three hours ago."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "You told me that two hours ago."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21761",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I haven't been this happy since I was twelve years old."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "What happened when you were twelve?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "For Mother's Day, I used all my allowance that I'd been saving to take my mother to Kansas City. We got our nails done and had lunch at \"Skies,\" a restaurant at the top of a building from where you can see the whole city. It was the last outing we took together. She died the following year."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Wow... You just gave me goosebumps, you know that? You make it all sound so real. Great improv..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I just want everything to be perfect between us."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I know. Listen, we need to take a time out here. Can we talk seriously for a minute?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Of course."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "At last! I know how much you want this. You're gifted and extremely determined, but... it's not up to me."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I know. It's up to us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21762",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "I don't think your friend likes me."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "She's a little jealous, I think. And confused when it comes to men...  So where are we going?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Well, first I thought Patina, and then the Ivy, but then I thought of somewhere a little more romantic. Like my place."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21763",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "You never mentioned a 'Stella' to me."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Didn't I?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "No, I would have remembered that name. The only Stella I ever knew was a parrot.  Was this before Leslie? Before us?..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21764",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "I've never met anyone like you, Betty."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I know, that's why we were meant to be together..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "No, I mean your dedication scares me..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "It's easy to be dedicated, when you care about something..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yeah, I felt that way, too, when I first started, but now... the hours, the repetition... it's not all glamour and mall openings anymore. Maybe I should've listened to my people and tried to make the crossover to nights earlier, I don't know...  ...I just hope it's not too late for me. God! Listen to me, \"Me, me, me.\" It's so easy to get caught up in the whole ego cycle of this business and make it all about yourself. Stop, right? That's it, no more about me tonight, I promise... Let's talk about you... what do you think about me? I'm kidding... Seriously, Betty, I'm doing all the talking here..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "...but I love listening to you, so that's okay..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Thanks. But I'd like to hear what you're feeling..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Well, I just feel that life'll be much sweeter for you now with me around. I promise..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You know, I almost believe that... you're like a warm breeze that's suddenly blown into my life...  I said that to Leslie, once, at her funeral, remember?..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I remember. You said it to her, but it was meant for me, wasn't it?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Yes... maybe it was."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21765",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Your lines are in the script, but you can ad lib."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Ad lib?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "In fact, I want you to ad lib, that's the magic I'm after. I wanna give a whole new feel to the show."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21766",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "David, I don't... Can we talk privately for a second?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Stop calling me David. We're on set, for Christ's sake, you don't have to call me David here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21767",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Why are you doing this to me?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Why am I doing this to you? Isn't this what you wanted?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21768",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Well, I don't know what you had in mind, but I hope you're happy. I put myself on the line for you, my reputation, and you're making me look like an idiot."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "What do you mean? What did I do to you..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Who put you up to this? Did my ex- wife ask you to...?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "David, please --"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "STOP CALLING ME THAT! MY NAME IS NOT DAVID, AND IF YOU REALLY DON'T KNOW THE DIFFERENCE, YOU'RE MORE FUCKED UP THAN I THOUGHT YOU WERE!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21769",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I'm sorry... Oh my gosh, are you George McCord?!"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "...What? What did you call me? George... McCord. You're my favorite actor on..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21770",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "But I'm David... I mean, I'm not David, but she thinks I am! You heard her...  Stop staring at me... I'm not crazy, she is!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Why are you screaming at me? I mean, what am I... why am I here? I don't..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "You're doing this now? After all the... are you sick? Are you going to kill me now?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "No, I... I'll leave. Forgive me if I caused you all any trouble... I just, I don't know how I...  ...I'm sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21771",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "Oh. Of course... sorry."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "My treat. You were saying... something about how stupid you've been?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Right... I was. I was an idiot, plain and simple, and I hope you can find it in your heart to forgive me. How's that?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Kinda like you'd been saying it since you got on the plane..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "I have... did it sound that bad?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Mmm-hmm. Listen, I forgive you, Mr. McCord..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "George..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "...George. I do.  My best friend once said if you were any handsomer it would be a crime..."
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Thanks..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "...it's too bad you're such an asshole. 'S the only thing that Del was ever right about."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21772",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "So, call me when you --"
+      },
+      {
+        "speaker": "DEL",
+        "text": "Whoa, whoa, whoa! Hang on a second there, baby. Why do you need one of the new Buicks?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Oh, you're there. You sound out of breath."
+      },
+      {
+        "speaker": "DEL",
+        "text": "I ran back in to get the phone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21773",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I don't need one, but it's kind of a special night, and --"
+      },
+      {
+        "speaker": "DEL",
+        "text": "What's so special about it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21774",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "What was that?"
+      },
+      {
+        "speaker": "DEL",
+        "text": "Nothing... it's, ahh, busy here. Look, you don't need a LeSabre to go out with Sue Ann. Take the blue Corsica. I'll see you when I get home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21775",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Sure you don't want any salad?"
+      },
+      {
+        "speaker": "DEL",
+        "text": "No, I do not want any goddamn... what was all that shit on the phone about the new Buicks?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I told you. Sue Ann was gonna take me out tonight, but..."
+      },
+      {
+        "speaker": "DEL",
+        "text": "She's not comfortable in a Corsica? 'S got air and leather..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I took the blue Corsica, Del. Relax."
+      },
+      {
+        "speaker": "DEL",
+        "text": "All right, then. Actually, I'm glad you're going out. I got something going on tonight. Some serious clients, with real potential."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21776",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "...like the water purifiers?"
+      },
+      {
+        "speaker": "DEL",
+        "text": "What?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Or the vitamins? Or the...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21777",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "DEL",
+        "text": "Hey, the FDA screwed me on that when they changed the law, and you know it!  Anyway, 'least I try shit, still got some dreams left... you're a goddamn waitress, what do you got?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I got you, Del..."
+      },
+      {
+        "speaker": "DEL",
+        "text": "...well, then you ain't got much."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Oh, I know.  So, who're these clients?"
+      },
+      {
+        "speaker": "DEL",
+        "text": "Couple 'a guys in from outta town. They want to see the new LeSabres."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21778",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "DEL",
+        "text": "And I don't need Sue Ann's fat ass around to fuck it up..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Just knock it off, 'kay? Anyhow, they're 97's, they're not even new."
+      },
+      {
+        "speaker": "DEL",
+        "text": "They're new to us..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21779",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "DEL",
+        "text": "It's people with no lives watching other people's fake lives."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Yeah, I guess there's nothing like watching those tenpins fall, huh, Del?"
+      },
+      {
+        "speaker": "DEL",
+        "text": "That is a skill!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21780",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "DEL",
+        "text": "Well, are you gonna answer me? What'd you come here for?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I came for love..."
+      },
+      {
+        "speaker": "DEL",
+        "text": "You're not on that soap opera thing again, are you? 'Cause you know what that is?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "It's people with no lives watching other people's fake lives."
+      },
+      {
+        "speaker": "DEL",
+        "text": "That's right. So, if you know it, why are you in trouble?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "DEL",
+        "text": "You sure don't. Who do you think you are coming to Hollywood, anyway? You should remember where you came from. And who you really are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21781",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Hi, Betty. You're looking good..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Thanks, Roy, you're sweet... a big liar, but sweet. I liked your editorial this morning..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "Oh, appreciate it. I was trying to, ahh, give a sense of history to..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21782",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Hey, Betty. Are you okay?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'm great, good, content.  What happened to your arm, Roy?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "Oh, nothing, it's fine. I just need to keep it wrapped for a few..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Make sure it's elevated..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "You want me to make you a sling? It's no problem..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21783",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "What're you doing here, Roy?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "Well, I was worried about you and I wanted to make sure you were alright... and I guess I was sort of hoping I could ask you about what happened..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Oh, that... Sure, I saw the whole thing. It was disgusting!"
+      },
+      {
+        "speaker": "ROY",
+        "text": "My God... did you get a look at who did it?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ROY",
+        "text": "You did? Was it anyone that you...?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "It was Chloe..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21784",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Betty! Boy, am I glad to see you!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Roy! What are you doing here?"
+      },
+      {
+        "speaker": "ROY",
+        "text": "You're in serious danger!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Ahh, look, right now's not very..."
+      },
+      {
+        "speaker": "ROY",
+        "text": "I woulda' been here sooner, but Ballard put me in jail. He still thinks you had Del scalped."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21785",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROY",
+        "text": "Have you checked the trunk of that car you're driving, Betty? I think there might be..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "It's not really a good time, guys..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21786",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "What's the matter here?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I begged him to let me put that on!"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "He's a prick. Merle?... You're a prick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21787",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "So you're into \"Reason,\" too? Finally, someone civilized! I'm Ellen, what can I get you?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Hi, I'm Betty. I'll take a Miller, if you got it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21788",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Shut up, Merle... Williams."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Williams, Arizona. About halfway there, I guess."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21789",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "If that little weasel ever walked in here I wouldn't serve him."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'd slap his face."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "I'd kick him in the nuts, if I thought he had any."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21790",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Where you headed, Betty?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Los Angeles, California."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "And you called your friend, and she's telling you not to go?  When I went to Europe my friends told me I was crazy."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Europe? The Europe?  This is my first time out of Kansas."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "I should call you Dorothy.  When I left here I went straight to Italy. Everybody told me not to go. But I wanted to go to Rome ever since I saw Audrey Hepburn in \"Roman Holiday,\" and goddamnit, I went."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Did you love it?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Sure I loved it! It was great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21791",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Let me tell you something. I got groped by these Tunisian guys who thought I was a slut for wearing shorts, it was hotter than stink the whole time, and I got some kind of weird gum disease from the water. Plus, it ended my marriage --"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "That's horrible!"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "No, he was a toad. Even more of a toad than Merle... I just wear the ring to keep the flies away. Rome was the best thing I ever did, because I DID IT! And I swear to you, it changed me. I've been to Rome, Italy! I sat every morning at the Cafe Sistina and had my cappuccino, and watched the pilgrims walk to mass, and no one can ever take that away from me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21792",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I left my husband two days ago."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Really?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'm getting back with my ex-fianc. He proposed to me right around here, so I guess this is just sort of a sentimental stop..."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Wait, I thought you said you'd never been outta Kansas..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Oh. I mean, except for that.  Yep. I'm trading in a car dealer for a heart specialist, so that's pretty good..."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Nice move. Cedars Sinai?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "No. Loma Vista."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "I s'pose his name's David Ravell."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "How did you know?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "What's his real name?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Dr. David Ravell."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "You mean... George McCord, the actor?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "No, I mean David Ravell. He's a surgeon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21793",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ELLEN",
+        "text": "Piss off, Merle.  So how you gonna find him, Betty?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'll go to the Hospital."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "What if you can't find him? What if you get out there, and nothing's the way you thought it was gonna be?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Like Rome?"
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Worse."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "You made out alright."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "Yeah, but at least I knew Rome was gonna be there when I arrived..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21794",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Ellen, this is the biggest thing I've ever done, but I've gotta do it."
+      },
+      {
+        "speaker": "ELLEN",
+        "text": "You take care of yourself then, Betty, and don't let anybody stop you..."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "To tell you the truth, I can't believe I've made it this far. It may not be Europe, but I just know there's something special out there for me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21795",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "LYLA",
+        "text": "I can't believe I remembered that, although I suppose I should. I wrote it...  But that was seven years ago, and you're quoting it verbatim. I'm flattered... I think. Or frightened. What's your name?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Betty Sizemore. What do you mean you wrote it?"
+      },
+      {
+        "speaker": "LYLA",
+        "text": "I'm Lyla Branch. I'm the Producer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21796",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Well, David moved out here and started his residency. Then he met Leslie --"
+      },
+      {
+        "speaker": "LYLA",
+        "text": "No, no, no. We know all that. What happened with you?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I married a car salesman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21797",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "LYLA",
+        "text": "She called you 'George,' George."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "...did I win some contest?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21798",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROSA",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "He has no heartbeat!"
+      },
+      {
+        "speaker": "ROSA",
+        "text": "You're hurting him!!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'm massaging his heart. I saw it done once."
+      },
+      {
+        "speaker": "ROSA",
+        "text": "ARE YOU CRAZY?!! STOP IT!!!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "LISTEN TO ME! IF I DON'T DO THIS, HE'S DEAD!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21799",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "ROSA",
+        "text": "You don't sound like you're from here."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I'm not. I just drove in from Kansas."
+      },
+      {
+        "speaker": "ROSA",
+        "text": "So why'd you come to L.A.?"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I came for love. My fiancé is here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_21800",
+    "movie_id": "m152",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "It's something I had to do. For David."
+      },
+      {
+        "speaker": "ROSA",
+        "text": "'David.' That's your guy. So, you staying with him?"
+      }
+    ]
+  }
+]

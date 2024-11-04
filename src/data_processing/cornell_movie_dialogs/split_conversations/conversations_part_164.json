@@ -1,0 +1,2022 @@
+[
+  {
+    "conversation_id": "conv_16301",
+    "movie_id": "m115",
+    "turns": [
+      {
+        "speaker": "MAURICE",
+        "text": "You look so happy -- how long have you been married?"
+      },
+      {
+        "speaker": "OLD WOMAN",
+        "text": "Forty-seven years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16302",
+    "movie_id": "m115",
+    "turns": [
+      {
+        "speaker": "MAURICE",
+        "text": "Where did he go?"
+      },
+      {
+        "speaker": "OLD WOMAN",
+        "text": "He's getting my sweater from the car.  I said there was a breeze.  I told him not to go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16303",
+    "movie_id": "m115",
+    "turns": [
+      {
+        "speaker": "MAURICE",
+        "text": "May I ask you a question that might sound strange?"
+      },
+      {
+        "speaker": "OLD WOMAN",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16304",
+    "movie_id": "m115",
+    "turns": [
+      {
+        "speaker": "PRIEST",
+        "text": "Hello, Mr. Parker."
+      },
+      {
+        "speaker": "MAURICE",
+        "text": "Hello."
+      },
+      {
+        "speaker": "PRIEST",
+        "text": "How are you feeling?"
+      },
+      {
+        "speaker": "MAURICE",
+        "text": "Confused.  I'm not sure what to do now.  I'm not sure what he wants for me."
+      },
+      {
+        "speaker": "PRIEST",
+        "text": "He wants to reward you... That's why I'm here."
+      },
+      {
+        "speaker": "MAURICE",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "PRIEST",
+        "text": "I mean you've done a great thing. You should be rewarded monetarily."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16305",
+    "movie_id": "m115",
+    "turns": [
+      {
+        "speaker": "PRIEST",
+        "text": "What's your shoe size?"
+      },
+      {
+        "speaker": "MAURICE",
+        "text": "What?  Who are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16306",
+    "movie_id": "m115",
+    "turns": [
+      {
+        "speaker": "MR. CALDWELL",
+        "text": "If that ain't fate?... Hi, I'm Dave Caldwell.  I do the copy for the anchor on the evening news down here."
+      },
+      {
+        "speaker": "MAURICE",
+        "text": "Evening News?"
+      },
+      {
+        "speaker": "MR. CALDWELL",
+        "text": "We did a piece after your story ran in the New York Times."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16307",
+    "movie_id": "m115",
+    "turns": [
+      {
+        "speaker": "MR. CALDWELL",
+        "text": "I've always wanted a watch like that."
+      },
+      {
+        "speaker": "MAURICE",
+        "text": "It's yours."
+      },
+      {
+        "speaker": "MR. CALDWELL",
+        "text": "No.  I won't take it unless I pay for it... Let's see, that's a pretty nice watch -- I can see that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16308",
+    "movie_id": "m115",
+    "turns": [
+      {
+        "speaker": "MR. CALDWELL",
+        "text": "I really want that watch."
+      },
+      {
+        "speaker": "MAURICE",
+        "text": "This isn't right."
+      },
+      {
+        "speaker": "MR. CALDWELL",
+        "text": "This is my only chance to get a watch like that.  It would mean a lot to me and my family.  Please take it.  It really isn't that much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16309",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "WAITRESS",
+        "text": "There's a one-drink minimum per show, I hope you saw the sign when you came in. Anyway, they're supposed to tell you."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes, I heard, and it's not a problem."
+      },
+      {
+        "speaker": "WAITRESS",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "What are my choices?"
+      },
+      {
+        "speaker": "WAITRESS",
+        "text": "Everything's ten dollars, and there's no alcohol."
+      },
+      {
+        "speaker": "BEN",
+        "text": "No alcohol?"
+      },
+      {
+        "speaker": "WAITRESS",
+        "text": "No alcohol. You gotta get something else. Everything's ten dollars. What do you want?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "What do you think I should get?"
+      },
+      {
+        "speaker": "WAITRESS",
+        "text": "Non-alcoholic malt beverage?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "...Noooo."
+      },
+      {
+        "speaker": "WAITRESS",
+        "text": "Orange soda?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No."
+      },
+      {
+        "speaker": "WAITRESS",
+        "text": "Coffee?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No."
+      },
+      {
+        "speaker": "WAITRESS",
+        "text": "Sparkling apple cider?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No."
+      },
+      {
+        "speaker": "WAITRESS",
+        "text": "Water?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Water?"
+      },
+      {
+        "speaker": "WAITRESS",
+        "text": "One drink minimum per show. Everything's ten dollars. Now... tell me what you want or I'll eighty- six you."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Water."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16310",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Hello!"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Hello."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Are you working?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Working? What do you mean, working? I'm walking."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16311",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Isn't it illegal to drink and drive?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "That's funny.  I wonder if you'll take two hundred and fifty dollars to fuck me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16312",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "That is, if you'll come to my room for an hour, I will give you five hundred dollars."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Maybe you shouldn't stand in the road like that. You're pretty drunk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16313",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "You're pretty drunk."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Not really. My room's not far. The Whole Year Inn. You can drive with me if you want..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16314",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Sarah -- with an H?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "No -- S.E.R.A."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16315",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "I'm sort of curious... if you're willing to pay me two-fifty... not that I mind... I mean, I'm OK with that -- why aren't you staying in a hotel?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "We can go to one if you'd prefer."
+      },
+      {
+        "speaker": "SERA",
+        "text": "No, this is fine. I was just wondering."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16316",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Umm. We can stay in the car for an hour if you want. But I really have to go then. It's your time."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Right, I'll get your door. I tend to fade in and out lately."
+      },
+      {
+        "speaker": "SERA",
+        "text": "I guess I do too."
+      },
+      {
+        "speaker": "BEN",
+        "text": "You what?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "I sometimes fade out."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh... well, maybe we better synchronize our spells... or stagger them."
+      },
+      {
+        "speaker": "SERA",
+        "text": "You were going to get my door."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16317",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Mind if I use the bathroom?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16318",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Want a drink? I'm having one."
+      },
+      {
+        "speaker": "SERA",
+        "text": "A shot of tequila, if you can spare it."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16319",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Do you want to fuck now?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Maybe another drink first. More tequila?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "OK... whatever."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16320",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "What's the story? Are you too drunk to come?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I don't care about that. There's time left. You can have more money. You can drink all you want. You can talk or listen. Just stay, that's all I want."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16321",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "No, I came here to drink... myself... you know..."
+      },
+      {
+        "speaker": "SERA",
+        "text": "To death?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes, that's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16322",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I cashed in all of my money, paid my AmEx card, gonna sell the car tomorrow."
+      },
+      {
+        "speaker": "SERA",
+        "text": "How long's it gonna take, for you to drink yourself to death?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I think about four weeks, and I've got enough for about two hundred and fifty to three hundred dollars a day."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Yes... that should do it. What am I? A luxury?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yeah. And your meter just ran out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16323",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "If I was I'm sorry."
+      },
+      {
+        "speaker": "SERA",
+        "text": "No, just drunk... but that's OK. Where's your car?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I sold it this morning. I'm going to take cabs from now on in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16324",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Don't run away."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Why should I? I know you're not a cop, so what is it tonight? Another two-fifty to watch you sleep?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16325",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "What's up?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I was looking for you tonight. I don't know if you have a boyfriend..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16326",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "...or a girlfriend, but if you have some free time... maybe we could have dinner."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Are you serious."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I think you know I'm serious. I'll pay you if you like... but I'd like to see you."
+      },
+      {
+        "speaker": "SERA",
+        "text": "No, I can't have dinner with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16327",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SERA",
+        "text": "I have to change and take a shower first. If you want to come home and wait."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16328",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "We should pick up a bottle of tequila on the way. I owe you one."
+      },
+      {
+        "speaker": "BEN",
+        "text": "You do?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16329",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "This is the home of an angel."
+      },
+      {
+        "speaker": "SERA",
+        "text": "You OK out there?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes. Take your time. I'm fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16330",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "You OK?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Of course. Wow... you look extremely beautiful."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Thank you. What time is it?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Don't know. My watch went the way of the car."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16331",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I'm rambling. I really like you. You make me want to talk... I don't know what time it is."
+      },
+      {
+        "speaker": "SERA",
+        "text": "I like hearing you talk.  If you feel up to a short walk, there's a place to eat around the corner. All the food in Vegas is terrible so the place doesn't really matter. How does that sound to you?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Do they have drinks?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16332",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "I'm from the East. I went to college, did an arts course. I now live in Vegas. I think of it as home. I came here deliberately to carve out a life. I was in LA before, but I'll come back to that later.  The tough times are behind me now. I can deal with the bad things that happen. There will always be dark characters. But my life is good. It is as I would want it to be. So, why are you a drunk?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Is that really what you want to ask me?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well, then I guess this is our first date... or our last. Until now, I wasn't sure it was either."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Very clever."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16333",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "First. It's our first. I'm just concerned. So... why are you killing yourself?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Interesting choice of words. I don't remember. I just know that I want to."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Want to kill yourself? Are you saying that you're drinking as a way to kill yourself?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16334",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "It wasn't so important to me. I mean, he never asked me why I was a hooker, and that was impressive. I really liked him. So I decided to just play my part. I mean... it's good to help someone once in a while, it's a bonus to being alive, and that was my plan... to stay alive. I suddenly came to a decision."
+      },
+      {
+        "speaker": "BEN",
+        "text": "What are you thinking? Are you angry with me?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Ben, why don't you stay at my place tonight? I mean... look, you're so drunk. I like you. I trust you."
+      },
+      {
+        "speaker": "BEN",
+        "text": "That's astonishing. Sera, look..."
+      },
+      {
+        "speaker": "SERA",
+        "text": "I hate to think of you in that cheesy motel. I mean..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16335",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Let's face it, what the fuck are you doing in Las Vegas?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I'm going to move to a smart hotel, tomorrow if it'll make you feel better.  Let's talk about tomorrow. Wanna do something?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Sure... tonight. Then please stay at my place."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Sera... you know I'm not much good in the sack."
+      },
+      {
+        "speaker": "SERA",
+        "text": "It's not about sex, Ben. I'll make you up a bed on the sofa. Do it for me. We can talk till late and then sleep till late. As you know, I am my own boss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16336",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "How long have I been here?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Three nights, two days. When is your rent coming up at the motel?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I don't know.  I'll go and sort it out today. Why don't you come?... We'll find a real room for me. You can pick it out, a tower on the strip."
+      },
+      {
+        "speaker": "SERA",
+        "text": "There's no reason to blow all your money on a hotel room."
+      },
+      {
+        "speaker": "BEN",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "What I mean is that you should bring your stuff over here. We're spending all this time together... what the fuck!"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Sera..."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Let's face it, Ben, we're having fun here. I've never done so much talking in my life."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Me neither."
+      },
+      {
+        "speaker": "SERA",
+        "text": "So! Let's dispense with the formalities. I want you here... now!"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Sera you are crazy."
+      },
+      {
+        "speaker": "SERA",
+        "text": "So... I'm not too concerned with long term plans."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Don't you think you'll get a little bored living with a drunk?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "That is what I want. Why don't you go and get your stuff?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "You haven't seen the worst of it. These last few days I've been very controlled. I knock things over... I throw up all the time.  Now I feel really good... You're like some kind of antidote that mixes the liquor and keeps me in balance, but that won't last forever. You'll get tired of it really quickly. Believe me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16337",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Don't you like me, Ben?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Don't be silly?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16338",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Sera... what you don't understand is..."
+      },
+      {
+        "speaker": "SERA",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16339",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "You can never... never... ask me to stop drinking. Do you understand?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "I do. I really do.  OK. I have to do some shopping alone. You go out for a few drinks and then pick up your things. Don't hurry and I'll be back before you to let you in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16340",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Hi!"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Why don't you go in and sit down. I have some gifts for you."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Right... OK..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16341",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Want a drink? Great nap. Wanna go out tonight?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Seriously, Ben... I need to keep pretty low-key around here. Maybe next time you could nap this side of the door. That was the landlord."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16342",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Ben?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16343",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Sera, I love that name... S.E.R.A. Before we proceed onwards, there is something I need to say. OK?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "OK."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I've come this far... here I am, in your house. I want you to let me pay the rent for this month. All right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16344",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Because... it's better for me that way. OK?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Well... OK..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16345",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Sera... I hope that you understand how I feel about this. First of all, you're welcome to my money. We can buy a couple of cases of liquor and you can have the rest. But I don't think you're talking to me right now about money."
+      },
+      {
+        "speaker": "SERA",
+        "text": "No?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No. I think you're talking about you. I'll tell you right now that I'm in love with you... but, be that as it may, I'm not here to force my twisted life into your soul."
+      },
+      {
+        "speaker": "SERA",
+        "text": "I know that..."
+      },
+      {
+        "speaker": "BEN",
+        "text": "...and I'm not here to demand your attention to the point where it changes your life. We know I'm a drunk... but that seems to be all right with you. And I know that you're a hooker. I hope you understand that I'm a person who is totally at ease with this... which is not to say that I'm indifferent or that I don't care... I do... it simply means that I trust and accept your judgement. What I'm saying is... that I hope you understand that I understand."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Thanks, I do understand. I was worried about how that would be... but now I'm not. And you should know that included with the rent here is a complimentary blow job."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Ah, yes... I suppose sooner or later we ought to fuck."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Whatever that means. Open your presents."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16346",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Right... the suitcase was clinking. So what did you do with your clothes?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I threw them into the garbage, which was perhaps immoral, but I wanted to come to you clean, so to speak. I thought we could go shopping and pick up a pair of jeans and forty- five pairs of underwear and just throw them out each day."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Nice talk, Ben. Keep drinking. In between the hundred and one proof breath and the occasional drool, some interesting words fall from your mouth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16347",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I'm going to fill it right now."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Do you want to go gambling tonight? We could go out and play for a few hours."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16348",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Giving you money makes me want to come."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Then come.  I'm going to change. Watch TV. I'll be half an hour."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16349",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "I am planning to go out and do some work."
+      },
+      {
+        "speaker": "BEN",
+        "text": "When?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Tomorrow night as a matter of fact."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16350",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I like women who wear mismatched earrings."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Well, then... I hope we don't run into any tonight."
+      },
+      {
+        "speaker": "BEN",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "I expect some kind of loyalty here. Just because I fuck for money doesn't give you cause to start picking up women and leaving me looking silly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16351",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "How are you doing?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Very well... umm... I never expected to have to ask you this again... but how did our evening go? I remember getting to the casino... I remember kissing you... that was really nice but everything after that is a blank."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Well -- I was prepared for worse, but it wasn't so bad. We were sitting at the bar, talking about blackjack. You seemed just fine, a little drunker than usual, but nothing really strange, but then your head started to droop and I put my arm on your shoulder and then, wham, you swung you arm at me, and fell backwards off your stool into a cocktail waitress. You smashed everything on her tray, it was a real mess. You kept yelling and yelling."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh, and what did you do?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "I tried to shut you up and help you to your feet but you kept swinging at me -- not like you wanted to hit me, but more just waving me away. Security came and when you saw them you stopped yelling. They wanted to carry you out and dump you on the street, but I talked them into letting me walk you out."
+      },
+      {
+        "speaker": "BEN",
+        "text": "That's impressive. How did you do that?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "I told them you were an alcoholic and I would take you home. I also promised that we would never come in there again."
+      },
+      {
+        "speaker": "BEN",
+        "text": "We?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16352",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "You were OK for a while, so we walked for about a block and then you said you wanted to go home and fuck, but I think even you knew that wasn't going to happen. We got a cab and you asked him to stop at a liquor store, even though I told you that we had plenty at home. In the store you gave the kid a hundred and told him to keep the change. I asked you if you knew it was a hundred. You said you did, so I let you do it. We got here, you fell asleep on the couch and I covered you up and came to bed."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I warned you...  ...but I'm sorry."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Here's my speech...  ...I know this shouldn't be acceptable to me, but it is. Don't ask me why. I sense that your trouble is very big... and I'm scared for you... and so I'm doing what I think you need me to do. Falling down in casinos is little stuff. It doesn't bother me. It has nothing to do with us."
+      },
+      {
+        "speaker": "BEN",
+        "text": "That's amazing. What are you? Some sort of angel visiting me from one of my drunk fantasies? How can you be so good?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16353",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Why don't you go back to sleep. I'll go out and buy us some breakfast."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Be careful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16354",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Very creative. Now we can get you a black bow tie and you can look like one of those casino dealers."
+      },
+      {
+        "speaker": "BEN",
+        "text": "OK, but remember that they wear it because they have to. I wear it because I want to. That'll make me look different. Let's get a drink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16355",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Your color."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I think you should wear one at a time. One of these... and one of your others. In fact, I was going to buy just one, but I didn't think it would fly... as a gift, I mean."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16356",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "What was that all about?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Can we just forget it?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "I don't understand any of that."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Can we just ignore it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16357",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Please!"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Yes... I'll give you that."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Thank you, Sera."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Do you want me not to go tonight?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No... we already talked about that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16358",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Maybe I should follow you around and ask one of your tricks what it's like to sleep with you."
+      },
+      {
+        "speaker": "SERA",
+        "text": "They wouldn't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16359",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "I'll be back home around three. If you're back by then we can watch TV or something... I guess what I'm saying is... that I hope you are back when I get home. Please be careful."
+      },
+      {
+        "speaker": "BEN",
+        "text": "You be careful to. I'm going to miss you."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Shall we go away for a couple of days?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yeah... I'd like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16360",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Years ago, in LA, I turned a trick on Sunset and Western. The guy was polite and didn't argue about the price. He parked his car and I took him to a house that I had an arrangement with. A fat Mexican woman was watching a TV and I told him to give her the twenty for the room. There were three or four small naked children playing on the floor and we had to step over them to get into the room. The room had a bed and a dresser. He lay on his back on the bed and I put a rubber on him and sucked him for a while until he was hard and then I eased on to him. About twenty minutes later there was a knock on the door and it was the woman saying our time was up. I felt kind of guilty because he hadn't come and I offered to reason with the woman and get another ten minutes, but he said it was all right and began dressing. When we were ready to leave the room he stopped me and... hugged me and kissed me on the cheek. He gave me an extra hundred as a tip and went back to his car. I remember being relieved that I wouldn't have to work again that evening."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Last spring I happened to walk past a house that I had once patronized. There was a cool breeze blowing off the ocean and through the window I could see a bare leg. The girl must have been taking a break between customers. It was a strange moment for me because it reminded me of my mother and despite the fact that I was late for something already I just stayed there, loving the atmosphere of it and my memory and... the reason I'm telling you this epilogue is that I felt that I'd come full circle."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Where was that house? The one in LA, I mean."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Fifth and Mayflower. You know it?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Yes. One of my friends was there. I wonder if you ever clipped her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16361",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I like it here with you."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Let's stay for a while."
+      },
+      {
+        "speaker": "BEN",
+        "text": "OK."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16362",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "I've missed the best sun. Why did you have to pawn your watch?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I didn't know I'd ever need it again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16363",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Maybe it's time I moved to a hotel."
+      },
+      {
+        "speaker": "SERA",
+        "text": "And do what... rot away in a room?  We're not going to talk about that. Fuck you! I will not talk about that. You're staying here. You are not moving to a hotel."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Will you lighten up, please?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "One thing... one thing... this is one thing you can do for me. I've given you gallons of free will here! You can do this for me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16364",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "There are limits."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes... I guess I knew that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16365",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I wanted to see you..."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Oh, Ben... you look so very sick... my love... you're so pale."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16366",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "You know I love you... yeah?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16367",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Hey, Brad... how's it going?"
+      },
+      {
+        "speaker": "BRAD",
+        "text": "Hey Ben. There were a couple of guys looking for you."
+      },
+      {
+        "speaker": "BEN",
+        "text": "What did they look like?"
+      },
+      {
+        "speaker": "BRAD",
+        "text": "Suits. I didn't tell them anything. You know anything about gears?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16368",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "How'd this happen?"
+      },
+      {
+        "speaker": "BRAD",
+        "text": "I was going real fast down on the beach and something slipped and everything got jammed up."
+      },
+      {
+        "speaker": "BEN",
+        "text": "The news is not good, kid. This bit here... see there... it's broken. You need a new  one."
+      },
+      {
+        "speaker": "BRAD",
+        "text": "How much, do you think?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I don't know. I'll find out though."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16369",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "CONVENTIONEER",
+        "text": "About ready for another drink?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Yes, that would be great. Are you her for the convention?"
+      },
+      {
+        "speaker": "CONVENTIONEER",
+        "text": "Do I look that obvious? My name's Paul."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16370",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "So... are you alone, or are you just using me to make someone else jealous?"
+      },
+      {
+        "speaker": "CONVENTIONEER",
+        "text": "Alone. Alone. I'm here alone."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Where are you staying?"
+      },
+      {
+        "speaker": "CONVENTIONEER",
+        "text": "Right here at the hotel. Why?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Well... I thought you might be looking for a date."
+      },
+      {
+        "speaker": "CONVENTIONEER",
+        "text": "A date. What, are you a hooker?  What do you mean a date?  I've got a wife back home. I just came over to talk for a few minutes."
+      },
+      {
+        "speaker": "SERA",
+        "text": "I'm sorry, I guess I misunderstood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16371",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Please don't raise your voice. I won't bother you about it again."
+      },
+      {
+        "speaker": "CONVENTIONEER",
+        "text": "Sorry. Look... you seem like a nice girl. I'm just sick of everyone in this town trying to get my money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16372",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "I don't want this. Yuri, please. I really don't want this. You know I don't like to do groups."
+      },
+      {
+        "speaker": "YURI",
+        "text": "I want this, Sera. I need this!"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Please, Yuri."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16373",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "YURI",
+        "text": "You have been lonely?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "I've been all right."
+      },
+      {
+        "speaker": "YURI",
+        "text": "I will keep you safe. We are both older."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16374",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "YURI",
+        "text": "You have been lonely?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "I am lonely, Yuri."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16375",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "YURI",
+        "text": "I'm pleased with you, Sera... how you have moved up in the world. I showed you a glamorous world when I took you off the streets...  and how you repay me."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Where have you been staying?"
+      },
+      {
+        "speaker": "YURI",
+        "text": "With an old friend."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16376",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "YURI",
+        "text": "It is, after all, Sera, my money."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Yes, of course. How much do you need?"
+      },
+      {
+        "speaker": "YURI",
+        "text": "All of it. I need to buy many things... all of it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16377",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "YURI",
+        "text": "Where have you been?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "It was a slow night. I went to a hotel for a few drinks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16378",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "YURI",
+        "text": "A full night on the street and this is all?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "Like I said... it was a slow night... I'm sorry. It was hard to score."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16379",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "SERA",
+        "text": "Don't hit me."
+      },
+      {
+        "speaker": "YURI",
+        "text": "What do you think... you are sixteen years old on Hollywood Boulevard?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16380",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "YURI",
+        "text": "Yes? What?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "It's me, Yuri."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16381",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "YURI",
+        "text": "Have you told anyone that I'm here?"
+      },
+      {
+        "speaker": "SERA",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16382",
+    "movie_id": "m116",
+    "turns": [
+      {
+        "speaker": "YURI",
+        "text": "Go, Sera.  Go. Stay at home. I will call you tomorrow."
+      },
+      {
+        "speaker": "SERA",
+        "text": "Yuri... are you..."
+      },
+      {
+        "speaker": "YURI",
+        "text": "Sera... please go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16383",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "ADVISOR",
+        "text": "Harvard Law School?"
+      },
+      {
+        "speaker": "ELLE",
+        "text": "That's right."
+      },
+      {
+        "speaker": "ADVISOR",
+        "text": "But it's a top three school --"
+      },
+      {
+        "speaker": "ELLE",
+        "text": "I have a 4.0."
+      },
+      {
+        "speaker": "ADVISOR",
+        "text": "Yes, but your major is Fashion Merchandising. Harvard won't be impressed that you aced \"History of Lycra\". What are your backups?"
+      },
+      {
+        "speaker": "ELLE",
+        "text": "I don't need backups. Harvard is the school I'm going to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16384",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "ADVISOR",
+        "text": "Well, then. You'll need excellent recommendations from your professors, a heck of an admissions essay and at least a one-seventy-five on your LSATs."
+      },
+      {
+        "speaker": "ELLE",
+        "text": "I once had to judge a Theta Chi Tighty- Whitey contest. Trust me -- I can handle anything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16385",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "DONOVAN",
+        "text": "What alibi?"
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "I can't tell you."
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "You understand you're on trial for murder?"
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "I didn't do it! I walked in, saw my husband lying on the floor, bent down to check his heart, screamed my head off and Chutney and Enrique ran inside."
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "Where they saw you standing over the body covered in his blood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16386",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "BROOKE",
+        "text": "Why would I kill my husband?"
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "Insurance? A love affair? Pure unadulterated hatred? Believe me, the DA will come up with plenty of reasons."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "I loved him!"
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "He was thirty-four years older than you. That doesn't sound so good to a jury."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16387",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "DONOVAN",
+        "text": "Brooke, I believe you. But a jury is gonna want an alibi."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "I can't give you that. And if you put me on the stand, I'll lie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16388",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "DONOVAN",
+        "text": "Were you with another man?"
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "Go to hell."
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "I'll take that as a no."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "Are we done for today?"
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "I believe we are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16389",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "DONOVAN",
+        "text": "What're you so happy about? You're on trial for murder."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "Get up."
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "What?"
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "You're fired. I have new representation."
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "Who?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16390",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "BROOKE",
+        "text": "Is he always such an ass?"
+      },
+      {
+        "speaker": "EMMETT",
+        "text": "He's the top defense attorney in the state. Of course he's an ass."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "But is he an ass that's gonna win my case?"
+      },
+      {
+        "speaker": "EMMETT",
+        "text": "He's an ass that's gonna try."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "He thinks I'm guilty, doesn't he?"
+      },
+      {
+        "speaker": "EMMETT",
+        "text": "That's not what's important."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "To me it is. He doesn't trust me. Why should I trust him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16391",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "ELLE",
+        "text": "I'm a Delta Gamma and I'm a huge fan of yours!"
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "You took my class in LA. You had the best high kick I've ever seen. Are you one of my lawyers?"
+      },
+      {
+        "speaker": "ELLE",
+        "text": "Sort of."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16392",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "ELLE",
+        "text": "Are you okay? You look so sad... and so orange."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "I'm glad it's you and not Donovan."
+      },
+      {
+        "speaker": "ELLE",
+        "text": "He means well. He's really brilliant and all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16393",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "BROOKE",
+        "text": "Elle, I can't. You don't understand."
+      },
+      {
+        "speaker": "ELLE",
+        "text": "Who could better understand than me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16394",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "BROOKE",
+        "text": "It's so shameful..."
+      },
+      {
+        "speaker": "ELLE",
+        "text": "Whatever it is -- it could save you."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "That's just it -- it would ruin me!"
+      },
+      {
+        "speaker": "ELLE",
+        "text": "How?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16395",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "BROOKE",
+        "text": "I have made my fortune on my ability to teach women how to perfect their bodies with the Brooke's Butt Buster workout."
+      },
+      {
+        "speaker": "ELLE",
+        "text": "I know! You helped me go from a six to a four!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16396",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "ELLE",
+        "text": "No!"
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "I'm a fraud! But it's not like normal people can have this ass! If my fans knew, I'd lose everything. I've already lost my husband. I rather be in jail then lose my reputation!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16397",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "BROOKE",
+        "text": "I'm not having an affair with Enrique -- you know a Delta Gamma would never sleep with a man who wears a thong! I just liked watching him bend over to clean the filter --"
+      },
+      {
+        "speaker": "ELLE",
+        "text": "I believe you! Don't worry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16398",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "BROOKE",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "ELLE",
+        "text": "Enrique's gay. I'm sure of it."
+      },
+      {
+        "speaker": "BROOKE",
+        "text": "He did leave a Cher tape in the pool house once --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16399",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "CHUTNEY",
+        "text": "I got out of the shower, walked downstairs, saw her standing over my father, and called the police."
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "Did she have a weapon in her hand?"
+      },
+      {
+        "speaker": "CHUTNEY",
+        "text": "No."
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "Was there any reason for you to believe she had discarded a weapon?"
+      },
+      {
+        "speaker": "CHUTNEY",
+        "text": "Uh, yeah, because the bitch shot him."
+      },
+      {
+        "speaker": "DONOVAN",
+        "text": "Was there any evidence that Mrs. Windham shot him?"
+      },
+      {
+        "speaker": "CHUTNEY",
+        "text": "His dead body with a bullet in it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_16400",
+    "movie_id": "m117",
+    "turns": [
+      {
+        "speaker": "ELLE",
+        "text": "Okay -- Ms. Windham, when you uh arrived back at the house? Was your father there?"
+      },
+      {
+        "speaker": "CHUTNEY",
+        "text": "Not that I saw. But like I said, I went straight upstairs to take a shower."
+      },
+      {
+        "speaker": "ELLE",
+        "text": "And when you came downstairs, what happened?"
+      },
+      {
+        "speaker": "CHUTNEY",
+        "text": "I saw Brooke standing over his body, drenched in his blood."
+      },
+      {
+        "speaker": "ELLE",
+        "text": "But Mrs. Windham didn't have a gun?"
+      },
+      {
+        "speaker": "CHUTNEY",
+        "text": "No, she'd stashed it by then."
+      }
+    ]
+  }
+]

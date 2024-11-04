@@ -1,0 +1,1686 @@
+[
+  {
+    "conversation_id": "conv_1001",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Hey, since when do you play Thomas Edison?  This looks like Sheila's."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "It is...was. It's a zapper, it might help me stay awake."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Yeah, or turn you into toast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1002",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I can't go back to sleep again."
+      },
+      {
+        "speaker": "RICK",
+        "text": "I haven't slept much either.  Since Kristen..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1003",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "We'll figure it out."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Figure it out?!?!  I'll be insane before I figure it out.  The only thing I'm sure of is that I can't go to sleep.  Not while he's using me."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Then we'll stay up together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1004",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Here you are.  Where were you this morning?  Rick's looking all over for you."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Have you seen Joey and Kincaid!  God, I can't find them.  I can't find them anywhere."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I'm sure they're around."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Yeah, I'm not so sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1005",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I love to dream, I just hate ones about my dad."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "You could do worse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1006",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "My mom taught me when I was little.  Did you ever hear of the dream master?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Sounds like a game show host to me."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "No really, it's a fable.  The 'guardian of good' dreams.  It was like my teddy bear when I was growing up."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Great, you wouldn't happen to know his phone number?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1007",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I daydream.  you have to dream about some place fun.  Remember you're in control."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "How'd you learn so much about dreams?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "When they're all you have, you kinda become an expert."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1008",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "You what?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "When I used to have nightmares.  I brought my friends in to help me.  Until they all started dying."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1009",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Kristen, what happened?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "You'll hear all kinds of stories. They'll tell you it was murder, but it wasn't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1010",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "You in a hurry?"
+      },
+      {
+        "speaker": "SHEILA",
+        "text": "I gotta get to the library before it closes.  Killer physics test."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I know.  I hardly have any time to study."
+      },
+      {
+        "speaker": "SHEILA",
+        "text": "Maybe you shouldn't be working here so much.  You don't want to get stuck waiting tables for the rest of your life."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1011",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "SHEILA",
+        "text": "Ohhhhbaby, I am dead on my feet."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "We have matching luggage."
+      },
+      {
+        "speaker": "SHEILA",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1012",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "You've been up all night?"
+      },
+      {
+        "speaker": "SHEILA",
+        "text": "That obvious, huh?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Then you saw him, too?"
+      },
+      {
+        "speaker": "SHEILA",
+        "text": "Saw who? I was up all night cramming for this physics test, and I was putting this little baby together.  Look..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1013",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "No..."
+      },
+      {
+        "speaker": "DAN",
+        "text": "You're his sister, right?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Rick stayed later after school with Kristen.  She wasn't feeling very well."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Tell him I was looking for him, okay?  I'm Dan."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I know.  Uh...Alice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1014",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "I thought it was an accident.  Smoking in bed."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "It was no suicide.  It was not an accident.  It was Freddy, and he's coming back for seconds, thirds, and fourths."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1015",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I was there in the dream.  He took her. It was awful.  It was awful..."
+      },
+      {
+        "speaker": "DAN",
+        "text": "\"In her dream\"?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1016",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "No, don't!  I gave Sheila to him and now she's dead!"
+      },
+      {
+        "speaker": "DAN",
+        "text": "Kristen's story really got to her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1017",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I've been working double shifts."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Extra money, huh?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Look, you know why, you just don't believe me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1018",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "No offense, or anything, but it's kind of hard to swallow."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "The story is, the deaths you can't argue with."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1019",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "How long have you been awake?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Three days."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1020",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "Alright, let's assume this whole thing is true. Why does Freddy all of a sudden need you?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Kristen was the last child left of the people who killed Freddy.  Maybe Freddy can't get to new kids without someone like me.  Someone to bring them to him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1021",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Not really."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Is there something we can do?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I don't think so.  I guess this is my own war."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1022",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "You don't really get it.  He's not a nightstalker.  It'll take more than bench presses to beat him."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Why can't we just talk to the authorities?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Yeah, right.  Let's trade death by Freddy for life in a rubber room.  Adults won't see it. They can't."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Then what else can we do?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Try what other kids did.  Keep each other awake.  We'll meet at Debbie's tonight. At least if we don't sleep he can't get us."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Who?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1023",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "He's going after Debbie, I gotta stop him."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Hey, you're not alone.  We have to stop him, I'm with you."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "You just feel sorry for me."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Cut that shit out.  Maybe before, but not now. I want to help you. I'm on your side."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1024",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "As long as your driving doesn't kill us."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "It's okay, we're just about there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1025",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "He's going after Debbie.  I gotta stop him."
+      },
+      {
+        "speaker": "DAN",
+        "text": "You know, I get the weirdest feeling we've been through this before."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1026",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Here we are."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Something's wrong here.  It feels like..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1027",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "What the hell was that?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Debbie.  She's gone.  I've...collected her, like the others."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1028",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "You look great!"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Save it for later.  Come on!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1029",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Rick, please."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Alright, I think I see salvation..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1030",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I think Sheila's more interested in dissecting bodies than just admiring them."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Give her time.  Beauty is skin deep."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1031",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Asthma attack...what 17-year old has a fatal asthma attack?  She was gonna be a doctor."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "It was Freddy."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Enough of that crap."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I saw it. It was my dream.  I brought Sheila in..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1032",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "T-T-Thanks Alice..."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Earth to Alice..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1033",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "Hey, Rick!"
+      },
+      {
+        "speaker": "RICK",
+        "text": "Excuse me, ladies.  I'll just be a moment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1034",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "I don't get it."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Let me talk to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1035",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "So what's up?  What'd I miss?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "She told us the story of Freddy.  It's a town legend.  He was a child killer who was freed on a technicality."
+      },
+      {
+        "speaker": "DAN",
+        "text": "So?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "It pissed off a lot of parents. According to Kristen, they hunted him down; roasted him alive."
+      },
+      {
+        "speaker": "DAN",
+        "text": "Nice neighborhood."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Now it gets weird.  She says he comes back in dreams.  If he kills you there, you're dead for real."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1036",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "Hey man, we're all sorry..."
+      },
+      {
+        "speaker": "RICK",
+        "text": "She knew she was gonna die."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1037",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Been up with Alice."
+      },
+      {
+        "speaker": "DAN",
+        "text": "How she doing?  I ran into her last night."
+      },
+      {
+        "speaker": "RICK",
+        "text": "She's blaming herself for Sheila.  I know how it feels.  I've been thinking about Kristen.  Maybe I could've stopped it, if I'd listened."
+      },
+      {
+        "speaker": "DAN",
+        "text": "About Freddy?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "What else?  You ever look over this town's history?  Not a safe place to be a teenager.  Anyway, if I'm next, watch your back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1038",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Something the matter with the cuisine?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Well Mom, I'll tell ya, when two of your friends die the same day, you let me know what it does to your appetite."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "You're just tired.  Don't think I haven't noticed your not sleeping.  That has to stop, honey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1039",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "What's wrong with me?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Your distraught.  It'll help..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1040",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "I'm sorry honey, but..."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Sorry!! Sorry that you and your tennis pals torched this guy who's now after me. In case you haven't been keeping score, it's his fucking banquet, and I'm the LAST COURSE!!"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Honey, we went over this in therapy."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Mother, you've just murdered me.  Take that to your goddamn therapy..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1041",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "Something wrong with the stairs?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "Avoid-all-contact-day."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "What?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "When dad's popping aspiring like popcorn, it's avoid-all-contact-day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1042",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Oh God!  He killed them!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1043",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "Now you know who and what Freddy really is."
+      },
+      {
+        "speaker": "RICK",
+        "text": "I though Freddy was just an old town story."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "It's no story.  It happened.  Freddy's real and he's back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1044",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "I'll tell you later."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "It's no just a house. It's his home. He's waiting there for me...to dream."
+      },
+      {
+        "speaker": "RICK",
+        "text": "It's okay, babe.  We're with you."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "I told you you can't help.  This isn't a normal nightmare. I'm doomed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1045",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "NURSE",
+        "text": "Feeling better now?"
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "Yeah.  I guess so... What happened?"
+      },
+      {
+        "speaker": "NURSE",
+        "text": "You had a nasty bump."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1046",
+    "movie_id": "m7",
+    "turns": [
+      {
+        "speaker": "KRISTEN",
+        "text": "I gotta get out of here."
+      },
+      {
+        "speaker": "NURSE",
+        "text": "You just stay put.  You need rest."
+      },
+      {
+        "speaker": "KRISTEN",
+        "text": "You don't get it, he's after me..."
+      },
+      {
+        "speaker": "NURSE",
+        "text": "Don't worry, honey"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1047",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "MRS. JORDAN",
+        "text": "Excuse us, dear."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "It's okay, Dan"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1048",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "MRS. JORDAN",
+        "text": "Frankly, dear, we wondered what you intend to do with our baby?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "What I what?  Well, I've thought about it.  I plan to keep him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1049",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Look, I appreciate what you're offering, but no.  He is my responsibility."
+      },
+      {
+        "speaker": "MRS. JORDAN",
+        "text": "And ours.  It's our grandchild."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1050",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "MRS. JORDAN",
+        "text": "In your present condition, Alice, we're worried about your ability --"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "What are you talking about?  My \"condition\"?..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1051",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "MRS. JORDAN",
+        "text": "We know you've been through a lot but there's more than your feelings at stake here."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "You're not taking my baby!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1052",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "JACOB",
+        "text": "Hey...wake up."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1053",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Shouldn't you be in your room, Jacob?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "It's lonely in there, in my room."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "My name is..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1054",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "JACOB",
+        "text": "I'm sorry your boyfriend got killed."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "How did you know that?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "I could tell you were sad.  I just wanted to see if you were all right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1055",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Hi, you don't look very well.  Are you feeling all right?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "Been having bad dreams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1056",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Is that who you're waiting for?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "No..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1057",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I don't think this is a nice place for you to be.  Maybe we should go find your Mom."
+      },
+      {
+        "speaker": "JACOB",
+        "text": "She doesn't want me around"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Oh...I'm sure that's not true.  I'll bet she's very worried about you.  I would be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1058",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "JACOB",
+        "text": "No you're not.  You don't even care about being a mom.  How come you don't think about me?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Who said I...wait, what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1059",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Who says I don't like you?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "My friend, with the funny hand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1060",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "JACOB",
+        "text": "Mommy...?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Come on downstairs.  He won't hurt you. He needs us both."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1061",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Where is he?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "He's inside you, where he hides."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1062",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "It's where he hides out.  Inside.  That's how he found me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1063",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "But how...?"
+      },
+      {
+        "speaker": "JACOB",
+        "text": "He says it's easy.  Especially with sad people.  With closed-off people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1064",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "Hi, beautiful."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Jesus!  Don't do that!"
+      },
+      {
+        "speaker": "DAN",
+        "text": "Sorry, babe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1065",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "The tickets."
+      },
+      {
+        "speaker": "DAN",
+        "text": "They're coach seats, but the plane lands in Paris.  It's gonna be a helluva summer, hon!"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1066",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "Okay, babe.  What's the matter?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Nothing...it's just...I didn't see my father at the ceremony."
+      },
+      {
+        "speaker": "DAN",
+        "text": "He'll show up.  C'mon, what's really wrong?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1067",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "About him?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "No.  Well, not exactly...it's that...I felt like I wasn't in control.  For the first time since...all that.  I'm scared."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1068",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "DAN",
+        "text": "You stopped it didn't you?  It was probably just a regular bad dream."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Yeah...I guess."
+      },
+      {
+        "speaker": "DAN",
+        "text": "You don't dream him up, he can't hurt you.  Or me.  Or us.  Remember..."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "You're right."
+      },
+      {
+        "speaker": "DAN",
+        "text": "There you go.  Love you."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Me too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1069",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I was afraid you weren't coming."
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "I watched from behind the stands.  Didn't want to embarrass you, ya know.  \"The drunk showed up\", that kind of thing..."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "That's in the past.  Unless you've stopped going to the meetings."
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "No.  A deal's a deal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1070",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Dad!"
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "It's the model you've been saving up for. I wanted you to have it for your trip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1071",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "Where are we going?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "To take a picture."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1072",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Thanks for everything, Dad."
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "You sure you don't want a ride to work?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "It's just across the park."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1073",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "I'm so sorry, honey..."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Daddy, he's coming back...Krueger's coming back.  Make them understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1074",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "How was the meeting?"
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "Sobering..."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Very funny."
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "Alice..."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Since when are you such a smart shopper?"
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "Since my little girl became a mom..."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "You disappointed in me?"
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "No, I'm not.  I sort of hope it's a boy. Be nice to have a boy playing in the house again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1075",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "Alice!"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I've got to go."
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "No!  I won't have you running around in the middle of the night.  You're coming home."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "But Dad --"
+      },
+      {
+        "speaker": "ALICE'S DAD",
+        "text": "Now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1076",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "Hey, what's wrong with you -- let's see a smile."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Had kind of a long night."
+      },
+      {
+        "speaker": "YVONNE",
+        "text": "Dan keeping you up again?  Put a lock on that window, girl."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "No, the Dan part was nice..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1077",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Good to see you again, Mr. Grey.  I've got to go find Dan."
+      },
+      {
+        "speaker": "YVONNE",
+        "text": "Yeah, before they revoke his diploma."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1078",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "It was no accident.  It was Krueger.  He used to get in through my dreams, but not anymore.  He's found some other way."
+      },
+      {
+        "speaker": "YVONNE",
+        "text": "Alice, it's no dream.  I'm sorry...Dan's dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1079",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Have you visited the little boy on my floor?  Jacob, the one who looks kind of sad?"
+      },
+      {
+        "speaker": "YVONNE",
+        "text": "There aren't any little boys on your floor."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "He must've wandered up from the children's ward.  I just wondered what was wrong with him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1080",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Did everyone call everyone?"
+      },
+      {
+        "speaker": "YVONNE",
+        "text": "They're waiting for us...but let's keep this dream stuff between you and me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1081",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "What's that got to do with it?"
+      },
+      {
+        "speaker": "YVONNE",
+        "text": "When Dan died you weren't even asleep. You said so.  End of story."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1082",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "It was just an accident.  Like with Dan."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "No accident.  I tried to warn all of you about Krueger."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1083",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "I don't understand what's happening. Krueger has to use my dreams, but he got to Dan and Greta while I was awake. How's he doing it?"
+      },
+      {
+        "speaker": "YVONNE",
+        "text": "Why don't you two stick to reality."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1084",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "You had me scared on the phone.  What's wrong with the baby?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I think Krueger's trying to do something to it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1085",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "Oh, Alice...no.  Honey, I love you but you're going to have to get a hold of yourself..."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Mark knows I'm not crazy.  Ask him to show you his hands."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1086",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "I really think you need to calm down now, okay?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I just can't figure out how he's getting in when I'm awake..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1087",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "I am your friend, and I'm worried sick about you.  But, you're like a locked safe.  You've gotta start dealing with reality."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Krueger is reality."
+      },
+      {
+        "speaker": "YVONNE",
+        "text": "And so is your baby.  You've got more than just yourself to think of now!"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "What do you think I'm doing?  Look.  Whether you believe it or not, Krueger is back.  He's after the baby and if I don't try to do something about it, who will??"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1088",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "All I know is that you are not doing yourself or the baby any good by acting like a crazy woman.  Why don't you take off - leave Springwood and cool out somewhere for a while?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Goddamn it, Yvonne!  You don't just run away from this guy!  He finds you in your dreams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1089",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "Look...we're all tired.  None of us had any sleep since Friday night..."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "That's the only reason you're alive..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1090",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Are you alright?"
+      },
+      {
+        "speaker": "YVONNE",
+        "text": "Yeah...So that's him.  And you're not crazy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1091",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "You think that's the place she's buried?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "If they actually bothered to bury her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1092",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "What?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Jacob.  We've got to get to Amanda before it's too late."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1093",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "But how are we gonna --"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "We've got to go to the asylum and find her body.  Mark said her soul's trapped with it -- that's why she can't come to me.  It must be!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1094",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "You do good work, Alice."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "So did Dan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1095",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "YVONNE",
+        "text": "He sure loves to stay awake."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "That's okay.  He's got the rest of his life to catch up on his sleep."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1096",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Give up, Mark, it's hopeless."
+      },
+      {
+        "speaker": "MARK",
+        "text": "I think I'm starting to wear her down.  Have some anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1097",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Not to mention the heartbreak of psoriasis."
+      },
+      {
+        "speaker": "MARK",
+        "text": "Greta, come on.  One burger with me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1098",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "My dad's got this thing about drinking in the house."
+      },
+      {
+        "speaker": "MARK",
+        "text": "Well we gotta do something!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1099",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "MARK",
+        "text": "I've got to write some of this down."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "That's why it's my fault Dan's dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1100",
+    "movie_id": "m8",
+    "turns": [
+      {
+        "speaker": "ALICE",
+        "text": "Mark, are you okay?"
+      },
+      {
+        "speaker": "MARK",
+        "text": "Yeah.  I'm just aces."
+      }
+    ]
+  }
+]

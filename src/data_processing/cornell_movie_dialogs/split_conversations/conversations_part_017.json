@@ -1,0 +1,1806 @@
+[
+  {
+    "conversation_id": "conv_1601",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "MURDOCK",
+        "text": "Sorry, Clarence. Latest weather report shows everything socked in from Salt Lake to Lincoln."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Hi, Roger. Good to have you aboard. Victor, this is Roger Murdock."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1602",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "Roger."
+      },
+      {
+        "speaker": "MURDOCK",
+        "text": "Huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1603",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "Roger."
+      },
+      {
+        "speaker": "MURDOCK",
+        "text": "Huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1604",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "MURDOCK",
+        "text": "We have clearance, Clarence."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Roger, Roger. What's our vector, Victor?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1605",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "MURDOCK",
+        "text": "Do you want me to check the weather, Clarence?"
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "No, why don't you take care ot it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1606",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "No, he's not bothering anyone. Let him stay up here."
+      },
+      {
+        "speaker": "MURDOCK",
+        "text": "All right. But just remember, my name is Roger Murdock."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1607",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Excuse me, Sister?"
+      },
+      {
+        "speaker": "SISTER ANGELINA",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "There's a little girl on board who's ill and..."
+      },
+      {
+        "speaker": "SISTER ANGELINA",
+        "text": "Oh yes, I saw. Poor child."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Could I borrow your guitar? I thought I might be able to cheer her up."
+      },
+      {
+        "speaker": "SISTER ANGELINA",
+        "text": "Of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1608",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Fourteen-B. It's halfway down on your right."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1609",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Do you feel all right, sir?"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Oh -- I haven't flown for a long time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1610",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Excuse me, sir. Would you like some coffee before we serve dinner?"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "No. No thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1611",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Excuse me, sir. There's been a little problem in the cockpit and I was wondering..."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "The cockpit? What is it?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "It's the little room at the front of the plane where the pilots sit. But that's not important right now. The first officer is ill and the Captain would like someone with flying experience to help him with the radio. Do you know anything about planes?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1612",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "Well, I flew in the war, but that was a long time ago. I wouldn't know anything about it."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Would you go up, please?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1613",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Mr. Striker, the passengers are ready."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Thank you, Randy. You better leave sweetheart. You might get hurt in here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1614",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "CASSANDRA",
+        "text": "Oooh.  Hardball.  That sounds interesting.  Are you going to strike me?  You could tie me up and then do whatever you want with me... I've got my own ropes."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Does that cost extra or you throw them in?"
+      },
+      {
+        "speaker": "CASSANDRA",
+        "text": "You've got me all wrong.  I don't charge money for something that I myself find pleasurable..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1615",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "CASSANDRA",
+        "text": "Look, I don't know where Mr. Strader might be.  He comes and he goes."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "The girl out front mentioned Strader's assistant, somebody named Watson.  Maybe he knows."
+      },
+      {
+        "speaker": "CASSANDRA",
+        "text": "Todd?  Todd doesn't know either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1616",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "CASSANDRA",
+        "text": "I know... Why don't you hang around for a while, let me entertain you? It's Matt, right?  Now tell me the truth, have you ever... made it... with one of us?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Not unless I got real drunk and nobody told me about it later."
+      },
+      {
+        "speaker": "CASSANDRA",
+        "text": "A virgin.  I find that very arousing..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1617",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "There's lots of things I haven't done, but his ain't high on the list.  Don't take it personally."
+      },
+      {
+        "speaker": "CASSANDRA",
+        "text": "I think you're just a little scared now, about what you might find once the lights go out.  A little scared... and a lot curious.  Maybe more than you want to admit.  But doesn't that turn you on, that curiosity and fear, swirling together?  Think of it as broadening your horizons."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "I like my horizons narrow."
+      },
+      {
+        "speaker": "CASSANDRA",
+        "text": "Your voice is saying no, but your body is saying yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1618",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "You okay?"
+      },
+      {
+        "speaker": "CASSANDRA",
+        "text": "Yeah..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1619",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "You are Cassandra?"
+      },
+      {
+        "speaker": "CASSANDRA",
+        "text": "That's right."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "We are with the Police Department. This is Sergeant Sykes, and I am--"
+      },
+      {
+        "speaker": "CASSANDRA",
+        "text": "Ss'ai k'ss?  Perfect."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1620",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "CASSANDRA",
+        "text": "He's not here.  Why ask me?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "The young woman at the front said you might know where he is."
+      },
+      {
+        "speaker": "CASSANDRA",
+        "text": "She did, did she?  Well, she was wrong.  Excuse me, I have to change."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1621",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "CASSANDRA",
+        "text": "In there."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Show me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1622",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "So what've you got on Tuggle's killers?"
+      },
+      {
+        "speaker": "FEDORCHUK",
+        "text": "Jesus, Sykes -- it's been less than ten hours.  Me and Alterez are on it, okay?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "You don't have squat."
+      },
+      {
+        "speaker": "FEDORCHUK",
+        "text": "You ever try to make a case in Slagtown?  The list of Newcomer informants is about as long as the list of Mexican war heroes..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1623",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "FEDORCHUK",
+        "text": "Look at your dildo partner.  He's too scared to even come down to the sand.  You're not gonna get wet standing here, moron!"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "I'd like to see you next to a sea of hydrochloric acid, Fedorchuk... see how much surfin' you'd do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1624",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "FEDORCHUK",
+        "text": "Well, if it isn't Detective Jetson. Forget you hip waders, big guy?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Lay off, asshole."
+      },
+      {
+        "speaker": "FEDORCHUK",
+        "text": "I may be an asshole, but at least I'm a real detective, not some outer shit space thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1625",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "William Harcourt?"
+      },
+      {
+        "speaker": "HARCOURT",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "I'm Sergeant Sykes, and this is Detective Jetson, Los Angeles Police Department."
+      },
+      {
+        "speaker": "HARCOURT",
+        "text": "Sergeant... Detective.  I wasn't aware there were any Newcomers at the rank of Detective yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1626",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "HARCOURT",
+        "text": "Yes, I heard about poor Warren. Tragic."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "You were partners with him on some Slag -- uh, Newcomer real estate thing."
+      },
+      {
+        "speaker": "HARCOURT",
+        "text": "That's right.  He and I, along with seven or eight others.  Listen, gentlemen, I will be happy to assist you in any way I can -- unfortunately, at the moment, I'm overdue at another function."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1627",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Move a finger, Harcourt, and you're history..."
+      },
+      {
+        "speaker": "HARCOURT",
+        "text": "No, Sergeant -- not history...  Eternity..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1628",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "KIPLING",
+        "text": "That cop, the human, he was the one who killed Anderson and the driver."
+      },
+      {
+        "speaker": "HARCOURT",
+        "text": "This is becoming a serious breach of security."
+      },
+      {
+        "speaker": "KIPLING",
+        "text": "He didn't recognize me."
+      },
+      {
+        "speaker": "HARCOURT",
+        "text": "It is his new partner that I'm worried about."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1629",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "KIPLING",
+        "text": "When we picked him up, he was talking to those two cops -- the two who came to question you about Hubley."
+      },
+      {
+        "speaker": "HARCOURT",
+        "text": "This is getting out of hand.  I want you to deal with it.  Immediately."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1630",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "HARCOURT",
+        "text": "Kill them both."
+      },
+      {
+        "speaker": "KIPLING",
+        "text": "Here?"
+      },
+      {
+        "speaker": "HARCOURT",
+        "text": "Do it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1631",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "... and we work my hours.  I'll do the driving, you do the paperwork. You gotta learn it so you might as well do it all."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Sergeant... I'd like to thank you for what you're doing."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "What's that?  Look, Jetson.  Get this straight in your head.  We're not pals, we're not married, and we ain't gonna take long moonlight walks together... We're just partners.  And don't call me Sergeant.  Call me Sykes... or Matt if you have to."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "I am George."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1632",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Man, somebody really hung one on you!  I've heard some good ones for you guys... Humphrey Bogart, Harley Davidson.  I guess the people at immigration got a little punchy after a while, coming up with names for a quarter of a million of you. You weren't at the back of the line, were you, George?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "My true name is Ss'tangya T'ssorentsa'."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Gesundheit.  You don't mind if I stick to George, do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1633",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Anyway, what's it matter to you if we think it's funny, right?  Whatta you care?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "That is exactly so.  It is like your name... Sykes.  I'm sure it doesn't bother you at all that it sounds like \"ss'ai k'ss\", two words in my language which mean \"excrement\" and \"cranium\"."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1634",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Let's talk Hubley."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "His body was discovered three days ago, in an alley off of Central Avenue, near downtown."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "With two BRI Sabot slugs in the chest."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Through the chest.  Rupturing both the primary and secondary hearts."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Nice signal, dickwad!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1635",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Terrific.  A real pillar of the community.  Was Hubley missing anything when they found him?  Was he ripped off?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "There was no wallet... but he was still wearing a watch and two rings."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "The guys at the mini-mart last night made a half-assed stab at the money in the till -- but I don't think that's what they were there for.  I think we got us a couple'a executions on our hands, George..."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "The murder at the mini-mart is not our case.  The Captain said--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1636",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Look, you want to fit in here, right?  You want to learn how to get along?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Well, there's a thing about partners, about being somebody's partner.  You do for each other. And other people's rules don't mean shit.  It's the rules set up between the two of you, that's all that counts.  Understand?  Okay.  Well, my friend and partner was shot last night and I'm after the shitbag that did it.  As my partner, I'm asking you to respect me and help me find him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1637",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "What is wrong?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Nothing's wrong.  I just want to get something straight.  You agree that there's a good chance these two shootings are somehow related, right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1638",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Well... yes, quite possibly."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Possibly.  Good.  Well, would you be willing to accept the theory, George, that... possibly... by examining the evidence from one case we might shed some small ray of light on the other?  Does that sound unreasonable to you?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Yes... no, it is not unreasonable. Although I--"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Great.  Well, I'm sure glad that's settled, aren't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1639",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "What's this?  What's going on?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Nothing?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Shouldn't we examine their personal effects?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1640",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "What is this?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "A rubber.  A condom.  You know... Coney Island whitefish?  Men, human men, put them on their, uh -- penises -- to protect against having babies.  You need this for anything?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1641",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Get the picture?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "And that fits?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Well... Yeah, it's rubber.  It stretches."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "And still it fits?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1642",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Newcomers working near methane gasses at oil refineries must paint it on their boots to protect against sparks."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "How the hell do you know that?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "A large number of my people were hired by refineries because the methane fumes are not harmful to us. My spouse's brother is one."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "So the Slag they're cutting into upstairs worked at a refinery just like Hubley worked at a refinery.  I'd say that \"possible\" connection between the two cases just got a hell of a lot more possible.  Okay, next step -- I gotta go talk to the wife of the Slag store owner blown away last night."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "I believe I should interview the widow alone."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Why the hell--?!  Great, fine.  You talk to the wife."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1643",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Mrs. Porter is not taking her husband's death well."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Did you learn anything?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "A week ago two men came to see her husband.  After they left, he was very frightened.  She identified one of the men from a photo I showed her.  It was Hubley."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Aw-right.  What about the other guy?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "She didn't know him.  But she said her son might."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Did you talk to him?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "He has not been home since that day. But she told me where to find him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1644",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Rudyard Kipling?  No shit?  Listen, we just need a minute of your time..."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "We'd like to ask you about a business associate of your, Warren Hubley."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1645",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Why did you do it?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Why'd I do what?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Agree to work with me?  You don't like me... you don't like any of us. You have nothing but contempt for us.  And yet you become an outcast from your club of detectives by making me your partner..."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "My partner is dead!  Because one of you bastards killed him -- then disappeared into a rathole down in Slagtown, where he's home and dry, 'cause nobody sees nothing, nobody says nothing..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1646",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Who said that?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "At the end of the bar."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1647",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Your name wouldn't happen to be Porter, would it?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Uh, Matthew..."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Back off, George."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "But I-- ."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "I'll handle it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1648",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Screw you."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Screw me?  That can't be right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1649",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Tell me."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Your mother mates out of season."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "That's very colorful.  But see -- now I've got a problem.  I don't seem to be getting much cooperation from you, Porter.  So I guess we're gonna have to take this little session down to my office, ya know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1650",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Matthew, you don't have to-- ."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Stay back!  I'm okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1651",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "You know that guy?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "From quarantine, when my people first arrived here.  He and I were housed together."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "How could a straight-arrow like you ever pick a roommate like him?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "In the camps, we were lodged four to a room.  The selection process was entirely random.  We did not get to stay with our friends... or families..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1652",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "If I may make a suggestion... We have different weak spots than you do.  Next time, a blow to the nerve plexus under the arm, here, will produce the effect I think you were looking for."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Yeah, sure.  I knew that..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1653",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "I don't think I could ever learn to read that shit.  How long did it take you to learn English?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Three months.  We learn quickly.  We adapt.  It is our strength... what we were bred for, to adapt to hostile environments."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1654",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Which one is that?  Raw what?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "This is mole.  It's good."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "I'll bet.  Would it really put you out if they tossed that on the grill for a minute or two?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Our bodies do not assimilate the nutrients if the food has been cooked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1655",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "So what was that other word for Human... Slow ka?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Ss'loka'.  It means literally \"small but intelligent creature\".  It loses much in the translation."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "And what was that one about my mother?  That was a good one."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Ss'trokya ss'lato 'na'."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Yeah, that's it.  Say it slow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1656",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Who is he?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Todd Watson.  The assistant manager."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1657",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "We were chasing you because you ran, you dumb son-of-a-bitch."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "When will Strader return?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1658",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "I believe he is probably lying."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Through his ass.  Next time you see him, tell him to call me... unless you want us to keep coming back on you like a bad case of herpes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1659",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "So, she keeps you on a pretty short leash, does she?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "My wife?  She worries about me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1660",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Yeah... I know the routine."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "You are married?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Was.  Divorced."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "We mate for life.  Divorce... is a strange concept to us."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "It's like having an eleventh finger removed.  It hurts like hell, but you never really needed the damn thing in the first place."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1661",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Your home is quite disordered.  I thought perhaps you had been burglarized when I walked in."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "I appreciate your honesty, George."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1662",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Human children can be very beautiful.  Getting married?  Congratulations. You will be taking Sunday off, then..."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Maybe not... I don't know.  I'm not sure I'm gonna go.  She doesn't need her burn-out of a father there..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1663",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "... and so, and so the doctor says, \"If this is the thermometer, then where'd I leave the pen?\"  You're not... you don't think that's funny?  George, work with me, I always get a laugh with that one. Look, if the doctor's got the thermometer in his hand, then where's his pen gotta be?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "In the other man's rectum."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Sticking out of his ass... yeah! See, that's what makes it a joke. There's like a surprise, and your mind fills in the funny picture. Here's this guy with a pen stuck in his ass and he thinks it's a thermometer.  Nada, huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1664",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Your health..."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Ta ss'trakyona'..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1665",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "There is so much our two peoples don't understand about each other."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "No shit, Holmes.  You're only from another goddamn planet, for chrissakes."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "You humans are very curious to us. You invite us to live among you, in an atmosphere of equality we've never known before.  You lay before us a beautiful green world, full of freedoms and opportunities... You give us ownership of our lives for the first time... and you ask no more of us than you do of yourselves: to live by the rules... rules that aren't made to keep one people subordinate to another, but rules that exist to preserve equality.  You aspire to very high ideals here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1666",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "I hope you can understand how special your world is... how unique a people you humans are.  So it us all the more painful and confusing to us that so few of you seem capable of living up the the ideals you set for yourselves."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Don't count on me, George.  I never had any ideals."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1667",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "I'm going home."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Yeah, go home.  Get some sleep.  You do sleep, don't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1668",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Where'd you get this?!!"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "A man, a human, was wiring it to your car.  I didn't get a good look at him.  I must call my wife..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1669",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "She's going to divorce me."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "George, she's not gonna divorce you. You mate for life, remember?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "She's very progressive.  I'm certain she's considering it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1670",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Well, let's roll, George."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "To the... to the beach?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Come on, let's go, dude.  Surf's up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1671",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Stop the car."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Why?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Please, I must get out here."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Come on, you won't have to get near the water."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Stop the car!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1672",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "It's all right, George.  It's cool. Just wait here, all right?  I'll be back in a coupla minutes."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1673",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "What was that about?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1674",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "... So we've got three guys dead. All Newcomers, all killed the same way -- execution style."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Warren Hubley was in middle management at a refinery... Joshua Strader operated a successful bar and nightclub..."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "... and Porter ran a piece of shit mom-and-pop mini-mart.  So what the hell's the connection?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1675",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "What's this nothing shit?  It wasn't nothing yesterday when you asked Bentner to run that test and he looked like he was about to shit peach pits, and it's not nothing now.  Don't lie to me, George, you're bad at it."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "You must leave me alone on this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1676",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "No secrets, goddammit!  You don't hold back from me.  Whatever is going on, you're gonna tell me now!"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "No.  I cannot involve you.  This is not your concern."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "The hell it isn't, when somebody wires up enough C-4 explosive to my car to turn me into pink mist!  That Slag was on something, and not sour milk, either?  Am I right?  TELL ME!  What is it?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "... It is called ss'jabroka'.  To us it is a potent narcotic."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "How potent?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Like your cocaine, I suppose.  The \"high\" lasts several hours.  We would receive small amounts of it... as a reward for our labor."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "We?  You've taken it?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "We all did."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Where did he get it?  Was there any of it on the ship?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "No... I am sure not.  That is why I am so concerned... someone must now be producing it here.  But none of my people know how to make it.  The process was carefully guarded."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Jesus, this is major.  Why didn't you tell me sooner? Why'd you hold out on me?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Your people don't know about this part of out past.  And they can't know -- It would threaten our entire existence here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1677",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "George... look me in the eye... George, you don't ever lie to me again."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "I must trust you, Matthew.  I cannot stop this without you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1678",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "They had months in quarantine to develop the plan.  Porter, with his chemistry background, must have somehow come up with the formula for the drug.  Hubley manufactured it -- at the refinery.  Strader, through the nightclub, established a distribution network.  And Harcourt--"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Harcourt was the brain who brought it all together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1679",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Okay, George -- we gotta play this real smart."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "If the drug is here, we must destroy it."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "No, George -- you're missing the point.  The drug is evidence.  We need to have the evidence, ya know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1680",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Uh, George..."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Where is the drug?  Where have they taken it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1681",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "George, uh... you're gonna break his little chest bones..."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Stay out of this, Matthew.  Tell me where the drug has been taken or I will crush your lungs against this wall."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1682",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "George, c'mon -- lighten up.  It's a beauty of a case.  Don't sweat it -- we got him by the short hairs. He ain't gonna make any more of the shit."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "The fifty kilos, Matthew.  I have to find it.  I can't let it get out on the street."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Why?  What's the big goddamn deal?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1683",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "Fuck procedure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1684",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Shit!"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Ss-ai!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1685",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "With Harcourt and Kipling dead, I assume you will be requesting reassignment now."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "It'd be for your own good.  I think you'd be better off with a partner who's a little more... by the book.  ... Still, I gotta tell you, George, for a quiet guy, you're sure hell on wheels once you get going.  I'd kinda hate to miss your next two days as a detective."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1686",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "What's this about, George?  I know that look."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "There!  Go back.  Down that side street."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1687",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "JETSON",
+        "text": "No!  We must do this alone."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Do what?!  George-- ?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1688",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "What is this?!"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "... It's Harcourt."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Harcourt is dead."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "No he's not.  Not if he overdosed on the drug.  Massive amounts trigger a... a change.  Your body functions seize up, you appear to be dead, but it's really a state of incubation.  When you emerge you're..."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Tell me about it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1689",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "I never thought I'd say this, but -- for once in my life I think I'm willing to wait for back-up."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "We can't let him get away."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Why the hell are you so dead set against back-up?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "Because... because of what will happen if humans see what we are capable of becoming."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "But there's no more drug."
+      },
+      {
+        "speaker": "JETSON",
+        "text": "You understand that.  But how many others will?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1690",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "How do I look?"
+      },
+      {
+        "speaker": "JETSON",
+        "text": "You look very good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1691",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "MAFFET",
+        "text": "You said you wanted the biggest thing I could find... Well, this is it."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "MAFFET",
+        "text": "Casull .454 Magnum.  You're talking twice the impact energy of .44 Magnum hot loads."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Only holds five."
+      },
+      {
+        "speaker": "MAFFET",
+        "text": "Yeah, the shells are too big for six in an cylinder.  Hell, Matt, you don't need but one."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "No... two."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1692",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "O'NEAL",
+        "text": "Mr. Hubley was an all right guy -- and a damn good manager.  The men liked him.  I'm really gonna have to scramble to fill his shoes."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Well, one of the men didn't like him so much..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1693",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "O'NEAL",
+        "text": "You think this is the guy who did it?"
+      },
+      {
+        "speaker": "SYKES",
+        "text": "We think he could'a been involved, yeah.  You know him?"
+      },
+      {
+        "speaker": "O'NEAL",
+        "text": "To be honest, it's hard to say.  I hate to admit it but -- they all still kinda look alike to me."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Who else can I ask around here?"
+      },
+      {
+        "speaker": "O'NEAL",
+        "text": "Wait.  You know who it looks like? Yeah.  Anderson.  Uh... James Anderson.  He isn't in today.  He took the afternoon off."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "I think you're gonna find he's taken the rest of his life off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1694",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "That where Anderson worked?"
+      },
+      {
+        "speaker": "O'NEAL",
+        "text": "Yes it is.  Thirty-five percent pure Methane gas in there.  I don't know how these fellas do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1695",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Don't piss him off, O'Neal.  When he gets like this, I can't control him. I've seen this before.  He got like this once -- I saw him jerk a guy's spine out and show it to him. Nothing I could do.  I hadda go throw up."
+      },
+      {
+        "speaker": "O'NEAL",
+        "text": "... They took the stuff out, all of it -- this afternoon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1696",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "OPERATOR",
+        "text": "Here's Hubley.  Left Quarantine on November thirtieth, relocated first to Riverside, then moved to Los Angeles early in February the following year.  Field of expertise: chemical manufacturing.  Looks like he passed up several other better paying jobs waiting for that one at the refinery."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Try Joshua Strader, will ya, darlin'?"
+      },
+      {
+        "speaker": "OPERATOR",
+        "text": "For you, anything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1697",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "OPERATOR",
+        "text": "Released December one.  He and his wife moved first to Modesto, then Coalinga, California -- wherever that is -- settled in L.A. in April.  Field of expertise: organic chemical engineering.  He and his wife have one child, a son."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Yeah -- we met him.  Wonderful boy... close personal friend of George's here."
+      },
+      {
+        "speaker": "OPERATOR",
+        "text": "I'm sorry, Matt.  Nothing here seems to be matching up..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1698",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Can you dig up their Quarantine records in this thing?"
+      },
+      {
+        "speaker": "OPERATOR",
+        "text": "Sure.  Just a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1699",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "Jesus, are the questions too tough for you already?  Let's try again--  Is your name Porter?"
+      },
+      {
+        "speaker": "PORTER",
+        "text": "Ss'kya'ta'."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "What's that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1700",
+    "movie_id": "m14",
+    "turns": [
+      {
+        "speaker": "SYKES",
+        "text": "One of the two men was Hubley, right?  What about the other one? Did you know him?"
+      },
+      {
+        "speaker": "PORTER",
+        "text": "Yeah... I seen him around.  High- roller dude named Strader.  Joshua Strader.  Runs a club on the west side.  Encounters."
+      },
+      {
+        "speaker": "SYKES",
+        "text": "Yeah, I heard of it."
+      },
+      {
+        "speaker": "PORTER",
+        "text": "That's all I know.  You want anything more, you ask somebody else."
+      }
+    ]
+  }
+]

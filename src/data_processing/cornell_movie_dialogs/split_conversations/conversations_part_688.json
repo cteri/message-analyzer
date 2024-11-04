@@ -1,0 +1,1926 @@
+[
+  {
+    "conversation_id": "conv_68713",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "GALE",
+        "text": "No, not so fast. We have nothing concrete."
+      },
+      {
+        "speaker": "KENNY",
+        "text": "When did that ever stop you? You can't sit on this. This is huge."
+      },
+      {
+        "speaker": "GALE",
+        "text": "If I'm gonna blow this up -- I need hard proof."
+      },
+      {
+        "speaker": "KENNY",
+        "text": "But it's so much easier when we make it up."
+      },
+      {
+        "speaker": "GALE",
+        "text": "Not this time. I owe Cotton that much. Hell, even I thought that man was guilty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68714",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "KENNY",
+        "text": "What's the plan?"
+      },
+      {
+        "speaker": "GALE",
+        "text": "Prep the compact, we'll hide it in a window and tape all of tonight's festivities."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68715",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "KENNY",
+        "text": "The control board's glitched. You know we can't carry a live picture."
+      },
+      {
+        "speaker": "GALE",
+        "text": "What's the delay?"
+      },
+      {
+        "speaker": "KENNY",
+        "text": "About thirty seconds."
+      },
+      {
+        "speaker": "GALE",
+        "text": "As long as it records I don't give a shit. We're not doing a remote."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68716",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "It's okay, Tatum. She's just doing her job. Right, GALE?"
+      },
+      {
+        "speaker": "GALE",
+        "text": "Yes, that's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68717",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "How's the book?"
+      },
+      {
+        "speaker": "GALE",
+        "text": "It'll be out later this year."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68718",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "I'll look for it."
+      },
+      {
+        "speaker": "GALE",
+        "text": "I'll send you a copy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68719",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "I'm not here to fight."
+      },
+      {
+        "speaker": "GALE",
+        "text": "Just stay back."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "I want to talk to you."
+      },
+      {
+        "speaker": "GALE",
+        "text": "Kenny. Camera. Now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68720",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Off the record. No cameras."
+      },
+      {
+        "speaker": "GALE",
+        "text": "Forget it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68721",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Please. You owe me."
+      },
+      {
+        "speaker": "GALE",
+        "text": "I owe you shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68722",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "You owe my mother."
+      },
+      {
+        "speaker": "GALE",
+        "text": "Your mother's murder was last year's hottest court case. Somebody was gonna write a book about it."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "And it had to be you with all your lies and bullshit theories."
+      },
+      {
+        "speaker": "GALE",
+        "text": "What is your problem? You got what you wanted. Cotton Weary is in jail. They're gonna gas him. A book is not gonna change that."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Do you still think he's innocent?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68723",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "GALE",
+        "text": "He was convicted in a court of law. Your testimony put him away. It doesn't matter what I think."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "During the trial, you did all those stories about me. You called me a liar."
+      },
+      {
+        "speaker": "GALE",
+        "text": "I think you falsely identified him. Yes."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Have you talked to Cotton?"
+      },
+      {
+        "speaker": "GALE",
+        "text": "Many times."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Has his story changed?"
+      },
+      {
+        "speaker": "GALE",
+        "text": "Not one word. He admits to having sex with your mother but that's all."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "He's lying. She wouldn't have touched him. He raped her, then butchered her. Her blood was all over his coat."
+      },
+      {
+        "speaker": "GALE",
+        "text": "He was drunk that night. He left his coat at your house, after your mother seduced him..."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "I saw him leaving wearing it."
+      },
+      {
+        "speaker": "GALE",
+        "text": "But couldn't it have been someone else you saw wearing that coat? The same person who planted it in Cotton's car, framing him? The same person who really killed your mother?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68724",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "GIRL #1",
+        "text": "She was never attacked. I think she made it all up."
+      },
+      {
+        "speaker": "GIRL #2",
+        "text": "Why would she lie about it?"
+      },
+      {
+        "speaker": "GIRL #1",
+        "text": "For attention. The girl has some serious issues."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68725",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "GIRL #1",
+        "text": "What if she did it? What if Sidney killed Casey and Steve?"
+      },
+      {
+        "speaker": "GIRL #2",
+        "text": "And why would she do that?"
+      },
+      {
+        "speaker": "GIRL #1",
+        "text": "Maybe she was hot for Steve and killed them both in a jealous rage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68726",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "GIRL #2",
+        "text": "Why would Sidney want to be with Steve? She has her own bubble-butt boyfriend Billy."
+      },
+      {
+        "speaker": "GIRL #1",
+        "text": "Maybe she's a slut just like her mom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68727",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "GIRL #2",
+        "text": "You're evil."
+      },
+      {
+        "speaker": "GIRL #1",
+        "text": "Please, it's common knowledge. Her mother was a trollop."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68728",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "GIRL #2",
+        "text": "Cut some slack. She watched her mom get butchered."
+      },
+      {
+        "speaker": "GIRL #1",
+        "text": "And it fucked her up royally. Think about it. It makes perfect sense. Her mom's death leaves her distraught and hostile at a cruel and inhumane world, she's disillusioned, where's God, etc. Completely suicidal. And one day she snaps. She wants to kill herself but realizes teen suicide is out this year. And homicide is a much healthier therapeutic expression."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68729",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "GIRL #2",
+        "text": "Where do you get this shit?"
+      },
+      {
+        "speaker": "GIRL #1",
+        "text": "Ricki Lake."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68730",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "I have no idea."
+      },
+      {
+        "speaker": "MAN",
+        "text": "Scary night, isn't it? With the murders and all, it's like right out of a horror movie or something."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Aha, Randy, you gave yourself away. Are you calling from work? Tatum's on her way over."
+      },
+      {
+        "speaker": "MAN",
+        "text": "Do you like scary movies, Sidney?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "I like that thing you're doing with your voice, Randy. It's sexy."
+      },
+      {
+        "speaker": "MAN",
+        "text": "What's your favorite scary movie?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Don't start. You know I don't watch that shit."
+      },
+      {
+        "speaker": "MAN",
+        "text": "And why is that?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Because they're all the same. It's always some stupid killer stalking some big breasted girl -- who can't act -- who always runs up the stairs when she should be going out the front door. They're ridiculous."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68731",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "MAN",
+        "text": "Are you alone in the house?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "That is so unoriginal. You disappoint me, Randy."
+      },
+      {
+        "speaker": "MAN",
+        "text": "Maybe that's because I'm not Randy."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "So who are you?"
+      },
+      {
+        "speaker": "MAN",
+        "text": "The question is not who am I. The question is where am I?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "So where are you?"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Your front porch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68732",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Why would you call me from my front porch?"
+      },
+      {
+        "speaker": "MAN",
+        "text": "That's the original part."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68733",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "So where are you?"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Right here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68734",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Can you see me right now?"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "What am I doing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68735",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Good try, Randy. Tell Tatum to hurry. Bye now."
+      },
+      {
+        "speaker": "MAN",
+        "text": "If you hang up, you'll die just like your mother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68736",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Hello Sidney."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68737",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "MAN",
+        "text": "Poor Billy-boyfriend. An innocent guy doesn't stand a chance with you."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "LEAVEMEALONE!"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Looks like you fingered the wrong guy... again."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Who are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68738",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "MR. PRESCOTT",
+        "text": "Are you okay?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Can you knock?"
+      },
+      {
+        "speaker": "MR. PRESCOTT",
+        "text": "I heard screaming."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "No you didn't."
+      },
+      {
+        "speaker": "MR. PRESCOTT",
+        "text": "No? Oh, well... I'm hitting the sack. My flight leaves first thing in the morning. Now the expo runs all weekend so I won't be back til Sunday. There's cash on the table and I'll be staying at the Raleigh Hilton..."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "...out at the airport..."
+      },
+      {
+        "speaker": "MR. PRESCOTT",
+        "text": "...so call if you need me."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68739",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Have a good trip."
+      },
+      {
+        "speaker": "MR. PRESCOTT",
+        "text": "Sleep tight, sweetie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68740",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Stu was with me last night."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Oooooh... before or after he sliced and diced."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Fuck you, nut case. Where were you last night?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Working, thank you."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "I thought Blockbuster fired you."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Twice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68741",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "THE FOG, TERROR TRAIN, PROM NIGHT -- How come Jamie Lee Curtis is in all these movies?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "She's the Scream Queen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68742",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Stop. Right there."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Don't shoot. It's me."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Don't come any closer."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Listen to me, Sid. I found Tatum. She's dead, she's been killed... I think Stu did it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68743",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Only if it's a nice Meg Ryan movie."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "You got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68744",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "That was an ice pick -- not exactly the same."
+      },
+      {
+        "speaker": "STU",
+        "text": "Yeah, Casey and Steve were completely hollowed out. Takes a man to do something like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68745",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "For about two seconds."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Before she dumped him for Steve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68746",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "And are the police aware you dated the victim?"
+      },
+      {
+        "speaker": "STU",
+        "text": "What are you saying? That I killed her or something?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "It would certainly improve your high school Q."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68747",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Besides --  \"Takes a man to do something like that.\""
+      },
+      {
+        "speaker": "STU",
+        "text": "I'm gonna gut your ass in a second."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Did you really put her liver in the mailbox? I hear they found her liver in the mailbox."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68748",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "Jesus, this place is packed."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "We had a run in the mass murder section."
+      },
+      {
+        "speaker": "STU",
+        "text": "You coming tonight?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Yeah, I'm off early -- curfew you know.  Now that's poor taste."
+      },
+      {
+        "speaker": "STU",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68749",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "If you were the only suspect in a senseless bloodbath would you be standing in the horror section?"
+      },
+      {
+        "speaker": "STU",
+        "text": "It was all a misunderstanding. He didn't do anything."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "You're such a little lap dog. He's got killer printed all over his forehead."
+      },
+      {
+        "speaker": "STU",
+        "text": "The why'd the police let him go?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Because, obviously they don't watch enough movies. This is standard horror movie stuff. PROM NIGHT revisited."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68750",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "Why would he want to kill his own girlfriend?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "There's always some stupid bullshit reason to kill your girlfriend. That's the beauty of it all. Simplicity. Besides, if it's too complicated you lose your target audience."
+      },
+      {
+        "speaker": "STU",
+        "text": "So what's his reason?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Maybe Sidney wouldn't have sex with him."
+      },
+      {
+        "speaker": "STU",
+        "text": "She's saving herself for you."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Could be. Now that Billy's tried to mutilate her, you think Sid would go out with me?"
+      },
+      {
+        "speaker": "STU",
+        "text": "I think her father did it. How come they can't find his ass?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Because he's probably dead. His body will come popping out in the last reel somewhere... eyes gauged. See, the police are always off track with this shit, if they'd watch PROM NIGHT they'd save time. There's formula to it. A very simple one. Everyone's always a suspect -- the father, the principal, the town derelict..."
+      },
+      {
+        "speaker": "STU",
+        "text": "Which is you..."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "So while they're off investigating a dead end, Billy, who's been written off as a suspect, is busy planning his next hunting expedition."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68751",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "You're absolutely right. I'm the first to admit it. If this were a scary movie, I'd be the prime suspect."
+      },
+      {
+        "speaker": "STU",
+        "text": "And what would be your motive?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "It's 1995 -- motives are incidental."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68752",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "I thought everything was checked out."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "I had 'em hid in the foreign section."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68753",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "We could be like two grief stricken students and we'll say really nice things about our good friends who were slaughtered senselessly."
+      },
+      {
+        "speaker": "STU",
+        "text": "I can cry on cue."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68754",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "What's Leatherface doing here?"
+      },
+      {
+        "speaker": "STU",
+        "text": "He came to make up."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "There goes my chance with Sid."
+      },
+      {
+        "speaker": "STU",
+        "text": "Like you had one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68755",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "I wanna see Jamie Lee's breasts. When do we see Jamie Lee's breasts?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Not until TRADING PLACES in '83. Jamie Lee was always the virgin in horror movies. She didn't show her tits until she went legit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68756",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "There are certain rules that one must abide by in order to successfully survive a horror movie. For instance: 1. You can never have sex. The minute you get a little nookie -- you're as good as gone. Sex always equals death. 2. Never drink or do drugs. The sin factor. It's an extension of number one. And 3. Never, ever, ever, under any circumstances, say \"I'll be right back.\""
+      },
+      {
+        "speaker": "STU",
+        "text": "Wanna another beer?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "STU",
+        "text": "I'll be right back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68757",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "His movie nut mind has snapped, Sid. He's gone psycho."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Don't listen to him. It's him. He's the one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68758",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "Come on, Sid. Give me the gun."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "No, Sid."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68759",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "You heard Billy -- shut the fuck up."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Hey, Stu? Didn't you use to date Casey?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68760",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Why are they doing this?"
+      },
+      {
+        "speaker": "STU",
+        "text": "Are you kidding? This is like Christmas."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68761",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "And to celebrate this impromptu fall break, I propose we have a party. Tonight, my house."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Are you serious?"
+      },
+      {
+        "speaker": "STU",
+        "text": "My parents are out of town. It'll be like my hurricane bash last year. Nothing extreme. Just a few of us, hangin'."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68762",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "Remember, there's safety in numbers."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Yeah, okay... whatever."
+      },
+      {
+        "speaker": "STU",
+        "text": "Cool. See you guys tonight. Bring food."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68763",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "If Tatum sees you -- she'll draw blood."
+      },
+      {
+        "speaker": "STU",
+        "text": "You guys can go up to my parents room? To talk and... whatever."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68764",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "Guess, I won't be needing this anymore."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Why are you doing this?"
+      },
+      {
+        "speaker": "STU",
+        "text": "It's all part of the game."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68765",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "You're crazy -- both of you."
+      },
+      {
+        "speaker": "STU",
+        "text": "The official term is \"psychotic\"."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "You'll never get away with this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68766",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "So Stu, what's your motive? Billy's got one. The police are on their way. What are you going to tell them?"
+      },
+      {
+        "speaker": "STU",
+        "text": "Peer pressure... I'm way to sensitive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68767",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Do you believe this shit?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "What happened?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68768",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Oh God! You don't know? Casey Becker and Steve Forrest were killed last night."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "No way."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "And not just killed, Sid. We're talking splatter movie killed-split open end to end."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Casey Becker? She sits next to me in English."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Not anymore. Her parents found her hanging from a tree. Her insides on the outside."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Do they know who did it?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Fucking clueless -- they're interrogating the entire school. Teachers, students, staff, janitors..."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "They think it's school-related?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "They don't know. Dewey said this is the worst crime they've ever seen. Even worse than...  Well it's bad. They're bringing in the feds. This is big."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68769",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Or a man's mentality."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "How do you gut someone?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68770",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "You sure I can stay over? My dad won't be back til Sunday."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "No prob. I'll pick you up after practice."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Tell your mom I said thanks."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Yeah, yeah... are you okay?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Uh-huh, it's just... you know, the police and reporters... it brings it all back."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "I'll be there by seven. I promise"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Thanks, Tatum."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68771",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Practice ran late. I'm on my way."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "It's past seven."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Don't worry. Casey and Steve didn't bite it til way after ten."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "I'm not worried."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Good, 'cause I wanna swing by BLOCKBUSTER and get us a video. I was thinkin' Tom Cruise in ALL THE RIGHT MOVES. You know, if you pause it just right you can see his penis."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Whatever. Just hurry."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Bye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68772",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "It's okay. She was supposed to pick me up."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Her dad's out of town. She's staying with us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68773",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Just another sleepover at the Riley's."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Just like old times, ain't it?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "No, nothing's like it used to be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68774",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Do you really think Billy did it?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "He was there, Tatum."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "I knew this guy was too perfect. He was destined to have a flaw."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68775",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Take a message."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "It's alright. I'll get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68776",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Come on, Sid."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Just a sec... I need to talk to someone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68777",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Just relax. You're at school now. No one can get you here."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "But if it wasn't Billy it could be anybody. He could be here at school right now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68778",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "This is a mistake. I shouldn't be here."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "I want you to meet me here right after class, okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68779",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Shit, what is he doing here?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "I bet he's pissed."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Just ignore him. You had good reason to think what you did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68780",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "It was just some sick fuck having a laugh."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "It was him, Tatum. I know it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68781",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "This could be good. What do you think, Sid?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "I don't know..."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Come on. Pathos has it's perks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68782",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Maybe Cotton Weary is telling the truth. Maybe he was having an affair with your mom."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "So you think my mom was a slut too?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "I didn't say that, Sid. But you know there were rumors. Your dad was always out of town on business. Maybe your mom was a very unhappy woman."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "If they were having an affair how come that Cotton couldn't prove it in court?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "You can't prove a rumor. That's why it's a rumor."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Created by that little tabloid twit Gale Weathers."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "It goes further back, Sid. There's been talk about other men."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "And you believe it?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Well... you can only hear that Richard Gere-gerbil story so many times before you have to start believing it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68783",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "If I was wrong Cotton, then he's still out there."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Don't go there, Sid. You're starting to sound like some Wes Carpenter flick. Don't freak yourself out -- we've got a long night ahead of us."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "You're right. I'm cracking up. Ignore me."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Come on, let's rock."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68784",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Hey, Sid. Just think if they make a movie about you. Who's gonna play you?"
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Oh, god..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68785",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Is Billy going to be there tonight?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "He better not be. I told Stu to keep his mouth shut. I think we can live without EVERYBODY'S ALL AMERICAN for one night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68786",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Billy's right. Whenever he touches me, I just can't relax."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "You have a few intimacy issues as a result of your mother's untimely death. It's no big deal. You'll thaw out."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "But he's been so patient with me, Tatum. You know, with all the sex stuff. How many guys would put up with a girlfriend who's sexually anorexic?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Billy and his penis don't deserve you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68787",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "What do you think about when you're having sex?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "With Stu, there's little time to stop and reflect. But sometimes before, to relax and get in the mood, I think about Grant Goodeve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68788",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "Who?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Grant Goodeve -- the oldest brother on EIGHT IS ENOUGH. Remember that show? He was the one who lived off alone. He would come around every now and then with his guitar and sing \"Eight is enough to fill our lives with love...\" He had all these brain dead sisters and that idiot brother from CHARLES IN CHARGE. God, I was in love with Grant, he was so hot. The show came on every day after school right during my puberty years. Grant Goodeve was very instrumental in my maturing as a woman."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "How does that get you in the mood with Stu?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "During foreplay, I sing the theme song to myself. \"Eight is enough to fill our lives with love...\" It's a real turn on."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "No way."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Grant wrote the song himself. I'm convinced the lyrics had a secret meaning, \"Eight is enough...\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68789",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "SIDNEY",
+        "text": "What secret meaning? Like a Satanical thing?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Watch the show, Sid. His basket is bigger than the one you're pushing."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "TATUM!"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Oh, Sidney. WHAT? A guy can talk tits til he's dead but the minute you mention an eight inch weenie. Watch out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68790",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "There's that sense of humor. I knew it still existed. Ohh, Sid, let's have some fun tonight."
+      },
+      {
+        "speaker": "SIDNEY",
+        "text": "Deal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68791",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "Hunt? Why would they ask if you like to hunt?"
+      },
+      {
+        "speaker": "STU",
+        "text": "I don't know, they just did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68792",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "Because there's no way a girl could have killed them."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "That is so sexist. The killer could easily be female -- BASIC INSTINCT."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68793",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "I thought you dumped her for me."
+      },
+      {
+        "speaker": "STU",
+        "text": "I did. He's full of shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68794",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "You know if I were accused of carving up two people, I'd take the opportunity to skip school."
+      },
+      {
+        "speaker": "STU",
+        "text": "Hey, go easy, Tatum. He didn't do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68795",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "Is this not cool or what? Hey, Sid, what happened?"
+      },
+      {
+        "speaker": "TATUM",
+        "text": "For once, Stu, drop it."
+      },
+      {
+        "speaker": "STU",
+        "text": "Okay, but whatever you did -- the entire student body thanks you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68796",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "TATUM",
+        "text": "That's mature."
+      },
+      {
+        "speaker": "STU",
+        "text": "Where you guys been? We had to start without you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68797",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "With that set of lungs -- she should be."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "Tits -- see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68798",
+    "movie_id": "m507",
+    "turns": [
+      {
+        "speaker": "STU",
+        "text": "I got it. Tatum get me a beer. They're in the fridge in the garage."
+      },
+      {
+        "speaker": "TATUM",
+        "text": "What am I? The beer wench?"
+      },
+      {
+        "speaker": "STU",
+        "text": "Hey, guess who's here? It's that chick from INSIDE STORY?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68799",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "I don't have anyone else to give this to, Somerset, you know that.  And nobody's going to swap with you."
+      },
+      {
+        "speaker": "MILLS",
+        "text": "Give it to me."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "How's that?"
+      },
+      {
+        "speaker": "MILLS",
+        "text": "There's nothing that says I have to work with him.  If Somerset wants out, \"goodbye.\"  Give it to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68800",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "That's not necessary.  You're in."
+      },
+      {
+        "speaker": "MILLS",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Go start picking up the pieces.  We'll shuffle some paper and try to get you a new partner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68801",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "He cuts off the skin if his fingertips. That's why we can't find a single usable print in the apartment.  He's been doing it for quite a while.  Keeps cutting before the papillary line can grow back."
+      },
+      {
+        "speaker": "MILLS",
+        "text": "What about the trace on his bank account and the guns?  There must be something to connect him with a past."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "So far it's all dead ends.  No credit history.  No employment history.  His bank account's only five years old and it started as cash.  We're even trying to trace his furniture, but for now all we know is he's independently wealth, well educated and totally insane.  We may never know how he got that way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68802",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "You don't.  It goes to court now."
+      },
+      {
+        "speaker": "MILLS",
+        "text": "He wouldn't just turn himself in.  It doesn't make any sense."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68803",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "MILLS",
+        "text": "He's pissing in our faces again and we're just taking it."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "You're wound too tight, Mills.  Let it go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68804",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "MILLS",
+        "text": "How is it working for a scumbag like this? You proud of yourself?"
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Ease back, Mills."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68805",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "What do you think?"
+      },
+      {
+        "speaker": "MILLS",
+        "text": "I'm in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68806",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "SOMERSET",
+        "text": "\"Dear Detectives, Long is the way, and hard, that out of hell leads up to light.\" It's the murderer's way of announcing himself."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Announcing what?"
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "There are seven deadly sins.  Gluttony, wrath, greed..."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "So what?  This victim..."
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "... envy, sloth, pride and lust.  Seven."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Hey, so gluttony is one of the seven deadly sins.  But, this was a fat guy.  The killer may have felt this was the just best way to torture him. And, writing on the walls happens all the time.  It's like the fashionable thing to do."
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "One is gluttony."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68807",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "What's this: \"I'm declining this case?\"  It don't work that way."
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "This can't be my last duty here.  It will go on and on."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "I know what you're thinking, okay?  You don't want to get in bed with this every night, but it's different now.  You're retiring.  In six days you're all the way gone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68808",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "You've left unfinished business before."
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "Everything else was taken as close to conclusion as humanly possible.  Also... this shouldn't be his first assignment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68809",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "Have you heard?"
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "No, I haven't heard."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "There was a second."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68810",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "SOMERSET",
+        "text": "Already."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Greed.  It was written in blood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68811",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "SOMERSET",
+        "text": "It's none of my business anymore."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "I thought you might want to be filled in."
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "I'm sure everyone's doing their best."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_68812",
+    "movie_id": "m508",
+    "turns": [
+      {
+        "speaker": "CAPTAIN",
+        "text": "Come on.  What are you going to do with yourself out there?"
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "I'll get a job, maybe on a farm.  I'll work on the house."
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "Can't you feel it yet?  Can't you feel that feeling... ?  You're not going to be a cop anymore."
+      },
+      {
+        "speaker": "SOMERSET",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "CAPTAIN",
+        "text": "You know."
+      }
+    ]
+  }
+]

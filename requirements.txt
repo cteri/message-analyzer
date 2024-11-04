@@ -1,4 +1,5 @@
 annotated-types==0.7.0
+accelerate~=0.26.0
 black==24.8.0
 blinker==1.8.2
 certifi==2024.8.30

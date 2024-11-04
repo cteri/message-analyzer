@@ -1,0 +1,2370 @@
+[
+  {
+    "conversation_id": "conv_28401",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Was this him?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Um... he was older."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Besides that."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "To be honest, when I'm working, I don't look at faces much. He knew the guy's name."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Testa?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "The bearded guy, the creep. Oh, one other thing. Testa, if that's his name, he kept mentioning my feet. Said I had very pretty feet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28402",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Have you had a chance to think about --"
+      },
+      {
+        "speaker": "DAITZ",
+        "text": "Zorro. Yes, ran it through my files, even asked around: came up completely blank. Thought there might be a Mexico connection, El Paso and all, but nothing. Fooled around with the letter \"Z,\" turned it on it's side, got \"N\" -- there Ng, he's Vietnamese. The only thing that came to mind was zero, not Zorro. Remember Suspect Zero?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "No."
+      },
+      {
+        "speaker": "DAITZ",
+        "text": "Before your time. It was Richard Low's brainchild, or, lack-of-brain child. The Behavioral Sciences Unit at Quantico is essentially the product of three men: David Koessler, Dick Low and myself. Low was a field agent, Koessler administrative, I was teaching criminology. Low came up with the concept of a serial killer's signature. He invented profiling. Everything we know about profiling started with Richard Low..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28403",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "DAITZ",
+        "text": "...well, there was some friction: I wanted to write up my work, educate the public, but Koessler wouldn't allow it. Low felt Koessler was more interested in career advancement than catching killers. Koessler had Low reassigned to the Pacific Northwest, Seattle. You know when they say, stick it where the sun don't shine? That's where they stuck Dick Low."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Pacific Northwest is a hotbed for serials."
+      },
+      {
+        "speaker": "DAITZ",
+        "text": "You got that right. Low became obsessed with the Green River murders, the case had been inactive for ten years at that point. He argued the Green River Killer had actually become Suspect Zero, this master murderer who killed without pattern, killed literally hundreds of victims -- male, female, old, young, straight, gay -- and who was still killing, even though there were no bodies. It went against everything we knew. Low became increasingly paranoid. Every suspect was potentially Suspect Zero. Anybody tried to talk sense into him, he'd accuse them of being out to get him. Deputy Director Koessler was \"out to get him.\" The decision was made to relieve him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28404",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Does Koessler know about the Suspect Zero theory?"
+      },
+      {
+        "speaker": "DAITZ",
+        "text": "Of course. He knows everything about Dick Low."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28405",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "DUNCAN",
+        "text": "Welcome back, sir. How was the vacation?"
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Takes four days to chill, then its time to come back.  Is that...?"
+      },
+      {
+        "speaker": "DUNCAN",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28406",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "SALINAS",
+        "text": "Agent Duncan, there's an interstate issue up on 54, run out there."
+      },
+      {
+        "speaker": "DUNCAN",
+        "text": "I'm babysitting the DEA guys this afternoon, Casio and I. You said that was top priority."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28407",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "SALINAS",
+        "text": "Agents Duncan, Mackelway.  Anything new?"
+      },
+      {
+        "speaker": "DUNCAN",
+        "text": "Just mopping up. Nine bodies in all."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Anybody talk to the press?"
+      },
+      {
+        "speaker": "DUNCAN",
+        "text": "No, sir."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "The diner?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28408",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "You run the plates?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Fella's name is Harold Speck, travelin' man out of Roswell."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Excuse me, a salesman gets done in his car and you call the FBI?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Well, the victim was killed at the turn-around over there, then his car was pushed over here...  ...right across the state line. That makes it Federal. This is Officer Wallace, he's out of Alamogordo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28409",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Where's the Nuevo American Diner?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Ten miles back on the Texas side."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28410",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I hope that wasn't a joke because I can assure you, from personal experience, the FBI does not have a sense of humor."
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "That's right, Jan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28411",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "DYLAN",
+        "text": "Nine bodies in Roswell, now this -- it's getting a little hairy, huh?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I'd appreciate it if you kept this to yourself."
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "I know how the Feds like to sit on information. I got something in the car to show you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28412",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "DYLAN",
+        "text": "Her name is Karen Sumpter, from near Dell City. Just disappeared a couple weeks back. Vanished."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You're thinking...?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Who knows."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "This isn't in our database?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "I just assumed she ran away. Happens a lot around here. Look around. This place is an invitation to run away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28413",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Agent Mackelway."
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Mack, this is Sheriff Dylan."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Oh Jesus, Sheriff, I am sorry. I meant to call you -- I got distracted -- the Sumpter girl was not one of Speck's victims. That's the good news."
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "What's the bad news?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You tell me."
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "No bad news. You know the Be On the LookOut you asked me to send on the diner car -- we got a hit on it. A little town on the border, Socorro. We got it staked out -- you interested?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I'm on my way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28414",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Hey, Sheriff."
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Down the road a piece is the Golden Sunset, the no-tell motel, Socorro's contribution to international relations. The car's just sitting there, no activity. I've had a couple Hispanic officers casing it all day. Want to take a look?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What does the Manager say?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "I sent a female in. The room in question was rented by an Anglo, cash; since then, nothing -- no activity, no phone response."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Let's take a look."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28415",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "The room key's in the car. On the seat."
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "And it's getting dark. I'm not going to run this into the night.  Eddie, we're walking in. Everything covered?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28416",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "DYLAN",
+        "text": "Show's over, boys. Nobody home."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Tape it off, we'll want to fine-tooth- comb it. My guess is that the UNSUB is having us on. He checks in, pays, picks up the key, but never walks inside. Tell me if I'm wrong."
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Got a sister like this, what they call it, anal? That's her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28417",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "DYLAN",
+        "text": "Dylan here."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Sheriff Dylan, this is FBI Agent Thomas Mackelway. Remember me?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Hi there."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I want to talk about the Karen Sumpter case."
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "You heard?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Her body turned up. In a Minnesota cemetery. They brought her back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28418",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "You have the body?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "She's buried."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I want the autopsy report, where is it, Minnesota?"
+      },
+      {
+        "speaker": "DYLAN",
+        "text": "Winona."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28419",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "EAGLEFOOT",
+        "text": "The family has gone through a lot. Their daughter missing, the search, her body found, the funeral -- then this order to exhume the corpse."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I'm sorry. This won't take long."
+      },
+      {
+        "speaker": "EAGLEFOOT",
+        "text": "The body was embalmed. I don't understand --"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Turn the body over. There was something in the autopsy report, yes, here.  These burn marks."
+      },
+      {
+        "speaker": "EAGLEFOOT",
+        "text": "A grill pattern."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "We need to run this through VICAP, search for similar burns."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28420",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "EAGLEFOOT",
+        "text": "Ligature strangulation, just like his victims. A cord, nylon, you can tell by the indentation signature -- again, like his victims.  Look at that little thing and look at all the trouble it got him in. Should have cut it off."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "I'm not in the mood for Native American wisdom."
+      },
+      {
+        "speaker": "EAGLEFOOT",
+        "text": "We had to bring staff in from the whole county to handle this."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "I appreciate it, doctor. You know how it is, press screaming for answers, Washington's all over me.  Ever handle a serial case?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28421",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "EAGLEFOOT",
+        "text": "Be my guest, Agent Kulok, scrub suits are in the back."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "This is Agent Mackelway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28422",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "EAGLEFOOT",
+        "text": "Ripped off. By hand, my guess. Perimortal: victim was alive at the time, there's blood on his throat."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "That's the thing. Don't know if it connects, but Harold here had a thing about eyes. Two of the victims had their eyes gouged out, another punctured. Took polaroids after."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28423",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "FOREMAN",
+        "text": "There seems to be a discrepancy."
+      },
+      {
+        "speaker": "ZERO",
+        "text": "Not a discrepancy, an error. My capacity is 5.5 tons, not 6."
+      },
+      {
+        "speaker": "FOREMAN",
+        "text": "I have 6 tons."
+      },
+      {
+        "speaker": "ZERO",
+        "text": "Mam, it's my truck. I know my own capacity."
+      },
+      {
+        "speaker": "FOREMAN",
+        "text": "You can't imagine how many men have told me that."
+      },
+      {
+        "speaker": "ZERO",
+        "text": "It's been customized for sleeping capacity."
+      },
+      {
+        "speaker": "FOREMAN",
+        "text": "Oh yes, I see. You must get asked this a lot."
+      },
+      {
+        "speaker": "ZERO",
+        "text": "Not as much as you'd think."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28424",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "HAROLD",
+        "text": "Jesus."
+      },
+      {
+        "speaker": "LOW",
+        "text": "Hi. What's in the case?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28425",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "HAROLD",
+        "text": "You... surprised me."
+      },
+      {
+        "speaker": "LOW",
+        "text": "Sorry. I've seen you in here. Always lugging that case around.  Whatja sell?"
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "Ah... restaurant supplies. I didn't get your name."
+      },
+      {
+        "speaker": "LOW",
+        "text": "You must travel a lot, huh?"
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LOW",
+        "text": "Whole country or just hereabouts?"
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "I don't mean to be rude, but..."
+      },
+      {
+        "speaker": "LOW",
+        "text": "Just gettin' a jolt of java before headin' on home?  How does your wife feel about it?"
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "What?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "About your being away all the time. Must get lonely."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "Look..."
+      },
+      {
+        "speaker": "LOW",
+        "text": "You must get lonely. You ever think about, you know..."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "Excuse me?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "You know, you ever think about other women?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28426",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "HAROLD",
+        "text": "What are you...?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "Fucking. I'm talking about fucking, Harold. You ever think of fucking other women?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28427",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "HAROLD",
+        "text": "Look, mister..."
+      },
+      {
+        "speaker": "LOW",
+        "text": "Take a look, Harold. Tell me if you see anything you want. You do like to look, don't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28428",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "HAROLD",
+        "text": "My God."
+      },
+      {
+        "speaker": "LOW",
+        "text": "Not bad, huh?"
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "You're a... you're sick."
+      },
+      {
+        "speaker": "LOW",
+        "text": "What's wrong with me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28429",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Calm down, Harold.  Okay, here's what we're going to do, Harold: there's a pull off up ahead, we're going to stop there."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "Oh God, mister, please leave me alone."
+      },
+      {
+        "speaker": "LOW",
+        "text": "You're going to miss it. Pay attention."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "What do you want from me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28430",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "I've been looking for you."
+      },
+      {
+        "speaker": "HAROLD",
+        "text": "Why me? What do you want from me!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28431",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "The man who was with him, he was a construction worker?"
+      },
+      {
+        "speaker": "JANITA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What did he look like?"
+      },
+      {
+        "speaker": "JANITA",
+        "text": "I didn't wait on him. Fifty or so, white, regular build, needed a shave -- that's all I remember."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "How did you know he was a construction worker?"
+      },
+      {
+        "speaker": "JANITA",
+        "text": "He had an orange hat on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28432",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "He was sitting here?"
+      },
+      {
+        "speaker": "JANITA",
+        "text": "It's been wiped down a hundred times since then."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28433",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "JANITA",
+        "text": "There was a car in the lot when we closed. Gone today."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What kind?"
+      },
+      {
+        "speaker": "JANITA",
+        "text": "An old junker. Like a reservation car. Blue, side door with brown, you know, primer paint. New Mexico plates. A Ford or ah, yeah, a Ford."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Put a BOLO out on that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28434",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "SALINAS",
+        "text": "Speck's the killer all right. We got box loads of evidence. Did 'em all the same way: torture, strangulation. Prostitutes. I don't think we'll be able to write off any outstandings on him -- this is probably the full body count."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "What about his killer?"
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Nada. Vague description, that's all. Fine-tooth-combed Speck's car, the diner: no fingerprints, no trace evidence."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "What's with the eyelids?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28435",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "You have the photo from the diner?"
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "At the field office."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Let's take a look at it.  Drop off my stuff at the hotel after you're done here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28436",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "He said it was a clue?"
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Maybe something to do with Zorro."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Don't say that. Don't even think that. The next thing we'll be hearing about \"Zorro Killer\" in the media -- this hasn't gotten out, has it?"
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Just hospital talk. Nothing that connects to Speck."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "This could all be a coincidence, but, you know something, I don't believe in coincidences. That's why I came back.  Do you think the UNSUB -- we're not going to mention the word Zorro -- met Harold Speck online?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28437",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "Chuck, hello.  This is Agent Kulok. She has a background in medical forensics."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Just an observer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28438",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "We didn't know Speck was a serial, the police didn't know, his wife didn't know -- so how did the killer know?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Maybe cause he's smart."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Smarter than us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28439",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Sorry to interrupt you, sir, but I thought you'd like to know."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "What?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "We have another one."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Another what?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Serial killer killed. In Ft. Myers. Cut up in his van. And this time we got a witness."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28440",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Deputy Director, get out, sir."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28441",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "Mackelway, I could understand. He is over-emotional by nature, but you, Agent Kulok, you had a shining career in front of you."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Just step outside, sir. Now. Keep your hands where I can see them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28442",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Look, sorry. Don't say a word.  I know this is improper. I've been trying to speak with Deputy Director Koessler. I left a message. I must speak with you before you go back to Washington."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "This better be important."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28443",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I think I talked to him."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Who?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Speck. Harold Speck."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "From the grave?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "MyDick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28444",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "I'll relay this to CIIAC."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "They don't know how to crack these secret chat rooms --"
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "I might point out, Agent Mackelway, the reason we haven't been able to crack those rooms is that you refused to share that information with us -- which is also why you were reassigned."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I had gotten their trust. We were sharing fantasies. I couldn't risk it."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "The Federal Bureau of Investigation is not based on personal preference. We share information."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Let some by-the-book J. Edgar Agents go into the chat room, spook these guys with stupid questions, blow my cover? -- no way."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "You refused to comply with a direct order."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I was lucky to find, much less crack, the address code -- no way to be sure I could have done it again."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Its called insubordination."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Then why do I still have a badge?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28445",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "How do you feel, Agent"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Pretty embarrassed, to be honest. I had him."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Agent Kulok and I were in O'Hare when we heard."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "He got away. I had him. He got away."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Do you think he singled you out?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "No, just coincidence. He knew who I was, of course. He had my ID -- did he keep it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28446",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "The cut on your arm -- mind if we remove the bandage?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Go ahead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28447",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "Agent Mackelway, you're going to get your wish. You're going back to Washington. I want you back in Computer Crimes. Fire up those chat rooms."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "This time, sir, if I may be so bold, would it be possible to set up my equipment outside CIIAC, perhaps in military housing at Quantico? I didn't get along very well with the other members of the Division. We thought differently."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "You didn't like anyone looking over your shoulder -- why was that? What were you doing?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "If my Reporting Agent could be someone outside Computer Crimes, perhaps Agent Kulok?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28448",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "I'll take it into consideration."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What I do requires confidentiality."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "I always meant to ask, what is it that makes you so special? Why is it you have this special rapport with multiple killers? Why you?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "They like my stories. They like the way I think. They're into fantasy. I turn them on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28449",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "You feeling okay, Agent Mackelway?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Had trouble sleeping last night, sir."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Okay, Harold Speck: who goes first?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28450",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Nothing concrete. Nothing I'd... well, nothing."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "I don't believe this."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I'm hesitant to..."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Mack the Mouth at a loss for words."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28451",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "\"Murman\" was the alter identity of William Heirens, the original \"Catch Me Before I Kill Again\" killer. Short for \"Murder Man.\" It was the case that got Richard Low and I started in this field."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I spoke with Lloyd Daitz."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "That gasbag. I can imagine what he said. I'm not ashamed to admit that most of what I know about criminal profiling started with Richard Low. I have also, over the years, I admit, taken credit for many of his accomplishments. He was the most brilliant law enforcement individual I ever met."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "\"Was?\""
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "We had every reason to believe he was on that plane. He was supposed to be on the plane. Everything was incinerated, it was two weeks before we reached the crash site. We, the Director and I, decided it was in everyone's best interest to declare Dick Low dead. That way he could exit a hero."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You suspected all along, suspected he was alive. That's why you came to El Paso."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Dunlevy said there was another case, Ron Rice. In fact, there were two earlier cases where serials were murdered. The second was George Sheldon. I didn't enter it into VICAP -- I'll get you the file."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "How long ago?"
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Both in the last year. I suspected only someone as brilliant as Dick Low could find these guys.  Look, whatever Daitz told you, nobody wanted to strip Richard of his badge. You have to get close to be good at what he did, the trick is not to get too close."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You knew the arm slash was not \"Zorro.\""
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "I suspected, but you were the one Low contacted. That's why I brought you back here."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What did you think of the Suspect Zero theory?"
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "It was neither a valid concept nor a valid fact. Suspect Zero came to represent every killer Dick Low had not caught. The idea took root in his head like a wild irrational vine. For someone like Low, there would always be a Suspect Zero. We couldn't let Richard go where that idea was taking him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28452",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I got a look in Testa's computer. His screen name was \"Imelda.\" Have to give him that, had a sense of humor."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Collected shoes too?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28453",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "We're waiting for trace evidence results on the Rice killing."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "We need to put out an NCIC inquiry."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "How do you send out an APB on a dead man?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Huh?, sir."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "I want to catch Dick Low, more than you can imagine, but I cannot risk going public. What happens when the media finds out that a former FBI Special Agent, a founder of the Behavioral Sciences Unit, is not dead, but instead alive and killing people, not ordinary people, but, even worse, serial killers, making him some sort of white knight vigilante?  You keep at it. We'll find him, we'll find him in our own way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28454",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "Why did you go to Chicago?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I was visiting an old college friend."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "You didn't tell anyone where you were?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "An oversight, sir, I apologize. I felt I needed to get away for a day. The pressure. Paid for my own ticket."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "I'm told you've asked for a Bureau cross-check of flight records to and from El Paso, Ft. Myers, Omaha, the Murman murder time frames."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I was looking for a pattern."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "That breaks my confidentiality stipulation."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I didn't use Low's name."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "There was talk of a file photo."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "In Ft. Myers before your instruction. Nowhere else, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28455",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "Watch out for Dick Low, he's a liar; he has his own world. There was a Junior Agent in Seattle, not unlike you, an Agent who fell under Dick's spell. He'd have done anything for Agent Low. Richard got this Agent to take a suspect to the crime scene, beat him up, force a confession -- all unauthorized, all illegal.  The Agent died that night, killed by the suspect. Richard Low got him killed. Worst of all, we had to hush it up, let the suspect go. The suspect was George Sheldon, the second man Richard killed."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I understand."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "As far as the public knows, Richard Low is dead. And he will stay dead until we kill him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28456",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "He's got you believing in Zero now too."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I need to get to Amarillo immediately."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Have you told Richard Low about Amarillo?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I can't. The chat room isn't open for another five days."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "We'll wait. Get online with Low, inform him of Zero's route -- we'll set a trap for him."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What about Zero, Darryl Hawkins?"
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Hawkins isn't the target, Richard Low's the target."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "There's a killer out there -- we know who he is. He could be stalking now."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Dick Low's a killer too."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You're as crazy as he is! He's right! You don't give a damn about saving lives at all! Fuck you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28457",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Miss me, Dave?"
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Thank you, Rangers.  Put this man in the unmarked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28458",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "Don't you touch him."
+      },
+      {
+        "speaker": "LOW",
+        "text": "You better hope the Director doesn't stop abruptly one day, David, you might break your nose."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "You're a disgrace to law enforcement, to the Bureau -- and to me."
+      },
+      {
+        "speaker": "LOW",
+        "text": "How did a girl like me end up in a place like this?  The Deputy Director here, he believes in Tough Love. A cop's cop. Shape up or ship out, righto? Agent Kulok, when you get a chance you might want to check the victims of the recent serials. You'll find that some of them have been credited to other killers, some years ago. That's a Dave Koessler trick, find a pliant sociopath, preferably a dead one, attribute to him unsolved cases, clean up the backlog-looks great in the yearly report."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28459",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KOESSLER",
+        "text": "You are so fucked up."
+      },
+      {
+        "speaker": "LOW",
+        "text": "Suspect Zero, now there's an idea that doesn't look good on paper --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28460",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "When I was at the rest stop, there was a young boy, maybe ten, and his mother. Darryl Hawkins, Zero, abducted the boy in the men's room. I tried to stop him. He cold-cocked me --"
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Listen to this guy? Can you believe this? He'll never change. Born a liar, first word out of his mouth was a lie. Make up a story, always a story, any goddamn story, to save his ass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28461",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Agent Kulok, that boy, as we speak, is in Hawkins' truck, probably still alive, in a dark refrigerated compartment, shivering in just a T- shirt: put yourself in his mind, freezing, terrified, wanting his mother. Put yourself in his mother's place, desperate, imagining the worst is happening as she pleads, back there at the rest stop, for someone, anyone, to listen to her. This is not hypothetical, this is real. It is happening now and you can do something about it."
+      },
+      {
+        "speaker": "KOESSLER",
+        "text": "Shut the fuck up or I'll shut you up."
+      },
+      {
+        "speaker": "LOW",
+        "text": "You have to save this boy. Good exists in this world. I can prove it because you can, in your life, save this one person."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28462",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Thanks for the ride."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "They sort of got me on shit detail, no offense."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "None taken."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Maybe I shouldn't put it that way. I'm on my best behavior. I've got to watch what I say."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "You used to be in the Behavioral Science Unit, right?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "The Academy, then CIIAC."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I read your white paper. It's sort of like the Bible for what they're trying to do in Computer Crime."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "How long have you been downtown?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Five months. I love it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28463",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "You work with Koessler?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Not especially."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Why did he come out here? What's going on?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Beats me. He just asked me to come along, double-check the forensics.  What did you do to piss him off?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28464",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "This is a sexy case."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Yeah, you know the vic's car, he was killed this side of the state line, the car then pushed across the border. This by an Unknown Subject, presumably the killer, who left no fucking evidence except the snapshot, which may or may not have been accidental."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Doesn't fit."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "This is no random killing, no one shot deal. The UNSUB has killed before; he's good at it. So what do we have?  We have someone who has killed before who kills someone who kills: a serial killer of a serial killer -- and who wants the FBI to know he exists."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "And who kills in the manner of his victim."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "That information's being withheld from the media."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "A very sexy case."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28465",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Some kids found you in a garbage dump."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Where's my watch? It's gone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28466",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Yes I do."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "It explains a lot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28467",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Relax.  J. Edgar's greatest fear: a female with a badge."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "The man knew how to dress."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Don't even go there. What's up?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Setting up. Technically, anyone in a chat room can be traced back to a screen address. But, by using punters, a correspondent literally punts his address around the world, through computers in countries that have no communication treaties. The correspondent becomes \"ghosted,\" invisible."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "What about the chat rooms themselves?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "That's the beauty of the system. This is a fugitive chat room. It moves from place to place, chat rooms that are normally empty at certain hours: a gardening website, Chaucer buffs, a dating service. A pre- arranged code shows up in one of fifty porn rooms -- that's where I stumbled across it -- notifying \"friends\" to meet at a certain time, usually midnight to three Eastern Standard, at a certain website -- a deserted chat room, say, \"How to Plant Perennials.\" Come Tuesday, twelve a.m., bingo, these like-minded deviates log on and start yakking it up: explicit sex crime gossip, who did what to whom, who wants to do what, when, why and how."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "That's part of the reason I dropped by. I need to learn this stuff."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "The other reason?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "You want to have dinner?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28468",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Working the net isn't that different from ordinary undercover work. You go into the community, walk their walk, talk their talk, gain their confidence."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "They're all criminals?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "No, no, no, most of them -- I used to think all of them -- are just fantasists, guys who get off telling degrading stories. When I came across this fugitive chat room, listened in, I started to think some might actually be real, that they'd gone live. The challenge was to figure out which was which. Then I had my disagreement with Koessler."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "\"Gone live?\""
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Chat jargon for moving from fantasy to real victims: \"I went live last month.\""
+      },
+      {
+        "speaker": "KULOK",
+        "text": "This is some serious shit."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Taking a Stryker saw, cutting off the top of someone's cranium, pulling the brain out -- what's that, a day in Spring?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "You got a point there."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "People end up in occupations for a reason. They may think not, but they do: occupations define us."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I was going to be a physician, I am a physician, but I kept drifting over to criminal psych. This seems to be the best of both. My parents still haven't forgiven me."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I was interested in two things: computers and crime. They sort of came together."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "And one other thing."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Sex."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28469",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Look at this fellow... or this one."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Grown man dressed like a clown. Does he really think he looks good?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "He thinks he looks young."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "What's this country coming to?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Take it to the next level. What are his fantasies, what turns him on, what kind of pornography does he like? If he could act out his fantasies, what would he do? Imagine yourself one of his victims, realizing your life is in his hands. What is he thinking?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "My guess: he's wondering whether to get more fries or go straight to the chocolate sundae."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28470",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Every cop has a story and every story has a girl. The girl in my story was fifteen years-old. She wore a pink angora sweater -- I can still see it -- one day, she disappeared. I told the police she wouldn't run away, I told them who to look for, but I was just a kid. I sat in the police station crying and crying. My parents took me home. The girl was my cousin and the man who abducted her was a teacher I'd had. He kept her alive a week before he killed her. The police could have saved her. Every time I see a photo of a victim I see her. That's what I want to do. I want to save her."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Me too.  Make any headway with \"Zorro\"?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "None. Can't find a thing. Nothing on file, nothing online. It's not a part of any known killer's signature."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I was thinking, maybe we should ask Professor Daitz. Nobody knows this stuff better."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "That's because he's a fucking wacko. Never met a self-promotion scheme he didn't like. What's he doing now?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "He's a consultant to a network TV program on Profilers. He gets a check every episode."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28471",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I ever get like that, just take me out in back and shoot me."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Don't be too harsh."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I saw him on a talk show once, talking about these killers like they were his friends. Not the victims, not the families of the victims, he doesn't talk about them. Blood money, that's what it is.  Did he hit on you?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "When you were his student? Did he come on to you?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Of course he did. He came on to every attractive student. Which bothers you most: that he exploits suffering or that he came on to me?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You must really think I'm a square, a computer nerd."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "No, Mack, I do not think you're a square and definitely not a nerd."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28472",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Why did Koessler assign you as my liaison?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Because you asked him to, stupid."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Oh yeah, I forgot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28473",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "There are Agency regulations about this."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "\"Intra-Agency fraternizing.\""
+      },
+      {
+        "speaker": "KULOK",
+        "text": "It's a no-no."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I know."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I've been thinking about this."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Does Koessler ask about me?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "He's called a couple times."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What did you tell him?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Just routine stuff."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Not about coming to see Daitz?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Not yet. Not about this, either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28474",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Find the feet?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "No. Cut off while he was still alive, look at his wrists, damn near ripped his hands off trying to get free. Must have been screaming real loud when the killer chain-sawed his throat. Unfortunately, he'd soundproofed his van."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "We got an UNSUB walking around with four feet?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "We did find these, however."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28475",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Jesus."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "We're trying to match them with dump site bodies.  This we know is Carol Delview from Tampa, found her last Spring. This one --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28476",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "The tattoo?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Sue Ann Hanson."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You mean --"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "You found the body. She was one of Harold Speck's victims. In El Paso.  They're not just talking to each other, Mack, they're trading souvenirs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28477",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Did they disconnect Testa's computer?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Not yet. This time they're waiting for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28478",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "You should have seen the store manager at Parade of Shoes. She was inconsolable."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Murman and Imelda had been slipping into a private chat room. Low had poor old Testa drooling on the keyboard. Abduction fantasies, voyeurism, mutilation, teasing him with fetish elements. He is very good. I think it's safe to say Richard Low is Murman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28479",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Mack, I'm sorry. I apologize. I should have called. I had no right to sneak in on you like that."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "No, Jaime, I apologize. I didn't... I had no right to speak to you like that."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I came over because I couldn't sleep and was lonely. I wanted to see you. I thought I'd surprise you."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28480",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Maybe we should back off a bit."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I can't. They trust me, they accept me. I've got their confidence."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "No, I mean maybe we should back off a bit, you and me."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28481",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "There's the Agency issue. I think Koessler may suspect something already. We're not on the best footing with him as it is."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "That's true."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Then there's the other issue."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "You need time to think. About the case, about you and me."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I found a peephole into Deviant World. I'm gonna reach in and yank some of those creeps out."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "And nobody else can do that?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Not the way I can."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "That's my point. Remember, you're a cop pretending to be a deviant. It's not the other way around."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Don't confuse what we do with who we are."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I just need to go a little slow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28482",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Jaime? Where are you?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Where are you? Everybody's looking for you."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "What's up?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I'm in Omaha. Get to the airport. There's been another one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28483",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "My watch. He toyed with me. He sent me to Chicago."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "You want to get him? Find something he wants. Get him to come to you."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Start killing people for real?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Suspect Zero."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "That's a crackpot theory. Everybody says so."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "But he believes in it. That's all that matters. He toyed with you, you toy with him. Convince him you've got a lead on Suspect Zero. Use Zero, you'll find Low."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28484",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "This feels like something out of a spy novel."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I guess I'm a little paranoid."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "What's going on?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28485",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I met with Richard Low.  These are names of missing persons he has flagged. I'm double-checking every case, but I don't want to be too obvious about it. I marked the ones I'd like you to work on."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Slow down a second, you met with Low --"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You were right. He found me."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "And you're working with him?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I need something tangible. To hook him. I told him I'd found the confidential file on the Suspect Zero theory."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Does one exist?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Probably. I told him Koessler had ordered the report, kept it secret."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Koessler doesn't know any of this?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I've decided to investigate Low's plane crash. While I'm at it, I thought I'd look at the cases Koessler worked with Low."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28486",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "I'd be real careful if I were you."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "It's too late for that. I've gone ahead of the curve on this one. There's no turning back. When this is over, Koessler is going to be right or Low is going to be right or I'm going to be right, but not all of us."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "It's okay to be wrong, just don't be dead wrong."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "They say Richard Low is wrong, but because of him, women, innocent women, are alive who would be dead."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "You're putting me in a difficult position."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I got an autopsy report from El Paso that doesn't seem right. A girl on Low's list. Karen Sumpter. We're getting a court order to exhume to body. I'd like you to come and look at it.  Don't worry, I've cleared it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28487",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Jaime, do you think, when this is all over, when we're in different divisions, you think maybe you and me, we could try again?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Mack, I'm just trying to keep up with now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28488",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "But why this pattern?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Could be a lot of things. Depends on the freezer.  I'm sorry, Mack, but I don't think this is the answer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28489",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Tom, you okay?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Hardly anyone calls me Tom. Everybody calls me Mack. I always liked that."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "You okay?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Yeah, of course."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "What's going on?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28490",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "It's quite advanced."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Burn marks. The original M.E. listed it as \"burn residue.\" Same place, the outer thigh, as Karen Sumpter. The UNSUB is able to abduct, kill, transport and bury without detection."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "All the same killer?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Low calls him Suspect Zero."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Suspect Zero is a crackpot theory. You said so."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "That's what Koessler wants us to believe. To discredit Low."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "You're assigned, we're assigned, to apprehend Richard Low, not Suspect Zero. I have to tell you, Mack, I'm not comfortable where you're going."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "But it was your idea: \"use Zero,\" you said, use Zero to get Low."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28491",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I haven't changed anything.  Damn."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I..."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I've got to take a piss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28492",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Jaime --"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "It's a truck. A refrigerated truck."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Zero abducts victims all over the country, kills them, keeps them refrigerated for days, weeks, even months, then buries them hundreds, thousands of miles away. Karen Sumpter was buried, washed up in a flood. Evans was buried. When we get Zero, we'll find boneyards all across the country."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "How are we going to find him?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Get the routes of all refrigerated trucks over the last ten years. We've got three disappearance cities and dates, three parallel discovery cities. Get into the mainframe, let it crunch this information."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28493",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I'm going to Amarillo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28494",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Agent..."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Kulok."
+      },
+      {
+        "speaker": "LOW",
+        "text": "Agent Kulok, could you wipe my face?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28495",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Unlock these cuffs."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Sit back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28496",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Mack must think Zero has a police band."
+      },
+      {
+        "speaker": "LOW",
+        "text": "Of course he does. Now get the key, get these things off me.  Unhook me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28497",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Uncuff me. What's wrong with you? Don't you want to save the boy?"
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I want to protect the boy. I also want to protect Suspect Zero -- from you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28498",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "KULOK",
+        "text": "Okay, I'll unhook you. No weapon."
+      },
+      {
+        "speaker": "LOW",
+        "text": "No weapon."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "Turn around. Stretch your arms over the seat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28499",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Bitch! Cunt! Please, please, please don't do this, Agent Kulok. You need me."
+      },
+      {
+        "speaker": "KULOK",
+        "text": "I'll be back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28500",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "How did you know Speck was a killer?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "The little piggie speaks."
+      }
+    ]
+  }
+]

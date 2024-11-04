@@ -1,0 +1,2326 @@
+[
+  {
+    "conversation_id": "conv_39201",
+    "movie_id": "m278",
+    "turns": [
+      {
+        "speaker": "SHARON",
+        "text": "Don't use language like that at the dinner table."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39202",
+    "movie_id": "m278",
+    "turns": [
+      {
+        "speaker": "SHARON",
+        "text": "Let me go!  Godammit, Frank let go!"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Daddy -- stop it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39203",
+    "movie_id": "m278",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "I didn't know that Andrew was dead until Mr. Sattler called me at home that night."
+      },
+      {
+        "speaker": "REESE",
+        "text": "We have a witness who saw you go into the house at four thirty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39204",
+    "movie_id": "m278",
+    "turns": [
+      {
+        "speaker": "REBECCA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "REESE",
+        "text": "What time did you leave?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "Six thirty -- and he was very much alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39205",
+    "movie_id": "m278",
+    "turns": [
+      {
+        "speaker": "REESE",
+        "text": "Did Marsh use it?"
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "No -- never."
+      },
+      {
+        "speaker": "REESE",
+        "text": "It had to get there somehow."
+      },
+      {
+        "speaker": "REBECCA",
+        "text": "It didn't get there from me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39206",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "No, we just had lunch at the hotel with my brother and his new wife. She told me all the dirt. I forgot how interesting things can get around here. It was so good to see them. The last time we visited they were in Europe. He is doing so well. He ordered champagne. For lunch! I nearly died."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I nearly died when we split the bill."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Michael doesn't understand. People who make the kind of money my brother makes don't carry money on them. They keep it all in various accounts."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Then we should have had lunch at the bank."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39207",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Boy. It sure has been a long time."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "We were here two Christmases ago."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Well, that's a long time."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "It's not that long."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Well, why don't I just say black so you can say white!  Don't be surprised to find your brother hasn't changed an iota. He hardly ever talks and when he does it's in that tone! You should have heard him at lunch -- not two words until the bill came and then he says, \"Worth every penny.\""
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "SO!"
+      },
+      {
+        "speaker": "BETTY",
+        "text": "You said it in that tone! Like you were angry at me, my brother, at the world for forcing you to eat a nice lunch!"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Oh Jesus."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "I simply can not stand that tone!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39208",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "My Jewish friend's grandmother did."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Well, no one in my family did! Dad bought cemetery plots at Oak Ridge. One for him, one for mom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39209",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Not to mention people driving over her and doggies doing their business --"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "We're not doing it! I'm not even sure it's Christian."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Maybe it's an Italian thing. Their mother was Italian."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Doesn't matter. Move on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39210",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "It's a beautiful picture of her."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Why are there two deeds here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39211",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I don't mind waiting."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Well, there's a lot of boring stuff to do. Lists of people we have to write to. Find mama's relatives addresses in Italy -- stuff like that."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "Well, I can help."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I said NO!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39212",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I am so sick and tired of apologizing and not knowing what I've done!"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "I'm sure you haven't done anything. Have some iced tea. How are the kids?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39213",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Eeeww!"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "I know. I don't understand it either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39214",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "How bizarre!"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Mr. Peterson, are you sure mama wrote all this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39215",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "CAROLYN",
+        "text": "Oh, just a old letter from a friend."
+      },
+      {
+        "speaker": "BETTY",
+        "text": "No treasure maps, huh?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39216",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "I do not need instructions from you to bathe!  I knew you'd do this! I knew I'd come all the way here and be shut out as usual! I came to be here for you! I didn't have to come!  Lord knows I was never much welcome in this house before. Apparently dead or alive, nothing's changed."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Aw, Betty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39217",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "BETTY",
+        "text": "Carolyn -- you want these candlesticks?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "No. You can have them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39218",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Explain to me again why we didn't do this in Des Moines in an air conditioned office?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Mom's orders."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Lawyer here?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "I have some sandwich fixings if you're hungry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39219",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "He dropped them off at Betty's mom. Where's Steve?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "He's not coming."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39220",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "I thought everything WAS arranged."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Well, there's a problem."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "What problem?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39221",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "CAROLYN",
+        "text": "I remember a Mrs. Delaney but Mama told me years ago she died."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Well, I don't care if it's legal or not, we're not cremating her and throwing her all over some bridge where we can't even go visit her because she's going to be blown all over the place like an ashtray."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39222",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Michael."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "What?!"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Come here a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39223",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "CAROLYN",
+        "text": "\"-- going over and over in my mind every detail, every moment of our time together and I ask myself, \"What happened to me in Madison County?\" I struggle to put it together in a way that allows me to continue knowing we're on separate roads. But then I look through the lens of my camera, and you're there. I start to write an article and I find myself writing it to you. It's clear to me now we have been moving towards each other, towards those four days, all our lives --"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Goddamn sonofabitch! I don't want to hear anymore! Sonofabitch! Burn the damn thing! I don't want to hear it! Throw it away!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39224",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "What's he saying now?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Well, he just gets on about how if mama ever needed him, she could find him through the National Geographic magazine. He as a photographer. He promises not to write again. Then all it says is...  I love you... Robert."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Robert! Jesus! I'll kill him."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "That would be some trick. He's already dead. That's what this other letter is.  From his attorney. He left most of his things to mama and requested..."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "What?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "That he be cremated and his ashes thrown on Roseman Bridge."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "DAMN HIM! I knew mama wouldn't have thought of that herself. It was some damn perverted... photographic mind influencing her! When did the bastard die?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "'82."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Wait a minute! That was thirty years after daddy. Do you think...?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "I don't know. I'm completely in the dark here. That's what I get for moving away."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "This happened way before we both got married. I... I can't believe it.  You think she had sex with him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39225",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "CAROLYN",
+        "text": "My Lord. It must feel real nice living inside your head with Peter Pan and the Easter Bunny."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Don't talk to me like that. She was my mother for Christsakes. And now I find out she was... She was a --!"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Don't say that!"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Well, what am I supposed to think?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "I can't believe she never told me? We spoke at least once a week. How could she do that?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "How did she meet him? Did Dad know? Anything else in that envelope?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "No, I don't think so. I --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39226",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "I can't believe she's making jokes."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Sshhh. \"After going through the safety deposit box, I'm sure you'll find you're way to this letter. It's hard to write this to my own children. I could let this die with the rest of me, I suppose.  But as one gets older, one fears subside. What becomes more and more important is to be known -- known for all that you were during this brief stay. Row said it seems to me to leave this earth without hose you love the most ever really knowing who you were. It's easy for a mother to love her children no matter what -- it's something that just happens. I don't know if it's as simple for children. You're all so busy being angry at us for raising you wrong. But I thought it was important to give you that chance. To give you the opportunity to love me for all that I was...\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39227",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Grateful!?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "\"... It's all there in the three notebooks. Read them in order. If you don't want to, I suppose that's okay too. But in that case I want you to know something -- I never stopped loving your father. He was a very good man. It's just that my love for Robert was different. He brought out something in me no one had ever brought out before, or since. He made me feel like a woman in a way few women, maybe more, ever experience...\""
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "That's it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39228",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "CAROLYN",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "This is crazy. She waits till she's dead to tell us all this. Well, I got news for you. She was my mother. That's enough for me. I don't have to know who she was."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Well, I'd like to read them."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "No. We're going to lock this up and --"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "STOP IT!  I want to read them! If you don't want to, then just leave. But don't you push me around like I'm some mule you paid for -- I already GOT A HUSBAND!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39229",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "He's getting her drunk. That's what happened. Jesus, maybe he forced himself. That's why she couldn't tell us."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Oh, he did not. He's such a nice guy."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Nice? He's trying to sleep with somebody's wife."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "I don't think so. Not yet anyway. And besides, something like that doesn't make you a bad person. He reminds me of Steve in a way. Steve's weak, immoral and a liar but he's still a real nice guy. He just shouldn't be married.  At least not to me. You getting hungry? I'm hungry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39230",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "I had no idea it's gotten that bad, sis."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Oh, don't feel sorry for me. Please. No one's forcing me to stay."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Then why do you?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "And do what? Live alone? Go back to school? Find someone else? Start a magazine for confused woman? ... What if I can't do any of those things?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39231",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Bar across the street."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Have you called Betty?  Maybe you should."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I found out who Lucy Delaney is.  Remember the Delaneys from Hillcrest Road?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Yeah. But I thought she died."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "He remarried. Apparently they were having an affair for years. Apparently the first Mrs. Delaney was a bit of a stiff."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "You mean -- she didn't like sex?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I bet mom could've helped her."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Boy. All these years I've resented not living the wild life in some place like Paris and all the time I could've moved back to Iowa... Are you drunk?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Not yet. You want to go?"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "I think I better. Between the book and the coffee, I'm this close to raping the busboy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39232",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "MICHAEL",
+        "text": "I used to love this place. I used to take Kathy Reynolds down here."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "You never dated Kathy Reynolds!"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Not officially. Her and Steve Kendall were pinned at birth. But I was crazy about her. And for about three months, I managed to catch her during her \"exploring\" stage."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "I never knew that."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Nobody did."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Was this during Betty?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Everything was during Betty. God we were so young. Why did we think we had to do it all so fast? I've never cheated on Betty. Not once we were married, I mean."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "Did we want to?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Only about a thousand times. What do I do now? \"What's good enough for mom is good enough for me?\""
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "What gets me is I'm 46 years old. I've been in this crummy fucking marriage -"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Carolyn!"
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "-- for over twenty years because that's what I was taught -- you stick with it! Normal people don't get divorced. I can't remember the last time my husband made love to me so intensely that he transported me to Europe, for Christ's sake -- quite frankly, I don't think he ever did! And now I find out in between bake sales, my mother was Anais Nin!"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "What about me! I feel really weird. Like she cheated on me, not dad. Isn't that sick? I don't mean I wanted to sleep with her or anything but -- ya know -- being the only son. You're sort of made to feel like you're the prince of the kingdom, ya know? And in the back of your mind, you kind of think your mother doesn't need sex anymore because she has you."
+      },
+      {
+        "speaker": "CAROLYN",
+        "text": "You're right -- that is sick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39233",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "GLADYS",
+        "text": "Mrs. Delaney.  Did you hear the latest?"
+      },
+      {
+        "speaker": "ELEANOR",
+        "text": "No, what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39234",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "GLADYS",
+        "text": "See. Money don't buy happiness. I must say, she's taking it well."
+      },
+      {
+        "speaker": "ELEANOR",
+        "text": "I'd kill him. Him and that Redfield woman. Together. First one then the other. And then I'd laugh."
+      },
+      {
+        "speaker": "GLADYS",
+        "text": "I'd laugh first then I'd kill them. Make sure they heard me laughing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39235",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ELEANOR",
+        "text": "She's changed."
+      },
+      {
+        "speaker": "GLADYS",
+        "text": "Oh, yes."
+      },
+      {
+        "speaker": "ELEANOR",
+        "text": "She used to be so friendly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39236",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "GLADYS",
+        "text": "My niece had \"the changes\" when she was thirty-one."
+      },
+      {
+        "speaker": "ELEANOR",
+        "text": "No. What a tragedy. What happened?"
+      },
+      {
+        "speaker": "GLADYS",
+        "text": "She changed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39237",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ELEANOR",
+        "text": "Oh, this heat! Times like this I wish we took that offer from your brother and moved on up to Michigan."
+      },
+      {
+        "speaker": "HENRY",
+        "text": "They got heat in Michigan."
+      },
+      {
+        "speaker": "ELEANOR",
+        "text": "Not this kind of heat."
+      },
+      {
+        "speaker": "HENRY",
+        "text": "Heat is heat."
+      },
+      {
+        "speaker": "ELEANOR",
+        "text": "Heat is not heat! There's different kinds! And this heat is much hotter than what they got in Michigan. You go and call your brother and see if he don't say the same thing."
+      },
+      {
+        "speaker": "HENRY",
+        "text": "I'll get right on it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39238",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "HENRY",
+        "text": "Well, nobody put a gun to his head."
+      },
+      {
+        "speaker": "ELEANOR",
+        "text": "Oh, shut up! It's the woman who's in control of these situations. Men don't know which end is up till a woman points."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39239",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ELEANOR",
+        "text": "What do you know about \"the changes\"?"
+      },
+      {
+        "speaker": "HENRY",
+        "text": "Well, I didn't know they was a secret club."
+      },
+      {
+        "speaker": "ELEANOR",
+        "text": "Don't talk about what you don't know. Besides, she's too young for \"the changes.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39240",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Madge?"
+      },
+      {
+        "speaker": "MADGE",
+        "text": "Hi. I made some brown betty. I sent Floyd off to town with the boy. I said -  \"Floyd, I'm going to visit my girlfriend and spend the afternoon and that's all there is to it. He said who's going to make lunch? I said I'm taking a sick day. Eat at the dinner.\" Isn't that hilarious?  He didn't dare raise an eyebrow -- I don't even want to tell you how late he was out last night with those good for nothings from the Sandford ranch. I am so sorry, honey, I let two days pass before I came by, but with the boy home the time just escapes me. Have you heard from Richard? How's the fair? God, it's hot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39241",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Madge. Please. Something's happened. I've met someone. I've fallen in love in a way I've never thought could happen my entire life. It's our last day together. I feel like I'm going to die when he leaves. Please. Help me."
+      },
+      {
+        "speaker": "MADGE",
+        "text": "Oh, honey. I'm so sorry. But you've got to be grateful for even feeling the little you've be given. Believe me. Go to him. Don't let him leave without these new precious hours you've got left. And if you need anyone to cry on, you know where I am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39242",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "I don't know. I woke up a little dizzy. I didn't sleep well. I think I need to lay down."
+      },
+      {
+        "speaker": "MADGE",
+        "text": "You want me to call the doctor?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No, no. I just didn't sleep well. I'm not used to sleeping alone. And this heat. Would you mind?"
+      },
+      {
+        "speaker": "MADGE",
+        "text": "No, of course not. I'll just clean up."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No, leave it. I'll do it later. Listen, maybe you and Floyd can come for dinner on Saturday. I'm sure Richard'll have so many stories to tell you both about the fair and all."
+      },
+      {
+        "speaker": "MADGE",
+        "text": "Oh, that'll be nice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39243",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Are you supposed to be in Iowa?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39244",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Roseman Bridge?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "That's it."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Well, you're pretty close. It's only about two miles from here."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Oh, terrific. Which way?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39245",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "If I'm not taking you away from anything."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No. I was just going to have some iced tea then split the atom, but that can wait.  I just have to get my shoes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39246",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Pretty country."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Hmm-mmm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39247",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "There's a wonderful smell about Iowa -- very particular to this part of the country. Do you know what I mean?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I can't describe it. I think it's from the loam in the soil. This very rich, earthy kind of... alive... No. No, that's not right. Can you smell it?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Maybe it's because I live here."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "That must be it. It's a great smell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39248",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Are you from Washington originally?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Uh-huh. Lived there till I was twenty or so and then moved to Chicago when I got married."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh. When did you move back?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "After the divorce."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "How long you been married?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Uh... uh...  Umm... long time."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "You don't look like a native, if you don't mind my saying so."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No, I don't mind. I'm not from here. I was born in Italy."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Well, from Italy to Iowa -- that's a story!  Whereabouts in Italy?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Small town on the Eastern side no one's ever heard of called Bari."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Oh yeah, Bari. I've been there."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No, really?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Oh, yeah. Actually, I had an assignment in Greece and I had to go through Bari to get the boat at Brindisi. But it looked so pretty I got off and stayed for a few days. Breathtaking country."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39249",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "You just... got off the train because it looked pretty?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Yeah. Excuse me a sec."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39250",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "So, how long you've been living here?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Long.  You just got off the train and stayed without knowing anyone there?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39251",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "This won't take long. I'm shooting tomorrow morning. I just need to do some prep work."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I don't mind waiting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39252",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "This time of year."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Would you do me a favor and go to the truck? Inside that leather bag with the pockets is a package of lens cleaners. Would you grab me one?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39253",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh there you are."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Oh! You caught me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39254",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Men sill give women flowers, don't they? I mean, as a sign of appreciation? I'm not that out of date, am I?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No, not at all --  except those are poisonous."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "WHAT!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39255",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Are you by nature a sadistic person?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No, I'm not.  I don't know why I said that. I've been in a very... strange mood all day. I've never done anything like that before. It's... I'm just...  Well, you know, the whole world is just going nuts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39256",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Looking for something in particular? There's not much of a selection."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I found this Chicago station before. Wait a minute...  Here it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39257",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh, that's nice."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Want another cigarette?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39258",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Well, thank you for all your help, Mrs. Johnson."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Francesca."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Francesca. Robert."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39259",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Lemon?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39260",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Mind if I smoke?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Not at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39261",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Sure you want to keep those in the house?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I'm so sorry about that. It was rude. I think I just got nervous for some reason."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I thought it was funny."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39262",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Where are you staying while you're here?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "A little place with cabins. The something-Motor Inn. I haven't checked in yet."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "And how long are you here for?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "As long as it takes, I might stay a week. No more I don't think. Where's your family?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "My husband took the kids to the Illinos State Fair. My daughter's entering a prize steer."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Oh. How old?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "About a year and a half."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No, your kids."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh. Michael's 17 and Carolyn's 16."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Must be nice having kids."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39263",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Everything does. One of the laws of nature. People are always so afraid of change. But if you look at it like it's something you can count on happening, it's actually a comfort. Not many things you can count on for sure."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I guess. Except I'm one of the people it frightens."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I doubt that."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Italy to Iowa? I'd call that a change."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Richard was in the army. I met him while I was living in Naples. I didn't know where Iowa was. I only cared that it was America. And of course, being with Richard."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "What's he like?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39264",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "He's very... clean."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Clean?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No. I mean yes, he's clean but he's also other things. He's a very hard worker. Very honest. Very caring. Gentle. Good father."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "And clean."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Yes. Very clean."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39265",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Feeling better?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Much."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Is the dizziness gone?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39266",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "I better go. You sure you're all right?  It's been a pleasure. Sincerely."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I feel so embarrassed."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Why? You uncorked a bottle. From what I can tell, I got here just in time. Any later and you'd have made the front page, running down Main Street naked, smoking Camels out of your butt."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "But I... We don't even know each other."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "You have no reason to feel ashamed. You haven't said anything you don't have a right to. And if anybody tells you different -- you just send them to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39267",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Would you like to stay for dinner?  There aren't many choices in town and ... anyway, you'd have to eat alone. So would I."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "That's very nice of you. I don't get many dinner invitations on the job. It would be a welcome change. Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39268",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Help cook?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Sure. Men cook. We don't all eat bananas with our feet, ya know."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39269",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "What?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "She starts sniffing me."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh my God...  You're blushing."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "It's still a very sensitive memory for me."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Then what happened?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "We got engaged."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39270",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "You ought to write these stories down."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Nah. I've tried. My writing's too technical, I think. Problem of being a journalist too long is you stop giving yourself permission to invent. I better just stick to making pictures."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "\"Making pictures.\" I like that. You really love what you do, don't you?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I'm kind of obsessed by it, actually."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Why, do you think?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I don't know if obsessions have reasons. I think that's why they're obsessions."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "You sound like an artist."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No. I wouldn't say that. National Geographic isn't exactly the hub of artistic inspiration. They like their wild life in focus and without any personal comment. I don't mind really. I'm not artist. I'd faced that a long time ago. It's the course of being well-adjusted. I'm too normal."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I don't think you're normal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39271",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "I didn't mean that the way it sounded."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Well, let's just call it a compliment and move on.  Did you love teaching?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39272",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "And did you?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I'd like to think so. I know one of them went on to Medical school."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Why did you stop?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "My children. And Richard didn't like my working."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Do you miss it?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I don't know. I've never thought about it... what was the most exciting place you've ever been to? Unless you're tired of talking about it."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "You're asking a man if he's too tired to talk about himself? You don't get out much, do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39273",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "I'm sorry. That was..."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No. It's all right. I just meant, it might be a little dull for you, telling all this to some housewife in the middle of nowhere."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "This is your home. It's not nowhere. And it's not dull."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39274",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "My God. How I'd love to see that."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "They have safaris for tourists now. Maybe you can convince your husband."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39275",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Well, it's kind of buggy out there."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Have no fear. This Shoshone Medicine Woman taught me how to make bug repellent tea out of tree root."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "You drink bug repellent?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No, you rub it on you. I have some in the truck. Don't go away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39276",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Smells like dirt."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "You get used to it."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "When?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "You want to go back in?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No. I'm all right. It's working."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39277",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "You've got it all right here, you know. It's just as beautiful as any other place I've seen. God, it knocks me out."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "What?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "This \"... Of what I call God and fools can Nature.\" Who wrote that?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Umm, I don't know. I can look it up."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I'd appreciate it. I like knowing who I'm stealing from. If you can't create art I think the least you can do is recognize it around you, don't you think? There is...  ... so much beauty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39278",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "You sure you won't let me help you with those dishes?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No. I'll do them later."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Francesca?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "What?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Are you all right?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Francesca?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "What?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "We're not doing anything wrong, do you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39279",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Do you mind if I... ask you why you got divorced?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Not at all. I wasn't around much... So why did I get married? Well, I thought it was a good idea at the time. Have a home base. Roots. You can get lost moving around so much."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "So what happened?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I never got lost. For some reason, I'm more at home everywhere than at one place. So I decided I'll think of myself as some kind of world citizen. I belong everywhere and nowhere. I'm kin to everyone, and no one in particular. See, once you get into the habit of not needing anyone, it's kind of hard to break."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "You must get lonely at times."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Never touch the stuff. I've got friends all over the world. Good friends I can see when I want, if I want."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Woman friends, too?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I'm a loner, I'm not a monk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39280",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "You really don't need anyone?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No, I think I need everyone! I love people. I want to meet them all! I just think there are too many out there saying \"This is mine.\" or \"She's mine.\" Too many lines have been drawn. World's breaking apart because of man's weakness for some testosterone conquests over territory and power and people. He wants control over what deep down he knows he has no control over whatsoever and it scares him silly."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Why doesn't it scare you?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I embrace Mystery. I don't know what's coming. And I don't mind."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Do you ever regret it? The divorce, I mean."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Do you ever regret not having a family?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Not everybody's supposed to have a family."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "But -- how can you just live for what you want? What about other people?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I told you, I love other people."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "But no one in particular."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No. But I love them just the same."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "But it's not the same."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "That's not what you're saying. I know it's not the same. What you're saying is, it's not as good. Or it's not as normal or proper."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No, I'm just saying --"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I'm a little sick of this American Family Ethic everyone seems to be hypnotized by in this country. I guess you think I'm just some poor displaced soul doomed to roam the earth without a self-cleaning oven and home movie."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Just because someone chooses to settle down and have a family doesn't necessarily mean they're hypnotized. Just because I've never seen a gazelle stampede doesn't mean I'm asleep in the world."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Do you want to leave your husband?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39281",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "My mistake. I apologize."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "What made you ask such a question?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I thought that's what we were doing -- asking questions."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I thought we were just having a conversation. You seem to be reading all this meaning into it. Meanings I must be too simple to, uh... interpret or something."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I already apologized."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39282",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Listen, I'm sorry I --"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No, no. Forgive me. I made a mistake. It was an inappropriate thing to ask."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "... I feel like something's been spoiled now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39283",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Francesca?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Yes! Hi."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Am I interrupting anything?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No. I was just... No."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I'm sorry I didn't call sooner, but I just read your note. I stuffed it into my pocket. The light was fading and I had to get my shot."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "The light was fading. Huh-huh."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I would love to come for dinner."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Wonderful. Uh..."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Listen, I have to shoot Cedar Bridge until a little after sunset. I want a few night shots. Would you like to come with me? If you're interested..."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh, sure. Great."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I'll pick you up."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No. I'll drive myself. I have a few errands. I'll meet you there."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Okay. See you later."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Yeah. See you later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39284",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "It's Robert."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh, hi. Look, I'm running a little late, but I'll still..."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Listen, don't take this the wrong way but, I'm wondering if this is such a good idea."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39285",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I uh... I had lunch in town today. Happened to cross paths with \"that Redfield woman.\" I apologize. I thought you were half-joking about that."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh. I guess you got the whole story."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "The cashier at the general store was very dangerous."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I think he's running for town crier next year."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I now know more about their affair than I remember about my marriage.  Francesca, the last thing I want to do is put you in any kind of situation that would... even though we know it's just -- I mean, it's nothing like that, but if anybody saw us or..."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I understand.  That's very kind of you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39286",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I want you to come."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39287",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Sorry I'm late. Richard called."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Oh, how is he?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Fine. They're all having a good time. How many more shots do you have?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Couple. Want to help?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39288",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Can I help?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Actually, no. I've got everything under control. I'd like to clean up myself a bit. I'm going to take a bath. Dinner'll be ready in about a half hour."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "How about if I set the table?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Sure."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Would you like a beer for your bath?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Yes, that'd be nice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39289",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "Are you comfortable?  Do you... want to move to the bedroom?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No. I can't. Not yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39290",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "You want to eat something?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Are you hungry?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39291",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Take me somewhere."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "What?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Right now. Tell me someplace you've been -- someplace on the other side of the world. Anywhere but here."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "How about Italy?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "How about Bari?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Yes. Tell me about the day you got off the train."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Have you ever been to that station?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "You know that little place nearby with the striped awning that sells sandwiches and little pizzas..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39292",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Oh, I'm sorry."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "It's okay. It's not that hot anymore. Thanks God."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39293",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "I just feel like I'm getting a little ... out of control that's all. It's kind of frightening."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Why?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Why!? Because, I'm having thoughts I hardly know what to do with. I... can't seem to... stop them."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Nobody's asking you to."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "And arraccinos and zeppolis. Yes! I know it!"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I sat outside and had coffee."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Where? Near the doorway or the near the front of the church?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Near the church."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I sat there once. It was hot. Like today. I'd been shopping. I had all these bags around my feet I kept having to move every time the waiter came by..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39294",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "On that one is beautiful. Look at their expressions. As if the camera weren't on them at all. As if they had no strength left to hide what they were feeling."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "He's a genius. They're not photographs -- they're stories, entire histories captured in moments."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I bet you could do a book."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No. I couldn't."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Why do you say that?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Because I already tried once."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39295",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "But you don't mind."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "No, I don't mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39296",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "What were you like when you were younger?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Trouble. Why?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "I just wondered. Why were you trouble?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "I had a temper."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "What were your parents like?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39297",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "I can't do this, honey."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "What?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Try and live a lifetime before Friday. Cram it all in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39298",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "You're somewhere else, where?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Just that it's been a perfect day and that I'd like to skip my fancy dessert and go home after this."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Uh-huh. And?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "You're right, you know. We don't have much time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39299",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "FRANCESCA",
+        "text": "Where was she?"
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Across the street. She went into the park and got turned around and didn't know her way out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39300",
+    "movie_id": "m279",
+    "turns": [
+      {
+        "speaker": "ROBERT",
+        "text": "I don't know why I'm so tired all of a sudden."
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "Long day. Go to sleep."
+      },
+      {
+        "speaker": "ROBERT",
+        "text": "Am I too heavy for you?"
+      },
+      {
+        "speaker": "FRANCESCA",
+        "text": "No."
+      }
+    ]
+  }
+]

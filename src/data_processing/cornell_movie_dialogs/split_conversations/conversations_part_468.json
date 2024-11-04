@@ -1,0 +1,2218 @@
+[
+  {
+    "conversation_id": "conv_46713",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "CHIEF",
+        "text": "I want to know who we give the public in contrast?  The department needs role models. Clean-cut, <u>forthright</u> men the public can admire."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I'll testify, sir.  I'm not afraid to do what's right."
+      },
+      {
+        "speaker": "CHIEF",
+        "text": "And I'll promote you.  You'll be a lieutenant immediately."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46714",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "CHIEF",
+        "text": "Ed, you're 30.  Your father didn't make lieutenant until he was 33."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I know that, sir.  I also know that when he made lieutenant, it was as a detective."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46715",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Jack Vincennes.  He's the technical advisor on 'Badge of Honor,' sir.  He lives for it. That's the way to get him."
+      },
+      {
+        "speaker": "CHIEF",
+        "text": "All right, Ed.  Call Sergeant Vincennes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46716",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "I got the rap sheets on the black guys, sir.  Coates and Jones got charges a mile long.  But except for some kid stuff, Fontaine's clean."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Clean?"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "More or less."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Until he gunned down six people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46717",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Anything?"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "So on active duty, Meeks didn't make an arrest from 1938 to '43."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Someone must've pulled the records."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46718",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Where are the police academy files?"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "I don't have time.  I have --"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Just show me where they are!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46719",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "You're twenty-two, aren't you, Ray?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "Say what and so what."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Did one of the officers work you over a little?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46720",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "You look like Robinson after that last LaMotta fight.  'Course LaMotta looked a lot worse.  So you're twenty-two, right?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "Man, why do you keep asking me that?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Just getting my facts straight. Twenty-two makes it a gas chamber bounce. You should have pulled this caper a couple of years ago.  Get life, do a little Youth Authority jolt, transfer to Folsom a big man. Orbit on some of that good prison brew, get yourself a sissy --"
+      },
+      {
+        "speaker": "COATES",
+        "text": "I never truck with no sissies!"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "That fucking Larry.  I almost believed him."
+      },
+      {
+        "speaker": "COATES",
+        "text": "Believed what?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Nothing, Ray.  That Larry, he's a pisser.  You did the Casitas Youth Camp with him, didn't you?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "Man, why're you talkin' about Larry?  His business is his business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46721",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Ray, you protected Ty and Larry up in Casitas, didn't you?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "You ain't woofin' I did.  Stupid down home niggers got no more sense than a fuckin' dog."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46722",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "I heard you like to shoot dogs."
+      },
+      {
+        "speaker": "COATES",
+        "text": "Dogs got no reason to live."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Oh?  you feel that way about people, too?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "Man, what're you saying?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Ray, we got the shotguns."
+      },
+      {
+        "speaker": "COATES",
+        "text": "I don't own no shotguns."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Why were you throwing clothes in the building incinerator?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "Say what?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "You guys were arrested this morning, but none of you have last night's clothes.  <u>You</u> were seen burning them.  Add to that the fact that you hid the car you were cruising around in last night and it doesn't look good."
+      },
+      {
+        "speaker": "COATES",
+        "text": "I got nothin' more to say till I see a judge."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Were you on hop?  You were passed out when you got arrested.  Were you hopped up, Ray?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "Ty and Larry fuck with that shit, not me."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Where do they get their stuff? Come on.  Give me one to feed the D.A.  Just a little one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46723",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "COHEN",
+        "text": "What do you mean Deuce Perkins got clipped last night?!"
+      },
+      {
+        "speaker": "STOMPANATO",
+        "text": "They shot him in his library."
+      },
+      {
+        "speaker": "COHEN",
+        "text": "I don't want a floor plan; I want to know who!  Who's taking the ticket for this, Johnny?"
+      },
+      {
+        "speaker": "STOMPANATO",
+        "text": "Nobody.  At least not yet."
+      },
+      {
+        "speaker": "COHEN",
+        "text": "And what about the merchandise Deuce was holding for me?"
+      },
+      {
+        "speaker": "STOMPANATO",
+        "text": "Gone.  Not a trace."
+      },
+      {
+        "speaker": "COHEN",
+        "text": "Some ferstunkener is moving in and we don't know who?!  Maybe we should ask Hedda Hopper!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46724",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "This is Mr. Hudgeons, Wendell."
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "I'm happy to cooperate.  You don't need to tie me down."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "It's for your own safety.  Now what can you tell us about Sergeant John Vincennes?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Trashcan Jack.  The Big V.  I can tell you he's on the Night Train to the big adios."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46725",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "Take it easy!  I didn't have anything to do with him getting killed if that's what you mean."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "But you were business associates?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "What does that have to do --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46726",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "Okay so we worked together.  It was an information exchange.  I got him first class collars and he got me good stories.  We were friends for Chrissakes!"
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Alright.  We'll drop that line for now.  Next topic.  Please comment on Pierce Patchett."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46727",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "Okay.  Okay.  Everyone knows Patchett's worth a boat-load of greenbacks.  From aviation, freeway construction.  But the man has hobbies, too.  He bankrolls B movies under the table and runs movie star look-alike hookers. And try this on:  he's rumored to be a periodic heroin sniffer.  All in all a powerful behind-the- scenes strange-o."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "And?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "And what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46728",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "Reciprocity, Mr. Hudgeons, is the key to all relationships."
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "He runs call girls.  Primo tail. Fixed up like movie stars."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46729",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "And?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "In my car.  Blackmail shit.  The trunk under the carpet.  Patchett got me to photograph a cop fucking this gorgeous cunt Lynn, looks just like Veronicaaa --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46730",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "That was his favorite toast.  I saw the test results on the lieutenant's exam.  You placed first out of twenty-three."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "The youngest applicant by eight years."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "You'll make lieutenant inside a year.  Patrol division?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I was thinking Detective Bureau."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46731",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "You're wrong."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Am I...?  Would you be willing to plant corroborative evidence on a suspect you knew was guilty in order to ensure an indictment?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Dudley, we've been over this."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Answer yes or no."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I... No."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Would you be willing to rig crime scene evidence to support a prosecuting attorney's working hypothesis...?  Yes or no, Edmund."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "No."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Would you be willing to beat confessions out of suspects you knew to be guilty?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "No."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Would you be willing to shoot hardened criminals in the back to offset the chance --"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "No."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Then for God's sake, don't be a detective.  Stick to assignments where you won't have to make those choices.  Patrol, Internal Affairs, but not the Bureau."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I know you mean well, Dudley, but I don't need to do it the way you did.  Or my father."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "At least get rid of the glasses. I can't think of one Bureau man who wears them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46732",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "Stensland's a disgrace.  Straight D fitness reports from every C.O. he ever served under.  But White is a valuable officer."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "White's a mindless thug."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "No, Edmund.  He's a man who can answer yes to those questions I ask you from time to time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46733",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "You'll reap the benefits, but are you truly prepared to be despised within the department?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Yes, Dudley.  I am."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "So be it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46734",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "You should stay away from a man when his blood is up."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "His blood's always up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46735",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Sir, I took the call.  It's my case."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Edmund, you don't want it and you can't have it."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Yes, I do, sir."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "It's mine.  I'll make you my second in command."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46736",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "Why?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "We got a call earlier on three Negro youths.  Firing shotguns in Griffith Park from a late-model purple Mercury Coupe."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Get on it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46737",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "Ed, I want confessions."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I'll break them, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46738",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "Don't get sidetracked.  Stay with the Nite Owl."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "She may still be alive, whoever she is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46739",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "There are loose ends out there, Dudley.  I --"
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "There always are.  But there are also three men and three guns. Matched forensically.  A few loose ends don't matter."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Something's wrong.  I feel it inside.  Doesn't that sound crazy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46740",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "No... Where'd the tip come from?"
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Anonymous.  Probably nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46741",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "I'm loathe to kill my brother officers, Edmund."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Tell that to Jack Vincennes.  To Stensland."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Jack was a shame, but Dick Stensland had the audacity to try to sell me my own heroin.  Through his whore girl friend.  I sent him to make the buy.  The rest is history."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Why?"
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "A vacuum, Edmund.  That's what we have in Los Angeles.  Sending Mickey Cohen up created it.  My containment work maintained it. Certain photographs guarantee it. Organized crime has been held back, but there's still a demand for the services it provides."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "And now you'll provide them."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Absolutely.  Prostitution and gambling are victimless crimes. The heroin we'll run down to the coloreds.  Anesthetize them.  As long as it's not a middle class problem, no one will care.  It's still a crime free city... for respectable people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46742",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "<u>No</u>."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Why not, lad?  Absolute justice?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Something like that."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "<u>Really</u>?  Would you be willing to rig crime scene evidence to support a prosecuting attorney's working hypothesis?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46743",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "John, I doubt you've ever drawn a stupid breath.  Don't start now."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Okay.  I'll do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46744",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "You think golden boy can handle it, Cap?"
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "I think you'll be surprised what Edmund's capable of."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46745",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "John Vincennes.  It's three A.M., lad."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Two minutes, Dudley.  It's important."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Lucky for you that my wife and four fair daughters are at the beach in Santa Barbara."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46746",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "You remember Buzz Meeks, Dudley?"
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "A disgrace as a policeman. Straight D fitness reports from every C.O. he ever served under. What about him?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Twelve years ago he worked a vice roust with Dick Stensland.  They arrested a Pierce Patchett on an extortion scam.  Guy ran hookers. He'd have them photographed with their johns, then double-dip for some blackmail.  Charges got dropped.  Insufficient evidence. You were supervising officer on the case and I was wondering if you remember anything about it."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "What's this all about, lad?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Part of it has to do with a murder.  I've been working with Ed Exley on it."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "You're Narco, lad, not Homicide. And since when do you work with Edmund?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "It's a private investigation.  I fucked something up and I want to make amends."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Don't start trying to do the right thing, John.  You haven't had enough practice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46747",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "DUDLEY",
+        "text": "Have you discussed this with anyone else, John?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "No."
+      },
+      {
+        "speaker": "DUDLEY",
+        "text": "Not even with Exley?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46748",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "You're the key witness?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "That's right."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I should've known.  What's the Chief throwing you?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "<u>Throwing me</u>?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah, Exley.  What's the payoff?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "You're the payoff expert.  I'm just doing my duty."
+      },
+      {
+        "speaker": "JACK",
+        "text": "You're playing an angle, college boy.  You're getting something out of this so you don't have to hobnob with the fucking rank and file cops who'll hate your guts for snitching.  If they're making you a detective, watch out.  Some Bureau guys are gonna burn in this and you're gonna have to work with friends of theirs."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "What about you?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "I'm snitching three old timers who'll be fishing in Oregon next week.  Next to you I'm clean.  And smart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46749",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "L.A.P.D."
+      },
+      {
+        "speaker": "JACK",
+        "text": "<u>Shit</u>.  Someone beat us here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46750",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Damnit..."
+      },
+      {
+        "speaker": "JACK",
+        "text": "What?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Glasses."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Just don't shoot me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46751",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "I need to speak to you."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Give me a minute, will ya?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46752",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Damnit... <u>What</u>?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I want you to follow Bud White."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Even I'm not that crazy."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "It's not a request.  I need to know what White knows.  Follow him or I'll have you pulled off 'Badge of Honor.'  Permanently."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yesterday that might've meant something.  Pull me off.  You'd be doing me a big favor."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Yesterday yes, today no.  What happened last night?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Transfer me, suspend me.  Just leave me alone."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "You make a mistake?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah.  My whole life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46753",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Listen, I think I made a mistake, too."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I ain't a priest, Lieutenant.  I can't hear your confession."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Do you make the three Negroes for the Nite Owl killings?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "What?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "It's a simple question."
+      },
+      {
+        "speaker": "JACK",
+        "text": "You should be the last person who wants to dig any deeper into the Nite Owl, <u>Lieutenant</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46754",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Is there more to that, or do I have to guess?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Rollo was a purse snatcher.  My father ran into him off duty.  He shot my father six times and got away clean.  No one even knew who he was.  I made the name up to give him some personality."
+      },
+      {
+        "speaker": "JACK",
+        "text": "So what's the point?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Rollo's the reason I became a cop. I wanted to catch the guys who thought they could get away with it.  It was supposed to be about truth and justice and Rollo.  But somewhere along the way I forgot all that... How about you, Jack? Why'd you become a cop?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46755",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "I'm trying to figure what angle you're playing <u>this</u> time, but I sure as hell can't see one."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I've given up angles for awhile. I just want to solve this thing."
+      },
+      {
+        "speaker": "JACK",
+        "text": "The Nite Owl was solved, Lieutenant."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I want to do it right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46756",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Okay, college boy, I'll help you. But I want half the collar."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "A third.  I don't think we can make a case without Bud White."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46757",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "What's that for?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Bud White.  He sees us and we're dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46758",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Jesus... Maybe White's not so dumb after all."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Rita Hayworth at the morgue and now Veronica Lake with White. What the hell's going on?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Movie star hookers.  Whatever you desire... It's Fleur-fr-Lis again."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "What's Fleur-de-Lis?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "High line whores.  With plastic surgery to look like movie stars. And who knows what else?  It's run by this guy Pierce Patchett.  You want to talk to him?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Yeah.  But first I want to brace Stompanato."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46759",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "She is Lana Turner."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "What?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "She <u>is</u> Lana Turner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46760",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "What are you going to do?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I'm going to Lynn Bracken's.  I'll meet you at the Dining Car."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Great.  You get the girl, I get the coroner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46761",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "What's on the call sheet?"
+      },
+      {
+        "speaker": "YOUNG OFFICER",
+        "text": "A guy dressed as Santa has been exposing himself to kids in Los Feliz.  Apparently, sir, he's decorated himself."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Decorated?"
+      },
+      {
+        "speaker": "YOUNG OFFICER",
+        "text": "With tinsel and plastic icicles and... on his penis, sir."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I get the idea.  You got a description?"
+      },
+      {
+        "speaker": "YOUNG OFFICER",
+        "text": "Of his penis, sir?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46762",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "PINKER",
+        "text": "We got a total of forty-five spent 12-gauge Remington shotgun shells. Three men with five-shot-capacity pumps.  All of them reloading twice."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Hold on... We need to canvass. See if a purple Mercury was seen around here tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46763",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "The Nite Owl.  Anything bothering you about the case?"
+      },
+      {
+        "speaker": "PINKER",
+        "text": "Yeah.  The fact that you guys won't let it get filed away."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "PINKER",
+        "text": "Bud White grilled me on it this morning.  You know, he's not as dumb as I thought."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46764",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "We got a dead ex-cop and a girl who looks like Rita Hayworth at the Nite Owl.  Another dead ex-cop under the house of Rita's mother. It's not a good week for ex-cops."
+      },
+      {
+        "speaker": "PINKER",
+        "text": "I got Vincennes in the next room. It's not a good week for cops in general."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46765",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "PATCHETT",
+        "text": "I'll tell you what I told Officer White when he asked me about Susan's death."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Bud White's been here?"
+      },
+      {
+        "speaker": "PATCHETT",
+        "text": "For the last time.  I may suborn women into illicit activities, but they're handsomely compensated, I treat them well and make sure the men they deal with show them every due respect."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Is the Veronica Lake look-alike one of your whores?"
+      },
+      {
+        "speaker": "PATCHETT",
+        "text": "A vulgar term, but yes."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "What's her name?"
+      },
+      {
+        "speaker": "PATCHETT",
+        "text": "Lynn Bracken."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Why's she seeing Bud White?"
+      },
+      {
+        "speaker": "PATCHETT",
+        "text": "Why do men and women usually see each other?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Anything else you want to add before I talk to her?"
+      },
+      {
+        "speaker": "PATCHETT",
+        "text": "No."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Not good enough."
+      },
+      {
+        "speaker": "PATCHETT",
+        "text": "Then try talking to my lawyer. Good evening, gentlemen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46766",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Miss Bracken, I'm Lieutenant Exley."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "I know who you are.  You're the policeman Bud told me about."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Really?  What did White say?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "He said you were smart.  He also said you were competing with your dead father.  How did he put it? Trying to measure up to a ghost."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46767",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Let's concentrate on my smarts. Pierce Patchett made you, didn't he?  He taught you how to dress and talk and think and I am very impressed with the results.  But I need some answers and if I don't get them, I'm going to take you and Patchett down."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "He can take care of himself and I'm not afraid of you.  And you forgot one thing, Lieutenant. Pierce also taught me how to fuck... Can I get you a drink?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46768",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "LYNN",
+        "text": "I'm curious about you."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46769",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "LYNN",
+        "text": "It galls you that I know so much about you.  You don't have information to compete."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Don't underestimate me, Miss Bracken."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "The way you've underestimated Bud White?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46770",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "How was I?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "Oh, the best I ever had. Absolutely the best."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "You sound like you mean it."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "The silver screen's loss is your gain."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "How about White?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "You want to know what Bud's like in bed?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46771",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "I want to know why you see him. Is it a Patchett payoff?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "I see Bud because I want to.  I see Bud because he can't hide the warmth he has inside him."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I'll take your word for it."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "I see Bud because he makes me feel like Lynn Bracken and not some Veronica Lake look-alike who fucks for money.  I see him because he doesn't know how to disguise who he is.  There's more if you want to hear it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46772",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "LYNN",
+        "text": "Does all that make it harder for you to hate him or easier?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I don't hate White.  I really don't.  It's just, in my business, it's the wild cars you have to watch out for."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "You don't like that you don't know how to play him.  He doesn't follow the same rules of politics you do.  That makes him dangerous."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "You cut to the heart of things, don't you?  What about Lynn Bracken?  She going to be a hooker all her life?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "I came out here with a dream. That's gone, but I settled for reality."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Some reality."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "No.  This is the means to the reality.  But I'm not going to tell you what it is."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "Because you'll use it against me. Won't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46773",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "LYNN",
+        "text": "You're tougher than Bud thinks you are."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "You're the first person to ever call me tough."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "Like recognizes like.  I'm pretty tough, myself."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "You, me and White, huh?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "Actually, Bud's only tough on the outside."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46774",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "LYNN",
+        "text": "If I knew you were coming I'd have baked a cake."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Forget everything else for a second, Lynn.  Is there anything you can give me on Dudley Smith?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46775",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "A police captain.  I think he's behind all of this."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "I work for Patchett.  I had a feeling that there was someone else, but I never knew who."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Okay.  Look, if it helps, Bud hates himself for what he did."
+      },
+      {
+        "speaker": "LYNN",
+        "text": "I know how he feels."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46776",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Where will you go?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "Bisbee, Arizona.  The air's good for pensioners and I know where everything is."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "When?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "Right now, before I back down."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Where is he?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46777",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "EXLEY",
+        "text": "Do you think I ever could've been in the running?"
+      },
+      {
+        "speaker": "LYNN",
+        "text": "Some men get the world.  Others get ex-hookers and a trip to Arizona."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46778",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "LOEW",
+        "text": "It's okay.  These are police.  <u>What</u> do you want?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I want D.A. bureau men to tail Dudley Smith twenty-four hours a day; I want you to get a judge to authorize a wire tap on his home phone; I want authorization to check his bank records and I want it all in an hour."
+      },
+      {
+        "speaker": "LOEW",
+        "text": "On what evidence?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "None.  Call it a hunch."
+      },
+      {
+        "speaker": "LOEW",
+        "text": "Absolutely not.  Dudley Smith is a highly decorated member of this city's police department and I won't smear his name without --"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Without what, his smearing yours first?  What's he got on you, Loew?  Pictures of you and an out of work actor with your pants down?"
+      },
+      {
+        "speaker": "LOEW",
+        "text": "Do you have any proof?"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "The proof had his throat slit.  So far you're not denying it."
+      },
+      {
+        "speaker": "LOEW",
+        "text": "I'm not going to dignify youwith answers.  If you'll excuse me, I've got a Jack Vincennes press conference to prepare for."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46779",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "LOEW",
+        "text": "Okay!  You're right!  Dudley's got photos of me and Reynolds."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "What's Dudley's scheme?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46780",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "MRS. LEFFERTS",
+        "text": "It seems like my Susan, but..."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "When was the last time you saw her, Mrs. Lefferts?"
+      },
+      {
+        "speaker": "MRS. LEFFERTS",
+        "text": "At Christmas.  We had fought.  I didn't like her boyfriend.  I -- she has a birthmark on her hip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46781",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "MRS. LEFFERTS",
+        "text": "Let my Susie rest in peace!"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Mrs. Lefferts, I just want to ask a few questions."
+      },
+      {
+        "speaker": "MRS. LEFFERTS",
+        "text": "That other policeman already checked under the house and found not a thing amiss."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Officer White?"
+      },
+      {
+        "speaker": "MRS. LEFFERTS",
+        "text": "A sweet man."
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "Under the house."
+      },
+      {
+        "speaker": "MRS. LEFFERTS",
+        "text": "All he found were rodents.  No signs of foul play.  So there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46782",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "MRS. LEFFERTS",
+        "text": "My daughter was a virgin!"
+      },
+      {
+        "speaker": "EXLEY",
+        "text": "I don't doubt it -- Oh, God."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46783",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "Big V Jack Vincennes!  May I have this dance?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Karen, this is Sid Hudgeons from <u>Hush-Hush</u> magazine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46784",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "We did a piece last year. 'Ingenue Dykes In Hollywood.'  Her name got mentioned."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Is she?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Beats me.  Look, Jackie-Boy, a friend of mine just sold some reefer to Matt Reynolds.  He's tripping the light fantastic with Tammy Jordan at 2245 Maravilla, Hollywood Hills.  It's right around the corner."
+      },
+      {
+        "speaker": "JACK",
+        "text": "You lost me, Sid.  Who?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Contract players at Metro.  You pinch 'em.  I do you up feature in the next issue.  Plus the usual fifty cash.  Tell me, am I fucking Santa Claus?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "I need an extra fifty.  Two patrolmen at twenty apiece and a dime for the watch commander at Hollywood Station."
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Jack!  It's Christmas!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "No.  It's felony possession of marijuana."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46785",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "They're sitting in the dark, goofing on the Christmas tree."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Stand there with your camera. I'll stop here so you get Grauman's Chinese in the backgrouns."
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "I like it!  I like it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46786",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "It's Christmas morning in the City of Angels, and while decent citizens sleep the sleep of the righteous, hopheads prowl for marijuana, not knowing that a man is coming to stop them.  The free- wheeling, big-time Big V, celebrity crime-stopper, Jack Vincennes, the scourge of grasshoppers and junk fiends everywhere.  You like it, Jackie- Boy?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah, it's subtle."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46787",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "<u>Hush-Hush</u>.  Off the record and on the Q.T."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Sid, it's Vincennes."
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Jackie, are you back on Narco?  I need copy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46788",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "No.  But I've got something going with Ad Vice."
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Something good?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Don't know.  I'm chasing picture books.  Fuck shots, but the posers don't look like junkies.  It's well done stuff.  I thought you might have heard something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46789",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "Not a word."
+      },
+      {
+        "speaker": "JACK",
+        "text": "What about Fleur-de-Lis?  Their slogan's 'Whatever you desire.'"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "No.  No, I've heard bupkis.  Jack, I'll talk to you later.  Call me when you get something I can use. Smut's from hunger.  For sad sacks who can't get their ashes hauled"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46790",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "You're back, boychick."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Sid, how are they hanging?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Down around my ankles."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46791",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "The Grauman's Chinese pot bust. He just got off the honor farm."
+      },
+      {
+        "speaker": "JACK",
+        "text": "What's he doing here, Sid?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "You tight with the D.A., trash?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Sure, he just tried to throw me off the force last Christmas as a little joke."
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "How'd you like a little payback? Not to mention a donation to the widows and orphans fund.  Did you know Loew was a swish?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "And Reynolds?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "He's queer too.  Metro paid him two grand a week to fake it with ingenues.  On screen and off.  I'm getting him to fuck the D.A. for a hundred bucks.  That's twice the fifty you got for wrecking his career."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46792",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Sid, why would a guy like Pierce Patchett get involved with running dope and hookers?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Where'd you hear that?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Around."
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Jackie, all I know is what you know.  The man is very rich.  And he's invested in freeway construction so he's gonna get a lot richer.  But that's it. Patchett's what I like to call 'Twilight.'  He ain't queer, he ain't Red, he can't help me in my quest for prime sinuendo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46793",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "HUDGEONS",
+        "text": "Jackie!  You got some good scoop for the Sidster?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Sid, cut the crap.  I --"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Give me some Narco skinny.  I want to put out an all hop-head issue. Shvartze jazz musicians and movie stars.  Maybe tie it into the Rosenbergs.  You like?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46794",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Shut up!"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "What's wrong, Trash?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "What happened with the kid and Loew?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "You didn't get my message?  It got called off.  The kid chickened out at the last minute."
+      },
+      {
+        "speaker": "JACK",
+        "text": "He's dead.  I was just there. Somebody slit his throat."
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "Jesus.  Jack, that's a story. 'Swish Actor Gets The Gay Blade.' Let me get my camera."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46795",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Loew didn't go with him.  You're sure?"
+      },
+      {
+        "speaker": "HUDGEONS",
+        "text": "I put Reynolds in the cab myself. The night cost me a hundred scoots and I got bupkis."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46796",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "OPERATOR",
+        "text": "Pacific Coast Bell."
+      },
+      {
+        "speaker": "JACK",
+        "text": "This is Sgt. Vincennes. Requesting a name and address on a phone number.  Hollywood zero-one- two-three-nine."
+      },
+      {
+        "speaker": "OPERATOR",
+        "text": "Please hold the line... No such number is assigned."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I just called it."
+      },
+      {
+        "speaker": "OPERATOR",
+        "text": "No, Sergeant.  I checked twice."
+      },
+      {
+        "speaker": "JACK",
+        "text": "A bootleg..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46797",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Yeah.  Sergeant Jack Vincennes requesting.  I need the home address on a Pierce Patchett."
+      },
+      {
+        "speaker": "OPERATOR",
+        "text": "Please hold, Sergeant..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46798",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "REYNOLDS",
+        "text": "Have we met before?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46799",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "REYNOLDS",
+        "text": "Was it a party?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Something like that."
+      },
+      {
+        "speaker": "REYNOLDS",
+        "text": "Oh, I know.  A Fleur-de-Lis party, right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46800",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Fleaur-de-Lis.  'Whatever you desire.'"
+      },
+      {
+        "speaker": "REYNOLDS",
+        "text": "Dope, liquor, hookers that look like movie stars.  Pierce Patchett has it all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46801",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Yeah.  Me and Patchett go way back."
+      },
+      {
+        "speaker": "REYNOLDS",
+        "text": "Pierce isn't like regular people. I dig him, but he scares me too."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Really?  How?"
+      },
+      {
+        "speaker": "REYNOLDS",
+        "text": "You know, when I came out to L.A., this isn't exactly where I saw myself ending up."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah.  Me neither."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46802",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "I'm pretty sure I can get you a part on the show... But tonight? Pretend it's an acting job, kid. Showbiz."
+      },
+      {
+        "speaker": "REYNOLDS",
+        "text": "And no one'll know about this?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "It'll be our secret."
+      },
+      {
+        "speaker": "REYNOLDS",
+        "text": "Showbiz."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46803",
+    "movie_id": "m332",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Gee.  The Great Jerk-Off Book Caper of 1953."
+      },
+      {
+        "speaker": "VICE CAPTAIN",
+        "text": "Vincennes, is there someplace you'd rather be?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah, Cap.  Back in Narcotics."
+      },
+      {
+        "speaker": "VICE CAPTAIN",
+        "text": "Oh?  Anyplace else?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Working whores with squad two."
+      },
+      {
+        "speaker": "VICE CAPTAIN",
+        "text": "Maybe you should have thought of that before you made Bloody Christmas page one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46804",
+    "movie_id": "m333",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "Brill?"
+      },
+      {
+        "speaker": "\"BRILL\"",
+        "text": "Brill's dead. He died of small pox when he was two and he was buried in a Kansas field.  My name doesn't matter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46805",
+    "movie_id": "m333",
+    "turns": [
+      {
+        "speaker": "\"BRILL\"",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "It started with the information you gave me on DePinto. After we talked, he agreed to resign. Next, a phony detective asked me about Daniel Zavitz. Then an investigator questioned me about an extortion scheme they claimed Zavitz was behind. The FBI started looking into mob connections. A doctored picture in the paper. Overnight, I'm ruined. Wife. job, bank accounts, everything gone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46806",
+    "movie_id": "m333",
+    "turns": [
+      {
+        "speaker": "\"BRILL\"",
+        "text": "DePinto's dead."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Oh Jesus."
+      },
+      {
+        "speaker": "\"BRILL\"",
+        "text": "They found him yesterday folded neatly in a car trunk. What about Zavitz?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46807",
+    "movie_id": "m333",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "I don't know anything about Zavitz."
+      },
+      {
+        "speaker": "\"BRILL\"",
+        "text": "You said he was behind an extortion scheme."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "<u>They</u> said he was behind an extortion scheme."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46808",
+    "movie_id": "m333",
+    "turns": [
+      {
+        "speaker": "\"BRILL\"",
+        "text": "And you were the last one to talk to him."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Yes."
+      },
+      {
+        "speaker": "\"BRILL\"",
+        "text": "What'd he say to you?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "\"BRILL\"",
+        "text": "What'd he give to you?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "\"BRILL\"",
+        "text": "Don't bullshit me, I can save your life."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "I'm telling you, I--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46809",
+    "movie_id": "m333",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "I just gave him my card."
+      },
+      {
+        "speaker": "\"BRILL\"",
+        "text": "He didn't give you an address? He didn't give you a phone number?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Nothing. Two nights later I was robbed. I'm pretty sure they were pros."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46810",
+    "movie_id": "m333",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "Um...who's that?"
+      },
+      {
+        "speaker": "\"BRILL\"",
+        "text": "Don't know. Did you check everywhere? Maybe it was hidden in something. Maybe there was someone else--"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Someone else?"
+      },
+      {
+        "speaker": "\"BRILL\"",
+        "text": "Maybe you bumped into someone who took it and you didn't even know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46811",
+    "movie_id": "m333",
+    "turns": [
+      {
+        "speaker": "\"BRILL\"",
+        "text": "209 to anyone! I need some help here!"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Who are you calling?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_46812",
+    "movie_id": "m333",
+    "turns": [
+      {
+        "speaker": "DEAN",
+        "text": "It's actually DH-1 Digitech Pinpoint scanning with a frequency modulator."
+      },
+      {
+        "speaker": "ALBERT",
+        "text": "I don't know what that means."
+      },
+      {
+        "speaker": "DEAN",
+        "text": "Me neither, but the upshot is I've got color live-action footage of you and Ms Hawkins and it doesn't look good."
+      },
+      {
+        "speaker": "ALBERT",
+        "text": "So...how much money do you want in exchange for not ruining my life?"
+      },
+      {
+        "speaker": "DEAN",
+        "text": "I don't want any money. And believe me, I have no interest in ruining your life. I'm not interested in this tape."
+      },
+      {
+        "speaker": "ALBERT",
+        "text": "You're not."
+      }
+    ]
+  }
+]

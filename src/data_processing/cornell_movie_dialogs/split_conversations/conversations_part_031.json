@@ -1,0 +1,2030 @@
+[
+  {
+    "conversation_id": "conv_3001",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Close. We're so hush-hush, even we know nothing about it.  Now let's see, there's coconut cake, date and walnut; I recommend the rum baba ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Hmmm ..."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Looks like rain, Steed..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3002",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "My number two. Special assignments. She's --"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Let me guess -- 'Father'?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3003",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "How curious ..."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Something strange is happening. And whoever knows about it doesn't want us to find out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3004",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Father will be your controller. Steed here will show you the ropes."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Ropes?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3005",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Welcome to mobile H.Q. Weather's turning quite nasty. Sir August was blown to smithereens. Along with half of Banffshire.  The Ministry's worried."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "He tried to warn us ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3006",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Would it be possible to use it for military purposes?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Directed by laser. Bounced by satellite. Quite possible."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3007",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "London. The World Council of Ministers meets soon on global defence. If you can control the weather, you control the world."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "After the cold war ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3008",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "I resign."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "You need treatment, Mrs. Peel.  You can't resign."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Watch me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3009",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "What are you trying to do to me?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "We want to help...!"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I thought I was a widow. My husband ... the only man I ever loved ... is dead. For the rest of my life I have to live with that."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "The death of Peter Peel was a great loss. To us all ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "To you ... ?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3010",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Peter Peel was a first class agent. A senior operative. 'X' department Special operations. He was engaged in top secret research. Top priority.  Government approved."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "The Institute ... the funding ..."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "A cover ... for us.  I'm sorry..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3011",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Who?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Quite frankly ... it could have been you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3012",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "This is an official matter, Mrs. Peel. No need to take it personally. Where are you going?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "To find out who killed my husband."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "The doors and walls are monitored, Mrs. Peel. This is a very secure establishment."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "So am I."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3013",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "About your next assignment, Mrs. Peel ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Next assignment?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3014",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Ahem. As I was saying, perhaps another macaroon ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Thank you, Steed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3015",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "Good luck ... Peter ... Emma."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Thanks, Valentine ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3016",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Darling Emma -- yes, we:  the true genius behind the Prospero Project ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3017",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "A slight miscalculation -- my face was burned beyond recognition. Fortunately my research into plastics came in handy ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Dr. Darling, Peter ... all you ..."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "An unholy trinity ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You killed my husband."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "For starters. Of course I had to kill the Teddy Bears, as well ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Too many cooks --"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Spoil the majority shareholders. In Wonderland Weather. I planned everything, even the Ministry recruiting you ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "But I found you. All the clues led me here ..."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Of course. I planned that, too."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "But -- why?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "You disappoint me, Emma.  Can't you guess?  For you. It was all for you ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "'Our revels now are ended.'"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Oh, no, Emma. They've only just begun ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3018",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "Think of this as your second wedding feast ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I'm already married ..."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Come, come, you're a widow -- a most attractive widow. Now I think of it, we'll need a bridesmaid. Here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3019",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "You know, I believe she's actually jealous."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Valentine, listen to me ..."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Right, bridesmaid. Now what have I left out? Oh, yes, I know: the ring."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Ring?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3020",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "That's better. I say, isn't this where you came in? It's impenetrable, by the way ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You're mad."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Entirely. On the other hand  Mad people get things done. Let me show you --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3021",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Such as?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Destruction of their local weather systems. I can zap a thousand Chernobyls into the air."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "The result would be ..."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Chaos. Transport paralysis. Crop failure.  Economic disaster. Frostbite or sunburn ... on a massive scale. You've seen a few samples..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Then what's stopping you?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "One very small thing. A diamond 'cyclone' chip. A thousand times more information on a fraction of the size. If I possess that, my powers would be unlimited. My dear half-brother was developing it. But he suspected sabotage. He gave the chip to ... you, 'Mrs.' Peel. I want you. But also your ring."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3022",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "The missing piece of the jigsaw. I tried to get you to give it to me as Peter; I tried to steal it from you as Dr. Darling. As myself I'll be a bit less subtle.  With this ring my plan will be complete."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "How Wagnerian ... Do you mean to say you've waited all these years because you couldn't create a chip on your own? That would have amused Peter."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Speaking of Peter, there's more good news: You won't even have to change your last name. You'll always be Mrs. Peel."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "What are my choices?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Choices?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I'll never marry you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3023",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Doctor Peel, I presume?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "And you must be Steed. Please don't get up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3024",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "I was about to throw in the towel."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I had a spot of bother at the door."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I shouldn't wonder. Not a woman inside Boodles since --"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "1922. Why the kippers?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Red herring would have been too obvious, don't you think?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "So what was all this -- some sort of test?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Congratulations, you've penetrated a bastion of male privilege. I guessed you weren't a stickler for Tradition, doctor."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Whereas you are."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Dyed in the wool. But I can admire someone who doesn't play by the rules."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Rules are made to be broken."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Not by me. Play by the rules, Doctor, or the game is nothing."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "And just what is the game?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "I say, this is all terribly formal. Must I go an calling you Dr. Peel?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Under the circumstances, you may call me Mrs. Peel."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Much better."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "And now that we've settled the matter of honorifics, will you kindly explain why you wished me to meet you?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "I didn't. Mother did."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Mother?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3025",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "... Showers followed by sunny periods."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "We're not here to talk about the weather, surely."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3026",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Ah ... From Trubshaw's.  My shoemaker."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "A kipper. Or a red herring? What were they investigating?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3027",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "My father always wanted a boy."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Really?  I fail to see the connection."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I had a feeling you would. Touche!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3028",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Do you?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Yes indeed. I need protection."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3029",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "I thought we were on our way."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Oh, absolutely, but Trubshaw's a man worth meeting. No point setting out half shod."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Or half cocked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3030",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Steed, we really must be --"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Ahh. Perfect fit. The luxury of a hand-made shoe. As unique as a face or a fingerprint. Or should I say DNA?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3031",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You can but I wish you wouldn't ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Thank you, Trubshaw ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3032",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "That place is so absurd, so out of date ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Do you really think so?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3033",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You know what I mean. This car -- and you. Nobody walks around like that. Milk?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Not all Tradition is bad, Mrs. Peel. No thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3034",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "But why? What's the point?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "A Gentleman has to have a code. This is part of mine. A uniform. Think of it as my suit of shining armor."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "And I suppose you're the knight."
+      },
+      {
+        "speaker": "STEED",
+        "text": "The most unpredictable piece on the board. And always ready to protect his queen."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "That's predictable. When I find a queen in need of protection I'll let you know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3035",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Sir August Merryweather ... why are we seeing him first?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "As per mother's instructions."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Do we always follow Mother's instructions?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "For a man in my position --"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Just what is your position, if you don't mind my asking.  How did a stuffed shirt like you get into this line of work?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "They call me in when they've reached a dead end. Freelance. Like yourself."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I have no choice. Why should you risk your life?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "After our fencing match, I was rather hoping you would do the risking. More tea?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "No thanks."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I meant me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3036",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "According to Mother, Sir August owns half of the Highlands. A millionaire. Former head of Special Projects at the Ministry. Now ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "An eccentric recluse?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3037",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Not so much eccentric. More barking mad. He has a wife called June. And a daughter somewhere -- Julie."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "June, July ... August?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "The family does seem to be somewhat meteorologically inclined."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Any other vices?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "All of a piece, really. A fanatical weatherman. Chairman of BROLLY.  British Royal Organisation For Lasting Liquid Years. Thinks British weather has been tampered with by ... aliens."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3038",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "So ... I distract him while you snoop around? How?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Small talk.  Try the weather."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3039",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Ah, Brenda ...  Mrs. Peel?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You should be dead.  How do you feel?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Strange."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You were very lucky.  Four shots to the heart. I found you after I slipped away from Sir August. Mother brought you here. Not me you should thank."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I wasn't about to."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I mean your man Trubshaw.  Your bullet-proof waistcoat.  I thought you were just overdressed."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I might say the same."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3040",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Mother and Dr. Darling have me under observation. They think I tried to kill you."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Why should they think that?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You told them. You said I arrived on a camel, shot you four times. Left you for dead."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Frankly that's how I remember it."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "But that's absurd. I may not be over-fond of you, Steed, but it's not my style."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Perhaps your memory plays tricks, Mrs. Peel."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "That's possible. Sir August was convinced he'd met me before. But I'd never met him. Another odd thing. When it rained, he said it was just as someone had promised."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Did he say who?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "No. But he must know. Incidentally, my double left you with this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3041",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "An invitation. To a 'formal picnic'...?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Did you say formal? I must dress."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3042",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "I must say, you look more your old self --"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You mean my other self ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Either way ... may I ask: why you dress in that fashion?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I should have thought that was obvious ...  I'm in mourning."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3043",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Colonel Crabtree. International Satellite Systems. Formerly of the Ministry."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "How on earth can you tell?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3044",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Elementary, Mrs. Peel. Trubshaw isn't the only shoemaker still practicing his trade ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Very good, Steed ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3045",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "What on earth?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Any ideas?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Well, he was a fellow of the Royal Zoological Society ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Is that written in his shoe?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Common knowledge, Mrs. Peel ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "She had this in her mouth. There, there..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3046",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "For you, Mrs. Peel."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Thanks ...  I see what you mean about letting me do the risking ... Hello?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3047",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "But"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Don't bother.  Here's a bus ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3048",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Not quite. This is my field."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Is there anything that isn't?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "The Prospero Project was started by my husband. It was an early attempt to solve the problems of global warming. In theory, climate engineering is entirely feasible. We thought of injecting a chemical cocktail into the atmosphere by laser and satellite. A 'quick fix'..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Filling in mother nature's blind spots ... ?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Exactly. There'd been earlier attempts to pump carbon dioxide into deep sea. Propane gas mostly. In small quantities it captures chlorine. Protects the ozone layer. But it proved impractical. Too bulky ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "But if someone miniaturized the process..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "That's what we were working on."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Sounds as if someone's hijacked your research."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3049",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Three agents killed by bad weather..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "... And by you, Mrs. Peel ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Then a mad millionaire. Head of a secret defense establishment. A group of eccentrics obsessed by weather ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "... And by you, Mrs. Peel. Everything points to you.  No sisters?  No undiscovered twin?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Not that I know of.  Explanation?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "According to Dr. Darling, you're a psychopathic personality with schizophrenic delusions, suffering from recurring amnesia based on traumatic repression, leading to outbursts of anti-social and violent behavior.  Q.E.D."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3050",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Is that what you think?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Oh, well ...  Just my type, Mrs. Peel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3051",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Do you always drive this fast?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Have I trespassed on a male prerogative?  We're being followed. I saw him at Trubshaw's ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3052",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "What, Lady Disdain? Are you yet breathing?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Barely."
+      },
+      {
+        "speaker": "STEED",
+        "text": "You will let me know if you find that queen who's in need of protection, won't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3053",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "This must be the last straw."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Here's the one that broke the camel's back."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Someone didn't want us to get to the party."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I expect we'll have to gatecrash."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3054",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Steed ... !"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Mrs. Peel ... ?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3055",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Where am I?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "The Winslow Home for Retired Lepidoptorists. I'm so sorry I struck you, Mrs. Peel. Please forgive me. I thought you were someone else ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Was I?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "I expect that's for you to know and me to find out ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "It was Peter -- I saw him ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3056",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You followed me."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Orders."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "To kill me?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Nothing personal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3057",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "I could save you the trouble."
+      },
+      {
+        "speaker": "STEED",
+        "text": "No trouble."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Because you always obey orders ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Always.  Except ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3058",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Yes ... ?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "... when I don't. It comes down to one thing, Mrs. Peel. Trust."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3059",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "And do you trust me?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "I could be convinced, if ... I knew who poisoned me in the maze. That kiss ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "It wasn't me; you have my word."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3060",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Mmm ... what are you doing?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Keeping a stiff upper lip?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Is that all?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3061",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "But you did suspect me."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Not for a moment."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You're playing games."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Aren't we all, Mrs. Peel?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I thought you played by the rules."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I thought you didn't."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I'm playing to win."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Winning isn't everything."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Please don't tell me it's how you play the game."
+      },
+      {
+        "speaker": "STEED",
+        "text": "After you -- Mrs. Peel ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3062",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "No, after you."
+      },
+      {
+        "speaker": "STEED",
+        "text": "You don't trust me?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "As far as you trust me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3063",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "I told Mother I took care of you."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You lied."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I equivocated. But you're not their big worry at present. It's Dr. Darling:  he's disappeared ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3064",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Drat. Someone wants to implicate you in this affair, Mrs. Peel. Any idea who?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "No idea who. No idea why ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Teddy bears, cuckoo clocks, toys All children's things ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "... Or grown-ups, who still like to be children."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Quite. Any childhood friends? Enemies?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Not to speak of. Peter and I were both loners. There was nobody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3065",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Very well. I have a friend who might be of assistance. He's at the Ministry. We'd better be careful."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I'm a wanted woman, I know ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3066",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "His name's Jones. 'Invisible' Jones."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Why's he called 'Invisible'?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "You'll find out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3067",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Aren't you coming?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "I'll catch you up. Don't worry; he's expecting you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3068",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "We must hurry, Mrs. Peel ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Hurry?  What for?  I'm just now --"
+      },
+      {
+        "speaker": "STEED",
+        "text": "You didn't tell her?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3069",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "There's a reception this evening. Colonel Jones thinks it advisable we attend."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Have we been invited?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3070",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "What's that you're wearing?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "It's called Black Leather."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Intoxicating. Here, have one of these."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3071",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Limpet bomb. Small, very compact. From Trubshaw's."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "When all this is over, we simply must get you out of that suit."
+      },
+      {
+        "speaker": "STEED",
+        "text": "You first."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Shall we?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3072",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Trubshaw again? What now?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Snuff.  I must insist you try some."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3073",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "They're playing your song, Mrs. Peel."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "'The Merry Widow?' I might have known. Where's the reception?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3074",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Bad news. Father's looking for you. Where are those bloody ministers?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Have a look at this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3075",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "I'll be back ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Laying in supplies, Mrs. Peel weather may get very nasty and I've no umbrella ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You needn't bother. I can't drag you further into this. After all, I am still the chief suspect."
+      },
+      {
+        "speaker": "STEED",
+        "text": "No bother. Mother and Father think I've joined you. I might as well."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "But --"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Oh, and by the way, I think it's about time you got rid of that chip on your shoulder."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "If you'd been through what I have, you wouldn't --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3076",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Mrs. Peel?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "What kept you?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "The plot.  Hello, we must be going ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3077",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "'The owl and the pussycat went to sea -'"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "'... in a beautiful pea green boat...'"
+      },
+      {
+        "speaker": "STEED",
+        "text": "A fine night, Mrs. Peel ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Still a bit chilly ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "English weather. You know, after all we've been through, I should say we deserve a long holiday ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Have you any place in mind?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "As a matter of fact I have ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3078",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "I don't recall Siberia being this warm, Steed."
+      },
+      {
+        "speaker": "STEED",
+        "text": "It's the latest thing, Mrs. Peel."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Our little paradise -- just made for two?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Not quite."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3079",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Our chaperon."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Pity your mother came, too ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3080",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Ah ... sun tan lotion. Any shops nearby?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Must be. Trubshaw's busy. I'll send Mother ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3081",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "FATHER",
+        "text": "Your mission is simple. Find out how and why these agents died."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I'm no spy -- where do I fit in?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3082",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "FATHER",
+        "text": "Think of it as special assignment, Mrs. Peel. With a twist. You're our chief suspect."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You're saying I have no choice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3083",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Where's Mother?"
+      },
+      {
+        "speaker": "FATHER",
+        "text": "Mobile HQ. In a blue funk.  Can't take chances. I'm looking after things while he's hiding out ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3084",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You don't believe him?"
+      },
+      {
+        "speaker": "FATHER",
+        "text": "It's Mother you have to convince. He's very agitated.  Wait here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3085",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "FATHER",
+        "text": "Emma in Wonderland. Welcome, Mrs. Peel.  We've been expecting you. We hope you'll enjoy your stay with us. Decontamination is almost complete."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Decontamination -- ?"
+      },
+      {
+        "speaker": "FATHER",
+        "text": "And you've a new wardrobe. He does want you to look attractive.  He tells me you're very beautiful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3086",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Talk to the pipe, Mrs. Peel. That usually helps. Don't worry about me being invisible. Other than that I'm perfectly normal."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I see."
+      },
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Or rather, you don't. Learnt the tricks in camouflage. Till this accident made a prang of things. How can I help you, Mrs. Peel?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3087",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Ah, here we are. Steed asked me to play a hunch:  Valentine Peel."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Peter's brother?  But --"
+      },
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Half-brother to be precise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3088",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Now let's see ... Eton, Cambridge ... research into robotics and plastics. Overtaken by Peter's work on the physics of climate change ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I know all this."
+      },
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Do you also know that during your final experiment, your halfbrother- in-law was under surveillance?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Surveillance? By whom?"
+      },
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Father. She gave him an 'all clear' after a security test by Dr. Darling."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Who's now vanished."
+      },
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Makes two of us."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Are you suggesting that Dr. Darling and Valentine were somehow in this together? But that's absurd."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3089",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "I was getting to it."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Getting to what?"
+      },
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "The World Council of Ministers meets tomorrow to convene the new global defense initiative --"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I fail to see --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3090",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Under the circumstances Mother didn't see fit, but I think I can get you in ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Well, I can't possibly go like this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3091",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "'X' marks the spot. The shoes were delivered to ... an island in Hyde Park. Surrounded by the Serpentine. On the site of a former Ministry installation..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "... and now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3092",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Privately owned by ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Let me guess:  Wonderland Weather."
+      },
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "Very good, Mrs. Peel ..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I shall need a small plane."
+      },
+      {
+        "speaker": "INVISIBLE JONES",
+        "text": "You're not venturing alone, surely."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "I'm going to find out who killed my husband. Will you take these documents to Steed?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3093",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "FATHER",
+        "text": "A series of bizarre shifts in local weather patterns ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Global warming?"
+      },
+      {
+        "speaker": "FATHER",
+        "text": "Jungle plants in the Arctic? A lush English village transformed overnight into African scrubland? Blizzards in summer?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3094",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "We know one thing. That suspect was not Mrs. Peel."
+      },
+      {
+        "speaker": "FATHER",
+        "text": "So you say ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3095",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Oh, hello ..."
+      },
+      {
+        "speaker": "FATHER",
+        "text": "We want Mrs. Peel."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Dead, I'm afraid."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3096",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "FATHER",
+        "text": "Steed"
+      },
+      {
+        "speaker": "STEED",
+        "text": "How did you guess?"
+      },
+      {
+        "speaker": "FATHER",
+        "text": "You reek of Mrs. Peel's Black Leather ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "It was you who gave Valentine Peel his security clearance ... you're the mole who betrayed the Ministry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3097",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "FATHER",
+        "text": "Mother betrayed me. She was going to replace me with a younger Father.  Errand boy that's all I was. 'Find Steed...'"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Well, you found me. Have a sniff of this, why don't you? Careful, the scent can be overpowering ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3098",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Mother. I thought you were burglars."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Brenda and I thought we'd drop in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3099",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Weather's turning nasty."
+      },
+      {
+        "speaker": "STEED",
+        "text": "You didn't come to talk about the weather, surely."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Oh yes I did. I want you to meet somebody.  I expect you'll like her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3100",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Your research into climate engineering was state-of-the-art. Your experiments could have revolutionized our knowledge of global warming -- had they succeeded. We need your expertise."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Perhaps I'd better start calling you doctor again, Mrs. Peel --"
+      }
+    ]
+  }
+]

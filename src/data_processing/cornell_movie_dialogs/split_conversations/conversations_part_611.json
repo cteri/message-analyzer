@@ -1,0 +1,2362 @@
+[
+  {
+    "conversation_id": "conv_61013",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "KRIEGER",
+        "text": "That's not it.  That's not the list."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "What's the matter, you don't know this trick?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61014",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Claire."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Jack."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61015",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "IS THERE ANY PARTICULAR REASON WE'RE NOT OUT OF HERE YET?!"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Just waiting for you, tubs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61016",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Sorry, am I interrupting?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Always."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61017",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Give me the God damn gum."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Just don't chew it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61018",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Jack.  Jack."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I didn't touch it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61019",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "He's got it.  Saved your ass again Jack."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Give me a break, Pops."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61020",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "In position.  Jack open the door, let the package roll."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Roger that.  Opening doors now."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Stairway, youíre wrapped, go to transport."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61021",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Higher.  Higher."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Higher."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Right, right.  Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61022",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "OK.  Taking Golitsyn's exit.  Jack, open the doors."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "What about my coat?  I'll freeze."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61023",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "The package is in the open."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Jim.  Jim.  Heís in the open."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61024",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "Ethan.  Heís out of pocket."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Jim we canít."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61025",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Sarah eye on the package.  Jim, Iím coming to you."
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Jim gave an abort, we should walk away."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "No, weíre going to recover the disk, understand?!  Now move!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61026",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "MATTHIAS",
+        "text": "Would you remove your hat please?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Why?"
+      },
+      {
+        "speaker": "MATTHIAS",
+        "text": "You wish to meet Max?  This is the price of admission."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61027",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "I thought I was going to see Max."
+      },
+      {
+        "speaker": "MATTHIAS",
+        "text": "You misunderstood.  No one sees Max."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Then what am I doing here?"
+      },
+      {
+        "speaker": "MATTHIAS",
+        "text": "Allowing Max to see you and hear what you've got to say."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I don't communicate very well through a shroud."
+      },
+      {
+        "speaker": "MATTHIAS",
+        "text": "If Max doesn't like what you have to say, you'll be wearing that shroud indefinitely."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I'm willing to take the chance."
+      },
+      {
+        "speaker": "MATTHIAS",
+        "text": "Very well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61028",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "MATTHIAS",
+        "text": "Forty-four.  Forty-five."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I'd say you've got about two minutes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61029",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Yeah, well, Jim, fact is I've got more than ninety days leave coming."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "A hundred and sixty-seven, I think it is. Take it all, if you want.  <u>After</u> this one."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I thought I'd take some now."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "What the hell's made you decide to take your leave at the worst possible time? Claire's in a weird mood too."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Oh?  What's the problem?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "I don't know, I had to go to Chicago again.  You were in Kiev.  You tell me."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Tell you what?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "When you started noticing your short term memory loss.  What <u>the problem was</u> you and Claire had in Kiev?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "What problem?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Ah, God, forget it.  What are we talking burnout here?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I guess."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Ethan, you <u>can't</u> burn out."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Because I can't afford it. And because you'd burn up before you'd burn out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61030",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "How was Chicago?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Wonderful.  Ran into a convention of auto dealers at the Drake Hotel.  You hear the one about the astronaut who comes back from the first manned flight to Mars after two years?  His wife's got a year old kid.  So he says \"All right.  Who was it?  My friend Harry?\"  She says no. \"Oh, it was my friend Sammy.\"  She says it wasn't Sammy.  \"Oh, I suppose it was my friend Lou.\"  \"No, what's the matter, don't you think I have any friends of my own?!\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61031",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "You're going to use Walter?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "He's our guy."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Isn't he chairing the Armed Services hearing?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Not this week. This week he's flyfishing at the Oughterard Slough in County Kildare, with one of our best Irish guides."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "He won't be back in a hurry?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "No, not in a hurry.  What do you think? You think the plot'll work?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Sure.  If the main character does."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "If you were me, Ethan, who would <u>you</u> trust to make him believable?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61032",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "PHELPS",
+        "text": "Jack's pinned down Sarah.  Should be a second.  Keep dancing."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "We were forced to tie him to my best stallion and drag him around the barn a few times."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61033",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "PHELPS",
+        "text": "Iíve got a shadow."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Can you lose him?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "No.  Abort."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61034",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "PHELPS",
+        "text": "Abort.  Thatís an order."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "<u>Negative</u>, Golitsynís on the move."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61035",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "PHELPS",
+        "text": "Where are you?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "About two hundred yards from the bridge."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Theyíre covering this frequency, Ethan. Cut all radio communications.  Repeat. Cut all radio communications."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61036",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "PHELPS",
+        "text": "..the next day I managed to drag myself to the safe house, must've just missed you..anyway, I checked our aliases."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "- and picked us up in the States -"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "- but you left before I could get there and I could check just so many places.."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Yeah, smaller countries don't computerize customs records -"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "- so I watched Europe. Once you showed up in England..it was easy."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "You knew I liked the rentals at Liverpool Street."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Hey, I showed 'em to you!"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "I remember.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61037",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Jim, who do you think you're kidding?  A doctor's gotta look at that.  You can't sit up straight."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "I can sit up straight.  I just can't..sit up straight very well.  It's not important!  I saw who shot me.  Ethan, I saw the mole.  It was Kittridge.  <i>Kittridge!</i>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61038",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Kitteridge.  Oh my god!  Kittridge is the mole?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "How did Kittridge do it?.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61039",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "PHELPS",
+        "text": "..when you think about it, Ethan, it was inevitable..no more Cold War.  No more secrets you keep from everyone but yourself, operations you answer to no one but yourself.  Then one morning you wake up and find out the President of the United States is running the country - <i>without your permission</i>.  The son-of-a- bitch!  How <i>dare</i> he?  You realize itís over, youíre an obsolete piece of hardware not worth upgrading, youíve got a lousy marriage and sixty-two grand a year.  Kittridge, weíll go after that no good son-of-a-bitch, big time!"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "We donít have to, Jim.  Heíll come after us."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Whatís going to make him do that?"
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "What he didnít get in Prague.  The NOC list."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Jesus, Ethan.  Good for you."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "A meeting tomorrow on the TGV, enroute to Paris."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Tight security.  No guns.  Real plus."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "If I supposedly deliver the NOC list to Max, Max has agreed to deliver Job to me. Iíll have Claire and Luther Stickell with me on the train.  Marcel Krieger will have helicopter transport waiting in Paris."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61040",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Jim...?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "I was sitting in a cafe waiting for you and suddenly there she was, standing in the rain just outside the safe house..alive and beautiful..and thinking Iím dead and gone.  God knows what sheís had to do forget about me to keep going and get the job done, I.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61041",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "PHELPS",
+        "text": "- no.  She canít know about me.  No one can.  Not til this is over.  Thereís too much at stake, Ethan."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Youíre probably right."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "I usually am."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Once we leave the safehouse, get in there and crash.  Iíll call you from Paris."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "You got it."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "And get a doctor."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Good luck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61042",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Before London.  But after you took the Bible out of the Drake Hotel in Chicago."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "They stamped it, didnít they?  Those damn Gideons."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61043",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "I knew about Jim."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "But, he didnít know about you.  In all fairness, Ethan, Claire was never convinced her charms would work with you. But I was supremely confident - having tastes the goods.  \"Thou shall not covet thy Neighbourís wife\", Ethan.  Oh, Ethan is in love with you, Claire, make no mistake about it.  And like all the worldís lovers, heís tortured by the same, one pathetic question - \"does she feel the same way I do?\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61044",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Tell me something Claire, that night in Prague, was it you or Jim that blew up the car and scattered Hannah all over town?"
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Keep counting Claire."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61045",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Arenít you going to thank me Jim.  Ten million is better than six."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Donít flatter yourself - six was for <u>Eastern Europe</u>.  You made a lousy deal - ten for the world?  What is that?  But I needed you for the transfer with Max.  I got a little extra change;  and you got a little extra too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61046",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "PHELPS",
+        "text": "Sorry Ethan.  Times up.  Say goodbye."
+      },
+      {
+        "speaker": "ETHAN",
+        "text": "Youíre wrong about one thing.  Iím not the only one whoís seen you alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61047",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "ETHAN",
+        "text": "Jim, itís over."
+      },
+      {
+        "speaker": "PHELPS",
+        "text": "Ethan - Iíve always taught you, nothing can be more dangerous than the truth.  It can kill you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61048",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Look to your right, then back to me. There's a camera built right into the bridge.  Whatever you see it sees and transmits it back here.  Can you hear me?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Of course I can hear you."
+      },
+      {
+        "speaker": "JACK",
+        "text": "No, in your...ear piece. You have a lovely smile . Can you hear me now?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Loud and clear."
+      },
+      {
+        "speaker": "JACK",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Why don't you take a look?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Jack...that's spying."
+      },
+      {
+        "speaker": "JACK",
+        "text": "That's what we do isn't it?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "Jack you're so wicked."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Too wicked to have a drink later?"
+      },
+      {
+        "speaker": "SARAH",
+        "text": "I think I might just take that look."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61049",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "SARAH",
+        "text": "Such a nice ass."
+      },
+      {
+        "speaker": "JACK",
+        "text": "And a lonely ass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61050",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "MATTHIAS",
+        "text": "Twenty-six, twenty-seven.  So far so good."
+      },
+      {
+        "speaker": "MAX",
+        "text": "That's not so good for you, my friend."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61051",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "MATTHIAS",
+        "text": "Thirty-two and change."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Doesn't mean it's a signal.  Could just be the hard drive heating up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61052",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "How long until we reach the Chunnel?"
+      },
+      {
+        "speaker": "MATTHIAS",
+        "text": "Twenty minutes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61053",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "MATTHIAS",
+        "text": "Yes...  Itís him."
+      },
+      {
+        "speaker": "MAX",
+        "text": "This wasnít what we discussed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61054",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Whatís the problem."
+      },
+      {
+        "speaker": "MATTHIAS",
+        "text": "Connection denied."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Try it again."
+      },
+      {
+        "speaker": "MATTHIAS",
+        "text": "Itís not working."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Is something wrong with the phone?  Well is something wrong with the batteries?"
+      },
+      {
+        "speaker": "MATTHIAS",
+        "text": "I always check the batteries."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Run it through from the top."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61055",
+    "movie_id": "m443",
+    "turns": [
+      {
+        "speaker": "MATTHIAS",
+        "text": "Itís working."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Phew!  Weíve got five minutes..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61056",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "AVA",
+        "text": "Oh, you're not going. You're staying."
+      },
+      {
+        "speaker": "GREGORY",
+        "text": "No, I'm going."
+      },
+      {
+        "speaker": "AVA",
+        "text": "The Shawfish?"
+      },
+      {
+        "speaker": "GREGORY",
+        "text": "Just across the bay, at the fuel depot. The men wanted to try to get home. I can't explain."
+      },
+      {
+        "speaker": "AVA",
+        "text": "Then, I suppose the time has come say it's been nice Dwight Lionel. It's been everything. Oh, Dwight, I'm frightened."
+      },
+      {
+        "speaker": "GREGORY",
+        "text": "I know, I am so sorry for so many things. I love you, Moira. I love you. I love you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61057",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "BOBO",
+        "text": "Are you ready?"
+      },
+      {
+        "speaker": "MR. JOHNNY",
+        "text": "Hello, Bobo. How are you tonight?"
+      },
+      {
+        "speaker": "BOBO",
+        "text": "Very good, Mr. Johnny."
+      },
+      {
+        "speaker": "MR. JOHNNY",
+        "text": "We will both have the Salad Ticino."
+      },
+      {
+        "speaker": "BOBO",
+        "text": "Uh-huh"
+      },
+      {
+        "speaker": "MR. JOHNNY",
+        "text": "And I'll have the special fish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61058",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "MR. JOHNNY",
+        "text": "No, I want to see the dessert cart."
+      },
+      {
+        "speaker": "BOBO",
+        "text": "Very good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61059",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "BOBO",
+        "text": "I forgot to bring the champagne, Mr. Johnny."
+      },
+      {
+        "speaker": "MR. JOHNNY",
+        "text": "I forgot to wave. We'll have it at the wedding."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61060",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Who's dead?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Nobody. Loretta is getting married."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Again? Johnny Cammareri."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61061",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "COSMO",
+        "text": "I don't like him."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "You're not gonna marry him, Cosmo. Do you love him, Loretta?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61062",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "COSMO",
+        "text": "I have no money!"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "You're rich as Roosevelt. You're just cheap, Cosmo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61063",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "COSMO",
+        "text": "I won't pay for nothing."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "He didn't used to be cheap. He thinks if he holds on to his money, he will never die."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61064",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "COSMO",
+        "text": "I don't wanna talk about it."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Well, what do you wanna talk about!"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Rita. Pass the wine."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Why you drinking so much?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61065",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Where you been?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I don't know, Rose. I don't know where I've been, and I don't know where I'm going.  You should have your eyes opened for you, my friend."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61066",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Cosmo?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "What?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I just want you to know. No matter what you do. You are going to die, just like everybody else."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Thank you, Rose."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "You're welcome."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I'm going to bed now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61067",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Cosmo, this is Ronny, Johnny's brother."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "His brother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61068",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Have I been a good wife?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I want you to stop seeing her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61069",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "COSMO",
+        "text": "Okay."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "And go to confession."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "A man... under stands one day... that his life is built on nothing. And that's a bad, crazy day."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Your life is not built on nothing. Ti amo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61070",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "COSMO",
+        "text": "I don't wanna talk about it."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "Johnny Cammareri. I think it's great and about time. What's she gonna do with the rest of her life she don't get married?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I don't wanna talk about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61071",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "COSMO",
+        "text": "Rose, pass the wine."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "I never seen anybody so in love like Cosmo back then! He'd stand outside the house all day and look in the windows. I never told you this cause it's not really a story. But one time I woke up in the middle of the night cause this bright light was in my face. Like a flashlight. I couldn't think a what it was. I looked out the window, and it was the moon! Big as a house! I never seen the moon so big before or since. I was almost scared, like it was gonna crush the house. And I looked down, and standing there in the street was Cosmo, looking up at the windows. This is the funny part. I got mad at you, Cosmo! I thought you brought this big moon over to my house cause you were so in love and woke me up with it. I was half asleep I guess and didn't know no better."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "You were altogether asleep. You were dreaming."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "No. You were there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61072",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "COSMO",
+        "text": "Hi.  Hi."
+      },
+      {
+        "speaker": "MR. JOHNNY",
+        "text": "Hello, Mr. Castorini."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61073",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "MR. JOHNNY",
+        "text": "I have my eyes open."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "You do, huh? Stick around. Don't go on any long trips."
+      },
+      {
+        "speaker": "MR. JOHNNY",
+        "text": "I don't know what you mean."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I know you don't. That's the point. I'll say no more."
+      },
+      {
+        "speaker": "MR. JOHNNY",
+        "text": "You haven't said anything."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "And that's how much I'm saying."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61074",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "Where's Ma?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Bed."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You're not sleepy?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I can't sleep anymore. It's too much like death."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Pop, I got news."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61075",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "Here.  Ti amo."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Ti amo."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You look tired."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "What's your news?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I'm getting married."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Again?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "You did this once it didn't work out."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "The guy died."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "What killed him?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "He got hit by a bus."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "No! Bad luck! Your Ma and I been married fifty-two years an nobody died. You were married, what, two years, and somebody is dead. Don't get married again, Loretta. It don't work out for you. Who's the man?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Johnny Cammareri."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Him? He's a big baby. Why isn't he here with you telling me?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "He's flying to Sicily. His mother's dying."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "More Bad Luck! I don't like his face, Loretta. I don't like his lips. When he smiles I can't see his teeth. When will you do it?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "In a month."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I won't come."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You've got to come. You've got to give me away."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I didn't give you away the first time."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "And maybe that's why I had the Bad Luck. Maybe if you gave me away, and I got married in a church, in a wedding dress, instead of at the City Hall with strangers standing outside the door, maybe then I wouldn't had the Bad Luck I had."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Maybe."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I didn't have no wedding cake, no reception or nothing. Johnny got down on his knees and proposed to me at The Grand Ticino."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "He did?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "That don't sound like Johnny. Where's the ring?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61076",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "Here."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "It looks stupid. It's a pinky ring. It's a man's ring."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "It's temporary."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Everything is temporary. That don't excuse nothing."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "So you'll come to the wedding, right?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Let's go tell your Mother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61077",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "Mona?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "What'd you do to your hair?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I got it done."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Who is this man? You're engaged!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You're married."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "You're my daughter. I won't have you acting like a tramp!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You're my father."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "Alright. I didn't see you here."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I don't know whether I saw you or not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61078",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "COSMO",
+        "text": "And then there is copper, which is the only pipe I use. It costs money. But it costs money because it saves money."
+      },
+      {
+        "speaker": "MONA",
+        "text": "And what did they say?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "The man understood me. The woman wanted to be cheap, but the man saw that I was right."
+      },
+      {
+        "speaker": "MONA",
+        "text": "You have such a head for knowing. You know everything."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I brought you something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61079",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "MONA",
+        "text": "Oh, Cosmo!"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "They are little stars and birds. Birds fly to the stars, I guess."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61080",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "MONA",
+        "text": "You haven't once said you like my dress."
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I like your dress.  It's very bright."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61081",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "MONA",
+        "text": "Why you looking around so much?"
+      },
+      {
+        "speaker": "COSMO",
+        "text": "I don't know. I got a feeling."
+      },
+      {
+        "speaker": "MONA",
+        "text": "I'm wearing your bracelet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61082",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "FELIX",
+        "text": "It's wrong to just let them go."
+      },
+      {
+        "speaker": "OLD MAN",
+        "text": "Good morning, Lucy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61083",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "OLD MAN",
+        "text": "What do you want me to do? Pick up after five dogs? I'm eighty-three years old. God in his heaven understands that I cannot pick up after five dogs."
+      },
+      {
+        "speaker": "FELIX",
+        "text": "You have too many dogs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61084",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "FELIX",
+        "text": "I won't have to shoot those dogs. They will kill each other."
+      },
+      {
+        "speaker": "OLD MAN",
+        "text": "You think so, huh, Stupid? Those dogs love each other."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61085",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "OLD MAN",
+        "text": "At dinner, my daughter-in-law threatened to kill me. Things are very bad in my house."
+      },
+      {
+        "speaker": "FELIX",
+        "text": "Hurry up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61086",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "FELIX",
+        "text": "We're supposed to do fifty apples. We only got twelve done."
+      },
+      {
+        "speaker": "OLD MAN",
+        "text": "I don't know what to advise my son. I think he should pay for the wedding, but it is important that he don't look ridiculous."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61087",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "OLD MAN",
+        "text": "Yes!"
+      },
+      {
+        "speaker": "FELIX",
+        "text": "Hurry up, hurry up. We open in five minutes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61088",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Yeah, this is Ronny."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I'm calling for your brother Johnny. He's getting married and he wants you to come."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61089",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Why didn't he call himself?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "He's in Palermo."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "What's wrong can never be made right."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Let me come and talk to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61090",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Have you come from my brother?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Why?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I'm going to marry him."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "You are going to marry my brother?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Yes. Do you want..."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I have no life."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Excuse me."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I have no life. My brother Johnny took my life from me."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I don't understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61091",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Gimme the big knife! I'm gonna cut my throat!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Maybe I should come back another time."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "No, I want you to see this! I want you to watch me kill myself so you can tell my brother on his wedding day! Chrissy, gimme the big knife!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61092",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "It's wood. It's fake. Five years ago I was engaged to be married. Johnny came in here, he ordered bread from me. I put it in the slicer and I talked with him and my hand got caught cause I wasn't paying attention. The slicer chewed off my hand. It's funny 'cause - when my fiancé saw that I was maimed, she left me for another man."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "That's the bad blood between you and Johnny?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "That's it."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "But that wasn't Johnny's fault."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I don't care! I ain't no freakin monument to justice! I lost my hand, I lost my bride! Johnny has his hand, Johnny has his bride! You come in here and you want me to put away my heartbreak and forget?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61093",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Loretta. What's that smell?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I'm making you a steak."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "You don't have to help me."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I know that. I do what I want."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I like it well done."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You'll eat this bloody to feed your blood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61094",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "This is good. Uhh..."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Loretta."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Where'd Johnny find you?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "He knew my husband who died."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "How'd he die?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Bus hit him."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Fast."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Instantaneous."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "When you get engaged?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Yesterday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61095",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Why?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Why what?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "So. Five years ago your hand got cut off and your woman left you for another man. No woman since then?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "No."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Stupid."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "When your husband get hit by the bus?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Seven years ago."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "How many men since then?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Just Johnny."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Stupid yourself."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "No. Unlucky. I have not been lucky."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I don't care about Luck, you understand me? It ain't that."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "What? Do you think you're the only one ever shed a tear?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Why you talking to me?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You got any whiskey? How 'bout giving me a glass of whiskey?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61096",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "She was right to leave me."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You think so?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You really are stupid, you know that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61097",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "You don't know nothing about it."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I was raised that a girl gets married young. I didn't get married until I was twenty-eight. I met a man. I loved him. I married him. He wanted to have a baby right away. I said no. Then he got hit by a bus. No man. No baby. No nothing! I did not know that man was a gift I could not keep. I didn't know... You tell me a story and you think you know what it means, but I see what the true story is, and you can't.  She didn't leave you! You can't see what you are. I can see everything. You are a wolf!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I'm a wolf?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "The big part of you has no words and it's-a wolf. This woman was a trap for you. She caught you and you could not get away.  So you chewed off your foot! That was the price you had to pay to be free.  Johnny had nothing to do with it. You did what you had to do, between you and you, and I know I'm right, I don't care what you say. And now you're afraid because you found out the big part of you is a wolf that has the courage to bite off its own hand to save itself from the trap of the wrong love. That's why there has been no woman since that wrong woman. You are scared to death what the wolf will do if you make that mistake again!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "What are you doing!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I'm telling you your life!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Stop it!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "No!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Why are you marrying Johnny? He's a fool!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Because I have no Luck!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "He made me look the wrong way and I cut off my hand. He could make you look the wrong way and you could cut off your whole head!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I am looking where I should to become a bride!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "A bride without a head!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "A wolf without a foot!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61098",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Son of a bitch!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Where are you taking me?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "To the bed."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Oh. Oh God. I don't care about anything. I don't care about anything! Take me to the bed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61099",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "I can't believe what is happening."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Me neither."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I was dead."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I was dead, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61100",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Your blood."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "All my life I have never reached a man. I knew that I would reach my husband, but I took my time and he was dead. Ronny."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Loretta."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I want to cut you open and crawl inside of you. I want you to swallow me."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I've got you."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Get all of me. Take everything."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "What about Johnny?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You're mad at him, take it out on me, take your revenge on me! Take everything, leave nothing for him to marry! Hollow me out so there's nothing left but the skin over my bones. Suck me dry!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Alright. Alright. There will be nothing left."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61101",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "What?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "That light."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I don't know. I think it's the moon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61102",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "It's so bright."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I've never seen a moon like that."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "It makes you look like an angel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61103",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "Oh my God."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61104",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "What? What have we done?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Take it easy."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "This time I was trying to do everything right."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Don't just become excited."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I thought if I stayed away from the City Hall, I won't have that Bad Luck I had again."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "You're trying to make me feel guilty."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I'm marrying your brother!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "All right, I'm guilty. I confess!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You're invited to the wedding! It's in a few weeks. Why didn't you do like him and be with your dying mother in Palermo?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "She didn't like me."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "You don't get along with anybody!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "What did you do?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "What did I do?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "You ruined my life."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "That's impossible! It was ruint when I got here! You ruint my life!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Oh no I didn't!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61105",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "Oh yes, oh yes you did! You've got those bad eyes like a gypsy! Why didn't I see it yesterday! Bad Luck! Is that all I'm ever gonna have? Why didn't I just pick up a stone and kill myself years and years ago? I'm gonna marry him!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "What?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Last night never happened, you hear me? I'm gonna marry him anyway and last night never happened, and you and I are gonna take this to our coffins!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I can't do that!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I'm in love with you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61106",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "Snap out of it!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I can't!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Alright. Then I must never see you again. The bad blood will have to stay there between you and Johnny for all time. You won't come to the wedding."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I'll come to the wedding."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I'm telling you you can't."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "But he wants me to come!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "But that's cause he don't know!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Alright. I will not come. Provided one thing."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "What?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "That you come with me tonight. Once. To the Opera."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I love two things. I love you, and I love the Opera. If I can have the two things that I love together for one night, I will be satisfied to give up the rest of my life."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Alright."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Alright. Meet me at the Met."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Alright. Where's the Met?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61107",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Hi."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Hi."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "You look beautiful. Your hair..."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I thought I'd try it.  You look good."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61108",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "Who painted that?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Marc Chagall. A Russian."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Kinda gaudy."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "He was having some fun. Yeah, well he's dead.  Come on, let's go in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61109",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "RONNY",
+        "text": "Thank you!"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "For what?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "I don't know. For your hair. For your beautiful dress. For... you know, I feel like a man again. You know I love the Opera. You know it's been a long time since I've been to the Opera."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61110",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "So. Where are we sitting?"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61111",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "They get some turnout for this stuff."
+      },
+      {
+        "speaker": "RONNY",
+        "text": "It's the best thing there is."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I like parts of it, but I don't really get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_61112",
+    "movie_id": "m444",
+    "turns": [
+      {
+        "speaker": "LORETTA",
+        "text": "That was just so... awful!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Awful?"
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "Beautiful. Sad. She died!"
+      },
+      {
+        "speaker": "RONNY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LORETTA",
+        "text": "I couldn't believe it! I didn't think she was going to die. I knew she was sick..."
+      }
+    ]
+  }
+]

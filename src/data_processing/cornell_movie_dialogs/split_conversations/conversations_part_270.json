@@ -1,0 +1,1866 @@
+[
+  {
+    "conversation_id": "conv_26901",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Shall I alert Dr. McCoy?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Yes. He has a long journey ahead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26902",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Unit two, this is One. The Kobayashi Maru has set sail for the promised land. Acknowledge."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Message acknowledged. All units will be informed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26903",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Calm yourself, Bones."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Sir. Commander, Starfleet on emergency channel. He orders you to surrender this vessel."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "No reply, Chekov... Continue on course..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26904",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Excelsior closing to 4,000 meters, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Scott, we need everything you've got now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26905",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "You did great, Bones... Just great."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Sir, Starfleet calling Grissom again. A warning about us."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Response?"
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Nothing. As before."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What's Grissom up to?... Will they join us, or fire on us...?  Chekov, break radio  silence. Send my compliments to Captain Esteban."
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26906",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Admiral, there is no response from the Grissom on any channel."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Keep trying, Chekov. At regular intervals."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26907",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Still no response, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Bones... Can you give me a quadrant bi-scan?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26908",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "I'd swear something was there sir, but I might have imagined it."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What did you see, Chekov?"
+      },
+      {
+        "speaker": "CHEKOV",
+        "text": "For an instant... A scout class vessel."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Could be Grissom.  Patch in the hailing frequency.  U.S.S. Grissom, this is Enterprise calling. Come in, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26909",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Nothing on my scanner, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Short range scan, Mr. Chekov... On screen, Mr. Sulu."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26910",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "CHEKOV",
+        "text": "Sir, the shields... Non- responsive."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Scotty...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26911",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "COMM OFFICER",
+        "text": "Aye sir, coding now."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "Dr. Marcus, it's your planet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26912",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "COMM OFFICER",
+        "text": "Do you wish to advise Starfleet, sir?"
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "Wait a minute...! We don't know what we're talking about here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26913",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "COMM OFFICER",
+        "text": "Sir... Something's jamming our transmission. An energy surge."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "Locate."
+      },
+      {
+        "speaker": "COMM OFFICER",
+        "text": "Surge from astern, sir. Aft quarter!"
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "On screen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26914",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "ESTEBAN",
+        "text": "Could it be Spock's?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "It has to be. Gravitational fields were in flux... It must have soft landed...!"
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "In code to STARFLEET... Captain's Spock's tube located intact on Genesis surface. Will relay more data on subsequent orbits."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26915",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "I don't believe it..."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "What is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26916",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Why don't we beam it up?"
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "Oh no you don't! Regulations specifically state: \"nothing shall be beamed aboard until danger of contamination has been eliminated.\" Can you guarantee that?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Not from here, no."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26917",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "ESTEBAN",
+        "text": "All right -- get your gear. I'll put you down next time around."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Thank you... <u>Sir</u>!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26918",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Hello, sir. It's David."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "David... Sorry I'm late."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "It's okay -- I should have known you'd come... Saavik's right: this planet is unstable. It's going to destroy itself in a matter of hours."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "David!... What went wrong?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I went wrong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26919",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "David, I don't understand..."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I'm sorry, sir. Just don't surrender. Genesis doesn't work! I can't believe they'll kill us for it --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26920",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "This is where the fun begins, Saavik!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Like your father... so human.  All units functional, recorders are on... Scanning sector one. Foliage in fully developed state of growth. Temperature, twenty- two point two Celsius."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Sector two... Indicating desert terrain. Minimal vegetation, temperature thirty-nine point four."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Sector three... Sub-tropical vegetation... Temperature --  Temperature decreasing rapidly --"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "It's snow. Snow in the same sector. Fantastic!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "... Fascinating."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "All the varieties of land and weather known to Earth within a few hours walk!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "You must be very proud of what you and your mother have created."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "It's a little early to celebrate."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26921",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Same sector. Metallic mass."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Underground deposit?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Negative, on surface... A manufactured object."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "There's only one thing it could be... Short range scan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26922",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Approximately two meters long... Cylindrical in form..."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "A photon tube...!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26923",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "New orbit commencing... Coming up on sector three..."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Short range scan."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "As before... Metallic mass... Verifying triminium photon tube... No new data."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Check for trace radiation. Infrared enhancement."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "... Radiation residual... Level is minimal..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26924",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "There <u>shouldn't</u> be any. Only plant forms were built into the Genesis matrix."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Cross referenced and verified. An unidentifiable life form reading."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26925",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Captain, please -- we'll take the risk. We've <u>got</u> to find out what it is..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "... Or <u>who</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26926",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Saavik to Grissom. Request computer study of soil samples for geological aging."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I'll handle that later."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "My readings indicate great instability."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "We're not here to investigate geological aging, we're here to find life forms!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26927",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": ".          .. Spock's tube..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "David --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26928",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Well. There's your life form reading. These were microbes on the tube's surface. We shot them here from Enterprise.  They were fruitful, and multiplied."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "But... How could they have evolved so quickly...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26929",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Spock's burial robe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26930",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Later. Let's go..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Grissom, your message acknowledged. Will advise... Out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26931",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Saavik... My god, what happened to them?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "It would seem that Grissom was destroyed by an enemy attack."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "You mean, we're stranded down here?!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Logic indicates that is the case."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "How can you be logical at a time like this?! We have to get thee hell off this planet!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "That may be difficult..."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Why don't you just call for <u>help</u>!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "I have already made one transmission too many..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26932",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "It's time for total truth between us.  This planet is not what you intended, or hoped for, is it?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Not exactly."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Why?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I used protomatter in the Genesis matrix."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Protomatter. An unstable substance which every ethical scientist in the galaxy has denounced as dangerously unpredictable."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "It was the only way to solve certain problems --"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Did your collaborator know?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "My mother knew nothing about it. That's why I asked her to leave Genesis in my hands."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "So, like your father, you changed the rules..."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "If I hadn't, it might have been years -- or never!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "And how many have paid the price for your impatience? How many have died? How much damage have you done... And what is yet to come?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26933",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "This planet is aging in surges."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "And Spock with it. They are joined together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26934",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "The Genesis wave started a life clock ticking for him and the planet. But at the rate things are going now..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "... How long?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "Days... Maybe hours... Protomatter has made the situation unpredictable.  I'm sorry."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "It will be hardest on Spock. Soon he will feel the burning of his Vulcan blood."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I don't understand."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Pon Farr. Vulcan males must endure it every seventh year of their adult life."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I still don't..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26935",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Whoever they are, they're getting closer."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "I'll go..."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "No!... I'll do it.  Give me your phaser."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26936",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "If equipment is functioning properly, indications are -- an animal life form."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "You said there wouldn't be any."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26937",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Captain... the logical alternative is obvious... beaming down to the surface is permitted..."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "\"... If the Captain decides that the mission is vital and reasonably free of danger.\" I know the book, Saavik."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26938",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "ESTEBAN",
+        "text": "Grissom to landing party. We have you approaching radioactive indications. Do you concur?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Affirmative, Captain. Our readings are well below danger level."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "Very well. Exercise caution, Lieutenant. This landing is Captain's discretion and I'm the one who's out on a limb."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "I'll try to remember that, Captain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26939",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Captain, this is Saavik. We have strong life sign readings bearing zero-one-five relative, and we are proceeding to investigate."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "We concur, Saavik. And Saavik... be advised we are reading a severe and unnatural age curve on the planet. I'm getting nervous..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Do you have an explanation?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26940",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Captain, this is Saavik. Come in, please..."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "Yes, Saavik, go ahead..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26941",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "ESTEBAN",
+        "text": "Ah, Saavik, that's, ah, extroadinary. What would you, ah, like to do next?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Request permission to beam aboard immediately."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "Saavik... Does Dr. Marcus think there could be -- any chance of -- ah -- radioactive contamination?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "None that I can detect, sir."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "Well, all the same, I'm going to advise Starfleet and get instructions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26942",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "I'm sure Starfleet would approve, sir."
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "I know, but -- let's do it by the book. Stand by on this channel.  Go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26943",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Captain, what's happening?!"
+      },
+      {
+        "speaker": "ESTEBAN",
+        "text": "We are under attack! Stand by for evasive -- stand by for --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26944",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "I'm almost done, sir. You'll be fully automated by the time we dock."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Your timing is excellent, Mr. Scott. You've fixed the barn door after the horse has come home. How much refit time till we can take her out again?"
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Eight weeks, sir.  But you don't have eight weeks so I'll do it for ya in two."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Scott. Have you always multiplied your repair estimates by a factor of four?"
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Certainly, sir. How else can I keep my reputation as a miracle worker?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Your reputation is secure, Scotty.  Mr. Sulu, take the con. I'll be in my quarters."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26945",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Scott..."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "I'm sorry, sir, but as far as I'm concerned, there's nothin' needed for space travel that this old girl doesn't already have."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Come, come, Scotty. Young minds. Fresh ideas.  Be tolerant."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26946",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "As promised, she's all yours, sir. All systems automated and ready. A chimpanzee and two trainees could run her."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Thank you, Mr. Scott. I'll try not to take that personally.  My friends... I can't ask you to go any further. Dr. McCoy and I have to do this. The rest of you do not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26947",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Scott?"
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "I'd be grateful, Admiral, if you'd give the word."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Gentlemen... may the wind be at our backs. Stations please!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26948",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Steady... Steady... All right, Mr. Scott."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Sir...?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "The <u>doors</u>, Mr. Scott!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26949",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "Aye, sir, she's got her second wind now."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Scan for vessels in pursuit!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26950",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Scott, all power to the weapons systems --"
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Aye, sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26951",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Scott: two photon torpedoes at the ready. Sight on the center of the mass."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Aye, sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26952",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Good shooting, Scotty."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Aye, those two hits should stop a horse, let alone a bird."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Precautionary, Mr. Chekov. Shields up..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26953",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "I'm all right -- stand by to return fire! Mr. Scott, transfer power to the phaser banks --"
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Oh, God, sir, I dinna think so..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "They've knocked out the damn automation center.  I've got no control over anything!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26954",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "How many more?"
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Just him, sir!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Bones, help Spock! Everyone else, find a station!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26955",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Admiral, this is Lieutenant Saavik."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Saavik... Is... David with you?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Yes, he is. And someone else. Vulcan scientist of your acquaintance."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "This Vulcan -- is he alive?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "He is not himself -- but he lives. He is subject to rapid aging -- like this unstable planet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26956",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "What happened...?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "He gave his life to save us. That is all I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26957",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Is there <U>anything</U> we can do?!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Only one thing, Sir... Get him off this planet... His aging is part of what's going on around us..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26958",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "The Genesis planet is gone."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Goodbye, David."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26959",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SAAVIK",
+        "text": "Yes, Admiral. But that may not be possible."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What? What are you saying?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "The Katra ritual is meant to deposit Spock's consciousness in the Hall of Ancient Thought - not in his body."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "But we have Spock alive! That's more than we bargained for!"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Or less. What you describe is called Fal Tor Pan - the refusion. It is very dangerous. The elders may not choose to attempt it."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "And if they don't.? What will Happen to Spock?"
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": ". He will remain always as he is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26960",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "My God..."
+      },
+      {
+        "speaker": "SAAVIK",
+        "text": "Much is at stake..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26961",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "I know you... Do I not?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Yes. And I know you."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "My father says you have been my friend... You came back for me."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You would have done the same for me."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Why would you do this...?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Because... the needs of the one outweighed the needs of the many."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26962",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Yes, yes, Spock..."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "The ship... Out of danger...?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You saved the ship, Spock. You saved us all. Don't you remember?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26963",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "On course, Admiral. Estimating Spacedock in two point one hours."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Very well.  Mr. Chekov, I need pre-approach scan... Take the science station, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26964",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "... Admiral, what's going to happen to Enterprise?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "She's to be decommissioned."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26965",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "The word, sir?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "The word is no.  I am therefore going anyway."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Count on our help, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I'll need it, Sulu."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26966",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "... We have cleared Spacedoors."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "FULL IMPULSE POWER!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26967",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Warp Speed, Mr. Sulu..."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Aye, sir, Warp Speed..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26968",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Excelsior, the great experiment, is adrift in space."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Scott: as good as your word."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26969",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Estimating Genesis 2.9 hours, present speed."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Can we hold speed, Mr. Scott?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26970",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "We are secured from Warp Speed... Now entering Genesis Sector of Mutara Quadrant."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What about Grissom, Mr. Chekov?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26971",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "See! That shimmering area."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Yes, sir. It's getting larger as we close in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26972",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "That distortion is closing rapidly... Opinion, Sulu?"
+      },
+      {
+        "speaker": "SULU",
+        "text": "I think it's an energy form, sir..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Yes. Enough energy to hide a ship, wouldn't you say?"
+      },
+      {
+        "speaker": "SULU",
+        "text": "... A cloaking device?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Red alert, Mr. Scott."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26973",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Klingon Bird of Prey, sir! She's arming torpedoes...!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Fire, Mr. Scott!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26974",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Sulu, what is the crew complement of a Bird of Prey?"
+      },
+      {
+        "speaker": "SULU",
+        "text": "About a dozen officers and men."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "With some on the planet..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26975",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Sir, planet core readings unstable... Changing rapidly..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What about surface life signs...?"
+      },
+      {
+        "speaker": "SULU",
+        "text": "Close... There --"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Come on!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26976",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "If I read this right, sir, we have full power."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Go, Sulu!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26977",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "We are clear and free to navigate."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Best speed to Vulcan. Mr. Chekov, take the prisoners below."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26978",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "The planet Vulcan. In hailing distance, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Saavik. Send to Ambassador Sarek. Tell him we're coming in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26979",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Sulu, you're on manual."
+      },
+      {
+        "speaker": "SULU",
+        "text": "It's been a while, sir. Here we go... Retrothrusters!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26980",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Uhura, any response from Starfleet on our Project Genesis inquiries?"
+      },
+      {
+        "speaker": "UHURA",
+        "text": "No, sir, no response."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Hmm.. Very odd.  Scotty. Progress report?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26981",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Standby automatic approach system ... Advise approach control."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "Approach control... this is Enterprise. Ready for docking maneuver."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26982",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "Would you look at that?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "My friends, the great experiment: Excelsior, ready for trial runs..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26983",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "How is Doctor McCoy, sir?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "That's the good news. He's home in bed, full of tranquilizers, and he promised me he'd <U>stay</U> there... They say it's exhaustion...  We'll see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26984",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "Gentlemen. Good evening."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Good evening, Commander. Everything ready?"
+      },
+      {
+        "speaker": "UHURA",
+        "text": "Yes, Admiral. Step into my parlor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26985",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Will you be able to handle that...?"
+      },
+      {
+        "speaker": "UHURA",
+        "text": "Oh, I'll have \"Mr. Adventure\" eating out of my hand. And I'll see you at the rendezvous.  All my hopes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26986",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Welcome aboard, Admiral."
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Welcome home, Jim."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26987",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "MORROW",
+        "text": "Where's Doctor McCoy?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Indisposed, sir."
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Ah, too bad... Well... You have all done remarkable service under the most -- difficult of conditions. You'll be receiving Starfleet's highest commendations, and more importantly, extended shore leaves."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26988",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Admiral, I don't understand. The Enterprise --"
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Jim, the Enterprise is twenty years old. We think her day is over..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "But, we had requested -- we were hoping to take her back to Genesis..."
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Genesis?! Whatever for?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Why -- a natural desire to help finish the work we began!"
+      },
+      {
+        "speaker": "MORROW",
+        "text": "That's out of the question. No one is going to Genesis!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "May I ask why...?"
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Jim, in your absence, Genesis has become a galactic controversy... Until the Federation Council makes policy, you are all under orders not to discuss with anyone your knowledge of Genesis... Consider it a quarantined planet. And a forbidden subject."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26989",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "MORROW",
+        "text": "Jim... You are my best officer and if I had a best friend, you'd be that too. But I am Commander, Starfleet, so I don't break rules!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Don't quote rules, Harry! We're talking about loyalty. And sacrifice. One man who died for us, another who has deep emotional damage --"
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Now wait a minute! This business about Spock  and McCoy... Honestly, I have never understood Vulcan mysticism -- I'm sorry! But part of me doesn't want you to make a fool of yourself... Understand?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Harry, you don't have to believe! I'm not even sure I believe. But if there's even a chance that Spock has an eternal soul -- then that is my responsibility."
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Yours...?!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "As surely as if it were my own!  Harry, give me back the Enterprise! With Scotty's help..."
+      },
+      {
+        "speaker": "MORROW",
+        "text": "No, Jim! Enterprise would never stand the pounding."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Then I'll find a ship -- I'll hire a ship."
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Out of the question! The Council has ordered that no one but the science team goes to Genesis!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Then let me speak to the Council! Harry, <U>please</U>! I can <U>make</U> them understand!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26990",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Yes... I hear you.  I just had to try."
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Of course... Now take my suggestion, enjoy your leave -- and let all this tension blow away."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You're right.  Thanks for the drink."
+      },
+      {
+        "speaker": "MORROW",
+        "text": "Any time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26991",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "I say again: Grissom, this is Enterprise. Admiral Kirk calling Captain Esteban or Lieutenant Saavik. Come in!"
+      },
+      {
+        "speaker": "KRUGE",
+        "text": "Report status!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26992",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Torpedoes coming in -- !"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26993",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KRUGE",
+        "text": "Do not lecture me about treaty violations. The Federation, in creating an ultimate weapon, has become a gang of Intergalactic criminals. It is not I who will surrender, it is you.  On the planet below, I have three prisoners from the team who developed your doomsday weapon. If you do not surrender immediately, I will execute them, one at a time, as enemies of galactic peace."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Who is this?! How dare you --"
+      },
+      {
+        "speaker": "KRUGE",
+        "text": "Who I am is not important. That I have them is.  I will let you speak to them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26994",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "David?... David!"
+      },
+      {
+        "speaker": "KRUGE",
+        "text": "Admiral, your young friend is mistaken. I meant what I said. And now, to show my intentions are sincere... I am going to kill one of the prisoners."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Wait! Give me a chance --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26995",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KRUGE",
+        "text": "There are two more prisoners, Admiral. Do you want them killed too?  Surrender your vessel!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "All right, damn you! All right!  Give me a minute to inform my crew."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26996",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Commander, Klingon vessel. Stand by to board this ship on my next signal."
+      },
+      {
+        "speaker": "KRUGE",
+        "text": "No tricks, Kirk. You have one minute."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "No tricks. I'm looking forward to meeting you. Kirk out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26997",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KRUGE",
+        "text": "Maltz. Prisoners are at beam coordinates. Standby..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You should take the Vulcan, too."
+      },
+      {
+        "speaker": "KRUGE",
+        "text": "No."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "But, why?"
+      },
+      {
+        "speaker": "KRUGE",
+        "text": "Because you wish it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26998",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KRUGE",
+        "text": "Genesis, I want it."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Beam the Vulcan up -- And we talk."
+      },
+      {
+        "speaker": "KRUGE",
+        "text": "Give me what I want -- and I'll consider it..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You fool -- look around you! This planet is destroying itself!"
+      },
+      {
+        "speaker": "KRUGE",
+        "text": "Yes. Exhilarating, isn't it!"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "If we don't help each other, we'll all die here!"
+      },
+      {
+        "speaker": "KRUGE",
+        "text": "Perfect! That's the way it shall be!... <U>Give me Genesis</U>!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_26999",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Give me your hand and we both live."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Don't be a fool -- give me your hand!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27000",
+    "movie_id": "m192",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Ambassador, I -- I had no idea you were here...  I think you know my crew..."
+      },
+      {
+        "speaker": "SAREK",
+        "text": "I will speak with you alone, Kirk."
+      }
+    ]
+  }
+]

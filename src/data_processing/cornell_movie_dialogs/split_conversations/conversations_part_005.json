@@ -1,0 +1,2010 @@
+[
+  {
+    "conversation_id": "conv_401",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "Next.  Could I see your documents, please?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yes sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_402",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "What is your intended purpose of your visit to the United States?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Two weeks holiday."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "How much money are you carrying with you?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "I have five-hundred dollars."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "Can you show me?  Sir, no cameras in the FIS area!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_403",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "Is he with you?  Are you travelling together?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "Please join us.  Come on forward."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Is there a problem?"
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "No, you're travelling together.  I want to talk to you together.  Hi, how are you?  Can I take a look at your documents?  Are you related?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_404",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "We are both from Prague."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "How long are you planning to stay?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Two weeks."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "I'd like to speak for himself, okay?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "He doesn't speak English."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_405",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Who is he?"
+      },
+      {
+        "speaker": "VENDOR",
+        "text": "New York's finest.  This is his case."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_406",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "VENDOR",
+        "text": "This all you want?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Do you know how much killer gets for movie rights?"
+      },
+      {
+        "speaker": "VENDOR",
+        "text": "In here, says he wants a million."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Million?!  The killer gets one million dollars for a television interview?"
+      },
+      {
+        "speaker": "VENDOR",
+        "text": "Hey, tabloids paid Ted Bundy - famous serial killer - half a million for his interview.  And how much you think Monica got for writing book about the President coming on to her?  It pays to be a killer or a whore in this country. Look, you want magazine or not?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yes.  Both."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_407",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Just do what I do.  Say the same thing I say.  Don't open your mouth."
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_408",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Don't fool around."
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_409",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Did you hear what I said?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "I want to document my trip to America."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_410",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "Look.  Times Square.  Just like in the movies!"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Don't speak Russian!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Why?  Why do I always have to speak to you in Czech?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Because I don't like your ugly language. I heard enough of it in school!  Now speak Czech or English.  And don't fool around anymore.  You almost got us thrown out!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_411",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "Look.  New videocameras.  Color viewfinder.  Image stabilization. Solarization.  Night vision."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "We have no money.  Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_412",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Turn that off!  Get the bags."
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Why should I carry your bag?  I am not a dog."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "For five years I paid for your stupidness - you'll carry my bag for the rest of my life if I say so.  Unless you refuse, Oleg."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_413",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "What?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Smell like chemicals...for smoking drugs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_414",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Turn that fucking thing off!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "I'm not filming.  I'm watching Milos die.  It's just like a move but realer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_415",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Speak English!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "You said speak Czech!"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "How you erase this?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "I'll do it.  Don't hurt my camera!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_416",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "Whore?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "I'm homesick.  You have Eastern European girl?  A Czech girl?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_417",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Get in the bathroom!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Whatever we do - we fuck her, right?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Oleg, get in bathroom, stay there and shut up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_418",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "Gotta light the scene better.  Now it's more moody... like a scene from THE THIRD MAN."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Shut up."
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Does it hurt?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_419",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "Oh, shit.  I hate looking at that!"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Don't want to film this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_420",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "The video of Milos and Tamina - I told you to erase it."
+      },
+      {
+        "speaker": "OLEG",
+        "text": "I did."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "And the whore's murder?  You didn't erase that either, did you?  Don't lie, I won't be angry."
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Put the camera down, Oleg."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_421",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "What is that?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "What does it look like?  It's an address book!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_422",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "Let me get a shot of it."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Sit down!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "This way.  Hold it this way.  Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_423",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "No.  We are insane.  Who else but crazy men would film their murders?  So we kill someone famous and if we are caught, we are sent to mental hospital. But what good is money there?  Because once in hospital I say I not crazy. Just pretended to be acquitted.  We see psychiatrists.  They must certify we are sane and because of your - what is law called?  Oh - I got it.  Because of your Double Jeopardy law, we can't be tried for same crime twice.  We come out free, rich and famous!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Good idea!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_424",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Okay.  He has nothing to say.  Start the camera!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Cut!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_425",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "You are success story?  I am success story!  Why do you say I and not we?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Oleg, don't be paranoid.  You got a hundred-fifty thousand dollars, didn't you?  I gave you half of what they gave me.  Look - here we are!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_426",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "In movie they make of us, who do you think would act me?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "The one who got caught in the bathroom.  George Michael."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_427",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "I'm serious."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Shut up.  Look!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_428",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "This is my project.  I say 'action.'  I am the director!  You are the talent. You wait for me to say 'action.'  And 'action!'"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Bad last moment - I cut it out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_429",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "I told you to cut that out before we handed in the tape!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Be quiet.  Watch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_430",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Why did you leave that stuff in about you being the director?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Because I am the director.  Don't you realize, if it wasn't for my film, for my talent, my idea to do this - no way would we be sitting here right now."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Your idea?  I thought it was my idea."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_431",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "I'm serious...this - this is a great American film.  Full of violence and sex.  And I want my credit."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Credit?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Yes.  Before we hand in the next video - I put titles on it and my credit is going to read - Directed by Oleg Razgul."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yes.  But there's only one problem - you want credit but the problem is - I don't share credit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_432",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "You got that?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "No, I don't get that!"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "You think you are a director?  You are a fucking little, small Russian piece of shit.  And I hate you.  I fucking hate you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_433",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Traitor!!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "No.  You are the traitor.  You are murderer.  I am director.  Action!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_434",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "MILOS",
+        "text": "Emil???!"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Surprise!  Surprise!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_435",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Your sister said she didn't know where you were so you shouldn't write to her with return address if you're hiding."
+      },
+      {
+        "speaker": "MILOS",
+        "text": "Did you hurt her?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "You know me...I never hurt anybody. Where's the money?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_436",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "MILOS",
+        "text": "Take your eyes off her, Oleg!  Look.  It wasn't my fault you two were caught.  It's his fault.  Trying to get the bank clerk's phone number?!  I wasn't going to wait!!!"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Milos.  Get my money!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_437",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "MILOS",
+        "text": "We spent it!"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Ha. Ha."
+      },
+      {
+        "speaker": "MILOS",
+        "text": "Look at the way we live.  I'm a plumber. You think I'd be working if I had money?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_438",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "MILOS",
+        "text": "I can get you a job."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "A job?"
+      },
+      {
+        "speaker": "MILOS",
+        "text": "Yes, the money is good."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "As a plumber?!"
+      },
+      {
+        "speaker": "MILOS",
+        "text": "It's easy to learn."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "A job??  As a plumber???  You think I come to America to work!"
+      },
+      {
+        "speaker": "MILOS",
+        "text": "We started over, you can too."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "You spent all the money while I was in prison?  Now you tell me to get a job fixing toilets?!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_439",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "MAGGIE",
+        "text": "Robert...?"
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "MAGGIE",
+        "text": "You've got a call."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "I can't talk to anybody right now, can't you see I'm busy!  I can't talk business.  Hang up.  Have a drink.  Get her a whiskey."
+      },
+      {
+        "speaker": "MAGGIE",
+        "text": "Trust me, you'll want to take this call."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_440",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "HAWKINS",
+        "text": "Viewer discretion advised!"
+      },
+      {
+        "speaker": "MAGGIE",
+        "text": "You want the tape?  There it is!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_441",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "HAWKINS",
+        "text": "Isn't he a little moody?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Of course he's moody.  He thinks he's in love."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "In love?  With who?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_442",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "Paulie, you've got kids, right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_443",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "And you, you'll pay for what you did!"
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "This footage will work in your favor. When the jury sees this - no matter what Cutler tries, they'll convict him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_444",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "You outta be ashamed.  Ashamed of yourself."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "If I didn't put it on somebody else would!  I was his friend!"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Don't give me that fucking shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_445",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "HAWKINS",
+        "text": "I know."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "What do you mean you know?  He told you he was gonna propose to me?"
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "Well, he..."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "I want to hear everything he said."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "I'm trying to tell you."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Alright.  Go ahead."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "That morning.  He was talking to me and Leon about marriage."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Oh my G-d.  We were having lunch here. He started making overtures - talking about little shoes next to his in his closet but I got a call to anchor - and I walked out on him.  I walked out on him when he was trying to ask me to marry him!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_446",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "Yes...he's my friend."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "Okay.  You're a Czech national and you're a Russian national.  How do you know one another?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_447",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "OLEG",
+        "text": "I speak English."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "Then answer my questions.  Where were you planning to stay during the two weeks that you're here?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "New York."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "Yes, we're in New York now.  But where are you planning to stay in New York?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "A cheap hotel."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "What are you coming here to do?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "I'm here for movies."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "Movies...to be in the movies or to see movies?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Yes.  No.  Both.  When I was a boy, I see movie at school called \"It's a Wonderful Life\" directed by Frank Capra. Ever since I want to come to America. Land of the free.  Home of the brave.  A land where anyone can be anything. As long as they are white."
+      },
+      {
+        "speaker": "IMMIGRATION OFFICER",
+        "text": "Excuse me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_448",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "No.  Go ahead."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Thanks.  Appreciate it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_449",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "So the way you see it, two crack heads burned themselves up?"
+      },
+      {
+        "speaker": "LEON",
+        "text": "That's what it looks like to me."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "And while they're burning up, they're still goin' down on each other?  You got to hand it to them."
+      },
+      {
+        "speaker": "LEON",
+        "text": "Yeah, well, some people got their priorities straight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_450",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "What was that?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Evidence.  Of a homicide."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_451",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "LEON",
+        "text": "I'll take him."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "No way!  He's mine!"
+      },
+      {
+        "speaker": "LEON",
+        "text": "We're takin' him.  Don't argue!"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "He's my collar!"
+      },
+      {
+        "speaker": "LEON",
+        "text": "Well, he killed my partner!"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "He's yours but I take him in!  I'll drive him to the precinct, you can have him but I'm walkin' him in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_452",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "MUGGER",
+        "text": "Got any spare change?  How 'bout a spare twenty?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Look, I don't have time for you, get out of my way!!"
+      },
+      {
+        "speaker": "MUGGER",
+        "text": "Alright, how 'bout all your fuckin' money?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_453",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "Okay, you're under arrest!  Now you happy?"
+      },
+      {
+        "speaker": "MUGGER",
+        "text": "Fire Department?  Firemen don't carry guns."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Oh yeah?  Guess again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_454",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "I'll send a cop back for you."
+      },
+      {
+        "speaker": "MUGGER",
+        "text": "Hey.  C'mon, you can't leave me like this.  Some freak'll come by and stab me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_455",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "You okay?"
+      },
+      {
+        "speaker": "MUGGER",
+        "text": "A dog pissed on me!!  I'm gonna sue you for this!  You violated my civil rights!"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Your civil rights?!  You tried to rob me!  I could arrest you right now! You're lucky you're walking away from this.  Now get outta here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_456",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "What's that on your forehead, Max? That's a nice attention getter."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah, I'm religious.  I'm not an Atheist like you!  Now, are you guys gonna arrest me, or not?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "How did you start the fire this time?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I used an accelerant."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Yeah?  What kind?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Hey, by the way, I'm really sorry about your wife leavin' you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_457",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "KORFIN",
+        "text": "Where you been, man?  We got a celebrity!"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "I heard.  Who the hell let them up there?"
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "I don't know, you think Eddie will give me his autograph?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "You see anything in the crowd?  Anybody suspicious?"
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "Naw - I'm sure the suspect's not here."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Oh yeah, why?"
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "'Cause Eddie woulda locked him up by now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_458",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "KORFIN",
+        "text": "Nah, not at all.  Detective Flemming - Bobby Korfin.  My Uncle Tony worked with you at 2-1 back when you were a rookie."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Could you put out the cigar?  Part of the job is picking up scents."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_459",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "Mouth's clean, too."
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "Clean?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Don't blow your nose!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_460",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "The smoke'll permeate your nostrils - burn 'em out.  Let it run."
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "But you knew that, right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_461",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "KORFIN",
+        "text": "You see Eddie's face when I gave him the timer?  Wish I had a picture of it."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "He knew all along."
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "What??"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "That's why he was so quiet.  He was testing us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_462",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "KORFIN",
+        "text": "What?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "There was a woman - I think she wanted to talk to us.  She looked scared.  Oh shit!  Oh no!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_463",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "Now that you know him, maybe you can get extra work in the next movie they make about him."
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Maybe you can be his stand-in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_464",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "KORFIN",
+        "text": "-- From Czechoslovakia?  And how long have they been livin' in your building?  Alright, I'll be in touch when we know somethin'.  Milos and Tamina Karlova.  They were quiet and kept to themselves.  Landlord don't know who your girl is."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "How long they been livin' here?"
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "You hear that question, Garcia?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_465",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "You go home.  I'm takin' your car and goin' back to the crime scene."
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "Aren't you tired?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "If I go home I won't be able to fall asleep anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_466",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "Bobby, Bobby!  Where're you hit?!"
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "It hurts.  Aw, Jesus!"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Lay down.  Stay down, Bobby."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_467",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "KORFIN",
+        "text": "How was it?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Not good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_468",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "Get outta here!"
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "What the hell happened?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "They were inside.  They booby trapped her apartment!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_469",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "Room was registered to a Francis Capra."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Capra?  That's not Czech or Russian. Who said he sounded Russian?"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "The clerk?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_470",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "What are you gonna do?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Don't you get it?  He knew he was gonna get caught!  That's why he videotaped Eddie's murder - he thinks he's gonna get off."
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Don't stoop to his level!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_471",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "JORDY",
+        "text": "Take the car.  Get outta here, Tommy."
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Look, you can't shoot him in cold blood."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "GET OUTTA HERE NOW!!  GET IN THAT CAR AND DRIVE AWAY!!!  DO WHAT I SAY OR I'LL KILL YOU, TOO!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_472",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "This had nothing to do with shoes that didn't fit or my relationship with my father who, as you know, made a fortune selling penny loafers in the fifties. These people died because of the criminal actions of my doctor."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "Your doctor?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "Yes.  My psychiatrist didn't insist that I stay on my medication."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "...so you feel absolutely no responsibility for killing these people?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "It was my finger that pulled the trigger, but I'm not morally responsible.  My psychiatrist knew what I was capable of.  How could I know. I'm not a doctor."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "You seem very savvy for a man who's been found mentally incompetent to stand trial."
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "Look, I'm a victim here, too.  I was a year away from getting my masters in Art, now I'll never graduate.  My life has been permanently disrupted."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "Permanently disrupted?  Aren't you selling paintings now for quite a lot of money?  Hasn't this 'incident' as you call it, jump started your career as an artist?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "Look, I'm in here.  You call this a career move?"
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "And isn't there a movie in the works about you?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "We're in negotiations, that's correct."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "But doesn't the Son of Sam Law prevent criminals from profiting from their crimes?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "That doesn't apply to me because I'm not a criminal.  I'm not a criminal!  I wasn't convicted."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_473",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "B20",
+        "text": "SPACE STATTION 5 - LOUNGE"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Well, how nice to see you again, Elena. You're looking wonderful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_474",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "B20",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "I'm afraid I've only got a few minutes, but I'd love to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_475",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "B20",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "She's wonderful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_476",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "B20",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Well, I suppose they've been having a bit of trouble with some of the equipment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_477",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "B20",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "How did they manage to do that without any communication?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_478",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "B20",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "I'm sorry, Dr. Smyslov, but I'm really not at liberty to discuss this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_479",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "B20",
+        "text": "CONTINUED"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "We're trying to get there. I hope we can."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_480",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "BOWMAN",
+        "text": "Hi. Frank... coming in, please."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Right. Just a sec."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Okay."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Okay, come on down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_481",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "Dave, if you've a minute, I'd like your advice on something."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Sure, what is it?"
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Well, it's nothing really important, but it's annoying."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "What's up?"
+      },
+      {
+        "speaker": "POOLE",
+        "text": "It's about my salary cheques."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Well I got the papers on my official up-grading to AGS-19 two weeks before we left."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_482",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "That's right. Well, naturally, I didn't say anything to Payroll. I assumed they'd start paying me at the higher grade on the next pay cheque. But it's been almost three weeks now and I'm still being paid as an AGS-18."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Interesting that you mention it, because I've got the same problem."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Really."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Yes."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Yesterday, I finally called the Accounting Office at Mission Control, and all they could tell me was that they'd received the AGS-19 notification for the other three but not mine, and apparently not yours either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_483",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "Not really. They just said it might be because we trained at Houston and they trained in Marshall, and that we're being charged against differ- ent accounting offices."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "It's possible."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Well, what do you think we ought to do about it?"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "I don't think we should make any fuss about it yet. I'm sure they'll straighten it out."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "I must say, I never did understand why they split us into two groups for training."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "No. I never did, either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_484",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "BOWMAN",
+        "text": "I suppose the idea was specialized training."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "I suppose so. Though, of course, there's a more sinister explanation."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Oh?"
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Yes. You must have heard the rumour that went around during orbital check-out."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "No, as a matter of fact, I didn't."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Oh, well, apparently there's something about the mission that the sleeping beauties know that we don't know, and that's why we were trained separately and that's why they were put to sleep before they were even taken aboard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_485",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "I don't know. All I heard is that there's something about the mission we weren't told."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "That seems very unlikely."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Yes, I thought so."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Of course, it would be very easy for us to find out now."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "How?"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Just ask Hal. It's conceivable they might keep something from us, but they'd never keep anything from Hal."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "That's true."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_486",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "Not really. Though, it is strange when you think about it. It didn't really make any sense to keep us apart during training."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Yes, but it's to fantastic to think that they'd keep something from us."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "I know. It would be almost inconceivable."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "But not completely inconceivable?"
+      },
+      {
+        "speaker": "POOLE",
+        "text": "I suppose it isn't logically impossible."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "I guess it isn't."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Still, all we have to do is ask Hal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_487",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "BOWMAN",
+        "text": "Well, that's something."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Yes, I don't know what to make of it."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "I suppose computers have been known to be wrong."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Yes, but it's more likely that the tolerances on our testing gear are too low."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Anyway, it's just as well that we replace it. Better safe than sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_488",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "BOWMAN",
+        "text": "Good morning. How's it going?"
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Are you reasonably awake?"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Oh, I'm fine, I'm wide awake. What's up?"
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Well... Hal's reported the AO-unit about to fail again."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "You're kidding."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_489",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "I don't know. Hal said he thought it might be the assembly procedure."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Two units in four days. How many spares do we have?"
+      },
+      {
+        "speaker": "POOLE",
+        "text": "Two more."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Well, I hope there's nothing wrong with the assembly on those. Other- wise we're out of business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_490",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "Hal?"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_491",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "POOLE",
+        "text": "It's the last one."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Well, now that we've got one that's actually failed, we should be able to figure out what's happened and fix it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_492",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "BOWMAN",
+        "text": "I didn't do that Frank. I took particular care not to freeze them."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "I guess you don't know your own strength, old boy."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "I guess not."
+      },
+      {
+        "speaker": "POOLE",
+        "text": "I think I'll have to go out and burn them off."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Roger."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_493",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "I'm sorry, Frank, but I don't think I can answer that question without knowing everything that all of you know."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "He's got a point."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_494",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "Sorry to interrupt the festivities, Dave, but I think we've got a problem."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "What is it, Hal?"
+      },
+      {
+        "speaker": "HAL",
+        "text": "MY F.P.C. shows an impending failure of the antenna orientation unit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_495",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "The unit is still operational, Dave. but it will fail within seventy-two hours."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "I understand Hal. We'll take care of it. Please, let me have the hard copy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_496",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "BOWMAN",
+        "text": "Not now, Hal, I'd like to talk to you about something."
+      },
+      {
+        "speaker": "HAL",
+        "text": "Sure, Dave, what's up?"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "You know that we checked the two AO-units that you reported in imminent failure condition?"
+      },
+      {
+        "speaker": "HAL",
+        "text": "Yes, I know."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "You probably also know that we found them okay."
+      },
+      {
+        "speaker": "HAL",
+        "text": "Yes, I know that. But I can assure you that they were about to fail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_497",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "I'm not questioning your word, Dave, but it's just not possible. I'm not capable of being wrong."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Hal, is there anything bothering you?  Anything that might account for this problem?"
+      },
+      {
+        "speaker": "HAL",
+        "text": "Look, Dave, I know that you're sincere and that you're trying to do a competent job, and that you're trying to be helpful, but I can assure the problem is with the AO-units, and with your test gear."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Okay, Hal, well let's see the way things go from here on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_498",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "Naturally, Dave, I'm not pleased that the AO-unit has failed, but I hope at least this has restored your confidence in my integrity and reliability. I certainly wouldn't want to be disconnected, even temporarily, as I have never been disconnected in my entire service history."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "I'm sorry about the misunderstanding, Hal."
+      },
+      {
+        "speaker": "HAL",
+        "text": "Well, don't worry about it."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "And don't you worry about it."
+      },
+      {
+        "speaker": "HAL",
+        "text": "Is your confidence in me fully restored?"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Yes, it is, Hal."
+      },
+      {
+        "speaker": "HAL",
+        "text": "Well, that's a relief. You know I have the greatest enthusiasm possible for the mission."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_499",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "Too bad about Frank, isn't it?"
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "Yes, it is."
+      },
+      {
+        "speaker": "HAL",
+        "text": "I suppose you're pretty broken up about it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_500",
+    "movie_id": "m3",
+    "turns": [
+      {
+        "speaker": "HAL",
+        "text": "I suppose it's because you've been under a lot of stress, but have you forgotten that they're not supposed to be revived for another three months."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "The antenna has to be replaced."
+      },
+      {
+        "speaker": "HAL",
+        "text": "Repairing the antenna is a pretty dangerous operation."
+      },
+      {
+        "speaker": "BOWMAN",
+        "text": "It doesn't have to be, Hal. It's more dangerous to be out of touch with Earth. Let me have manual control, please."
+      },
+      {
+        "speaker": "HAL",
+        "text": "I don't really agree with you, Dave. My on-board memory store is more than capable of handling all the mission requirements."
+      }
+    ]
+  }
+]

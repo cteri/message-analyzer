@@ -1,0 +1,2382 @@
+[
+  {
+    "conversation_id": "conv_8601",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Momma told ya not to speak to strangers, huh?  Hey!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Don't touch me."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'm not gonna hurt you. I just wanna talk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8602",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Okay then..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Well... you're causin' trouble, you know that?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I'm causing trouble?! You're a pain in the butt! You newshounds've been after me and my folks ever since I won that dumb contest. I'm just sixteen, you know? Who the hell cares what I think?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Not me. But other people seem to."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah. Well if you didn't put it in the papers -- nobody'd even know about it."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Now wait a minute, sweetie. Do I look like a newshound to you?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No... Actually, you look more like a cop."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8603",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I'll... take your word for it. So who are you, then?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Harry York. I work for Martoni Kaminski, he's running for Congress here."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh yeah! I saw you in the newsreel!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yeah, well --"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You know, my Dad's done some work for Kaminski..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Now you're catchin' on. Don't wanna get your Daddy in hot water, do you?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Whattaya mean?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Well... see the papers've got us pegged as pinkos, then you come along, the friendly neighborhood atheist --"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "But I'm not. The newspapers're --"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Right again. You're no more an atheist than my man's a Red, but what they're doin', see, they're addin' up their version of your ideas with their version of ours. Could look bad for your Daddy."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah. Could look bad for you and Kaminski too, I guess."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8604",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Sure don't talk like you're sixteen."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Well aren't you the smoothie. Now you're going to ask for my number, I suppose."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I suppose not. Gotta ask you this, though: for all our sakes, you better keep your trap shut."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Well... I'll give it a try, Mr. York."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Harry."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Harry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8605",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Hi, Harry. Did you see the play?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You think I'd miss it?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Well? What'd you think?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I just wanted to see how you looked."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "How'd I look?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Enh."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Don't be a rat, Harry."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You looked okay.  Joint's pretty dead. How 'bout I take you home?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8606",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Honest. When you were up there, you were really... there, know what I mean? Everyone else looked stupid."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I don't know... I did... feel different... Alive."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yeah, it's a gift. You gotta do something with it."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah, but if I win this trip, Mama'll kill me. She hates Russians. I do want to go, though... to New York, especially... but I wanted to do it..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Quietly."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You're not the quiet type, Frances."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8607",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "You know, my old man was an inventor. Spent his whole life down in the basement trying to design transcontinental underground railroads, stuff like that. Well, I was supposed to be his partner. When I told him the smell of his workshop made me sick, I thought he was going to die right there."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "What happened to him?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "He retired to Florida... made a killing in vending machines."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8608",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "I kick myself sometimes, but the thing is, I would have been miserable living his life."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "...So you think I should go."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Sure. Try this acting thing. You can make good money at it."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I don't know, Harry. I... I want so many..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You don't know what you want."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8609",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Frances..."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "What?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Well... don't you think it's up to me to..."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Come on, Harry. This is America, land of the free.  I thought we might go skinny dipping.  For starters."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8610",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "How ya doin', Farmer?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Me? Look at you! What're you doing in Hollywood?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Came to get a tan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8611",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Not bad. But come on, Harry; what's the real reason?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Kaminski."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah, I read about that. Terrible business, suicide."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Since when do you believe the papers? They killed him, kid."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "What?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "They killed him. They threw him out that window."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh no..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Eight stories."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8612",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Jesus."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yup. Poor bastard lay there on the sidewalk and he couldn't die. Too god damn much heart. He just didn't want to die."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "But... but why, Harry...? Why'd they do it?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "He wouldn't play ball. What can I tell ya... it's done.  Anyway, I didn't want to be next, so I skipped town; came down here to work for some big-wig. Tail and nail job.  I'm sort of a non-gentleman's non- gentleman.  How d'ya like the camouflage?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You jackass!  C'mon, let's get out of here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8613",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Not bad. It was slow at first, but I'm doing bits now."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I always told ya, Frances. You got real ability."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I know what ability you're interested in."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hey, I'm a man, aren't I? Whattaya say we have dinner, then maybe head out to the beach, rub some of this tan off each other.  For old time's sake."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Harry... I met someone."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yeah? What is he -- muscleman? Lifeguard?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8614",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Serious, huh?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hey that's great, Farmer, just great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8615",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Shit. I meant the other way around."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Well, the studio told me not to."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Is that why you did it?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Who ever thought they'd be right for once? Jesus, Harry... it's a zoo back there --"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You're telling me."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Dick... and my mother! She acts like she's on Mars or something --"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Well, she's back to earth now. They're all pretty huffed up about your leaving. I think you better go back, kid."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Forget it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8616",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "You know, the funny thing is: it's not a great movie. I mean it could've been, but they screwed it up, gave it a happy ending. And all my friends, I know they're going to smile and say they loved it."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "If they say they love it, they'll probably love it. Not everybody lies, you know?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No, they don't, do they?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8617",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Frances, you're a movie star now. If you give them what they want, you can get anything."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I don't have what they want, Harry.  Harry, will you tell me something? How can I keep making movies when people in the streets are starving?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Some people starve, kid. Until we can do something about it, they might as well see a movie. Makes 'em feel better."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "But I don't want to be like that. I want to do something..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What're you gonna do, waste your talent? Why not use it to make something worthwhile. You can do that, you know?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah, if I don't make too big an ass of myself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8618",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Tell you what. Let's ditch the limo. Let me drive you up to that red carpet in my beat up Chevy."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "The hell you will, Harry York."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Come on, Cinderella, your pumpkin awaits."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8619",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Don't start, Farmer."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "It's midnight, Harry. My glittering raiments are dissolving."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "The chauffeur. He's watching."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "He deserves a show. He missed the movie."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'm serious, Frances. This is important."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8620",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Harry? Harry, where are you?!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Jesus, Frances, how'd you find me?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I called your god-damned office! I want you to kill him, Harry. You'll do that for me, won't you? I loved him, I loved him... that bastard."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Calm down, Frances."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Don't tell me what to do, just give me his head on a platter!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8621",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Two lines! Two fucking lines! 'My wife returns from Europe tomorrow. I can't see you any more.' Just like that!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Frances..."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Harry, I hate being in love. I don't ever want to be in love again. I just hate it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8622",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "How the hell do you find me anyway?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Animal magnetism!  No ginger beer. What's this red stuff?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "What's left of my blood."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Think I'll have a glass."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Help yourself. Everyone else has."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8623",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Nice joint. Can you afford it?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Nope. The studio pays. Thank you, Harry."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What for?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "For not chopping off his head and serving it to me on a platter."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Well, I would have, you know? I just didn't know how to cook it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8624",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Six months' probation...? You gotta learn when to do battle, Farmer. You're not going to win many bouts with 200 pound cops."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I took the early rounds."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'll bet."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I don't know. It hurts, Harry. Some things, no matter what you do with them, they just hurt."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "So you drink, and you fight with a cop...?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah, and you look at people and you wonder who the hell they are, what's going on inside their heads. Sometimes you can hear it, like a buzzing, the things that happen in their heads. And you wonder: does anybody ever love anybody, really?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Beats me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8625",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Hey look, I got some business down in San Diego. Whattaya say you come with me, stay a few days?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No, Harry, I can't --"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You're coming."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8626",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I just wanted to be part of something... one thing, one play or one movie, something that was really fine... memorable. And I could say: I did that, I made something good."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "And?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Well... to get a crack at something good, you gotta earn it, you gotta climb the ladder first. So you do, you work hard, and all these people behind you are pushing you up, shouting you on. And then one day you realize you are, you're at the top... and there's nothing there. And you look behind you and there's no one below. You're just left there all alone... swaying in the god-damned breeze."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8627",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Take a walk, pal."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Who said I was a lady?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8628",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Oh my God, I look awful."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You've looked a whole lot better. C'mon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8629",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Evening, gorgeous."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "That sure looks like fun...  You know how long it's been since I was behind the wheel?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Forget it, Frances. You're not driving."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Have I told you how mean you're turning, York?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8630",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Where are we, mean man?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Couple hours from Idaho. We'll cut across to Montana. I've got friends there with a ranch."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I should've known..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "This is another one of your schemes to get me off alone..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "That's right."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "...Take advantage of me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8631",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I don't think I'd be much good in a war..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Whattaya think you're in now?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I don't know. Not a war exactly. It's more a... a misapprehension maybe..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "A misunderstanding, people taking the wrong meaning from things. I wasn't declaring war, Harry. I was just saying my prayers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8632",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Harry, I have to go home. I have to talk to Mama."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Frances, you're fulla drugs. You don't know what you're saying. Who do you think put you into Meadow Wood? Your mother thinks you're crazy and she'll keep on thinking it as long as it suits her."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No, she just didn't want me going to jail, that's all."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yeah? She's a shark, Frances. I'm not taking you there, and that's that!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8633",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "You know something, Harry?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I guess."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Aside from meanness, you're almost perfect. There's only one other thing wrong with you."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You can't drink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8634",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Ohhh, that's lousy Scotch!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hey! Another shot for the lady and a double for me!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "What a man!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hey, you're a good quarter-horse, kid, but you can't go a route of ground."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "To quarter-horses."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "No. To thoroughbreds."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8635",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Why are you always leaving me, Harry?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You should stickaround sometimes. Look out for me."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Look, Frances, I'm only gonna ask this one time. I mean it. I swear after this, I'll never ask again: Will you marry me?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I know a thing or two about marriage. You... you understand me more than anyone, Harry... maybe even more than Mama. But... you're too important to me. I'd fail you. I don't know how or why, but I would. And that's a chance I just can't take. Do you understand?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Well... I'll act like I do until I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8636",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "There's just one more thing."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Will you marry me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8637",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "It's not too late to keep going, up to Vancouver? Be the smartest thing."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Thanks, Harry, really, but... I can't explain it. She's my mother. She's just... I can't give up on her that easy."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You give up on her?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah. It's just... something I gotta do, I guess."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Frances, You're crazy."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I know. Don't tell anyone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8638",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Anyway... if you need me..."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I got your number, Mister Man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8639",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Frances! Frances!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Who?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Frances, it's me, Harry?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "...Touch me again and I'll kill you, you pig."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8640",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I love you, Harry. I love you."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I love you too, Frances."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8641",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Where to?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh Harry..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8642",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "This is it, kid. This is our chance. When you got a chance, you better take it."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah. I don't know."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You don't need to screw around anymore. You don't need Dwayne Steele or Odets or your mother. You need me."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I know, but... There were so many people in there, Harry. Every time I turned around someone was pressing against me... watching, looking over my shoulder, touching me, grabbing, sticking things into me. When I feel somebody near me now... anybody... my skin starts to crawl."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8643",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Been a lot of years, you know. A long time waiting. For what? End up feeling like a sap."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh please, Harry... don't even think it. You're the only person who ever... It's just... Can't you wait for me?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yes you do. If you love me you can wait, right? A month, six months, whatever it takes."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Right. Except... time has a way of --"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No, Harry, it's not time, it's us. You and me. And I'm telling you now that I'll come to you, okay? I'll find you. I will."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I hope so, Frances."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8644",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "C'mere. I want to talk to you."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh. Why, Harry York. How nice to see you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8645",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "How... how ya doin', Farmer?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Fine, thank you. Did you watch the show?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Sure I did, that's why I'm here."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "How did I look?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Oh, you...  ...ennh."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Well... you're looking well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8646",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I got a new car. Only it's red. Did you know Mama died?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yeah. Yeah, I heard about that."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Dad, too. I sold the house. I'm a faceless sinner, Harry..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Why do you say that?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I'd ask you to take me home, but I'm a faceless sinner.  ...You smell good, Harry. Familiar, you know? I'd ask you to take me home, but..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8647",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "It's going to be slow from now on. Do you know what I mean, Harry?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'm not sure."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Very slow.  But we're not going to stop, are we?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "No."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No, we're not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8648",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Goodbye, Harry. It was very good to see you again."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yes. Would you like me to walk a little way with you?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "That would be okay."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Just a little way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8649",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HITCHHIKER",
+        "text": "Pretty morning."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "It's always beautiful at this time. Peaceful..."
+      },
+      {
+        "speaker": "HITCHHIKER",
+        "text": "And no people."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8650",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "HITCHHIKER",
+        "text": "Where you goin'?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Wherever they're going, I'm going."
+      },
+      {
+        "speaker": "HITCHHIKER",
+        "text": "Yeah, I know what that's like... Where you been?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Well, I was picking fruit with some migrant workers until..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8651",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "HITCHHIKER",
+        "text": "What'd you do?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You know, I've never been able to figure that out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8652",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Shit!"
+      },
+      {
+        "speaker": "HITCHHIKER",
+        "text": "Run!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8653",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "JUDGE",
+        "text": "...Is that not true?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Who's writing this guy's lines?"
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Answer the question! Have you driven a car since you were placed on probation?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No, I couldn't get my hands on one."
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Have you reported to your Probation Officer as directed?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I never saw him. Why didn't he show up?"
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Did you expect him to look you up?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Why, certainly. I wanted to get a peek at his face..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8654",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "JUDGE",
+        "text": "You're on your way to a contempt citation, young lady."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "That's fine with me...  Get it? Fine. A fine! Hey c'mon, c'mon, what is this, an audience or a jury?"
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Miss Farmer, is it true you fought with the policeman who arrested you last night?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Sure it's true. I was fighting for my country as well as myself."
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "Miss Farmer, you were advised at the last hearing that if you took one drink of liquor or failed to be a law-abiding citizen --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8655",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "JUDGE",
+        "text": "Miss Farmer! In light of your flagrant disregard for the conditions of your probation, coupled with the unwarranted assault on the Plaintiff here... I am forced to order you to begin serving a sentence of 180 days in the County Jail."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Fine!"
+      },
+      {
+        "speaker": "JUDGE",
+        "text": "You are a deeply troubled young lady... I only hope you change your course before it's too late."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8656",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "What happened? Who're you?"
+      },
+      {
+        "speaker": "MAN",
+        "text": "Who're you?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I live here."
+      },
+      {
+        "speaker": "MAN",
+        "text": "You're Farmer? Oh... Well, look, they took your stuff out. Moved it to some hotel, I think."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "What?"
+      },
+      {
+        "speaker": "MAN",
+        "text": "I'm preparin' it for the next tenant, he's coming in tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8657",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "And what's the title of this seduc... assault?"
+      },
+      {
+        "speaker": "ODETS",
+        "text": "'Golden Boy.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8658",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "That's me, Clifford."
+      },
+      {
+        "speaker": "ODETS",
+        "text": "I know, but I'm not seeing it. It's there, Frances, the fire is there, but it's not coming through. You're lazy --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8659",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I'm not!"
+      },
+      {
+        "speaker": "ODETS",
+        "text": "Yes, you win them, you bring them into your heart, touch them, but you don't set them on fire!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "But I want to. I'm trying!"
+      },
+      {
+        "speaker": "ODETS",
+        "text": "I need an incendiary! An arsonist!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Then show me! That's what I'm here for, to learn, to grow!"
+      },
+      {
+        "speaker": "ODETS",
+        "text": "Good. Then it's very simple. You have to stop being afraid, Frances. It's in you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8660",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "'But how do I know you love me?'"
+      },
+      {
+        "speaker": "ODETS",
+        "text": "Your big speech?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "'How do I know it's true? You'll get to be the champ. They'll all want you, all the girls! But I don't care. I've been undersea a long time. When they'd put their hands on me I used to say, \"This isn't it! This isn't what I mean!\" It's been a mysterious world for me! But Joe, I think you're it! I don't know why, I think you're it. Take me home with you.'"
+      },
+      {
+        "speaker": "ODETS",
+        "text": "I already have."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8661",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "How's it sound?"
+      },
+      {
+        "speaker": "ODETS",
+        "text": "The speech? Real good."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You think I got it?"
+      },
+      {
+        "speaker": "ODETS",
+        "text": "You got it."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yeah. Yeah, tonight I think I got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8662",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Mama..."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "I'm not hungry. You two just enjoy yourselves. After all, this is a celebration."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8663",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "Don't listen to him, little sister. When you're proud of what you are, you don't refuse the label, understand?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yes, Ma."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "And you... should be proud. You won that contest and made a name for yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8664",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "But they're using you!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh Ma, they're not using me. It's just a chance to travel, see things. Besides, it's the only way I can get to New York."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8665",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "I'll pay your way to New York. I'll work, I'll slave. I'll sell my vegetables to the truck farmers, or --"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh, Mama, don't you understand?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8666",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "It isn't in your hands, Mama. It's my life."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Yes, but important people are concerned about this. Judge Hillier spoke to Alma Styles --"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I don't care."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "...You will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8667",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "It's okay."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Smile, little sister, smile."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8668",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "It's alright now, little sister, everything's going to be just fine."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Mama, what's..."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Shhh, shhh. You're not going to jail, Frances. The Judge has put you under my care. I'll see you get the rest you need."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You're taking me home!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8669",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "Tell them who I am! Tell them who I am!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Are you crazy? Unhand that woman! That's Amelia Earhart!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8670",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "And here's one from nice Mr. Zeiss. He says that..."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Why are these all opened?"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Well, they needed immediate answers, Frances. It's good manners and good sense. You shouldn't be bothering yourself with these right now."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Then why did you bring them?"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "It's your fan mail, little sister."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You kill me, Mama."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "What?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Go on..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8671",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Well, who have we here...?"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Frances, you remember my lawyer, Alma Styles?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8672",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Oh Mama, I'm so... tired of that song."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Please. I want you to. It would make me so happy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8673",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I think I need a little air."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Nothing. I think I'll just go out for awhile."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "For a walk, Mama. Just a walk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8674",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "How long will you be?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Not long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8675",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "I'll have lunch ready by one."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I'll be back."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "At one. Promise?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8676",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "Say you promise."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I promise I'll... I promise, Mama."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8677",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "You know, the surest way to lose an appetite, is to drink, little sister."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yes, Mama."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "I don't want you drinking, Frances."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yes, Mama."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8678",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I'm back, Mama."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Oh Frances, do I have news for you! Guess who --"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Wait, Mama, wait. I have something to tell you. I've decided... well... I'm not going to make movies anymore. I thought that's what I wanted, and I went after it with all my soul, the way you taught me, but I was miserable, Mama, and it nearly killed me. So now... now it's over. I want a different kind of life, something... simple. I want to live someplace quiet and peaceful... in the country maybe, and I'll have dogs and cats -- I feel so light suddenly, so clear for the first time in... It's going to be okay, Mama, I know it. And I love you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8679",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "Don't... talk crazy."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Mama...?"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "They want you back! Your agent called today! Don't you understand? He's sending the scripts. He wants to fly up here in a week with the publicity people! Frances, you can't do this to your fans! Why, they've been praying for you all through this nightmare. You can't turn your back on them now! Look at this fan mail I've been answering!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8680",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Haven't you heard what I said?"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "I told him to come up! I told him you wanted to show them all that there's nothing wrong with you any more, that you're completely cured!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I'm not cured. I was never sick! They had no business putting me in there! My only responsibility is to myself now!"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "You... you selfish, selfish child. At least talk to him, hear what he has to say."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No!"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "You want to throw it all away, is that it? You had everything, little sister. Beauty... a brilliant career... a wonderful husband. You were a movie star!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Mama, shut up!"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "And now you're throwing everything away? You're gonna be a nobody! Nobody! You know what that's like?!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You... You'd send me back, wouldn't you? You would."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8681",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I'm going out!"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "You're not going anywhere!"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yes, I am, and you can't stop me! You can't tell me what to do, mother. I'm a grown woman, and I can decide about my own life."
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "Frances!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8682",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "Of course, she hasn't anything definite in mind."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No. No, it all depends on what offers I get."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8683",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "Oh, just leave those things for now."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No, Mama, I'll take care of it. I'll wash them in the morning."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8684",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "You know, little sister, I never resented you for refusing to see me in the... the hospital. I knew you had to manage on your own before you could come back."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Thank you for understanding, Mama."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8685",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "LILLIAN",
+        "text": "Little sister, I don't want you to feel any rush to get back to work. I want you to rest... for a while anyway."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I will, I promise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8686",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Do I go right away or do I have time to take a bath?"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "I was hoping for a kind word, little sister."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You were hoping for a kind word?! You're my mother! You're supposed to nourish me! Support me!"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "I have!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8687",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "No! All you've done is try to break my spirit, try to turn me into you! But I'm not you, mother, and I never will be, and thank god for it!  That goes for you too! And frankly, I don't know how, with the two of you, I turned out as sane as I am --  Wait right there, gentlemen, I'll be with you in a minute... and believe me, I don't want to stay here one second longer than I have to!  But I've got to tell you, Lillian, that one day before you die, you will realize what you've done and hang your head in shame. In shame!"
+      },
+      {
+        "speaker": "LILLIAN",
+        "text": "But what --"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No! You're not talking now. You listen. You can send me away, Lillian, you can pretend I'm crazy and pretend I'm still your little girl who can't take care of herself, but one thing you can't pretend anymore. You can't pretend I love you because I don't. I can't. Not after what you've done to me. Because you see... I'm still me... I'm trying real hard all this time to be me... and you, 'little sister', you haven't been any help at all.  Okay, boys, I'm ready."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8688",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "JUDGE HILLIER'S WIFE",
+        "text": "On behalf of the Seattle Ladies Club, as a token of our vast admiration --"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Excuse me."
+      },
+      {
+        "speaker": "JUDGE HILLIER'S WIFE",
+        "text": "Yes...?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Don't I know you?"
+      },
+      {
+        "speaker": "JUDGE HILLIER'S WIFE",
+        "text": "I don't believe so."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Sure. You shouted at me in the auditorium when I read my essay."
+      },
+      {
+        "speaker": "JUDGE HILLIER'S WIFE",
+        "text": "No, my dear. You must be mistaken."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh bullshit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8689",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "SYMINGTON",
+        "text": "I find these initial meetings to be much easier without the concerned relatives in attendance."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Am I supposed to say 'thank you'?"
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Thanks are hardly necessary."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Aw, shucks, ma'am. T'weren't nothin'."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "I'm glad to see you haven't lost your sense of humor."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "It ain't for lack of trying."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "So it seems. May we be serious for a moment?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Why, Doctor! We've only just met!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8690",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Oh! Are you really?"
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Among persons such as yourself, creative people under great stress, erratic behavior is not at all uncommon and certainly nothing to be ashamed of. It's just that the neuroses which fuel your talent can also generate certain character disabilities which..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8691",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Do you expect me, for one moment, to believe you have greater insight into my personality than I do?"
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Please sit down..."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You may discuss my predicament, Doctor. You may discuss it with anyone you like, but not with me. I'm not interested. I can solve my problems without recourse to a veternarian."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "I see."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Besides, I don't want to be what you want to make me."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "And what's that?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Normal. Average."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "All right. Will you please sit down now?  Symington says."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "...Did you really say that?"
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Just a little joke, Miss Farmer."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "This whole thing is a joke!"
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Stay calm, please."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No, you stay calm, Doctor! But you're finding that difficult, aren't you?  Why, are you attracted to me? Perhaps later, in some of our more intimate sessions... after we know each other a little better...  and you've torn my personality to shreds, and I'm weeping and vulnerable...  then you'll really get your kicks, won't you, \"Doctor?\""
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "I'll have someone show you to your room."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh, that's good, very professional. In control. But the tiny beads of sweat on your upper lip give you away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8692",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "SYMINGTON",
+        "text": "Is there something else?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You didn't say 'Symington says'."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8693",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "SYMINGTON",
+        "text": "...I'm sorry to keep you waiting, the staff review ran over. Did you enjoy your mother's visit?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Yes. It was very good to see her."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Really? Any problems?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8694",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Not at all. She brought me my fan mail.  I had no idea there were so many strangers concerned about me. But I guess that's the best thing about working in the movies. You make so many friends. I want to go back and show them that the faith they put in me wasn't a mistake."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "You're telling me you feel guilty."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No... What I mean is... I'm just very excited by the prospect of getting on with my life, that's all."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Do you really believe your mother's trying to kill you?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "What?"
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "She told me you said, \"Mama, you want to kill me.\""
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "I never said... Oh look. That's just a figure of speech. She said something funny, and I said..."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "And you accused her of tampering with your mail."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Oh for Christ's..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8695",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I'm sorry. She misunderstood, that's all."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "But you tell me you had a pleasant visit and your mother says you were sullen and uncommunicative. Whom do you think I should believe?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Doctor, I hate to break this to you, but my mother is a little batty."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Frances, you're still filled with anxiety. You feel guilty and hostile toward your family and friends. Consequently, I didn't recommend your release at the staff review."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "You what?"
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Mental illness is an elusive thing, and though I'm pleased you're feeling more... capable, it's perhaps unrealistic to expect you to be completely cured after so short a time. Don't you agree?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8696",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "SYMINGTON",
+        "text": "I'm sure you'll see it my way in the end."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "Dr. Symington, how big is your dick?"
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "'Cause if it's long enough, which I doubt, why don't you wrap it around and fuck yourself in the ass!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8697",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "I want outta here, you understand? I'm ready to get out! So you go back there... you go back and you tell them to let me out!"
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Frances, I'm warning you..."
+      },
+      {
+        "speaker": "FRANCES",
+        "text": "No, I'm warning you! Who do you think you are, God? You bumble around with your folders...  ...and your pencils...  ...and your god-damn buttons...  ...all your badges of authority! But you have no authority! You're nothing! You're a zero!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8698",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "FRANCES",
+        "text": "Symington says..."
+      },
+      {
+        "speaker": "SYMINGTON",
+        "text": "Sedate her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8699",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "KAMINSKI",
+        "text": "And do you think it's radical for a man to have a job and feed a family?"
+      },
+      {
+        "speaker": "YORK & CROWD",
+        "text": "No!"
+      },
+      {
+        "speaker": "KAMINSKI",
+        "text": "Is it radical for you to have a hand in shaping your future, and the future of your children?"
+      },
+      {
+        "speaker": "YORK & CROWD",
+        "text": "No!"
+      },
+      {
+        "speaker": "KAMINSKI",
+        "text": "Is it radical for the wealth of this country to be turned back to the people who built the country?"
+      },
+      {
+        "speaker": "YORK & CROWD",
+        "text": "No! No!"
+      },
+      {
+        "speaker": "KAMINSKI",
+        "text": "Good! Because, Brothers, that's you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_8700",
+    "movie_id": "m62",
+    "turns": [
+      {
+        "speaker": "OLDER NURSE",
+        "text": "I don't know why they even bother. She's had enough of this to knock sense into a bull elephant."
+      },
+      {
+        "speaker": "YOUNG NURSE",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "OLDER NURSE",
+        "text": "I checked the files. This one holds the record for shock treatments. Four hundred seventeen and no end in sight."
+      },
+      {
+        "speaker": "YOUNG NURSE",
+        "text": "You're kidding."
+      },
+      {
+        "speaker": "OLDER NURSE",
+        "text": "Yeah, well, you know doctors. They sure hate to use that word."
+      },
+      {
+        "speaker": "YOUNG NURSE",
+        "text": "What?"
+      },
+      {
+        "speaker": "OLDER NURSE",
+        "text": "'Incurable.'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2110 @@
+[
+  {
+    "conversation_id": "conv_43113",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LAWYER",
+        "text": "So, you doing anything tonight?"
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Working."
+      },
+      {
+        "speaker": "LAWYER",
+        "text": "Hmm, how about tomorrow night?"
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Working."
+      },
+      {
+        "speaker": "LAWYER",
+        "text": "Night after that?"
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Look, you're a nice guy, but I'm not really dating right now."
+      },
+      {
+        "speaker": "LAWYER",
+        "text": "I'm not that good at 'no,' Liza."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Too bad.  Because I'm terrible at 'yes.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43114",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LAWYER",
+        "text": "Liza, settle a bet for us."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "What do I look like to you? Switzerland?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43115",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "OPERATOR",
+        "text": "Federal Bureau of Investigation."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "I need to speak with an Agent Lowry."
+      },
+      {
+        "speaker": "OPERATOR",
+        "text": "The office is closed for the evening. Is this an emergency?"
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Do you <u>have</u> an Agent Lowry in your New York office?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43116",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "OPERATOR",
+        "text": "Yes."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Then this is a goddamn emergency."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43117",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "OPERATOR",
+        "text": "Go ahead, Miss Sutton."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Agent Lowry?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43118",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "Ah, your psychotic is here."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Not today..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43119",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LIZA",
+        "text": "Tell him I'm on vacation.  That I won't be back for two weeks."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "I don't know if you're the best lawyer I've got or a high school sophomore."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43120",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "WILSON",
+        "text": "I've been given a cease and desist on all matters relating to Jerry Fletcher.  We're not to discuss him with the press, the N.Y.P.D., anyone.  Building police are to arrest him on sight and we're to report any attempt he makes to contact you."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "This doesn't make sense."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "It makes perfect sense.  Field work is not our oeuvre."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "I don't like it.  Something's wrong."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "Dr. Jonas thought you might be inclined not to cooperate.  Why is that?"
+      },
+      {
+        "speaker": "LIZA",
+        "text": "We don't know who Jonas is.  We don't know who it is we're cooperating with."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "I've had a lot of credentials flashed in my face, Liza.  What I saw yesterday, I know not to ask questions.  We're out.  Shut off. Terminated.  <u>Understood</u>?"
+      },
+      {
+        "speaker": "LIZA",
+        "text": "-- Understood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43121",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LIZA",
+        "text": "Go to the northeast corner.  Call a cab.  Bring the pizza.  Then there's a poem.  Roses are red, violets are blue, if the Pope goes to Washington, I would, too."
+      },
+      {
+        "speaker": "WILSON",
+        "text": "What the hell does that mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43122",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LOWRY",
+        "text": "We're waiting for jurisdictional problems to be cleared up.  This guy Fletcher's something else."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Tell me about it."
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "While we walk.  D.C. police want him for assault. Secret Service for counterfeiting and we're tracking him on a string of bank robberies.  No one knows what the C.I.A. wants him for."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Wait --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43123",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LOWRY",
+        "text": "Guy's a C.I.A. shrink.  Here to I.D. Fletcher.  They knew each other somehow."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "You don't understand --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43124",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LOWRY",
+        "text": "Which way did he go?"
+      },
+      {
+        "speaker": "LIZA",
+        "text": "I don't know.  Didn't see him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43125",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LOWRY",
+        "text": "That's the book Hinkley had on him when he shot Reagan."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "I was just thinking that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43126",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LOWRY",
+        "text": "You're welcome!  Spooks.  So, you want to compare notes on this guy."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "No.  Not yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43127",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LIZA",
+        "text": "Agent Lowry."
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "Wasn't my idea."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Jonas?"
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "It's his show for now.  Look, you want to get some dinner?  Inter- Agency cooperation and all?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43128",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LIZA",
+        "text": "When I'm ready to compare notes, I'll let you know."
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "Your call.  Have a good night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43129",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LIZA",
+        "text": "Can I talk to you a second?"
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "Go ahead.  We'll be right down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43130",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LIZA",
+        "text": "Do you believe me?"
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "Yeah, I do."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "I want to believe you, too."
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "What do you mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43131",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LIZA",
+        "text": "Who's the Deputy Director of the F.B.I.?"
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "You think we have time to fool around like this?  Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43132",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LOWRY",
+        "text": "What gave me away?"
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Nothing.  I was just making sure. So, who are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43133",
+    "movie_id": "m303",
+    "turns": [
+      {
+        "speaker": "LOWRY",
+        "text": "I'm, it really doesn't matter. Think C.I.A. and exponentiate. I'm a government employee and I've been watching Jerry for awhile."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "And Jonas?"
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "He's why I watch Jerry.  Jerry's the bait for Jonas."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "He's shown himself.  Why haven't you arrested him or killed him or done whatever it is you do?"
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "Jonas builds assassins for a living.  Several of whom may be in place already.  We'd like to kill a few birds with one stone."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "Where do you think Jerry is?"
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "No idea.  Honest.  What are you going to do?"
+      },
+      {
+        "speaker": "LIZA",
+        "text": "I'm going to find him.  Because he'd find me."
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "Don't go home.  And don't go to work.  Either one could be bad."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "What do you suggest?"
+      },
+      {
+        "speaker": "LOWRY",
+        "text": "That you come with me."
+      },
+      {
+        "speaker": "LIZA",
+        "text": "I don't think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43134",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PETER",
+        "text": "What?"
+      },
+      {
+        "speaker": "A.T.L.",
+        "text": "I'm not sure.  We have no launch protocol; the entry of the passenger is supposed to initiate activation."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Anything happening in there, El?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43135",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "A.T.L.",
+        "text": "We have benzel activation, repeat, we have benzel activation.  Control to Arroway, you okay in there?  Repeat, Control to Arroway, come back."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Ellie?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43136",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "A.T.L.",
+        "text": "We've lost contact."
+      },
+      {
+        "speaker": "PETER",
+        "text": "Pull the plug.  Get her out of there."
+      },
+      {
+        "speaker": "A.T.L.",
+        "text": "There's no plug to pull."
+      },
+      {
+        "speaker": "PETER",
+        "text": "What?"
+      },
+      {
+        "speaker": "A.T.L.",
+        "text": "There is no abort procedure -- we don't know how we turned the damn thing on, let alone how to turn it off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43137",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "CHAIRMAN",
+        "text": "... And this is how the extraterrestrial presented himself to you?  As your father?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "CHAIRMAN",
+        "text": "He died...  ... in 1972."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "CHAIRMAN",
+        "text": "Dr. Arroway, do you think it's possible you had some kind of... delusional episode."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43138",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Is it possible...?"
+      },
+      {
+        "speaker": "CHAIRMAN",
+        "text": "All the elements are there.  A woman, orphaned young, under a great deal of stress.  The failure of a project she's staked her self-worth and very sense of identity on -- induces a fantasy of reuniting with her 'father in heaven' as it were. Is it possible?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43139",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "CHAIRMAN",
+        "text": "You don't believe it to be... tell me something, Doctor.  Why do you think they would go to all this trouble... bring you tens of thousands of light years, and then send you home without a shred of proof?  Sort of bad form, wouldn't you say?  What was their intent?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I don't know.  Ultimately their motives may be as incomprehensible as their technology."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43140",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KITZ",
+        "text": "Dr. Arroway --"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Michael Kitz, National Security Advisor."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "Dr. Arroway, let me first say --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43141",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "Mike, because of the Earth's rotation we're only in line with Vega so many hours a day; the only way to get the whole message is to cooperate with other stations.  If Dr. Arroway hadn't moved quickly we could have lost key elements."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "Okay, fine, they've got the primes -- but if you're right about there being another more significant transmission still to come --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43142",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "Hope there's a cartoon."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "How is that possible?  How could all that information be encoded in --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43143",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KITZ",
+        "text": "What in the hell...?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "It's a hoax.  I knew it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43144",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KITZ",
+        "text": "-- Or 'you're our kind of people --'"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "-- It's extremely unlikely that they had any idea what they were looking at."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43145",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "Now I remember why I went into theoretical work.  Kent."
+      },
+      {
+        "speaker": "KENT",
+        "text": "Glad to have you, David.  How's the new office?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Still settling in, really.  Where's Dr. Arroway?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43146",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KENT",
+        "text": "Nothing.  Okay.  Some of us have been a little... not concerned, exactly, but..."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Tell me."
+      },
+      {
+        "speaker": "KENT",
+        "text": "Last week, about 3 A.M., Fish -- Dr. Fisher -- was on a late shift, and he found her doing laundry."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "So?"
+      },
+      {
+        "speaker": "KENT",
+        "text": "So... there wasn't any clothes in the machine.  She was just sitting there on the floor with her ear pressed up against the Maytag. Listening."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43147",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "I'm sorry, Miss Arroway, not only is it too Speculative a subject for a doctoral dissertation, at this point in your career it'd be tantamount to suicide."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm willing to take that risk."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "I'm not.  You're far too promising a scientist to waste your considerable gifts on this nonsense --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Dr. Drumlin, we are talking about what could potentially be the most important discovery in the history of humanity.  There are over four hundred billion stars out there --"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "And only two probabilities:  One: there is intelligent life in the universe but they're so far away you'll never contact it in your lifetime --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You're --"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Two:  There's nothing out there but noble gasses and carbon compounds and you'd be wasting your time."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "What if you're wrong?  No -- I'll grant you probabilities but as a scientist without all the evidence -- you can't deny the possibility -- and I believe even the remotest possibility of something this profoundly... profound is worth investigation -- and worth taking a few risks."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "I disagree."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Then disagree but don't stand in my way!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43148",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Pepsi?  Tequila?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "No, thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43149",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "Peter sends his regards."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Oh?  How's he doing?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Very well; since my appointment he's been made interim director."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Really?  Congratulations, by the way."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "I'm surprised you even knew it was an election year."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "'President's Science Advisor' -- so what, you just spend all your time jetting around on Air Force One now...?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Now exactly.  It's... complicated."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "No doubt."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Ellie..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Did I tell you we've expanded the search spectrum?  We're including several other possible magic frequencies -- not just the hydrogen line anymore.  I was trying to get inside their heads, y'know?  And I started thinking, what other constants are there in the Universe besides hydrogen, and then suddenly it was so obvious -- transcendantals, right?  So we've been trying variations of pi..."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "You know why I'm here."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's not enough having my search time systematically cut down -- you know I'm down to three hours a week now."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Ellie, I should have done this a long time ago, certainly before I left the N.S.F., but I wanted to give you every benefit of the doubt --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You can't just pull the plug, David."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "It's not like you've given me much choice."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Meaning..."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Meaning I have to go defend a budget to the President and to Congress and you're out here listening to washing machines."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm searching for patterns in the noise, that's all.  Order in the chaos.  I'm practicing listening --"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "The point is, this isn't just scientific inquiry anymore -- it's turned into some kind of personal obsession."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "The difference being what -- that I refuse to adopt the standard line, that I don't care about the results of my work?  Well, I do care.  Of course any discovery has to be verifiable, of course it must be subject to all rigors of scientific method, but I refuse to go around pretending I'm some kind of dispassionate automaton when it's obvious to anyone with a brain I'm just not."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "No... You're not.  But the price has just gotten too high."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Goddamnit, they are out there, David --"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Then why haven't you detected any signals?  If, as you claim, there have been thousands, millions of advanced civilizations out there for millions of years then why hasn't one signal gotten through?  It'll take a month or two for the paperwork to go through; you're welcome to stay until then."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "David --"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "It was a worthy experiment -- worthy of you; I was wrong about that part. But it's over now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43150",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Mathematics is the only truly universal language, Senator.  We think this may be a beacon -- an announcement to get our attention."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "If it's attention you want I'd say you've got it.  Just one thing:  Why Vega? Everyone's looked at Vega for years with no results, and now, yesterday, they start broadcasting primes. Why?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's hardly yesterday; the signal's been traveling for over twenty-six years.  As for why...  I'm hoping your own expertise in decryption algorithms will help us find out -- to see if there's another message buried deeper in the signal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43151",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... could it be a nested code of some sort?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "You must have checked the signal for polarization modulation already..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43152",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "Throw a gray scale on it; standard interpolation."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Rotate 90 degrees counterclock wise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43153",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "... Arrangements also have to be made for the V.I.P.s coming in, mostly religious leaders..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "What?  Why?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "The theological ramifications of all this are obvious; the President feels we need to include religious interests rather than alienate them. She's also named Palmer Joss as their liaison; he's requested a meeting with you."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "With me."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Apparently he's genuinely interested in science.  This could be a chance to win him over."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm going to convert Mr. Science-is- the-root-of-all-evil?  This is absurd, David.  We have work to do here, I don't have time to play babysitter to the God Squad."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Ellie --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43154",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "I want you to listen to me, carefully.  The minute the implications of this message became clear, this stopped being simply a scientific matter and became a political one -- an extremely complex, extremely volatile one. There are forces at work here you don't understand; I can help you up to a point, but only up to a point."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Are you threatening me?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "It's not a threat, Ellie, it's a fact -- if you're not careful, you may find yourself out in the cold very quickly.  Play ball.  Really. It's good advice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43155",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Ms. President, this is communist paranoia right out of War of the Worlds.  There is no reason whatsoever to believe the ETIs intentions are hostile.  We pose no threat to them -- it would be like us going out of our way to destroy microbes on a beach in Africa."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Interesting analogy.  And how guilty would we feel if we happened to destroy some microbes on a beach in Africa?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43156",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "What is it?  What's happened?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "We've cracked it.  Lunacharsky found it."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You mean --"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "You were right, Ellie.  You were right all along."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43157",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "David --"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Ellie."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Do you have a minute -- ?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Actually I'm running late --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It'll just take a moment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43158",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "David... I know we've had our differences... but I've always thought of you as a fair man, even when we've disagreed -- and It's in that light I'm hoping you'll consider my request..."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "I don't understand."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm asking for your help, David.  I want to go.  They'll need someone relatively young, unattached -- and probably a scientist.  As the President's Science Advisor you have enormous weight... I'm asking if you'll support my candidacy."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Ellie... you should know that I'm no longer the President's Science Advisor."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "What?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "As of three o'clock this afternoon. I submitted my resignation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43159",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "You..."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Excuse me, I'm late for a meeting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43160",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "... Two years is still a hell of a long time -- and as far as we can tell there aren't any provisions in the machine design for storing food, water, even air..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "... I can't believe they wouldn't take something as basic as our biological needs into account..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43161",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "They knew our level of development. If, as you say, they've done this many times they'd be well aware of the implications."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Maybe they are.  Maybe this is all part of the package.  The building of the machine has demanded international cooperation on an unprecedented scale.  Maybe requiring us to come together in this way was, in effect, part of the plan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43162",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "You aren't staying?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "This... seemed best."
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Right.  Well."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Good luck, David."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43163",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "DRUMLIN",
+        "text": "Ellie... we both know that if I was any kind of a man, I never would've entered this race.  That I would have told the President straight out:  Helen, Eleanor Arroway is naive and strident and an enormous pain in the ass... but she's got more courage and intelligence than the rest of us put together.  That more then anyone else on the planet, she's earned this.  And that she should be the one to go because she's the best we have.  But that's not who I am.  I like to think it's who I might've been if things had gone a different way; that I might have been worthy, really worthy of what I've been given...  You do what you have to do.  And in the end, as with everything, it comes down to power.  And it isn't fair..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "What would you have me say, David?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "Nothing.  I guess I just wanted to thank you."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Thank you?"
+      },
+      {
+        "speaker": "DRUMLIN",
+        "text": "For giving me a chance, just for a moment, to feel what it must be like to be you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43164",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "What does it say?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It could be anything.  The first volume of some Encyclopedia Galactica..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43165",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Because you cut it from the budget three years running."
+      },
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "How soon will you be able to decode it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43166",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... And while its function remains, for the moment, a mystery, my best guess is that it represents a transport of some kind."
+      },
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "A transport.  So are they coming or are we going?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43167",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "Mr. Rank's organization represents the point of view of tens of millions of families, Dr. Arroway. Feel free to disagree, but there won't be any suppressing of opinions here today."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Yes -- of course -- all I'm saying is, this message was written in the language of science -- mathematics -- and was clearly intended to be received by scientists.  If it had been religious in nature it should have taken the form of a burning bush, or a booming voice from the sky..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43168",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "PRESIDENT LASKER",
+        "text": "What's the status of the decryption effort?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Well --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43169",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Dr. Lunacharsky...?"
+      },
+      {
+        "speaker": "LUNACHARSKY",
+        "text": "Analyzing signal polarization shifts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43170",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "What..."
+      },
+      {
+        "speaker": "LUNACHARSKY",
+        "text": "In ancient times when parchment was in short supply people would write over old writing... it was called a palimpsest."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "A third layer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43171",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "LUNACHARSKY",
+        "text": "There's no way of knowing.  Without a key -- a primer, to help us, maybe never."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Maybe it'll be at the end of the data when the message recycles."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43172",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "What?"
+      },
+      {
+        "speaker": "LUNACHARSKY",
+        "text": "We've repeated.  A few minutes ago the message cycled back to page one."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And?"
+      },
+      {
+        "speaker": "LUNACHARSKY",
+        "text": "No primer."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "How can that be?"
+      },
+      {
+        "speaker": "LUNACHARSKY",
+        "text": "I don't know.  Maybe there is a fourth layer in there somewhere, but if there is, I sure as hell can't find it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43173",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "J39 Z186...?"
+      },
+      {
+        "speaker": "WILLIE",
+        "text": "Been there, done that, got the T-shirt."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "VB10's an M dwarf; Signa Draconis... too old."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43174",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "WILLIE",
+        "text": "Got a bogey, boss?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I'm not sure.  You mind checking right ascension 18 hours, 34 minutes; declination plus 38 degrees 41 minutes?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43175",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "WILLIE",
+        "text": "Hydrogen times pi...  Got it.  Strong sucker."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Put it on speakers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43176",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "WILLIE",
+        "text": "That can't be right; it's only twenty-six light years away."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I scanned it at Arecibo; negative results, always."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43177",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "How's the spying tonight, guys?"
+      },
+      {
+        "speaker": "WILLIE",
+        "text": "NORAD's not tracking any spacecraft in our vector including snoops; shuttle Endeavor's in sleep mode."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43178",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Dr. Cullers?"
+      },
+      {
+        "speaker": "KENT",
+        "text": "Kent, Kent for Chrissakes.  You must be Eleanor."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Ellie.  Pulsar?"
+      },
+      {
+        "speaker": "KENT",
+        "text": "1919+21.  Found a glitch in the timing; probably a starquake."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Nice.  Where?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43179",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KENT",
+        "text": "Here, right around Centaurus A."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "This is how you see the sky?"
+      },
+      {
+        "speaker": "KENT",
+        "text": "It's how I hear it.  The display's just a little something I programmed for astronomers with the misfortune of sight."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's beautiful."
+      },
+      {
+        "speaker": "KENT",
+        "text": "Never seen the optical sky myself, but I hear it's nice too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43180",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KENT",
+        "text": "You've only searched -- what is it, sixteen hundred stars without a peep?  Try not to take it too personally."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Thank you, Mr. Sensitive.  I'm coming at this wrong... missing something... something..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43181",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Okay, let's just slow down.  Pull up the starfield signal origin."
+      },
+      {
+        "speaker": "KENT",
+        "text": "It can't be coming from Vega, the system's too young."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43182",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KENT",
+        "text": "Can't we get rid of them?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's a civilian facility."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43183",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "I think we just hit the cosmic jackpot."
+      },
+      {
+        "speaker": "KENT",
+        "text": "It's incredibly rich.  We've been cataloging it in frames or 'pages'; right now we're on 10,413."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43184",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KITZ",
+        "text": "I'll come right to the point, Doctor.  Your sending this message all over the world may well be a breach of National Security."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "This isn't a person to person call, Mr. Kitz.  I don't really think the civilization sending the message intended it just for Americans."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "I'm saying you might have consulted us; the contents of this message could be extremely sensitive..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You want to classify prime numbers?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43185",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "-- which we'll also need the network's help to receive and decode!"
+      },
+      {
+        "speaker": "KITZ",
+        "text": "You don't seem to understand that it's your interests I'm trying to protect -- !"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43186",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KITZ",
+        "text": "Colonel Jarrod, I'd like a twenty mile radio-silent perimeter put around this installation immediately."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And a hundred mile airspace."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "And a hundred mile airspace."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43187",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Pardon me, but you can't do -- !"
+      },
+      {
+        "speaker": "KITZ",
+        "text": "If at some later date the message proves harmless, we can discuss sharing it with the rest of the world, but until then --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "That's terrific, but there's one problem:  we don't have the means to receive all the data on our own."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43188",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... I don't understand it.  All I can think is that maybe because the video gear wasn't accounted for in the original plans it somehow violated the integrity of the design."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "Is that your official response?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I don't have an official response, Michael.  All I have are the same questions you have."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43189",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "There is no direct evidence, no."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "And current theory holds that to sustain the sort of wormholes you're talking about, even for a fraction of a second, would require more energy than our sun produces in a year, is that correct?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I don't have the figures in front of me, but yes, that sounds about right."
+      },
+      {
+        "speaker": "KITZ",
+        "text": "In fact, by all the laws of physics we know what you claim to have experienced is simply impossible."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "By our standards... yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43190",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KITZ",
+        "text": "Please answer the question, Doctor."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Is it possible.  Yes.  But --"
+      },
+      {
+        "speaker": "KITZ",
+        "text": "Thank you, Doctor.  Now --"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "-- but I don't believe it to be the truth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43191",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "KITZ",
+        "text": "So why don't you admit what by your own standards must be the truth: that this experience simply didn't happen."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Because I can't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43192",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Small moves, Captain, small moves."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I can't move any smaller."
+      },
+      {
+        "speaker": "TED",
+        "text": "Try again between the static and 'Hey Jude'; that's where they're hiding."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43193",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Talk to him."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "But what do I say?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Just be yourself, Captain.  Find out where he is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43194",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Could we hear to China?"
+      },
+      {
+        "speaker": "TED",
+        "text": "On that old shortwave?  Maybe on a clear night.  Come on now, under the covers."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Could we hear to the moon?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Big enough radio, I don't see why not."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Could we hear God?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Mmm, that's a good one.  Maybe his echo...  Okay, no more stalling."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Okay, okay... there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43195",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Pensacola."
+      },
+      {
+        "speaker": "TED",
+        "text": "That's a beauty, Captain.  Now get some sleep."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43196",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Time to sleep now, Captain.  But you can ask more questions in the morning, okay?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43197",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "I used... I used to dream you were alive... and then I'd wake up and lose you all over again."
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm sorry I couldn't be there for you, sweetheart."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Dad... But tell me, how did... I mean how can...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43198",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "You're not real.  None of this is."
+      },
+      {
+        "speaker": "TED",
+        "text": "That's my scientist."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "So.  Are you an hallucination?  Or are little gear trains and circuit boards under your skin?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Am I artifact or dream?  You might ask that about anything."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "But you're so... I mean how could you possibly...?  When I was unconscious.  You... downloaded... my thoughts, my memories, even...  This beach.  I've never been here but I remember... it's how I always imagined...  Pensacola."
+      },
+      {
+        "speaker": "TED",
+        "text": "We thought this might make things a little easier."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43199",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "So who -- what -- are you?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Originally just another species like yourselves.  Well, not like you at all actually, but..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Can you show me?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Small moves, Captain, small moves."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Why did you contact us?"
+      },
+      {
+        "speaker": "TED",
+        "text": "You contacted us.  We were simply listening.  We've been listening for millions of years."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And those other docking ports I saw... I mean... there are others?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Many others."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And they all travel here through this wormhole subway system you built."
+      },
+      {
+        "speaker": "TED",
+        "text": "Oh, we didn't build it.  The transit system has been in place for billions of years; we're just its... caretakers."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "So who...?"
+      },
+      {
+        "speaker": "TED",
+        "text": "We don't know.  Whoever they were, they were gone long before we ever got here."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "The scale... it's just...  So all the civilizations you detect; they all end up coming here?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Not all.  Some choose to stay at home and dream their dreams.  Some never make it this far."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "So we passed some kind of test?"
+      },
+      {
+        "speaker": "TED",
+        "text": "You have your mother's hands...  There are no tests, Ellie.  We don't sit in judgment.  Think of us more as... librarians.  Curators of the Universe's rarest and most valuable creation..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43200",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "... life is unspeakably rare.  So whenever we do find another civilization, especially one that's... struggling... We send a message.  Sometimes we can offer help.  Sometimes we can't.  But we always try.  Life is simply too precious not to."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Can you help us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43201",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Am I one... or many?"
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "The librarian... or the library...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43202",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "... all those voices... you gather them all together.  Millions of intelligences in one consciousness... and now we're a part of it."
+      },
+      {
+        "speaker": "TED",
+        "text": "You always have been.  We're all descendants of the same stars, Ellie.  All made of the same primordial atoms."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "So.  What happens now?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Now... you go home."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "No!  I mean... why so soon?"
+      },
+      {
+        "speaker": "TED",
+        "text": "If we don't engineer a consistent causality it'll work itself out on its own, and that's almost always worse.  Ellie, according to your physics none of this is possible.  A lot of it you're simply not capable of understanding, not yet.  No offense."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "None taken... but ... do we get to come back?  Others of my kind, I mean."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43203",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Eventually you'll get here on your own.  This was just the first step; in time you'll take another."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "But -- other people from our planet should see what I've seen -- they should witness this for themselves."
+      },
+      {
+        "speaker": "TED",
+        "text": "That isn't the way it works."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "But you said you wanted to help -- don't you see what it would mean?"
+      },
+      {
+        "speaker": "TED",
+        "text": "No more stalling, Captain."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Please -- if you... downloaded... everything about us you know the problems we face, the impact it could have -- it could make the difference --"
+      },
+      {
+        "speaker": "TED",
+        "text": "Ellie... this is the way it's been done for billions of years..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43204",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "It's time to go home now."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "No.  Please."
+      },
+      {
+        "speaker": "TED",
+        "text": "Childhood is over, Ellie.  It's time to grow up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43205",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "S.R. Hadden...  You compromised our security codes."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Once upon a time I was a hell of an engineer.  Please, sit, Doctor.  I have guests so rarely, it's important to me they feel welcome in my home.  Did you know this was once Yeltsin's flying dascha?  That dent is where he threw a bottle of vodka at the pilot.  At least that's what the people who sold me the plane said..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43206",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "You live here."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "I find it convenient to keep my interests... mobile.  Anyway, I've had my fill of life on the ground. After spending much of this century pursuing the evils and pleasures the world has to offer -- after outliving three wives and two children...  I find I've had quite enough of planet Earth."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "Why am I here, Mr. Hadden?"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "The infamous, unfashionable bluntness.  You're here so we can do business. I want to make a deal."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "What kind of deal?"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "The powers that be have been quite busy lately, falling over each other to position themselves for the game of the century, if not the millennium.  Perhaps you've noticed.  Perhaps I could help deal you back in."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "I didn't realize I was out."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Oh, maybe not out -- but definitely looking for you coat.  I understand you've had some difficulty locating the -- what are you calling it?  The 'primer' that will make decryption possible...  I've found it."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You've... found it.  What could I possibly have that you would want, Mr. Hadden?"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "I've had a long time to make enemies, Dr. Arroway.  There are many governments, business interests, even religious leaders who would like to see me disappear. And I will grant them their wish soon enough... But before I do, I wish to make a small contribution -- a final gesture of goodwill toward the people of this little planet who've given -- from whom I've taken so much."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "If I knew you any better I'd say that doesn't sound like you."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "That's my girl...  Lights."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43207",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "HADDEN",
+        "text": "Page after page of data -- over sixty-three thousand in all, if I'm not mistaken... and at the end of each..."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "A page-break signal.  A period."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Not if you think like a Vegan."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You're saying... there is no separate primer in the message -- because it's on every page so the recipient can decipher it wherever he is --"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "-- even if he doesn't receive the entire transmission.  Heaven is the mustard seed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43208",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Some kind of circuitry...?"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Very good, Doctor.  I've also detected structural elements, back references, a general movement from the simple to the complex -- all of which would seem to indicate instructions -- an enormously complicated set of instructions -- for building something."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "A machine.  But a machine that does what?"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "That would seem to be the question of the hour.  I want to build it, Doctor.  Of course I'm already lobbying through the usual channels of influence and corruption -- but as I said, my colorful past has made many of those channels... difficult to navigate. I need someone on the inside."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "And in return?"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "In return... you get the primer -- and with it the power to stay in the game.  Do we have a deal?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43209",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "Mr. Hadden, I'm a scientist; I don't make deals... But.  If you wish to give me, in good faith, access to your information, I can assure you that I will exert all reasonable efforts to promote your cause wherever it doesn't conflict with the best interests of science... or my better judgment."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "That's my girl.  Done."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43210",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "HADDEN",
+        "text": "A sunrise and a sunset every forty- five minutes."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "It's so... small."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Poor, tired, spinning girl... How we feasted on her.  And now that we've had our fill and given her a giant dose of the clap... we're pulling out.  That's Paris, where my daughter was born.  Moscow, where gangsters rule the night and I gave up smoking.  So many battles, so many lives... all that sturm, and drang.  As if it never happened.  If it weren't for a few power grids, you wouldn't know we existed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43211",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Japanese squid fleet.  They use lights to attract them to the surface... then turn them into sushi."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_43212",
+    "movie_id": "m304",
+    "turns": [
+      {
+        "speaker": "ELLIE",
+        "text": "It looks like pixie dust...  Kent would've given anything to see this.  David, too."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Yes.  A shame.  Still... it'd be worse if they died for nothing."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "What are you talking about?  It's over."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Oh, not quite yet.  At least for their sake...  ... I hope it's not.  Because they're running out of time."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "You sound like Joseph.  You think the world ends with the millennium?"
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "I think whoever sent the message did it because they're worried about us."
+      },
+      {
+        "speaker": "ELLIE",
+        "text": "The gods sent us the machine because they took pity on us."
+      },
+      {
+        "speaker": "HADDEN",
+        "text": "Wouldn't you if you saw Hitler on TV?  Come; I want to show you something."
+      }
+    ]
+  }
+]

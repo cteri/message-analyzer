@@ -1,0 +1,1874 @@
+[
+  {
+    "conversation_id": "conv_201",
+    "movie_id": "m0",
+    "turns": [
+      {
+        "speaker": "WALTER",
+        "text": "What just happened?"
+      },
+      {
+        "speaker": "SHARON",
+        "text": "Your daughters went to the prom."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "Did I have anything to say about it?"
+      },
+      {
+        "speaker": "SHARON",
+        "text": "Absolutely not."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "That ' s what I thought"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_202",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ALONSO",
+        "text": "I never seen heat like this!  Not even in Las Minas!"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "The water's going putrid in the barrels."
+      },
+      {
+        "speaker": "ALONSO",
+        "text": "You'll be drinking your own piss... For the glory of Spain... and Admiral Colon...!  Bastard!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_203",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ALONSO",
+        "text": "What are you listening to, chicken ass?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Ah, leave him alone.  He's doing no harm."
+      },
+      {
+        "speaker": "ALONSO",
+        "text": "With a face like that?  I don't want you looking at me.  You hear?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_204",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ALONSO",
+        "text": "He's the devil's child..."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "We'll all go crazy..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_205",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ALONSO",
+        "text": "We should have seen land."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "We left three weeks ago, Alonso. Can't be that near."
+      },
+      {
+        "speaker": "ALONSO",
+        "text": "Can't be that far, I say.  Also, I don't like the smell of the sea around here.  Smells like a cunt. Bad sign..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_206",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "AROJAZ",
+        "text": "You say Asia can be found by sailing west?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Yes, your Eminence.  The voyage should not take more than six or seven weeks."
+      },
+      {
+        "speaker": "AROJAZ",
+        "text": "Unfortunately, Don Colon, that is precisely where our opinions differ...  Are you familiar with the work of Aristotle?  Erathostene?  Ptolemeus?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I am, Your Eminence"
+      },
+      {
+        "speaker": "AROJAZ",
+        "text": "Then you cannot ignore that according to their calculations, the circumference of the Earth is approximately...  22,000 leagues or more.  Which makes the ocean... uncrossable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_207",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "AROJAZ",
+        "text": "Senor Colon, an experienced captain such as yourself will understand our concern with the crew.  I am not willing to have on my conscience the loss of men who would have relied upon our judgment."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Excellency, you are right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_208",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Your Eminence, there is only one way to settle the matter.  And that is to make the journey.  I am ready to risk my life to prove it possible."
+      },
+      {
+        "speaker": "AROJAZ",
+        "text": "Your life, and that of others!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "If they agree to follow me, yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_209",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Trade, Your Excellency.  According to Marco Polo, the Kingdom of China is one of the richest of the world. Even the meanest buildings are roofed with gold."
+      },
+      {
+        "speaker": "AROJAZ",
+        "text": "Is that all that interests you? Gold?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "No.  The Portuguese have already discovered black-skinned people.  I, too, will find other populations -- and bring them to the word of God."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_210",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "AROJAZ",
+        "text": "If God intended our proximity to Asia, do you believe he would have waited for you to show it to the world?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Did He not choose a carpenter's son to reveal Himself to the world?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_211",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "AROJAZ",
+        "text": "Don't you realize your words could be considered heretical?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Blind faith is what I consider heresy!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_212",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Asia can be found to the west -- and I will prove it."
+      },
+      {
+        "speaker": "AROJAZ",
+        "text": "IF-GOD-WILLS-IT!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_213",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "The State has some reason to be interested in this man's proposition, Your Eminence..."
+      },
+      {
+        "speaker": "AROJAZ",
+        "text": "The Judgment is ours!"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Naturally.  But I would really deplore the loss of such a potential opportunity for Spain for a... dispute over a point of geography."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_214",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "AROJAZ",
+        "text": "He is a mercenary!  Did he not already try to convince the King of Portugal of his absurd notions?"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Indeed.  The world is full of mercenaries -- and states often make use of them, when it benefits them.  My only concern is the welfare and prosperity of Spain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_215",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "AROJAZ",
+        "text": "It won't be easy to get rid of your prophet now, Don Sanchez."
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "On the contrary, Your Eminence.  It seems to me the man is preparing his own cross."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_216",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "You can see for yourself."
+      },
+      {
+        "speaker": "AROJAZ",
+        "text": "What a tragedy... what a waste of a life..."
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "A waste...?  Let me tell you something, Arojaz.  If your name, or mine, is ever remembered -- it will only be because of his."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_217",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "I could be gone for years."
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "I know."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I haven't given you much of a life."
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "Well... that's true.  I have a child by a man who won't marry me!  Who's always leaving..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Are we going to argue?"
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "I'd love to argue with you sometimes.  But you're never here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_218",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Perhaps I was never meant to live with a woman..."
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "I find that hard to believe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_219",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "She said yes."
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "Thank God..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_220",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "BEATRIX",
+        "text": "I'm not asking you to swear to anything."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I don't want you to wait for me."
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "That's something you can't decide."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_221",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Beatrix, I want to ask you something."
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "You don't usually ask."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I can arrange for the Queen to take Fernando and Diego into her service."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_222",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "God... you're so beautiful!  I can't believe no other man has ever taken you away from me..."
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "They tried... but I didn't let them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_223",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "BEATRIX",
+        "text": "They took everything..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Not everything... Do you think I care?  I'm a free man again.  Riches don't make a man rich, they only make him busier..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_224",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Can't you stay with us a little?"
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "I am busy inside."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_225",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "BEATRIX",
+        "text": "What is it, now?  Tell me..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I can't keep my eyes off you.  I would like to catch up with all the moments I didn't spend with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_226",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "BOBADILLA",
+        "text": "I understand that you will soon be appointing Governors for the islands?  Is it not so?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Forgive me, Don Bobadilla -- those positions have already been taken."
+      },
+      {
+        "speaker": "BOBADILLA",
+        "text": "May I ask by whom?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Bartolome and Giacomo Colon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_227",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "BOBADILLA",
+        "text": "Don Alonso de Bobadilla."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Yes... I remember..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_228",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "BOBADILLA",
+        "text": "My letters of appointment."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Appointment to what?"
+      },
+      {
+        "speaker": "BOBADILLA",
+        "text": "Viceroy of the West Indies."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Congratulations.  Then I am free to search for the mainland."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_229",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "How far from here?"
+      },
+      {
+        "speaker": "BOBADILLA",
+        "text": "I am not a seaman.  But I heard it is no more than a week at sea.  I hope you are not too disappointed."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "How could I be?  The mainland has been found.  Exactly as I said it would."
+      },
+      {
+        "speaker": "BOBADILLA",
+        "text": "I am afraid this is not the worst news."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_230",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "FERNANDO",
+        "text": "I want to go with you!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "There'll be a time."
+      },
+      {
+        "speaker": "FERNANDO",
+        "text": "You promise?  Do you swear on St. Christopher...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_231",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "FERNANDO",
+        "text": "Do you swear on all the Holy Saints in heaven?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Yes... Yes, I do... On all of them!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_232",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "I have to explore the mainland."
+      },
+      {
+        "speaker": "FERNANDO",
+        "text": "This time with me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_233",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "How are you feeling, Fernando?"
+      },
+      {
+        "speaker": "FERNANDO",
+        "text": "Not bad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_234",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "FERNANDO",
+        "text": "Father..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "There must be a passage to that other ocean."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_235",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "What are you listening to?"
+      },
+      {
+        "speaker": "FERNANDO",
+        "text": "I am not listening, Father.  But I can't help hearing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_236",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "What does he say?"
+      },
+      {
+        "speaker": "FERNANDO",
+        "text": "He asks when he can come to visit you.  He left his address."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "He never had one... except aboard my ships!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_237",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "FERNANDO",
+        "text": "I want you to tell me everything you remember, Father.  From the beginning.  Everything."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Really?  God... I wouldn't know where to start... and yet..."
+      },
+      {
+        "speaker": "FERNANDO",
+        "text": "Tell me the first thing that comes to your mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_238",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "No..."
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "No?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "NO...!  I have waited too long, fought too hard.  Now you expect me to take all the risks while you take the profit!  No... I will not be your servant!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_239",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "I remind you, Senor Colon, that you are in no position to bargain with me."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I'm not bargaining!"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Then you are too ambitious."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_240",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "And were you never ambitious, Excellency?  Or is ambition only a virtue among the nobles, a fault for the rest of us?"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "If you won't accept our proposal, we'll simply find someone who will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_241",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "They don't see sin in their nakedness.  They live according to nature, in a never ending summer. The islands are covered with trees, filled with blossoms and fruits. And..."
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Forgive me, Don Colon.  But what about gold?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_242",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "You defend yourself admirably..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "... for a commoner?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_243",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "But we do have a lack of notaries. You should contact my administration."
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Don Bobadilla is already a judge, my Dear Don Cristobal."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Good!  We are also in need of judges.  Except there are no thieves!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_244",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "You seem to have a special talent for making friends."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "What...?  Do I have so many already?"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "To rise so high, in so short a time, is a dangerous occupation.  A little hypocrisy goes a long way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_245",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "All I have to do is call the guards."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Call them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_246",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "I am not afraid of you.  You are nothing but a dreamer."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Look out of that window."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_247",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "What do you see?"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Roofs... towers, palaces... spires..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "All of them created by people like me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_248",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "UTAPAN",
+        "text": "Say not here!  Cuba!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "What is it?  A tribe?  An island?"
+      },
+      {
+        "speaker": "UTAPAN",
+        "text": "Island.  Far."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_249",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "UTAPAN",
+        "text": "You come!  You speak first!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Tell the Chief we thank him."
+      },
+      {
+        "speaker": "UTAPAN",
+        "text": "Chief knows."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Tell him his country is very beautiful.  Tell him we are leaving men here -- to build a fort."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_250",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "UTAPAN",
+        "text": "Chief says -- how many?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Thousands."
+      },
+      {
+        "speaker": "UTAPAN",
+        "text": "Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_251",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "To bring the word of God."
+      },
+      {
+        "speaker": "UTAPAN",
+        "text": "Chief says -- he has a God."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "... and also to bring medicine."
+      },
+      {
+        "speaker": "UTAPAN",
+        "text": "Chief says..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "He has medicine.  Tell him we admire his people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_252",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "We will work with his people.  We want peace.  Ask the Chief if he understands?"
+      },
+      {
+        "speaker": "UTAPAN",
+        "text": "He understands."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Ask him if he will help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_253",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "You have to find them, Utapan.  Look what they did!"
+      },
+      {
+        "speaker": "UTAPAN",
+        "text": "You did the same to your God!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_254",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Utapan, won't you speak to me?  You used to know how to speak to me."
+      },
+      {
+        "speaker": "UTAPAN",
+        "text": "You never learned how to speak my language."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_255",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "Diego is a bright boy -- a pleasure to teach -- but so serious... Brothers should be raised together, Colon.  Even brothers from different mothers..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Father, I am doing what I think is the best for him.  And he has the teacher I would have chosen for myself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_256",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "God... That's in a week!"
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "That's what it says."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "How did you manage it?"
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "With some difficulty.  I had to promise them you were not a total fool."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_257",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "Why do you wish to sail west?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "To open a new route to Asia.  At the moment there are only two ways of reaching it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_258",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "How can you be so certain?  The Ocean is said to be infinite."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Ignorance!  I believe the Indies are no more than 750 leagues west of the Canary Islands."
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "How can you be so certain?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "The calculations of Toscanelli Marin de Tyr, Esdras..."
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "Esdras is a Jew."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "So was Christ!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_259",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "Two minutes... and already you're a dead man.  Don't let passion overwhelm you, Colon."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I'll try to remember that, Marchena..."
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "Father Marchena!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Passion is something one cannot control!"
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "You get so carried away when you are being contradicted!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I've been contradicted all my life... Eternity!"
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "Only God knows the meaning of such words, my son."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_260",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "You mustn't give way to despair. You must wait."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Wait!  I've waited seven years already!  How much longer do you want me to wait?"
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "If God intends you to go, then you will go."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Damn God!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_261",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "Colon!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Damn all of you!  You all set up theories based on what?  You never leave the safety of your studies! Go out!  Find out what the world is about and then tell me something I can listen to!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_262",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "All of them!  Just lies!"
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "Colon!  Don't!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_263",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "In Nomine Patris et Filius, et Spiritus Sancti."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Forgive me, Father.  For I have sinned."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_264",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "I am listening, my son."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Father, I have betrayed my family. I betrayed my men.  And I betrayed you."
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "What are you saying?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I lied.  The journey will be longer than I said."
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "How long?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I am not sure... It could be twice the distance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_265",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "May God forgive you...!  You must tell them!  You must tell your men!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "If I tell them, they won't follow me.  You know that I am right, Father.  You trust me..."
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "My son, my son...  Your certitudes are sometimes frightening...  Christopher, you must speak to them. And if you don't I will."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "You are bound by an oath, Father."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_266",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "I believed in you..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Give me absolution."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_267",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MARCHENA",
+        "text": "I suppose we're both old men now."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "You'll always be older than me, Father."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_268",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "I have to disagree."
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "I knew you would."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "New worlds create new people."
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "Oh?  So you are a new man?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I don't know... I have the impression that I didn't change that much.  I still can't accept the world as it is!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_269",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "I should not even be listening to you, since my council said no.  But Santangel tells me you are a man of honor and sincerity... And Sanchez, that you are not a fool."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "No more than the woman who said she would take Granada from the Moors."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_270",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "The ocean is uncrossable?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "What did they say about Granada before today?"
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "That she was impregnable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_271",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "I cannot ignore the verdict of my council."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Surely you can do anything you want."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_272",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "May I speak freely?"
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "You show no inclination to speak otherwise!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "I know what I see.  I see someone who doesn't accept the world as it is.  Who's not afraid.  I see a women who thinks... \"What if?\"..."
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "A woman?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_273",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "How old are you, Senor Colon?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Thirty seven, Your Majesty... And you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_274",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "Do they have such thoughts?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "They come and go as naked as the day God created them..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_275",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "But without your brothers.  Nor are you to return to Santo Domingo or any of the other colonies.  You may explore the continent."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "There is one thing I'd like to understand... Why do you want to go back, after all this?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Your Majesty -- some men are content to read about things.  I must see them with my own eyes.  I cannot be other than I am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_276",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MOXICA",
+        "text": "And you say this is an Indian vice? By God!  I don't see any kind of pleasure that would make this a sin."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "The Indians have no such word, Don Moxica."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_277",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MOXICA",
+        "text": "We lost cousins, friends.  We will wash this in blood."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "If you want to keep your head on your shoulders, you'll do as I say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_278",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "You want a war?  Fine.  We are a thousand.  They outnumber us by ten! Who will you kill?  Which tribe?"
+      },
+      {
+        "speaker": "MOXICA",
+        "text": "We don't need to know."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "We came here to stay!  To build! Not to start a crusade.  In this forest, there is enough danger to sweep us away in days!  So we will be brave and swallow our grief.  And in the name of those who died, we will accomplish what we came for."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_279",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "We can't raise the wheel without it."
+      },
+      {
+        "speaker": "MOXICA",
+        "text": "My horse doesn't work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_280",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Don Moxica -- we all have to work."
+      },
+      {
+        "speaker": "MOXICA",
+        "text": "You did not hear me, Don Colon.  Not my horse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_281",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "In one act of brutality, you have created chaos.  Tribes who were fighting each other are now joining forces against us!  All that because of your criminal savagery!"
+      },
+      {
+        "speaker": "MOXICA",
+        "text": "Savagery is what monkeys understand."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "You'll be held in detention, deprived of your privileges and possessions.  Until you are returned to Spain where you will be judged. Have you anything to say?"
+      },
+      {
+        "speaker": "MOXICA",
+        "text": "You will regret this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_282",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Due west, Captain Mendez.  And may God be with us..."
+      },
+      {
+        "speaker": "MENDEZ",
+        "text": "God be with us admiral."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_283",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MENDEZ",
+        "text": "Well... It's the men, Sir.  They wonder how you know our position. We've lost sight from land days ago..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "And what do you think Mendez?"
+      },
+      {
+        "speaker": "MENDEZ",
+        "text": "Well, I surely know what a quadrant is!  But I've never seen it used at night before."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Come over here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_284",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "What do you read?"
+      },
+      {
+        "speaker": "MENDEZ",
+        "text": "Twenty eight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_285",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "MENDEZ",
+        "text": "What's he doing?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "He's drawing an isthmus... He's saying we're on an isthmus."
+      },
+      {
+        "speaker": "MENDEZ",
+        "text": "We can't be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_286",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Where can I meet this man?"
+      },
+      {
+        "speaker": "PINZON",
+        "text": "Immediately."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_287",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "PINZON",
+        "text": "You lied!  You cheated!  We're way past 750 leagues!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Six days ago, yes."
+      },
+      {
+        "speaker": "PINZON",
+        "text": "You must be mad...!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "We have to keep the hopes of these men alive!"
+      },
+      {
+        "speaker": "PINZON",
+        "text": "We're on the verge of a mutiny, Colon!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "You think I don't know that?"
+      },
+      {
+        "speaker": "PINZON",
+        "text": "We're lost!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "The land is there.  I know it!"
+      },
+      {
+        "speaker": "PINZON",
+        "text": "You don't know anything!  Listen Colon, these are my ships, right? So I'm telling you we're turning back!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "And then what?  Half of the water has gone, the rest is nearly putrid! You know that!"
+      },
+      {
+        "speaker": "PINZON",
+        "text": "Jesus Maria!  I should have never listened to you!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "You never did.  You did all the talking for both of us, remember?"
+      },
+      {
+        "speaker": "PINZON",
+        "text": "You bloody..."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Pinzon, Pinzon... All we can do now is go forward!  Think about that!"
+      },
+      {
+        "speaker": "PINZON",
+        "text": "You tell that to them!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "You're right.  Let the men decide."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_288",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "Is that the man I knew, Treasurer Sanchez?"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Yes, Your Majesty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_289",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "You were right, Don Sanchez... His demands could never be granted."
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Never, Your Majesty.  Although..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_290",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "... Into a monk..."
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "Yes.  It would be a pity, wouldn't it?  Call him back!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_291",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "Every ship returns with a cargo of sick and dying.  But with no gold! The new world proves expensive, Your Majesty."
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "We weren't expecting immediate profits, were we?  We must have faith.  We must give time for time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_292",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "... But there is worse.  He ordered the execution of five members of the nobility..."
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "Is this true, Brother Buyl?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_293",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "Then, what do you suggest, Don Sanchez?"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "He must be replaced."
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "And who would you think of, for such a task?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_294",
+    "movie_id": "m1",
+    "turns": [
+      {
+        "speaker": "ISABEL",
+        "text": "I know, I should not tolerate his impertinence."
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Then why?"
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "Because he is not afraid of me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_295",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Are you my attorney?  I'm Emil.  I'm insane."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "I'm not your lawyer until I see the money."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Here.  I have your money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_296",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "EMIL",
+        "text": "Oh no!  No!  Shit!"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Emil.  Take it easy.  Stay with me.  Sit down.  What do you need?  What are you looking for?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "He has the camera!  He took the movie!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_297",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "CUTLER",
+        "text": "Don't say anything."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Where are we going?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "I'm coming with you."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yes.  Yes, come with me!"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "I'm invoking rights - this man is represented by counsel.  I'm coming with him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_298",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "CUTLER",
+        "text": "I brought you some letters.  It's really fan mail.  Women mostly.  One wants to buy you clothes, another sent a check. Another wants a check."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "You bring the cigarettes?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Oh, sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_299",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "CUTLER",
+        "text": "...delusions and paranoia."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "I was all of these."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Well, you didn't appreciate the severity of it until recently.  No question about that."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "What about Oleg?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Disappeared.  They're looking everywhere.  Maybe he went back to Czechoslovakia."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "No, he is here.  Shit..."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Don't worry about him.  Think about yourself."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "What about my movie rights?  Book rights?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Look, I haven't really focused on that kind of thing."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "What's your cut?  How much?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "I would say...half.  Half is fair."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "No.  No way."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "But it's..."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Thirty-percent.  No more.  Or I call another lawyer.  This is the biggest case of your life.  Don't try to negotiate.  Thirty percent.  Say yes or no."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "This is not about money, Emil.  I need your trust in me."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "What else do you need?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "I need to know about your background.  I need to know about your upbringing.  Why you're here."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Give me another one, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_300",
+    "movie_id": "m2",
+    "turns": [
+      {
+        "speaker": "CUTLER",
+        "text": "Tell me about yourself.  What you did as a young boy... what your parents were like."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "My father always degraded me.  Killed my self-esteem.  And my mother was blind."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Your mother was blind?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yeah, she went blind giving birth to me. She went to fucking black market doctor to induce me."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Back in the Czech Republic?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yeah, yeah...bad doctor gave her bad drugs which made her go blind.  And my father blamed me for her blindness..."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Your father blamed you for your mother's blindness?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yeah, he hated me from day when I was born.  Put it out.  Can you put the cigarette out?"
+      }
+    ]
+  }
+]
