@@ -1,0 +1,1942 @@
+[
+  {
+    "conversation_id": "conv_28001",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Sir, we're being hailed."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "On screen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28002",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Coordinate our attack with the Valdore's tactical officer. Triangulate fire on any shield impacts."
+      },
+      {
+        "speaker": "WORF",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28003",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Captain, the Hemingway has arrived to tow us to spacedock."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "On my way. Please notify Commander Riker."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28004",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "What's this?"
+      },
+      {
+        "speaker": "WORF",
+        "text": "Your new chair, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28005",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Diverting to the Kolarin system takes us awfully close to the Romulan Neutral Zone."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Still well on our side..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28006",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "I think it's worth a look. Don't worry, Number One, we'll get you to Betazed with time to spare."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Thank you, sir..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Where we will all honor the Betazoid traditions. No cold feet, or any other parts of our anatomy. Now, if youll excuse me.  Ill be in the gym."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28007",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Captain, I hope I don't have to remind you --"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I appreciate your concern, Number One, but I've been itching to try out the Argo."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Sir --"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Captain's prerogative, Will. There's no foreseeable danger... and your wife would never forgive me if anything happened to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28008",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Captain, you have an Alpha Priority communication from Starfleet Command."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Acknowledged ...  ...I'll talk to Data."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28009",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "We have to assume he had Romulan collaborators."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "A coup d'etat?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "The Praetor's power has always been the Romulan fleet. They must be behind him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28010",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Why don't they answer our hails?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "It's an old psychological strategy, Number One. To put him in a position of dominance and make us uneasy."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "It's working."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Counselor?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28011",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Captain, with all due respect to diplomatic protocols  -- the Federation Council's not sitting out here, we are."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Patience. Diplomacy is a very exacting occupation. We can wait."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28012",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "She's not out for a pleasure cruise."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "She's a predator."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28013",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Not very chatty."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Away team. Transporter room four."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28014",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "He wasn't designed to live a complete, human life span."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Can anything be done for him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28015",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "His hatred of the Federation is apparent. He would have built a weapon of that scope for one reason. He is going after Earth."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Oh boy. Destroy humanity and the Federation is crippled."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "And the Romulans invade."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28016",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Strength in numbers?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We can only hope so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28017",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Report."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "He's firing through his cloak. We can't get a lock."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28018",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Counselor Troi, report to the bridge."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Unless we can disable his cloak we're just going to be firing in the dark."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Agreed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28019",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "The Titan's a fine ship, will. And she's getting a captain worthy of her."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "She's the most beautiful ship Ive ever seen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28020",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "But she's not the Enterprise."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I promise you in time, she'll become your home ...If I could offer you one piece of advice?"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Anything."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "When your first officer insists that you can't go on away missions... Ignore him."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "I intend to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28021",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Serving with you has been an honor."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "The honor was mine. Captain Riker."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28022",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "I hope you'll forgive the darkness... we're not comfortable in the light."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Praetor Shinzon?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28023",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "And you're not as we imagined you."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "No?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28024",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Praetor?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I've never met a human woman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28025",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "I am, Commander Riker...  May I touch your hair?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Praetor, we've come to Romulus on a matter we were -- assured was of great importance. If you have anything to say to us as representatives of the Federation, I suggest you do so now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28026",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "On the world I come from there's no light. No sun. Beauty isn't important. I see now there's a world elsewhere."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Praetor Shinzon. Were not here to discuss your lack of a social life."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Yes, I'm sorry, Captain.  There's so much we have to talk about."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I would be interested to know what we are talking about."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Unity, Captain! Tearing down the walls between us to recognize we are one people. Federation and Romulan. Human and Vulcan and Klingon and Reman. I'm speaking of the thing that makes us the same. We want peace."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28027",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "I want to end the centuries of mistrust. I want to be your ally, not your enemy. As a first step I propose we eliminate the Neutral Zone and begin a free and open exchange of goods and ideas."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "And the Senate supports you?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I have dissolved the Senate."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28028",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Right now, youre thinking this all sounds too good to be true?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "And you're wondering why the Scimitar is so well armed. Is this the ship of a peacemaker? Or a predator?."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28029",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "But you're also thinking the chance for peace is too promising to ignore. Above allyou're trying to decide if you can trust me."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Then perhaps the time has come to add some illumination to our discussion. Computer, raise lighting four levels."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28030",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "No one knew what to do. Finally I was taken to a doctor who had some experience with Terran illnesses and I was finally diagnosed with Shalaft's syndrome. Do you know of it, Captain?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "You know I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28031",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "We need to talk, just you and I."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Come to dinner on Romulus tomorrow. Just the two of us. Or just the one of us."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "You know I need to verify this."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28032",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "And when I was ready they were going to replace you with me, an exact biological duplicate. Put a Romulan agent at the heart of Starfleet to.influence your command structure. It was a bold plan."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "As happens so frequently here on Romulus, a new government came to power. They decided to abandon the plan -- frankly, I think they were afraid I'd be discovered and it would lead to war. They weren't ready for that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28033",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Romulan ale -- I'm surprised. I can't stand it."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "You'll acquire a taste for it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28034",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "It's not quite the face you remember."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Not quite. I envy the hair- line."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "A lifetime of violence will do that. My nose was broken four times. And my jaw... But so much is the same. The eyes, you recognize the eyes."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes. The eyes have it."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Our eyes reflect our lives, don't they? Yours are so confident."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "How did you end up on Remus?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "They sent me there to die. How could a mere human survive the dilithium mines? It was...  I was a slave. And a monster. The only thing the Romulan guards hated more than the Remans was me. But one man took pity on me: the man who became my Viceroy. He taught me how to survive. And in that dark place, where there was nothing of myself, I found my Reman brothers. They showed me the only kindness I ever knew."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28035",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "For thousands of years the Romulan Senate has met in this chamber and dictated the fate of its sister-planet... But the time has come for us to live as equals."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "You're doing this to liberate the Remans?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "No race should be a slave to another."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28036",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "You don't trust me."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I have no reason to."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Of course you do. If you had lived my life and experienced the suffering of my people... youd be sitting where I am now. At least I hope you would."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "And if you had lived my life you would understand that there is a great respons- ibility in representing the Federation. I can't let my personal feelings unduly influence my decisions."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "All I have is my personal feelings.  I wasn't raised with the ideals of the Federation. But I'm trying to understand them now. To live up to them. To live up to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28037",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "I want to know  where I come from. The Remans gave me a future. You can tell me about my past."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "There's so much, and so much of it is dull..."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Were we always explorers?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "No. I was the first Picard to leave Earth.  It caused quite a stir, In fact. But I had spent my whole life..."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Looking up at the stars."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "And you dreamed about what was up there. About..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "New worlds."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28038",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "After you, Praetor."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Age before rank, Jean Luc."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28039",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "So I'm not as tall as you expected?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I always hoped I would hit two meters."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "With a full head of hair."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "There is that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28040",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "Shinzon... I'm trying to believe you."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I know."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "If there's one ideal the Federation holds most dear it's that all men, all races, can be united. From the first time the Vulcans came to Earth we've sought a future of peace. Nothing would make me more proud than to take your hand in friend- ship. In time. When trust has been earned."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I'm honored to think I might someday speak with such eloquence."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28041",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "In time, Jean Luc."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "In time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28042",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Hello, Jean Luc."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Why am I here?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I was lonely..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28043",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I need a sample of your blood. What do your Borg friends say? Resistance is futile."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28044",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "All of this so you could capture me?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Don't be so vain. After we found it, we made a few modifications. An extra memory port, a hidden transponder. Perhaps your eyes will be a bit less confident when you learn I've gained access to Starfleet's communications protocols. I now know the location of your entire fleet ...  You may go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28045",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Maybe I'll train it to do little tricks for me like your robot does.  Or maybe Ill snap its ugly head off."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "What's this all about?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "It's about destiny, Picard. About a Reman outcast who..."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "You're not Reman."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "And I'm not quite human. So what am I? What do you see?  Do you see a life you might have led? Lost youth never to be recaptured?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I see a young man trying desperately to deny who he is."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I see an old man, set in his ways, afraid to live without a uniform to prop him up and a Starfleet regulation to tell him what to do. I see the man I will never be."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I won't defend my life to you."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "My life is meaningless as long as you're alive. What am I while you exist? A shadow? An enigma?"
+      },
+      {
+        "speaker": "PICARD",
+        "text": "If your issues are with me... This has nothing to do with my ship and nothing to do with the Federation."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Oh, but it does.  We will no longer bow like slaves before anyone. Not the Romulans and not your mighty Federation. We're a race bred for war. For conquest."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Think about what you're doing, Shinzon. Are you ready to plunge the entire quadrant into war to satisfy your own personal demons?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "It amazes me how little you know yourself."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I'm incapable of such an act, and so are you."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I think the facts speak for themselves. The same noble Picard blood runs in our veins. Had you lived my life, you'd be doing exactly as I am. Look in the mirror, and see yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28046",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "You can't trace my holographic emitters, Captainn. So don't bother. And you can't contact Starfleet. We're quite alone."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "We are."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "It's just the two of us now, Jean Luc, as it should be... Your ship and mine... You and me."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Why are you here?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "To accept your surrender. I can clearly destroy you at any time. Lower your shields and allow me to transport you to my ship."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "And what of the Enterprise?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I have little interest in your quaint vessel, Captain. If the Enterprise will withdraw to a distance of one hundred light years, it will not be harmed."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "You know that's not possible."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I know... you'll all gladly die to save your home world."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Look at me, Shinzon! Do you feel the blood pumping inside you? Your hands, your eyes, your nature, are the same as mine. Buried deep inside you beneath the years of pain and anger is a capacity you've forgotten. It's the one way our mirror can reflect the two of us exactly because it's the very thing that truly defines us. To be human is to try to make yourself better than you are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28047",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "I know you as well as I know myself, Shinzon. There was a time you looked at the stars and dreamed of what might be."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Long ago."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Not so long."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Childish dreams, Captain. Lost in the dilithium mines of Remus. I'm what you see now."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I see more than what you are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28048",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "The man who is Jean Luc Picard and Shinzon of Remus won't exterminate the population of an entire planet! He is better than that!"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "He is what his life has made him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28049",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Yes."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "So if I gave you my life, what would you do with it? Would you spend the years in a blaze of hatred as you are now? Or could you change? Could you try to remember a mother's touch you never felt? A father's words you never heard? Could you do that?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "But you want to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28050",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "That's your life... not mine."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "Please."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Its too late."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "You can still make a choice! Make the right one now!"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I have no choices! I can't fight what I am!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28051",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "I hope you're still alive, Jean Luc."
+      },
+      {
+        "speaker": "PICARD",
+        "text": "I am."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Don't you think it's time to surrender? I'll have my cloak back in a matter of minutes and your poor ship is shot to pieces. Why should the rest of your crew have to die?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28052",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "REMAN OFFICER",
+        "text": "Praetor, we've received the transponder signal."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "On my way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28053",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Report!"
+      },
+      {
+        "speaker": "REMAN OFFICER",
+        "text": "Two ships decloaking, sir! Romulan!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28054",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Target disruptors. Destroy them."
+      },
+      {
+        "speaker": "REMAN OFFICER",
+        "text": "Disruptors are off-line, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28055",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Deploy the weapon. Kill everything on that ship. Then set a course for Earth."
+      },
+      {
+        "speaker": "REMAN OFFICER",
+        "text": "What about Picard?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Our greater goal is more important, brother."
+      },
+      {
+        "speaker": "REMAN OFFICER",
+        "text": "But, Praetor, you won't survive without him..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28056",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Well, that sounds relaxing too."
+      },
+      {
+        "speaker": "WORF",
+        "text": "It is... invigorating."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28057",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "So theyve got him up and running."
+      },
+      {
+        "speaker": "WORF",
+        "text": "He's a very unusual android."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Runs in the family."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28058",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "My God..."
+      },
+      {
+        "speaker": "WORF",
+        "text": "Should I raise shields?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28059",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Minimal damage to the Scimitar."
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Defensive pattern Kirk Epsilon. Geordi, get those shields online."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28060",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "RIKER",
+        "text": "Believe it or not, I think the cavalry has arrived."
+      },
+      {
+        "speaker": "WORF",
+        "text": "We're being hailed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28061",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "WORF",
+        "text": "Intruder alert!"
+      },
+      {
+        "speaker": "RIKER",
+        "text": "Let's go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28062",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Are we prepared?"
+      },
+      {
+        "speaker": "VICEROY",
+        "text": "Yes, Praetor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28063",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "VICEROY",
+        "text": "This is a mistake."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "He's gentler than I thought. And he has a sense of humor."
+      },
+      {
+        "speaker": "VICEROY",
+        "text": "Don't forget our mission, Shinzon. We should act. Now. Time is running out."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "My time. I'll spend it how I choose."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28064",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "VICEROY",
+        "text": "The bond is broken."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Find her again."
+      },
+      {
+        "speaker": "VICEROY",
+        "text": "No -- this is wasting time."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Do as I tell you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28065",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "VICEROY",
+        "text": "It's accelerating. You have no more time for games."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Have the doctors prepare. I'll be on the bridge.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28066",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "How long?"
+      },
+      {
+        "speaker": "VICEROY",
+        "text": "A matter of hours now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28067",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "How long until we reach the Rift?"
+      },
+      {
+        "speaker": "VICEROY",
+        "text": "Seven minutes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28068",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Let her pursue -- drop cloak on the aft port quadrant and prepare for full emergency stop."
+      },
+      {
+        "speaker": "VICEROY",
+        "text": "What?!"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "You heard me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28069",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "VICEROY",
+        "text": "Praetor..."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "FULL STOP AND FIRE !"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28070",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "What is it?!! Focus on your job!!"
+      },
+      {
+        "speaker": "VICEROY",
+        "text": "She is here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28071",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Join us, Commanders.  Now what's the disposition of the fleet?"
+      },
+      {
+        "speaker": "SURAN",
+        "text": "They're holding position."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "And?"
+      },
+      {
+        "speaker": "SURAN",
+        "text": "They will obey, Praetor."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "It's imperative we retain their allegiance or our great mission will be strangled before it can truly draw breath."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28072",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SURAN",
+        "text": "How many Warbirds will you need?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "None."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28073",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SURAN",
+        "text": "Praetor. You have the whole fleet at your disposal. They supported the coup, they'll follow you."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "The Scimitar will serve my needs."
+      },
+      {
+        "speaker": "SURAN",
+        "text": "But surely..."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I came this far alone ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28074",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SURAN",
+        "text": "Then I don't understand the reason for the delay!"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "You don't have to understand."
+      },
+      {
+        "speaker": "SURAN",
+        "text": "And bringing the Enterprise here?! What possible purpose could that serve?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I have a purpose."
+      },
+      {
+        "speaker": "SURAN",
+        "text": "Then perhaps you will enlight- en us?"
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Silence, Romulan!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28075",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "You must learn patience, Commander. Do you know where I learned it? In the dilithium mines of Remus. Spend eighteen hours every day under the ash of a Romulan guards whip and you'll soon understand patience."
+      },
+      {
+        "speaker": "SURAN",
+        "text": "Praetor."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "Now go. I have some personal business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28076",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "The Enterprise is immaterial! They won't make it back to Federation space."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "I thought we discussed patience, Commander."
+      },
+      {
+        "speaker": "SURAN",
+        "text": "And mine is wearing thin, young man! We supported you because you promised action. And yet you delay and you waste your time playing games with Picard while--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28077",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "SHINZON",
+        "text": "Commander Suran, the games are over. In two days the Federation will be crippled beyond repair. Does that satisfy you?"
+      },
+      {
+        "speaker": "SURAN",
+        "text": "For the moment."
+      },
+      {
+        "speaker": "SHINZON",
+        "text": "And when I return... you and I shall have a little talk about showing proper respect!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28078",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "OFFICER",
+        "text": "Benny, God, take it easy..."
+      },
+      {
+        "speaker": "BENNY",
+        "text": "I don't want to scare them away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28079",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "BENNY",
+        "text": "Right in line with that burning tree."
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "I don't see anything."
+      },
+      {
+        "speaker": "BENNY",
+        "text": "It's there. The fog's thicker now, but it's there. What do you think started those fires?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28080",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "OFFICER",
+        "text": "Benny, there's nothing there."
+      },
+      {
+        "speaker": "BENNY",
+        "text": "There is. They came out of the belly of the ship and then went to the first terrace and flew down into the houses."
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "Flew?! Oh, come on Benny..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28081",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "BENNY",
+        "text": "What did I tell you?"
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "Probably kids."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28082",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "BENNY",
+        "text": "Don't you think you should call a backup?"
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "No, we can handle this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28083",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "OFFICER",
+        "text": "Mike, call for back-up.  Benny, you all right?"
+      },
+      {
+        "speaker": "BENNY",
+        "text": "I don't think so..."
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "Benny, this is me. I'm going to take a look."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28084",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "Gate three. It's boarding now."
+      },
+      {
+        "speaker": "JENNY",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Have a nice trip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28085",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "What can I do for you folks?"
+      },
+      {
+        "speaker": "JENNY",
+        "text": "How much are your rooms?"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Thirty-seven fifty for one person, forty-nine fifty for two."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28086",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "JENNY",
+        "text": "You have one with two beds?"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Sure."
+      },
+      {
+        "speaker": "JENNY",
+        "text": "I'll take that."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Fill this out.  Will this be cash or credit card?"
+      },
+      {
+        "speaker": "JENNY",
+        "text": "Credit card."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "I'll have to run your card off now."
+      },
+      {
+        "speaker": "JENNY",
+        "text": "We're only going to be here a few hours..."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "It's still the full price."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28087",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "JENNY",
+        "text": "Do you have a good map of Death Valley?"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "We should have. Let me see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28088",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "COOK",
+        "text": "Food. Eat. I prepare food. I work as a cook. That's how I make money."
+      },
+      {
+        "speaker": "STAR MAN",
+        "text": "I understand."
+      },
+      {
+        "speaker": "COOK",
+        "text": "What do you do?"
+      },
+      {
+        "speaker": "STAR MAN",
+        "text": "I make maps."
+      },
+      {
+        "speaker": "COOK",
+        "text": "Hey, that sounds interesting. You like it?"
+      },
+      {
+        "speaker": "STAR MAN",
+        "text": "Eh... yes."
+      },
+      {
+        "speaker": "COOK",
+        "text": "Make any money?"
+      },
+      {
+        "speaker": "STAR MAN",
+        "text": "No."
+      },
+      {
+        "speaker": "COOK",
+        "text": "You don't get rich as a cook, either, believe me. I got a girl going to college this fall. The wife had to go back to nursing to help pay for it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28089",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "COOK",
+        "text": "Do you have children?"
+      },
+      {
+        "speaker": "STAR MAN",
+        "text": "No."
+      },
+      {
+        "speaker": "COOK",
+        "text": "They're damned expensive and a pain in the ass sometimes, but I wouldn't trade having them for anything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28090",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "COOK",
+        "text": "What do you think of America?"
+      },
+      {
+        "speaker": "STAR MAN",
+        "text": "It is beautiful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28091",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "COOK",
+        "text": "Well, here we are... You go down that ramp there, you're sure to get a ride."
+      },
+      {
+        "speaker": "STAR MAN",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "COOK",
+        "text": "And don't be shy about your English. You speak better than a lot of people I know.  Take care of yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28092",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "JENNY",
+        "text": "No!!! No!!!"
+      },
+      {
+        "speaker": "DRIVER",
+        "text": "He's got a gun!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28093",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "JENNY",
+        "text": "Where did you stop last?"
+      },
+      {
+        "speaker": "DRIVER",
+        "text": "What the hell do you think you're doing?"
+      },
+      {
+        "speaker": "JENNY",
+        "text": "Where did you stop last?"
+      },
+      {
+        "speaker": "DRIVER",
+        "text": "Stay right there..."
+      },
+      {
+        "speaker": "JENNY",
+        "text": "What was your last stop?"
+      },
+      {
+        "speaker": "DRIVER",
+        "text": "Elmo's..."
+      },
+      {
+        "speaker": "JENNY",
+        "text": "Where's that?"
+      },
+      {
+        "speaker": "DRIVER",
+        "text": "About five miles back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28094",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "FOX",
+        "text": "We're going... Damn!  We'll tell the press that there was an accident. Chemical warfare spill. That cover cannot be violated in any way. Understand me, Shermin?"
+      },
+      {
+        "speaker": "MAJOR BELL",
+        "text": "Major Bell here, sir. We have to tell these people that we're friendly. That this whole thing was a mistake. Is anyone trying to contact the ship?"
+      },
+      {
+        "speaker": "FOX",
+        "text": "Shermin, I want you and Bell to start looking for the one on the ground."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28095",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "FOX",
+        "text": "Recognize this?"
+      },
+      {
+        "speaker": "MAJOR BELL",
+        "text": "It's a copy of the plaque NASA sent into space on the Pioneer probes."
+      },
+      {
+        "speaker": "FOX",
+        "text": "Houston found it in the extraterrestrial's suit."
+      },
+      {
+        "speaker": "MAJOR BELL",
+        "text": "They must have picked it up in space."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28096",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "SHERMIN",
+        "text": "It's real, George."
+      },
+      {
+        "speaker": "FOX",
+        "text": "There's no mistake? You're absolutely sure?"
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "I saw it with my own eyes. We've killed an extraterrestrial and..."
+      },
+      {
+        "speaker": "FOX",
+        "text": "Is there any possibility that it's a hoax? Could you be mistaken?"
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "None. And there's another one in the area that's alive. I don't know if it's the only one. I don't know if it was left here by accident or it's part of an inva..."
+      },
+      {
+        "speaker": "FOX",
+        "text": "Get the body out of there. Load it on the Air Force chopper and get it to Wright Patterson. They'll take it from there... We didn't expect this, Shermin."
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "Neither did I."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28097",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "SHERMIN",
+        "text": "We'll need a lot of help, George. You could hide an army up here."
+      },
+      {
+        "speaker": "FOX",
+        "text": "I'm going to the White House right now. I'll try and get you everything you need."
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "Wait, wait... What are my orders if we find this thing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28098",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "FOX",
+        "text": "Contain it and get back to me."
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "What do you mean by 'contain?'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28099",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "SHERMIN",
+        "text": "Then it's not an accident that they found us."
+      },
+      {
+        "speaker": "FOX",
+        "text": "We don't think that's necessarily bad. At least it's a point of contact."
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "Not necessarily bad! If they knew we were here why didn't they let us know they were coming?"
+      },
+      {
+        "speaker": "FOX",
+        "text": "We'll get those answers when you find the one you're looking for."
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "That's not going to happen, George, unless you get us the help you promised us."
+      },
+      {
+        "speaker": "FOX",
+        "text": "We've been back and forth on this all day and keeping in mind the panic that would occur if this got to the general public, it's been decided not to expand the search at this time."
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "Don't let them do it this way, George. It's too important. We can't find this thing alone."
+      },
+      {
+        "speaker": "FOX",
+        "text": "You have to. We're trying to contact the ship. If we do, I'll let you know immediately. Good luck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28100",
+    "movie_id": "m199",
+    "turns": [
+      {
+        "speaker": "SHERMIN",
+        "text": "George, we've just confirmed the existence of the live extraterrestrial."
+      },
+      {
+        "speaker": "FOX",
+        "text": "When can we expect containment?"
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "Well, we're in pursuit of a green Mustang..."
+      },
+      {
+        "speaker": "FOX",
+        "text": "It's in a green Mustang?"
+      },
+      {
+        "speaker": "SHERMIN",
+        "text": "Yes. It's kidnapped a woman at gunpoint and from what we can make out is forcing her to drive it somewhere."
+      }
+    ]
+  }
+]

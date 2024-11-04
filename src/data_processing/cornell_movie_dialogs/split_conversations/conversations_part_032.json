@@ -1,0 +1,1966 @@
+[
+  {
+    "conversation_id": "conv_3101",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Think she really killed those agents?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "She may not know. Theory goes she may be very ill."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Amnesia?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Possibly. Split personality ..."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Insane ... ?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Who knows? If Dr. Darling is right, you should watch out."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Why?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "She may try to kill you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3102",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Something went wrong. System malfunction. Explosion. Mrs. Peel had a narrow escape. Suspected sabotage. Nothing proven. File still open."
+      },
+      {
+        "speaker": "STEED",
+        "text": "How come you took so much interest in her, Dr. Darling?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3103",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Still doesn't. Better safe than sorry.  She was in a dangerous game, Steed. High stakes. She may prove to be a risk.  If she is, there's only one solution.  Termination."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Anyone particular in mind?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "You."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3104",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "We had a lead to Wonderland Weather but we got there too late. Someone tipped them off ..."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Too late anyway. Today's escapade was only for starters. This is no ordinary weather. It's manmade. A kind of weather bomb."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Impossible."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3105",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "This man -- did you see him?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "No. Her husband, she says. Alice tried to warn us. A trap. Tell Mother beware. Tell Father That's all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3106",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "You're accusing Mrs. Peel of killing her own husband?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Her husband suspected someone very close to the operation. On the day he died, he was setting a test. To prove to himself -- to us that his wife was beyond suspicion. He had to be certain. He said he was going to give Mrs. Peel something ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3107",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Pity. I was growing fond of Mrs. Peel. Unfortunately --"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Guilty until proven innocent?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Mother and Father know best."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3108",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "I was hoping you could tell me."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "You're getting yourself into terrible trouble, my son. Weather's turning very nasty -- and so am I."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I'm going to follow up on a hunch of my own. If I'm right, Mrs. Peel is innocent and you have a mole."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Where?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "In your operation."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "I'm warning you for the last time, Steed: whoever's behind all this, looks like Mrs. Peel, walks like Mrs. Peel and kills like Mrs. Peel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3109",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "OLD LADY",
+        "text": "Are you alright, young man?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "I think so, thank you so much ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3110",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "OLD LADY",
+        "text": "Cocky little bastard. I hope he was a baddy."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I feel sure of it."
+      },
+      {
+        "speaker": "OLD LADY",
+        "text": "I'm Alice. Mother said you'd be on your way. Mrs. Peel with you?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "She was ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3111",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "OLD LADY",
+        "text": "You with Mother or Father?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "Both, actually."
+      },
+      {
+        "speaker": "OLD LADY",
+        "text": "Good. Glad to see they're together at last. They don't get along. Promotion. Top job. Most unfair. Quite a fuss at the Ministry."
+      },
+      {
+        "speaker": "STEED",
+        "text": "You don't say.  Like looking for a needle in a ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3112",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Wonderland Weather Ltd."
+      },
+      {
+        "speaker": "OLD LADY",
+        "text": "This way ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3113",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "SIR AUGUST",
+        "text": "Mrs. Peel -- ?"
+      },
+      {
+        "speaker": "VOICE",
+        "text": "Ask not for whom the telephone rings ..."
+      },
+      {
+        "speaker": "SIR AUGUST",
+        "text": "No, please! I beg you ..."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "Walk over to the window ..."
+      },
+      {
+        "speaker": "SIR AUGUST",
+        "text": "Let it be rain, please let it be --"
+      },
+      {
+        "speaker": "VOICE",
+        "text": "Stay by the window. By the window."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3114",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "John Steed."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Valentine Peel. I see you've gone back to using your original face."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "The last one you'll ever see."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Perish the thought."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3115",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "You're better than I expected."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I was at Harrow ..."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "But did they teach you this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3116",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "Bang-bang ... you're dead."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "You wish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3117",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "One shot -- for emergencies."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "That's not playing by the rules."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Rules are made to be broken."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "If you say so."
+      },
+      {
+        "speaker": "STEED",
+        "text": "I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3118",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "You said ... one shot."
+      },
+      {
+        "speaker": "STEED",
+        "text": "Did I? My mistake."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3119",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "VALENTINE",
+        "text": "Aren't you forgetting about something?"
+      },
+      {
+        "speaker": "STEED",
+        "text": "You are, and it's behind you."
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Come, come. You don't really expect me to fall for --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3120",
+    "movie_id": "m23",
+    "turns": [
+      {
+        "speaker": "STEED",
+        "text": "I think she really likes you ... Where's Mrs. Peel?"
+      },
+      {
+        "speaker": "VALENTINE",
+        "text": "Ugh ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3121",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "PHOEBE",
+        "text": "What's happening?"
+      },
+      {
+        "speaker": "BOBBIE",
+        "text": "Debbie's marrying Rick."
+      },
+      {
+        "speaker": "PHOEBE",
+        "text": "...Really?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3122",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "BOBBIE",
+        "text": "Does Cole know about this?"
+      },
+      {
+        "speaker": "PHOEBE",
+        "text": "Really -- you went with him for two years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3123",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "PHOEBE",
+        "text": "I'm totally blown away. You're getting married. It seems like only yesterday I showed you how to have oral sex."
+      },
+      {
+        "speaker": "BOBBIE",
+        "text": "Deb, I want to throw you a shower."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3124",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "PHOEBE",
+        "text": "Look at that guy. What a hunk."
+      },
+      {
+        "speaker": "BOBBIE",
+        "text": "Check out the other guy's buns."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3125",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "BOBBIE",
+        "text": "Debbie... I don't believe it. I'm so excited."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Bobbie, what are you talking about?"
+      },
+      {
+        "speaker": "BOBBIE",
+        "text": "O'Neill just tole me. It's sooo great... I don't believe it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3126",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "He still thinks I'm going with him. I'm going to break the news to him tomorrow."
+      },
+      {
+        "speaker": "BOBBIE",
+        "text": "He's not gonna be happy. And your parents can't be too thrilled either."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "No. As far as they're concerned the only good Rick is a dead Rick. But I don't care... it's my decision."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3127",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "What do you think's gonna go on at the guys' party?"
+      },
+      {
+        "speaker": "BOBBIE",
+        "text": "They'll probably get drunk, and watch dirty movies. But don't worry about the dirty movies."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "BOBBIE",
+        "text": "I forgot to tell you. Yesterday I found a bunch of pornos in the back seat of O'Neill's car."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "You're kidding."
+      },
+      {
+        "speaker": "BOBBIE",
+        "text": "Nah. Everything's cool... I took care of 'em."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3128",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "BOBBIE",
+        "text": "That's what we're going to find out..."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "I feel like I'm spying on Rick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3129",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "BOBBIE",
+        "text": "Deb, we're pretending to be hookers."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Right in here. The big show starts in one minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3130",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "CHULO",
+        "text": "I'm glad you guys came by... What's the occasion?"
+      },
+      {
+        "speaker": "O'NEILL",
+        "text": "Rick's got an important announcement to make."
+      },
+      {
+        "speaker": "CHULO",
+        "text": "Yeah. What is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3131",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "O'NEILL",
+        "text": "What?"
+      },
+      {
+        "speaker": "CHULO",
+        "text": "You're kidding."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3132",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "CHULO",
+        "text": "Yeah, man. Let's throw a bachelor party with drugs, booze and broads."
+      },
+      {
+        "speaker": "O'NEILL",
+        "text": "Yeah. Right. All the things that make life worth living."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3133",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "CHULO",
+        "text": "Where's the women, man? We gotta have women."
+      },
+      {
+        "speaker": "O'NEILL",
+        "text": "Chulo, one thing at a time."
+      },
+      {
+        "speaker": "CHULO",
+        "text": "Sex is my one thing. I'm good at it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3134",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "O'NEILL",
+        "text": "I don't get it, but at least Gary's got the real stuff coming up here in a few minutes."
+      },
+      {
+        "speaker": "CHULO",
+        "text": "Women!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3135",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "CHULO",
+        "text": "Hey, you guys, what's going on?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "We're going for a little liquid refreshment."
+      },
+      {
+        "speaker": "CHULO",
+        "text": "Great. I'll go with you. Wait a second. Hey, Raul! Move that car, will you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3136",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "I've decided not to run for President."
+      },
+      {
+        "speaker": "CHULO",
+        "text": "Too bad, man, that blows my chance to be Ambassador to France."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3137",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "CHULO",
+        "text": "Man, you're losing your audience."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Okay... This is it... I'm getting married."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3138",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Yes, gentlemen. Saturday after next, I lose my amateur standing and turn pro."
+      },
+      {
+        "speaker": "CHULO",
+        "text": "Hey, man, congratulations!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3139",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RYKO",
+        "text": "You sure Gary's got this whole party deal together?"
+      },
+      {
+        "speaker": "CHULO",
+        "text": "Yeah, man, he's got us a great room at the hotel and lots of chicks."
+      },
+      {
+        "speaker": "RYKO",
+        "text": "I hope so. Hundred bucks apiece is a lot of dinero."
+      },
+      {
+        "speaker": "CHULO",
+        "text": "What time are we supposed to get to the hotel?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3140",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RYKO",
+        "text": "All right!"
+      },
+      {
+        "speaker": "CHULO",
+        "text": "When do the girls get to the party?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3141",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RYKO",
+        "text": "Denmark makes great Nautilus equipment."
+      },
+      {
+        "speaker": "CHULO",
+        "text": "I'd like to jerk and press those babies."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3142",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "And..."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Bond... James Bond."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3143",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Cole. Don't you know it's bad luck to see the groom before the wedding?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "I want Debbie."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Cole..."
+      },
+      {
+        "speaker": "COLE",
+        "text": "You dump her and I'll give you cash."
+      },
+      {
+        "speaker": "RICK",
+        "text": "What's Debbie's blue book value right now?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "Five thousand dollars."
+      },
+      {
+        "speaker": "RICK",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3144",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "Seventy-five hundred."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Not interested."
+      },
+      {
+        "speaker": "COLE",
+        "text": "Okay, ten thousand plus a G.E. toaster oven, a Litton microwave, a Cuisinart..."
+      },
+      {
+        "speaker": "RICK",
+        "text": "I'm marrying Debbie."
+      },
+      {
+        "speaker": "COLE",
+        "text": "Michelin tires... brand new. A set of Sears Best metric tools..."
+      },
+      {
+        "speaker": "RICK",
+        "text": "What is this person's story here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3145",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Thanks, Dad.  Cole, go away."
+      },
+      {
+        "speaker": "COLE",
+        "text": "He's gonna hurt you, Debbie. He'll never be true to you the way I would."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Thank you. We'll all keep that in mind. 'Bye now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3146",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "Rick, I want to talk to you."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Ah, Cole.  I don't remember ordering an asshole from room service."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3147",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "I don't want any trouble."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Oh, come on, just a little."
+      },
+      {
+        "speaker": "COLE",
+        "text": "I'm ready to make you another deal."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Ooh, be still, my heart."
+      },
+      {
+        "speaker": "COLE",
+        "text": "See that down there? That's my most prized possession. My new Porsche."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3148",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "Great car."
+      },
+      {
+        "speaker": "RICK",
+        "text": "The best."
+      },
+      {
+        "speaker": "COLE",
+        "text": "I love that car."
+      },
+      {
+        "speaker": "RICK",
+        "text": "I'm very happy for you two."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3149",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "I'll trade you my Porsche for Debbie. An even swap."
+      },
+      {
+        "speaker": "RICK",
+        "text": "The car for Debbie?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "I mean it. The car is yours. Dump Debbie."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Gee, guys, what should I do? The car or Debbie?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3150",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "Low mileage... Handles like a dream."
+      },
+      {
+        "speaker": "RICK",
+        "text": "So does Debbie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3151",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "Shit, shit, shit, shit. My car's gone!"
+      },
+      {
+        "speaker": "RICK",
+        "text": "Maybe it had something to do."
+      },
+      {
+        "speaker": "COLE",
+        "text": "Shit!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3152",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "Rick... Debbie is mine. She'll always be."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Cole, when was the last time you had a lobotomy?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "You've had it. I'm gonna get you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3153",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Cole, what the hell are you doing?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "She's mine!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3154",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "He and Debbie stand outside the theater, which is a multi-plex cinema. Fourteen movie theaters under one roof. Prominent is a sign which reads: \"24 HOUR 3D FESTIVAL!\" Cole drags Debbie into one of the theaters. The gang runs up to the theaters."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Fan out and look for them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3155",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MR. T",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "Mr. Thomerson."
+      },
+      {
+        "speaker": "MR. T",
+        "text": "Yes, son, did you find out where the bachelor party is?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "Yes I did."
+      },
+      {
+        "speaker": "MR. T",
+        "text": "Fine. How's everything going?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "Not so good. He wouldn't listen to reason. He stole my car... my Porsche... I can't find it anywhere..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3156",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "Hi, everybody. Am I late?"
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Not at all. We're just finishing lunch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3157",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "So, Cole, you been practicing your game?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "Sure have..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3158",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Nice shot."
+      },
+      {
+        "speaker": "COLE",
+        "text": "Thank you, sir."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "I know you're as unhappy as I am about Debbie's marriage to Rick."
+      },
+      {
+        "speaker": "COLE",
+        "text": "Yes, sir, I am."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Cole, I don't want you to give up on her."
+      },
+      {
+        "speaker": "COLE",
+        "text": "I've tried to change her mind."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "It's not her mind you need to change. It's Disneyland head in there."
+      },
+      {
+        "speaker": "COLE",
+        "text": "But how can I do that?"
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "If it were me, I'd reason with him first. Then, if that failed...  ...I'd take more persuasive action."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3159",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "Thanks for the advise, sir."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Keep me informed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3160",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "So, he's playing hard ball. Well, two can play that game.  Go after him. Stop at nothing. You hear me?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "What? I'm sorry, sir, I can't hear you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3161",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "Some fat slob in the next booth is making a lot of noise."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Well, tell the asshole to shut up."
+      },
+      {
+        "speaker": "COLE",
+        "text": "Right.  Hey, shut up. Okay, sir."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Sorry, I can't hear you. Some pin head's yelling...  Shut up, I'm talking here.  Now look, I want you to go back and I don't care what you do. Stop that marriage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3162",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Cole, my God, boy, what are you doing here? What happened?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "The bachelor party's upstairs. They made me get naked. They hung me from the window so high up it was so scary I fell down..."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Take hold of yourself. What room are they in?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "1002."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "All right, I'll go up there and take care of this myself.  You look awful, son. Go find yourself some clothes."
+      },
+      {
+        "speaker": "COLE",
+        "text": "Yes, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3163",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Cole?"
+      },
+      {
+        "speaker": "COLE",
+        "text": "Over here, Deb... in the Smokehouse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3164",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Cole, we've got to talk."
+      },
+      {
+        "speaker": "COLE",
+        "text": "Finally realized Rick's a jerk, huh?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "No, Cole, I..."
+      },
+      {
+        "speaker": "COLE",
+        "text": "It's all right, I forgive you. I'm not the vengeful type. We'll forget what happened. Why don't we take a trip together? Maybe kill a few lions in Kenya over Christmas."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Cole, listen to me... I've got to tell you..."
+      },
+      {
+        "speaker": "COLE",
+        "text": "You know, when you dumped me for that wimp, I thought, Cole, she'll be back. God wants the two of you to be together, and sure enough..."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Cole, I'm marrying Rick."
+      },
+      {
+        "speaker": "COLE",
+        "text": "You're marrying him? Then why are you coming back to me?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "I'm not. I just thought I should tell you myself before you heard it somewhere else."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3165",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "COLE",
+        "text": "You know how that makes me feel, Deb? Wanta know how that makes me feel?  Angry, Deb.  Yesss, that's the word, angry. But if he makes you happy, you go right ahead. I want you to be happy, Deb.  No matter what, no matter how angry it makes me, no matter how much it hurts. Be happy, Deb. Be oh, so very, very happy."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Cole, I'm sorry, I..."
+      },
+      {
+        "speaker": "COLE",
+        "text": "That's all right, Deb. Go be happy and smile a lot, Deb. Do it for me."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "I'm going now, Cole."
+      },
+      {
+        "speaker": "COLE",
+        "text": "I understand, Deb. 'Bye... be happy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3166",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "God, you're a slob."
+      },
+      {
+        "speaker": "RICK",
+        "text": "But a fabulous cook."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "What are we having?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "It's either meatloaf, Swiss steak or charred flesh. I won't know till it's finished."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "I think your dinner's burning."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3167",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Don't worry... it's supposed to do this."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Want to hear something great? Bobbie and Phoebe are throwing me a shower. It's really gonna be fun."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Not as much fun as the bachelor party the guys are throwing for me."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "You're going to have a bachelor party?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "Of course. I'm a traditional guy... It's a traditional event.  Well, what do you think?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "It looks awful."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Yes, but looks are deceiving...  Not in this case, however."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Are you going to have women at your party?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "No, sweetheart, it's a stag party. Does stay home."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "I'm not talking about does. I'm talking about hookers."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Oh, those. Why do you ask?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Because from what I've heard, it's a tradition and you're a traditional guy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3168",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Huh? Wha..."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "I can't sleep."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Oh... I got something for that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3169",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Stop fooling around... I need to talk."
+      },
+      {
+        "speaker": "RICK",
+        "text": "What's the matter?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "I don't know... I just feel scared."
+      },
+      {
+        "speaker": "RICK",
+        "text": "About what?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "The wedding, my parents, your family, our friends, my job, the future, our relationship, the caterers, my gown, your tuxedo, our honeymoon, the apartment, my shower, your bachelor party..."
+      },
+      {
+        "speaker": "RICK",
+        "text": "I think the only think you've left out are our relations with the Soviet Union. Sweetheart, everything's gonna be all right."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Before or After I have my nervous breakfown?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "C'mere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3170",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "That feels so great."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Good..."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Um... that's very relaxing."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Now, I want you to lie down and drift off to slumberland."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3171",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Well... twenty-four more hours to go and tonight we'll share with our friends and loved ones the joys of those last moments of singleness."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "You better not have too much joy."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Wouldn't think of it. Because tomorrow...  We're going to the chapel and we're..."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Gonna get married..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3172",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "This is it, lady. Last stop."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Can't I just go with you guys?"
+      },
+      {
+        "speaker": "RICK",
+        "text": "Sorry, we got men's business to do. It's no place for a lady."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3173",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Remember, you promised... no screwing around."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Did I promise that? I don't remember that..."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "You're really pissing me off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3174",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Okay, I promise... I swear on my mother's grave."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Your mother's not dead."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Well, if I go back on my word, I'll kill her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3175",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Have a good time. Don't make it too late."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Anything you say, ma'am. Have a fun shower. Use soap."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "I love you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3176",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Don't turn on the lights, sugar.  I'll lead you around."
+      },
+      {
+        "speaker": "RICK",
+        "text": "How wonderful. A seeing eye hooker."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Why don't you get undressed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3177",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "I can't trust you!"
+      },
+      {
+        "speaker": "RICK",
+        "text": "C'mon, I knew it was you."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Rick, you're lying!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3178",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Let go of me!"
+      },
+      {
+        "speaker": "RICK",
+        "text": "Debbie, I'm telling you, I didn't do anything, hardly."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "The marriage is off. Now you can screw around with your friends for the rest of your life."
+      },
+      {
+        "speaker": "RICK",
+        "text": "I don't want that. I want to be with you."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "And I want to be with someone who understands the meaning of the word commitment."
+      },
+      {
+        "speaker": "RICK",
+        "text": "I am committed. I love you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3179",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "I don't believe you."
+      },
+      {
+        "speaker": "RICK",
+        "text": "You don't believe me? Okay, fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3180",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "See? And these are not just ordinary party-goers -- there are professionals in this crowd -- I didn't want any of them. You... You're what I want. Understand?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Great. Now, what do you want to do about it?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Let's get naked."
+      },
+      {
+        "speaker": "RICK",
+        "text": "You're on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3181",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "RICK",
+        "text": "Are you okay?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "RICK",
+        "text": "This has been quite a night. Here's a thought. Why don't we go home and give our private parts a workout?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "You're so romantic..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3182",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "ILENE",
+        "text": "If I were you, I'd worry less about the shower and more about Rick's bachelor party."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Ilene, why would I want to do that? I trust Rick."
+      },
+      {
+        "speaker": "ILENE",
+        "text": "Of course you do. I trusted my ex, Mel, too. Cousin, I can only talk from experience. What do you think they do at these parties, have tea and play scrabble?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Ilene, Rick promised..."
+      },
+      {
+        "speaker": "ILENE",
+        "text": "Debbie, don't be naive. Men are pigs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3183",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Are you sure this is a good idea?"
+      },
+      {
+        "speaker": "ILENE",
+        "text": "Look, you heard what those hookers said. They were supposed to go to a bachelor party."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "That doesn't mean it was Rick's party."
+      },
+      {
+        "speaker": "ILENE",
+        "text": "Debbie, men are pigs -- if they can have women, we can have men."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3184",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Let's go."
+      },
+      {
+        "speaker": "ILENE",
+        "text": "Look, girls -- I'll stay behind and hold them off. The rest of you break for it!"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Ilene, are you crazy?"
+      },
+      {
+        "speaker": "ILENE",
+        "text": "I know what I'm doing... Go!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3185",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MRS. THOMERSON",
+        "text": "I'm using the same caterer for the shower I had for our Christmas party last year."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Great, Mom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3186",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Why is Cole here?"
+      },
+      {
+        "speaker": "MRS. THOMERSON",
+        "text": "You know your father enjoys his company."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3187",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MRS. THOMERSON",
+        "text": "A strange wang right in my palm."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Ilene, we don't really know that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3188",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MRS. THOMERSON",
+        "text": "What kind of job? I'm a housewife."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Quiet, Mother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3189",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MRS. THOMERSON",
+        "text": "I hope Ilene's all right."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "I hope those guys are all right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3190",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "EXECUTIVE",
+        "text": "Ed, we're so glad you could come over at the last minute and judge our little beauty pageant."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "My pleasure, Al... Always happy to help out in a pinch...  Excuse me. I better call my service... tell them where I am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3191",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "EXECUTIVE",
+        "text": "Congratulations on your daughter's wedding. Who's she marrying?"
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "A real turd."
+      },
+      {
+        "speaker": "EXECUTIVE",
+        "text": "Well... hope she'll be very happy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3192",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Great bathing suit."
+      },
+      {
+        "speaker": "EXECUTIVE",
+        "text": "I think I screwed that one once."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3193",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "EXECUTIVE",
+        "text": "Thanks for helping us out, Ed. We appreciate it."
+      },
+      {
+        "speaker": "MR. THOMERSON",
+        "text": "Any time, Al."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3194",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "GARY",
+        "text": "So we want your best girls, the cream of your crop."
+      },
+      {
+        "speaker": "JUMBO",
+        "text": "Let's see your bread."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3195",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "GARY",
+        "text": "Park View Hotel, Room 1002."
+      },
+      {
+        "speaker": "JUMBO",
+        "text": "They'll be up there in a half hour."
+      },
+      {
+        "speaker": "GARY",
+        "text": "Okay. Nice to meet you both."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3196",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "GARY",
+        "text": "Jumbo, where the hell are the women?"
+      },
+      {
+        "speaker": "JUMBO",
+        "text": "What are you talking about, asshole?"
+      },
+      {
+        "speaker": "GARY",
+        "text": "Your whores never showed up."
+      },
+      {
+        "speaker": "JUMBO",
+        "text": "They left an hour ago, pink nuts."
+      },
+      {
+        "speaker": "GARY",
+        "text": "Screw you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3197",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "JUMBO",
+        "text": "That's it, prick lips."
+      },
+      {
+        "speaker": "GARY",
+        "text": "What are you..."
+      },
+      {
+        "speaker": "JUMBO",
+        "text": "I've had it, numb nuts... How much money you got?"
+      },
+      {
+        "speaker": "GARY",
+        "text": "Why?"
+      },
+      {
+        "speaker": "JUMBO",
+        "text": "Because I'm pissed off. Now give me your cash."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3198",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "GARY",
+        "text": "This is bad public relations. I was planning to do a lot of business with you. But now I'm going to have to go elsewhere."
+      },
+      {
+        "speaker": "JUMBO",
+        "text": "Hey. I'm sorry. You want girls. I'll give you girls."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3199",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "JUMBO",
+        "text": "Give him the works."
+      },
+      {
+        "speaker": "GARY",
+        "text": "That's more like it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_3200",
+    "movie_id": "m24",
+    "turns": [
+      {
+        "speaker": "GARY",
+        "text": "Screw you... Screw that... Don't jerk me around. You promised me 1500 seats for the Police Concert... 1500, not fifteen!... Screw that... Screw you -- Screw Sting.  Hi, guys."
+      },
+      {
+        "speaker": "RICK",
+        "text": "Gary, you're quite an animal."
+      },
+      {
+        "speaker": "GARY",
+        "text": "Screw you..."
+      }
+    ]
+  }
+]

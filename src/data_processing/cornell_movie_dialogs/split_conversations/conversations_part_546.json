@@ -1,0 +1,1838 @@
+[
+  {
+    "conversation_id": "conv_54513",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "I'm fine."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Ok..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54514",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "You know, I was thinking... All that stuff father Seamus said...about discord, distrust... we're doing all right, aren't we?  You don't have any doubts about me, do you?"
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Should I..."
+      },
+      {
+        "speaker": "WILL",
+        "text": "No.  You two are the most important things in my life.  I don't ever want to lose you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54515",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "You don't think I know?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Know what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54516",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "Do you think I'm a fool?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "What?"
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Nothing's changed, has it. You still want to deceive me?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "What are you talking about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54517",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Maura, what is this!"
+      },
+      {
+        "speaker": "MAURA",
+        "text": "We're not going."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Not going!  Are you out of your mind?!  Wait!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54518",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "We'll destroy you...destroy all of you!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "No...  NO!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54519",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Maura!"
+      },
+      {
+        "speaker": "MAURA",
+        "text": "What's happening!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54520",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Are you all right?"
+      },
+      {
+        "speaker": "MAURA",
+        "text": "I'm ok."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54521",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "You're bleeding."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I'm all right..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54522",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "Not at all.  I'm just trying to put together all the evidence, to determine what it could possibly be."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Well that's what we're here for. I mean -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54523",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "We don't know."
+      },
+      {
+        "speaker": "SHEA",
+        "text": "I could see if I detect the presence of something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54524",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "I think we should do it."
+      },
+      {
+        "speaker": "SHEA",
+        "text": "We're usually successful in detecting the source of most problems.  Unfortunately."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "What do you mean, unfortunately?"
+      },
+      {
+        "speaker": "SHEA",
+        "text": "We usually find nothing.  We've debunked many a reported haunting. About ninety five percent of the cases had some technical explanation."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "What about the other five percent?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54525",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "Where is your daughter?  She might be able to give us some information."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "She's at school.  We've tried not to upset her more than she's been."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54526",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "Ok, so we have a...presence.  What do we do about it?"
+      },
+      {
+        "speaker": "SHEA",
+        "text": "If we have a troubled spirit here, we have to find out why it's troubled."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54527",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "I'm not sure, but I can check.  Did the events start before or after you discovered this?"
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Before."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54528",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "You've done your homework, Mrs. South."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Maura."
+      },
+      {
+        "speaker": "SHEA",
+        "text": "Maura."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Yeah, they told us this was the best."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54529",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "I'm hungry enough to eat a horse."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "You'll have to settle for turkey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54530",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "Is white meat all right for you, Mr. Shea?"
+      },
+      {
+        "speaker": "SHEA",
+        "text": "White meat will be fine..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54531",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "You must be a Londrigan."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Yes, I am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54532",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "...at her request.  She was a very religious woman."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Oh, that's nice..."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "May I come in?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54533",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "Thank you.  I believe she would have wanted it."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Did you know her very well?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54534",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "She attended the church for years. A dear woman, it was sad to see her decline so rapidly."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "It was a shame."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "In her later years she would often get very disoriented being alone here.  She would call me, and I would come by."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54535",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "MAURA",
+        "text": "Well it's nice that you were there for her."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "I took pity on the poor woman. This house is too big for one person to live alone in..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54536",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "Your daughter's been taken."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "What!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54537",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "I'm going to need some blood.  It must be from a woman."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "The blood of a woman is birth, life. It is part of the ceremony. Seamus offers up the pin - Maura waits a beat, then takes it -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54538",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "Now you must listen to me. This force is like a parasite, or a virus. It feeds on doubt, suspicion, discord... you must clear your mind as we reach out for her."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "So what should we do, father?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54539",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "Go ahead.  I believe right now she may hear you."
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Aubrey?  It's mommy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54540",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "Concentrate!  She can hear you!"
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Come back to us honey, don't be afraid!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54541",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "She's coming back.  Keep talking!"
+      },
+      {
+        "speaker": "MAURA",
+        "text": "Come back to us honey!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54542",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "You must be the new tenants."
+      },
+      {
+        "speaker": "WILL",
+        "text": "And you...are?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54543",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "My name is Father Seamus.  I'm from Holy Rood church."
+      },
+      {
+        "speaker": "WILL",
+        "text": "How can I help you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54544",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "What was she afraid of?"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "Well, I believe her mind was playing tricks on her, God rest her soul.  She would hear things, see things..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54545",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Did you have dinner, father?  We have plenty."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "Well thank you for the offer,  But I really have to go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54546",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "I hope everything works out for you, and you find happiness in your new home."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "Perhaps I'll see you in church."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54547",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "Well there's no time like the present.  Good night."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Good night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54548",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "We'll never know for sure."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "Hopefully the whole sad chapter is over.  And everyone, including your family, will find peace. WILL I just want to...thank all of you, for everything you've done for us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54549",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "This isn't happening..."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "The amulet..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54550",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "What...amulet?"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "Did you remove anything in the cellar!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54551",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "I said nothing before, for fear you wouldn't believe me.  I've been here before to cast evil from this house.  The amulet is a guard against evil, blessed in countless rituals.   It is an ancient ceremony of the early Catholic church, a ceremony whose secrets are all but lost."
+      },
+      {
+        "speaker": "WILL",
+        "text": "So what does that have to do with Aubrey!  Where is she!"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "We must return it, if you want your daughter back."
+      },
+      {
+        "speaker": "WILL",
+        "text": "What are you getting at!"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "I said nothing before, for fear you wouldn't believe me.  I've exorcised forces from this house. Eliza knew, she was there.  It wants another soul, the one we've taken away. We must weaken it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54552",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "How long will it take!"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "It will not take long..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54553",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "Keep talking!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "It can't hurt you if you're not afraid Aubrey.  Think about us. We're here for you, we love you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54554",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "The rain is letting up."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "Yes it is. Will and Seamus look at each other -"
+      },
+      {
+        "speaker": "WILL",
+        "text": "I don't know what happened... and I don't know what you did..."
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "I didn't do anything...God saved her..."
+      },
+      {
+        "speaker": "WILL",
+        "text": "What's going to happen?"
+      },
+      {
+        "speaker": "SEAMUS",
+        "text": "I wish I had an answer.  Evil is powerful, more so every day it seems.  But I believe the worst for you and for this house is behind us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54555",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "Take care of the girl.  Take care of your family.  They are important."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Yes, they are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54556",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SEAMUS",
+        "text": "Well, you know where to reach me. The church is a stone's throw away if you want to come to mass."
+      },
+      {
+        "speaker": "WILL",
+        "text": "We'll be there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54557",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "No.  But I'm a clairvoyant.  I can sometimes talk to unhappy spirits inhabiting a certain place."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54558",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "Well it all depends on how much money you want to spend.  A standard visit would run you about fifty pounds.  That would include myself and an assistant."
+      },
+      {
+        "speaker": "WILL",
+        "text": "And what would you do?"
+      },
+      {
+        "speaker": "SHEA",
+        "text": "Well, we could bring in special equipment, monitors, sound devices, things like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54559",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "Looks like we have some animal hairs in here.  Maybe some kind of a rodent."
+      },
+      {
+        "speaker": "WILL",
+        "text": "So is that what all this is? Someone have a problem with us living here?"
+      },
+      {
+        "speaker": "SHEA",
+        "text": "Not someone.  Something. I've never felt a presence that strong before."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54560",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "Do you have any other physical evidence, that we can look at?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Not really.  Oh, wait a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54561",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "Where did you find this?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "It was nailed to the cellar wall."
+      },
+      {
+        "speaker": "SHEA",
+        "text": "I see some faint lettering.  It appears to be the...Runic alphabet?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Runic?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54562",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "Do you mind if I borrow it?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Not at all, if it can help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54563",
+    "movie_id": "m392",
+    "turns": [
+      {
+        "speaker": "SHEA",
+        "text": "There's something in there."
+      },
+      {
+        "speaker": "WILL",
+        "text": "What?"
+      },
+      {
+        "speaker": "SHEA",
+        "text": "There's something through that wall!"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Well what is it!"
+      },
+      {
+        "speaker": "SHEA",
+        "text": "I don't know!  Trust what I'm saying, we have to open this wall!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54564",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "BRAD",
+        "text": "I mean hardly any thigh.  I'm telling you, Joey; shorter skirt, more lift on the leg-cross ... and you're made."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54565",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "BRAD",
+        "text": "What, you think I'm kidding?  I guarantee it.  An inch more flank.  Boys upstairs get hot.  Bingo, you're an anchor-woman."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Jesus Christ ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54566",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "BRAD",
+        "text": "C'mon, Joey.  I'm just trying to help you hit a home run here."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Yeah?  Well, you just struck out.  It may be a surprise to you, Brad, but I want to do it the right way.  Not tight skirts.  Tight stories."
+      },
+      {
+        "speaker": "BRAD",
+        "text": "Right.  Like last night's doozie."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "I know what I saw."
+      },
+      {
+        "speaker": "BRAD",
+        "text": "And I believe what you say.  But this is TV.  No pictures, no story."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54567",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "BRAD",
+        "text": "Not on station time."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "No.  Not on station time.  My story.  My time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54568",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "I know.  I know.  But it's just so ... neat, isn't it?  The first gig that isn't cute kids or diet gurus and it's taken away from me."
+      },
+      {
+        "speaker": "DOC",
+        "text": "Yeah, well like you said - it's a mystery.  But that's all it is. Mystery.  Not malice.  What, you think the station paid off every accident victim in the city to ... ?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54569",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Better hurry, Doc.  A real story.  With a real reporter."
+      },
+      {
+        "speaker": "DOC",
+        "text": "Joey ....  Look, you wanna ride?  I can go by your place."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "You'd lose the money-shots.  No.  I'll catch a bus.  Or a cab.  Don't worry about it.  Go."
+      },
+      {
+        "speaker": "DOC",
+        "text": "OK.  Be careful.  And lighten up.  Story of your life could be right round the corner."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "That is the story of my life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54570",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "DOC",
+        "text": "You wanted a story.  You got it.  Turn on the TV now.  And then get your ass down here ...  ..."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Doc?  ...  Doc ... Hello?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54571",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Wait ... wait.  You ... you have to help me.  I don't understand.  Am I dreaming this?"
+      },
+      {
+        "speaker": "ELLIOTT",
+        "text": "You have to help me.  You will understand.  And no, you're not dreaming.  Do you know where we are?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "It's ... I don't know.  First World War, right?"
+      },
+      {
+        "speaker": "ELLIOTT",
+        "text": "Correct.  The fields of France.  And many dead flowers ... Oh.  Forgive me. My name was Spenser.  Elliott Spenser. Captain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54572",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "ELLIOTT",
+        "text": "Well done.  Brave girl.  You've probably never shaken hands with a ghost before, am I right?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Captain Spenser.  Elliott.  I ... What the Hell is going on?"
+      },
+      {
+        "speaker": "ELLIOTT",
+        "text": "Hell is precisely what is going on, Joey.  And we have to stop it.  I because of a special obligation, you because you're the only person who can help. And because you know what is right, and just, and true.  Will you walk with me a while?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54573",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "ELLIOTT",
+        "text": "The war pulled poetry out of some of us. Others it affected differently.  This is me a few years later.  We're in India, by the way, and it's 1921.  I was like many survivors. Lost souls with nothing left to believe in but gratification. We'd seen God fail, you see.  So many dead.  For us God, too, fell at Flanders.  We adjusted to the loss.  And if we mourned, we mourned in silence. Thousands drank themselves to death. Others went further.  I went further.  I thought I was a lost soul.  But, until this frozen moment, I didn't even know what the phrase meant."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "And what is ... this frozen moment?"
+      },
+      {
+        "speaker": "ELLIOTT",
+        "text": "The cusp of my life.  What I was, what I am, what I will be ... past, present, future, all bound here at this timeless moment of decision.  I was an explorer of forbidden vices and pleasures. Opening the Box was my final act of exploration, of discovery."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "And what did you discover?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54574",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "ELLIOTT",
+        "text": "Something bad."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "And why are you back?  Why are we here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54575",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Kirsty Cotton.  Yes.  But ... if your soul was freed, why are you back?"
+      },
+      {
+        "speaker": "ELLIOTT",
+        "text": "Because - monster as I was - I was bound by Laws.  The protocol of Hell.  The Box had to be opened to let me out.  The truly innocent were safe.  That's no longer true.  The shell of the beast has been fleshed.  What I was is out there, Joey.  In your world.  Unbound. Unstoppable."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "What will he do?  What does he want?"
+      },
+      {
+        "speaker": "ELLIOTT",
+        "text": "He'll do what he does best.  But he'll do it unfettered.  He wants to walk the Earth forever, indulging his taste for all the myriad subtleties of human suffering."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "What can we do?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54576",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "ELLIOTT",
+        "text": "I like you, Joey.  You ask all the right questions.  There is something we can do but it will require great courage."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "I don't know ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54577",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "ELLIOTT",
+        "text": "Joey, you walked through your window from one reality to another.  You're stronger than you think."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Then tell me what to do."
+      },
+      {
+        "speaker": "ELLIOTT",
+        "text": "This is his first night on Earth.  He wants to close the door behind him. Like all Lieutenants, he covets command. There's a gateway to Hell through which he can be taken back.  He has to destroy it."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "So where is it?"
+      },
+      {
+        "speaker": "ELLIOTT",
+        "text": "Your apartment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54578",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Wha .... ?"
+      },
+      {
+        "speaker": "ELLIOTT",
+        "text": "The Box, Joey.  He wants the Box."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54579",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "It was off the statue.  In the club."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "What happened to him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54580",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Hold on.  Hold on, please.  I need talk to you."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "It's nothing to do with me.  I wasn't even with him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54581",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "Look, lady!  I told you!  It's not my problem!  I was just there!"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Where?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54582",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "Under The Underground.  Can I like GO now?!"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Under the Underground?  What's that? Where is ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54583",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Uh-huh?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Uh ... Hi!  Is this ... er ... Joanne Summerskill?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Joey.  Yeah, who is this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54584",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "You like ... left me a card?  At the club?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Right.  Right!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54585",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "Right ... So ... Well, what do you want?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "I want to talk to you.  We met ... now, listen, don't hang up, OK? ... We met at the hospital last night."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Oh yeah.  Yeah.  Well ... Look, I'll make a deal with you ... My boyfriend threw me out, right?  I'll trade you. You give me couch-space.  I'll give you talk.  OK?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54586",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Yeah.  Sure.  You mean ... tonight?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Of course tonight.  Is that a problem? Like, if you've got a guy there or something ..."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "No.  No.  It's fine.  Come now.  I was having bad dreams anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54587",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "I put some decaf on.  Er ... make yourself comfortable."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54588",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "What?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Your dream.  You said you were having a bad dream."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Oh yeah ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54589",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "... well, I've been having it for years. It's not a nightmare or anything.  It's ... well, I know what it is."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Why are you so interested?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Sorry."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "No.  No, it's OK.  I ... It's my father."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Oh, right.  Did he used to ... ?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "God, no!  Nothing like that.  No, he died before I was born.  He died in Vietnam.  I never knew him.  Never met him.  We don't even know the details.  I dream of battlefields.  Of searching. Of trying to find out."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "That's great."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "What?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "No ... I mean, it's not like great about your dad or anything.  It's just I don't dream.  Never have.  ... Maybe it'd help if I slept sometime ... Just kidding ... No, so it's always neat for me to hear about dreams.  I'm jealous.  It's like everybody has another world except me. You know what I mean?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "I know what you're saying but ... Never? You've never had a dream?  No, you know, you do.  You must.  What you mean is you don't remember them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54590",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "Great.  Thanks.  You gonna have one?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "I'm trying to quit."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Oh, go on.  Have one.  Fuck it.  You think you're going to live forever?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54591",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Sorry.  It was my father's.  It's temperamental."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "It's okay.  It's just someone burned me once."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54592",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "Oh.  You wanna talk about that stuff."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Yes I do.  Terri, something awful happened to that boy.  I have to find out what it was."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "But I don't know anything!  Really.  I just came out of the club and the kid was already in the street.  He ..."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Did you know him?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "No.  I'd seen him in there a few times before.  He was just a punk.  I'd never like danced with him or anything. Anyway, he was a thief.  He must've taken it from the statue."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Taken what?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "The thing!  He was lying there in the street, moaning.  But he pointed at it ... 22"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Wait a minute.  He was already ... wounded ... when you found him?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Yeah!  That's what I'm saying!  And it was lying next to him.  And he pointed at it before he passed out and ..."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Wait.  Wait.  The chains.  Where did the chains come from?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "That's what I'm trying to tell you! ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54593",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "I figured I'd make breakfast."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Right ... That's ... er ... that's nice of you, Terri.  Can I ask?  Is it always this ... exploratory?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Ha!  I don't know yet.  First time. Kitchen virgin, that's me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54594",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "I'll boil some water."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "I'll do it!"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "No!  No, that's OK.  I like to.  I love boiling water.  It's a specialty of mine.  Why don't you go watch cartoons?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54595",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "This is great.  And it's yours?  You like own it?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "The bank owns it.  But I'm working on it."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Jeez, I've never owned anything.  I haven't even had a room of my own since I was fifteen years old."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54596",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "How have you ... ?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Guys.  Sometimes friends.  Mostly guys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54597",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "Wow.  Lotta books.  You read all these?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "No.  I buy them to impress people.  Of course I've read them."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Cool.  I read a book once.  It was like all these people discovering who they used to be.  You know, like reincarnation?  It was really good.  You ever read that?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "I don't think so.  But it's a fascinating subject.  Did you ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54598",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "... but it is good.  You know, over to the left, you can ..."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Who's that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54599",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "I don't know his name ...  I saw the whole story.  A wounded bird was on his roof.  I could hear its cries from here. He went straight to it.  I couldn't've. I'd be frozen between pity and fear. But he wasn't.  Its pain spoke directly to him.  He picked it up.  Nursed it. Fed it.  And it got better.  Everyday he'd watch the pigeon.  Everyday the pigeon would watch him. I saw him learn. Learn that there was one more thing he had to do to make the rescue complete. And one day, just as afternoon became evening, he leaned over, opened the cage, and walked away.  Didn't look back.  But he heard the sound of its wings."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "And he still sits there?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Every day."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Maybe he thinks it'll come back."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "No.  He knows it won't.  It was his final act of love and part of him knows that and part of him doesn't yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54600",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "But I don't know what's going on."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Maybe not.  But you know more than I do. You know something about this box. Something about a statue?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Yeah.  I found it.  I knew held like it and I figured ..."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Woah.  Wait a minute.  Who?  The kid?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "No.  JP.  My last boyfriend?  He like owns the club.  You know?  You were there?  He bought the statue."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "That you found.  What do you mean you found it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54601",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "I was downtown looking for a ... a friend.  A guy I know.  Anyway, there was this store.  Like real old?  Lotsa weird shit in there.  I saw this statue. Pillar.  Thing.  I knew he'd love it. You've seen the club."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Would you know this store again?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Sure.  Why?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "It's Saturday morning.  Let's go shopping."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54602",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Jesus.  Are you sure this is the street?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Yeah.  Happening, isn't it?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "What on earth were you doing down here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54603",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Terri?"
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Buying some drugs, alright?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Oh, Terri ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54604",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "For somebody else, alright?  Not for me. I don't do that shit anymore."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Then you shouldn't even be around it. You know, it's ..."
+      },
+      {
+        "speaker": "TERRI",
+        "text": "Here!  Here!  Pull over!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54605",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "What am I looking for?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "God knows.  Anything.  Contacts.  Clues."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54606",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "TERRI",
+        "text": "Joey ... ?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Help me pick 'em up, Terri.  I think the lady just made a sale."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54607",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "MAMA",
+        "text": "No.  Sorry.  Not interested.  Not for my customers.  Have you tried ..."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "No.  No, you don't understand.  We're not selling it.  It came from here.  We want ..."
+      },
+      {
+        "speaker": "MAMA",
+        "text": "Everything sold as is.  No guarantees. No returns."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "No.  We want ..."
+      },
+      {
+        "speaker": "MAMA",
+        "text": "I took back everything bought on a whim, I'd have no business.  I ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54608",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "MAMA",
+        "text": "Never mind.  I'm glad it's gone.  Made the store feel strange.  Who'd make such a thing?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Fine.  Fine.  But can you tell us anything about it?"
+      },
+      {
+        "speaker": "MAMA",
+        "text": "It was part of a job-lot.  Some loony- bin they shut down.  Unclaimed stuff."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "What else came with it?  Anything still here?"
+      },
+      {
+        "speaker": "MAMA",
+        "text": "Sure.  Just papers, photos.  Stuff nobody'd ever want."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Can we see?"
+      },
+      {
+        "speaker": "MAMA",
+        "text": "You gonna buy?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "I don't know.  Maybe."
+      },
+      {
+        "speaker": "MAMA",
+        "text": "Right at the back there.  Middle shelves.  Coupla folders.  Nice stuff. I'd do you a good price."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54609",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JP",
+        "text": "Welcome. 38"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "You're JP Monroe, right?"
+      },
+      {
+        "speaker": "JP",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "And this is your club.  Great club.  I really love it here.  Great club."
+      },
+      {
+        "speaker": "JP",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Thank you for the drink.  And the rose. Wow.  That's ... really nice."
+      },
+      {
+        "speaker": "JP",
+        "text": "It's yours.  You won it.  It's a prize."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "A prize?  For what?"
+      },
+      {
+        "speaker": "JP",
+        "text": "You see, everyday I have my friend John here bring ..."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "The barman?  I thought he was called Rick?"
+      },
+      {
+        "speaker": "JP",
+        "text": "He's a barman.  Whatever.  Do you mind if I continue?"
+      },
+      {
+        "speaker": "SANDY",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "JP",
+        "text": "Everyday I have my friend Rick here bring a newly-cut red rose in with him and keep it behind the bar.  And I award it to a woman of exceptional beauty."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Oh come on.  There're lots of girls here who look better than ..."
+      },
+      {
+        "speaker": "JP",
+        "text": "Don't do that!  Don't put yourself down. If you have a quality, be proud of it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54610",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JP",
+        "text": "... Let it define you.  Whatever it is. Most of the roses die behind the bar. This is the first I've given out for nearly a month."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "No.  Really?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54611",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "JP",
+        "text": "Yes really."
+      },
+      {
+        "speaker": "SANDY",
+        "text": "Wow.  Thank you."
+      },
+      {
+        "speaker": "JP",
+        "text": "No.  Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_54612",
+    "movie_id": "m393",
+    "turns": [
+      {
+        "speaker": "SANDY",
+        "text": "Do you mind me talking about your stuff?"
+      },
+      {
+        "speaker": "JP",
+        "text": "Unh-unh."
+      }
+    ]
+  }
+]

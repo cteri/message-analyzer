@@ -1,0 +1,1898 @@
+[
+  {
+    "conversation_id": "conv_22801",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "POPPY",
+        "text": "I was wondering if you'd finished considering?"
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Considering what?"
+      },
+      {
+        "speaker": "POPPY",
+        "text": "What I asked you earlier?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22802",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "ARGON",
+        "text": "Poppy, please --"
+      },
+      {
+        "speaker": "POPPY",
+        "text": "If you loved me like I loved you?"
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Poppy, this is not the time!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22803",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "ARGON",
+        "text": "Did you feel that?"
+      },
+      {
+        "speaker": "POPPY",
+        "text": "Did I?  I've been waiting for that for years."
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Not that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22804",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Okay.  Alright.  Okey-dokey.  Now, we need the nanobot.  The nanobot that initiated the reaction.  Once we have that we can stabilize the meltdown.  Simple really.  No problem."
+      },
+      {
+        "speaker": "ARGON",
+        "text": "The nanobot is gone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22805",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "ARGON",
+        "text": "The fact is, that the milk has been spilled and now we need you to tell us how to clean it up."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Cleaned up?  It can't be cleaned up! Without the nanobot the waste can't be stabilized!  That's what we've been trying to tell you!  The only thing we can do is run!  Run!  Run!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22806",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "ARGON",
+        "text": "Facts, Dr. Nebbleman.  Facts. You've been using cryogenics to control the waste from the mouse experiment, haven't you?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Well, yes.  The replicators are not as active at low temperatures."
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Then perhaps we can use liquid nitrogen to keep the meltdown under control."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "That might work."
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Poppy, order the trucks from the Gary plant.  And we're going to need a containment crew."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22807",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Well, at this time, I mean that is to say, it is difficult to project --"
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Look, John, nobody wants to find out what happens.  That's why you're here.  We need your help on this one and that's why that suitcase is here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22808",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "She could have given him something to stimulate his kidneys."
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Dr. Nebbleman, take care of them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22809",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Where did he go?"
+      },
+      {
+        "speaker": "ARGON",
+        "text": "The trunk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22810",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "They're here!  They're here!  We have the nanobot."
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Excellent.  How long until the assembler tank is complete?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22811",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Dr. Makeo is working on it now, sir. I estimate at least another six hours."
+      },
+      {
+        "speaker": "ARGON",
+        "text": "In the meantime, why don't you find something useful for Dr. Bright to do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22812",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Of course you understand, Dr. Argon, that once the nanobot is inside of you, there is no going back --"
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Shut up and do it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22813",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "ARGON",
+        "text": "Excellent work, Dr. Nebbleman.  You have outdone yourself."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Thank you, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22814",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "ARGON",
+        "text": "It'll be better for us if he simply disappears.  The gardener will know what to do."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Wait, wait, can I at least have his body?"
+      },
+      {
+        "speaker": "ARGON",
+        "text": "Donated to science.  Perfect."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22815",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "KID",
+        "text": "Hey!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "You don't want this."
+      },
+      {
+        "speaker": "KID",
+        "text": "Yeah, I do!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "You have no idea what this is doing to your body."
+      },
+      {
+        "speaker": "KID",
+        "text": "I like Trix!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22816",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Here, kid, this is great stuff.  Why don't you give it a try?"
+      },
+      {
+        "speaker": "KID",
+        "text": "I want Trix!  Mommy!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22817",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "LITTERBUG",
+        "text": "Yeah?  So what?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "So what?  So what?  For starters, how about littering is a crime."
+      },
+      {
+        "speaker": "LITTERBUG",
+        "text": "Haw-haw!  Why don't you run off and find a cop and I'll wait right here."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Why don't you just put this in your pocket so when you see a garbage can you can put it where it belongs."
+      },
+      {
+        "speaker": "LITTERBUG",
+        "text": "Why don't you just shove it up your ass!  Haw-haw!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22818",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "What is it with you litterbugs?  Is it a territorial thing, marking your turf with your garbage?"
+      },
+      {
+        "speaker": "LITTERBUG",
+        "text": "You better quit pushing me, pal."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I just want to know what goes on in the mind of a litterbug.  What chemical is secreted by your smooth brain that tells you, 'It's okay, just chuck it'?"
+      },
+      {
+        "speaker": "LITTERBUG",
+        "text": "Look, asshole, I don't got time for this.  If you got a problem, you better take care of it yourself."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Oh no, no, no.  No can do.  You enjoyed a tasty beverage and thus this receptacle becomes your responsibility and I don't care if it's a Styrofoam cup or the Exxon Valdez!  You've got to learn to take responsibility!"
+      },
+      {
+        "speaker": "LITTERBUG",
+        "text": "What are you going to do?  Make me throw it out?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I'll do whatever I have to do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22819",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "What?  Oh, I'm sorry, Nigel.  I was just thinking..."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Aaabout...?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "This morning.  I saw someone I haven't seen in a long time."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "A man?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Yeah.  I knew him when I was still in school."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "What did he want?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "I'm not sure.  That's the funny thing about him.  He's the kind of guy that you never know what he wants or what he might do to get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22820",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Do you remember about five years ago, that uh... incident at Purnell Labs?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Oh yeah.  They were working on molecular assemblers, too, weren't they?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "They also tried using viral R.N.A. as the bonding element."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "That's right.  C.D.C. found out and closed them down..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22821",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Yeah, somebody broke in and stole the samples, one of those animal rights groups, right?  I remember now, they freed all the monkeys which caused that huge pileup on the Massachusetts Turnpike, right?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Yeah.  But it wasn't a group.  It was one man."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "That's the guy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22822",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "What did security say?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "They'll in validate the key. Probably nothing."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Well, you got another problem."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "The replicators?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Worse.  Mrs. Argon wants to talk to you.  She's waiting in the lab."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "This day just keeps going from bad to worse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22823",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "I bet he hasn't read a single report we've written on the waste problem."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "I hope you're right.  I'd feel a lot worse if he had read them and just didn't care."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "What are you going to do?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "What I've always done.  As long as I'm the only one who can build the nanobot, I'm the only one who can say when it should be tested."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22824",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "You were never invited to my house."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "You're looking for a urine sample."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22825",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Of course, sir."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Dr. Argon, I know you want to use the nanobot on yourself, but you mustn't.  The situation is critical right now.  The replicators are growing exponentially.  If we wait much longer it will be too late. You have to use the nanobot to stop the meltdown."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22826",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "I don't believe this is happening..."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Susan, Dr. Argon is giving you an opportunity here."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Opportunity?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22827",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "There's a guard outside my door! I'm a prisoner, Nigel!  Do you understand that?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Dr. Argon would say we are all prisoners."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Argon is a lunatic!  I can't believe I was stupid enough to believe I could control him.  You heard what he said, Nigel.  He doesn't care if all of Calumet City is turned to Jell-O.  How can that not affect you?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Because I am a new man, Susan.  I am a man of vision.  Your problem, Susan, is that you're always looking down.  If you'd just look up you'd see the big picture and in the big picture men of vision do not dwell on what might be lost.  They focus on what can be gained."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Is that what Argon told you?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "No!  Well, not those exact words."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Nigel, can't you see he's using you?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Of course he is, but at least there isn't a security guard outside my door."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "You're afraid of him."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Who isn't?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22828",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "I'm a scientist.  I have lived my whole life by the diagnostic application of fact and the fact is, Argon is going to get whatever he wants, so if I were you, I'd give it to him."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "You mean the designs for the nanobot?  You think after this I'm going to give them to him?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "I think that either you're going to give them to him or he's going to make you give them to him."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Make me?  How?  You think he's going to torture me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22829",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "SIM",
+        "text": "It's Sim.  We're almost there."
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Mr. Sim, watch out!  O'Brien escaped and could be on his way!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22830",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SIM",
+        "text": "You want to tell me what I'm looking for?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "I've only been invited to her house once, but I know there is a basement lab that she uses for private research."
+      },
+      {
+        "speaker": "SIM",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22831",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SIM",
+        "text": "What's it smell like?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Smell?  Uh, something like methylcyanoacrylate."
+      },
+      {
+        "speaker": "SIM",
+        "text": "Like Crazy Glue?"
+      },
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Yes.  That's it.  He's got it.  Oh God, he's got it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22832",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Sir, please try to hold still."
+      },
+      {
+        "speaker": "SIM",
+        "text": "So, I guess it worked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22833",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "He's probably right, sir, the building is probably going to collapse under its own weight."
+      },
+      {
+        "speaker": "SIM",
+        "text": "And if we evacuate, what do you want to do with O'Brien?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22834",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "NEBBLEMAN",
+        "text": "Susan!"
+      },
+      {
+        "speaker": "SIM",
+        "text": "Wellie well, Dr. Bright.  You're just in time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22835",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Daniel..."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "What?  No kiss?  Not even for old times sake?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22836",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "When did you...?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Been out for six months now."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Really?  What have you been doing?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "You know, this and that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22837",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Somebody has to."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Same old Daniel."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Oh no.  Not by a long shot.  I may look like the old Daniel O'Brien, but on the inside, nothing is the same."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Is that so?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Oh yeah.  See, Susie, a man doesn't do the hard time and just pick up where he left off.  Oh no.  The big house does things to a man."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "The big house?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "The big house."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Jesus, Daniel.  It wasn't Ryker's Island.  It was work camp for white collar criminals."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "A cage by any other name would still smell like sweaty ugly men."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22838",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "I've been thinking about you a lot all these years, locked up in my cell.  I'd tear through every issue of the Midwest Science Journal looking for your latest findings, watching as you slowly worked your polymerization experiments up through single celled organisms to that holiest of holies, the fruit fly.  Exciting stuff.  I got to tell you, it really kept me going."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "I guess I should be flattered."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I remember you said, nanotechnology was going to change the world."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "It already is."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I've read they're using it to repair cancer cells."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "And for cleaning up oil spills."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Right.  You predicted it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22839",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Do you ever wonder what happened to us, Susie?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "It was a long time ago, Daniel.  We were young, different people, heading in different directions. That's all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22840",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Well, it was good to see you, Daniel, but I have to be going."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Sure.  Can I ask you one more thing? You haven't published anything in a while.  How come?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22841",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Nothing really worthwhile."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "That's what I thought."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22842",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "And what I love about molecular science is the way it revolutionizes how we have to think.  It unifies the entire world on a single level. Everything is completely connected. Sometimes I can really feel it, everything around us, just a small part of a whole.  It's really wonderful."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Yeah, we'll see."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "We'll see?  What does that mean?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "We'll see how wonderful it is after you spend the next twenty years making Agent Orange."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "God, Daniel, I'm not going to make Agent Orange."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "You think the chemists that invented Agent Orange twenty years ago were in school saying, 'Boy, I really got some good ideas for a highly toxic incendiary defoliant.'  You think Oppenheimer was dreaming about mushroom clouds before the war?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22843",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "We've had this conversation already, Daniel."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "All I'm saying is that the companies that have money for the kind of research you're interested in, have money because that's what they're interested in!  Money!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22844",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "I'm sorry I brought the whole thing up!  If you're gonna flip your wig --"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I can't help it, Suze.  It's this place.  You know how I get in these stores.  They freak me out.  All these tiny boxes, little cans filled with eight syllable God knows what."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22845",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "You think it's a coincidence that they have all these aisles lined up like this, like a little maze! We're all lab rats running through their maze, pulling lever A or lever B, each designed to create some kind of bio-chemical dependency.  All the while they're everywhere, watching us, two-way mirrors, surveillance cameras, nodding to each other, making little notes."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "You're insane."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Am I?  Look!  Right there!  That's exactly what I am talking about."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22846",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Daniel, give him the Trix."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Susan, this is the future of America here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22847",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Susie!  You gotta help me!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Daniel, what are you doing here?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Please, Susan!  I need help! Something is wrong with me!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Sorry, Daniel, I'm a physicist, not a psychiatrist."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "No, something is really wrong... look!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22848",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "They did it to me!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "The nanobot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22849",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "... just like the mouse."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Mouse?  What mouse?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "My first organic-polymerization was a lab mouse."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "What happened to it?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22850",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "You don't know?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "It escaped from the lab before we could finish the experiment."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "But you've polymerized single-celled bacteria and the fruit flies, I know you have."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Yes."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Then you must have at some point tried to reverse the procedure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22851",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Oh no, no, no!  You've got to be able to fix me!  Please, Susan, tell me you can make me normal again!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Once the subject was polymerized we were unable to reassemble the original organic structure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22852",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Oh God, please!  This can't be happening!  I can't be plastic!  A plastic man?!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Daniel!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I'm a plastic man!  A plastic man!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22853",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "We don't have time for hysterics."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "We don't?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "What has happened to you is nothing compared to what is going to happen to Calumet City if we don't hurry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22854",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "What are these?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Mostly caffeine diuretics.  Help you go to the bathroom."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Why?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "The nanobot is still inside you. It's programmed to exit through the urinary tract.  We need it as soon as possible, so swallow those."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22855",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Pills... you know how I feel about pills."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "If you don't want to do it this way, I can remove it surgically."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22856",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Why do we need it?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "The nanobot is the only thing that can stabilize the waste."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "What waste?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22857",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "To put is simply, the nanobot inside you is a microscopic machine encoded with information like a strand of messenger R.N.A. that is programmed to synthesize your molecules with the polyisoprenes of the assembler fluid, rebuilding your entire organic system on a molecular level."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "That was 'simple'?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22858",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "The nanobot combined your molecules with the plastic molecules in the white assembler fluid, so that on a molecular level you now have more in common with a Good Year tire than a human being."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Got it."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "The problem is the by-product created by the process."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "The waste."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22859",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "The replicators start off like assemblers, but the replicators never stabilize."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "What happens?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22860",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "That was an egg?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Three days ago it was."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "What do these replicators do to people?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "With enough exposure, the same thing they do to everything else."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22861",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "So right now there's little replicators spreading throughout Argon's lab?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "That's right."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Isn't it already too late then?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22862",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "I think while we're waiting, we had better run some basic diagnostics on you."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "You're the doctor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22863",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Lungs sound fine.  You didn't have any pre-existing physical conditions, did you?  Allergies? Infections?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "No, why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22864",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Is something wrong?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "No, no, I just feel wired!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22865",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Susan!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "What?  What's wrong?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22866",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Look at this!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "What about it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22867",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Just look at it!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "The polymerization probably synthesized into a kind of methyl- cyanoacrylate.  So what's wrong?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22868",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Oh yeah, real funny.  Yuk-yuk. Let's laugh at everything a man believes in."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "I'm sorry, Daniel, but you have to admit it's pretty ironic that you of all people would be the first man ever polymerized.  It's got to mean something."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Means?  Oh no.  We won't know what it means until the end of the story and maybe then it won't seem quite as funny to you, Doctor Frankenstein!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22869",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "What's that supposed to mean?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Just giving credit where credit is due."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "You have no one to blame but yourself."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Blame the victim."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Victim my ass!  You stole my security key and used it to break into my lab to do who knows what kind of damage!  Maybe this is the end of the story and you finally got what you deserved!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "This is what I deserve for trying to protect the world from a madman and his mercenary physicists?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "You're not protecting the world, you're obstructing progress!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I don't consider uncontrollable toxic waste progress!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "And I'm sure you thought Columbus was going to sail off the edge of the world!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "But lo and behold he found another world that progress could annihilate!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Come on, I don't see you living in a cave!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "And I don't see you sunbathing at Chernobyl!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22870",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Just like old times."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Yeah.  Old times."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22871",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "I want you to know that I really appreciate you helping me."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "I'm glad you came to me for help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22872",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "I feel very emotional right now.  A bit out of control."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Probably the caffeine."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Do you have something to bring me down?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "No problem."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22873",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Uh oh.  I remember that temper."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Daniel, I didn't hear you come down..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22874",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "The nanobot... it's not here..."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "It's still inside me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22875",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "How far can you stretch?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22876",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "I'm going to go out for a while.  I want to take the blood samples to a lab that has the equipment I need."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "What did you want my hair for?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Something else I want to try."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22877",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "I could go with you."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "I think it would be better for me to go alone.  I'm sure Sim is looking for you.  Just sit tight.  I'll bring you back a pizza."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "No cheese."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "I was hoping you were over that. Remember to keep drinking fluids."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22878",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "That's pretty good."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Getting used to it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22879",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "It's a crime fighting costume, what do you think?  It's underwear, so if you lose your clothes you'll still be decent."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "That's going to fit me?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Like a glove."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22880",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "You made this out of my hair?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Sort of.  We used a process similar to the vulcanization of rubber and added bulk with a chain of chloroprene elastomers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22881",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Did you go?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "On the counter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22882",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Who is he?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "The head shrinker at the prison."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22883",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Oh no.  They're trying to blame you for the accident.  That means they must not have been able to control the replicators."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I can't go back to jail.  I gotta get out of here."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "You're not going back to jail.  All we need to do is find the nanobot. Once the meltdown is under control, then we deal with Argon --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22884",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "I don't believe it.  You're here! Oh thank God."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "You didn't think I could just leave you?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "I didn't know what was going to happen.  I was just so worried something was going to happen to you."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "What could happen?  I'm the plastic man, remember?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22885",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Oh no!  Argon!  We have to stop him before he uses the nanobot!  We have to get the nanobot!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Where is it?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Argon's private lab."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Let's go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22886",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Run, Daniel!  Get out of here!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I'm not leaving without you, Susan!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22887",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "You saved my life."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Did you think I could just leave you...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22888",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "Susie... I..."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "You don't have to say anything, Daniel.  I'm a scientist.  I know what's happening.  I recognize the classic symptoms.  Dizziness, shortness of breath, sweating palms... I can feel my adrenals secreting, my parasympathetic nervous system quivering, the estradiol coursing through my entire body..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22889",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "What in the...?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Oh shit, the meltdown.  It's spread to the tower."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "We've got to get the nanobot."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "It's too late.  Argon injected it."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "You mean he's polymerized, like me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22890",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "That means the nanobot is still inside him."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Yes."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "What would happen if I threw him into the core?"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "The same thing I suppose."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22891",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Daniel, just forget Argon.  Let's get out of here.  We'll find another way to stop the waste."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "We don't have time to argue, Susan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22892",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "You're not going after Argon!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I have to!"
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Do the words 'hero fantasies' mean anything to you?  How about 'infantile dementia'?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22893",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "God, when we were in that store all I could think about was that one time, when we were in school, and you attacked that little kid who wanted some cereal.  Do you remember that?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I remember I was trying to help..."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "God, what a fight that was."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "We were different people then."
+      },
+      {
+        "speaker": "SUSAN",
+        "text": "Do you suppose that was our problem? We met before our time?  I think that happens a lot.  People, events, planets all just circling each other waiting for that moment when everything clicks into place."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22894",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SUSAN",
+        "text": "Things do change."
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I guess they do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22895",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "You!  I remember you!"
+      },
+      {
+        "speaker": "SIM",
+        "text": "I'm real touched.  Now get your Sunday's on.  We're going for a ride."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22896",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "What?  I'm not going anywhere!"
+      },
+      {
+        "speaker": "SIM",
+        "text": "Oh yes you are!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "I get it.  You're the goon fetch boy.  The zookeeper Argon calls in when one of his guinea pigs gets loose."
+      },
+      {
+        "speaker": "SIM",
+        "text": "That's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22897",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SIM",
+        "text": "Only this ain't no tranquilizer gun. Now let's go!"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Forget it, pissboy!  You tell Argon he can call my lawyer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22898",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "This is wonderfully accommodating of you all.  Now I won't have to come looking for you."
+      },
+      {
+        "speaker": "SIM",
+        "text": "You were looking for us?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "Yeah, I have something I've been meaning to give you."
+      },
+      {
+        "speaker": "SIM",
+        "text": "Yeah, and what might that be?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "An ass-beating.  Would you like yours first, Mr. Sim?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22899",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "O'BRIEN",
+        "text": "All the different ways that I could kill you."
+      },
+      {
+        "speaker": "SIM",
+        "text": "Oh yeah?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_22900",
+    "movie_id": "m160",
+    "turns": [
+      {
+        "speaker": "SIM",
+        "text": "Maybe you're ready to find out if that hide of yours is bulletproof?"
+      },
+      {
+        "speaker": "O'BRIEN",
+        "text": "The question is, are you?"
+      }
+    ]
+  }
+]

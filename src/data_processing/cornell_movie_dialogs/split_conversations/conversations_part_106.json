@@ -1,0 +1,1878 @@
+[
+  {
+    "conversation_id": "conv_10501",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SOPHOMORE",
+        "text": "Hey!  I'm getting a little tired of this."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "You volunteered, didn't you?  Aren't we paying you for this?"
+      },
+      {
+        "speaker": "SOPHOMORE",
+        "text": "Yeah, but I didn't know you were going to give me electric shocks.  What are you trying to prove?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "I'm studying the effect of negative reinforcement on ESP ability."
+      },
+      {
+        "speaker": "SOPHOMORE",
+        "text": "I'll tell you the effect!  It pisses me off!"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Then my theory was correct."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10502",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STREET PUNK",
+        "text": "Hey, Mister!  Can I see those guns?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "They're not guns.  They're particle throwers."
+      },
+      {
+        "speaker": "STREET PUNK",
+        "text": "Yeah, yeah.  I just want to see 'em."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "I couldn't do that.  You might hurt someone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10503",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STREET PUNK",
+        "text": "Wait!  Wait!  Let me ask you something.  If you like shot Superman with those guns, would he feel it or what?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "On Earth -- no.  But on Krypton we could slice him up like Oscar Mayer Bologna."
+      },
+      {
+        "speaker": "STREET PUNK",
+        "text": "Wow!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10504",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "WOMAN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Were you recently in the bathroom?"
+      },
+      {
+        "speaker": "WOMAN",
+        "text": "What on earth gave you that idea?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "The wet towels, residual moisture on your lower limbs and hair, the redness in your cheeks indicating ..."
+      },
+      {
+        "speaker": "WOMAN",
+        "text": "You're a regular Sherlock Holmes.  Now what do you want?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "When you were in the bathroom, did you notice anything that was yellow and unusually smelly?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10505",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "Oh!  You're here."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "What have you got, Egon?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Oh, this is big, Peter.  This is very big. There's definitely something here."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Egon, somehow this reminds me of the time you tried to drill a hole in your head.  Do you remember that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10506",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "Spengler, are you serious about actually catching a ghost?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "I'm always serious."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Wow!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10507",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "Just for your information, Ray, the interest payments alone for the first five years come to over $75,000."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Will you guys relax?  We are on the threshold of establishing the indispensable defense science of the next decade - Professional Paranormal Investigations and Eliminations.  The franchise rights alone will make us wealthy beyond your wildest dreams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10508",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "Generally, you don't see that kind of behavior in a major appliance.  What do you think, Egon?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "She's telling the truth -- or at least she thinks she is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10509",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "Did you see anything?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Didn't see anything,  Didn't get anything. Nice girl - no ghost.  I'm starting to worry.  You said your graph was pointing to something big.  You told me things were going to start popping."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10510",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "Something was definitely here."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Yeah, I can smell it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10511",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "Wait!  Wait!  There's something I forgot to tell you."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "What?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Don't cross the beams."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Trust me.  It will be bad."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "What do you mean \"bad?\""
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "It's hard to explain, but try to imagine all life as you know it stopping instantaneously and finding yourself confined forever in another dimension."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10512",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "It's Peter, Egon.  I've got a problem."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "I'm with Dana Barrett and she's floating three feet off the bed."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Does she want to be?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "I don't think so.  It's more of that Gozer thing.  She says she's the Gatekeeper.  Does that make any sense to you?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Some.  I just met the Keymaster.  He's here with me now.  Venkman?  Are you there?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Yeah, yeah.  I was just thinking.  It probably wouldn't be a good idea for them to get together at this point."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "I agree."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "You have to keep him there.  Do whatever you have to, but don't let him leave,  He could be very dangerous."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10513",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "All right.  I'll try."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "I'll spend the night here and get back first thing in the morning."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "All right, Peter.  Good night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10514",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "He wants to shut down the storage grid."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "If you turn that thing off we won't be responsible for the consequences."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10515",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "Where's the Keymaster?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Oh, shit!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10516",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "Of course!  Ivo Shandor,  I saw his name in Tobin's SPIRIT GUIDE.  He started a secret society in 1920."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Let me guess -- Gozer Worshippers."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Yes.  After the First World War Shandor decided that society was too sick to survive.  And he wasn't alone.  He had close to a thousand followers when he died.  They conducted rituals, bizarre rituals, intended to bring about the end of the world."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "She said he was \"the Destructor.\""
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Who?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Gozer."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "You talked to Gozer?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Get a grip on yourself, Egon.  I talked to Dana Barrett and she referred to Gozer as the Destructor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10517",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "What now?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Full-stream with strogon pulse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10518",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "On the count of three!  One ... Two ..."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "No!  Them!  Shoot them!  Cross the beams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10519",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "No!  You said crossing the beams would be BAD.  It'll kill her!  And us!"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Life is just a state of mind."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "But it's my favorite state."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10520",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "You know, Peter, this could be a past life experience intruding on the present."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Or even a race memory, stored in the collective unconscious.  And I wouldn't rule out clairvoyance or telepathic contact either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10521",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "I just realized something.  We've never had a completely successful test with any of the equipment."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "I blame myself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10522",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "Sorry, Buddy!"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "We'd better adjust our streams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10523",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "Ray!  Where are you?  Are you all right?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "God, it's ugly!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10524",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "It's working!"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Easy ... Easy ... I'm going to throw in my trap now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10525",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "Set entry grid."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "Neutronize.  System shut."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10526",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "SPENGLER",
+        "text": "I've got to sleep."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "I need two new purge valves.  How's the grid around the storage facility holding up?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "I'm worried, Ray.  It's getting crowded in there.  And all my recent data points to something big on the bottom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10527",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "What happened??!!!?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "The storage facility blew.  This one ...  ... shut off the protection grid."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10528",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "Look at the structure of the roof cap.  It looks exactly like the kind of telemetry tracker NASA uses to identify dead pulsars in other galaxies."
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "And look at this, Peter  Cold-riveted girders with selenium cores."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10529",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "You mean if I stand here and concentrate on the image of Roberto Clemente, Gozer will appear as Roberto Clemente and wipe us out?"
+      },
+      {
+        "speaker": "SPENGLER",
+        "text": "That appears to be the case."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10530",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "Excuse me for a minute.  Ray, I'm right in the middle of something here.  Can you come back in about an hour?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Peter, at 1:40 this afternoon at the main branch of the New York Public Library on Fifth Avenue, ten people witnessed a free-roaming, vaporous, full-torso apparition.  It blew books from shelves at twenty feet away.  Scared the socks off some poor librarian."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Sure.  That's great, Ray.  I think you should get down there right away and check it out.  Let me know what happens."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "No, this one's for real, Peter.  Spengler went down there and took some PKE readings. Right off the top of the scale.  Buried the needle.  We're close this time. I can feel it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10531",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "Spengler and I have charted every psychic occurrence in the Tri-State area for the past two years.  The graph we came up with definitely points to something big."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Ray, as your friend I have to tell you I think you've really gone around the bend on this ghost stuff.  You've been running your ass off for two years checking out every schizo in the Five Boroughs who thinks he's had an experience.  And what have you seen?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "What do you mean by \"seen?\""
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Looked at with your eyes."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Well, I was at an unexplained multiple high-altitude rockfall once."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Uh-huh.  I've heard about the rockfall, Ray. I think you've been spending too much time with Spengler."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10532",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "It looks like a big pair of breasts and a pot belly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10533",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "I told you it's real."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "What do we do now?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "I don't know.  Talk to it."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "What do I say?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Anything!  Just make contact."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Hey, Lady?  Lady!  Can you talk?  Who are you?   This is not working.  Think of something else."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Okay.  Okay.  I got it.  I know what to do. Stay close.  I have a plan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10534",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "\"Get her?\"  That was your whole plan?  You call that science?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "I guess I got a little overexcited.  Wasn't it incredible!  I'm telling you, this is a first.  You know what this could mean to the University?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Oh, yeah.  This could be bigger than the microchip.  They'll probably throw out the entire engineering department and turn their building over to us.  We're probably the first serious scientists to ever molest a dead old lady."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10535",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "If you guys are right, if we can actually trap a ghost and hold it somehow, I think I could win the Nobel Prize."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "If anyone deserves it, it's Spengler and me. We're doing all the hard research and designing the equipment."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Yeah, but I introduced you guys.  You never would've met if not for me.  That's got to be worth something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10536",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "You said you floored 'em at the Regents' meeting."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Ray, I apologize.  I guess my confidence in the Regents was misplaced.  They did this to Galileo, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10537",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "This is like a major disgrace.  Forget M.I.T. or Stanford now ... they wouldn't touch us with a three-meter cattle prod."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "You're always so worried about your reputation.  We don't need the University. Einstein did his best stuff while he was working as a patent clerk.'They can't stop progress."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Do you know what a patent clerk makes?  I liked the University.  They gave us money, they gave us the facilities and we didn't have to produce anything!  I've worked in the private sector.  They expect results. You've never been out of college.  You don't know what it's like out there."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Let me tell you, Ray, everything in life happens for a reason.  Call it fate, call it luck, Karma, whatever.  I think we were destined to get kicked out of there."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "For what purpose?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "To go into business for ourselves."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10538",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "You'll never regret this, Ray."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "My parents left me that house, I was born there."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "You're not going to lose the house. Everybody has three mortgages these days."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "But at nineteen percent interest!  You didn't even bargain with the guy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10539",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "But most people are afraid to even report these things."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Maybe.  But no one ever advertised before."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10540",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "Wow!  Does this pole still work?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "This might do ... I don't know ... it just seems kind of \"pricey\" for a fixer-upper, don't you think?  We're trying to keep our costs down.  You know how it is when you're starting a new company."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10541",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "Everybody can relax.  I found the car.  How do you like it?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Do you think it's wide enough?  How much?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Fourteen hundred."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10542",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "Why don't I check out the building?  It may have a history of psychic turbulence."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Good idea.  Were any other words spoken that you remember?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10543",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "How was your date?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "It wasn't a date.  It was an investigation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10544",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "They will."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Do you know when that might be?  We're on the brink of a very serious cash-flow problem."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10545",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "So do I."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "No sense worrying about it now."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Sure.  Each of us is wearing an unlicensed nuclear accelerator on our back.  No problem."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10546",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "I'm getting high readings near the air vents.  It must be using the duct system to get around.  See, I told you we'd get something."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "So far all we got is a shit smell on the twelfth floor and we almost fried a Puerto Rican bellboy."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "All right.  Let's cool the negative vibes. These things can sense them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10547",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "Ray -- Something's here."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Where are you, Pete?"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Third floor.  Get down here,"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Sit tight.  I'm on my way."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Well, hurry up.  The needle's going wild."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10548",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "It's here, Ray.  It's looking at me."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Don't move.  It won't hurt you."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "How do you know?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "I don't know.  I'm just guessing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10549",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "Boy, that was a rough one."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "I can't take much more of this.  The pace is killing me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10550",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "Egon, how's the grid around the storage facility holding up?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "It's not good, Pete."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10551",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "I guess they don't build them like they used to, huh?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "No!  Nobody ever built them like this!  The architect was either an authentic whacko or a certified genius.  The whole building is like a huge antenna for pulling in and concentrating psychokinetic energy."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Who was the architect?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "He's listed on the blueprints as I. Shandor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10552",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "It doesn't seem to have slowed him down any."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "I don't think it's Shandor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10553",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "As a duly-constituted representative of the City of New York, and on behalf of the County and State of New York, the United States of America, the Planet Earth and all its inhabitants, I hereby order you to cease and desist any and all supernatural activity and return at once to your place of origin or next parallel dimension."
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Well, that ought to do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10554",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "Agile bastard, isn't he?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Forget the trapping!  Just blast him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10555",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "I couldn't help it!  It just popped in there!"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "What?  What popped in there?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Look!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10556",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "VENKMAN",
+        "text": "AND YOU CAME UP WITH THAT?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "The Stay-Puft Marshmallow Man!  He was on all the packages we used to buy when I was a kid.  We used to roast Stay-Puft marshmallows at Camp Waconda!"
+      },
+      {
+        "speaker": "VENKMAN",
+        "text": "Great!  The marshmallows are about to get their revenge."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10557",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "Very impressive resume.  Electronic countermeasures, Strategic Air Command ... Black belt in Karate ... Small arms expert ... Mr. Zeddemore, as you may have heard, we locate ghosts and spirits, trap them with streams of concentrated quantum energy and remove them from people's homes, offices and places of worship."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Yeah, I heard that.  Now tell me what you really do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10558",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "WINSTON",
+        "text": "Hey man.  What is it you're so involved with there?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Uh ... Oh these are blueprints of the structural ironwork in Dana Barrett's apartment building ... And they're most unusual."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Are you a Christian, Ray?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Mmmhmmm."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Me, too."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Boy!  Solid cores of shielded Selenium .325."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Do you believe in God?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "No.  But I liked Jesus' style."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Me, too. Parts of the Bible are great."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "The whole roof cap was fabricated with a magnesium-tungsten alloy."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Ray, do you remember something in the Bible about a day when the dead would rise up from their graves?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "And the seas would boil ..."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Right.  And the sky would fall ..."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Judgement Day ..."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Yeah, Judgement Day."
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "Every ancient religion had its own myth about the end of the world."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Well, has it ever occurred to you that the reason you've been so busy lately is because the dead have been rising from their graves?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10559",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "STANTZ",
+        "text": "You don't have to worry about that with us, sir."
+      },
+      {
+        "speaker": "WINSTON",
+        "text": "Right.  We'll believe anything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10560",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "WINSTON",
+        "text": "Stantz?  You okay in there?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "LATER, MAN!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10561",
+    "movie_id": "m75",
+    "turns": [
+      {
+        "speaker": "WINSTON",
+        "text": "What's he talking about?  Choose what?"
+      },
+      {
+        "speaker": "STANTZ",
+        "text": "What do you mean \"choose?\"  We don't understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10562",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "LUCILLA",
+        "text": "Where are we now, Commodus?  Can you see the camp?  My Gods!  The air is turning into ice!"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "We're nearly there, Lucilla."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "That's what you told me two days ago!"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Will you please get back in your wagon?  And stay there?"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "I'm tired of being stuck in that wagon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10563",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "More wine, sister?  Surely you can drink more than that."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "I was suddenly thinking about going to bed."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Oh, stay...  Don't you want to join the chorus of praises for Narcissus' glory?  Just remember, he is a married man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10564",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Quite so.  Narcissus and his courageous men; may they live long to serve Rome..."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "And Caesar!  Let's not forget to serve Caesar!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10565",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "LUCILLA",
+        "text": "Don't you think you should at least wave?"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Why?  Then they'll notice when I'm gone.  Well.  I'm making a public appearance aren't I?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10566",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "They hate me, they really hate me don't they?"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "Maybe you should get married.  Pick one of your cousins, it would demonstrate a profound stability."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10567",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "I should at least have you, don't you think?"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "If you get me pregnant with a boy he'll be a double direct heir and will end up killing you for the throne."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10568",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Did Narcissus die today?  Wasn't this his day to die?"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "I'm sure, I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10569",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "LUCILLA",
+        "text": "No one in Rome has ever heard of him.  Do you want to remind those few in the Senate who have?  The whole sordid thing is far beneath your position to begin with.  Forget about him."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Let some time pass... then ask, quietly, without anyone knowing it comes from me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10570",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "LUCILLA",
+        "text": "Those are priceless sculptures."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "I want every single thing that belonged to my father out of this house!  If it's worth something then sell it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10571",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "It's disgusting!  Animals!  I had to come here under armed guard.  Slaves -- get this junk out of my sight."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "Commodus is heaving out every thing that belonged to our father.  Except that he can't heave out his ghost."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10572",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "How about in the forum.  Right in front of the Senate."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "If I may be so bold..."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "For the gods, spit it out!"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "Why not do it in the Colosseum?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10573",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Kill him!  Tribuus -- execute that bastard."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "You can't do that!  You came here to turn the crowd around not make them hate you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10574",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Tribuus... tomorrow."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "You're coming back?"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "I have to come back.  If I don't come back the people will think I'm a coward.  Tribuus, tomorrow he dies -- I want his blood on the sand.  Do you understand?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10575",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Where have you been?"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "Taking my pleasure.  Do I need to clear my lovers with you?"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "You must start clearing everything with me -- especially your lovers."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "Why are you so surly -- you've won, brother.  The people have bread and the city is quiet."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "What is that... wailing?"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "The fans of Narcissus.  They were on vigil outside the school of Proximo. They believe he's dying."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10576",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Now that is a happy sound! Tomorrow, I want the citizens -- my people -- back in the arena.  The Gods know, I'm tired.  Come to bed, now; tonight we're celebrating."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Now that we're done with that infatuation forever."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "If I ever loved Narcissus it wasn't like you want."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "But I get what I want, always, don't I?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10577",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "LUCILLA",
+        "text": "\"... encased in the armor of a demigod, Narcissus The Good continues his impossible climb in the arena where he was unjustly cast...\""
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Yes?  Go on!"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "\"... by the emperor of Rome.  This writer asks:  between a Senate that debates truth until they choke, an Emperor who has the birth sign of a woman, is it possible there is more virtue within the arena than without?\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10578",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Tell Lykas to send a retiarius and a Samnite to help Tiger."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "You can't do that... listen to the mood of the crowd."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "I want that bastard dead!"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "You want control of the crowd -- you can't get it by killing their hero."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "I am their hero!"
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "Not yet, dear brother..."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Send them out!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10579",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Lykas, pick a man.  Someone who will look good.  Jerses I want it built up in the Daily Action..."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "Do you want posters, too?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10580",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Damn him!  I should have killed him on the front -- I let you talk me out of that."
+      },
+      {
+        "speaker": "LUCILLA",
+        "text": "You would have had a full scale revolt on your hands."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "What have I got now?  It's exactly as if there were two emperors. Because of this the people have two minds.  He is their champion."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10581",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Welcome back from your great triumph Narcissus Meridas.  My father sends his heart felt praise.  Sadly, Marcus is in dark humors -- nothing to worry about, but he needs rest. Likely just the weather."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "Respectfully Caesar, Quintus and I must report."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Of course, but not now.  However, if he continues to be unwell, you may report to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10582",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "NARCISSUS",
+        "text": "Do you expect Marcus to be well enough by morning for an audience?"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "That's difficult to say, general."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "Perhaps, Master Galen, you may say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10583",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Then you'd be out of a job."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "Gladly Caesar."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Or perhaps into a new one.  But here's to your God and the courage of our legions..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10584",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "NARCISSUS",
+        "text": "I back Rome against all her enemies -- if that answer disappoints you, I'm not a politician..."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Oh, but with the army behind you, you could become extremely political.  Not a Republican by any chance?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10585",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "I would say there's nothing more dangerous than a man who knows what 'right' is."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "The dangerous man, Caesar, is the man who doesn't care."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10586",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "NARCISSUS",
+        "text": "But they're not destroyed, not yet."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Do we really need to repair this fort?  It seems like an expensive undertaking.  I propose we burn it to the ground.  That way if the Germans cross the Danube here there will be nothing to help them build an offensive position."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10587",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "You and my father have become very close.  Perhaps one day I may say the same for us."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "You flatter me, Caesar."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Being as close, I'm certain you've noticed what we all have noticed."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "Caesar?"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "That this illness has clouded his mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10588",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "I'm ordering a general stand-down in preparation for withdrawal back across the Danube."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "We have to stop the Germans now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10589",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "NARCISSUS",
+        "text": "Forgive me, Caesar, but do two Senator represent the mood of the whole Senate or the will of the Roman people?  Besides, every truce we make with the Germans they break!"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "They won't break this one."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "Apparently my opinion wasn't needed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10590",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "NARCISSUS",
+        "text": "Where is my family?"
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Cooperate and they will be returned to your estate.  I could have executed you."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "And my army would have thrown your body into the Danube."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10591",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "The army is a problem.  They love you.  You have led them from victory to victory in the name of Rome and they love you.  And after all, you're just a hothead acting from a misguided sense of loyalty -- who could fault you for that?  Thus have I reached a compromise with the Senate over your fate: instead of executing you, I'm sending you to Rome where you will be tried..."
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "On what charge?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10592",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Endorse me in public.  Do that and I'll make you rich and set you free. I'll return your estates.  I know you would give anything to be outside again.  Endorse me and you will be free.  Think of it.  What would you do with your freedom?"
+      },
+      {
+        "speaker": "NARCISSUS",
+        "text": "If you set me free I will find my way back to the army, march on Rome and depose you.  Then, the army and I will restore the Republic so that animals like you will never control human destinies again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10593",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "FALCO",
+        "text": "Insubordination.  To the Emperor... and the Senate."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Quintus will tell the army that you are being called to Rome to celebrate your victory.  They will hear that you are living in luxury. He will let them feel you have betrayed them for the good life. And soon the army won't even remember your name."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10594",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "FALCO",
+        "text": "The Senate is out to sink you.  I swear it, Caesar, your generosity is being repaid with public attacks on your honor.  Your enemies want you weak enough so by the first of Janus when you must be confirmed the Senate will be able to deny you."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "How can they?  Who else is there?  I have no heir..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10595",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "FALCO",
+        "text": "Caesar, ignore them."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Ignore that?!  The sooner we leave this disgusting place the better."
+      },
+      {
+        "speaker": "FALCO",
+        "text": "At least stay for the running of the animals.  You are paying for it you know..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10596",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Gods of hell!  This must cost a fortune!  How many days is this going to go on?"
+      },
+      {
+        "speaker": "FALCO",
+        "text": "Until your confirmation date."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10597",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "FALCO",
+        "text": "And like children everywhere they scream \"freedom\" the most when they desire it least.  I beg you, please continue, Caesar."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "At the opening of the month of Janus, I will ask this noble body to confirm my emperorship..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10598",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "COMMODUS",
+        "text": "Throw it down into the streets! Down into the Forum.  If it's my father they want then give him to them!"
+      },
+      {
+        "speaker": "FALCO",
+        "text": "Yes.  You know, that's not a bad idea."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Maybe it'll crush Gaius."
+      },
+      {
+        "speaker": "FALCO",
+        "text": "I'm serious."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "So am I."
+      },
+      {
+        "speaker": "FALCO",
+        "text": "We can crush Gaius another way. What if you do throw something to the people they really want?  Make them a gift of food."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Give away food?"
+      },
+      {
+        "speaker": "FALCO",
+        "text": "Sacks of grain, even bread.  I own the grain licenses for the military, I can arrange to divert a shipment bound for the army of the Danube."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "Take grain away from the army?"
+      },
+      {
+        "speaker": "FALCO",
+        "text": "Make a gift to the people.  It's your money anyway so it's only fair."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10599",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "FALCO",
+        "text": "Caesar, let me sponsor your first wager in the arena."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "I wouldn't know who to bet on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10600",
+    "movie_id": "m76",
+    "turns": [
+      {
+        "speaker": "QUINTUS",
+        "text": "Gladly, Caesar.  And, if you'd like we can take you for a tour of the front at first light."
+      },
+      {
+        "speaker": "COMMODUS",
+        "text": "I'm certain father will be in better humors by then.  Now, honor us with your presence at dinner.  I'll join you as soon as I see my father's physician."
+      }
+    ]
+  }
+]

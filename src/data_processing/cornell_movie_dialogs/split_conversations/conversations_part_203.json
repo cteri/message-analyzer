@@ -1,0 +1,1666 @@
+[
+  {
+    "conversation_id": "conv_20201",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "I'm willin, to go on a little faith, here."
+      },
+      {
+        "speaker": "CURATOR",
+        "text": "You will not believe it."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Try me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20202",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Okay, let's cut to the chase. He's afraid of cats, what's that about?"
+      },
+      {
+        "speaker": "CURATOR",
+        "text": "According to the ancients, cat's are the guardians at the gates of the underworld. Imhotep will fear them until he is fully regenerated, and then he will fear nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20203",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "So your sayin', if we find the book made outta gold --"
+      },
+      {
+        "speaker": "CURATOR",
+        "text": "-- And read the sacred incantations contained inside it."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "You think it'll send this guy back to hell?"
+      },
+      {
+        "speaker": "CURATOR",
+        "text": "Correct, And that's when --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20204",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "CURATOR",
+        "text": "Which would be located not far to the east of the Anubis statue."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Don't tell me we gotta go back out there?"
+      },
+      {
+        "speaker": "CURATOR",
+        "text": "If we want to kill the creature, yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20205",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "DANIELS",
+        "text": "See! That proves it! Old Seti's fortune's gotta be under this sand!"
+      },
+      {
+        "speaker": "HENDERSON",
+        "text": "For them to protect it like this, you just know there's got to be treasure down there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20206",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "HENDERSON",
+        "text": "I wouldn't trade ya for a brass spittoon!"
+      },
+      {
+        "speaker": "DANIELS",
+        "text": "Yeah! It's supposed to be made outta pure gold!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20207",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "HENDERSON",
+        "text": "The sun turning black."
+      },
+      {
+        "speaker": "DANIELS",
+        "text": "Water turning to blood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20208",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "DANIELS",
+        "text": "You bastards!"
+      },
+      {
+        "speaker": "HENDERSON",
+        "text": "What did you do to him!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20209",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "HENDERSON",
+        "text": "The hell with that! I'm not goin' nowhere! We're safe here."
+      },
+      {
+        "speaker": "DANIELS",
+        "text": "Yeah, I'm not leavin, this fort for nothin'."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20210",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "DANIELS",
+        "text": "The hell with this. I'm goin, downstairs to get me a drink. You want somethin'?"
+      },
+      {
+        "speaker": "HENDERSON",
+        "text": "Yeah, get me a glass of bourbon, a shot of bourbon and a bourbon chaser."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20211",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "And what is he in prison for?"
+      },
+      {
+        "speaker": "WARDEN",
+        "text": "I did not know, so when I heard you were coming, I asked him that myself."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "And what did he say?"
+      },
+      {
+        "speaker": "WARDEN",
+        "text": "He said... he was just looking for a good time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20212",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Where are they taking him?"
+      },
+      {
+        "speaker": "WARDEN",
+        "text": "To be hanged."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20213",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "WARDEN",
+        "text": "No women allowed."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I am an English woman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20214",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "I will give you one hundred pounds to spare his life."
+      },
+      {
+        "speaker": "WARDEN",
+        "text": "I would pay one hundred pounds just to see him hang."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Two hundred pounds."
+      },
+      {
+        "speaker": "WARDEN",
+        "text": "Proceed!"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Three hundred pounds!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20215",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "WARDEN",
+        "text": "You lie."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I would never!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20216",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "WARDEN",
+        "text": "Are you saying this filthy godless son of a pig knows where to find The City Of The Dead? Truly?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes and if you cut him down, we will give you ten percent."
+      },
+      {
+        "speaker": "WARDEN",
+        "text": "Fifty percent."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Twenty."
+      },
+      {
+        "speaker": "WARDEN",
+        "text": "Forty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20217",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "WARDEN",
+        "text": "A bright good morning to all."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "WARDEN",
+        "text": "I have come to protect my investment, thank you very much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20218",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Do you realize, we are standing inside a room that no one has entered in over four thousand years."
+      },
+      {
+        "speaker": "WARDEN",
+        "text": "Who cares? I don't see no treasure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20219",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "So who's the broad?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Broad?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20220",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "We uh,... found... your puzzle box, and we've come to ask you about it."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "No."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "No... You came to ask me about Hamunaptra."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20221",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "How do you know the box pertains to Hamunaptra?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Because that's where I found it. I was there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20222",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "You were actually at Hamunaptra?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "I just decked your brother"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes, well...  I know my brother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20223",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Yeah, I was there."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You swear?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Every damn day."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No, I mean --"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "-- I know what you mean. I was there, alright. Seti's place. The City Of The Dead."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What did you find? What did you see?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "I found sand. I saw death."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20224",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Could you tell me how to get there? The exact location?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Want to know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20225",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Yes."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Really want to know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20226",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Give... give him... give him GLAAAA-- !"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Twenty-five percent, and not one single farthing more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20227",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Sorry, didn't mean to scare ya."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "The only thing that scares me, Mister O'Connell, are your manners."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Still angry that I kissed ya, huh?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "If you call that a kiss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20228",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Did I miss something? Are we going into battle?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "The last time I was at that place everybody I was with died."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20229",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "There's something out there, you know, something under that sand."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes, I'm hoping to find a certain artifact, a book, actually, my brother thinks there's treasure. What do you think is out there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20230",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Evil. The Tuaregs and the Bedouin believe that Hamunaptra is cursed, they call it, \"the doorway to hell.\""
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Ahmar is Ossirion. \"Passageway to the underworld\", actually."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20231",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "I don't believe in fairy tales and hokum, Mister O'Connell, but I do believe that one of the most famous books in history is buried out there, The Book Of The Living. It's what first interested me in Egypt as a child. It's why I came here, sort of a life's pursuit."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "And the fact that they say it's made out of pure gold, makes no nevermind to you, right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20232",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "You know your history."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "I know my treasure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20233",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Relax! I'm the map!  It's all up here."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Oh that's comforting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20234",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Can you swim?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Well of course I can swim, if the occasion calls for it."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Trust me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20235",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "We're almost there."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Are you sure?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20236",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "For what?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "We're about to be shown the way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20237",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "That \"thing\" gets me excited."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "The things that get you excited."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "According to Bembridge Scholars, inside the statue of Anubis was a secret compartment, perhaps containing The Book Of The Living."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "What are those mirrors for?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Ancient Egyptian trick. You'll see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20238",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Oh my god, It's a preparation room."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Preparation for what?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "For entering the afterlife."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20239",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Yeah, that'd bring you back to life."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You two are worse than a couple of schoolboys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20240",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Oh my god,... it looks like, it looks like a sarcophagus."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Why would they bury somebody in the ceiling?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "They didn't, they buried him at the foot of Anubis. He was either someone of great importance. Or he did something very naughty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20241",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "There's some sort of lock here. You say these thing's are made of granite with a steel interior?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Quarried granite with a cobalt lining."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20242",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "A key! That's it! That's what he was talking about."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Who was talking about what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20243",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Seems the Americans had a little misadventure of their own today, three of their diggers were killed."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "How?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Salt acid. Pressurized salt acid. Some sort of ancient booby-trap."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20244",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "You two!"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "You don't believe in curses, huh?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No. I believe if I can see it and I can touch it, then it's real. That's what I believe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20245",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Unlike your brother, Miss, you I don't get. You're a whole new brew."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I know, you're wondering, what's a place like me doing in a girl like this?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Something like that."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Egypt is in my blood. My father was a famous explorer, he loved Egypt so much that he married an Egyptian. My mother! Who was quite an adventurer herself"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Okay, I get your father, I get your mother and I get your brother, but what are you doing here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20246",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "I may not be an explorer, or an adventurer, or a treasure hunter, or a gunfighter! Mister O'Connell But I'm proud of what I am."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "And what is that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20247",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "I'm going to kiss you, Mister O'Connell."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "No you're not."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I'm not?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Not unless you call me Rick."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Why would I do that?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Because that's my name."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20248",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "No... Why?... Should I?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Gee, yeah, you told me it was the best time you ever had."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20249",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Oh my god, I've dreamed about this ever since I was a little girl."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "You dream about dead guys?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20250",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Is he supposed to look like that?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No. I've never seen a mummy look like this. He's, he's still..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20251",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Are you saying somebody threw these things in with our guy, and they slowly ate him alive?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Very slowly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20252",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "According to my readings, our friend suffered the HOM-DAI, the worst of all ancient Egyptian curses, one reserved for only the most evil blasphemers. In all of my research, I've never read of this curse actually having been performed."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "That bad huh?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes, they never used it because they feared it so. It's written, that if a victim of the HOM-DAI should ever arise, he would bring with him the ten plagues of Egypt."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "The ten plagues?... You mean all ten plagues."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20253",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "You sure you outta be playin, around with that?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "It's just a book, no harm ever came from a book."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20254",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Having an encounter with a four thousand year old walking-talking corpse tends to convert one."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Forget it, we're out the door down the hall and gone."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No, we are not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20255",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "No we are not. We woke him up, and we must try and stop him."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "We?! What we?! You didn't read that book. I told you not to play around with that thing."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Alright then, Me, I,... I read the book, I woke him up and I intend to stop him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20256",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Then we'll have to find some immortal ones."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "There goes that belief again. Not me, I am outta here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20257",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "According to that Book, once this creature has been reborn, his curse will spread, and as he grows in strength, so will his curse grow, infecting the people until the whole of the earth is destroyed."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Yeah? So? Is that my problem?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "It's everybody's problem!"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Look lady, I appreciate you saving my life and all, but when I signed on, I agreed to take you out there and bring you back, and I did, now were even, end of job, end of story, contract terminated."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "That's what I am to you? A contract?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "You can either tag along with me, or you can stay here and play around with Mister Maggot."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I'm staying."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "FINE."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20258",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "He's here! I saw him! That thing is here!"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "The creature!? Are you sure!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20259",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "You called me your girl?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "What?... Oh yeah, that was just um, you know, figure a speech."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I think you were jealous"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Jealous? You kiddin' me? Did you see that guy's face?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20260",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Got it!"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Got what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20261",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Don't do it, Evelyn."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I have no choice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20262",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Got guts, lady."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes, I know, and I'd like to keep them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20263",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "You...! YOU...!"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Drunkard? Fool? Rat-bastard? Please call me something original."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20264",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Have you no respect for the dead?"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Right now, I only wish to join them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20265",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Well I wish you'd do it sooner rather than later, before you ruin my career the way you've ruined yours."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "My dear, sweet, baby sister, I'll have you know, that at this moment my career is on a high note."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20266",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "Oh yes I do! I have something right here!"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Oh no, not another worthless trinket, Jonathan, if I bring one more piece of junk to the Curator to try and sell for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20267",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Jonathan?"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I think you found something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20268",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "Two questions. Who the hell is Seti the First? And was he rich?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "He was the last Pharaoh of the Old Kingdom, said to be the wealthiest Pharaoh of them all."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Alright, good, that's good. I like this fellow, like him very much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20269",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Yes. The City of The Dead. Where the early Pharaohs were said to have hidden the wealth of Egypt."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Right, right, in a big underground treasure chamber. Everybody knows the story. The entire necropolis was rigged to sink into the sand. On Pharaoh's command, a flick of the switch! And the whole place could disappear beneath the dunes."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "All we know is that the city mysteriously vanished around 2,134 B.C."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20270",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "You told me you found it on a dig down in Thebes!"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "I was mistaken."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You lied to me!"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "I lie to everybody, what makes you so special?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I'm your sister."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "That just makes you more gullible."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You stole it from a drunk at the local Casbah?!"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Picked his pocket, actually."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20271",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "But he's just a filthy criminal?"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Way to go, Evy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20272",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Do you really think he'll show up?"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Undoubtedly, I know the breed, he may be a cowboy, but his word is his word."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Personally, I think he's filthy, rude and a complete scoundrel. I don't like him one bit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20273",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "Ah, begging your pardon, but shouldn't we be going?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "After all, you rode us night and day to win that bet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20274",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "According to my calculations, we should be right under the statue. We'll come up right between his legs.  Oh my."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "And when those dirty Yanks go to sleep --  No offense."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20275",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "It's called mummification. You're dead when they do this"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Still..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20276",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "What do you suppose killed him?"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Did you ever see him eat?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20277",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "I can't believe I allowed the two of you to get me drunk."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Don't blame me, I don't even remember being there."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Well neither do I, thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20278",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "Juicy?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes. He's more than four thousand years old and still decomposing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20279",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "I found it, Evy! I found it"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Shut-up and get me off of here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20280",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "What do I do, Evy!? What do I do!?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Read the inscription on the cover!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20281",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Finish the inscription, idiot!"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20282",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "Ummm, Hootash im... Hootash im now what is this last symbol here?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What's it look like!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20283",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Ah! Ah! Ahmenophus!"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Yes,... I see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20284",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "She's my sister, actually."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Yeah? Well,... I'm sure she's not a total loss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20285",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Hey,... don't I know you?"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Um, well, you see..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20286",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "Sit down, O'Connell, sit down, we could use another good player."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "I only gamble with my life, never my money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20287",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "I can't believe the price of these fleabags."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "We coulda had 'em for free, all we had to do was give 'em your sister."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Yes, awfully tempting, wasn't it?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Awfully."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20288",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "That thing gives me the creeps."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Be nice. That thing saved my life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20289",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "You're welcome to my share of the spider webs."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "And it stinks to high heaven in here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20290",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "None taken."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "We'll sneak up and steal that book right out from under them."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "And you're sure you can find the secret compartment?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20291",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Lemme get this straight, they stuck a sharp, red hot poker up your nose, cut your brain into small pieces, then ripped it all out through your nostrils?"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "OWCH! That's really got to hurt."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20292",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "Whoever's in here, sure wasn't getting out."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "No kiddin', without a key, it'll take us a month to crack this thing,"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20293",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Tough break."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Yes, I'm all tears, now let's see who's inside, shall we?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20294",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Where's my gun?"
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "What are you going to do? Shoot him?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "If he decides to wake up, hell yes!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20295",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "You did not!?... We're not!?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Rat gizzards. They smell bad and taste worse, but that's the best the desert has to offer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20296",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "He certainly was not a popular fellow when they planted him."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Must of got a little too frisky with the Pharaoh's daughter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20297",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "Did you see that!? Grasshoppers! Billions of grasshoppers!"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "That's one of the plagues, right? The grasshopper plague!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20298",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "Who's here!?"
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "The guy! The Priest! THE MUMMY!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20299",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "JONATHAN",
+        "text": "That looked rather painful."
+      },
+      {
+        "speaker": "O'CONNELL",
+        "text": "Ya know, ever since I met you, my luck has been for crap."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "Yes, I know, I do that to people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_20300",
+    "movie_id": "m142",
+    "turns": [
+      {
+        "speaker": "O'CONNELL",
+        "text": "Damn-it! That's two down and only two to go."
+      },
+      {
+        "speaker": "JONATHAN",
+        "text": "And then he'll be coming after Evy."
+      }
+    ]
+  }
+]

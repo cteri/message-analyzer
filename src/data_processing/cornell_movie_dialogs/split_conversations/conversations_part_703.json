@@ -1,0 +1,2086 @@
+[
+  {
+    "conversation_id": "conv_70213",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "My father had farm land.  It was the only thing we owned of any value."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "And it now belongs to you, according to Baltus.  I heard him say it."
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70214",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Only the heirs were killed.  Proof that the Horseman slaughters by assignment."
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "But, if the farm is not mine, who stole it away?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "No one yet, far as I can tell.  It has gone intestate."
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "In test... what?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Intestate.  Your farm... all the farms... they belong to no one."
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "What does it mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70215",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Often in such cases, property which has gone intestate legally passes to whomever the deceased was indebted to. And, who in this town is owed a great many debts?"
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "Baltus Van Tassel."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Did your father take a loan?"
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "Yes.  I rode with him on payment days."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70216",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "There is no Masbath here.  My father's loan papers are missing."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "There are none for Magistrate Philipse either.  \"Paasch, James\" \"Pieter, Thomas\" \"Pos, William.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70217",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "I was getting worried.  Who was it?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Lady Van Tassel."
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "What was she doing?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Something I really wish I had not seen. Never mind it.  Did you find the victims' loan agreements?"
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "No.  They are all missing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70218",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "There are no other doors.  This is as far as she could have gone."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "It is nothing.  She comes to read books, so her father will not find her.  It is absolutely nothing."
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "What books?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Fiction plays and novels.  Baltus does not approve.  Now, come.  It may not be long before Lady Van Tassel returns."
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "But, sir... what books?  Where are they?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70219",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "What now?  Where is she?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Things have become complicated. Katrina is at the mill.  Ride ahead, find her and bring her to meet me outside the church.  Find her at all costs.  Quickly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70220",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "She's the one who controlled the Horseman, isn't she, sir?  Sir?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I need time for thinking.  Without you hanging on my coattails for a change."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70221",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "Won't you change your mind, sir? What can I say to convince you?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Nothing.  To hell with this place and all the people here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70222",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "Why... why are you like this?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "You do not know all that has happened.  You cannot understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70223",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "This is farewell."
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "Take me with you.  There's nothing left for me here."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I cannot.  You should not worry.  Van Ripper and his wife will look after you.  They will.  You will be well cared for."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70224",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Climb up!"
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "Lady Van Tassel..."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I know.  Hold on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70225",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "What can we do?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Take the reins."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70226",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "What now?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I doubt that's the end."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70227",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "How are you?"
+      },
+      {
+        "speaker": "YOUNG MASBATH",
+        "text": "Tired."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70228",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Forgive me, I didn't know."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I... I am looking for Baltus Van Tassel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70229",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Did they tell?  It is something in the air so that dreams come to everyone.  According to the elders, an Indian prophet held powwows here before the land was taken, and spells cast then still linger to this day."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Do you often make a habit of sitting on strange men's beds?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "You are horribly old-fashioned, aren't you?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Feel free to form your own opinion.  Though it appears you already have."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Well, I intended to apologize for the behavior of my friend Brom Van Brunt, but it seems I've made matters worse.  I'll leave you to your business."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Excuse me... I should apologize.  I, um... I... have no great love of..."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Other people?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Small talk."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "It might have been more.  Might have been positively grand talk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70230",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Is it me, or are you this nervous around all women?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Perhaps it is because your suitor's hands were recently very nearly wrapped around my throat."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "My suitor?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "The massive fellow... Brom.  For someone you call \"friend,\" he misplaces a good portion of jealousy."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "He has proposed to me twice."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Which may explain his temperament. To have asked twice means the answer was \"no\" at least once."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70231",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "I've read a great deal about your New York City.  Do be a dear and tell me all about it.  Sounds like an extraordinary place to live a life."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Extra ordinary, yes.  But first, you tell me about the Headless Horseman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70232",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Not all think it is the Horseman. Many say witches come from the Western Woods to steal skulls for their cauldrons.  Some believe a person in this very town kneels before Lucifer, offering death as tribute.  And, still others believe none of it."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Are you so superstitious?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "To call a person superstitious is to imply they fear magic, but not all magic is black."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "There is no such thing as magic."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Really?  Then... what is your rebuttal to those romantic poets claiming proof of magic in a rose at full bloom, or even in a teardrop?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Poets have silly notions about plants and bodily secretions."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "You are funny."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70233",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "You do not disturb me.  Please stay. Having trouble sleeping?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "May I ask... why do you cover your book that way?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "You pay great attention to small things.  I hide these as I hide all my books.  Father would not approve, lest it were the Bible."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I, um... I have something to show you, if you have a moment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70234",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "These scars.  How did you get them?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I have had them since childhood.  I cannot remember what from."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "It would be interesting to find out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70235",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Here it is.  A bird on one side. His cage on the other.  Now, stare at it.  The bird seems to be in his cage."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Yes, he does.  May I try?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70236",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "He only appears to be inside the cage.  The point being..."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "You made this, and the drawings?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Yes, but listen.  The illusion is easily explained.  The eye retains each image, till they combine.  And yet, some would call this toy magic."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Don't you see why?  Look closely a moment.  Put your intellect aside.  Can't you see what is inexplicable?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70237",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Oh, you are hopeless.  May I keep it at least?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "If you want.  But..."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Then, I also have a gift for you. True magic which even you will not be able to deny."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70238",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Thank you.  No.  Here..."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "I insist that you have it."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Very well.  But, it will only sit gathering dust."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "That would be a pity.  Those words might show you something you've never seen before."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70239",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "You promised justice."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "If these are the random stalkings of a monster, what good am I?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "People have put their trust in you."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "They have done nothing of the sort."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Won't they still have that justice?  Or, was it a vain promise?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70240",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Why would you do such a thing?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "No stone may be left unturned.  It may appear harsh..."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "I have misjudged you I think.  I did not imagine you were so cruel."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "You are not regarding it in full. The Widow Windsor had been run through by a sword.  I followed the bloodless wound, a wound whose path I could not comprehend till I had seen the Horseman with my own eyes."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "What are you on about?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "The child she carried was eight months grown at least... near to birthing.  The sword had pierced its tiny heart exactly."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Must I hear this?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "There was no blind stabbing.  This singular thrust found its target omnipotently, as if the Horseman made certain the unborn child died with its mother."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "And this gives worth to butchery?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "It was not butchery."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "What is it then?  Scientific method? How can any of this matter in the slightest?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I have no solution for its meaning yet, but I could not just ignore it."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Take a lesson from Young Masbath's desires, Ichabod Crane.  He follows with you to avenge his father's death. That I understand.  But, what do you want?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "To avenge his father, and the others."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "But, why?  Tell me why."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70241",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "You falter with your answer because you strive without putting the whole of your heart into it.  Can't you see? You'll bring dignity to the dead even if you have to chop them into little pieces to do it."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "If it had been surgery on a living person, done to save that person's life, you would not question it.  Not for a moment.  So, let me be the first to tell you, dear girl... on the other side of these sheltering mountains, a whole world has advanced beyond such plebeian thinking as yours.  And someday, no matter how much you fear it, that world will come to roust Sleepy Hollow out of its slumber."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70242",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Allow me some time.  I have spent every hour in the company of others. I need to be alone."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "What troubles you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70243",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "The things I said to you before... I was wrong to say them."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "No, actually, you were not.  Every word you spoke had truth in it."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "What has happened?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70244",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Lady Van Tassel... she is your stepmother, isn't she?  She bears so little resemblance."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "What?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "She is not your birth mother, is she?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "No, but... why do you ask that?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "What happened to your mother?  Is she still alive?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "She died.  Her lungs were diseased... two years ago.  What is this about?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Memories have come back.  I had them forgotten, and wish I could forget them again... but they are here now.  Lord, how I hate this place."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "If you want me to go, I will.  Do you want me to leave?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I... I do not know.  I no longer know what I think or what I feel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70245",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "It is only me."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Katrina.  Why do you follow?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "I apologize if I worried you."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "A woman should not be out alone in these woods."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "But, I am not alone, am I?  I only wished to see what you were up to, and...  To thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70246",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Blood."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "What did you say?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70247",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Just... keep where you are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70248",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "My God... what has happened?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "He... he tries to take the heads... they will not pass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70249",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Why is it every grave I open holds a new mystery inside?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "The skull is gone."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Yes.  I did notice that, thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70250",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "What... what are you doing... ?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "I'm drawing bad blood from the wound."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70251",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "What is so urgent?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Come with me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70252",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "I have been reading your journal. I'm sorry.  I found it too fascinating to resist.  I rode to catch up with you at the Notary, out of curiosity.  Before I found you though, I overheard what you were said."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "It was you there?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "When... when you spoke father's name along with accusations, I could not believe it.  I had to hide these... at least till I could confront him myself."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "And, what did he say?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "He did not do these things.  If you knew him, you would realize..."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "What did he say, Katrina?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "I have not been able to face him yet."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "The loans give the land to your father. It does not matter survivors are still on their farms.  They could be thrown off... tomorrow... a year from now."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Yes, I have seen that, and I told you why I hid them."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "What would you have me believe?"
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "If you think I am behind this, say it."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "The name Van Tassel is blackened.  You share that name."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Call me a liar, then, and a murderess. Say it, out and out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70253",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Katrina..."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Speak the words, Constable.  What is stopping you?  What has happened to your ability to transcend sentimentality?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70254",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Where are we going?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "I do not know.  Away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70255",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "The church."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "He moves too fast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70256",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "What was that?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "His horse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70257",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Ichabod..."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Keep climbing.  I will follow..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70258",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Quickly, close it."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "No.  Get to the crest of the roof and be ready to jump."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70259",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "The blades will carry us to the ground. Face front and wait for me."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "I... I can't do this."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "We have no choice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70260",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "You said yourself.  What mere man could have downed the Belltower?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "It is a prime tenet of science, Philipse, that because one thing appears improbable does not mean you embrace the utterly fantastical."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70261",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "Returning to the Western Woods?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Yes, actually."
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "Use caution."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Do you know... I think those are the first words I have heard from you my entire time here."
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "As my husband says, a wife should be always like an echo, and at the same time, quite unlike an echo.  Like an echo, she should speak only when spoken to, and unlike an echo, should never try to have the last word, or, at least that is what he believes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70262",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Excuse me, Lady Van Tassel... Katrina is not in her room."
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "No.  She has gone out."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Where?"
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "She has taken the last of our grain to be milled.  You do have a background in the medical arts, don't you, Constable?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Very little.  I must be going..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70263",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "It appears well.  It has already clotted."
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "Look closer.  Do you have anything to clean it with?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "It is fine.  Now, I must..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70264",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "I know you saw me."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "What... ?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70265",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "You cannot kill what is already dead."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Let her go!"
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "Yes... yes.  I think I will..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70266",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Van Ripper.  Can you show where the body lay?"
+      },
+      {
+        "speaker": "VAN RIPPER",
+        "text": "I can show exactly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70267",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "VAN RIPPER",
+        "text": "Here... in front of this oak, facing north.  Horrible..."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "To the best of your recollection, where did the open wound fall?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70268",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "There was not much blood, was there?"
+      },
+      {
+        "speaker": "VAN RIPPER",
+        "text": "I didn't see none."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70269",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Van Ripper, turn the coach about!"
+      },
+      {
+        "speaker": "VAN RIPPER",
+        "text": "What did you say?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "Turn around.  Now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70270",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Van Ripper... do you have a gun?"
+      },
+      {
+        "speaker": "VAN RIPPER",
+        "text": "Yes.  Here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70271",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Pardon.  You did not answer when I knocked.  Are we intruding?"
+      },
+      {
+        "speaker": "OLD CRONE",
+        "text": "You are from the Hollow?"
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "In a way, yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70272",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "The Lenape who lived in these woods... do you know him?  The Redman?  I should tell you... he has been murdered."
+      },
+      {
+        "speaker": "OLD CRONE",
+        "text": "Leave me.  You are not welcome here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70273",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "OLD CRONE",
+        "text": "I hear him.  He rides to the Hollow and back."
+      },
+      {
+        "speaker": "ICHABOD",
+        "text": "The Horseman.  Yes."
+      },
+      {
+        "speaker": "OLD CRONE",
+        "text": "Sit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70274",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "Can you help?"
+      },
+      {
+        "speaker": "OLD CRONE",
+        "text": "You want to see into the nether world... I can show you.  Whatever you see, do not move or speak.  I will hold him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70275",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "ICHABOD",
+        "text": "What... what are you doing?"
+      },
+      {
+        "speaker": "OLD CRONE",
+        "text": "Close your mouth!  Keep silent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70276",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "Lay still, Ichabod.  Do not move."
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "Doctor, he is awake."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70277",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "KATRINA",
+        "text": "You... you are alive."
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "Am I?  Or, are you and Young Masbath dead along with me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70278",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "He rides tonight."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "Father saw you die."
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "He saw me thrown... saw the Horseman looming over me as I fled.  Things I wanted him to see.  But, as long as I govern the Horseman, he cannot harm me.  Baltus did not stay enough to see that.  He ran as a coward, unfettered by my fate."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70279",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "Imagine my surprise, finding him on a liason with a common servant.  A girl who had apparently become his secret love."
+      },
+      {
+        "speaker": "KATRINA",
+        "text": "No one will believe your lies, whore."
+      },
+      {
+        "speaker": "LADY VAN TASSEL",
+        "text": "This whore will see your mouth shut forever very soon.  But... I am not going to kill you.  Not me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70280",
+    "movie_id": "m517",
+    "turns": [
+      {
+        "speaker": "THIRD MAN",
+        "text": "Go home."
+      },
+      {
+        "speaker": "YOUNG ICHABOD",
+        "text": "May I see my mother?"
+      },
+      {
+        "speaker": "THIRD MAN",
+        "text": "You do not want to be here.  Go home to your father."
+      },
+      {
+        "speaker": "YOUNG ICHABOD",
+        "text": "She did not do it... please listen..."
+      },
+      {
+        "speaker": "THIRD MAN",
+        "text": "She is guilty."
+      },
+      {
+        "speaker": "YOUNG ICHABOD",
+        "text": "No, sir, please... she is innocent..."
+      },
+      {
+        "speaker": "THIRD MAN",
+        "text": "She has confessed."
+      },
+      {
+        "speaker": "YOUNG ICHABOD",
+        "text": "No."
+      },
+      {
+        "speaker": "THIRD MAN",
+        "text": "She has admitted to her evil and signed a written confession.  Do you know what confession is?  All that is left for you now is to pray for her soul."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70281",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "All right then, I'll see y'all later. Karl you done a good day's work. They right about you. Scooter, he's gonna knock you out of a job if you're not careful. I'll see you tomorrow."
+      },
+      {
+        "speaker": "SCOOTER",
+        "text": "Wait up, I'll leave with you and lock up."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Karl, they's a blanket up in under that cot and soap in the bathroom to clean up with.  Now there's one more thing. The way we lock these doors at night, you can't get out. You didn't want to go anywhere, did you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70282",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Scooter, did I tell about the two old boys pissin' off the bridge?"
+      },
+      {
+        "speaker": "SCOOTER",
+        "text": "I can't remember."
+      },
+      {
+        "speaker": "BILL",
+        "text": "There was these two old boys hung their peckers off of a bridge to piss, one old boy from California and one old boy from Arkansas. Old boy from California says, \"Boy this water's cold.\" Old boy from Arkansas says \"Yeah, and it's deep too.\"  Get it? That's a goodun."
+      },
+      {
+        "speaker": "SCOOTER",
+        "text": "Yeah, that's a goodun. I believe you did tell me that one before. I've heard that a bunch. Long time ago."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Well, yeah it's a classic. You know, Karl, I got to thinkin' about it last night and it's just not Christian of me to not let you have a key. I mean you been in lockup so long, you don't need me keepin' you locked up. You need to come and go as you please. Here, take this key, it'll get you in and out that back door.  Them french fries good?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70283",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "SCOOTER",
+        "text": "I can go. You don't have to. You don't never go."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Goddamnit, Scooter, come on. Pardon my language, ma'am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70284",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "KARL",
+        "text": "Thank ye."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Now it's minimal wage and there ain't nothin' but a army cot and a toilet back there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70285",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "They say you're a whiz on fixin' lawn mowers and things."
+      },
+      {
+        "speaker": "KARL",
+        "text": "I've tinkered around on 'em a little bit."
+      },
+      {
+        "speaker": "BILL",
+        "text": "We order from Dairy Queen at noontime usually. We can buy your lunch till you get on your feet a little."
+      },
+      {
+        "speaker": "KARL",
+        "text": "I like them french-fried potaters."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Yeah, me too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70286",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "KARL",
+        "text": "I don't reckon."
+      },
+      {
+        "speaker": "BILL",
+        "text": "If it works out and all, maybe we'll get you a key so you can get out at night if you need to. See you later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70287",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "KARL",
+        "text": "Yeah, they's good all right."
+      },
+      {
+        "speaker": "BILL",
+        "text": "You got any money?"
+      },
+      {
+        "speaker": "KARL",
+        "text": "They give me fifty dollars when they turned me loose. I spent up some of it on ridin' the bus and eatin' french-fried potaters."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Well, I'm gonna pay you today for this comin' week, so you'll have some walkin' around money. When you get off this evenin' you better go buy some toothpaste and cleanin' up supplies to have back there. Some hard candy and some magazines. Somethin' to keep you busy at night."
+      },
+      {
+        "speaker": "KARL",
+        "text": "All right then."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I'll let you off while it's still daylight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70288",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Now, Karl, you sure you want to go stay with these folks? You're welcome to keep on stayin here. It's workin' out real good."
+      },
+      {
+        "speaker": "KARL",
+        "text": "That boy wants me to."
+      },
+      {
+        "speaker": "BILL",
+        "text": "All right then. I'll see you bright and early. How you comin' along on that garden tiller?"
+      },
+      {
+        "speaker": "KARL",
+        "text": "I fixed it. Hit's a workin' pretty good."
+      },
+      {
+        "speaker": "BILL",
+        "text": "You done fixed it? I'll be damned. Scooter told me it couldn't be fixed. 'Course Scooter's about as shitless as one poor son-of-a-bitch can be. You done fixed it. I'll just be damned. See you tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70289",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "KARL",
+        "text": "Hit ain't got no gas in it."
+      },
+      {
+        "speaker": "BILL",
+        "text": "See there. Thinks of the simplest thing first."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70290",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "KARL",
+        "text": "Thank ye."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Scooter, let's me and you go over to Dairy Queen and pick up a few things for lunchtime."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70291",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Hey Jerry, how it's goin'. Good to see you. Been a long time."
+      },
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "Good to see you, Bill. How's everybody doin'?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Aw, pretty good. Kids are drivin' me crazy and Phyliss is gonna put me in the poorhouse. Can't complain other than that. Wouldn't do any good if I did.  Do you know Scooter, Jerry?"
+      },
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "No, don't guess I do.  Scooter, good to meet you.  This is him, the one I talked to you about on the phone. Now like I said, I'll understand if you get nervous about it. I'm not gonna lie to you now, he did get in that trouble but then he was real young."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I remember it real well. Cut them folks to pieces. His mama one of 'em."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70292",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Don't look much like he could. You say he can fix a small engine like nobody's bidness."
+      },
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "He's a regular whiz at it. That's all he did when he was a kid."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Well, I ain't scared of him workin' here. You know me. I'm a church goin' man. Forgivin' man. When your time's up the Lord's gonna come git you. You seared of him, Scooter?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70293",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "That old man of his still livin' over there on Clark Street I believe."
+      },
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "He won't have anything to do with him. Now you say it's all right for him to stay out here in the back?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Fine with me. If he steals anything, I'll take it out of your pocket anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70294",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "He won't steal. I'm tellin' you he's a pretty good ol' boy. Keeps to himself."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Well, I've got a roomful of work for him to do. Can't get Scooter to do any of it."
+      },
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "Karl, come over here. I want you to meet your new boss.  This is Bill Cox, runs this place. Says you can work here and stay in the back."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Good to know you, Karl."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70295",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "How 'bout you, Jerry."
+      },
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "How are you, Bill?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Doin' pretty good. Got a sick tiller here. What's got you down this way?"
+      },
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "Just thought I'd check on Karl and see if everything's working out."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Well, he's pretty quiet. Except for them rackets and breathin' things he does. Ain't threatened me with a killin' or anything.  But boy you couldn't of been more right about him fixin' things. That son of a bitch is a regular Eli Whitney on a lawnmower. Loves french fries. Eats four larges and don't even so much as belch. I'm proud to have him."
+      },
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "Is him stayin' here workin' out?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "He's gone to stayin' over with that Wheatley boy and his mama in their garage. I think that little boy adopted him damn near like a mascot. But he's got a key here to come and go as he pleases. Everything's worked out good."
+      },
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "Can I see him?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70296",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "WOOLRIDGE",
+        "text": "I'll see you, Bill."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Okay, stop back by. Don't worry about your boy here, he's doin' good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70297",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BOY",
+        "text": "Can I help you?"
+      },
+      {
+        "speaker": "KARL",
+        "text": "I was kindly wantin' somethin' or 'nother d'eat."
+      },
+      {
+        "speaker": "BOY",
+        "text": "Well, what did you want?"
+      },
+      {
+        "speaker": "KARL",
+        "text": "You have any biscuits for sale?"
+      },
+      {
+        "speaker": "BOY",
+        "text": "Naw, we don't have biscuits."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70298",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BOY",
+        "text": "Did you decide, sir?"
+      },
+      {
+        "speaker": "KARL",
+        "text": "What you got that's good to eat?"
+      },
+      {
+        "speaker": "BOY",
+        "text": "Well, I guess it's all good."
+      },
+      {
+        "speaker": "KARL",
+        "text": "What do you like to eat here?"
+      },
+      {
+        "speaker": "BOY",
+        "text": "French fries. I like to eat them pretty good."
+      },
+      {
+        "speaker": "KARL",
+        "text": "French-fried potaters."
+      },
+      {
+        "speaker": "BOY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "KARL",
+        "text": "How much you want fer 'em? I'll get some of them I reckon."
+      },
+      {
+        "speaker": "BOY",
+        "text": "Sixty for small and seventy-five for large."
+      },
+      {
+        "speaker": "KARL",
+        "text": "Give me the big'uns."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70299",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BOY",
+        "text": "These dang things are heavy. Hard to carry, too."
+      },
+      {
+        "speaker": "KARL",
+        "text": "What you got in there, warshing?"
+      },
+      {
+        "speaker": "BOY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "KARL",
+        "text": "Ain't you got no mama and daddy to tend to it?"
+      },
+      {
+        "speaker": "BOY",
+        "text": "I got a mama, but she's at work over at Ben's Dollar Store. My daddy's dead.  He got hit by a train."
+      },
+      {
+        "speaker": "KARL",
+        "text": "How fer you going with them sacks full of warsh?"
+      },
+      {
+        "speaker": "BOY",
+        "text": "About a half a mile I think it is."
+      },
+      {
+        "speaker": "KARL",
+        "text": "I'll help you tote 'em if I don't give out first."
+      },
+      {
+        "speaker": "BOY",
+        "text": "Okay. You don't have to though."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70300",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "BOY",
+        "text": "My name is Frank Wheatley. What's your name?"
+      },
+      {
+        "speaker": "KARL",
+        "text": "Karl's my name."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70301",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "CHARLES",
+        "text": "... on the third day I washed her. She wasn't very clean. I got all the right spots. She was the first one I ever kept for any length of time, you see I get bored easily, I have a short attention span. I can't say she enjoyed her stay, although the washcloth in her mouth held in place by good duct tape kept any complaints to a minimum. I don't really like people who talk a lot. I like to do the talking. I guess that's why I'm so fond of you. You're so easygoing, although I do sense a little tension in you sometimes. By the way, how was it out there? Did you have any fun? Make any new acquaintances? Tell me what it was like."
+      },
+      {
+        "speaker": "KARL",
+        "text": "They was a boy. We made friends."
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "I bet you did. I was never bent that way. I'm bent the other way. So, you liked it out there in the world."
+      },
+      {
+        "speaker": "KARL",
+        "text": "It's too big."
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "Well, it's not too big in here, is it?  I feel very generous today. I feel like listening. I'm sure you have plenty to tell me. And please bore me with the details.  ) Come on Karl, who did you kill? Was it the boy?"
+      },
+      {
+        "speaker": "KARL",
+        "text": "Don't say nothin' about that boy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70302",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "DOYLE",
+        "text": "Hey Freddy, what's goin' on boy. I seen your pitcher in the paper for catchin' that big-ass bass."
+      },
+      {
+        "speaker": "FREDDY",
+        "text": "Yeah She was a big 'un. You ain't drunk drivin' are you Doyle?"
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "FREDDY",
+        "text": "I figured that. Well you better be careful with that cripple in the back. You'll throw him out. Looks like you got a wagonful."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "We run outta somethin' to drink. Goin' to the county line. You want to race?"
+      },
+      {
+        "speaker": "FREDDY",
+        "text": "You know better than that. We're on duty. Catch me in that Camaro next week one night."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "Catch you later Freddy!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70303",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Doyle, you're awful. You shouldn't be that way."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "I ain't sayin' it's right. I'm just tellin' the truth. What was he in the nuthouse for?"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "He's just mentally retarded, I guess."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "He had of went nuts and did somethin'. They don't put you in there for just bein' a retard. They's retards all over the place that ain't in the nuthouse. Do you know, Frank?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70304",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Yeah, that's right, Frank, you better ask him. I mean, don't hurt his feelin's or anything, but it would be good to know. I'm sure it's nothin'. He seems real sweet."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "You sure are hung up on people bein' sweet.  Speakin' of which, where's your girlfriend? I thought he was comin' by here for something."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "He'll be here in a little while, he's takin' me to get an ice cream."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "Ain't that the sweetest thing. What am I supposed to do about supper with you traipsin' around with that fag?"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "You're not crippled. Get in there and make somethin'."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "Boy, ain't you somethin' else. Talkin' back and everything. It kinda makes me horny when you talk back."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Frank, why don't you go off and play in your room if Doyle's gonna talk nasty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70305",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Let's go, Vaughan.  Frank, we'll be back in a little while. I'll bring you back somethin'. You're food's in the oven warmin' over."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "See, you made him somethin'. Hey Vaughan, I was just goin' on with you, jokin' around, buddy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70306",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "DOYLE",
+        "text": "Well, I wouldn't let it get to you."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "I just feel sorry for the poor thing."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "Who could eat with him settin' there makin' that goddamn racket with his throat."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "He does make some funny noises."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70307",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "DOYLE",
+        "text": "You know what, by God?"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "What?"
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "You know what we ought to do tonight?"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Please Doyle, don't."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "Have a damn party! Call Morris and them and get the band together and just party our asses off. I'd like to show that fuckin' Karl to the guys. They'd get a kick out of that. Don't you know they would."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Please don't. Not tonight. I'm not up for it. They always stay till mornin'. I'm just give out, Doyle."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "You don't have to do anything but pour some potato chips in a bowl and bring beers out when we get low."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70308",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "DOYLE",
+        "text": "Well, it's on! We're gonna rock. Linda, call Vaughan. Tell him to get over here. I'd like him to be here. I owe him a good time."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "No Doyle. Vaughan don't want to come to a party with you."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "Too late, Honey. Fooled you. Done called him. He'll be here.  Or I'll go get him. Come on Karl, I need you to help me ice down a tub of beer, you and Frank."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70309",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "DOYLE",
+        "text": "Okay ladies and gentlemen  or both. It's come to the time in our show when we like to introduce the band. Over here on lead guitar Mr. Randy Horsefeathers. Come on hit a hot lick, Randy.  Well, come on, y'all are supposed to clap now. Come on!"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Karl, you better clap your hands or he'll just keep on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70310",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "He don't want to Doyle. Don't go Vaughan if you don't want to. You'll wreck Doyle, you're drunk."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "But honey, I'll be good. I promise. I love you sweetie. I'm just tryin' to help these two be part of things."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70311",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "DOYLE",
+        "text": "I thought I told everybody to get out of my house. That includes cocksuckers and retards. Get off your asses and go."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "This is not your house, Doyle. This is my house and I'll say who stays and goes. You've got a house, why don't you go get one of your girlfriends and go home to it."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "You know better than to talk like that when I'm hurtin'. Don't make me knock the piss out of you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_70312",
+    "movie_id": "m518",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "You're not stayin' here tonight. Go get sober before you come back. I'm tired of my child seein' this. Now you get yourself straight or I'll lock your ass out of my life for good."
+      },
+      {
+        "speaker": "DOYLE",
+        "text": "You know what I told you, you even think of leavin' me, I'll kill you dead as a doornail."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "That might be better than this."
+      }
+    ]
+  }
+]

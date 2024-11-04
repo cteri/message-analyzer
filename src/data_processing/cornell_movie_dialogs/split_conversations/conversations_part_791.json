@@ -1,0 +1,1702 @@
+[
+  {
+    "conversation_id": "conv_79019",
+    "movie_id": "m584",
+    "turns": [
+      {
+        "speaker": "YORI",
+        "text": "You've grown, big program."
+      },
+      {
+        "speaker": "TRON",
+        "text": "I had to...in the games..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79020",
+    "movie_id": "m584",
+    "turns": [
+      {
+        "speaker": "YORI",
+        "text": "Yes...it can take us across the Sea of Simulation... all the way out of the Game Grid...to the MCP."
+      },
+      {
+        "speaker": "TRON",
+        "text": "As long as it gets us out of here"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79021",
+    "movie_id": "m584",
+    "turns": [
+      {
+        "speaker": "TRON",
+        "text": "This is Flynn... the one who busted me out."
+      },
+      {
+        "speaker": "YORI",
+        "text": "Then I owe you some thanks..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79022",
+    "movie_id": "m584",
+    "turns": [
+      {
+        "speaker": "TRON",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "YORI",
+        "text": "Power surge... the transmission beam's too strong!"
+      },
+      {
+        "speaker": "TRON",
+        "text": "We have to get off this beam!"
+      },
+      {
+        "speaker": "YORI",
+        "text": "I can't. There's no junction due for at least 7 or 8 nanoseconds!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79023",
+    "movie_id": "m584",
+    "turns": [
+      {
+        "speaker": "TRON",
+        "text": "Nice..."
+      },
+      {
+        "speaker": "YORI",
+        "text": "It's something Users do."
+      },
+      {
+        "speaker": "TRON",
+        "text": "Where's Flynn?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79024",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "I mean, it's not like he's saving the world or anything.  He's a sales rep for Chrissakes. Whenever I can't get to sleep I ask him to tell me about his day. Six seconds and I'm out.  But he acts like he's curing cancer or something."
+      },
+      {
+        "speaker": "ALLISON",
+        "text": "So I guess you didn't get away\t\t\t\t\t* for the weekend after all?\t\t\t\t\t*"
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Are you kidding?  Harry had to go out of town."
+      },
+      {
+        "speaker": "ALLISON",
+        "text": "I'm shocked."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Yeah.  You know Harry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79025",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "You bitch."
+      },
+      {
+        "speaker": "ALLISON",
+        "text": "Girlfriend, you got a man.  You\t\t\t\t* just have to take control .  . .  set up the right mood.\t\t\t\t\t\t*"
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Harry only has two moods: busy...\t\t\t\t* and asleep."
+      },
+      {
+        "speaker": "ALLISON",
+        "text": "Then you better do something to\t\t\t\t* jumpstart that man's motor.  You know... wake up the sleeping giant of his passion."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79026",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "ALLISON",
+        "text": "Helen!  It's your mystery man."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Simon?  Ohmygod."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79027",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "Can you cover me for an hour?"
+      },
+      {
+        "speaker": "ALLISON",
+        "text": "Just an hour?  You should tell this stud to take more time."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Will you shutup.  I should never have told you about him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79028",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "DANA",
+        "text": "Out.  If Dad doesn't care enough about us to be here on his birthday, then why should I care? I'm going to a movie."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "No you're not.  You're going to stay here until your father gets home and have cake!"
+      },
+      {
+        "speaker": "DANA",
+        "text": "Mom, wake up!  Dad barely knows we exist."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79029",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "That's not true, honey--"
+      },
+      {
+        "speaker": "DANA",
+        "text": "It is true!  He doesn't know anything about me.  He still thinks I'm like ten years old or something.  As long as I just smile and say yes to whatever he says, like his good little fantasy daughter, he thinks everything's fine.  But it's not fine.  Nothing's fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79030",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "Dinner's in the warmer.  Tell your father I may be late."
+      },
+      {
+        "speaker": "DANA",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79031",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "DANA",
+        "text": "I'm done."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Where are you off to young lady?"
+      },
+      {
+        "speaker": "DANA",
+        "text": "I have a book report."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79032",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Dana, Mr. Hardy called.  Why weren't you in class today?"
+      },
+      {
+        "speaker": "DANA",
+        "text": "He lies!  I was there!  I was in the nurse's office, cause I had a headache."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You seem fine now."
+      },
+      {
+        "speaker": "DANA",
+        "text": "Great!  You're going to believe that fat dweeb Mr. Hardy over your own daughter."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'm not sure what to believe anymore, young lady.  You never used to lie to me.  But lately you don't seem to know the difference between right and wrong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79033",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Dana, are you listening to me?"
+      },
+      {
+        "speaker": "DANA",
+        "text": "Yeah, Dad."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You know you can always talk to me.  Right?  Whatever is going on in your life, your mom and I'll understand."
+      },
+      {
+        "speaker": "DANA",
+        "text": "Okay, Dad."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You'd tell me if there was something wrong, wouldn't you, pumpkin?"
+      },
+      {
+        "speaker": "DANA",
+        "text": "I'm not a pumpkin!  Okay?!!  Do I look even remotely like a pumpkin?! I'm not a muffin, or a cupcake or a honeybear either! And you don't understand anything Dad..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79034",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "How was school today?"
+      },
+      {
+        "speaker": "DANA",
+        "text": "Fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79035",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "There are going to be some changes Dana.  You're going to start following some rules.  And I'm going to be there to see that you do."
+      },
+      {
+        "speaker": "DANA",
+        "text": "Yeah, right."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You're going to stay in school. Do you understand?"
+      },
+      {
+        "speaker": "DANA",
+        "text": "Why?  So I can wind up like you? What's the point?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79036",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "DANA",
+        "text": "Dad, how come you know the words?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Honey that song came out in 1968, when I was exactly your age."
+      },
+      {
+        "speaker": "DANA",
+        "text": "Unbelievable!  Trent told me he wrote it.  He's history."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79037",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "I seem to remember something about a history project that's due tomorrow."
+      },
+      {
+        "speaker": "DANA",
+        "text": "Dad.  You just think you know everything, don't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79038",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "FAISIL",
+        "text": "And this is a little above market-\t\t\t\t* rate for the horizontal bop, even\t\t\t\t* for a total biscuit like her."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Alright, I want a complete workup on her.  Do we know where she is?"
+      },
+      {
+        "speaker": "FAISIL",
+        "text": "Uh huh.  Right here in river city."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You're kidding."
+      },
+      {
+        "speaker": "FAISIL",
+        "text": "She lives in Rome, but she does stuff here the Smithsonian and has a lot of diplomatic connections, so she has offices\t\t\t\t* here.\t\t\t\t\t\t\t\t\t\t*"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79039",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "FAISIL",
+        "text": "And the second you left there, we started getting calls to the\t\t\t\t\t* ghost numbers.  They were checking out the Renquist front."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Okay.  Let's step up the surveillance on her.  Put on two more guys."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79040",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Immediate roll.  Acquire subject at K Street and Key Bridge.\t\t\t\t\t* Vehicle is red-and-white\t\t\t\t\t\t* convertible.  You have six minutes."
+      },
+      {
+        "speaker": "FAISIL",
+        "text": "Roger, One.  Rolling."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79041",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "TRILBY",
+        "text": "Faisil.  You're new on Harry's team, aren't you?"
+      },
+      {
+        "speaker": "FAISIL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "TRILBY",
+        "text": "So what makes you think that the slack I cut him in any way translates to you?!"
+      },
+      {
+        "speaker": "FAISIL",
+        "text": "Sorry, sir.  Uh... here's what we got."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79042",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "FAISIL",
+        "text": "They call him \"The Sand Spider\".\t\t\t\t*"
+      },
+      {
+        "speaker": "TRILBY",
+        "text": "Why?"
+      },
+      {
+        "speaker": "FAISIL",
+        "text": "Probably because it sounds scary.\t\t\t\t*"
+      },
+      {
+        "speaker": "TRILBY",
+        "text": "This is impressive, gentlemen. Of course, it would have been even more impressive if you actually knew where he was."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79043",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Switching to sub-vocal.  Gib, you copy?"
+      },
+      {
+        "speaker": "GIB",
+        "text": "It's Talkradio.  You're on the air."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79044",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Harry!  Where are you!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "In the helicopter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79045",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Harry?  HARRY?!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79046",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "What's this for?"
+      },
+      {
+        "speaker": "GIB",
+        "text": "For Dana, schmuck.  Bring your kid something.  You know.  The dad thing."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Got it.  Nice touch.  Okay, pick me up at eight.  The de-brief is at ten hundred."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79047",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "What a team.  See you at eight."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Yep.  Sleep fast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79048",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Thanks dear."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Here, check these out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79049",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Son of a bitch!"
+      },
+      {
+        "speaker": "GIB",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79050",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Kids.  Ten seconds of joy. Thirty years of misery."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "She knows not to steal.  I've taught her better than that."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Yeah, but you're not her parents, anymore, you and Helen.  Her parents are Axl Rose and Madonna. The five minutes you spend a day with her can't compete with that kind of constant bombardment. You're outgunned, amigo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79051",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "See, kids now are ten years ahead\t\t\t\t* of where we were at the same age. You probably think she's still a virgin--"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Don't be ridiculous.  She's only -- how old is she?"
+      },
+      {
+        "speaker": "GIB",
+        "text": "Fourteen, Harry."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Right.  She's only fourteen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79052",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Uh huh.  And her little hormones are going like a fire alarm.  I\t\t\t\t* say even money that physicist on\t\t\t\t* the bike is boinkin' her.\t\t\t\t\t\t*"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "No way.  Not Dana."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79053",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Okay.  Okay.  De-nail ain't just a river in Egypt.  She's probably stealing the money to pay for an abortion."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Will you just open the door!\t\t\t\t\t*"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79054",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Twenty here, fifty there... I figured my wife's boyfriend was taking it."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I thought you moved out."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Well .  .  .  I moved back in. My lawyer said it would give me a better claim on the house in the property settlement.  Don't change the subject... you owe me two hundred bucks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79055",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Harry Tasker.  One zero zero two four."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Albert Gibson.  Three four nine nine one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79056",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "You better watch it.  She might file on you for sexual harassment."
+      },
+      {
+        "speaker": "GIB",
+        "text": "In her dreams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79057",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "It doesn't mean anything.  She buys antiquities for Khaled."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Nope.  The art buys are in a separate ledger."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79058",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "It's all set up...  ghost phones and fax, all the usual stuff. You have a suite at the Marquis Hotel under Renquist.  Okay, reality check.  Go."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hi, I'm Harry Renquist.  I own a--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79059",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "She's importing stuff from all over the mid-east."
+      },
+      {
+        "speaker": "GIB",
+        "text": "She could be moving money, guns. Anything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79060",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "What?  It's on the way.  She says she's got something for me."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Yeah, right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79061",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Station wagon?"
+      },
+      {
+        "speaker": "GIB",
+        "text": "Uh huh.  Want me to lose them?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79062",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Helen's going to be pissed."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "See, that's the problem with terrorists.  They're really inconsiderate when it comes to people's schedules."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79063",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "What's the plan?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Gonna try to get a closer shot of\t\t\t\t* Beavis & Butthead.\t\t\t\t\t\t\t*"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79064",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "There's another guy, still in the car."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Stay on him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79065",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Copy that."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "And make it fast.  My horse is getting tired."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79066",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Hey, did that guy Harry chased last night call in to give himself up yet?  Cause apparently that's the only way we're going to catch the son of a bitch --"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Okay.  Here she comes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79067",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Look at the way the little punk is driving.  He's all over the place.  Look-- he hasn't signalled once."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Goddammit!  That's outrageous."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79068",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "So, you wanna play huh?  You little--"
+      },
+      {
+        "speaker": "GIB",
+        "text": "That's it.  Get 'im Harry  We'll teach that little puke not to signal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79069",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Ha!  The little prick ditched you!  That is so goddamn funny."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Son of a bitch!"
+      },
+      {
+        "speaker": "GIB",
+        "text": "Can we go to the office now, Mr. Superspy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79070",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Abu Kaleem Malik."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Hardcore, highly fanatical, ultra-\t\t\t\t* fundamentalist.  Linked to\t\t\t\t\t* numerous car-bombings, that cafe\t\t\t\t* bomb in Rome, and the 727 out of Lisbon last year.  Major player.\t\t\t\t*"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79071",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Look, uh... I've got to talk to Helen about this thing with Dana. I'm just going to run in and see if she can get away for lunch."
+      },
+      {
+        "speaker": "GIB",
+        "text": "You want me to just hang-- ?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Just hang a minute."
+      },
+      {
+        "speaker": "GIB",
+        "text": "I'll just hang then, shall I?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79072",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "He-- Helen.  Helen-- it's Helen. It's Helen, Gib."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Something to do with Helen, is what I'm getting."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "She's having an affair."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79073",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Congratulations.  Welcome to the club."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "It can't be.  Not Helen."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Nobody believes it can happen to them."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "It can't be."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Same thing happened to me with wife two.  I had no idea until I came home and the house was empty.  I mean empty.  She even took the ice-cube trays from the fridge.  What kind of person would think of that?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I still don't believe it."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Relax.  Helen still loves you. She just wants this guy to bang her.  It's nothing serious. You'll get used to it after a --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79074",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Is this national security stuff boring you?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Put a tap on her phone."
+      },
+      {
+        "speaker": "GIB",
+        "text": "What're you talking about?  We have that."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Helen's phone.  Her office line and the line at my house."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79075",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Yeah, and we do it twenty times a day.  Don't give me that crap. Just put on the taps.  Now."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Sure, Harry.  I'm on it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79076",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Guy's a spook!"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yeah, but for who?\t\t\t\t\t\t\t*"
+      },
+      {
+        "speaker": "GIB",
+        "text": "He could be working her to get to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79077",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Give me the page."
+      },
+      {
+        "speaker": "GIB",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "It skips from page nine to eleven.  Where's page ten?"
+      },
+      {
+        "speaker": "GIB",
+        "text": "Aw, it's gotta be a typo--"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "GIVE ME THE GODDAMN PAGE!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79078",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "She's still at my house.\t\t\t\t\t\t*"
+      },
+      {
+        "speaker": "GIB",
+        "text": "The purse is still at the house."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79079",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Goddamnit, Harry.  This is our butts.  So your life is in the toilet.  So your wife is banging a used car salesman.  Sure it's humiliating.  But be a man here--"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You tell on me, I tell on you."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Whatya talking?  I'm clean as a preacher's sheets, babe.  Clean as a --"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What about that time you trashed a six-week operation because you were busy getting a blow-job?"
+      },
+      {
+        "speaker": "GIB",
+        "text": "You know about that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79080",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "She's lying."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You didn't have sexual relations with him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79081",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "She could be telling the truth."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Wait!  Calm down, Mrs. Tasker. There is only one more question."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79082",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Now what?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "There is only one solution to your problem, Mrs. Tasker.  You must work for us."
+      },
+      {
+        "speaker": "GIB",
+        "text": "Oh shit.  Harry... what're you doing?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'm giving her an assignment.  I am offerring you a choice.  If you work for us we will drop the charges and you can go back to your normal life.  If not, you will go to federal prison, and your husband and daughter will be left humiliated and alone.  Your like will be destroyed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79083",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "We're dead, right?  So... where'd you put the transmitter?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "In her Walkman.  It's the one thing I knew she'd be taking."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79084",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "You've reached a new low with this one.  I can't believe you're crazy enough to use the room at the Marquis."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Why not?  You think I can afford a suite like that on my salary? Is Jean-Claude done yet?\t\t\t\t\t\t*"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79085",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "I thought this look like your work."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Let's go.  I'll brief you in the air."
+      },
+      {
+        "speaker": "GIB",
+        "text": "You're welcome."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79086",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "--you tell the son of bitch this is  Bright Boy Alert.  Repeat, a Bright Boy Alert.  And I need a patch of the White House ASAP. That's right--"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "... the Coast Guard has to clear them back to a twenty mile radius.  Anybody that can't make the minimum safe distance we need an airlift on, immediately--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79087",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "I can get 3 Marine Corps Harriers here in about 12 minutes. They're on maneuvers out of Boca Chica."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Get 'em.  I'll brief them on the way in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79088",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "... well get the Highway Patrol to go through the streets and tell everybody on their damn loudspeakers.  Just the basics... get away from windows, don't look at it... yeah--"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Here they come."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79089",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Any minute now."
+      },
+      {
+        "speaker": "GIB",
+        "text": "It's show time.  Don't look at\t\t\t\t\t* the flash.  Do not look at the flash."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79090",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "I'd like to remind you that it has been ten years since you were actually in one of these."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "If I break it they can take it out of my pay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79091",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "He's got it."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79092",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "I should have gone to the police, I suppose."
+      },
+      {
+        "speaker": "GIB",
+        "text": "But you didn't.  Why not?"
+      },
+      {
+        "speaker": "HELEN",
+        "text": "I don't know.  I guess... I wanted to see what would happen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79093",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Is this a common thing for you? Cheating?"
+      },
+      {
+        "speaker": "HELEN",
+        "text": "No!  Never!"
+      },
+      {
+        "speaker": "GIB",
+        "text": "So, it was your first time."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "I wasn't cheating!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79094",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "My husband is a good man."
+      },
+      {
+        "speaker": "GIB",
+        "text": "But he's not exactly ringing your bell lately, right?  I mean--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79095",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "Look, if you ask me everything twice, this is going to take a really long time.  And I have to get home to my family."
+      },
+      {
+        "speaker": "GIB",
+        "text": "You're not going anywhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79096",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "GIB",
+        "text": "Janice, how many years have you been buzzing us in?"
+      },
+      {
+        "speaker": "JANICE",
+        "text": "Ten, Mr. Gibson."
+      },
+      {
+        "speaker": "GIB",
+        "text": "And you still reach for your piece every time."
+      },
+      {
+        "speaker": "JANICE",
+        "text": "Yes sir."
+      },
+      {
+        "speaker": "GIB",
+        "text": "God!  You have no idea how much that turns me on.  I've never had the courage to say this before but... I love you, Janice."
+      },
+      {
+        "speaker": "JANICE",
+        "text": "Yes, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79097",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "This is Persian, if I'm not mistaken."
+      },
+      {
+        "speaker": "JUNO",
+        "text": "Very good.  It's sixth century B.C.  Do you like the period?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I adore it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79098",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "JUNO",
+        "text": "Call me, if you'd like to see some of my other pieces."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'd like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79099",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Well, what's the point of waiting?"
+      },
+      {
+        "speaker": "JUNO",
+        "text": "I agree."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79100",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "JUNO",
+        "text": "So your clients want something for the lobby of their new corporate headquarters?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "That's right.  They want something...  dramatic.  I spoke to a number of people who said you're the one to see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79101",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Let's see... that you can read ancient Sanskrit without having to sound out the words.  And that other dealers and archeologists don't like you much."
+      },
+      {
+        "speaker": "JUNO",
+        "text": "Those wimps.  It's because I use\t\t\t\t* my diplomatic contacts to export cultural treasures from countries which tell them to take a hike.  I told you to move those crates an hour ago.  Come on guys, let's get going."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79102",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "JUNO",
+        "text": "Do you like my tomb?  The museum\t\t\t\t* financing fell out, so I thought\t\t\t\t* your clients might be interested."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "It's certainly... dramatic."
+      },
+      {
+        "speaker": "JUNO",
+        "text": "Especially in this light.  This is the only light they had then,\t\t\t\t* so I like to study it this way. I love this place.  I love all ruins."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Is that why you got into this business?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79103",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "JUNO",
+        "text": "I've always been a collector at heart.  When I see something I want, I have to have it."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "And you have a reputation as someone who gets what she wants."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79104",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "JUNO",
+        "text": "Yes what?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Uh, yes, it is important."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79105",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "JUNO",
+        "text": "Hello, Harry."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Juno.  I wish I could say it's a pleasure to see you again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79106",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "JUNO",
+        "text": "This is Samir.  See if you can guess his specialty."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Oral hygiene?"
+      },
+      {
+        "speaker": "JUNO",
+        "text": "Not exactly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79107",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "JUNO",
+        "text": "You think I care about their\t\t\t\t\t* cause?  Or yours?  Not at all.\t\t\t\t\t* See, America is on top now .  .\t\t\t\t* .  but so was Rome, once.  All\t\t\t\t\t* civilizations crumble.  One nation succeeding over another. What does it mean in the long run?  The only important thing is to live well.  And...  living\t\t\t\t\t* well takes money.\t\t\t\t\t\t\t*"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You're damaged goods, lady."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79108",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "JUNO",
+        "text": "Did you tell her about us, Harry?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "There is no us, you psychotic bitch."
+      },
+      {
+        "speaker": "JUNO",
+        "text": "Sure.  Say that now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79109",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "Hi, honey.  How was the flight?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Fine, honey.  Stay asleep."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79110",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "I'm late."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Me too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79111",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "How'd it go at the trade show? You make all the other salesmen jealous?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yeah.  You should have seen it. We were the hit of the show with the new model ordering system, the one for the 680... how you can write up an order and the second the customer's name goes into the computer, it starts checking their credit, and if they've ordered anything in the past, and if they get a discount..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79112",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "That's fabulous Harry."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yeah, it was wild."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79113",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Uh huh.  Okay."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "It's not okay.  It's extortion."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "What did you tell him?"
+      },
+      {
+        "speaker": "HELEN",
+        "text": "I slept with him and he knocked off a hundred bucks."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Good thinking, honey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79114",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HELEN",
+        "text": "I need you to talk to Dana.  The vice principle called and she cut class again this afternoon."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I'll handle it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79115",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Hi honey.  What's going on?\t\t\t\t\t*"
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Sorry to bother you in a meeting, but you have to promise me that\t\t\t\t* you'll be home at eight.  I don't\t\t\t\t* want Dana and I sitting here by ourselves like we were last year. You promise?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Baby, I said I'd be there. Really.  Trust me.  Gotta go, honey.  Bye bye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79116",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Look, I know you're upset.  I'm really sorry, honey.  I raced home as quick--"
+      },
+      {
+        "speaker": "HELEN",
+        "text": "It's okay, don't bother, Harry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79117",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "I'm sorry.  Thank you for the party."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "Yeah.  It was great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_79118",
+    "movie_id": "m585",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Come on to bed, you don't have to brush your teeth."
+      },
+      {
+        "speaker": "HELEN",
+        "text": "I'll just be a second.  So what happened tonight at the office?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I couldn't believe it.  I go back to get this report I need, right, and the phone is ringing, so like a bonehead I answer it--"
+      }
+    ]
+  }
+]

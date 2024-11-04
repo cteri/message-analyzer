@@ -1,0 +1,2070 @@
+[
+  {
+    "conversation_id": "conv_77813",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "You have to go for help."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I'll be right back."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I'll wait here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77814",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Will this work?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "We'll find out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77815",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "I'm not going without you."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Get in the boat, Rose."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77816",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "You jump, I jump, right?"
+      },
+      {
+        "speaker": "JACK",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77817",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Look for something floating. Some debris... wood... anything."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "It's so cold."
+      },
+      {
+        "speaker": "JACK",
+        "text": "I know. I know. Help me, here. Look around."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77818",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "It's getting quiet."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Just a few more minutes. It'll take them a while to get the boats organized..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77819",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "No... don't say your good-byes, Rose. Don't you give up. Don't do it."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I'm so cold."
+      },
+      {
+        "speaker": "JACK",
+        "text": "You're going to get out of this... you're going to go on and you're going to make babies and watch them grow and you're going to die an old lady, warm in your bed. Not here. Not this night. Do you understand me?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I can't feel my body."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Rose, listen to me. Listen. Winning that ticket was the best thing that ever happened to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77820",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "You must do me this honor... promise me you will survive... that you will never give up... no matter what happens... no matter how hopeless... promise me now, and never let go of that promise."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I promise."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Never let go."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I promise. I will never let go, Jack. I'll never let go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77821",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "LIGHTOLLER",
+        "text": "I don't think I've ever seen such a flat calm, in 24 years at sea."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "Yes, like a mill pond. Not a breath of wind."
+      },
+      {
+        "speaker": "LIGHTOLLER",
+        "text": "It's make the bergs harder to see, with no breaking water at the base."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "Mmmmm. Well, I'm off. Maintain speed and heading, Mr. Lightoller."
+      },
+      {
+        "speaker": "LIGHTOLLER",
+        "text": "Yes sir."
+      },
+      {
+        "speaker": "SMITH",
+        "text": "And wake me, of course, if anything becomes in the slightest degree doubtful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77822",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "LIZZY",
+        "text": "April 14, 1912."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "If your grandma is who she says she is, she was wearing the diamond the day Titanic sank.  And that makes you my new best friend. I will happily compensate you for anything you can tell us that will lead to its recovery."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77823",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "Wait! Can you give us something go on, here. Like who had access to the safe. What about this Lovejoy guy? The valet. Did he have the combination?"
+      },
+      {
+        "speaker": "LIZZY",
+        "text": "That's enough."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77824",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "Maybe she wants to make peace with the past."
+      },
+      {
+        "speaker": "LIZZY",
+        "text": "What past? She has never once, not once, ever said a word about being on the Titanic until two days ago."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Then we're all meeting your grandmother for the first time."
+      },
+      {
+        "speaker": "LIZZY",
+        "text": "You think she was really there?"
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Oh, yeah. Yeah, I'm a believer. She was there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77825",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "LIZZY",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "We were pissin' in the wind the whole time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77826",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "Is your stateroom alright?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Yes. Very nice. Have you met my granddaughter, Lizzy? She takes care of me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77827",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "There, that's nice. I have to have my pictures when I travel. And Freddy of course.  Isn't that right, sweetie."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Would you like anything?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I should like to see my drawing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77828",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "Louis the Sixteenth wore a fabulous stone, called the Blue Diamond of the Crown, which disappeared in 1792, about the time Louis lost everything from the neck up. The theory goes that the crown diamond was chopped too... recut into a heart-like shape... and it became Le Coeur de la Mer. The Heart of the Ocean. Today it would be worth more than the Hope Diamond."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "It was a dreadful, heavy thing.  I only wore it this once."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77829",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "I tracked it down through insurance records... and old claim that was settled under terms of absolute secrecy. Do you know who the claiment was, Rose?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Someone named Hockley, I should imagine."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Nathan Hockley, right. Pittsburgh steel tycoon. For a diamond necklace his son Caledon Hockley bought in France for his fiancee... you... a week before he sailed on Titanic. And the claim was filed right after the sinking. So the diamond had to've gone down with the ship.  See the date?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77830",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "It's been 84 years..."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Just tell us what you can --"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "It's been 84 years... and I can still smell the fresh paint. The china had never been used. The sheets had never been slept in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77831",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "I can still feel its weight. If you could have felt it, not just seen it..."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "Well, that's the general idea, my dear."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77832",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "LOVETT",
+        "text": "Rose, tell us more about the diamond. What did Hockley do with it after that?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "I'm afraid I'm feeling a little tired, Mr. Lovett."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77833",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Don't come any closer."
+      },
+      {
+        "speaker": "LOVETT",
+        "text": "You had it the entire time?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77834",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "RUTH",
+        "text": "My God, Rose, what's gotten into --"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Excuse me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77835",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "ROSE",
+        "text": "Mother, may I introduce Jack Dawson."
+      },
+      {
+        "speaker": "RUTH",
+        "text": "Charmed, I'm sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77836",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "RUTH",
+        "text": "Rose, this is not a game! Our situation is precarious. You know the money's gone!"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Of course I know it's gone. You remind me every day!"
+      },
+      {
+        "speaker": "RUTH",
+        "text": "Your father left us nothing but a legacy of bad debts hidden by a good name. And that name is the only card we have to play."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77837",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "RUTH",
+        "text": "I don't understand you. It is a fine match with Hockley, and it will insure our survival."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "How can you put this on my shoulders?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77838",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "RUTH",
+        "text": "Do you want to se me working as a seamstress? Is that what you want? Do you want to see our fine things sold at an auction, our memories scattered to the winds? My God, Rose, how can you be so selfish?"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "It's so unfair."
+      },
+      {
+        "speaker": "RUTH",
+        "text": "Of course it's unfair! We're women. Our choices are never easy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77839",
+    "movie_id": "m574",
+    "turns": [
+      {
+        "speaker": "RUTH",
+        "text": "Rose, get in the boat!"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Goodbye, mother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77840",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "Anya!"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Don't you hate people that surprise you? ... I do.  We can't stand here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77841",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "Anya, I think you're crazy."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Any woman's crazy to feel about a man the way I do about you."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "I wasn't running out on you. When I got over there-- made my plans--I'd have sent for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77842",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "Then why the sudden exit without even telling me?"
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "Do you want the truth, Anya?"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "It would be a nice change from you."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "I had an idea your husband was getting suspicious."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "You're a charming liar. You <U>know</U>, Herbert's too dull to be suspicious about anything--even when I suddenly decided to come to Europe at a few hours' notice--"
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "How'd you ever get away with it?"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "When I found out you were going I just had an attack of nerves--a few tears--and Herbert was on his way downtown to get my passport ... so who cares ... I'm here with you ... and that's all that matters to me."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "Sure!"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "I never want to go back...."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77843",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "Here's to Europe!  Couldn't try to look a little less glum, could you?"
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "Don't be crazy--I'm tickled to death to see you."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "That's fine--because you're going to see a lot of me ... for the rest of your life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77844",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "But, Anya, dear! Unless you play we won't have a fourth."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "I'm sorry, but you three men can play poker or something.  Shall I see you tomorrow?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77845",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "Hope we're not intruding."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "This is Miss Marsh."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Yes--I met Miss Marsh. In fact, she always seems to be turning up in the most unusual circumstances.  What's the matter, Miss Marsh--aren't you feeling well?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77846",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "Well--shall we go into dinner?"
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "I'll join you later."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "And <U>do</U> bring Miss Marsh--  --when she's had time to tidy up a bit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77847",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "So that's your little dancer that you were playing around with in New York.  Oh--there's no accounting for tastes--  Mine, too, seem to be in the gutter."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "I can explain--"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Sure! You're never at a loss for words."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77848",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "Don't look so uncomfortable, Lee--it interferes with your good looks. Give me a cigarette.  What did you do--persuade her to come on this voyage with you?"
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "Don't talk such bunk! She's one of the acts on the ship. I just ran into her by accident."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Did you muss up her hair by accident, too?"
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "You mind your own business! She's an old friend of mine and I like her--what're you going to do about it?"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Just make it as difficult as possible for you to see her."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "I didn't ask you to come away with me--"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Oh--a hundred times--"
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "--and I can tell you where to get off."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "And when you do I'll convey your respects by wireless to Herbert.  Take it easy, Lee--no other woman'll ever get you. At least I'm honest when I tell you there must be something pretty low down in me--because I like you.  You're such a swine!"
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "Will you leave me alone?"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "I like touching you--poison ivy.  You'd just been kissing that girl when I came in, hadn't you?"
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "Baloney!"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "No, darling, lip rouge--all over your mouth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77849",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "I can think of nothing nicer. It's very kind of you to invite me--"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "I'm just commencing to enjoy this trip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77850",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "Feeling a little better, I see."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Yes, yes--the air--  --I'm getting plenty of air.  Miss Marsh--Mrs. Rosson."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77851",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Thanks. I'll be there. About seven-thirty?"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Sooner--if you like.  See you again, I hope."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77852",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "Good afternoon--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Glad to see you again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77853",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "I hope so."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "That's a date."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77854",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Will you please excuse me? I'll be right back."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "We'll save you a place at our table."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77855",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Isn't she lovely?"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Yes--and <U>very</U> popular--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77856",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "No--I'm furious!--Nobody seems to do anything about it--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Why worry? It was insured--how about that swimming lesson I promised you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77857",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "How do you do. Would you care to finish the game? I have a slight earache.  --and it's so noisy up here."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Thanks, no. I despise any form of exercise.  Don't forget we have an engagement for cocktails and cards."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77858",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "You're Anya Rosson, aren't you? I've heard of you back in New York."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Sorry I can't return the compliment."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "You were indiscreet enough to leave your gloves in my apartment one evening--  --and he was gentleman enough to boast <U>why</U> you'd been there and show me a snapshot of you."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "I don't understand."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I think you do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77859",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SUMMERS",
+        "text": "A rare pleasure to meet you, ma'am! Where I come from --out in Montana--we have some pretty women, but I guess if you walked down Main Street they'd turn out the fire brigade."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Montana?"
+      },
+      {
+        "speaker": "SUMMERS",
+        "text": "Lumber, ma'am--spent all my life out there piling up a bank balance--  --and now gosh darn it--\"Honest Jack\"--that's what they call me--is goin' to see the world."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77860",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SUMMERS",
+        "text": "--that's what we call double-a grade lumber, ma'am; You don't find a knot in a thousand feet."
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Isn't that interesting?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77861",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "ANYA",
+        "text": "You'll excuse me."
+      },
+      {
+        "speaker": "SUMMERS",
+        "text": "Well, it'll have to be poker--but I'm so unlucky in that game."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77862",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SUMMERS",
+        "text": "Will you pardon me?"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "<U>Gladly</U>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77863",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SUMMERS",
+        "text": "You're lucky--out my way, in Montana, there's nothing else to do--"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "I'm going down to my cabin. I have to send a wireless-- see you later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77864",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SUMMERS",
+        "text": "Did you find it?"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "No!--Did <U>you</U> take that bracelet?"
+      },
+      {
+        "speaker": "SUMMERS",
+        "text": "No-o!"
+      },
+      {
+        "speaker": "ANYA",
+        "text": "Where's Lother?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77865",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "MCKINNEY",
+        "text": "Where'd you get it?"
+      },
+      {
+        "speaker": "BALLINGER",
+        "text": "Lifted it out of a guy's cabin last night."
+      },
+      {
+        "speaker": "MCKINNEY",
+        "text": "What did you want a gun for?"
+      },
+      {
+        "speaker": "BALLINGER",
+        "text": "Stick-up. Needed dough to get ashore."
+      },
+      {
+        "speaker": "MCKINNEY",
+        "text": "Is that why you killed Lee Lother?"
+      },
+      {
+        "speaker": "BALLINGER",
+        "text": "Guess again, copper."
+      },
+      {
+        "speaker": "MCKINNEY",
+        "text": "Get moving--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77866",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Hmm! So am I. If you'll excuse me I have some important unfinished business. I'll see you all later."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "We'll be expecting you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77867",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "We haven't any chips, Mr. Brett--Do you mind playing with cash?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Not at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77868",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Well, I'm off to a pretty good start."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "If I ever won a pot that large the boat would sink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77869",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "I should pass, but I'll trail along--I'll take three."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I'll bet a couple of hundred."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77870",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Aces full."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "And me coming in with two pair--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77871",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "You're coming back--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "That depends on how mother's feeling. You'll excuse me, gentlemen?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77872",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "How about a little game later?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Fine--I'll be glad to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77873",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "Could I see you a minute?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Sure!  Excuse me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77874",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "No gentleman would do that."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I agree with you--no gentleman, would--But I would--  --especially when my opponents have taken the precaution of marking the cards."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77875",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "In that case--you owe us exactly sixteen hundred dollars."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Oh, no--I played with <U>your</U> cards--in <U>your</U> cabin--at <U>your</U> suggestion--If you've got a kick coming, make it to the Purser."
+      },
+      {
+        "speaker": "LOTHER",
+        "text": "I'm making it to you. If I don't get it by tonight--you'll find it a <U>rough</U> voyage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77876",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "LOTHER",
+        "text": "And I'll lay odds you got that bracelet."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I'll lay odds you get a pair of 'em--Why, a high-school kid could take you saps--and another thing--Lay off Sally Marsh.  --\"Honest Jack\"! One look at your mug and the whole world buttons up its pockets."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77877",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "I'm so sorry!"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Want to take it back?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77878",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "I thought you were one of my friends."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I'd <U>like</U> to be.  Sailing on the <U>Progress?</U>"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Yes--are you?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I wouldn't miss this boat for a million."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "She looks like a lot of other boats. I grant you she's beautiful."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I'll say she is!"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Nice lines--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Yes--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77879",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "Like her paint job?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Very much--"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "You've got lipstick all over you."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I could stand some more--"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "--You'll have all the boys tipping their hats to you--  --let me wipe it off."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "No! Don't touch it! I want the <U>world</U> to see my <U>shame</U>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77880",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Where have you been hiding?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Oh--hello!  I got the flowers. That was sweet of you--thank you."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Don't thank me. Do you recognize me without the lipstick?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "So you washed it off!"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "How about giving me another coat?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Good-by."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Wait a minute!--They're dancing in the palm court--"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Good-by!"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "There's soft music--"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "--sorry--got an appointment to play shuffle-board."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Have we?--Well, I'd just as soon play shuffle-board."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77881",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "This is great. I'll be able to watch your act every night."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "You're not very ambitious, are you?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Oh, yes, I am, because <U>afterwards</U>--up here in the moonlight."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "You work too fast for me, young man."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Aw--give a feller a break. My cards are on the table-- I want to know you. How about dining with me tonight?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Never eat before the show."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Well--breakfast?  Lunch?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77882",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "This is Mr.--er--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Brett is the name."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Mr Denby and Mr. McKinney."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77883",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Don't stop, nurse--I think I'm going to faint."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "You <U>are</U> a lunatic!"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Even Cupid's becoming modern, using medicine balls instead of darts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77884",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "You know, you're not a <U>bad</U>-looking girl. In fact--I think you're lovely."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Keep your eyes on the ball, Mister."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Married?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Nothing to speak of. What is this--third degree?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I want you to get used to my voice--you're going to hear it a lot."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "What a horrible death! Do you know what you remind me of?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Tell me."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "A little boy that has escaped from his nurse and--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "--you want to adopt him!--Good for you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77885",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Isn't she attractive?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Very--your mother?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Don't be a c-a-t."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "You asked me to dine with you tonight."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Well, I can't."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Don't rub it in."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "But I'll have cocktails with you."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "When?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "At seven-thirty?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Sooner it you like."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Okay."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Fatal fascination of James Brett wins out."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Wrong again--  But I dislike possessive women."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77886",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "See you at seven-thirty in the lounge."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I'll be there--Good-by."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77887",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "I'm sorry I'm late, but something happened."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "You're forgiven if you don't make dates with anybody except me for the rest of the voyage."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I must say you're persistent--  --it's kind of flattering."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77888",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "A little."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Sorry."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Anything I can do?  I'd jump overboard if it'd help you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77889",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "Mighty decent of you, pal."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Decent?  I guess any guy could be decent--if you were interested."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77890",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "What are you thinking?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "A lot of things I'd like to forget."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "That's funny--so was I.  Guess the ocean makes one sentimental"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I can't blame the ocean--it's you."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "You don't know anything about me. If you did, you probably wouldn't be here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77891",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "Don't kid me. I'm in no mood for it."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "For once I'm dead on the level--  --crazy about you!"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Will you take some advice?  If you're looking for romance--count me out--  --if you know what's good for you."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "But--"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "--I know what I'm talking about. I'm no high-school girl looking through a window--reaching for the moon.  Guess I'll be going."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Sally--!"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Let's forget it--can't you see I kind of like you, too ... and I don't want to get involved."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "You mean that?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Don't let's talk about it."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "You said it! How about a little action?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77892",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Would you like to take a turn around the deck with me?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Yes--is it all right if I come like this?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "This time I'm really glad you showed up."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Lonesome?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "We'll let it go at that--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77893",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "What, again?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Yes--you know what I've been thinking, Sally?--"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "What?--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I think we'll live in Europe after we're married?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I didn't <U>know</U> we were <U>going</U> to be married."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "You didn't?--I guess I forgot to tell you--"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "You're a little ahead of yourself--the usual routine would be for you to propose, and if I accept, then you'd give me an engagement ring--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I'll give you plenty of rings as soon as I get the stones set--what do you think?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I think we ought to walk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77894",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Good night, Mrs. Brett!"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Good night, idiot!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77895",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "I could see you were pining away--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Oh, that's Mrs. Rosson--remember, you met her yesterday?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Yes--I remember--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77896",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "How well do you know her?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Just met her on the boat--supposed to play bridge with her yesterday--but she wouldn't--so we played poker instead."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Who with?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "A Mr. Summers and a man called Lother."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Oh, you infant! How much did you lose?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Lose?--I won a little--"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "That was the come-on--promise me you won't play with them again--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "What do you know about them?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Too much--Remember--I warned you about me--  I used to be Lee Lother's girl--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "You can live that down, can't you?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "He's a con man--crooked as a tree--and I was part of the racket--helped him!  Now--if you have an appointment elsewhere--I'll excuse you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77897",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "You can't lose me, Sally--I'm no lily myself!"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I'm beginning to think you're a pretty swell guy."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Come on--let's take a swim."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77898",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "I'll change and be with you in ten minutes."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Make it five."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Seven-fifty. Positively my last offer."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I'll be waiting on deck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77899",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "I'm going to return the bracelet right now and face the consequences."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Jimmy!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77900",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Well, I'll be--!!!"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "What's the matter?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77901",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Not here--follow me around the shed."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Don't you know better than to talk to me with people around?"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Oh, putting on the swell, eh?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I thought you were a smart guy."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "If I was smart I wouldn't be working my way over on this ship."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "We didn't have enough dough for two tickets, did we?"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "We coulda got two third-class!"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "No bank roll there, boy.  Lucky I could get you signed on--they picked up that Pittsburgh jeweler--made him talk. The heat's on, Shortie--and those Atlantic breezes are going to be mighty welcome."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Oh, I'm not squawkin', but I'm not used to working and it's a bad habit to get into."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "It'll never hurt you---Got any money?"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "A dollar seventy and I'm gonna keep it!"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "No, you're not. Give me that dollar seventy."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "I'll give you half of it.  Here's seventy cents."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77902",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Nix, the law!"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Yes, sir!--I will, sir--Certainly, sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77903",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "He's a colored man in chauffeur's uniform carrying a basket of fruit."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "I'll watch for him, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77904",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Quick, let me have that money. I'm broke and I'll need it for tips."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Oh, no--You're not gonna give my hard-earned money away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77905",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SHORTIE",
+        "text": "You're a wise guy--Gimme back--"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Shortie, look!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77906",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SHORTIE",
+        "text": "You don't think--?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Looks like he's taking a trip--see the baggage? The only time they ever picked me up, McKinney walked through the room while they were grilling--let's see how good his memory is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77907",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SHORTIE",
+        "text": "Yer lucky I'm here at all. I tell you, Jimmy--my feet'll never hold out."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Stop squawking! You were doing this job on a ship four years ago when I first picked you up, weren't you?"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Yeah--but high livin's made me soft."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "How're the tips?"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "A dollar forty."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I'll need it--gave my last buck to the bedroom steward."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Not a chance."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Come on--  I'll promote a card game, and we'll be sitting pretty."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Until then--the dollar forty stays with me."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Is that a nice way to talk to a pal?"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Don't let money spoil a beautiful friendship. Look at these here telegrams to be delivered! This ain't a job-- it's a marathon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77908",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Oh, Shortie!--  --there's a girl on this ship--"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "--there's thousands of 'em!"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "A thousand? She's one in a million--right off the top of the rosebush!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77909",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "SHORTIE",
+        "text": "This is a business trip!"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "She was wearing a white dress with a cute, black hat-- and carrying a bag with S. M. on it.  Funny--her name's not on the passenger list."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Maybe she's in the show--One of the troupers--did you ever think of that?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Why <U>didn't</U> I think of that?--I am going to scout around and see if I can find her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77910",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Just a minute, steward--haven't you forgotten something?"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "No, sir?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "My change."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Change?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "A dollar forty--out of the two dollars I gave you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77911",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Shortie!--you know my motto?"
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Pleasure first if it don't interfere with business."
+      },
+      {
+        "speaker": "BRETT",
+        "text": "Right!--but it doesn't have to apply to you--Keep your eyes open for anybody wearing a lot of cracked ice and give me the office."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Now you're talkin'!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_77912",
+    "movie_id": "m575",
+    "turns": [
+      {
+        "speaker": "BRETT",
+        "text": "Inspector McKinney."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "Are you screwy?"
+      },
+      {
+        "speaker": "BRETT",
+        "text": "I fell in his arms--Couldn't resist it."
+      },
+      {
+        "speaker": "SHORTIE",
+        "text": "You know where that sense of humor's goin' to get you one of these days--"
+      }
+    ]
+  }
+]

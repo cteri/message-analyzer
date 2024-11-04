@@ -1,0 +1,2098 @@
+[
+  {
+    "conversation_id": "conv_39801",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "LIME",
+        "text": "Sod it, it's broken!"
+      },
+      {
+        "speaker": "SAM",
+        "text": "You haven't switched it on."
+      },
+      {
+        "speaker": "LIME",
+        "text": "Oh - yes. Look you're putting me off, standing there! Go back to your office and I'll give you a knock when I've finished."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39802",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "LIME",
+        "text": "Hey - that's my desk!"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Gillian Layton - Suspect S/5173. Truck driver! All enquiries, reference officer 412/L - Room 5001.  That's what I wanted to know. Thank you very much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39803",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Lime, I need to use your computer"
+      },
+      {
+        "speaker": "LIME",
+        "text": "Sorry, a bit busy at the moment.  You seem to have quite a lot to do yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39804",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "My mother said it would be all right."
+      },
+      {
+        "speaker": "MATTHEWS",
+        "text": "She didn't say anything about it to me."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Well, she's my mother, not yours."
+      },
+      {
+        "speaker": "MATTHEWS",
+        "text": "I won't be held responsible."
+      },
+      {
+        "speaker": "SAM",
+        "text": "How long will she he away?"
+      },
+      {
+        "speaker": "MATTHEWS",
+        "text": "There are some who go to Dr. Jaffe's clinic who never come back at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39805",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Hello, Spiro. Merry Christmas."
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "I'm sorry but ..."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "You remember Samuel, my son."
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "{suddenly unctious) Oh, but of course ..."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "We're meeting Mrs Terrain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39806",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Oh, to hell with the diet, a number eight, please."
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "A most perceptive choice, Madam, if I may say so.  Monsieur?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39807",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SPIRO",
+        "text": "Numero une, crevettes à la mayonaaise."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "I'm sorry Alma, I didn't mean to sound so ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39808",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I just wish you would stop interfering, mother! I don't want promotion. I'm happy where I am."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "No you're not. Jack Lint is a lesson to you - he never had your brains but he's got the ambition. You haven't got the ambition but luckily you've got me. And Mr Helpmann. Mr Helpmann was very close -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39809",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Mr Helpmann was very close to your poor father. He was very close to me. Still is. He'll take you under his wing at Information Retrieval. You'll like it when you get there."
+      },
+      {
+        "speaker": "SAM",
+        "text": "You're not listening, mother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39810",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "I hope you like it. It's very exclusive."
+      },
+      {
+        "speaker": "SAM",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "It's something for executives."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39811",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "What were we saying?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "This isn't rare!"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "By the way, I saw a wonderful idea for Christmas presents at the chemists. Gift tokens. Medical gift tokens."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39812",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Actually, Alma, that's one of the little things I was dying to tell you ... Sam's been promoted to Information Retrieval."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Mother!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39813",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Sam ... you haven't had dessert."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I'm sorry. I don' t want dessert. I don't want promotion. I don't want anything."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Don't be childish, Samuel. Of course you want something. You must have hopes, wishes, dreams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39814",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Mother? Is that you?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Of course. Isn't it wonderful? The bandages came of this afternoon. Come and join the fun. Everybody's here."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Is Mr Helpmann here?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Yes he is - he wants to talk to you."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I want to talk to him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39815",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "It seems you're the first person ever to turn down a promotion. He thinks you should see a doctor."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Actually, I've decided ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39816",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Sam!!!"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Mother? ... What ... what's ... you've got to help me ..."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Not now ... please"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39817",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "It's a refund ... I'm afraid there was a mistake."
+      },
+      {
+        "speaker": "MRS BUTTLE",
+        "text": "Mistake?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yes. Not my department ... I'm only records. It seems that Mr Buttle was overcharged by Information Retrieval. I don't think they usually make mistakes ... but, er ... I suppose we're all human."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39818",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MRS BUTTLE",
+        "text": "My husband's dead, isn't he?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Er ... I assure you Mrs Buttle, the Ministry is always very scrupulous about following up and eradicating error. If you have any complaints which you'd like to make, I'd be more than happy to send you the appropriate forms."
+      },
+      {
+        "speaker": "MRS BUTTLE",
+        "text": "What have you done with his body?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Um ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39819",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Uh ..."
+      },
+      {
+        "speaker": "MRS BUTTLE",
+        "text": "He hadn't done anything ... He was good ... What have you done with his body?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39820",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "Really, Sam - when are you going to do something about these terrorists?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "What? Now? It's my lunch hour."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39821",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Whatever happened to you?"
+      },
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "There was a slight complication. Dr. Chapman says it often happens with a delicate skin like mine. Nothing to worry about. He's promised me I'll have these bandages off in a ..."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Actually, there's someone I want to meet ..."
+      },
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "I know, I know ...!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39822",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "Here we are! I'm going to leave you two lovebirds in peace."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I ... uh ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39823",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Ah ... hello, Mrs Terrain. SAM lets go of the parcel and pushes JILL away. She moves off."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I think that'll hold it.  Hello Shirley. Just helping someone tie up a Christmas present. How are you?"
+      },
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "My complication had a complication, but Dr Chapman says I'll soon be up and bouncing about like a young gazelle. Are you buying a Christmas present for your mother?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Er, yes ..."
+      },
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "Shirley and I come here regularly. I love romantic lingerie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39824",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "I can't make up my mind whether to have a number one or a number two. What do you recommend, Spiro?"
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "Between you and me, Madam, today the number two."
+      },
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "Thank you, Spiro. Shirley, what are you going to have?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39825",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SPIRO",
+        "text": "Numero huit, braised veal in wine sauce."
+      },
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "It's too exciting. I've left Dr Jaffe and gone to Dr. Chapman."
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "Numero deux, duck a l'orange."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39826",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "MRS TERRAIN",
+        "text": "That's all right Ida ... it's just that he's such an artist. To him, cutting is so crude ... so primitive."
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "Numero trois, steak.  Monsieur, Mesdames, Bon appetit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39827",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Hello - Central Services - I'm at 579B Block l9, Northwestern Section D - that's exit 1 on Green Pastures Highway at the Orange Blossom Flyover - and I've got trouble with the air- conditioning"
+      },
+      {
+        "speaker": "PHONE VOICE",
+        "text": "Thank you or calling Central Services. am sorry, due to temporary staff shortage, Central Services cannot take service calls centrally between 2300 and 0900 hours - have a nice day - this has not been a recording, incident-"
+      },
+      {
+        "speaker": "SAM",
+        "text": "This is an emergency!"
+      },
+      {
+        "speaker": "PHONE VOICE",
+        "text": "Thank you for calling Central Services. I am sorry, due -"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Yes, but. I've got to have a heating engineer"
+      },
+      {
+        "speaker": "PHONE VOICE",
+        "text": "Thank you for calling Cen -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39828",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Hello ... hello ..."
+      },
+      {
+        "speaker": "PHONE VOICE",
+        "text": "Hello. Mr Lowry?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "Who's that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39829",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "PHONE VOICE",
+        "text": "Put the phone down and your hands up."
+      },
+      {
+        "speaker": "SAM",
+        "text": "What? Who is this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39830",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "My name is Sam Lowry. I have to report to Mr Warren."
+      },
+      {
+        "speaker": "PORTER",
+        "text": "Thirtieth floor, sir. You're expected."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Er, don't you want to search me?"
+      },
+      {
+        "speaker": "PORTER",
+        "text": "No, sir."
+      },
+      {
+        "speaker": "SAM",
+        "text": "My I.D. cards."
+      },
+      {
+        "speaker": "PORTER",
+        "text": "No need, sir"
+      },
+      {
+        "speaker": "SAM",
+        "text": "But I could be anybody."
+      },
+      {
+        "speaker": "PORTER",
+        "text": "No you couldn't, sir. This is Information Retrieval.  the lift's arrived, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39831",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Excuse me, Dawson, can you put me through to Mr Helpmann's office?"
+      },
+      {
+        "speaker": "PORTER",
+        "text": "I'm afraid I can't, sir. You have to go through the proper channels."
+      },
+      {
+        "speaker": "SAM",
+        "text": "And you can't tell me what the proper channels are, because that's classified information?"
+      },
+      {
+        "speaker": "PORTER",
+        "text": "I'm glad to see the Ministry's continuing its tradition of recruiting the brightest and best, sir."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Thank you, Dawson."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39832",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Are we?"
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "Ah yes, the lady is waiting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39833",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "A steak, please. Rare.  Mother, I need to ..."
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "Monsieur. Quel numero."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I don't know which numero."
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "Numero, trois."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39834",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "what? ... Oh ..."
+      },
+      {
+        "speaker": "SPIRO",
+        "text": "Madam ... CUT to WOMAN turning, half in flirtatious conversation. It is SAM's MOTHER, but miraculously another twenty years younger and ... a parody of SAM's Dream Girl."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39835",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "Central Services."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39836",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "No, not at all. I mean, it's all right. It's fixed."
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "Fixed?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39837",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "I mean it fixed itself."
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "Fixed itself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39838",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SPOOR",
+        "text": "Now look what you've done to him."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Have you got one or haven't you?"
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "Not ... as such ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39839",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SPOOR",
+        "text": "But we can get one."
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "It's all right, Terry, it's all right, everything's all right."
+      },
+      {
+        "speaker": "SAM",
+        "text": "I'm sorry, but I'm a bit of a stickler for paper work. Where would we be if we didn't follow the correct procedures?"
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "We'll be back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39840",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "What the - ? How did you - ?"
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "Emergency procedures."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39841",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SPOOR",
+        "text": "Sign here please."
+      },
+      {
+        "speaker": "SAM",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "It's a 27B/6, what did you think it was?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39842",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "What?"
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "Who fixed your ducts?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39843",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Hang on! Wait a minute! You can't just go and leave it like this!"
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "Why not? All you've got to do is blow yer nose and fix it, haven't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39844",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "For God's sake, what's happened?"
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "Thermostat's gone. And then some."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39845",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "SPOOR",
+        "text": "It's a 27B/6 of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39846",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "TUTTLE",
+        "text": "Nice and easy now. Keep your hands where I can see them."
+      },
+      {
+        "speaker": "SAM",
+        "text": "What is this?  Who the hell are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39847",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "TUTTLE",
+        "text": "Harry Tuttle. Heating engineer. At your service."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Tuttle! Are you from Central Services?"
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "Ha!!"
+      },
+      {
+        "speaker": "SAM",
+        "text": "But ... I called Central Services."
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "They're a bit overworked these days. Luckily I intercepted your call."
+      },
+      {
+        "speaker": "SAM",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39848",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "TUTTLE",
+        "text": "A little precaution, sir. I've had traps set for me before now. There are people in Central Services who'd love to get their hands on Harry Tuttle."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Are you saying this is illegal?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39849",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "TUTTLE",
+        "text": "Well, yes ... and no. Officially, only Central Service operatives are supposed to touch this stuff ... Could you hold these."
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "... but, with all the new rules and regulations ... unncgh, c'mon, c'mon ... they can't get decent staff any more ... so ... they tend to turn a blind eye ... as long as I'm careful.  ... Mind you, if ever they could prove I'd been working on their equipment ... well, that's a different matter ... up a bit with the torch, sir."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Sorry. wouldn't it be easier just to work for Central Services?"
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "Couldn't stand the pa - ah - we're getting warm -"
+      },
+      {
+        "speaker": "SAM",
+        "text": "The pace?"
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "The paperwork, couldn't stand the paperwork.  Over to the left please, if you don't mind sir. Hold it there. Yes, there's more bits of paper in Central Services than bits of pipe - read this, fill in that, hand in the other - listen, this old system of yours could be on fire and I couldn't even turn on the kitchen tap without filling in a 27B/6.... Bloody paperwork."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Well I suppose one has to expect a certain amount"
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "Why? I came into this game for adventure - go anywhere, travel light, get in, get out, wherever there's trouble, a man alone. Now they've got the whole country sectioned of and you can't move without a form. I'm the last of a breed. Ah ha! Found it!  There's your problem."
+      },
+      {
+        "speaker": "SAM",
+        "text": "Can you fix it?"
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "No. But I can bypass it with one of these"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39850",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "TUTTLE",
+        "text": "Are you expecting anyone?"
+      },
+      {
+        "speaker": "SAM",
+        "text": "No. Wait here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39851",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Listen .. um ... I don't want to get involved in any of this. But I work at the Ministry of Information, and I happen to know that Information Retrieval have been looking for an Archibald Tuttle, Heating Engineer. You wouldn't by any chance be -"
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "My friends call me Harry. Information Retrieval, eh? Interesting!"
+      },
+      {
+        "speaker": "SAM",
+        "text": "What do they want you or?"
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "Time to go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39852",
+    "movie_id": "m283",
+    "turns": [
+      {
+        "speaker": "SAM",
+        "text": "Thank you very much. How much will it...?"
+      },
+      {
+        "speaker": "TUTTLE",
+        "text": "On the house. You did me a favor. Check the corridor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39853",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "What am I going to to do with this guy?  Pierce, I was just on the phone with Borough Command. Out of twelve shifts this month, you've been late for nine, sick four and that includes the shift where you came late and went home early."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I'm sick. That's what I've been telling you."
+      },
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "You're killing me, you know that? You got no sick time according to Command. I've been told to terminate."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "It's okay. I'll just get my things out of the locker."
+      },
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "I've never fired anyone in my life."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I'm sorry Captain. Don't take it too hard."
+      },
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "Nobody tells me to fire anyone. I told them: shove it up the big one.  Sorry.  I said, you want to fire him, come over and do it yourself."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You know they won't do it. It's up to you. You gotta be strong."
+      },
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "I feel for you, but we got an emergency here. It's a weekend of full moons.  Everyone's called in sick. Larry, Veeber, Stanley too. We need bodies out there. I had to put Marcus on Twelve Young. You know he's not supposed to work two nights in a row."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You swore you'd fire me if I came in late again."
+      },
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "I'll fire you tomorrow. Hell, better than that, I'll forward you some sick time. A week, two weeks off-- how about that?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I don't think a week's gonna do it."
+      },
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "I'm sorry, Pierce.  You're going out with Marcus. Duty calls. The City needs you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39854",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "You're late, Pierce. I know, but I can't fire you. I've got nobody to work sixteen XRay with Walls."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "No ..."
+      },
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "I got some forms here to fill out about that accident when you get the time.  I'll fire you tomorrow. I promise."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "What if there is no tomorrow?"
+      },
+      {
+        "speaker": "CAPT. BARNEY",
+        "text": "Go on, get outta here, Pierce, before I give you a big hug.  I love this guy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39855",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "CARLOS",
+        "text": "No English. She has terrible pain in her belly."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Pregnant."
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "No, no, that's impossible."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Are you pregnant? Estas embarazada?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39856",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Can you walk? Puedes caminar?"
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "She say she in great pain."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Thanks for the translation.  What's your name? Nombre?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39857",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "CARLOS",
+        "text": "Is she dying?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "She's having a baby. Twins."
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "Es impossible."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You can trust me on this one."
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "It's a miracle."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39858",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARCUS",
+        "text": "You know each other a long time?"
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "Two years. Ever since we left island."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "In that time, you ever have sex?"
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "Never. No cigarettes, no drugs, no booze."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "No underwear?"
+      },
+      {
+        "speaker": "CARLOS",
+        "text": "We are virgins."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39859",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "KANITA",
+        "text": "Hey Cy, guess who's here?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "Mary ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39860",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "COATES",
+        "text": "It's okay, Kanita. Come on in."
+      },
+      {
+        "speaker": "KANITA",
+        "text": "He looks like a cop."
+      },
+      {
+        "speaker": "COATES",
+        "text": "He's not a cop, he's a medic.  I'm CY Coates."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39861",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "COATES",
+        "text": "Frank, take it easy. what happened?"
+      },
+      {
+        "speaker": "KANITA",
+        "text": "He flipped out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39862",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "COATES",
+        "text": "Be cool, man. You're having a paradoxical reaction. It can happen.  Didn't I tell you this guy was stressed out?"
+      },
+      {
+        "speaker": "KANITA",
+        "text": "Stressed? He's psycho."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39863",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Frank Pierce."
+      },
+      {
+        "speaker": "COATES",
+        "text": "Mary said you might be coming."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Where is she?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "Sleeping in the back."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "She asked me to pick her up."
+      },
+      {
+        "speaker": "COATES",
+        "text": "I know, but she told me to tell you she wants to crash here a few hours. Terrible about her father, isn't it?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I better just go in and see her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39864",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "COATES",
+        "text": "She wanted something to help her sleep."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Mary, we really have to go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39865",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "COATES",
+        "text": "I'm always interested in people in stressful occupations and being a paramedic is about as stressful as I can imagine. Here, sit down. What's it like? Tell me some war stories."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Got a beer?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39866",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "COATES",
+        "text": "That shit is poison, Frank. We don't drink alcohol here. What you need is one of these."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Did you give Mary something called Red Death?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "Red Death?  Tell me something, Frank--does killing your clients make good business sense to you? The kids selling that shit have no sense. They'll be taken care of, don't worry about that."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I should be going. I just quit."
+      },
+      {
+        "speaker": "COATES",
+        "text": "Sleep is all stress reduction. Here.  You take one of these, sleep two hours, that's all you need.  Why do you think I'm telling you this, Frank--for my health?  You ought to look at yourself in the mirror, man. Kanita, get him a glass of water."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39867",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Is this what you gave Mary?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "That's the stuff. I call it the Red Lion. Very king-of-the-jungle."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39868",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "I guess I'll be going."
+      },
+      {
+        "speaker": "COATES",
+        "text": "Just take it easy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39869",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Does that hurt?"
+      },
+      {
+        "speaker": "COATES",
+        "text": "No!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39870",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "They're gonna torch the fence. You're gonna feel the metal getting warm, maybe very warm."
+      },
+      {
+        "speaker": "COATES",
+        "text": "I can't hold up my head anymore."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39871",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "COATES",
+        "text": "So, Frank, am I going to live?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You're going to live."
+      },
+      {
+        "speaker": "COATES",
+        "text": "I've been thinking about things. Meditating on my financial future. You guys gave me plenty of time to meditate on the future. Whatja do, stop for Chinese on the way over? There's plenty of food in my place."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I was tired. I needed a coffee."
+      },
+      {
+        "speaker": "COATES",
+        "text": "What about Kanita?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Dead."
+      },
+      {
+        "speaker": "COATES",
+        "text": "That's too bad. Get some money, a nice looking girl on your arm, and everyone wants to take a piece. Some kid I wouldn't let wash my Mercedes is in my house, shooting at me. Damn, I thought I could make it onto the balcony like Tiger. He's fat, that's why, falls faster. I'm trying to watch my weight, and look what happens. Am I shot, Frank?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "No."
+      },
+      {
+        "speaker": "COATES",
+        "text": "Boy can't shoot for shit, either. Goddamn that's hot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39872",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "DISPATCHER LOVE",
+        "text": "Twelve Young, I don't have time for your games. Now answer me or do I have to come out there myself?"
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "I usually don't do calls before coffee. But I think it might do you some good.  Twelve Young is here and I'm gonna take care of you, baby. Don't you worry about a thing, yahear, cause Marcus is alive and on arrival."
+      },
+      {
+        "speaker": "DISPATCHER LOVE",
+        "text": "I'm not your baby, Young, I'm not your mother either. You're going to a cardiac arrest, Avenue C and Ninth, northeast corner. It's a club. Take the side entrance."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "Ten-four, hon.  This is for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39873",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "DISPATCHER LOVE",
+        "text": "Twelve Young, answer the radio. I have a call for you."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "She said to me, I love the way you talk on the radio."
+      },
+      {
+        "speaker": "DISPATCHER LOVE",
+        "text": "I can't wait all night, Young. I'm holding a priority and if you don't answer I'm going to knock you out of service."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "Don't worry, hon. Young is here and he's gonna help out--just remember, you owe me."
+      },
+      {
+        "speaker": "DISPATCHER LOVE",
+        "text": "You're going to three-four Avenue C, 17 year-old female cardiac arrest, no further information."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "Ten-four, hon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39874",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARCUS",
+        "text": "Let's do it!  It's Marcus, Love, only for you."
+      },
+      {
+        "speaker": "DISPATCHER LOVE",
+        "text": "Male diff breather, approximately 30, Houston and A."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "Ten-four."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39875",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARCUS",
+        "text": "Okay, what happened?"
+      },
+      {
+        "speaker": "DRUMMER",
+        "text": "He's going to be all right, right?"
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "No. He's dead."
+      },
+      {
+        "speaker": "DRUMMER",
+        "text": "No way, man."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "He's dead and there's nothing we can do. Come on, Frank, that's it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39876",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "DRUMMER",
+        "text": "All right, all right, he's been snorting that Red Death stuff. Been going for four days."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "What's his name?"
+      },
+      {
+        "speaker": "DRUMMER",
+        "text": "IB Bangin."
+      },
+      {
+        "speaker": "MARCUS",
+        "text": "What'd you mean IB Bangin? What kind of name is IB Bangin?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39877",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "NOEL",
+        "text": "Excuse me. You are a very kind man. I can see that. A man like you could not refuse a poor sick dying helpless man a small cup of water."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I can't. I have to stay with my patient."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39878",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "NOEL",
+        "text": "See, I can't do it. I came out of the desert."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You came out of the hospital. You were tied down and hallucinating. You got some bad chemicals in your head, Noel. There's some medicine at the hospital that will fix that."
+      },
+      {
+        "speaker": "NOEL",
+        "text": "No, no medicine!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39879",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Noel, you didn't let me finish. We have rules against killing people on the street. Looks bad, but there's a special room at the hospital for terminating. A nice quiet room with a big bed."
+      },
+      {
+        "speaker": "NOEL",
+        "text": "Oh man, do you mean that?  Thank you man, thank you. How?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Well, you have your choice: pills, injection, gas."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39880",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "You're not going to die."
+      },
+      {
+        "speaker": "NOEL",
+        "text": "What did you say?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Shut up. You're going to die and he's not. Got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39881",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "That's a hell of a swing you got there, Noel. I'm thinking Strawberry in his prime."
+      },
+      {
+        "speaker": "NOEL",
+        "text": "Strawberry ain't shit. Drug pussy.  Me.  I swing like Reggie. Mr. October. Number three, game six, World Series."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39882",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "NOEL",
+        "text": "Here, you try."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "No, I'd better not."
+      },
+      {
+        "speaker": "NOEL",
+        "text": "Sure, sure, give go."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Yeah?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39883",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "What the hell.  The next year, tiebreaker for the division, in Boston, Yanks down two to nothing, Bucky Dent steps to the plate."
+      },
+      {
+        "speaker": "NOEL",
+        "text": "Oh man, Bucky."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "The pitch, high heater. Bucky knows what's coming. He steps in, smash, over the green monster."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39884",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Do you have any music?"
+      },
+      {
+        "speaker": "MARY",
+        "text": "What?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Music. I think it helps if you play something he liked."
+      },
+      {
+        "speaker": "MARY",
+        "text": "John, play the Sinatra."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39885",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "Is he going to be alright?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "His heart's beating."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39886",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "He's very very sick."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I know him. That's Noel."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "We'd better go outside. Quickly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39887",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "Is there any chance?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I guess there's always a chance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39888",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "I wouldn't do that.  The doctor seems to think he's suffering from some rare disorder."
+      },
+      {
+        "speaker": "MARY",
+        "text": "It's not so rare. He grew up on our street. He's had a rough life and he's a little crazy from it, but that's no excuse for not giving someone a lousy cup of water."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39889",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "It's my first cigarette in over a year."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "The first is always the best."
+      },
+      {
+        "speaker": "MARY",
+        "text": "It's the waiting that's killing me, not knowing, you know? It's really hard on my mother. The doctor doesn't think my father'll make it. He says he was dead too long, after six minutes the brain starts to die and once that goes, close the door."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You never know."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I mean if he was dead, I could handle that."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "At least he's got people around him."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I'm not so sure. My father and I haven't spoken in three years. When my brother called to say my father was having a heart attack, that he'd locked himself in the bathroom, all the way going over I was thinking how I was gonna tell him what a bastard he was. Then when I got up the stairs and we moved him onto the bed, I thought of all these other things I wanted to say."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Even when you say the things, there's always more things."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Right now, I'm more worried about my mother than anything. They won't let her see my father."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Go home. Take her home. Get some rest. Not going to find anything out now."
+      },
+      {
+        "speaker": "MARY",
+        "text": "That's what I told her. If she could just see him a second, then I could take her home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39890",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "You shouldn't smoke."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "It's okay. They're prescription.  Works better with a little whiskey."
+      },
+      {
+        "speaker": "MARY",
+        "text": "That's my brother's problem. He's passed out inside."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39891",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "That boy you brought in, he was shot, wasn't he?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MARY",
+        "text": "He's dead, huh?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I think this place stinks."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Our Lady of Misery."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Did you see my father?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "No."
+      },
+      {
+        "speaker": "MARY",
+        "text": "It's crazy in there. What's wrong with that doctor? He keeps mumbling, poking himself in the eye when he talks to me."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "He's working a double shift."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Thing is, I'm supposed to be the fuckup. The one on the stretcher in there--that's supposed to be me. With my parents crying out here. I got a lot of guilt, you know what I mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39892",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "My father's in a coma, now my mother's going crazy. It's like she's in a trance."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "She should go home."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I'd take her, but then who would stay here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39893",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Hello, I'm Frank Pierce, from the ambulance last night. I brought your father into the hospital and I just learned some news."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I'll be right down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39894",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "He's better, isn't he?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Well, the doctor says he's showing some movement. It's still early, it might mean nothing, but I thought you'd want to know."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I knew. I sensed it when I heard your voice."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You look so different."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I know. It's awful, isn't it? Night of the Living Cheerleaders."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I think it looks good."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I was going nuts in that waiting room so I came back to check on my mom."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "How is she?"
+      },
+      {
+        "speaker": "MARY",
+        "text": "Sleeping."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I was just going to get some food. Pizza. Maybe we could."
+      },
+      {
+        "speaker": "MARY",
+        "text": "You can't kill my father that easy. He'll fight forever. Like with me: hasn't talked to me in three years. But it's okay. Sometimes you have to put things behind you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39895",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Be tough to get a taxi here. We can give you a ride if you like."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39896",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "He wants to pull that tube out. It's pretty painful--that's why they keep him sedated--but it's a good sign."
+      },
+      {
+        "speaker": "MARY",
+        "text": "You sure? I know my father would hate to be tied down. He wouldn't even go to the dentist."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39897",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "That's how it's done. You have to keep the body going until the brain and heart recover enough to go on their own."
+      },
+      {
+        "speaker": "MARY",
+        "text": "He's better, though, right?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "He's better."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Look, I'm sorry, but it's important to me. I mean, a week ago I was wishing he was dead. And now I want hear his voice again, just once more-- you know what I mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39898",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "My father was a great man, you know. There was nobody he wouldn't help. You know that crazy guy Noel who I gave water to last night? He lived in our house for almost a year. A total stranger he'd do anything for, his own family though ..."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "It's best not to ...  It's good pizza, huh?"
+      },
+      {
+        "speaker": "MARY",
+        "text": "Not as good as Nino's."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You remember that pizza place, Joe's on Tenth Street maybe fifteen years ago?  When you ordered a pie it came with a little plastic madonna in the middle?"
+      },
+      {
+        "speaker": "MARY",
+        "text": "Yeah, or Saint Anthony. You from the neighborhood?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I grew up on Elizabeth. I went to Blessed Sacrament."
+      },
+      {
+        "speaker": "MARY",
+        "text": "On yeah? I went to Holy Name. Where'd you go to high school?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "We moved out after that. Upstate."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Like everybody else--except us. Always standing on the sidewalk waving goodbye to moving trucks. Your parents ... ?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "They're fine. My old man was a bus driver, mom a nurse--I was sort of born to it, I guess."
+      },
+      {
+        "speaker": "MARY",
+        "text": "You married?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Ah, no. I was.  It's hard to explain. She had a hard time adjusting to, well, maybe it was my fault too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39899",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "It's been bad lately, but it's always bad."
+      },
+      {
+        "speaker": "MARY",
+        "text": "How long you been doing this?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Five years."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Wow, you musta seen some things, huh? What's the worst thing you ever seen?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You learn to sort of block it out, you know, like cops fence off a crime scene. But then something good will happen and everything will just glow."
+      },
+      {
+        "speaker": "MARY",
+        "text": "You must get a lot of overdoses. I bet you picked me up a couple of times."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I think I'd remember that."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Maybe not. I was a different person then. Does everybody you meet spill their problems on you like this?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Mostly. It must be my face. My mother always said I looked like a priest."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I better go check on my father. Thanks for the pizza. I owe you one. Maybe when he gets better, you know, when we're done with all this."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_39900",
+    "movie_id": "m284",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Excuse me. You seemed like you were in trouble."
+      },
+      {
+        "speaker": "MARY",
+        "text": "I'm all right. I just can't stand to see people tied up.  I'm in the waiting room for hours, listening to Noel screaming. The only reason he's screaming is 'cause he's tied up."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Don't seem so bad to me."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Don't say that. I wanted to cut my father loose too. They told me he almost died and five minutes later they say he's better and I go in. It's killing me seeing him fighting like that.  Look, since you're here, maybe you could do me a favor. I need you to wait for me outside this building, okay? I have to visit a friend who's sick."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Okay."
+      }
+    ]
+  }
+]

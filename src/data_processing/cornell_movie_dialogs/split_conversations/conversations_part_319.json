@@ -1,0 +1,2250 @@
+[
+  {
+    "conversation_id": "conv_31801",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "VOICE",
+        "text": "Mr. Galvin's..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Let me talk to Mickey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31802",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Hello, I'm calling from..."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "If you're selling something, I'm late for work..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I'm calling from Professional Nurse Quarterly..."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "From the magazine?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "This is Mr. Wallace in Subscriptions?"
+      },
+      {
+        "speaker": "VOICE",
+        "text": "How come you're calling me from...?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "This is Miss Costello...?"
+      },
+      {
+        "speaker": "VOICE",
+        "text": "Yes. Price..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Pardon?"
+      },
+      {
+        "speaker": "VOICE",
+        "text": "Kathy Price."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "We find that your subscription lapsed..."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "My subscription lapsed three years ago..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "That's why I'm calling, Miss Price..."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "Missus..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "We have a renew-your-subscription offer..."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "We get it at work. We get the magazine at work."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Yes, we know that you do. I have it in my files. That's at the Manhattan Health Center..."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "No. At Chelsea Childcare. Okay. Look, call me Monday, hey? I'm late for work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31803",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "I'm Joe Galvin, I'm representing Deborah Ann Kaye, case against St. Catherine Laboure."
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "I told the guy I didn't want to talk to..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I'll just take a minute. Deborah Ann Kaye. You know what I'm talking about. The case is going to trial. Our chief witness is a Dr. David Gruber, you know who he is?"
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "No."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "He's the Assistant Chief of Anesthesiology, Massachusetts Commonwealth. He says your doctors, Towler and Marx, put my girl in the hospital for life. And we can prove that. What we don't know is why. What went on in there? In the O.R. That's what we'd like to know. Something went wrong. And you know what it was. They gave her the wrong anesthetic. What happened? The phone rang... someone got distracted... what?"
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "...you got your doctor's testimony. Why do you need me?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I want someone who was in the O.R. We're going to win the case, there's no question of that. It's just a matter of how big..."
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "I've got nothing to say to you."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "You know what happened."
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "Nothing happened."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Then why aren't you testifying for their side?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31804",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "I can subpoena you, you know. I can get you up there on the stand."
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "And ask me what?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Who put my client in the hospital for life."
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "I didn't do it, Mister."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Who are you protecting, then?"
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "Who says that I'm protecting anyone?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I do. Who is it? The Doctors. What do you owe them?"
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "I don't owe them a goddamn thing."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Then why don't you testify?"
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "You know, you're pushy, fella..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "You think I'm pushy now, wait 'til I get you on the stand..."
+      },
+      {
+        "speaker": "MARY ROONEY",
+        "text": "Well, maybe you better do that, then.  You know you guys are all the same. You don't care who gets hurt. You're a bunch of whores. You'd do anything for a dollar. You got no loyalty... no nothing... you're a bunch of whores."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31805",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "I'm... Mrs. Doneghy? I'm Frank Galvin... why didn't you go in?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "It's locked."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "It's locked?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31806",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "It's not a good case. It's a very good case."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "A healthy young woman goes into the hospital to deliver her third child, she's given the wrong anesthetic..."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "...we, we love her, Dick and me..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...I'm sure you do..."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "But what can we do? She don't know who's visiting her..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...I know. I went..."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "...You saw her?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Yes. Yes, I have."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "You know how beautiful she was?  Her husband left her, and he took her kids... They, they, they'd let you die in there. They don't care. Nobody cares. The Patriot Home, the Chronic Care... in Arlington...? They'd take her in. Perpetual care. They'd take her. Fifty thousand dollars they want. An endowment."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...fifty thousand dollars?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I don't want to leave her. Dick... the, the... and Father Laughlin, he said that it was God's will..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...I understand..."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "My doctor told me that I got to move out West... that's when we filed in court. We didn't want to sue..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...I understand..."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "...But Dick, he's looking for two years in Tucson... and they called him up and said to come out. He's a good man. He's only trying to do what's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31807",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "He saw her at the Northern Care..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...and I have inquiries out to doctors, experts in the field... there is, of course, a problem getting a doctor to testify that another doctor's negligent..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31808",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "We just can't do it anymore.  This is our chance to get away."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I'm going to see you get that chance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31809",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "What does it mean?  I... I mean we, you have other tactics..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "We, yes. Yes. They, they present their side, and I get the same chance. To cross-examine... to... to..."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Are we going to win?  We have, you know, other tactics, though..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31810",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Dr. Gruber."
+      },
+      {
+        "speaker": "MAID",
+        "text": "Dr. Gruber's not in."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I had an appointment at his office, I think I must have got it wrong. We had a meeting..."
+      },
+      {
+        "speaker": "MAID",
+        "text": "He's not in, Sir."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Where is he?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31811",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "I... please. My wife... my wife's prescription has run out. If I can call him..."
+      },
+      {
+        "speaker": "MAID",
+        "text": "Dr. Halpern's taking all his..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "No, no, no. I have to talk to him. If I can only call him..."
+      },
+      {
+        "speaker": "MAID",
+        "text": "He's... you can't reach him, Sir. He's in the, on some island in the Caribbean, they don't have a phone.  He'll be back in a week...  If you'd like Dr. Halpern's number..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31812",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "JIMMY",
+        "text": "Another, Frank...?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...everybody. Mike says, 'Pat, you mean to tell me for a buck you get a free lunch and a beer, and then you go in the back and get laid?' 'That's correct.' Mike says, 'Pat. Have you been in this bar ?' Pat says, 'No, but my sister has...'  Everyone. Buy yourself one too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31813",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "I want to buy you a drink."
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Thanks, Franky."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31814",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Well, well, well. Huh?"
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "It's a long road that has no turning."
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "That's for sure, Frank."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31815",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Hi, Mickey..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "What the hell do you think you're doing...?  What's going on here...?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Uh..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Fuck you. I got a call today from Sally Doneghy..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...now who is that...?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "...You're 'sposed to be in court in ten days and she's telling me you haven't even met with them..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Sally Doneghy, now who is that?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "One lousy letter eighteen months ago... I try to throw a fuckin' case your way..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...hey, I don't need your charity..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "...I get these people to trust you -- they're coming here tomorrow by the way -- I get this expert doctor to talk to you. I'm doing all your fuckin' legwork -- and it's eighteen months. You're 'sposed to be in court. I bet you haven't even seen the file."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31816",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "I have to talk to you."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Come on. Let's get a drink."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Don't touch anything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31817",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "Are you out of your mind...?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...I'm going to need your help..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "You need my help...? You need a goddamn keeper... are you telling me that you turned down two-hundred-ten grand?  Huh...? Are you nuts? Eh? Are you nuts. What are you going to do, bring her back to life?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I'm going to help her."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "To do what...? To do what, for chrissake...? To help her to do what? She's dead..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "They killed her. And they're trying to buy it..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "That's the point, you stupid fuck. Let them buy it. We let them buy the case. That's what I took it for. You let this drop -- we'll go up to New Hampshire, kill some fuckin' deer..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31818",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Mick. Mick. Mick..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "What?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "You -- Listen: you said to me, 'if not now, when...'"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "I know what I said but not now. You won it. Franky. You won it. When they give you the money, that means that you won. We don't want to go to court -- is this getting to you...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31819",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "...he's a good man..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "...he's a good man...? He's the Prince of Fuckin' Darkness... he'll have people in there testifying that the broad is well -- they saw her Tuesday on a surfboard at Hyannis... don't fuck with this case."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...I have to stand up for her..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Frank, but not now. Frank. You're trying to wipe out some old business. But not now. I understand. But you go call 'em back. You call the Bishop back."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I have to try this case. I have to do it, Mick. I've got to stand up for that girl. I need your help.  Mick, will you help me...?  Will you help me...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31820",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "Who have we got?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "We've got her sister. Testifies she had a meal one hour before she was admitted to the hospital. This is the point."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "You got the admittance form says patient ate nine hours prior to admittance."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Admittance form is wrong."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Forget it. You can't prove it. Sister's testimony is no good. Jury knows we win she gets the cash."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I've got my Dr. Gruber, says her heart condition means they gave her the wrong anesthetic anyway, plus she came in complaining of stomach pains..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "...Gruber's not bad."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Not bad...? This guy's Dr. Kildare, the jury's going to love him, Mick... And you calm down, all right? Their guy, Towler's, the author of the book,  'Methodology and Practice, Anesthesiology.'  ...and they got depositions from the nurses, everybody in the operating room, the scrub-nurse... 'All these guys are God. I saw them walk on water...'  They had an obstetrical nurse in there. We got a deposition from the obstetrical nurse?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "No."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "'Mary Rooney, forty-nine. Lives in Arlington, still working at the hospital.' Can you get out tomorrow? How come she isn't speaking up."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Right."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Okay now. Cases: Smith versus State of Michigan."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Right."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Brindisi versus Electric Boat."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "You got a good memory, Franky."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I had a good teacher. McLean versus Urban Transport..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31821",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Jimmy? Bushmills.  Lookit, do me a favor. I'll buy you a drink tomorrow."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Yeah? And what are you going to do tonight?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I'm going to get laid."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31822",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "Been a long time, huh...?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I'm getting it back. Don't worry about me, Mick. I'm fine. D'you find the obstetric nurse?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Mary Rooney. She won't talk to me. I tried her at the hospital. I'm going to try her back at home. Read this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31823",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "So what?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "So what...? The best is yet to come. Check the TV Guide. They got our Dr. Towler on a panel on GBH on Friday: 'The Healing Hand. The Experts Speak.'"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "They still have to take it to a jury."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31824",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "What I'm saying, they're getting some help."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "So what do you want me to do? Concannon's going to try the case his way, I'm going to try it mine. You want me to go wee wee wee all the time because he's got some flack, got stories in the newspaper. I'm going to win this case."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31825",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "John: gimme a cuesta-ray."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Oh shit, what's today?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Today is Tuesday. What?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I've got to go see Gruber.  What's the best cigars you have?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Give 'em a box of Macanudos."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Mickey: I'm supposed to meet somebody at O'Rourke's, I can't make it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31826",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "What happened, Joey...?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I can't talk now."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "D'you meet with Dr. Gruber...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31827",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "Yeah? How's our new witness?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "D'you find the obstetric nurse?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "She's workin' the late shift at the Hospital. She's at home now, I'm going over there to talk to..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Gimme the address. I'm gonna go. We're going to need her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31828",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "How are you holding up?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I'm swell."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "And all we've got is a witch doctor!"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31829",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Okay. What do you do when you don't have a witness?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "You use their witness."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "That's right."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "I think we tried that. The case is over."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31830",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Are you with me... are you awake...?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Yeah. I'm awake."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Rooney's protecting someone. Who is she protecting?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "The Doctors."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "She's protecting the Doctors she'd be up there on the stand..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Read me what she said."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31831",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "'You guys are a bunch of whores... uh... loyalty... you don't care who gets hurt... you don't have any loyalty...'"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "...one of the other nurses?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Who? They're all testifying. Everybody who was in the O.R.'s going to take the stand."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "All right. Who wasn't in the O.R.?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "What difference can that make...? All right..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31832",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Uh... the admitting nurse..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "What did she do?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "She didn't do anything. She took the patient's history and signed the charts. 'K.C.'  'Kathy Costello...'"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "The 'History'...?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "How old are you, how many children... when did you last eat..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31833",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "We don't have anything from the Nurse Association?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "The broad has disappeared..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "The Hospital...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31834",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "...yeah... good..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...you need some old forms that she had... somebody's dying..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31835",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "...four years ago..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Hello. This is Mr. Dorchester in Records. We're looking for Kathy Costello..."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "I need a cigarette!  She left my office four years ago, we're looking for a chart...  I need a cigarette..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31836",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "What the hell are you doing here?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "We got to talk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31837",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "What are you doing in New York...?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Come on, we'll get a cup of coffee..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31838",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "I talked to Johnnie White at the Bar Association.  The broad used to work for one of Concannon's partners in New York awhile ago.  She wanted to move to Boston.  How badly did she hurt us, Joe?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31839",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "We got a mistrial, you know. Joe -- did you hear what I said...?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I don't want a mistrial."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31840",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "I spoke to her, and everything is all right."
+      },
+      {
+        "speaker": "ROONEY",
+        "text": "I, what are you talking about? I talked to her this morning, and she said..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "She told me."
+      },
+      {
+        "speaker": "ROONEY",
+        "text": "She did?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "I just saw her."
+      },
+      {
+        "speaker": "ROONEY",
+        "text": "In New York?"
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "What?"
+      },
+      {
+        "speaker": "ROONEY",
+        "text": "You saw Kat in New York...  ...or is she in town? Is she in town...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31841",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "GALVIN",
+        "text": "Dr. Towler..."
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "Yes."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "You have a record of what happened in the operating room..."
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "Yes, that's correct."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...there are notations every thirty seconds..."
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "Yes."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...of the procedures..."
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "Yes, the roving nurse..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "But those notations stop...  ...Four-and-one-half minutes after Deborah Ann Kaye's..."
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "We, we were rather busy..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Four-and-one-half minutes after her heart stopped.  And they resume seven minutes..."
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "As I've said we had some more..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "...they start again three minutes earlier..."
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "We had rather more important things on our mind than taking notes.  We were trying to restore her..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "What happened in those three..."
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "...we were trying to restore her heartbeat."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "What happened in those three minutes...?"
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "We'd gone to 'Code Blue,' we were administering electro..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Why did it take that long to get her heartbeat..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31842",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "TOWLER",
+        "text": "Brain damage could have been... it didn't necessarily take nine minutes, it could have been caused in two..."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Wait, wait, wait, you're saying that her brain damage could have been caused by her being deprived of oxygen for two minutes...?"
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "Yes."
+      },
+      {
+        "speaker": "GALVIN",
+        "text": "Huh. And why is that?"
+      },
+      {
+        "speaker": "TOWLER",
+        "text": "Because she was anemic.  It's right there on her chart. Her brain was getting less oxygen anyway..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31843",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "Franky can't make it. He had an appointment he forgot, he's going to see you later. I'm Mickey Morrissey, we're supposed to get to know each other."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "How'm I doing so far?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "So far you're great. You got a cigarette?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31844",
+    "movie_id": "m225",
+    "turns": [
+      {
+        "speaker": "MICKEY",
+        "text": "Stearns, Harrington, you know who that is?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Should I?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "A huge law firm. Okay? They put him in the firm, he's married, everything's superb. Franky, he's starting to talk like he comes from Dorsetshire, some fuckin' place, 'You must drop by with Pat and me...' Okay...?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "...and he's making a billion dollars every minute working for Stearns, Harrington, and he bought a dog, and everything is rosy.  Then Mr. Stearns, he tried to fix a case."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "The Big Boy did...?"
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "That Frank was working on. Yeah. He thought Franky needed some help, so they bribed a juror. So Franky finds out. He comes to me in tears. He thinks that anybody who knows what a 'spinnaker' is got to be a saint. I told him 'Franky, wake up. These people are sharks. What do you think they got so rich from? Doing good?' He can't be comforted. He tells the boys at Stearns and Harrington they've disappointed him, he's going to the Judge to rat them out."
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Huh."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Before he can get there here comes this Federal Marshal, and Franky's indicted for Jury tampering, they throw him in jail, he's gonna be disbarred, his life is over.  Jimmy, gimme another drink.  How are you?"
+      },
+      {
+        "speaker": "LAURA",
+        "text": "Me, too."
+      },
+      {
+        "speaker": "MICKEY",
+        "text": "Okay. Now, so he's in jail. He, finally, he gets to see the light, he calls up Harrington, he says he thinks he made a mistake. As if by magic, charges against him are dropped, he's released from jail.  P.S. He's fired from the firm, his wife divorces him, he turns to drink and mopes around three and a half years.  You like that story?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31845",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "ALONZO HOGUE",
+        "text": "Looks almost cold now, don't it?"
+      },
+      {
+        "speaker": "WASH PERRY",
+        "text": "That won't start no more fires.  We might's well go home."
+      },
+      {
+        "speaker": "ALONZO HOGUE",
+        "text": "Yeah.  No sense stayin' out here."
+      },
+      {
+        "speaker": "WASH PERRY",
+        "text": "Let's go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31846",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "WASH PERRY",
+        "text": "It's an enemy sneak attack.  Let's get outta here!"
+      },
+      {
+        "speaker": "ALONZO HOGUE",
+        "text": "Wait a minute - wait a minute!.... Bombs don't unscrew."
+      },
+      {
+        "speaker": "WASH PERRY",
+        "text": "It's no meteor, that's for sure!"
+      },
+      {
+        "speaker": "ALONZO HOGUE",
+        "text": "Darnedest thing I ever saw - the way that's unscrewing!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31847",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "WASH PERRY",
+        "text": "We'd be the first to make contact with 'em -- see?"
+      },
+      {
+        "speaker": "ALONZO HOGUE",
+        "text": "We'd be in all the papers!"
+      },
+      {
+        "speaker": "WASH PERRY",
+        "text": "Hey, how about that!"
+      },
+      {
+        "speaker": "ALONZO HOGUE",
+        "text": "We could show 'em we're friendly, huh?  Walk out there with a white flag!  Here - I got an old sugar sack in my car!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31848",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "WASH PERRY",
+        "text": "Hey, there - open up!"
+      },
+      {
+        "speaker": "ALONZO HOGUE",
+        "text": "Come on out!  We're friends!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31849",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SECRETARY",
+        "text": "That explains why communication is cut the moment their machines begin to move."
+      },
+      {
+        "speaker": "CHIEF OF STAFF",
+        "text": "Madrid has just blacked out!! Nothing more coming through."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "The same thing that happened on our Pacific Coast.  Anything from them yet?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31850",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CHIEF OF STAFF",
+        "text": "Mister Secretary - if they link up with those others near Fresno..."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "All right - I've seen enough!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31851",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SECRETARY",
+        "text": "There's only one thing that will stop the Martians!  We've held back pre- viously because of the danger of radiation to civilians.  Now there's no choice.  The United Nations has voted authority to the United States.  The White House will confirm an order to use the Atom bomb."
+      },
+      {
+        "speaker": "CHIEF OF STAFF",
+        "text": "Then our first target will be the initial landing place outside Los Angeles."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "I'll request the scientists from Pacific-Tech to monitor the drop.  We'll clear the area all around.  After that we'll hit them all over the world. I'll have long-range bombers alerted, loaded and standing by."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31852",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "M.P. DRIVER",
+        "text": "Hey, you!  Better get outa here!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I'm looking for some Pacific-Tech professors..."
+      },
+      {
+        "speaker": "M.P. DRIVER",
+        "text": "There's nobody left around here now."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "We had a chance...We could have stopped them!  The mob stole the trucks and smashed everything up.  The fools!  They cut their own throats!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31853",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "M.P. DRIVER",
+        "text": "Hurry up!  Jump in!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "There was a girl with them...If I could find her...."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31854",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "M.P. DRIVER",
+        "text": "You look kinda lost yourself."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "But I think I know where she'll be...."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31855",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "Is that it over there?"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Yes...ugly looking, isn't it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31856",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "Did you see it come down?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Yes...I was fishing up in the hills."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "You must have caught plenty with all that tackle!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Oh - there were three of us.  The others flew back in my plane.  I don't understand why a meteor this size didn't make a bigger crater."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "It hit sideways and skidded in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31857",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "What's that fellow over there trying to do - dig it out?"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "He's top man in astro and nuclear physics.  He knows all about meteors!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31858",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "You seem to know a lot about him."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Well, I did a thesis on modern scien- tists - working for my Masters degree."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Did it do you any good?"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Why, sure -- I got it!  Do you have a match?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I'm sorry.  I don't smoke."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Forrester's the man behind the new atomic engines.  They had him on the cover of 'Time'.  You've got to rate to get that!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Aw, he isn't that good...!"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "How can you say that when you don't know him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31859",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "I do know him...slightly."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "What's he like?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Like...ah..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31860",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "Well, you certainly don't look like yourself in that get-up!  But I am happy to meet you anyway. I'm Sylvia Van Buren.  I teach Library Science over at USC."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I didn't know how to stop you...!"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "I might have recognized you without the beard.  And you didn't wear glasses on the 'Time' cover!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "They're really for long distance. When I want to look at something close...  I take them off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31861",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "They've all stopped at the same time."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "There's only about one explanation for a thing like this..Got a pin?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31862",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "How does it happen cars are running?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Automobile ignitions are insulated."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31863",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "The troops are certainly moving in here!"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Didn't you have something to do with this?  I know you sent word to the Sixth Army Command!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I just told them the local situation. Colonel Heffner's in full charge now."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "You never know where you're going to wind up when you go to a square dance!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31864",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "Good to see you, General.  This is Pastor Collins, director of Civil Defense.  Sheriff Bogany, head of the local forces ... Miss Van Buren."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Would you like some coffee, General?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31865",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "We can't go into town - everybody's getting out of there!  I'll fly you over to Pasadena."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Can you handle one of these?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Sure...get in!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31866",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "You'll hit something!  Can't you go higher?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "No.  The air's going to be full of Jets in a minute...And there they are!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31867",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "I never noticed before - that's a cowboy tie...."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I bought it for the square dance. I thought I ought to wear some- thing Western."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31868",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "Is that... machine...?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "It's gone now."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Where are we?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Southwest of Corona, somewhere. There must have been another cylinder down here.  They've been through this whole area and cleared everybody out.  There's a farmhouse.  Let's see if we can find something to eat...!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31869",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "I almost forget when I ate last.  It looks so good.... You know, mostly I get my meals in coffee shops and restaurants."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Don't you live at home?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "No, on the campus.  I haven't any family."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "I come from a big one.  Nine of us. All in Minnesota, except me."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I have no close folks.  My parents died when I was a kid."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31870",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "A big family must be fun...I imagine it makes you feel you belong to something."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "It does...Maybe that's why I feel kind of lost right now."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "We'll get safely out of here, don't worry."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "But they seem to murder everything that moves...!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "If they're mortal, they must have mortal weaknesses.  They'll be stopped -- somehow!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31871",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "I've been as close to them as anyone. But not close enough for real observation..."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "I feel like I did one time when I was small.  Awful scared and lonesome...I'd wandered off - I've forgotten why - but the family and whole crowds of neighbors were hunting for me.  They found me in a church.  I was afraid to go in any place else."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31872",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "I stayed right by the door - praying for the one who loved me best to come and find me.  It was Uncle Matthew who found me."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I liked him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31873",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "He liked you ... I could bawl my head off!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "But you're not going to.  You're not the kind.  You're tired, anyway.  You've been up all night.  You cracked up in a plane.  Slept in a ditch.  But you want to know something?  It doesn't show on you at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31874",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "How long was I out?"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Hours.  I've been so scared...!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31875",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "Nothing there now."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "It was...  ...one of them!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "What was it like?"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "I couldn't see much in the dark - but it was one!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "We're right in a nest of 'em! ... I've got to get a look at them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31876",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "Maybe they aren't too sure we're here."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "They could be as curious about us as we are about them."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Maybe ...  Maybe they want to take us alive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31877",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "They've blocked it!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "It's blocked here, too!  They've pushed up earth or something all around outside.  Here, this way...!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31878",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "Is it possible to go in right after the explosion?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Yes, with these suits.  We've used them before on atomic tests... Odd- looking, aren't they?"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Very futuristic.  Yours doesn't really go with that butch haircut!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I could wear it longer -- but it's less trouble this way."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "My kid brother has one.  You know why?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Yes ...  Fits better in a football helmet."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "How'd you guess?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "That's the kind of a kid brother you'd have!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31879",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "The Rockies...!  You'd rather get back to that big family of yours in Minnesota, wouldn't you?"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "I wonder if they're going through this too...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31880",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "I probably wouldn't be able to get to them if I tried..."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "You'll be all right with us....  ...for as long as anybody's got!"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "Don't let's lose each other."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31881",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "That's what knocked the phones out, too."
+      },
+      {
+        "speaker": "SHERIFF",
+        "text": "How could it happen to everybody's watch together?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Have you got a pocket compass?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31882",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SHERIFF",
+        "text": "That needle ain't pointing north!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "It's pointing out to the gully - where that meteor came down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31883",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SHERIFF",
+        "text": "What is that gizmo?!"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I think that - gizmo - is a machine from another planet."
+      },
+      {
+        "speaker": "SHERIFF",
+        "text": "We better get word to the authorities and --  Look!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31884",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "This Martian blood...  Let's make a quick analysis and see what we've got!"
+      },
+      {
+        "speaker": "GRATZMAN",
+        "text": "It might give us something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31885",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "A forlorn hope - but there is a chance."
+      },
+      {
+        "speaker": "GRATZMAN",
+        "text": "It might give us time to search out some weakness in the Martians."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I believe we can get a lead from their anaemic blood."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31886",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "We know now that we can't beat their machines -- but we can beat them!  They are mortal beings...The only question is whether we have time enough to do anything!"
+      },
+      {
+        "speaker": "GRATZMAN",
+        "text": "If we get what transportation we can, and pick up instruments and books from Pacific-Tech..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31887",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "CLAYTON",
+        "text": "Gratzman! -- Gratzman!  Did you get those biotics?"
+      },
+      {
+        "speaker": "GRATZMAN",
+        "text": "No.  I thought you had them."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "All right.  I'll get them!   Go ahead - go ahead!  I'll catch up with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31888",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "FIDDLER",
+        "text": "I got a message for you.  You're the guys from Pacific-Tech, ain't you?"
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Right."
+      },
+      {
+        "speaker": "FIDDLER",
+        "text": "Looks like the fishing was good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31889",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "FIDDLER",
+        "text": "It's about that meteor.  They say it's a whopper.  The District Officer phoned us at the lookout up on the summit. Thought you might be interested... It's ten or twelve miles from here - over by Linda Rosa."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "Are they sure it's a meteor?  It didn't come down like one."
+      },
+      {
+        "speaker": "FIDDLER",
+        "text": "That's right - came down in kinda spurts, didn't it?  You fellers'll have to figure it out.  You're scientists  All I know - they say it's as big as a house and practically red hot."
+      },
+      {
+        "speaker": "CLAYTON",
+        "text": "I'd like to borrow your car and take a look at it in the morning."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31890",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "COLONEL",
+        "text": "There's one - there's the other, and we're right between them!"
+      },
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "So is the town, I notice!"
+      },
+      {
+        "speaker": "COLONEL",
+        "text": "I warned you Civil Defense people to be ready if you have to evacuate."
+      },
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "I just came to tell you - everyone has been alerted."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31891",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "Colonel - shooting's no good!"
+      },
+      {
+        "speaker": "COLONEL",
+        "text": "It's always been a good persuader."
+      },
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "Couldn't you try to communicate with them first - and shoot later if you have to?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31892",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "COLONEL",
+        "text": "General Mann -- I was told to expect you, sir.  I'm Colonel Heffner."
+      },
+      {
+        "speaker": "GENERAL MANN",
+        "text": "I'm here to make up a report, not to interfere with the operations you've set up.  You're still in command.  Clayton Forrester!  I haven't seen you since Oak Ridge."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31893",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "GENERAL MANN",
+        "text": "That's their position?  You've certainly got them surrounded.  I suppose they've neutralized all communications here."
+      },
+      {
+        "speaker": "COLONEL",
+        "text": "Not all.  Radio is out.  But our field phones are okay so far."
+      },
+      {
+        "speaker": "GENERAL MANN",
+        "text": "And they'll go out the minute there's another ray.  A cylinder reported down by Huntington Beach.  That's a job for the Navy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31894",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "COLONEL",
+        "text": "We will, sir!"
+      },
+      {
+        "speaker": "GENERAL MANN",
+        "text": "From the data - and from that picture the Air Force took earlier tonight ...  ... what we've got in the gully out there is a guide ship.  One lands ... Others follow later.  They appear to clear an area, then drop in groups of threes, joined magnetically.  Is that possible?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31895",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "COLONEL",
+        "text": "My orders are not to go into action unless they make a move out of there."
+      },
+      {
+        "speaker": "GENERAL MANN",
+        "text": "That's because we want a chance to observe them.  This is the only place we've had time to surround them with sufficient force to contain them.  What happens here will be a guide to all other operations. The minute action begins and a pattern of defense develops, I'll get my report to Washington.  You've deployed your forces well."
+      },
+      {
+        "speaker": "COLONEL",
+        "text": "Thank you, sir.  If they start anything, we can blast them right off the earth!"
+      },
+      {
+        "speaker": "GENERAL MANN",
+        "text": "They'll probably move at dawn."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31896",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "That probably dropped half way to Pomona!...What do you think?"
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "It was nearer than that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31897",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "Uncle Matthew...this is Dr. Clayton Forrester.  My uncle - Dr. Matthew Collins, pastor of the Community Church."
+      },
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "Well-l...how do you do, Dr. Forrester!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31898",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "They don't do much of anything...!"
+      },
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "There's a square dance at the social hall this evening."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31899",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "They are living creatures out there."
+      },
+      {
+        "speaker": "SYLVIA",
+        "text": "But they're not human!  Dr. Forrester says they're some kind of an advanced civilization --"
+      },
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "If they're more advanced than us, they should be nearer the Creator for that reason!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31900",
+    "movie_id": "m226",
+    "turns": [
+      {
+        "speaker": "SYLVIA",
+        "text": "Let's go back inside, Uncle Matthew."
+      },
+      {
+        "speaker": "PASTOR COLLINS",
+        "text": "I've done about all I can do here. You go back in.  Sylvia - I like that Doctor Forrester.  He's a good man."
+      }
+    ]
+  }
+]

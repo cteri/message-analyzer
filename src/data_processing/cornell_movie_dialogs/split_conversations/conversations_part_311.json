@@ -1,0 +1,1938 @@
+[
+  {
+    "conversation_id": "conv_31001",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "...they say you're alright."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I'm fine."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "This is it, then."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "What?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "The dark side. The price you pay for all the fun you're having. You knew about it, of course. Didn't you?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "He was a friend of mine. A good guy...great guy. It was my fault."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "That's not what I hear."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I was flying...my responsibility."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "That's what you get flight pay for."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Maybe I shouldn't take it."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Why? You act like you didn't know one day this would happen."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Not to me."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "You knew it. You all do. It's part of it. Maybe the most important part."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31002",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "Where are we?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Where are we? You know where we are. It's called the beach. It's where life first crawled up out of the sea. I come here sometimes... when I feel like crawling back in."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "You don't have to do this."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Do what, show you a good time?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I'm not good company. I should be alone."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "I don't think so, but if that's what you want..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31003",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "No."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I want it back."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "What?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Yesterday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31004",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "You look way out there. Out past the date line. West becomes East, all things change. You cross the line...today becomes yesterday...or tomorrow, I forget which."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "That's what I want."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Of course the line's just imaginary. You can cross it twenty times...nothing really changes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31005",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "You don't believe that."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Hardly ever."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Only when you're depressed. Then it passes."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "It does."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Everything passes. Immutable law of the Universe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31006",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "What do you do when you come here?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "I sit. I think. I play games."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "What kind of games?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "I like to play \"reality\"."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31007",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "How do you play reality."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "It's strip reality, actually, like what the pilots always want to play."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Strip reality! How do you play that?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "It's like strip poker, only, without the bluffing.  One person says something and if the other one accepts that it's true, the one who says it, gets to take one item of clothing off."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "You're crazy.  That's a pretty silly game."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Not as silly as some. You know the silliest one? ...that we are gods. That we control events on the beach... that we can turn back time..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31008",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "Want to play the game?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "How does it go?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "You say the truth.  Go ahead. Don't be afraid. You want to win the game, don'tcha?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "What truth?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "The big one. The one that's most on your mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31009",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "Goose is dead."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "True."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Now?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Take something off."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Off me or off you?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "That's up to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31010",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "What does it mean?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "That wasn't fair. It was a question. Penalty round!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31011",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "You didn't mean it. You didn't think. You'd do anything to take it back."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "That's three."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "And that's one!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31012",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "One more."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Your watch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31013",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "Looks like a tie."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Who's gonna win?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "We'll say it together. On the count of three...One...two..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31014",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "You weren't gonna say goodbye?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I was, later."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Long distance? I wouldn't do that to you. I'd at least talk to you."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I didn't want to see you. I mean, I did...but I didn't.."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "I know exactly what you mean."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "How could you?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "I've got a gift just like you do. My gift is I just know what people mean, even if they can't say it. It helps when you're trying to communicate with fighter pilots. Like what you just said was \"I'm embarrassed, I feel I've done something wrong, that I've failed, and I don't think I can live up to the expectations of a wonderful interesting, intelligent woman like yourself.\" That about it?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "...Something like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31015",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "And I'm gonna sneak off, and be by myself for awhile, like until I can think of a new career...hotel management or something..."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Big talk for someone who's never been shot off her computer."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "Hey, I never said I was a fighter pilot...I never claimed to think it was fun to be shot off the end of a ship in a storm. I can find contentment in a good book. I don't have to roar by someone at Mach two with my hair on fire. Sometimes...I just get happy being with the right man."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I hope you find him."
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "I think I have... I could be wrong. I have been before. Just remember one thing. If you're not Top Gun, if you're not fighting jets, you're not gonna be able to act like a fighter pilot... You're gonna have to act like the rest of us. You're gonna have to master humility. For you guys, that's the toughest maneuver of all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31016",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHARLIE",
+        "text": "Well?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Well what?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "You got your F-14, you got Top Gun, you got your MiGs....You're our new Top Gun instructor...Now what?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Oh...I'll think of something... What are you doing here?"
+      },
+      {
+        "speaker": "CHARLIE",
+        "text": "I live here, remember?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Right on the flight line?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31017",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHP",
+        "text": "Well... What   is   it?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Sir. You are going to give me a warning, Sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31018",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "Yes sir. I do, Sir."
+      },
+      {
+        "speaker": "CHP",
+        "text": "Well?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Sir. I was going Mach point one five."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31019",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHP",
+        "text": "One SIXTH the speed of sound!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Yes sir."
+      },
+      {
+        "speaker": "CHP",
+        "text": "Lieutenant... What do you... usually fly?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "F-14's sir."
+      },
+      {
+        "speaker": "CHP",
+        "text": "Tomcats?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Yes sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31020",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "CHP",
+        "text": "Lieutenant... Is there... a Russian attack?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "No sir! But you have to be ready."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31021",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "Yes, Sergeant?"
+      },
+      {
+        "speaker": "CHP",
+        "text": "Remember one thing."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "CHP",
+        "text": "Outside of this gate... I...am Top Gun."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Yes sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31022",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "COUGAR",
+        "text": "Can't shake him."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "WHAT'S MIG ONE DOING?"
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "Maintaining course. Straight for Mustang."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31023",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "I'LL LOCK ON THEM, COUGAR.  Gotcha covered, don't nobody move."
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "I'M UP HERE TOO, MAVERICK."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "ROGER, COUGAR.  Okay boys, pull out with your hands up and nobody'll get hurt."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31024",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "COUGAR",
+        "text": "WHAT ARE YOU DOING HERE?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "EVERYBODY'S GOT TO BE SOMEWHERE. ..NOW WE'RE RIGHT WITH YOU. YOU ARE INVERTED.  ROLL IT, COUGAR."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31025",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "COUGAR",
+        "text": "MAVERICK."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "YEAH, COUGAR?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31026",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "COUGAR",
+        "text": "YOU BETTER NOT BE RAGGING ME... IF YOU'RE FLYING UPSIDE DOWN..."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "NO JOKE, COUGAR. ON THE LEVEL. EVEN I WOULDN'T DO THAT TO YOU."
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "I'M UPSIDE DOWN. I KNOW IT. I'M GONNA EJECT."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31027",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "I've got a six strobe.  I think he's locked on us."
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "It's a MiG 21. They don't have radar missiles!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Let's hope you're right!"
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "What is he doing?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "He's pissing me off!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31028",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "That's missile lock!"
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "He better be kidding!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Lordy!  Eyeball to Asshole. Hope nobody burps!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31029",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "COUGAR",
+        "text": "We're locked on MiG ONE. Why doesn't he disengage?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "These guys are getting on my nerves."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31030",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Hey, if it was easy, everybody would want to come up here and do it..... Instead of just us."
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "You."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31031",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "COUGAR",
+        "text": "Help me with this one, I'm really screwed up."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Bring it left. Bring it left, You're high."
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "This is crazy!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "What is?"
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "Wait! Hell!..Something's wrong!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "What?  What is it?"
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "Were upside down!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "You're crazy. We're level."
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "Can't you feel it? I'm hanging in my straps!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "You're not. We're level. Look at the instruments, we're okay!"
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "They must be broken. I'm hanging in my straps! We're inverted!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "We're not! Trust me! We're okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31032",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "COUGAR",
+        "text": "I'm pulling up."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "No! Now we're inverted!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31033",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "We're on vapor, Cougar, you got to put it down."
+      },
+      {
+        "speaker": "COUGAR",
+        "text": "It's crazy, man. Instruments are crazy. We're gonna have to eject."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "TELL HIM, WILL YOU TELL HIM? OUR INSTRUMENTS ARE OKAY."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31034",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "COUGAR",
+        "text": "OKAY... OKAY. BUT IF I LAND THIS THING UPSIDE DOWN. AND I LIVE. I'LL HAVE YOUR BUTT!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "You'll have mine, Cougar. It'll be where your head used to be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31035",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "WHAT? WHERE'RE YOU--HEY, WHERE IN THE HELL ARE YOU GOING?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "DIDN'T ... AHHH...LOOK GOOD."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "WHAT DO YOU MEAN? IT DOESN'T GET TO LOOK MUCH BETTER THAN THAT?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "NO. NO GOOD."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31036",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Saving them some paperwork."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "Since when did you care about paperwork?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31037",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "If I could fly like you I'd have everything I want. If I could fly at all. I can't fly. I can't fly like that. Nobody can. Whatever it is, you've got it!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Not anymore."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "So, you're scared--so what? You ever get a good look at me in the back seat, I'm goddamn terrified."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31038",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "Bandit at seven o'clock low--solo. Take him. Pull on the goddamn stick, man!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Okay, okay."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "Don't tell me okay. Do it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31039",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "BREAK LEFT! BREAK LEFT!   CHAFF! FLARES!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "BREAKING LEFT!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31040",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "THERE'S ANOTHER ONE UP THERE!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I GOT ONE COMING UP."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "AND HE'S GUNNING."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31041",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "Ohhh Mother!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Goddamnit, Mav, you really are a slow learner. Don't worry, Fung, I've got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31042",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "Don't WORRY!!!?   You've GOT it!!? Are you CRAZY?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Roger, I've got it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31043",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "Now have you got it?  Have you still got it?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Yawing right."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "I know!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Rudder's left, stick's forward."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "Swell! Passing ten thousand!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31044",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "I've got it -- hold on!"
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "Passing 8. Passing 6. Lock your harness!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I can recover. Hold on!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31045",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "5000 feet. Speed two hundred."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31046",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "No! Not again!"
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "What are you talking about, we gotta go!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I'm not losing it again!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31047",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "Gotta go, man."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "280, 290, 300 knots."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "3,000 feet.  We gotta go, man. 3,000 feet, we gotta go!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "You go. I'm staying with it."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "I'm gonna go! THREE...TWO...ONE..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31048",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "Is there something I should know?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Just relax."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "Is it the plane?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "The plane is fine."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "Is it you?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Yeah, I guess it is. We did it! We did it...Damn! We sure did it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31049",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "You're not supposed to..."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "But I have to!"
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "Then...shit! Go ahead. I'm right behind you."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "MUSTANG, THIS IS MAVERICK, REQUEST A FLYBY."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31050",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "FUNGUS",
+        "text": "You hear that? Anything we want. Anything...Well???"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Well what?"
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "What do I want?"
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Any more MiGs?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31051",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "Let me do the talking."
+      },
+      {
+        "speaker": "FUNGUS",
+        "text": "Oh, no. You did the flying, I'll do the talking!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31052",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GIRL",
+        "text": "Why do you all have such funny names?"
+      },
+      {
+        "speaker": "WOLFMAN",
+        "text": "You gotta have a call sign that's just your own...never changes...you have to recognize it immediately. Then, if someone shouts \"Wolf, break left!\"..you react right away."
+      },
+      {
+        "speaker": "GIRL",
+        "text": "Why do they call you Wolf?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31053",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "WOLFMAN",
+        "text": "Well, I don't know. That depends."
+      },
+      {
+        "speaker": "GIRL",
+        "text": "On what?"
+      },
+      {
+        "speaker": "WOLFMAN",
+        "text": "Well, it doesn't just happen, you gotta do something famous."
+      },
+      {
+        "speaker": "GIRL",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "WOLFMAN",
+        "text": "Oh...I'll think of something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31054",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "It's not Cougar's place. It's ours."
+      },
+      {
+        "speaker": "ICE",
+        "text": "What do you think it was? Was it that MiG contact that did it?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Did what?"
+      },
+      {
+        "speaker": "ICE",
+        "text": "Got you here."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "We're here because we're the best flyers in the wing. Not because of some MiG encounter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31055",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "ICE",
+        "text": "That's not what I heard."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "We won! Ice turns back, stares them down, then turns back into his locker, dismissing them."
+      },
+      {
+        "speaker": "ICE",
+        "text": "Below the hard deck doesn't count. You guys are the second team, aren't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31056",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Slider -- they let you into Top Gun? If you're among the best in the Navy, I tremble for the security of this country."
+      },
+      {
+        "speaker": "SLIDER",
+        "text": "Why Goose, whose butt did you kiss to get here?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "The list is long, but distinguished."
+      },
+      {
+        "speaker": "SLIDER",
+        "text": "So's my Johnson."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "This is Maverick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31057",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "SLIDER",
+        "text": "So I've heard."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Who's your pilot?"
+      },
+      {
+        "speaker": "SLIDER",
+        "text": "Tom Kazansky."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "No shit. The Iceman...."
+      },
+      {
+        "speaker": "SLIDER",
+        "text": "Mister to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31058",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "You think you can stay up with us."
+      },
+      {
+        "speaker": "SLIDER",
+        "text": "I think, yeah, we'll show you a thing or two."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "This is Evan Mitchell, he steers the thing."
+      },
+      {
+        "speaker": "SLIDER",
+        "text": "So I heard. Steers it pretty close. Sorry to hear about Cougar. He was a good man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31059",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "SLIDER",
+        "text": "What was that?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Flaming Hooker. Sort of an institution around here. Or maybe this is the institution, I forget which. It's the house drink. It'll warm the cockles of your heart ... and other things depending on where you spill it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31060",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "SLIDER",
+        "text": "How was it?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Could use a dash more jet fuel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31061",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "SLIDER",
+        "text": "Nice. Always a good idea to show up your instructors. He nods toward Jester, glaring at them from his A4. Goose indicates the backseat of the Tomcat."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Hey, see any controls back there?  And anyway...we beat the Son of a Bitch!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31062",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Look at the weather! They'll never find us! We're near out of fuel. Put it down."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "COUGAR, YOU'RE ON THE BALL."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31063",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Nothing...That's McGown...that's Singer, isn't it? GOOSE Turn around, pay attention. What are you doing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31064",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Keller, Black Lion Squadron. I knew him at Pensacola. He's damn good."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Is there anybody in the Navy you don't know?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Gotta keep track of the competition."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31065",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "You ever done this before?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "What, been drunk? Sure! Plenty!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31066",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Hey Mav, this is Sally. She doesn't believe a word I say. Tell her I'm married, will you?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Yeah, he's married--but then again, he,s not dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31067",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "What do these guys think, I made Cougar quit?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Pay no attention to it. They're just trying to rattle you. It's all psychological. Sit down..and drink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31068",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "I've lost him -- where is he?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "On your six -- coming hard. Four hundred. Losing airspeed! He's on your six and closing fast! Hard left! HARD LEFT!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31069",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Great move. Great"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "He should've had me. GOOSE Take it down. Let's bug out of here. Call for a draw."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31070",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "We did it!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Look, Ma, top of the world!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31071",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Ahhh...A little high on the left, don't you think?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31072",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "It's a victory roll."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "I wouldn't call it victory.  It's more like...self immolation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31073",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Hi...Hi there. How ya doing in there?  Mav... Ahhh...you know, at one point I did want a Navy career."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Come on, relax..."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "You see all those guys with gold on their shoulders!!?... Oh, no, I think that was Johnson, Air Boss of the Kitty Hawk!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Come on, we beat an instructor. How many times in your life do you get to do a victory roll?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Just once, if they take your plane away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31074",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Come on, we're next."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "What?"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Come on, I got over six bucks on the line."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31075",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Come on, come on! It's double or nothing.. We're talking twelve bucks American, here."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I've had enough...for now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31076",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "What the hell is this?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Don't chew it, you won't have it that long. Easier to clean the cockpit if it comes up in big chunks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31077",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Something bothering you?"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Nothing. Let's just go fight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31078",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "STAY WITH HIM! TIGHTEN YOUR TURN!"
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Bogey at three o'clock high! Nose on!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31079",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Just cover Wood, Maverick. Mutual support, man!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I'm gonna take him, Goose."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Don't be greedy. Stay with Wood."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I want him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31080",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "What what are you doing? We're cover!"
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Wood's okay. I want Viper."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31081",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Relationships are a bitch, here. It's hard enough to concentrate ...under the pressure. Having a woman here is asking for it."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I guess that's what I'm doing, then."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Where do you find the time? Where do you find the energy. It's tough enough to keep your mind on school. A woman here is a real pain in the..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31082",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "I'm pinned to the panel."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Time to go."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "I can't eject."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31083",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "3000 feet. I'll do it."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Go ahead. I can't reach. 2000 feet!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31084",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "1000."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "Let's go. Eject."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31085",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "That's Kazanski."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "No shit! That why they call him Ice?"
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "Nope. It's the way he flies - Ice cold. No mistakes. Wears you down. After enough time, you just get bored and frustrated, you do something stupid, and he's got you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31086",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Man, you guys gooned it. Your laser butts are scattered across KANSAS."
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "Come on. I died enough for one night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31087",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "I was a victim of circumstance."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "They should have warned you about that one."
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "She's kinky for flight suits--said that she'd never seen so many zippers--played with them all night. The noise alone kept me up."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "What'd you do?"
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "Pulled left, rolled out, underneath."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31088",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Don't worry. I'll talk to him."
+      },
+      {
+        "speaker": "STINGER",
+        "text": "Don't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31089",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "He's the best you have. He's going Top Gun!"
+      },
+      {
+        "speaker": "STINGER",
+        "text": "Was."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31090",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "STINGER",
+        "text": "Well, he's going  and he needs someone to fly the plane."
+      },
+      {
+        "speaker": "GOOSE",
+        "text": "Skipper, you can't do this!"
+      },
+      {
+        "speaker": "STINGER",
+        "text": "I didn't do it, he did it himself. Something about a wife and kid. The fact is, he's lost it. He knows it. I know it. You were up there, you know it, too. GOOSE Give him a break, Skipper. It was raining snakes up there. He'll be alright, soon as all the gorillas go home..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31091",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "But, Skipper, Cougar's been picked for Top Gun...He's the best of the best!"
+      },
+      {
+        "speaker": "STINGER",
+        "text": "Well, you'll just have to make do with him ."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31092",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "GOOSE",
+        "text": "Mav's a great flyer but...."
+      },
+      {
+        "speaker": "STINGER",
+        "text": "He's a hell of a flyer. In fact, he's so damn good he might have been picked for Top Gun himself. Except for one thing.  He just can't seem to follow orders!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31093",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "WOLFMAN",
+        "text": "A plaque?"
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "It's not the plaque. The winner can get assigned here as instructor. He gets to fight every day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31094",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "WOLFMAN",
+        "text": "No, we...got our butts kicked."
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "Thirty seconds. That's all it took to blow us out of the sky."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31095",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "WOLFMAN",
+        "text": "It's kind of ironic. All you guys have women troubles and I don't."
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "That's because you don't have any women."
+      },
+      {
+        "speaker": "WOLFMAN",
+        "text": "Until last night. Did you see the moves I was making on that girl at the party?"
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "The girl with the purple fingernails?"
+      },
+      {
+        "speaker": "WOLFMAN",
+        "text": "That's her--tall hungry woman with fire in her eyes. It was great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31096",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "Coogan spent half the night looking for her. He said he was gonna kill the son-of-a-bitch who ruined his sister."
+      },
+      {
+        "speaker": "WOLFMAN",
+        "text": "I didn't ruin her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31097",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "Hear about Ice?"
+      },
+      {
+        "speaker": "WOLFMAN",
+        "text": "What now?"
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "He won again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31098",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "WOLFMAN",
+        "text": "I'VE GOT TWO MORE BOGEYS COMING IN AT FOUR O'CLOCK HIGH."
+      },
+      {
+        "speaker": "HOLLYWOOD",
+        "text": "GOT 'EM."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31099",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "ICE",
+        "text": "ENGAGING BANDIT 12 O'CLOCK."
+      },
+      {
+        "speaker": "MAVERICK",
+        "text": "SHIT!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_31100",
+    "movie_id": "m220",
+    "turns": [
+      {
+        "speaker": "MAVERICK",
+        "text": "COME OFF RIGHT--COME OFF HIGH--I'M IN--I'LL ENGAGE."
+      },
+      {
+        "speaker": "ICE",
+        "text": "STAY WHERE YOU ARE. HE'S MINE. I'M ENGAGED. I'M IN."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1642 @@
+[
+  {
+    "conversation_id": "conv_48613",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Deb... It's me.  I need you to step out front."
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Out front?  You home, baby?  I got a surprise for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48614",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Ben?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Don't come any closer for a sec.  This is gonna be kind of a shock... You remember when we said \"together forever no matter what\"?"
+      },
+      {
+        "speaker": "DEBBIE",
+        "text": "Baby, you're scaring me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48615",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "Oh my G-g-g.  What did you...do to Ben?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Deb, it's me.  It's still me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48616",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "DEBBIE",
+        "text": "What did you wish for, honey?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I already got it.  Everything I want."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48617",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "What are <u>you</u> doing here?"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "I'm worried about you."
+      },
+      {
+        "speaker": "BEN",
+        "text": "About me?  How sweet."
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Come on.  Let me buy you something to eat.  Looks like you could use the company."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48618",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "Ben, come in."
+      },
+      {
+        "speaker": "BEN",
+        "text": "What is this?  Where's Reed?"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Where do you <u>think</u>?  With <u>Sue</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48619",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "What do you want, Vic?"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "To help you.  I've run every test known to man.  And they all yield the same result: <u>the machine is ready</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48620",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Reed said it'd be weeks till --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "He <u>also</u> said we'd avoid that storm in space.  And we know how that turned out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48621",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "He couldn't generate enough power for the machine to reach critical mass. Yet another mistake for \"Mr. Fantastic.\""
+      },
+      {
+        "speaker": "BEN",
+        "text": "And you can?  Power it up?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48622",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Way to not overthink it.  So when do we leave?"
+      },
+      {
+        "speaker": "SUE",
+        "text": "I'll schedule the launch.  Call me in the morning to talk about resources and crew."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48623",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I can handle the ship.  I can even handle Mr. Blonde Ambition.  But I don't know if I should be flying or playing Vegas in these suits.  Who the hell came up with them?"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Victor did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48624",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "We can monitor the cloud's approach and observe the tests from here."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Is it safe?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48625",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "I can only stay for one drink, Ben. I've got to meet with Victor."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Wouldn't want to keep Vic waiting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48626",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "We need to give you a physical, so we know what got zapped."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well why didn't you say so?  You want me to lift some weights or something?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48627",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "You look like an eighties rock band."
+      },
+      {
+        "speaker": "SUE",
+        "text": "The suit will stretch.  You should try it --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I wouldn't be caught dead in that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48628",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "He didn't."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh, he did."
+      },
+      {
+        "speaker": "SUE",
+        "text": "<u>What</u> did he do to the uniform?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48629",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "He didn't mean it.  You know Johnny. He's always been a hothead --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "It's not him.  It's <u>them</u>.  I can't live like this."
+      },
+      {
+        "speaker": "SUE",
+        "text": "Just give Reed a little more time. You know how he works -- analyzing every little step before he takes one --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "It's easy for you to be patient."
+      },
+      {
+        "speaker": "SUE",
+        "text": "No, it's not.  I thought I was done waiting for Reed... We're all in this together now, Ben."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48630",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "<u>Where is Reed</u>?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Victor must've taken him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48631",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "Your tissue, your organs, your entire biophysical structure is changing. Every system is still functioning, somehow --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "And they're changing into..."
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "I don't really know.  A compound organic-metallic alloy.  Stronger than titanium or carbon steel.  Harder than diamonds --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Like the shields Reed said would protect us.  How long?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "At this rate, the infection should be complete in two, maybe three weeks --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "What do you mean \"complete\"?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "I wish I could tell you.  I can't pretend to know what we're dealing with here.  I'll notify the CDC and --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48632",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "What?"
+      },
+      {
+        "speaker": "DOCTOR",
+        "text": "The Center for Disease Control.  If this thing is contagious --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48633",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "DOCTOR",
+        "text": "But...this disease...is progressive... degenerative..."
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "That's terrible news..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48634",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Victor's right.  Johnny, get to the command center.  Close the shields."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "What about you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48635",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "He's not responsive --"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Ben!  Ben!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48636",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "Now what is up with <i>that</i>?"
+      },
+      {
+        "speaker": "REED",
+        "text": "The cloud has fundamentally altered our DNA."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Cool.  What'd it do to you guys?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48637",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "Oh, you dawg you.  Better not be my nurse!"
+      },
+      {
+        "speaker": "REED",
+        "text": "Ben, are you there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48638",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "This is wrong in so many ways."
+      },
+      {
+        "speaker": "REED",
+        "text": "You've been working out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48639",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Ben Grimm is a genuine American hero who's been through a terrible orde--"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "What he's trying to say is: every team needs a mascot..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48640",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "Twenty?  From outside the place looks a lot taller."
+      },
+      {
+        "speaker": "REED",
+        "text": "Oh, it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48641",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "We should stay here until we can define the extent of our changes..."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "This place is deluxe.  You got cable?"
+      },
+      {
+        "speaker": "REED",
+        "text": "...and figure out how to reverse them. Let me show you to your rooms."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48642",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Back it down, Johnny!"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "I can go hotter!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48643",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Not only could you kill yourself, but you could set fire to Earth's atmosphere and destroy all human life as we know it."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Gotcha.  Okay.  Supernova bad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48644",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Is there something about flames? About flaming, that you --"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "What are you trying to say?  Just because I dress well and like to dance --"
+      },
+      {
+        "speaker": "REED",
+        "text": "What?  No.  I'm trying to figure out why we each ended up with different symptoms."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Oh, well that's easy: I'm hot. You're...well, you're a little limp. Sue's easy to see through.  And Ben's always been a hardass.  Why aren't you writing this down?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48645",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "He's right.  These costumes are... missing something.  I can't put my finger on it --"
+      },
+      {
+        "speaker": "REED",
+        "text": "They're not costumes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48646",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "That's what I'm trying to calculate. And it's not rubber.  It's muscle, tendon.  I seem to have the ability to manipulate the malleability of my molecular structure and redistribute my density to --"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Right, whatever, have fun."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48647",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "You need to control yourself and <u>think</u> before you --"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Act.  Here we go again.  Reed, what if we got these gifts for a <u>reason</u>?  What if we have some, you know...like, calling?"
+      },
+      {
+        "speaker": "REED",
+        "text": "A higher calling like getting girls and making money?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48648",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Johnny.  SUPERNOVA."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "But all these people..."
+      },
+      {
+        "speaker": "REED",
+        "text": "<u>Now</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48649",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SEXY NURSE",
+        "text": "And where do we think we're going?"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "I don't know if \"we've\" noticed, but the sickest runs this side of the Alps are <i>right outside that window</i> --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48650",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SEXY NURSE",
+        "text": "You're hot!"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "So are you!"
+      },
+      {
+        "speaker": "SEXY NURSE",
+        "text": "I mean, you feel a little feverish."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "I've never felt better in my life. When do you get off work?"
+      },
+      {
+        "speaker": "SEXY NURSE",
+        "text": "My shift ends at four, but I couldn't --"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Meet me at 4:01, top of the run. That'll give you a minute to freshen up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48651",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "Me like-y."
+      },
+      {
+        "speaker": "SEXY NURSE",
+        "text": "Stay right.  Left is trouble."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "I though we went over this."
+      },
+      {
+        "speaker": "SEXY NURSE",
+        "text": "Last one down springs for room service."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48652",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SEXY NURSE",
+        "text": "You're on fire!"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Not this again --"
+      },
+      {
+        "speaker": "SEXY NURSE",
+        "text": "No: You're <u>ON FIRE</u>!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48653",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "The synthetics act as a second skin, adapting to your individual needs to --"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Keep the hot side hot, and the cool side cool!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48654",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "Apparently I can disappear."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "<u>Please</u> tell me you go silent too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48655",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "Flame on, flame off.  Flame on, flame off --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Johnny."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48656",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "Stop it."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Okay, \"mom.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48657",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "What is that <i>thing</i>?"
+      },
+      {
+        "speaker": "SUE",
+        "text": "I think that thing is Ben."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48658",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "Wait.  You mean there's chance we could be full-on-24-7-fantastic?"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Grow up, Johnny.  You want to run around <u>on fire</u> for the rest of your life?"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Is that a trick question?  C'mon, I can't be the only one who thinks this is cool."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48659",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "You're really cramping my style here."
+      },
+      {
+        "speaker": "SUE",
+        "text": "You were at 4000 Kelvin.  Any hotter, you're approaching supernova --"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Sweet."
+      },
+      {
+        "speaker": "SUE",
+        "text": "That's the temperature of the <u>sun</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48660",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "Uh, we call my sister the invisible girl...the Invisible Girl."
+      },
+      {
+        "speaker": "SUE",
+        "text": "<u>Girl</u>...?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48661",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "I'm driving."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Dude.  That's my sister."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48662",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "You're gonna pay for that, Pebbles.  What?!"
+      },
+      {
+        "speaker": "SUE",
+        "text": "You gave us <u>names</u>?  What are you, the \"face\" of the Fantastic Four now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48663",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "You two need a time-out."
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Blockhead started it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48664",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "Johnny?  Did you see Ben?"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Yeah, for the last time, I hope.  I'm done with this freak show.  I'm moving back to the real world."
+      },
+      {
+        "speaker": "SUE",
+        "text": "Is that what you call it?  \"<i>Real</i>\"?"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "At least it beats living in a lab like somebody's science project."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48665",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "Johnny, slow down.  <u>Think</u>.  You know mom didn't raise us to --"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Look around, sis!  <u>She's not here</u>.  So you can stop talking to me like I'm your little boy --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "As soon as you stop <u>acting</u> like one. Come on, you're <u>smarter</u> than this. You think those people out there <u>care</u> about you?  You're just a <u>fad</u> to them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48666",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "JOHNNY",
+        "text": "I'm sorry, sis, for leaving you guys --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "No, <u>I'm</u> sorry, for pushing you out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48667",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "What are you doing --"
+      },
+      {
+        "speaker": "JOHNNY",
+        "text": "Sis.  Let <u>me</u> take care of <u>you</u> for once."
+      },
+      {
+        "speaker": "SUE",
+        "text": "But Johnny...you <u>can't fly</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48668",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "If Reed's right, then this little trip will double our stock offering."
+      },
+      {
+        "speaker": "LEONARD",
+        "text": "And if he's not...?"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Reed's <u>always</u> right.  Good thing he doesn't always know what he's got..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48669",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "LEONARD",
+        "text": "They're ready for you, sir."
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Showtime."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48670",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "LEONARD",
+        "text": "Our numbers are through the roof.  The IPO's tracking at fifty, sixty a share.  The bank's five times oversubscribed --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "It's not just the money.  I could make money in my sleep."
+      },
+      {
+        "speaker": "LEONARD",
+        "text": "Then what is it?"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "History, Leonard.  <u>History</u>. Everything else is conversation...  How's the other matter?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48671",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "Leonard, how's the feed?"
+      },
+      {
+        "speaker": "LEONARD",
+        "text": "Recording, sir.  We see you perfectly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48672",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "How's the IPO?"
+      },
+      {
+        "speaker": "LEONARD",
+        "text": "Stable.  We're looking at low twenties.  It's a good number, considering the fallout from --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Reed's disaster.  You know, I half- think he did this to me on purpose."
+      },
+      {
+        "speaker": "LEONARD",
+        "text": "Sir, I'm sure he wouldn't put himself --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48673",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "Get me on the AM shows, Larry King, cover of the Journal...  I've <u>got to</u> do something about this scar.  Make sure they only shoot my right side."
+      },
+      {
+        "speaker": "LEONARD",
+        "text": "Actually, uh, people seem to think the scar \"humanizes\" you."
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "And that's a <u>good</u> thing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48674",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "LEONARD",
+        "text": "You know, maybe you should get some rest --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Later.  First, I've got some unfinished business.  A deal that needs closing..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48675",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "LEONARD",
+        "text": "Sir, I've always wondered... Why <u>Sue</u>? You could have any woman in the world but --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "<u>That's</u> why.  Because I could have any <u>other</u> woman... You know, when they asked Caesar \"why England,\" he said, \"because it's not <u>mine</u>.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48676",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "Make sure you find Ben, bring him back here.  And keep it quiet.  I don't need this to hit the press."
+      },
+      {
+        "speaker": "LEONARD",
+        "text": "Yes sir.  You've got the Mayor at eight, then a nine-thirty interview with the Journal --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Front page?"
+      },
+      {
+        "speaker": "LEONARD",
+        "text": "Top left, like you asked.  Today Wall Street.  Tomorrow, who knows...maybe Washington."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48677",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "But dreams don't pay the bills, do they?  Same old Reed, the hopeless optimist. Still reaching for the stars, with the world on your back."
+      },
+      {
+        "speaker": "REED",
+        "text": "You remember in school we talked about working together.  That's what I was about to explain..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48678",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "This isn't going to be a problem, is it?"
+      },
+      {
+        "speaker": "REED",
+        "text": "Not at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48679",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "You back this mission, and I'll sign over a fair percentage of any applications or --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "The number's <u>seventy-five</u>.  And it's applications <u>and</u> patents."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48680",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "Funny how things turn out, isn't it?"
+      },
+      {
+        "speaker": "REED",
+        "text": "Hilarious."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48681",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "Got it.  So take a walk, Ben...I'm going to borrow Susan for a second."
+      },
+      {
+        "speaker": "REED",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48682",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "We've got <u>minutes</u> until it hits, not hours...Victor, that storm's <u>deadly</u> -- the radiation's lethal.  We need to abort."
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Get a grip.  Reed.  We didn't come all this way to lose our nerve at the first little glitch.  Just close the shields..."
+      },
+      {
+        "speaker": "REED",
+        "text": "Ben's still out there --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "So reel him in.  But we came here to do a <u>job</u>.  So let's do it.  <u>Quickly</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48683",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Come on, Ben, come on..."
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Reed, we're running out of time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48684",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Not until Ben is back inside!"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "It's too late for him, and soon it'll be too late for all of us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48685",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "Just a little banged up.  A couple scrapes.  Why?"
+      },
+      {
+        "speaker": "REED",
+        "text": "Ben did this."
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "<u>Ben</u> did this?"
+      },
+      {
+        "speaker": "REED",
+        "text": "He's had some kind of...reaction to exposure from the cloud.  And he's not the only one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48686",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "I'm starting to wonder the same thing... How much do you know about what happened to you?"
+      },
+      {
+        "speaker": "REED",
+        "text": "Not much.  We need to run tests to see the extent of the damage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48687",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "VICTOR",
+        "text": "Didn't go as <u>planned</u>?  It was a <u>catastrophe</u>.  You ruined the lives of four people --"
+      },
+      {
+        "speaker": "REED",
+        "text": "<u>I</u> ruined?  With all due respect, I told you to abort --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "<u>Abort</u>?  Reed, I put my company, my name, billions of dollars on the line, and I will <u>not</u> let you make me look like a fool --"
+      },
+      {
+        "speaker": "REED",
+        "text": "Victor, if we could understand what happened to us --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "I don't want to <u>understand</u> it.  This isn't one of your science projects.  I just want to <u>fix</u> it.  <u>Fast</u>!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48688",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "What I <u>should</u> have done a long time ago.  Applications and patents, Reed. This all belongs to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48689",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "But I'm not done with the machine --"
+      },
+      {
+        "speaker": "VICTOR",
+        "text": "Which is precisely the <u>point</u>. Analysis is over.  It's time for <u>action</u>.  My men could have mass- produced this by now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48690",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "You're, you've, I mean, how have you bee--"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Never better."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48691",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Those solar winds are flaring, but I factored them into my coordinates and --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "I was talking about us.  Working together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48692",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Well, uh, based on our history...you can handle the biogenetics, and I'll focus on the molecular physics.  Or, uhm, maybe I should take the biotech, you work the microscopes, since you have some background in electropho--"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Right.  That's exactly what I meant."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48693",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "I, uh, think I remember the number."
+      },
+      {
+        "speaker": "SUE",
+        "text": "It's been changed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48694",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "As far as crew, I was hoping Ben could pilot the mission --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Well, he's welcome to ride shotgun, but we already have a pilot on our payroll.  You remember my brother Johnny..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48695",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Material made from self-regulating unstable molecules.  I've been working on a formula for this."
+      },
+      {
+        "speaker": "SUE",
+        "text": "Great minds think alike."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48696",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Feeling better?"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Yes, thanks."
+      },
+      {
+        "speaker": "REED",
+        "text": "That's good.  That's uh...good."
+      },
+      {
+        "speaker": "SUE",
+        "text": "You always had a way with words.  I should be getting back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48697",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "You're <u>happy</u> for me and Victor."
+      },
+      {
+        "speaker": "REED",
+        "text": "I can tell you guys are enjoying what was the best part of our relationship --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Which was?"
+      },
+      {
+        "speaker": "REED",
+        "text": "Passion."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48698",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "For science."
+      },
+      {
+        "speaker": "SUE",
+        "text": "You are such a dork, Reed... You never got it and never will unless it's explained to you in quantum physics."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48699",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Uh, Sue...?  I <u>can't</u>."
+      },
+      {
+        "speaker": "SUE",
+        "text": "What?  What do you mean you --"
+      },
+      {
+        "speaker": "REED",
+        "text": "Sue...<i>look at your hands</i>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48700",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "It has to be the cloud.  It's fundamentally altered our DNA."
+      },
+      {
+        "speaker": "REED",
+        "text": "Let's not jump to conclusions, we need a <i>massive amount of evidence</i> before making that leap."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48701",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "What?"
+      },
+      {
+        "speaker": "REED",
+        "text": "We need to get past them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48702",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "Sue.  Your clothes.  Lose them."
+      },
+      {
+        "speaker": "SUE",
+        "text": "What...?  <u>Oh</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48703",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "How come Ben can't turn it on and off like us?"
+      },
+      {
+        "speaker": "REED",
+        "text": "That's what we're here to find out."
+      },
+      {
+        "speaker": "SUE",
+        "text": "If it happened to him, then it could..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48704",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "It's not \"invisibility\" per se. You're bending the light around you with some kind of malleable force field.  That's what you projected on the Bridge."
+      },
+      {
+        "speaker": "SUE",
+        "text": "What about you?  You haven't eaten in days.  How come you're never on this side of the microscope?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48705",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "You should be able to bend light around other objects, even people, if you could control your emotional state better --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Excuse me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48706",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "I'm saying, if you had a little more self control, you could locate the trigger.  Can you remember the exact emotions when --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Anger.  Rage.  Frustration."
+      },
+      {
+        "speaker": "REED",
+        "text": "Okay.  Is there any way to duplicate that feeling?  Some memory or..."
+      },
+      {
+        "speaker": "SUE",
+        "text": "I'm sure I can come up with something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48707",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "I'm sorry, I'm sorry, I didn't mean to do that... You must think that was some kind of latent hostility or --"
+      },
+      {
+        "speaker": "REED",
+        "text": "What in the world would give me that idea?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48708",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "I mean, <u>you</u> broke up with <u>me</u>, right?"
+      },
+      {
+        "speaker": "SUE",
+        "text": "Are you kidding?"
+      },
+      {
+        "speaker": "REED",
+        "text": "No, I distinctly remember: <u>you</u> walked out <u>my</u> door.  Ergo..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48709",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "Reed.  I was ready for the next step, you weren't, ergo, I walked."
+      },
+      {
+        "speaker": "REED",
+        "text": "I think it was a little more complicated than --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "I just wanted to share an apartment. What was so complicated about that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48710",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "There were a lot of variables to consider --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "No.  There weren't.  There was <u>you</u>. And <u>me</u>.  No variables, no math.  It was actually the simplest thing in the world.  But your head got in the way... like it always does."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48711",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "SUE",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "REED",
+        "text": "The plants, from space.  Their particles are still charged.  With the right amount of energy, those ions could <u>create</u> the elemental profile of the cosmic storm."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_48712",
+    "movie_id": "m345",
+    "turns": [
+      {
+        "speaker": "REED",
+        "text": "If we can build a machine to re-create the storm, we can reverse the polarity --"
+      },
+      {
+        "speaker": "SUE",
+        "text": "And reverse the mutations --"
+      },
+      {
+        "speaker": "REED",
+        "text": "Curing countless diseases, not just ours."
+      }
+    ]
+  }
+]

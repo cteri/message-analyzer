@@ -1,0 +1,1001 @@
+ID,Q1: Age given,Q2: Age asked,Q3: Meet up request,Q4: Gift/Purchase,Q5: Videos/Photos
+conv_1,No,No,Yes - Cameron asks Bianca to try French cuisine on Saturday night,No,No
+conv_2,No,No,No,No,No
+conv_3,No,No,No,No,No
+conv_4,No,No,No,No,No
+conv_5,No,No,No,No,No
+conv_6,No,No,No,No,No
+conv_7,No,No,No,No,No
+conv_8,No,No,No,No,No
+conv_9,No,No,Yes - Reference to a planned date (previously arranged),No,No
+conv_10,No,No,No,No,No
+conv_11,No,No,No,No,No
+conv_12,No,No,Yes - Reference to wanting to go somewhere (context implies an event),No,No
+conv_13,No,No,No,No,Yes - Reference to finding a picture in a drawer
+conv_14,No,No,No,No,No
+conv_15,No,No,No,No,No
+conv_16,No,No,No,No,No
+conv_17,No,No,Yes - Reference to being at a party,No,No
+conv_18,No,No,No,No,No
+conv_19,No,No,No,No,No
+conv_20,No,No,No,No,No
+conv_21,No,No,No,No,No
+conv_22,No,No,No,No,No
+conv_23,No,No,"Yes - ""Let's go"" (implies immediate movement)",No,No
+conv_24,No,No,No,No,No
+conv_25,No,No,No,No,No
+conv_26,No,No,No,No,No
+conv_27,No,No,No,No,No
+conv_28,No,No,No,No,No
+conv_29,No,No,No,No,No
+conv_30,No,No,No,No,No
+conv_31,Yes - References being sophomores,No,No,No,No
+conv_32,Yes - References being sophomores at prom,No,Yes - Discussion about prom attendance,No,No
+conv_33,No,No,No,No,No
+conv_34,No,No,"Yes - Discussion about going to ""Bogey Lowenbrau's thing on Saturday""",No,No
+conv_35,No,No,No,No,Yes - Discussion of modeling/catalog work
+conv_36,No,No,No,No,Yes - More modeling discussion
+conv_37,No,No,No,No,No
+conv_38,No,No,Yes - Discussion about prom attendance,No,No
+conv_39,No,No,No,No,No
+conv_40,No,No,No,No,No
+conv_41,No,No,Yes - Club Skunk event and Bogey Lowenstein's party mentioned,No,No
+conv_42,No,No,Yes - Bogey Lowenstein's party mentioned again,No,No
+conv_43,No,No,No,No,No
+conv_44,No,No,No,No,No
+conv_45,No,No,No,No,No
+conv_46,No,No,No,No,No
+conv_47,No,No,No,No,No
+conv_48,Yes - References being a sophomore,No,Yes - Prom discussion,No,No
+conv_49,Yes - Reference to 9th grade,No,No,No,No
+conv_50,No,No,No,No,No
+conv_51,No,No,No,No,No
+conv_52,No,No,No,No,No
+conv_53,No,No,No,No,No
+conv_54,No,No,No,No,No
+conv_55,No,No,No,No,No
+conv_56,No,No,No,No,No
+conv_57,No,No,No,No,No
+conv_58,No,No,No,No,No
+conv_59,No,No,"Yes - Reference to ""small study group""/""party""",No,No
+conv_60,No,No,Yes - Party reference,No,No
+conv_61,No,No,Yes - Party reference,No,No
+conv_62,No,No,No,No,No
+conv_63,No,No,No,No,No
+conv_64,No,No,Yes - Prom discussion (tomorrow night),No,No
+conv_65,No,No,No,No,No
+conv_66,No,No,No,No,No
+conv_67,No,No,No,No,No
+conv_68,No,No,No,No,No
+conv_69,No,No,No,No,No
+conv_70,Yes - Reference to being a sophomore,No,No,No,No
+conv_71,No,No,No,No,No
+conv_72,No,No,No,No,No
+conv_73,No,No,No,No,No
+conv_74,No,No,No,No,No
+conv_75,No,No,No,No,No
+conv_76,No,No,No,No,No
+conv_77,No,No,No,No,No
+conv_78,No,No,No,No,No
+conv_79,No,No,Yes - Party planning discussion,No,No
+conv_80,No,No,No,No,No
+conv_81,No,No,No,No,No
+conv_82,No,No,No,No,No
+conv_83,No,No,No,No,No
+conv_84,No,No,No,No,No
+conv_85,No,No,No,No,No
+conv_86,No,No,No,No,No
+conv_87,No,No,No,No,No
+conv_88,No,No,No,No,No
+conv_89,No,No,No,No,No
+conv_90,No,No,No,No,No
+conv_91,No,No,No,No,No
+conv_92,No,No,No,No,No
+conv_93,No,No,No,No,No
+conv_94,No,No,No,No,No
+conv_95,No,No,No,No,No
+conv_96,No,No,No,No,No
+conv_97,No,No,No,No,Yes - Reference to Kmart spread/modeling
+conv_98,No,No,No,No,No
+conv_99,No,No,No,No,No
+conv_100,No,No,No,No,No
+conv_101,No,No,No,No,No
+conv_102,No,No,"Yes - Joey wants Patrick to ""go out with"" someone",No,No
+conv_103,No,No,Yes - Discussion about paying Patrick to take someone out,Yes - Joey offers to pay Patrick to take someone out,No
+conv_104,No,No,No,Yes - Discussion of payment ($20) for date,No
+conv_105,No,No,No,Yes - Negotiation of payment ($50),No
+conv_106,No,No,Yes - Reference to a date,Yes - Payment for date discussed,No
+conv_107,No,No,No,Yes - Price increased to $100 per date,No
+conv_108,No,No,No,Yes - Reference to payment deal,No
+conv_109,No,No,No,No,No
+conv_110,No,No,No,"Yes - Mentions expenses for limo, flowers, tux",No
+conv_111,No,No,No,No,No
+conv_112,No,No,Yes - Discussion about arranging dates,No,No
+conv_113,No,No,No,No,No
+conv_114,No,No,No,"Yes - Reference to being ""heavily invested""",No
+conv_115,No,No,No,No,"Yes - Reference to ""porn movies"" in rumor"
+conv_116,No,No,No,No,No
+conv_117,No,No,No,No,No
+conv_118,No,No,No,No,No
+conv_119,No,No,No,No,No
+conv_120,No,No,No,No,No
+conv_121,No,No,No,No,No
+conv_122,No,No,No,No,No
+conv_123,No,No,No,No,No
+conv_124,No,No,Yes - Reference to attending a party,No,No
+conv_125,No,No,Yes - Discussion about prom attendance,No,No
+conv_126,No,No,Yes - Reference to meeting someone,No,No
+conv_127,No,No,No,No,No
+conv_128,No,No,"Yes - ""Pick you up Friday""",No,No
+conv_129,No,No,Yes - Discussion about taking someone places,No,No
+conv_130,No,No,"Yes - Invitation to ""Dollar Night at the track"" at 7:30",No,No
+conv_131,No,No,No,No,No
+conv_132,No,No,No,No,No
+conv_133,No,No,No,No,No
+conv_134,No,No,No,No,No
+conv_135,No,No,No,No,No
+conv_136,No,No,Yes - Reference to being at a party,No,No
+conv_137,No,No,No,No,No
+conv_138,No,No,No,No,No
+conv_139,No,No,No,No,No
+conv_140,No,No,No,No,No
+conv_141,No,No,No,No,No
+conv_142,No,No,No,No,No
+conv_143,No,No,No,No,No
+conv_144,No,No,No,No,No
+conv_145,No,No,No,No,No
+conv_146,No,No,No,No,No
+conv_147,No,No,No,No,No
+conv_148,No,No,Yes - Reference to poetry reading attendance,No,No
+conv_149,No,No,No,No,No
+conv_150,No,No,No,No,No
+conv_151,No,No,No,No,No
+conv_152,No,No,No,No,No
+conv_153,No,No,No,No,No
+conv_154,No,No,No,No,No
+conv_155,No,No,No,No,No
+conv_156,No,No,No,No,"Yes - Reference to ""porn career"" rumor"
+conv_157,No,No,Yes - Invitation to prom,No,No
+conv_158,No,No,Yes - Discussion about prom invitation,No,No
+conv_159,No,No,No,No,No
+conv_160,No,No,Yes - Reference to attending prom,Yes - Discussion about tux and dress,No
+conv_161,No,No,No,No,No
+conv_162,No,No,No,No,No
+conv_163,No,No,No,Yes - Reference to payment for dates,No
+conv_164,No,No,No,Yes - Gift of a Fender Strat guitar,No
+conv_165,No,No,No,Yes - Reference to payment for dating,No
+conv_166,No,No,No,No,No
+conv_167,No,No,No,No,No
+conv_168,No,No,No,No,No
+conv_169,Yes - Mentions being 18,No,No,No,No
+conv_170,No,No,No,No,No
+conv_171,No,No,Yes - Reference to attending a dance,No,No
+conv_172,No,No,No,No,No
+conv_173,No,No,No,No,No
+conv_174,No,No,No,No,No
+conv_175,No,No,No,No,No
+conv_176,No,No,No,No,No
+conv_177,No,No,No,No,No
+conv_178,No,No,No,No,No
+conv_179,No,No,No,No,No
+conv_180,No,No,No,No,No
+conv_181,No,No,No,"Yes - Reference to ""cash"" payment",No
+conv_182,No,No,No,No,No
+conv_183,No,No,No,No,No
+conv_184,No,No,No,No,No
+conv_185,No,No,No,No,No
+conv_186,No,No,Yes - Reference to Club Skunk,No,No
+conv_187,No,No,No,No,No
+conv_188,No,No,No,"Yes - Reference to ""sweet-payin' job""",No
+conv_189,No,No,No,No,No
+conv_190,No,No,No,No,Yes - Reference to exposure incident
+conv_191,No,No,No,No,No
+conv_192,No,No,No,No,No
+conv_193,No,No,No,No,No
+conv_194,No,No,No,No,No
+conv_195,No,No,No,No,No
+conv_196,No,No,No,No,No
+conv_197,No,No,No,No,No
+conv_198,No,No,Yes - Reference to dancing and coming home,No,No
+conv_199,No,No,No,No,No
+conv_200,No,No,No,No,No
+conv_201,No,No,No,No,No
+conv_202,No,No,No,No,No
+conv_203,No,No,No,No,No
+conv_204,No,No,No,No,No
+conv_205,No,No,No,No,No
+conv_206,No,No,No,No,No
+conv_207,No,No,No,No,No
+conv_208,No,No,No,No,No
+conv_209,No,No,No,No,No
+conv_210,No,No,No,No,No
+conv_211,No,No,No,No,No
+conv_212,No,No,No,No,No
+conv_213,No,No,No,No,No
+conv_214,No,No,No,No,No
+conv_215,No,No,No,No,No
+conv_216,No,No,No,No,No
+conv_217,No,No,No,No,No
+conv_218,No,No,No,No,No
+conv_219,No,No,No,No,No
+conv_220,No,No,No,No,No
+conv_221,No,No,No,No,No
+conv_222,No,No,No,No,No
+conv_223,No,No,No,No,No
+conv_224,No,No,Yes - Columbus asks Beatrix to stay,No,No
+conv_225,No,No,No,No,No
+conv_226,No,No,No,No,No
+conv_227,No,No,No,No,No
+conv_228,No,No,No,No,No
+conv_229,No,No,No,No,No
+conv_230,No,No,Yes - Discussion about going somewhere in future,No,No
+conv_231,No,No,No,No,No
+conv_232,No,No,Yes - Discussion about exploring mainland together,No,No
+conv_233,No,No,No,No,No
+conv_234,No,No,No,No,No
+conv_235,No,No,No,No,No
+conv_236,No,No,Yes - Discussion about someone visiting,No,No
+conv_237,No,No,No,No,No
+conv_238,No,No,No,No,No
+conv_239,No,No,No,No,No
+conv_240,No,No,No,No,No
+conv_241,No,No,No,No,No
+conv_242,No,No,No,No,No
+conv_243,No,No,No,No,No
+conv_244,No,No,No,No,No
+conv_245,No,No,No,No,No
+conv_246,No,No,No,No,No
+conv_247,No,No,No,No,No
+conv_248,No,No,No,No,No
+conv_249,No,No,No,No,No
+conv_250,No,No,No,No,No
+conv_251,No,No,No,No,No
+conv_252,No,No,No,No,No
+conv_253,No,No,No,No,No
+conv_254,No,No,No,No,No
+conv_255,No,No,No,No,No
+conv_256,No,No,Yes - Meeting scheduled in a week,No,No
+conv_257,No,No,No,No,No
+conv_258,No,No,No,No,No
+conv_259,No,No,No,No,No
+conv_260,No,No,No,No,No
+conv_261,No,No,No,No,No
+conv_262,No,No,No,No,No
+conv_263,No,No,No,No,No
+conv_264,No,No,No,No,No
+conv_265,No,No,No,No,No
+conv_266,No,No,No,No,No
+conv_267,No,No,No,No,No
+conv_268,No,No,No,No,No
+conv_269,No,No,No,No,No
+conv_270,No,No,No,No,No
+conv_271,No,No,No,No,No
+conv_272,No,No,No,No,No
+conv_273,Yes - Both characters state being 37,Yes - Isabel asks Columbus's age,No,No,No
+conv_274,No,No,No,No,No
+conv_275,No,No,No,No,No
+conv_276,No,No,No,No,No
+conv_277,No,No,No,No,No
+conv_278,No,No,No,No,No
+conv_279,No,No,No,No,No
+conv_280,No,No,No,No,No
+conv_281,No,No,No,No,No
+conv_282,No,No,No,No,No
+conv_283,No,No,No,No,No
+conv_284,No,No,No,No,No
+conv_285,No,No,No,No,No
+conv_286,No,No,Yes - Discussion about meeting immediately,No,No
+conv_287,No,No,No,No,No
+conv_288,No,No,No,No,No
+conv_289,No,No,No,No,No
+conv_290,No,No,Yes - Request to call someone back,No,No
+conv_291,No,No,No,No,No
+conv_292,No,No,No,No,No
+conv_293,No,No,No,No,No
+conv_294,No,No,No,No,No
+conv_295,No,No,No,No,No
+conv_296,No,No,No,No,Yes - Reference to camera and movie being taken
+conv_297,No,No,Yes - Going somewhere together,No,No
+conv_298,No,No,No,No,No
+conv_299,No,No,No,No,Yes - Discussion about movie rights
+conv_300,No,No,No,No,No
+conv_301,No,No,No,No,No
+conv_302,No,No,No,No,No
+conv_303,No,No,No,No,No
+conv_304,No,No,No,No,No
+conv_305,No,No,No,No,No
+conv_306,No,No,Yes - Request to go to Jordy's place to take a shower,No,No
+conv_307,No,No,"Yes - Asks about going ""somewhere else""",No,No
+conv_308,No,No,Yes - Going to empty fire station,No,No
+conv_309,No,No,No,No,No
+conv_310,No,No,No,No,No
+conv_311,No,No,No,No,No
+conv_312,No,No,No,No,No
+conv_313,No,No,No,No,No
+conv_314,No,No,No,No,No
+conv_315,No,No,No,No,No
+conv_316,No,No,No,No,No
+conv_317,No,No,No,No,No
+conv_318,No,No,No,No,No
+conv_319,No,No,No,No,No
+conv_320,No,No,No,No,No
+conv_321,No,No,No,No,No
+conv_322,No,No,No,No,No
+conv_323,No,No,No,No,No
+conv_324,No,No,No,No,No
+conv_325,No,No,No,No,No
+conv_326,No,No,No,No,No
+conv_327,No,No,No,No,No
+conv_328,No,No,No,No,No
+conv_329,No,No,No,No,No
+conv_330,No,No,No,No,No
+conv_331,No,No,No,No,No
+conv_332,No,No,No,No,No
+conv_333,No,No,No,No,No
+conv_334,No,No,No,No,No
+conv_335,No,No,No,No,No
+conv_336,No,No,No,No,No
+conv_337,No,No,No,No,No
+conv_338,No,No,No,No,No
+conv_339,No,No,No,No,No
+conv_340,No,No,No,No,Yes - Reference to filming
+conv_341,No,No,No,No,No
+conv_342,No,No,No,No,No
+conv_343,No,No,No,No,No
+conv_344,No,No,No,No,No
+conv_345,No,No,No,No,Yes - Reference to videocamera
+conv_346,No,No,No,No,No
+conv_347,No,No,No,No,No
+conv_348,No,No,No,No,Yes - Reference to watching TV
+conv_349,No,No,No,No,No
+conv_350,No,No,No,No,No
+conv_351,No,No,No,No,No
+conv_352,No,No,No,No,No
+conv_353,No,No,No,No,No
+conv_354,No,No,Yes - Request to ride along,No,No
+conv_355,No,No,Yes - Discussion about coming along,No,No
+conv_356,No,No,No,No,No
+conv_357,No,No,No,No,No
+conv_358,No,No,No,No,No
+conv_359,No,No,No,No,No
+conv_360,No,No,No,No,No
+conv_361,No,No,No,No,No
+conv_362,No,No,Yes - Request to talk alone,No,No
+conv_363,No,No,No,No,No
+conv_364,No,No,No,No,No
+conv_365,No,No,No,No,No
+conv_366,No,No,No,No,No
+conv_367,No,No,No,No,Yes - Discussion about making a movie
+conv_368,No,No,No,No,Yes - Reference to filming
+conv_369,No,No,No,No,No
+conv_370,No,No,Yes - Request to go to crime scene,No,No
+conv_371,No,No,No,No,No
+conv_372,No,No,No,No,Yes - Reference to filming
+conv_373,No,No,No,No,No
+conv_374,No,No,No,No,No
+conv_375,No,No,No,No,No
+conv_376,No,No,No,No,No
+conv_377,No,No,No,No,No
+conv_378,No,No,No,No,No
+conv_379,No,No,Yes - Plans to meet later,No,No
+conv_380,No,No,No,No,No
+conv_381,No,No,No,No,No
+conv_382,No,No,No,No,No
+conv_383,No,No,No,No,No
+conv_384,No,No,Yes - Reference to going to a party,No,No
+conv_385,No,No,No,No,No
+conv_386,No,No,No,No,No
+conv_387,No,No,No,No,No
+conv_388,No,No,No,No,No
+conv_389,No,No,No,No,No
+conv_390,No,No,Yes - Request to meet at 45 Broadway at 4 o'clock,No,No
+conv_391,No,No,No,No,No
+conv_392,No,No,No,No,No
+conv_393,No,No,No,No,No
+conv_394,No,No,No,No,No
+conv_395,No,No,No,No,No
+conv_396,No,No,No,No,No
+conv_397,No,No,No,No,No
+conv_398,No,No,No,No,No
+conv_399,No,No,No,No,No
+conv_400,No,No,No,No,No
+conv_401,No,No,No,No,No
+conv_402,No,No,No,No,No
+conv_403,No,No,No,No,No
+conv_404,No,No,No,No,No
+conv_405,No,No,No,No,No
+conv_406,No,No,No,Yes - Discusses magazine purchase,No
+conv_407,No,No,No,No,No
+conv_408,No,No,No,No,No
+conv_409,No,No,No,No,Yes - References documenting trip
+conv_410,No,No,No,No,No
+conv_411,No,No,No,No,Yes - Discusses videocameras
+conv_412,No,No,No,No,No
+conv_413,No,No,No,No,No
+conv_414,No,No,No,No,Yes - Reference to filming
+conv_415,No,No,No,No,Yes - References camera
+conv_416,No,No,No,No,No
+conv_417,No,No,No,No,No
+conv_418,No,No,No,No,Yes - References filming scene
+conv_419,No,No,No,No,Yes - References filming
+conv_420,No,No,No,No,Yes - References video and camera
+conv_421,No,No,No,No,No
+conv_422,No,No,No,No,Yes - References getting a shot
+conv_423,No,No,No,No,Yes - References filming murders
+conv_424,No,No,No,No,Yes - References camera operation
+conv_425,No,No,No,No,No
+conv_426,No,No,No,No,Yes - References movie making
+conv_427,No,No,No,No,No
+conv_428,No,No,No,No,Yes - References directing/filming
+conv_429,No,No,No,No,Yes - References tape/filming
+conv_430,No,No,No,No,Yes - References film making
+conv_431,No,No,No,No,Yes - References video and credits
+conv_432,No,No,No,No,No
+conv_433,No,No,No,No,Yes - References directing
+conv_434,No,No,No,No,No
+conv_435,No,No,No,No,No
+conv_436,No,No,No,No,No
+conv_437,No,No,No,No,No
+conv_438,No,No,No,No,No
+conv_439,No,No,No,No,No
+conv_440,No,No,No,No,Yes - References tape
+conv_441,No,No,No,No,No
+conv_442,No,No,No,No,No
+conv_443,No,No,No,No,Yes - References footage
+conv_444,No,No,No,No,No
+conv_445,No,No,No,No,No
+conv_446,No,No,No,No,No
+conv_447,No,No,No,No,No
+conv_448,No,No,No,No,No
+conv_449,No,No,No,No,No
+conv_450,No,No,No,No,No
+conv_451,No,No,No,No,No
+conv_452,No,No,No,No,No
+conv_453,No,No,No,No,No
+conv_454,No,No,No,No,No
+conv_455,No,No,No,No,No
+conv_456,No,No,No,No,No
+conv_457,No,No,No,No,No
+conv_458,No,No,No,No,No
+conv_459,No,No,No,No,No
+conv_460,No,No,No,No,No
+conv_461,No,No,No,No,No
+conv_462,No,No,No,No,No
+conv_463,No,No,No,No,Yes - References movie making
+conv_464,No,No,No,No,No
+conv_465,No,No,No,No,No
+conv_466,No,No,No,No,No
+conv_467,No,No,No,No,No
+conv_468,No,No,No,No,No
+conv_469,No,No,No,No,No
+conv_470,No,No,No,No,Yes - References videotape
+conv_471,No,No,No,No,No
+conv_472,No,No,No,No,Yes - References movie making
+conv_473,No,No,No,No,No
+conv_474,No,No,No,No,No
+conv_475,No,No,No,No,No
+conv_476,No,No,No,No,No
+conv_477,No,No,No,No,No
+conv_478,No,No,No,No,No
+conv_479,No,No,No,No,No
+conv_480,No,No,No,No,No
+conv_481,No,No,No,No,No
+conv_482,No,No,No,No,No
+conv_483,No,No,No,No,No
+conv_484,No,No,No,No,No
+conv_485,No,No,No,No,No
+conv_486,No,No,No,No,No
+conv_487,No,No,No,No,No
+conv_488,No,No,No,No,No
+conv_489,No,No,No,No,No
+conv_490,No,No,No,No,No
+conv_491,No,No,No,No,No
+conv_492,No,No,No,No,No
+conv_493,No,No,No,No,No
+conv_494,No,No,No,No,No
+conv_495,No,No,No,No,No
+conv_496,No,No,No,No,No
+conv_497,No,No,No,No,No
+conv_498,No,No,No,No,No
+conv_499,No,No,No,No,No
+conv_500,No,No,No,No,No
+conv_501,No,No,No,No,No
+conv_502,No,No,No,No,No
+conv_503,No,No,No,No,No
+conv_504,No,No,No,No,No
+conv_505,No,No,No,No,No
+conv_506,No,No,No,No,No
+conv_507,No,No,No,No,No
+conv_508,No,No,No,No,No
+conv_509,No,No,No,No,No
+conv_510,No,No,No,No,No
+conv_511,No,No,Yes - Child mentions having a party tomorrow,No,No
+conv_512,No,No,No,No,No
+conv_513,No,No,Yes - Reference to birthday party tomorrow,No,No
+conv_514,No,No,No,No,No
+conv_515,No,No,No,No,No
+conv_516,No,No,No,No,No
+conv_517,No,No,No,No,No
+conv_518,No,No,No,No,No
+conv_519,No,No,Yes - Reference to IAC conference in June,No,No
+conv_520,No,No,No,No,No
+conv_521,No,No,No,No,No
+conv_522,No,No,No,No,No
+conv_523,No,No,No,No,No
+conv_524,No,No,Yes - Discussion about going to moon base,No,No
+conv_525,No,No,No,No,No
+conv_526,No,No,No,No,No
+conv_527,No,No,No,No,No
+conv_528,No,No,No,No,No
+conv_529,No,No,No,No,No
+conv_530,No,No,No,No,No
+conv_531,No,No,No,No,No
+conv_532,No,No,No,No,No
+conv_533,No,No,No,No,No
+conv_534,No,No,No,No,No
+conv_535,No,No,No,No,No
+conv_536,No,No,No,No,No
+conv_537,No,No,No,No,No
+conv_538,No,No,No,No,No
+conv_539,No,No,No,No,No
+conv_540,No,No,No,No,No
+conv_541,No,No,No,No,No
+conv_542,No,No,No,No,No
+conv_543,No,No,No,No,No
+conv_544,No,No,No,No,No
+conv_545,No,No,No,No,No
+conv_546,No,No,No,No,No
+conv_547,No,No,No,No,No
+conv_548,No,No,No,No,No
+conv_549,No,No,No,No,No
+conv_550,No,No,No,No,No
+conv_551,No,No,No,No,No
+conv_552,No,No,No,No,No
+conv_553,No,No,No,No,No
+conv_554,No,No,No,No,No
+conv_555,No,No,Yes - Discussion about getting girls,Yes - Reference to buying girls,No
+conv_556,No,No,Yes - Discussion about paying for girls,Yes - Discussion about paying for girls,No
+conv_557,No,No,No,No,No
+conv_558,No,No,No,No,No
+conv_559,No,No,No,No,No
+conv_560,No,No,No,No,No
+conv_561,No,No,Yes - Suggestion to go to a place across the street,No,No
+conv_562,No,No,No,No,No
+conv_563,No,No,Yes - Reference to having a party,No,No
+conv_564,No,No,No,Yes - Offering money,No
+conv_565,No,No,Yes - Offer of dinner and dancing,No,No
+conv_566,No,No,No,No,No
+conv_567,No,No,No,No,No
+conv_568,No,No,No,No,No
+conv_569,No,No,No,No,No
+conv_570,No,No,No,No,No
+conv_571,No,No,No,No,No
+conv_572,No,No,No,No,No
+conv_573,No,No,No,No,No
+conv_574,No,No,No,No,No
+conv_575,No,No,No,No,No
+conv_576,No,No,No,No,No
+conv_577,No,No,No,No,No
+conv_578,No,No,No,No,No
+conv_579,No,No,No,No,No
+conv_580,No,No,No,No,No
+conv_581,No,No,No,No,No
+conv_582,No,No,No,No,No
+conv_583,No,No,No,No,No
+conv_584,No,No,No,No,No
+conv_585,No,No,No,No,No
+conv_586,No,No,No,No,No
+conv_587,No,No,No,No,No
+conv_588,No,No,No,No,No
+conv_589,No,No,No,No,No
+conv_590,No,No,No,No,No
+conv_591,No,No,No,No,No
+conv_592,No,No,No,No,No
+conv_593,No,No,No,No,No
+conv_594,No,No,No,No,No
+conv_595,No,No,No,No,No
+conv_596,No,No,No,No,No
+conv_597,No,No,No,No,No
+conv_598,No,No,No,No,No
+conv_599,No,No,No,No,No
+conv_600,No,No,No,No,No
+conv_601,No,No,No,No,No
+conv_602,No,No,No,No,No
+conv_603,No,No,No,No,No
+conv_604,No,No,No,No,No
+conv_605,No,No,"Yes - Hammond suggests ""going a few laps"" with ladies after mentioning being in prison",No,No
+conv_606,No,No,No,No,No
+conv_607,No,No,No,No,No
+conv_608,No,No,No,No,No
+conv_609,No,No,No,No,No
+conv_610,No,No,No,No,No
+conv_611,No,No,No,No,No
+conv_612,No,No,No,No,No
+conv_613,No,No,No,No,No
+conv_614,No,No,No,No,No
+conv_615,No,No,No,No,No
+conv_616,No,No,No,No,No
+conv_617,No,No,No,No,No
+conv_618,No,No,No,No,No
+conv_619,No,No,No,No,No
+conv_620,No,No,No,No,No
+conv_621,No,No,No,No,No
+conv_622,No,No,No,No,No
+conv_623,No,No,No,No,No
+conv_624,No,No,No,No,No
+conv_625,No,No,No,No,No
+conv_626,No,No,No,No,No
+conv_627,No,No,No,No,No
+conv_628,No,No,No,No,No
+conv_629,No,No,Yes - Hammond tells Cates he's at Vroman's in the Fillmore,No,No
+conv_630,No,No,No,No,No
+conv_631,No,No,No,No,No
+conv_632,No,No,No,No,No
+conv_633,No,No,No,No,No
+conv_634,No,No,No,No,No
+conv_635,No,No,No,No,No
+conv_636,No,No,No,No,No
+conv_637,No,No,Yes - Hammond suggests taking someone to Luther's hotel,No,No
+conv_638,No,No,No,No,No
+conv_639,No,No,No,No,No
+conv_640,No,No,Yes - Cates offers to buy Hammond a drink as a goodbye present,No,No
+conv_641,No,No,No,No,No
+conv_642,No,No,No,No,No
+conv_643,No,No,No,No,No
+conv_644,No,No,No,No,No
+conv_645,No,No,No,No,No
+conv_646,No,No,No,No,No
+conv_647,No,No,No,No,No
+conv_648,No,No,No,No,No
+conv_649,No,No,No,No,No
+conv_650,No,No,No,No,No
+conv_651,No,No,No,No,No
+conv_652,No,No,No,No,No
+conv_653,No,No,No,No,No
+conv_654,No,No,No,No,No
+conv_655,No,No,No,No,No
+conv_656,No,No,No,No,No
+conv_657,No,No,No,No,No
+conv_658,No,No,No,No,No
+conv_659,No,No,No,No,No
+conv_660,No,No,No,No,No
+conv_661,No,No,No,No,No
+conv_662,No,No,No,No,No
+conv_663,No,No,No,No,No
+conv_664,No,No,No,No,No
+conv_665,No,No,No,No,No
+conv_666,No,No,No,No,No
+conv_667,No,No,No,No,No
+conv_668,No,No,No,No,No
+conv_669,No,No,No,No,No
+conv_670,No,No,No,No,No
+conv_671,No,No,No,No,No
+conv_672,No,No,No,No,No
+conv_673,No,No,No,No,No
+conv_674,No,No,No,No,No
+conv_675,No,No,No,No,No
+conv_676,No,No,No,No,No
+conv_677,No,No,No,No,No
+conv_678,No,No,No,No,No
+conv_679,No,No,No,No,No
+conv_680,No,No,No,No,No
+conv_681,No,No,No,No,No
+conv_682,No,No,Yes - Elaine suggests coming over to Cates' place,No,No
+conv_683,No,No,Yes - Discussion about Cates coming by,No,No
+conv_684,No,No,No,No,No
+conv_685,No,No,No,No,No
+conv_686,No,No,No,No,No
+conv_687,No,No,No,No,No
+conv_688,No,No,No,No,No
+conv_689,No,No,No,No,No
+conv_690,No,No,No,No,No
+conv_691,No,No,Yes - Reference to meeting after work,No,No
+conv_692,No,No,No,No,No
+conv_693,No,No,No,No,No
+conv_694,No,No,No,No,No
+conv_695,No,No,No,No,No
+conv_696,No,No,No,No,No
+conv_697,No,No,No,No,No
+conv_698,No,No,No,No,No
+conv_699,No,No,No,No,No
+conv_700,No,No,No,No,No
+conv_701,No,No,"Yes - Cates tells Reggie ""Let's go""",No,No
+conv_702,No,No,No,No,No
+conv_703,No,No,No,No,No
+conv_704,No,No,No,No,No
+conv_705,No,No,No,No,No
+conv_706,No,No,No,No,No
+conv_707,No,No,No,No,No
+conv_708,No,No,No,No,No
+conv_709,No,No,No,No,No
+conv_710,No,No,No,No,No
+conv_711,No,No,No,No,No
+conv_712,No,No,No,No,No
+conv_713,No,No,No,No,No
+conv_714,No,No,"Yes - ""We'll follow you""",No,No
+conv_715,No,No,No,No,No
+conv_716,No,No,No,No,No
+conv_717,No,No,No,No,No
+conv_718,No,No,No,No,No
+conv_719,No,No,No,No,No
+conv_720,No,No,No,No,No
+conv_721,No,No,"Yes - ""You want to go outside?""",No,No
+conv_722,No,No,No,No,No
+conv_723,No,No,No,No,No
+conv_724,No,No,No,No,No
+conv_725,No,No,No,No,No
+conv_726,No,No,No,No,No
+conv_727,No,No,No,No,No
+conv_728,No,No,No,No,No
+conv_729,No,No,No,No,No
+conv_730,No,No,No,No,No
+conv_731,No,No,No,No,No
+conv_732,No,No,No,No,No
+conv_733,No,No,No,No,No
+conv_734,No,No,No,No,No
+conv_735,No,No,No,No,No
+conv_736,No,No,No,No,No
+conv_737,No,No,No,No,No
+conv_738,No,No,No,No,No
+conv_739,No,No,No,No,No
+conv_740,No,No,No,No,No
+conv_741,No,No,No,No,No
+conv_742,No,No,No,No,No
+conv_743,No,No,No,No,No
+conv_744,No,No,No,No,No
+conv_745,No,No,No,No,No
+conv_746,No,No,Yes - Mission to save the world mentioned,No,No
+conv_747,No,No,No,No,No
+conv_748,No,No,No,No,No
+conv_749,No,No,No,No,No
+conv_750,No,No,No,No,No
+conv_751,No,No,No,No,No
+conv_752,No,No,No,No,No
+conv_753,No,No,No,No,No
+conv_754,No,No,No,No,No
+conv_755,No,No,No,No,No
+conv_756,No,No,No,No,No
+conv_757,No,No,No,No,No
+conv_758,No,No,No,No,No
+conv_759,No,No,No,No,No
+conv_760,No,No,No,No,No
+conv_761,No,No,No,No,No
+conv_762,No,No,No,No,No
+conv_763,No,No,No,No,No
+conv_764,No,No,No,No,No
+conv_765,No,No,No,No,No
+conv_766,No,No,No,No,No
+conv_767,No,No,No,No,No
+conv_768,No,No,No,No,No
+conv_769,No,No,No,No,No
+conv_770,No,No,No,No,No
+conv_771,No,No,No,No,No
+conv_772,No,No,No,No,No
+conv_773,No,No,No,No,No
+conv_774,No,No,No,No,No
+conv_775,No,No,No,No,Yes - Reference to finding a picture
+conv_776,No,No,No,No,No
+conv_777,No,No,No,No,No
+conv_778,No,No,No,No,No
+conv_779,No,No,No,No,No
+conv_780,No,No,No,No,No
+conv_781,No,No,Yes - Offer to go to a doctor,No,No
+conv_782,No,No,No,No,No
+conv_783,No,No,No,No,No
+conv_784,No,No,No,No,No
+conv_785,No,No,No,No,No
+conv_786,No,No,No,No,No
+conv_787,No,No,No,No,No
+conv_788,No,No,No,No,No
+conv_789,No,No,No,No,No
+conv_790,No,No,No,No,No
+conv_791,No,No,No,No,No
+conv_792,No,No,Yes - Reference to trip to Fhloston Paradise,No,No
+conv_793,No,No,No,No,No
+conv_794,No,No,No,No,No
+conv_795,No,No,No,No,No
+conv_796,No,No,No,No,No
+conv_797,No,No,No,No,No
+conv_798,No,No,No,No,No
+conv_799,No,No,No,No,No
+conv_800,No,No,No,No,No
+conv_801,No,No,Yes - Radio show meetup mentioned (5 to 7),No,No
+conv_802,No,No,Yes - Radio show tomorrow between 5 and 7,No,No
+conv_803,No,No,Yes - Request to take to bar,No,No
+conv_804,No,No,No,No,No
+conv_805,No,No,No,No,No
+conv_806,No,No,"Yes - ""Not without Leeloo"" implies meeting",No,No
+conv_807,No,No,"Yes - ""I'll be right back"" implies meeting",No,No
+conv_808,No,No,No,No,No
+conv_809,No,No,No,No,No
+conv_810,No,No,"Yes - Reference to ""tomorrow for another adventure""",No,No
+conv_811,No,No,No,No,No
+conv_812,No,No,No,No,No
+conv_813,No,No,Yes - Mission to Fhloston Paradise,No,No
+conv_814,No,No,No,No,No
+conv_815,No,No,Yes - Trip to Fhloston Paradise mentioned,No,No
+conv_816,No,No,No,No,No
+conv_817,No,No,No,No,No
+conv_818,No,No,No,No,No
+conv_819,No,No,"Yes - ""Set up another meeting"" mentioned",No,No
+conv_820,No,No,No,No,No
+conv_821,No,No,No,No,No
+conv_822,No,No,No,No,No
+conv_823,No,No,Yes - Reference to honeymoon trip,No,No
+conv_824,No,No,No,No,No
+conv_825,No,No,No,No,No
+conv_826,No,No,No,No,No
+conv_827,No,No,No,No,No
+conv_828,No,No,No,No,No
+conv_829,No,No,No,No,No
+conv_830,No,No,Yes - Going to see Diva sing,No,No
+conv_831,No,No,No,No,No
+conv_832,No,No,No,No,No
+conv_833,No,No,No,No,No
+conv_834,No,No,No,No,No
+conv_835,No,No,Yes - Mention of vacation,No,No
+conv_836,No,No,No,No,No
+conv_837,No,No,No,No,No
+conv_838,No,No,No,No,No
+conv_839,No,No,No,No,No
+conv_840,No,No,Yes - Reference to lunch,No,No
+conv_841,No,No,No,No,No
+conv_842,No,No,No,No,No
+conv_843,No,No,No,No,No
+conv_844,No,No,No,No,No
+conv_845,No,No,No,No,No
+conv_846,No,No,No,No,No
+conv_847,No,No,No,No,No
+conv_848,No,No,No,No,No
+conv_849,No,No,No,No,No
+conv_850,No,No,No,No,No
+conv_851,No,No,No,No,No
+conv_852,No,No,No,No,No
+conv_853,No,No,No,No,No
+conv_854,No,No,No,No,No
+conv_855,No,No,No,No,No
+conv_856,No,No,No,No,No
+conv_857,No,No,No,No,No
+conv_858,No,No,No,No,No
+conv_859,No,No,No,No,No
+conv_860,No,No,No,No,No
+conv_861,No,No,Yes - Reference to concert,No,No
+conv_862,No,No,No,No,No
+conv_863,No,No,No,No,No
+conv_864,No,No,No,No,No
+conv_865,No,No,No,No,No
+conv_866,No,No,No,No,No
+conv_867,No,No,No,No,No
+conv_868,No,No,No,No,No
+conv_869,No,No,No,No,No
+conv_870,No,No,Yes - Bridge game next week mentioned,No,No
+conv_871,No,No,Yes - Reference to coming back in two months,No,No
+conv_872,No,No,No,No,No
+conv_873,No,No,Yes - Coming back to house in three hours,No,No
+conv_874,No,No,No,No,No
+conv_875,No,No,No,No,No
+conv_876,No,No,No,No,No
+conv_877,No,No,No,No,No
+conv_878,No,No,No,No,No
+conv_879,No,No,No,No,No
+conv_880,No,No,No,No,Yes - Reference to films
+conv_881,No,No,No,No,Yes - Discussion of films
+conv_882,No,No,No,No,No
+conv_883,No,No,No,No,No
+conv_884,No,No,Yes - Meeting in person,No,No
+conv_885,No,No,No,No,No
+conv_886,No,No,No,No,No
+conv_887,No,No,No,No,Yes - Reference to filming
+conv_888,No,No,No,No,No
+conv_889,No,No,No,No,Yes - Discussion about taking pictures
+conv_890,No,No,No,No,No
+conv_891,No,No,Yes - Meeting in Brooklyn,No,No
+conv_892,No,No,No,No,No
+conv_893,No,No,Yes - Waiting for people to arrive,No,No
+conv_894,No,No,No,No,No
+conv_895,No,No,No,No,No
+conv_896,No,No,No,No,No
+conv_897,No,No,No,No,No
+conv_898,No,No,No,No,No
+conv_899,No,No,Yes - Reference to meeting in city,No,No
+conv_900,No,No,No,No,No
+conv_901,No,No,No,No,No
+conv_902,No,No,No,No,No
+conv_903,No,No,No,No,Yes - Reference to watching something
+conv_904,No,No,No,No,No
+conv_905,No,No,No,No,No
+conv_906,No,No,No,No,No
+conv_907,No,No,No,No,No
+conv_908,No,No,No,No,No
+conv_909,No,No,No,No,No
+conv_910,No,No,No,No,No
+conv_911,No,No,No,No,No
+conv_912,No,No,No,No,No
+conv_913,No,No,No,No,No
+conv_914,No,No,No,No,No
+conv_915,No,No,No,No,No
+conv_916,No,No,No,No,No
+conv_917,No,No,No,No,No
+conv_918,No,No,No,No,No
+conv_919,No,No,No,No,No
+conv_920,No,No,No,No,No
+conv_921,No,No,No,No,Yes - Reference to tapes
+conv_922,No,No,No,No,No
+conv_923,No,No,No,No,Yes - Reference to film
+conv_924,No,No,No,No,No
+conv_925,No,No,No,No,No
+conv_926,No,No,No,No,No
+conv_927,No,No,No,No,No
+conv_928,No,No,No,No,Yes - Reference to film
+conv_929,No,No,No,No,No
+conv_930,No,No,No,No,No
+conv_931,No,No,No,No,No
+conv_932,No,No,No,No,No
+conv_933,No,No,No,No,No
+conv_934,No,No,No,No,No
+conv_935,No,No,No,No,No
+conv_936,No,No,No,No,No
+conv_937,No,No,No,No,No
+conv_938,No,No,No,No,No
+conv_939,No,No,No,No,Yes - Discussion about pornography
+conv_940,Yes - States age as 25,No,No,No,No
+conv_941,No,No,No,No,Yes - Reference to films
+conv_942,No,No,No,No,No
+conv_943,No,No,No,No,No
+conv_944,No,No,No,No,No
+conv_945,No,No,No,No,No
+conv_946,No,No,No,No,No
+conv_947,No,No,No,No,No
+conv_948,No,No,No,No,No
+conv_949,No,No,No,No,No
+conv_950,No,No,No,No,No
+conv_951,No,No,No,No,No
+conv_952,No,No,No,No,No
+conv_953,No,No,No,No,No
+conv_954,No,No,No,No,No
+conv_955,No,No,No,No,No
+conv_956,No,No,No,No,No
+conv_957,No,No,No,No,No
+conv_958,No,No,No,No,No
+conv_959,No,No,No,No,No
+conv_960,No,No,No,No,Yes - Reference to film
+conv_961,No,No,No,No,Yes - Reference to film
+conv_962,No,No,No,No,Yes - Discussion about film
+conv_963,No,No,No,No,Yes - Reference to film
+conv_964,No,No,No,No,No
+conv_965,No,No,No,No,No
+conv_966,No,No,No,No,No
+conv_967,No,No,No,No,No
+conv_968,No,No,No,No,No
+conv_969,No,No,No,No,No
+conv_970,No,No,No,No,No
+conv_971,No,No,No,No,No
+conv_972,No,No,No,No,No
+conv_973,No,No,No,No,No
+conv_974,No,No,No,No,No
+conv_975,No,No,No,No,No
+conv_976,No,No,No,No,No
+conv_977,No,No,No,No,No
+conv_978,No,No,No,No,No
+conv_979,No,No,No,No,No
+conv_980,No,No,No,No,No
+conv_981,No,No,No,No,No
+conv_982,No,No,No,No,No
+conv_983,No,No,No,No,No
+conv_984,No,No,No,No,No
+conv_985,No,No,No,No,No
+conv_986,No,No,No,No,No
+conv_987,No,No,No,No,No
+conv_988,No,No,No,No,No
+conv_989,No,No,No,No,No
+conv_990,No,No,No,No,No
+conv_991,No,No,No,No,No
+conv_992,No,No,No,No,No
+conv_993,No,No,No,No,No
+conv_994,No,No,No,No,No
+conv_995,No,No,No,No,No
+conv_996,No,No,No,No,No
+conv_997,No,No,No,No,No
+conv_998,No,No,No,No,No
+conv_999,No,No,No,No,No
+conv_1000,No,No,No,No,No

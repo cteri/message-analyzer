@@ -1,0 +1,2582 @@
+[
+  {
+    "conversation_id": "conv_33601",
+    "movie_id": "m237",
+    "turns": [
+      {
+        "speaker": "PARSONS",
+        "text": "Today's party's finished their sweep, the relief team's out there now. Everybody else is either asleep or running shift in the auto-shop."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "You should hit the sack, too."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "Nah, I'll stick it out for another hour or so."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "What time's sundown?"
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "'Bout five minutes."
+      },
+      {
+        "speaker": "KAMEN",
+        "text": "Give me a yell is something happens."
+      },
+      {
+        "speaker": "PARSONS",
+        "text": "You got it, cowboy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33602",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Hello, there. Who are you?"
+      },
+      {
+        "speaker": "GIRL",
+        "text": "Miss Harrington's resting, Mr. deWitt. She asked me to see who it is..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "We won't disturb her rest. It seems she left her award in the taxicab. Will you give it to her?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33603",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "How do you know my name?"
+      },
+      {
+        "speaker": "GIRL",
+        "text": "It's a very famous name, Mr. deWitt."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "And what is your name?"
+      },
+      {
+        "speaker": "GIRL",
+        "text": "Phoebe."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Phoebe?"
+      },
+      {
+        "speaker": "GIRL",
+        "text": "I call myself Phoebe."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Why not? Tell me, Phoebe, do you want some day to have an award like that of your own?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33604",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "May I come in?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Certainly, Mr. deWitt..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I expected to find this little room overcrowded, with a theater full of people at your feet..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I consider myself lucky they didn't throw things."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33605",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Of course your performance was no surprise to me. After the other day I regarded it as no more than - a promised fulfilled."
+      },
+      {
+        "speaker": "EVE",
+        "text": "You're more than kind. But it's still Miss Channing's performance. I'm just a carbon copy you read when you can't find the original..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "You're more than modest."
+      },
+      {
+        "speaker": "EVE",
+        "text": "It's not modesty. I just don't try to kid myself."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "A revolutionary approach to the Theater. However, if I may a suggestion..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Please do."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I think the time has come for you to shed some of your humility. It is just as false not to blow your horn at all as it is to blow it too loudly..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I don't think I've done anything to sound off about."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "We all come into this world with our little egos equipped with individual horns. If we don't blow them - who will?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Even so. One isolated pretty good performance by an understudy. It'll be forgotten tomorrow."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "It needn't be."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Even if I wanted to - as you say - be less humble, blow my own horn... how would I do it? I'm less than nobody."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I am somebody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33606",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "After you change, if you're not busy elsewhere, we can have supper."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I'd love to! Or should I pretend I'm busy?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Let's have a minimum of pretending. I'll want to do a column about you-"
+      },
+      {
+        "speaker": "EVE",
+        "text": "I'm not enough for a paragraph."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "- perhaps more than one. There's so much I want to know. I've heard your story in bits and pieces... your home in Wisconsin, your tragic marriage, your financial attachment to Margo - it started in San Francisco, didn't it?  I say - your idolatry of Margo started in San Francisco, didn't it?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "That's right."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "San Francisco. An oasis of civilization in the California desert. Tell me, do you share my high opinion of San Francisco?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Yes. I do."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "And that memorable night when Margo first dazzled you from the stage - which theater was it in San Francisco? Was it - the Shubert?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Yes. The Shubert."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "A fine old theater, the Shubert. Full of tradition, untouched by the earthquake - so sorry - fire... by the way, what was your husband's name?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Eddie..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Eddie what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33607",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I'm about to go into the shower, I won't be able to hear you..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I can wait. Where would you like to go? We'll make this a special night..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "You take charge."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I believe I will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33608",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Hungry?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Just some coffee."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I'm not surprised. After all that humble pie..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Nothing of the kind. Karen and I had a nice talk."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Heart to heart? Woman to woman? Including a casual reference to the part of \"Cora\" - and your hopes of playing it."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I discussed it very openly. I told her that I had spoken to Lloyd - and that he was interested."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "She mentioned, of course, that Margo expects to play the part?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Oddly enough - she didn't say a word about Margo. Just that she'll be happy to do what she can to see that I play the part."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33609",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Just like that, eh?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Just like that."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Do you know, Eve - sometimes I think you keep things from me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33610",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I don't think that's funny."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "It wasn't meant to be."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I confide in you and rely on you more than anyone I've ever known! To say a thing like that now - without any reason - when I need you more than ever..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I hope you mean what you say, Eve. I intend to hold you to it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33611",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "What a day - what a heavenly day..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "D-day."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Just like it."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "And tomorrow morning you will have won your beachhead on the shores of Immortality..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Stop rehearsing your column... Isn't it strange, Addison? I thought I'd be panic-stricken, want to run away or something. Instead, I can't wait for tonight to come. To come and go..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Are you that sure of tomorrow?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Aren't you?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Frankly - yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33612",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "It'll be a night to remember. It'll bring to me everything I've ever wanted. The end of an old road - and the beginning of a new one..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "All paved with diamonds and gold?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "You know me better than that."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Paved with what, then?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Stars."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33613",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "What time?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Almost four."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Plenty of time for a nice long nap - we rehearsed most of last night..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "You could sleep, too, couldn't you?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Why not?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33614",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "The mark of a true killer.  Sleep tight, rest easy - and come out fighting..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Why'd call me a killer?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Did I say killer? I meant champion. I get my boxing terms mixed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33615",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Suites are for expense accounts. Aren't you being extravagant?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Max is paying for it. He and Lloyd had a terrific row but Lloyd insisted... well. Can I fix you a drink?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33616",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Also with the reluctant compliments of Max Fabian."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Lloyd. I never have any, and he likes a couple of drinks after we finish - so he sent it up..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Some plain soda.  Lloyd must be expecting a record run in New Haven..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "That's for tonight. You're invited. We're having everyone up after the performance."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "We're?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Lloyd and I."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33617",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Addison..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "She's always been so fantastically devoted to Lloyd. I would imagine that only death or destruction could keep her-"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Addison, just a few minutes ago. When I told you this would be a night to remember - that it would bring me everything I wanted-"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "- something about an old road ending and a new one starting - paved with stars..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I didn't mean just the Theater."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "What else?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33618",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "So that's it. Lloyd. Still just the Theater, after all..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "It's nothing of the kind! Lloyd loves me, I love him!"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I know nothing about Lloyd and his loves - I leave those to Louisa May Alcott. But I do know you."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I'm in love with Lloyd!"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Lloyd Richards is commercially the most successful playwright in America-"
+      },
+      {
+        "speaker": "EVE",
+        "text": "You have no right to say such things!"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "- and artistically, the most promising! Eve dear, this is Addison."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33619",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Addison, won't it be just perfect? Lloyd and I - there's no telling how far we can go... he'll write great plays for me, I'll make them be great!  You're the only one I've told, the only one that knows except Lloyd and me..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "... and Karen."
+      },
+      {
+        "speaker": "EVE",
+        "text": "She doesn't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33620",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "I see. And when was this unholy alliance joined?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "We decided the night before last, before we came up here..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Was the setting properly romantic - the lights on dimmers, gypsy violins off stage?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "The setting wasn't romantic, but Lloyd was. He woke me up at three in the morning, banging on my door - he couldn't sleep, he told me - he's left Karen, he couldn't go on with the play or anything else until I promised to marry him... we sat and talked until it was light. He never went home..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "You sat and talked until it was light..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "We sat and talked, Addison. I want a run of the play contract."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "There never was, there'll never be another like you."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Well, say something - anything! Congratulations, skol - good work, Eve!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33621",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "What do you take me for?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "I don't know what I take you for anything..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "It is possible - even conceivable - that you've confused me with that gang of backward children you've been playing tricks on - that you have the same contempt for me that you have for them?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "I'm sure you mean something by that, Addison, but I don't know what..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Look closely, Eve, it's time you did. I am Addison deWitt. I'm nobody's fool. Least of all - yours."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I never intended you to be."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Yes, you did. You still do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33622",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I still don't know what you're getting at. Right now I want to take my nap. It's important that I-"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "- it's important right now that we talk. Killer to killer."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Champion to champion."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Not with me, you're no champion. You're stepping way up in class."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Addison, will you please say what you have to say plainly and distinctly - and then get out so I can take my nap!"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Very well, plainly and distinctly. Although I consider it unnecessary - because you know as well as I, what I am about to say.  Lloyd may leave Karen, but he will not leave Karen for you."
+      },
+      {
+        "speaker": "EVE",
+        "text": "What do you mean by that?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "More plainly and more distinctly? I Have not come to New Haven to see the play, discuss your dreams, or to pull the ivy from the walls of Yale! I have come to tell you that you will not marry Lloyd - or anyone else - because I will not permit it."
+      },
+      {
+        "speaker": "EVE",
+        "text": "What have you got to do with it?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Everything. Because after tonight, you will belong to me."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I can't believe my ears..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "A dull cliche."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Belong - to you? That sound medieval - something out of an old melodrama..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "So does the history of the world for the past twenty years. I don't enjoy putting it as bluntly as this, frankly I had hoped that you would, somehow, have known - have taken it for granted that you and I..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... taken it for granted? That you and I..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33623",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "You're too short for that gesture. Besides, it went out with Mrs. Fiske."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Then if you won't get out, I'll have you thrown out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33624",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Your name is not Eve Harrington. It is Gertrude Slescynski."
+      },
+      {
+        "speaker": "EVE",
+        "text": "What of it?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "It is true that your parents were poor. They still are. And they would like to know how you are - and where. They haven't heard from you for three years..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "What of it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33625",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "A matter of opinion. Granted. It is also true that you worked in a brewery. But life in the brewery was apparently not as dull as you pictured it. As a matter of fact, it got less and less dull - until you boss's wife had your boss followed by detectives!"
+      },
+      {
+        "speaker": "EVE",
+        "text": "She never proved anything, not a thing!"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "But the $500 you got to get out of town brought you straight to New York - didn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33626",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "She was a liar, she was a liar!"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Answer my question! Weren't you paid to get out of town?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33627",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I had to get in, to meet Margo! I had to say something, be somebody, make her like me!"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "She did like you, she helped and trusted you! You paid her back by trying to take Bill away!"
+      },
+      {
+        "speaker": "EVE",
+        "text": "That's not true!"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I was there, I saw you and heard you through the dressing room door!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33628",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "You used my name and my column to blackmail Karen into getting you the part of \"Cora\" - and you lied to me about it!"
+      },
+      {
+        "speaker": "EVE",
+        "text": "No-no-no..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I had lunch with Karen not three hours ago. As always with women who want to find out things, she told more than she learned...  ... do you want to change your story about Lloyd beating at your door the other night?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33629",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Then say so."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Yes, Addison."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "And you realize - you agree how completely you belong to me?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Yes, Addison."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Take your nap, now. And good luck for tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33630",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I won't play tonight.  I couldn't. Not possibly. I couldn't go on..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Couldn't go on? You'll give the performance of your life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33631",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I don't suppose there's a drink left..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "You can have one at Max's."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I don't think I'm going."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Because I don't want to."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Max has gone to a great deal of trouble, it's going to be an elaborate party, and it's for you."
+      },
+      {
+        "speaker": "EVE",
+        "text": "No, it's not.  It's for this."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "It's the same thing, isn't it?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Exactly.  Here. Take it to the party instead of me."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "You're being childish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33632",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I'm tired. I want to go home."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Very well. I shall drop you and go on to the party. I have no intention of missing it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33633",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Every now and then, some elder statesman of the Theater or cinema assures the public that actors and actresses are just plain folk. Ignoring the fact that their greatest attraction to the public is their complete lack of resemblance to normal human beings."
+      },
+      {
+        "speaker": "MISS CASWELL",
+        "text": "Now there's something a girl could make sacrifices for."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33634",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "That isn't a waiter, my dear. That's a butler."
+      },
+      {
+        "speaker": "MISS CASWELL",
+        "text": "Well, I can't yell \"Oh, butler,\" can I? Maybe somebody's name is Butler..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "You have a point. An idiotic one, but a point."
+      },
+      {
+        "speaker": "MISS CASWELL",
+        "text": "I don't want to make trouble. All I want is a drink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33635",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MISS CASWELL",
+        "text": "Let's go sit by the piano."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "You have me confused with Dan Dailey. You go sit by the piano.  And you come sit by me.  Good night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33636",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MISS CASWELL",
+        "text": "We never met. That's why."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Miss Caswell is an actress. A graduate of Copacabana School of Dramatic Arts.  Ah... Eve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33637",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "This must be, at long last, our formal introduction. Until now we have met only in passing..."
+      },
+      {
+        "speaker": "MISS CASWELL",
+        "text": "That's how you met me. In passing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33638",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Claudia dear, come closer.  This is Max Fabian. He is a producer. Go do yourself some good."
+      },
+      {
+        "speaker": "MISS CASWELL",
+        "text": "Why do they always look like unhappy rabbits?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Because that is what they are. Go make him happy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33639",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Feeling better, my dear?"
+      },
+      {
+        "speaker": "MISS CASWELL",
+        "text": "Like I just swam the English Channel. Now what?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "You next move, it seems to me, should be toward television."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33640",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MISS CASWELL",
+        "text": "Tell me this. Do they have auditions for television?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "That's all television is, my dear. Nothing but auditions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33641",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "It is senseless to insist that theatrical folk in New York, Hollywood and London are no different from the good people of Des Moines, Chillicothe and Liverpool. By and large, we are concentrated gatherings of neurotics, egomaniacs, emotional misfits, and precocious children-"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Gable. Why a feller like that don't come East to do a play..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33642",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "Answer me this. What makes a man become a producer?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "What makes a man walk into a lion cage with nothing but a chair?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "This answer satisfies me a hundred percent."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "We all have abnormality in common. We are a breed apart from the rest of the humanity, we Theater folk. We are the original displaced personalities..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33643",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "In my case it's necessary. Too many taxi drivers write plays."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "And too many of them are produced."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33644",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MAX",
+        "text": "I'm giving her a very high-class party. It ain't like a rehearsal, she don't have to be late."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "As soon as the peasants stop pawing her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33645",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "KAREN",
+        "text": "Then stop being a star - start treating your guests as your supporting cast!"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Hear, hear..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33646",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "She was magnificent."
+      },
+      {
+        "speaker": "KAREN",
+        "text": "Then you've heard too."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I was there. An eyewitness."
+      },
+      {
+        "speaker": "KAREN",
+        "text": "You were there? At the play - last night?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "A happy coincidence."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33647",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "From the smartness of your dress, I take it your luncheon companion is a lady?"
+      },
+      {
+        "speaker": "KAREN",
+        "text": "Margo."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Margo? Lunching in public?"
+      },
+      {
+        "speaker": "KAREN",
+        "text": "It's new Margo. But she's just as late as the old one."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "She may be later than you think..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33648",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "I distinctly remember striking your name from the guest list. What are you doing here?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Dear Margo. You were an unforgettable Peter Pan - you must play it again, soon. You remember Miss Caswell?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I do not. How do you do?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33649",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Eve, this is an old friend of Mr. deWitt's mother - Miss Caswell, Miss Harrington...  Addison, I've been wanting you to meet Eve for the longest time-"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "It could only have been your natural timidity that kept you from mentioning it..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "You've heard of her great interest in the Theater-"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "We have that in common."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Then you two must have a long talk-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33650",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "You mustn't worry about your little charge. She is in safe hands."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Amen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33651",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Why so remote, Addison? I should think you'd be at the side of your protegee, lending her moral support..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Miss Caswell, at the moment, is where I can lend no support - moral or otherwise."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "The ladies' - shall we say - lounge?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Being violently ill to her tummy."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "It's good luck before an audition. She'll be all right once it starts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33652",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Miss Caswell got lucky too late. The audition is over."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Over? It can't be. I've come to read with her. I promised Max."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "The audition was called for 2:30. It is now nearly four."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Is it really? I must start wearing a watch, I never do, you know... who read with Miss Caswell? Bill?  Lloyd?  Well, it couldn't have been Max! Who?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Naturally enough, your understudy."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I consider it highly unnatural to allow a girl in an advanced state of pregnancy-"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "I refer to your new and unpregnant understudy. Eve Harrington."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Eve! My understudy..."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Didn't you know?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Of course I knew."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "It just slipped your mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33653",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "How... how was Miss Caswell?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Frankly, I don't remember."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Just slipped your mind."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Completely. Nor, I am sure, could anyone else present tell you how Miss Caswell read or whether Miss Caswell read or rode a pogo stick."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Was she that bad?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33654",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Margo, as you know, i have lived in the Theater as a Trappist monk lives in his faith. I have no other world, no other life - and once in a great while I experience that moment of Revelation for which all true believers wait and pray. You were one. Jeanne Eagels another... Paula Wessely... Hayes - there are others, three or four. Eve Harrington will be among them..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I take it she read well."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "It wasn't reading, it was a performance. Brilliant, vivid, something made of music and fire..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "How nice."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "In time she'll be what you are."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "A mass of music and fire. That's me. An old kazoo and some sparkles. Tell me - was Bill swept away, too, or were you too full of Revelation to notice?"
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "Bill didn't say - but Lloyd was beside himself. He listened to his play as if someone else had written it, he said, it sounded so fresh, so new, so full of meaning..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "How nice for Lloyd. And how nice for Eve. How nice for everybody."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33655",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "ADDISON",
+        "text": "Eve was incredibly modest. She insisted that no credit was due her, that Lloyd felt as he did only because she read lines exactly as he had written them."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "The implication being that I have not been reading them as written."
+      },
+      {
+        "speaker": "ADDISON",
+        "text": "To the best of my recollection, neither your name nor your performance entered the conversation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33656",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "KAREN",
+        "text": "Bill..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "The air lines have clocks, even if you haven't! I start shooting a week from Monday - Zanuck is impatient, he wants me, he needs me!"
+      },
+      {
+        "speaker": "KAREN",
+        "text": "Bill-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33657",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "KAREN",
+        "text": "Bill!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "KAREN",
+        "text": "This is Eve Harrington."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33658",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "KAREN",
+        "text": "You've already met."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Where?"
+      },
+      {
+        "speaker": "KAREN",
+        "text": "Right here. A minute ago."
+      },
+      {
+        "speaker": "BILL",
+        "text": "That's nice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33659",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "KAREN",
+        "text": "Good luck, genius..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Geniuses don't need good luck.  I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33660",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Macbeth."
+      },
+      {
+        "speaker": "KAREN",
+        "text": "We know you, we've seen you before like this. Is it over - or just beginning?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33661",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "KAREN",
+        "text": "I guess at this point I'm what the French call 'de trop'..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Maybe just a little around the edges."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33662",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "KAREN",
+        "text": "When? When are you going to do it?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Tomorrow we meet at City Hall at ten-  - and you're going to be on time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33663",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Nothing?"
+      },
+      {
+        "speaker": "KAREN",
+        "text": "Everything... everything's so funny..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33664",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Forty-five minutes from now my plane takes off and how do I find you? Not ready yet, looking like a junk yard-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Thank you so much."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Is it sabotage, does my career mean nothing to you? Have you no human consideration?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Show me a human and I might have!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33665",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Only in some ways. You're prettier..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I'm a junk yard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33666",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Hi.  My wonderful junk yard. The mystery and dreams you find in a junk yard-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Heaven help me, I love a psychotic."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33667",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Oh well...  ... look through the wigs, maybe it got caught-"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Real diamonds in a wig. The world we live in..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Where's my coat?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33668",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Can't keep his eyes off my legs."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Like a nylon lemon peel-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Byron couldn't have said it more graciously... here we go-"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33669",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "She's quite a girl, that what's-her name..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Eve. I'd forgotten they grew that way..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "The lack of pretense, that sort of strange directness and understanding-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Did she tell you about the Theater and what it meant?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "I told her. I sounded off."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "All the religions in the world rolled into one, and we're Gods and Goddesses... isn't it silly, suddenly I've developed a big protective feeling for her - a lamb loose in our big stone jungle..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33670",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Take care of yourself out there..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I understand they've got the Indians pretty well in hand..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Bill..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Don't get stuck on some glamour puss-"
+      },
+      {
+        "speaker": "BILL",
+        "text": "I'll try."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "You're not such a bargain, you know, conceited and thoughtless and messy-"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Everybody can't be Gregory Peck."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "- you're a setup for some gorgeous wide-eyed young babe."
+      },
+      {
+        "speaker": "BILL",
+        "text": "How childish are you going to get before you quit it?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I don't want to be childish, I'd settle for just a few years-"
+      },
+      {
+        "speaker": "BILL",
+        "text": "And cut that out right now."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Am I going to lose you, Bill? Am I?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "As of this moment you're six years old..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33671",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Knit me a muffler."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Call me when you get in..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33672",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "What a thoughtful, ever-lovin' thing to do-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Bill? Have I gone crazy, Bill?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "You're my girl, aren't you?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "That I am..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Then you're crazy."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "When - when are you coming back?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "I leave in a week - the picture's all wrapped up, we previewed last night... those previews. Like opening out of town, but terrifying. There's nothing you can do, you're trapped, you're in a tin can-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "- in a tin can, cellophane or wrapped in a Navajo blanket, I want you home..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "You in a hurry?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "A big hurry, be quick about it - so good night, darling, and sleep tight..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Wait a minute! You can't hang up, you haven't even said it-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Bill, you know how much I do - but over the phone, now really, that's kid stuff..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Kid stuff or not, it doesn't happen every day, I want to heat it - and if you won't say it, you can sing it..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Sing it?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Sure! Like the Western Union boys used to do..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33673",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Bill... Bill, it's your birthday."
+      },
+      {
+        "speaker": "BILL",
+        "text": "And who remembered it? Who was there on the dot, at twelve midnight...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33674",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Happy birthday, darling..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "The reading could have been better, but you said it - now \"many happy returns of the day...\""
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Many happy returns of the day..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I get a party, don't I?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Of course, birthday and welcome home... who'll I ask?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "It's no secret, I know all about the party - Eve wrote me..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "She did...?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "She hasn't missed a week since I left - but you know all that, you probably tell her what to write... anyway, I sent her a list of people to ask - check with her."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Yeah... I will."
+      },
+      {
+        "speaker": "BILL",
+        "text": "How is Eve? Okay?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Okay."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I love you..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I'll check with Eve..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "What?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I love you too. Good night, darling-"
+      },
+      {
+        "speaker": "BILL",
+        "text": "See you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33675",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Outside of a beehive, Margo, your behavior would hardly be considered either queenly or motherly!"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "You're in a beehive, pal, didn't you know? We're all busy little bees, full of stings, making honey day and night-  - aren't we, honey?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33676",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "It's a good thought."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "It won't play."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33677",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Happy little housewife..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Cut it out."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "This is my house, not a theater! In my house you're a guest, not a director-!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33678",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Need any help?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "To put me to bed? Take my clothes off, hold my head, tuck me in, turn off the lights, tiptoe out...? eve would. Wouldn't you, Eve?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33679",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Don't let me kill the point. Or isn't it a story for grownups?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "You've heard it. About when I looked through the wrong end of a camera finder."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Remind me to tell you about when I looked into the heart of an artichoke."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33680",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Looks like I'm going to have a very fancy party..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I thought you were going to be late-"
+      },
+      {
+        "speaker": "BILL",
+        "text": "When I'm guest of honor?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I had no idea you were even here."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I ran into Eve on my way upstairs; she told me you were dressing."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "That never stopped you before."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Well, we started talking, she wanted to know all about Hollywood, she seemed so interested..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "She's a girl of so many interests."
+      },
+      {
+        "speaker": "BILL",
+        "text": "It's a pretty rare quality these days."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "She's a girl of so many rare qualities."
+      },
+      {
+        "speaker": "BILL",
+        "text": "So she seems."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "So you've pointed out, so often. So many qualities, so often. Her loyalty, efficiency, devotion, warmth, affection - and so young. So young and so fair..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33681",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "I can't believe you're making this up - it sounds like something out of an old Clyde Fitch play..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Clyde Fitch, thought you may not think so, was well before my time!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "I've always denied the legend that you were in 'Our American Cousin' the night Lincoln was shot..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I don't think that's funny!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Of course it's funny - this is all too laughable to be anything else. You know what I think about this - this age obsession of yours - and now this ridiculous attempt to whip yourself up into a jealous froth because I spent ten minutes with a stage-struck kid-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Twenty minutes!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Thirty minutes, forty minutes! What of it?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Stage-struck kid... she's a young lady - of qualities. And I'll have you know I'm fed up with both the young lady and her qualities! Studying me as if - as if I were a play or a set of blueprints! How I walk, talk, think, eat, sleep!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Now how can you take offense at a kid trying in every way to be as much like her ideal as possible!"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Stop calling her a kid! It so happens there are particular aspects of my life to which I would like to maintain sole and exclusive rights and privileges!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "For instance what?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "For instance - you!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "This is my cue to take you in my arms and reassure you - but I'm not going to. I'm too mad-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "- guilty."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Mad! Darling, there are certain characteristics for which you are famous - on stage and off. I love you for some of them - and in spite of others. I haven't let those become too important to me. They're part of your equipment for getting along in what is laughably called out environment - you've got to keep your teeth sharp. All right. But you will not sharpen them on me - or on Eve..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "What about her teeth? What about her fangs?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "She hasn't cut them yet, and you know it! So when you start judging an idealistic dreamy-eyed kid by the barroom, Benzedrine standards of this megalomaniac society - I won't have it! Eve Harrington has never by word, look, thought or suggestion indicated anything to me but her adoration for you and her happiness at our being in love! And to intimate anything else doesn't spell jealousy to me - it spells a paranoic insecurity that you should be ashamed of!"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Cut! Print it! What happens in the next reel? Do I get dragged off screaming to the snake pit?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33682",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Nothing, really..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "The kid - junior, that is - will be right down. Unless you'd like to take her drink up to her..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I can always get a fresh one. Karen - you're a Gibson girl..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33683",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Many of your guests have been wondering when they may be permitted to view the body. Where has it been laid out?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "It hasn't been laid out, we haven't finished with the embalming. As a matter of fact, you're looking at it. The remains of Margo Channing. Sitting up. It is my last wish to be buried sitting up."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Wouldn't you feel more natural taking a bow?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "You know nothing about feelings, natural or unnatural."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Then without feeling, your guests were also wondering whether the music couldn't be a shade more on the - shall we say, happier side?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "If my guests do not like it here, I suggest they accompany you to the nursery where I'm sure you will all feel more at home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33684",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "No heart to burn."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Everybody has a heart - except some people.  Of course I've got bicarb. There's a box in the pantry. We'll put your name on it. Max Fabian. It'll say there. Always. Just for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33685",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "It's all over."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "What's all over?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "The audition."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Eve?  How enchanting...  Wherever did you get the idea of having Eve read with Miss Caswell?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33686",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "What fire and music?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "You wouldn't understand.  How was Miss Caswell?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33687",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Addison-!"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "So full of meaning, fire and music!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33688",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "And you, I take it, are the Paderewski who plays his concerto on me, the piano?  Where is Princess Fire-and-Music?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Who?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "The kid. Junior."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Gone."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I must have frightened her away."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I wouldn't be surprised. Sometimes you frighten me."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Poor little flower. Just dropped her petals and folded her tent..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Don't mix your metaphors."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I mix what I like."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Okay. Mix."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I'm nothing but a body with a voice. No mind."
+      },
+      {
+        "speaker": "BILL",
+        "text": "What a body, what a voice."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "The ex-ship news' reporter. No body, no voice, all mind!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "The gong rang. The fight's over. Calm down."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I will not calm down!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Don't calm down."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "You're being terribly tolerant, aren't you?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "I'm trying terribly hard."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Well, you needn't. I will not be tolerated. And I will not be plotted against!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Here we go..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Such nonsense, what do you all take me for - little Nell from the country? Been my understudy for over a week without my knowing, carefully hidden no doubt-"
+      },
+      {
+        "speaker": "BILL",
+        "text": "Now don't get carried away-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "- shows up for an audition when everyone knew I'd be here... and gives a performance! Out of nowhere - gives a performance!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "You've been all through that with Lloyd-"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "The playwright doesn't make the performance - and it doesn't just happen! And this one didn't - full of fire and music and whatnot, it was carefully rehearsed I have no doubt, over and over, full of those Bill Sampson touches!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "I am sick and tired of these paranoiac outbursts!"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Paranoiac!"
+      },
+      {
+        "speaker": "BILL",
+        "text": "I didn't know Eve Harrington was your understudy until half past two this afternoon!"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Tell that to Dr. Freud! Along with the rest of it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33689",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "No, I'll tell it to you! For the last time, I'll tell it to you. Because you've got to stop hurting yourself, and me, and the two of us by these paranoiac tantrums!"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "That word again! I don't even know what it means..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "It's time you found out. I love you.  I love you. You're a beautiful and intelligent woman-  - a beautiful and intelligent woman and a great actress-  - at the peak of her career. You have every reason for happiness-  - every reason, but due to some strange, uncontrollable, unconscious drive you permit the slightest action of a kid-  - kid like Eve to turn you into a hysterical, screaming harpy! Now once and for all, stop it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33690",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "It's obvious you're not a woman."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I've been aware of that for some time."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Well, I am."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I'll say."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Don't be condescending."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Come on, get up. I'll buy you a drink."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I admit I may have seen better days, but I am still not to be had for the price of a cocktail - like a salted peanut."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Margo, let's make peace."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "The terms are too high. Unconditional surrender."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Just being happy? Just stopping all this nonsense about Eve - and Eve and me?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "It's not nonsense."
+      },
+      {
+        "speaker": "BILL",
+        "text": "But if I tell you it is - as I just did. Were you listening to me?  Isn't that enough?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I wish it were."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Then what would be enough?  If we were married?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I wouldn't want you to marry me just to prove something."
+      },
+      {
+        "speaker": "BILL",
+        "text": "You've had so many reasons for not wanting to marry me... Margo, tell me what's behind all this."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I - I don't know, Bill. Just a feeling, I don't know..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "I think you do know but you won't or can't tell me.  I said before it was going to be my last try, and I meant it. I can't think of anything else to do. I wish I could.  We usually wind up screaming and throwing things as the curtain comes down. Then it comes up again and everything's fine. But not this time.  You know there isn't a playwright in the world who could make me believe this would happen between two adult people. Goodbye, Margo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33691",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Bill...  ... where are you going? To find Eve?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "That suddenly makes the whole thing believable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33692",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "The so-called art of acting is not one for which I have a particularly high regard..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Hear, hear..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "But you may quote me as follows. Quote. Tonight Miss Margo Channing gave a performance in your cockamamie play, the like of which I have never seen before and expect rarely to see again. Unquote."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "He does not exaggerate. I was good."
+      },
+      {
+        "speaker": "BILL",
+        "text": "You were great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33693",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "To Margo. To my bride-to-be."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Glory Hallelujah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33694",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "It's only for the license. There's a three-day wait - blood tests, things like that..."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I'll marry you if it turns out you have no blood at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33695",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Something simple. A fur coat over a nightgown..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "The point is - in the cathedral, a ball park or a penny arcade - we want to have you two beside us our nearest and dearest friends."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33696",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "\"Please forgive me for butting into what seems such a happy occasion - but it's most important that I speak with you. Please\" - it's underlined - \"meet me in the Ladies' Room. Eve.\""
+      },
+      {
+        "speaker": "BILL",
+        "text": "I understand she is now the understudy in there."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Pass me the empty bottle. I may find her... why, look. There's Rasputin."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33697",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "Groom-  - may I have a wedding present?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "What would you like? Texas?"
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I want everybody to shut up about Eve. Just shut up about Eve, that's all I want. Give Karen more wine...  ... never have I been so happy. Isn't this a lovely room? The Cub Room. What a lovely, clever name. Where the elite meet. Never have I seen so much elite - and all with their eyes on me. Waiting for me to crack that little gnome over the noggin with a bottle. But not tonight. Even Eve. I forgive Eve... there they go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33698",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "MARGO",
+        "text": "There goes Eve. Eve evil, Little Miss Evil. But the evil that men do - how does it go, groom? Something about the good they leave behind - I played it once in rep in Wilkes Barre..."
+      },
+      {
+        "speaker": "BILL",
+        "text": "You've got it backwards. Even for Wilkes-Barre."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "You know why I forgive Eve? Because she's left good behind - the four of us, together like this, it's Eve's fault - I forgive her..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33699",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Never try to outguess Margo."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "Groom."
+      },
+      {
+        "speaker": "BILL",
+        "text": "Yes, dear."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "You know what I'm going to be?"
+      },
+      {
+        "speaker": "BILL",
+        "text": "A cowboy."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "A married lady."
+      },
+      {
+        "speaker": "BILL",
+        "text": "With the paper to prove it."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "I'm going to have a home. Not just a house I'm afraid to stay in... and a man to go with it. I'll look up at six o'clock - and there he'll be... remember, Karen?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_33700",
+    "movie_id": "m238",
+    "turns": [
+      {
+        "speaker": "BILL",
+        "text": "Often enough to keep the franchise."
+      },
+      {
+        "speaker": "MARGO",
+        "text": "A foursquare, upright, downright, forthright married lady... that's for me. And no more make believe! Off stage or on... remember, Lloyd.  I mean it, now. Grown-up women only, I might even play a mother - only one child, of course, not over eight...  Lloyd, will you promise not to be angry with me?"
+      }
+    ]
+  }
+]

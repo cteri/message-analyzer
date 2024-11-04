@@ -1,0 +1,2178 @@
+[
+  {
+    "conversation_id": "conv_9001",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "I don't know if there's any single reason.  But my father was Navy. And he had this old-time recruiting poster in his den.  It showed a girl trying on a sailor's uniform while saying, \"Gee, I wish I were a man! I'd join the Navy!\"  Was maybe 10 years old when I first saw it, and even then it felt wrong.  Made me mad.  And I don't think a month has gone by that I haven't thought about that poster.  \"Gee, I wish I were a man.\""
+      },
+      {
+        "speaker": "BLONDELL",
+        "text": "I've been accused of that wish."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "The woman I saw you with..."
+      },
+      {
+        "speaker": "BLONDELL",
+        "text": "Just a friend.  We have friends, too, you know."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "But are there... I mean, how many..."
+      },
+      {
+        "speaker": "BLONDELL",
+        "text": "More than you'd guess.  It's just that we don't hold coffee klatches. If more then three of us get together at any one time, the guys think it's some kind of uprising."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9002",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "BLONDELL",
+        "text": "Administration, Ensign Blondell."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Don't say my name."
+      },
+      {
+        "speaker": "BLONDELL",
+        "text": "Who's...  Lieuten --"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Or rank.  But can you do me a favor and pull a transfer order?"
+      },
+      {
+        "speaker": "BLONDELL",
+        "text": "Okay, but... You didn't have to do what you did.  Not for me."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "\"Wickwire, Thomas Dane.\"  See what you can find."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9003",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "BLONDELL",
+        "text": "Got it."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Who signed as his \"sponsoring officer\"?"
+      },
+      {
+        "speaker": "BLONDELL",
+        "text": "Uh... don't see it.  There's no signature.  But hang on -- there's a note to \"See Addendum.\"  Checking..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9004",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "BLONDELL",
+        "text": "Wow..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "What'd you find, Kathy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9005",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN",
+        "text": "Commander, are you of the habit of letting photographers traipse around your base snappin' their fill? These were supposed to have been discreet test cases --"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Senator, they stand out on the public highway with telephoto lenses --"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "-- and now I got reporters from Toadsquat, Iowa, calling my office and askin' what I know about this \"G.I. Jane\" thing."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "-- nothing I can do about it unless you're suggesting I infringe on their civil liberties -- which I'd happily do if you'll just trim a little fat off the Constitution."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Are you truly mouthin' off to a senior member of the Senate Arms Committee?  I mean, I'll give you points for style -- just nothin' for smarts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9006",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN",
+        "text": "Well, seein's how this thing is out, you let me handle the r.p.m.  From this point forward, I want all press matters coordinated via my office. I'll be god-damned if I'm gonna watch Hayes pull flowers out of his ass and take credit for this one. Him or the President.  This my shade?  \"Midnight Mahogany\"? 'Cuz I'm comin' dangerously close to lookin' like Ronald Reagan here."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Your prerogative, Senator."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Awright.  How's our girl doin', anyway?"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Standing right here in my office."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Jordan, dear.  How are they treating you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9007",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "C.O.",
+        "text": "Uh, V.I.P. security arrangements generally take some time, Senator."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "\"Security\"?  What the hell you talkin' about?  Your base isn't secure?"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Of course, but there's more --"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Then set out the good plates, we'll all have lunch.  My office will follow up with details.  Jumping off, now..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9008",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "C.O.",
+        "text": "Yes, of course.  Please, have a seat, lieutenant..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Thank you, sir."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Would you care for a beverage?  Tea?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I'm fine, sir."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "So.  We're still coming to terms with the exact protocol for this -- for integrating the Spec-Recon training.  It may not always be smooth, but we're trying to make it as painless as possible for you."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Thank you, sir.  But I expect a certain amount of pain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9009",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Barber was my next stop, sir. Would've had it regulation sooner, only --"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Don't worry about it.  If it's off your collar and out of your eyes, that's all I'm going to ask."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Really, I have no problem with --"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "I'm not out to change your sex, lieutenant.  You'll have separate beds, separate heads.  If you have specific medical needs, inform the infirmary.  If a classmate or superior acts in an harassing or otherwise unbecoming manner, please inform me immediately so I can deal with it immediately.  Questions?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "None at this time, sir."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Then that's all I have to say. Dismissed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9010",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Sir, I just want you to know... I'm not here to make a statement.  I don't want to make men look foolish. All I care about is completing the training and getting operational experience -- just like everyone else, I suspect."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "If you were like everyone else, lieutenant, I suspect we wouldn't be making statements about not making statements, would we?  Take your leave."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9011",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Pardon the hour, sir.  But you told me to come to you immediately if I felt I was being mistreated in any way."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Didn't take long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9012",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "C.O.",
+        "text": "All right, lieutenant, give me a name and specifics, I'll have the X.O. file an action first thing in the morning.  A name?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "It's you, sir.  And it started the day I came here."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Oh, really."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "It's this double-standard, the separate quarters, the deferential treatment.  It's how you pulled out my chair and nearly served high tea the first time we met."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Because I was civil, now you're complaining."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I can't afford civility, sir.  How am I supposed to fit in with these guys when you've got me set up as an outsider?  Even if I make it under these rules, I still lose, because there'll always be a flag in my file -- \"Yeah, she made it, but...\"  I mean, really -- why didn't you just issue me a goddamn petticoat to wear around the base?"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Did you just have a brain-fart?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Pardon?"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Did you just barge in here and curse at your base commander?  If so, I regard that as a bonafide brain- fart, and I resent it when people fart inside my home."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I think you've resented me from the start, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9013",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "C.O.",
+        "text": "What I resent, lieutenant, is some politician using my base as a test tube for her grand social experiment.  What I resent is the sensitivity training that is now mandatory for my men... the day-care center I have to build where an officer's lounge used to be... and the OB/GYN I have to keep on staff just so someone can keep track of your personal pap smears.  But most of all, lieutenant, I resent your perfume, however subtle it may be, competing with the aroma of my fine three-dollar-and-fifty- nine cent cigar, which I will happily put out this very instant if the phallic nature of it happens to offend your goddamn fragile sensibilities.  DOES IT?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "No, sir."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "No, sir, WHAT?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "The shape doesn't bother me.  It's just that goddamn rotten stench."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9014",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "C.O.",
+        "text": "Well.  'Least now we're talking the same language.  So one standard.  Is that what you're after?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Same rules for everyone, sir."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Straight up?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Across the board, sir."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "And if you just happen to wash out, I won't have to contend with you bitchin' to some hairy-chested female Senator?  And please note I did not identify any one in particular."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Wouldn't dream of it, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9015",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "C.O.",
+        "text": "Then good night."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "So I'll get a fair shot?"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "You'll get everything you want, O'Neil.  Let's see if you want what you're gonna get."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9016",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "See me, sir?"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "You makin' friends with the press, lieutenant?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9017",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Sir, I want you to know that I had nothing to do with any of this.  Not this article, not --"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "\"We'll all have lunch.\"  Good idea. Oh, and let's be sure to invite this sociologist, too -- just in case we want to have a FUCKING BRIDGE GAME AFTERWARDS!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9018",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Permission to leave, sir?"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Permission to evaporate, O'Neil."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9019",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "C.O.",
+        "text": "I don't know of any delicate way to say this, lieutenant, so I won't try.  Claims have been made that you have engaged in fraternization -- of the same-sex variety.  Specifically, that you were...  \"... seen leaving the apartment of another female officer at such a time and in such a manner as to suggest conduct unbecoming.\""
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Sir, if someone is suggesting that I'm a lesbian, they're wrong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9020",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "I'm saying, we're just friends."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "I find this as distasteful as you, lieutenant.  But if it's on my desk, it's on my shoulders.  There's going to be an inquiry -- it will not be quick and it will definitely not be pretty.  You should prepare yourself."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Sir, please... if there's any way to do this without dragging everyone through the mud..."
+      },
+      {
+        "speaker": "C.O.",
+        "text": "I don't see how, O'Neil.  Dismissed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9021",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Sir.  If tomorrow... I was not under your command... would the inquiry still go forward?"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "I'm not sure what --"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Would you have the discretion to end it right then and there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9022",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "C.O.",
+        "text": "Well, if you had to go over my head, lieutenant, that's the way to do it.  Christ, nothin' like a 0-200 call from the Commander and Chief to get the bowels movin'."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Sir?  What did he say?"
+      },
+      {
+        "speaker": "C.O.",
+        "text": "Basically -- he asked me if I could unring a bell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9023",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "CORTEZ",
+        "text": "Aw, what is this..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Sir..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9024",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Ah, c'mon..."
+      },
+      {
+        "speaker": "CORTEZ",
+        "text": "Motherachrist..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9025",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Fine by me, sir!"
+      },
+      {
+        "speaker": "CORTEZ",
+        "text": "No problem, sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9026",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Newberry, get a photo.  South?"
+      },
+      {
+        "speaker": "CORTEZ",
+        "text": "Entering my scan now..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "West?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9027",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "MCCOOL",
+        "text": "Shit.  Think we're had."
+      },
+      {
+        "speaker": "CORTEZ",
+        "text": "Smoke her."
+      },
+      {
+        "speaker": "MCCOOL",
+        "text": "I ain't gonna shoot her."
+      },
+      {
+        "speaker": "CORTEZ",
+        "text": "Only blanks.  Lemme do it."
+      },
+      {
+        "speaker": "MCCOOL",
+        "text": "Hey.  Ain't your call, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9028",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "CORTEZ",
+        "text": "Banditos on the east perimeter!  150 yards!  Shit, she was part of it!"
+      },
+      {
+        "speaker": "MCCOOL",
+        "text": "Fuck me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9029",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "CORTEZ",
+        "text": "What, we're gonna pry 'em out with paddles?"
+      },
+      {
+        "speaker": "MCCOOL",
+        "text": "O'Neil.  Our air's gonna crap out as soon as we get down there.  You know that, don't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9030",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN'S AIDE",
+        "text": "White House boys want a private meeting."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "I'll act surprised."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9031",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN",
+        "text": "Think I overplayed it?"
+      },
+      {
+        "speaker": "DEHAVEN'S AIDE",
+        "text": "Congress and the Pentagon share a lot of plumbing.  They'll never know whose leak it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9032",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "DEHAVEN'S AIDE",
+        "text": "Did you hear?"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "She made it through S.E.R.E. training.  Got a call this morning from --"
+      },
+      {
+        "speaker": "DEHAVEN'S AIDE",
+        "text": "Not that.  The White House just announced that it was sponsoring legislation that would, in one stroke, void all remaining elements of the 1948 Combat Exclusion Laws."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9033",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "HAYES",
+        "text": "... last few years have brought many advances in the interests of women in naval service, particularly in the land-based maritime specialties. What's more, the Navy has instituted special sensitivity courses with an eye on --"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Whoa, whoa, whoa.  \"Land-based maritime specialties.\" Gimme a second here to de-euphemize that..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9034",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "HAYES",
+        "text": "Hardly the case, Senator."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Well, I'm just an old dame without much time left, so you'll pardon me if I jump right in here before they discontinue my blood-type.  I am deeply concerned over the Navy's seemingly incontrovertible attitude toward women in the military.  Case in point..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9035",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN",
+        "text": "\"The Lark Report.\""
+      },
+      {
+        "speaker": "HAYES",
+        "text": "Madam Senator... this is an internal document of the U.S. Navy.  I must seriously question whether --"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "The Navy's conclusion regarding the crash of an F-14 aboard an aircraft carrier.  Female aviator, it just so happens.  You're familiar with this report and its conclusion, am I right?"
+      },
+      {
+        "speaker": "HAYES",
+        "text": "I was one member of the investigating commission."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Yes, I see your signature right here -- twice the size of everyone else's.  And your conclusion was \"pilot error,\" hmm?"
+      },
+      {
+        "speaker": "HAYES",
+        "text": "I'm really not prepared for any kind of in-depth review of --"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "I'd like to think our next Secretary of the Navy would be prepared for anything, Mr. Hayes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9036",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "HAYES",
+        "text": "The commission concluded that the aviator in question failed to execute a proper approach to the carrier."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "That aside for the moment, I'm struck by the tenor, the ill-spirit of your report... the degrading remarks by other aviators... innuendo about her performance in unrelated situations... even a reference to her sexual activity the weekend prior.  In my seven years on this committee, I've never seen a downed aviator treated like this.  Never.  I'm deeply disturbed by this report, Mr. Hayes.  Not just what it bodes for women in the military -- but for your own confirmation as well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9037",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN",
+        "text": "So everyone I talk to says you're top drawer with silk stockings inside."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Thank you, ma'am.  Um, may I ask what this is regarding?"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "High-school pentathlete... ROTC scholarship, graduated with honors... top marks in Basic Training... and, as it just so happens, a constituent of my home state of Virginia.  Oh, the things I'll do for one extra vote."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9038",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "\"Coronado.\""
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "California."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I know that, sir.  Ma'am.  It's just that... Beggin' your pardon, Senator, but... do you understand that this involves combat training?"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "This is just a test case, O'Neil. But if it works out -- if you work out -- it could well change the Navy's official policy on women in combat.  Or, actually, its official non-policy.  Now who's your immediate superior there?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Captain Dwyer.  Technically."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "My office will fill him in and help expedite.  Look forward to meeting you at the proper time.  Jumping off now..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Uh, question, ma'am."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Yes, dear."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Would I be the only one?  The only woman?"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "There'll be more to follow -- but yes, dear, right now you're the pick of a very large litter.  And your success would mean a lot.  Jumping, now..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9039",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Can't complain, ma'am."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Hmmm.  Maybe I'll ask when I see you in person."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Uh, ma'am."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Gonna be visiting that all-woman's America's cup team in a few weeks -- If I were a gambler, I'd say Dennis O'Conner's days are numbered.  But they're in San Diego, so I thought I'd take a quick promenade of the base."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9040",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN",
+        "text": "Jordan.  I always hoped we'd get together -- though just now I'm gearing up for a child-care vote that --"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Lieutenant Thomas Wickwire."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9041",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "You know him."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Sounds familiar."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "It should.  You nominated him for Spec-Recon just three days after you nominated me."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Jordan.  Might we do this over lunch tomorrow?  I do very much want to talk, but now is scarcely --"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Did you set me up?  Did you set me up just to see me fail?"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Absolutely not."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9042",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN",
+        "text": "Wickwire was there to help.  To be my eyes on the inside, to make sure you were getting a fair shot.  At least that was the intent."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "What changed?"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Should probably ask him that."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "If I have to ask again, Senator, I'll be asking in front of cameras."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9043",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "So?  Isn't the President jumping on your bandwagon?"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "What he did was light the bandwagon on fire.  Because he knows what I know -- that American families are not prepared to put their daughters in harm's way."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "You don't know that."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "In face, I do:  Roper, Harris, Gallop -- they all come back the same."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "What are you saying?  That a women's life is more valuable than a man's? That a women's death hurts a family more?"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "I'm saying it's not going to happen. Not when the President is set to turn this into a third-rail issue should I choose to ever campaign against him.  He will fry me six ways to Sunday for sending daughters and young mothers off to war -- and, quite possibly, for bringing them back in body bags."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9044",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "You were never going to let women serve in combat.  You always had a safety net.  Or thought you did."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Jordan.  I don't expect you to fully understand this -- but sometimes there's more to be gained from the fight than the victory."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "So the rhetoric gets you headlines. But the reality gets you in trouble."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "The reality is this:  We send far too many men off to war.  I don't need to compound the problem with women.  Can you honestly tell me you wanted that life?  Squat-pissing in some third-world jungle with --"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I wanted the choice.  The chance to prove myself, my skills, my work, me.  That's how it should've been."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9045",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "DEHAVEN",
+        "text": "I once promised you a fast ticket, Jordan, and I always meant to make good on that.  Come work for me.  I can always use a hard-charger on my team."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "You promise Wickwire a fast ticket, too?"
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "I've had no direct communication with him since this whole thing began.  And that's quite verifiable."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I'm sure it is."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "You'll think about my offer?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "You know, I wonder what the SecNav would think about it.  If I spoke with him."
+      },
+      {
+        "speaker": "DEHAVEN",
+        "text": "Well, I spoke with Mr. Hayes this morning myself -- and told him the deal was off.  No more test cases. He was only too happy to oblige.  Don't play politics with me, little darlin'.  You'd be up way past your bedtime."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9046",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "HAYES",
+        "text": "So she picks the women, we pick the programs.  Seals?"
+      },
+      {
+        "speaker": "FLAG OFFICER #1",
+        "text": "I'd go Special Reconnaissance. Every bit as tough -- and we have a 60 percent drop-out rate among the men."
+      },
+      {
+        "speaker": "HAYES",
+        "text": "Then I suggest we start there."
+      },
+      {
+        "speaker": "FLAG OFFICER #1",
+        "text": "Doesn't matter who she picks.  No woman is going to last one week in a commando training course.  And I don't care who it is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9047",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "HAYES",
+        "text": "What the hell is the President trying to do?  Steal DeHaven's thunder?"
+      },
+      {
+        "speaker": "FLAG OFFICER #1",
+        "text": "I think it's more important, sir, to decide what we're going to do -- since it's apparent this issue is not going away quietly."
+      },
+      {
+        "speaker": "HAYES",
+        "text": "\"G.I. Jane.\"  And which one of you told me she wouldn't last a week? Huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9048",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Montgomery, why do they call you \"Flea\"?"
+      },
+      {
+        "speaker": "FLEA",
+        "text": "It's really \"F. Lee Montgomery\" -- but that gets whittled down to just \"Flea.\"  For short, ma'am."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "So it really has nothing to do with actual brain size?"
+      },
+      {
+        "speaker": "FLEA",
+        "text": "No, ma'am."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Well, Flea, I appreciate the respect you just showed me.  But I don't need it and don't want it -- not that kind of respect, anyway.  It's just gonna hurt us both, okay?"
+      },
+      {
+        "speaker": "FLEA",
+        "text": "I'll work on it, ma'am."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Do that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9049",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Hey.  You okay, Flea?"
+      },
+      {
+        "speaker": "FLEA",
+        "text": "'Snot me.  It's him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9050",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "FLEA",
+        "text": "Really don't wanna be captured, el- tee.  Heard some bad things."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Fuck.  Basher-Basher, this is Ground Crew Six requesting emergency extraction. Stand by for a PRC fix..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9051",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "FLEA",
+        "text": "Close as I can get, el-tee!"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Flea, 'Cool, Cortez, Newman -- take your minis, hit the water.  Go, GO!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9052",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "FLEA",
+        "text": "Six o'clock!  Marking, marking!"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Spotted you, Chief.  Pri One is to slip you some air, so we're coming down with a tank -- just something until the A-team shows.  Over."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9053",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "INSTRUCTOR JOHNS",
+        "text": "Don't have to use it, O'Neil, but it's gotta go out.  Five... four... three..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I can make this wall without --"
+      },
+      {
+        "speaker": "INSTRUCTOR JOHNS",
+        "text": "... two... one... MARK!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9054",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Just do it, okay?"
+      },
+      {
+        "speaker": "INSTRUCTOR JOHNS",
+        "text": "If you can't feel the other guy's pecker, you ain't in tight enough! I want nuts to butts!"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Come on, Montgomery..."
+      },
+      {
+        "speaker": "INSTRUCTOR JOHNS",
+        "text": "Flea!  O'Neil!  Why is there a break in that line?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9055",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "INSTRUCTOR JOHNS",
+        "text": "O'Neil?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "INSTRUCTOR JOHNS",
+        "text": "You're wanted at the C.O.'s."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9056",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "Time."
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "Check your watch, Pyro.  Seems fast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9057",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "Miller.  Thought the guy was made of depleted uranium.  Really didn't expect to lose him."
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "Every class has its surprises, Pyro. This one'll be no different."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9058",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "THE CHIEF",
+        "text": "Boat Five -- Wickwire, Cozad, Vinyl, Intagliata, Ayers, and Wise. Lieutenant Wickwire is your senior officer.  Follow his orders to your death."
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "Get it up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9059",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "THE CHIEF",
+        "text": "You don't think she'd be raped if she were captured?  You don't think the threat of rape would be used to leverage the men?"
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "You broke a dozen training rules back there -- before I lost count."
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "I've had it.  Just because they pay me like a baby-sitter doesn't mean I'm gonna be one."
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "She's a trainee, just like the others.  Why are you coming down so hard?"
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "She's an officer.  There's a higher standard."
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "She's a women, and that's why you're ridin' her bareback."
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "Of course it is.  And I'm gonna stay on her until everyone realizes this is not some bullshit equal-rights thing, that real lives are gonna be lost.  Maybe mine, maybe yours."
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "I oughtta report you."
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "I think you probably would -- if you didn't know I was right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9060",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Thank you, sir.  But I like these just fine."
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "Not doin' them very fine, O'Neil."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I'll try anyway, sir."
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "You'll try what we tell you to try, O'Neil.  Go regulation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9061",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "Automatic five-second deduction, which slips you under the wire. It's called \"gender-norming,\" O'Neil -- standard procedure for all females in physical training courses.  Where you been the last few years?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "What \"all females\"?  If I'm the only --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9062",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "The Navy Cross..."
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "I believe he earned it for saving a man's life in Saudi Arabia.  He wanted you to have it.  He was very clear on that point."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I was looking for him earlier, but..."
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "The Chief was granted early retirement as of 17-hundred yesterday.  By 18-hundred he was gone.  Out of the Navy."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Just a coincidence?"
+      },
+      {
+        "speaker": "INSTRUCTOR PYRO",
+        "text": "Maybe it's not my place to speculate on his private thoughts.  But I think the Chief knew that his way -- his world -- had come and gone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9063",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Lieutenant O'Neil."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Gotta situation here.  Where are you?  Stuck in traffic?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Not due in for 22 minutes, sir. Watcha got?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9064",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Do we know it's him using the beacon?  Not a decoy?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Signals received only sparingly, in such a pattern that leads us to conclude it is a downed aviator trying to conserve his batteries."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Chances of recovery?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "You're the analyst for East China, O'Neil.  Analyze."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9065",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "North Korean beaches are the best protected, most heavily monitored in the world.  The civilian population is so propagandized that it acts as an Early Warning system.  Extraction team has to be small and silent -- I'd go with Seals over Delta Force. Problem is, don't want to hold a conventional sub off-shore for target practice.  Where's The Polk?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Halfway 'round the world.  So that's the problem -- we can get the team in, just not out."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Unless you Whiskey Run."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Blank faces here, O'Neil."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Quick-hit technique used by Capone. Rigged a getaway car with running boards and handles.  All his guys had to do was jump on and take a ride.  Check the files -- DPRK-57 -- I doped it out as a contingency plan:  Seal Team infiltrates, picks up the package, links up with recovery sub.  But don't waste time opening and closing hatches.  They just grab the periscope and hang on for neutral waters."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9066",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "You expect the extraction team to ride the sub bare-back?  Is that correct, O'Neil?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Only four minutes to neutral waters, sir.  Why not?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9067",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "That was good headwork, lieutenant."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Thank you, sir.  We hear back from the Pentagon?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Probably hear back from CNN first."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Hate this part.  Just sweating it out on the sidelines."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Intel has its own glory, lieutenant -- no matter how subtle."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9068",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "By the way, I'll need that option paper by 11-hundred today so I can review it with Admiral Hanover.  And do we have any of that breakfast tea around here?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Is this my glory, sir?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9069",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "So why're you even considering it? Are you?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Just like you would be."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Spec-Recon.  Those guys are world- class warriors.  And they will not want you there, Jordan."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I take it you don't either.  Feet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9070",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "Well, you're doin' shit-hot at Intel."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Royce.  We're the same age, we started the same time -- and now you're sitting in the upperdecks while I'm still down in the bullpen. What does that tell you about the Navy?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "She's haze grey and underway..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "You need operational duty to really advance... you need combat training to go operational... yet combat training is off-limits to people with tits.  I'm topped out at Intel. Forget the glass ceiling -- I'm beating my head on a big brass ceiling."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "So dump on me."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "This has nothing to do with you."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Well, guess I don't even need to be here..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Get your dick back here.  It has everything to do with you."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "You're such a ball-breaker sometimes.  Especially at night."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Sorry.  But after our days...  So if I try this thing... if I ship out to Coronado... what happens here?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "I'll try to keep the door open.  If you wash out, I make it so that --"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Wai', wait.  What happens if it works?  Four months of training, three years of operational duty. What then?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "I don't feel like doing an option paper on the rest of my life, Jordan.  Maybe we should just let it happen."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Which is guy-speak for..."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Sounded lame as soon as it came out of my mouth.  But I'm trying to be honest, okay?  Three years is a long time.  Don't ask me to predict how I'll feel then, Jordan, because I don't know.  And either do you."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "You know, right up until you said that -- I thought I did know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9071",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "Jordan..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Thank you, Royce.  It was shaping up like such a tough call -- and then you go and make it so goddamn easy. Really, thank you so much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9072",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "I've been trying you for five days. Don't they give you messages?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "It's hard to find time to sleep, Royce.  Much less keep up with my phone life."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "How hard they making it on you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9073",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "That bad?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I feel like there's men here, there's women here -- then there's men.  But hey, what'd I expect?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9074",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "Well, not this.  I was doing the Pentagon scene few nights ago.  Got some fresh stuff -- about you.  You may be in a hostile camp.  I think someone may be taking steps to ensure that you crash and burn."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Me?  Why me?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Don't you know?  How they're talking about you?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I saw an article..."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "I can't walk two blocks in Washington without hearing about \"G.I. Jane.\"  You're all over the place, and whether you wanted it or not, the feminists are sizing you up for that poster."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9075",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "So why are you telling me this?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Big symbols make big targets, Jordan.  I think someone's gunning for you."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "You know, Royce, I got enough heat on me without you turning up the jets, too."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "I'm only trying to warn you in case --"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Well, let me warm you:  I'm going though with this.  The more everybody fucks with me, fucks with my head, the more it just makes me want to finish.  So don't expect me back crying in your arms any time soon, okay?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "That's not what I want, Jordan.  I mean... it is and it isn't..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Still can't make up your mind, huh? Gotta go, Royce."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Jordan.  You watch your ass."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Sure.  I'll join the crowd."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9076",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "All I wanted was an honest chance. And If I couldn't get it, I couldn't stay."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "And this class officer... \"Wickwire.\"  You think he was just trying to get even?  Striking back for..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Maybe.  Though it didn't seem like he was getting any satisfaction out of it.  Almost like...  Did I say he was class officer?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Almost like someone put him up to it.  Okay, who?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "No shortage of suspects."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "The Chief?  Or maybe even Turrentine?  Your C.O.?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9077",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "C'mon, Jordan.  Do the headwork with me."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "It's done with, Royce.  Let it go."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Someone screwed you over like this, left unanswered charges hanging over your head, and you're not gonna fight back?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I'm tired of fighting back.  I just wanted to come home and be safe and have you here and the river there and just forget the rest of the world, okay?"
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Well, before you crawl off to die, Jordan, give me five minutes of good headwork."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9078",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "\"John James Urgayle.\"  The Chief."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "What about him."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Instructors typically pull three year assignments.  This guy's in and out in one year -- your year.  That sound right?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Sounds like an amazing coincidence."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Or like maybe he was baby sitting a problem child for the Navy."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I don't know, I don't care."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Well, pardon me if I do.  Now who else?  Who could've leveraged a class officer like that?  C'mon, Jordan, keep your head in the game."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9079",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "\"In Washington...\""
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "What?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Wickwire said he was dry-docked in Washington between stints at Coronado..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9080",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "ROYCE",
+        "text": "\"Wickwire, Thomas Dane\"... Second run at Coronado... and correct, they had him stashed in the \"Appropriation Liaison Office,\" whatever that is."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "You don't crap out of Spec-Recon and get another shot without dispensation from someone up in flag country.  He's got a Sea Daddy somewhere."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "I'd sure like to know who."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Yeah.  Me too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9081",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "So here we are again.  Staring three years of operational duty in the face."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "Look.  It's not like you'd be completely out of reach.  And maybe we could call in a few favors, get you stationed at Norfolk instead of Coronado.  There are ways of dealing with these things -- I mean, if people are so inclined."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Which is guy-speak for..."
+      },
+      {
+        "speaker": "ROYCE",
+        "text": "\"Yes, Jordan -- I'll wait for you no matter how long.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9082",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "WICKWIRE",
+        "text": "They're more afraid of you."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Well, now I feel so much better."
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "It was made clear before you came -- harassment equals career suicide. Can't say anything good, so they don't say much at all.  To your face, anyway."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Whose orders were those?"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "It was made clear.  Anyway, stay ballsy.  First week's hell, then it levels out.  Until S.E.R.E. training, anyway.  That's hell-and-a-half."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "And how do you know that?"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "Made it to Week 10 last time."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I didn't know they let you try again.  Especially at your age."
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "You're kind of a surprise yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9083",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "WICKWIRE",
+        "text": "Hey.  Way to gut it out."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Thanks, Wick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9084",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Who is it?"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "You know, I had an apartment about this size once."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Wick.  They got your crew, too?"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "Intagliata was out chasing breakfast.  They found his tracks. Well, shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9085",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "You really came back for more?  Of this?"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "When I was sittin' behind a desk in Washington, it made sense, somehow. Blame it on my big brother.  He was Spec-Recon.  And the stories he used to tell..."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "If you got a good one, Wick..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9086",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "WICKWIRE",
+        "text": "One time he was doing a rekkie of the Libyan coastline.  This is, like, right before we bombed Khadaffi into the past tense.  So his crew does a nighttime infil, maps all the big artillery placements and stuff, then turns around to get the hell gone.  But between them and the water are five Libyan guards, all armed to the nuts."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "They had to kill 'em?"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "Nah, they were dead-ass asleep.  But on every guard's chest,they left one Marlboro cigarette.  Just a little calling card to say they'd been there -- and could come back any time they wanted."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "That's a good story."
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "So the shit you gotta go through? To get from here to there?  Brother said it was worth it.  Worth the training... worth the divorce... worth anything."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "He was married?"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "At first."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "You got anybody, Wick?"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "Not me.  You?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9087",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "WICKWIRE",
+        "text": "O'Neil?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "How'd you make it last time, Wick? How'd you get through this part?"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "Last time I didn't."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Let's keep talkin', Wick.  Just keep talkin' to me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9088",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Sorry, didn't mean to --"
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "That's okay.  Just an ex-girlfriend. And know I remember why."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "First big night of liberty and no date?  You're pathetic, Wickwire."
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "Maybe I'll just head over to McP's with the others, have a drink or four.  Don't wanna come, do you?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I can't go out.  Not like this."
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "I think you look beautiful."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Thanks for lying.  But you're the class officer, Wick, and it'd just be weird if we hook up.  Besides..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9089",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Do you, uh, know..."
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "Sure, sure."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "We're going over to her place to make salad and pasta.  Just, you know, nothing special."
+      },
+      {
+        "speaker": "WICKWIRE",
+        "text": "Okay.  Well... thought I'd ask."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9090",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "WICKWIRE",
+        "text": "I'm sorry, O'Neil.  But as class officer, it's my obligation to report all violations."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "This is insane.  You've got no proof."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9091",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "What're you guys doing?  Huh?"
+      },
+      {
+        "speaker": "MCCOOL",
+        "text": "Just askin'"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "What, you gonna give it all up for a maple twist?  How dumb you gotta be? That's exactly what they --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9092",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "MCCOOL",
+        "text": "She part of the training?"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I don't know..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9093",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "If not, firing will only give away our position to hostiles in the area.  Now how smart is that?"
+      },
+      {
+        "speaker": "MCCOOL",
+        "text": "Mighta been civilian."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9094",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "MCCOOL",
+        "text": "32 feet, six inches!"
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I'm lookin', I'm lookin'!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9095",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "'Cool?"
+      },
+      {
+        "speaker": "MCCOOL",
+        "text": "Smoke it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9096",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "So we got two full mini-tanks, three minutes each.  'Cool?  How much air in yours?"
+      },
+      {
+        "speaker": "MCCOOL",
+        "text": "Maybe half.  Not even."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Grab an oar, find a way to weight it down, we're gonna need it.  Cortez, help him.  Flea?  You take one of the two full minis -- and just follow my lead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9097",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Say again, sir?"
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "You heard me.  Move on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9098",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Chief, sir, I don't understand why --"
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "Educate her, Pyro."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9099",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "JORDAN",
+        "text": "Permission to get dressed, sir?"
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "It seems the men couldn't get used to the sight of women blown open and their viscera hanging from tree limbs.  Israeli men would linger over wounded females -- often to the detriment of the mission, often endangering their own lives.  They don't use women anymore."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "Sir, someone mentioned you received the Navy Cross.  May I ask what you got it for?"
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "For pulling a 210-pound man out of a burning barrack in Saudi Arabia."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "I see.  So when a man tries to rescue another man, he's a hero. But when he tries to rescue a woman, he's gone soft."
+      },
+      {
+        "speaker": "THE CHIEF",
+        "text": "Could you have pulled that 210-pound man clear, lieutenant?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_9100",
+    "movie_id": "m66",
+    "turns": [
+      {
+        "speaker": "THE CHIEF",
+        "text": "Females in combat situations impact unit cohesion.  Men fight better without women around.  And that is an historical fact."
+      },
+      {
+        "speaker": "JORDAN",
+        "text": "It also seems like a problem with the men's attitude, sir.  So maybe you should be sniffing around their shower room instead."
+      }
+    ]
+  }
+]

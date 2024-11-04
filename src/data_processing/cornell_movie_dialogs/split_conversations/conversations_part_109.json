@@ -1,0 +1,3034 @@
+[
+  {
+    "conversation_id": "conv_10801",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Do you want to hear it or not?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes. But you might try and spice it up with a little originality."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I got up. I ate breakfast and went shopping. During the afternoon I read a novel."
+      },
+      {
+        "speaker": "BEN",
+        "text": "What one."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "What?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "What novel did you read."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I don't remember."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10802",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Then I fixed supper for my husband and waited until --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "There!"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "What?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Your husband! Mrs. Robinson! There's something we could have a conversation about."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Him?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I mean everything. I don't know anything about how you -- how you work this. I don't know how you get out of the house at night. I don't know the risk involved."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "There isn't any."
+      },
+      {
+        "speaker": "BEN",
+        "text": "There's no risk?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10803",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "How do you get out of the house?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I walk out."
+      },
+      {
+        "speaker": "BEN",
+        "text": "You walk right out the door."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10804",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "What do you say to him?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "He's asleep."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Always?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Benjamin, this isn't a very interesting topic."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Please. Now tell me. How do you know he won't wake up sometime and follow you."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Because he takes sleeping pills. He takes three sleeping pills every night at ten o'clock."
+      },
+      {
+        "speaker": "BEN",
+        "text": "But what about the noise from the car. What if --"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "The driveway's on my side of the house."
+      },
+      {
+        "speaker": "BEN",
+        "text": "We're talking."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "What?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "We're talking, Mrs. Robinson. We're talking."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Calm down, Benjamin."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Now let's keep going here."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Can I undress and talk at the same time?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Right."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Now. You say the driveway's on your side of the house. So I guess you don't sleep in the same room."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "We don't."
+      },
+      {
+        "speaker": "BEN",
+        "text": "So you don't -- I mean I don't like to seem like I'm prying but I guess you don't sleep together or anything."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "No we don't."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well how long has this been going on."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "About five years."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh no. Are you kidding me?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "No."
+      },
+      {
+        "speaker": "BEN",
+        "text": "You have not slept with your husband for five years?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Now and then. He gets drunk a few times a year."
+      },
+      {
+        "speaker": "BEN",
+        "text": "How many times a year."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "On New Year's Eve. Sometimes on his birthday."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Man, is this interesting."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Is it?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "So you don't love him. You wouldn't say you --"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "We've talked enough, Benjamin."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Wait a minute. So you wouldn't say you loved him."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Not exactly."
+      },
+      {
+        "speaker": "BEN",
+        "text": "But you don't hate him."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "No, Benjamin. I don't hate him. Unhook my blouse."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well how do you feel about him, then?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I don't."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well that's kind of a bad situation then, isn't it?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Is it?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I mean it doesn't sound like it could be much worse. If you hated him at least you'd hate him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10805",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Well you loved him once, I assume. When you first knew him."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "No."
+      },
+      {
+        "speaker": "BEN",
+        "text": "What?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I never did, Benjamin. Now let's --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well, wait a minute. You married him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10806",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Why did you do that?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "See if you can guess."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well I can't."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Think real hard, Benjamin."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I can't see why you did, unless... you didn't have to marry him or anything, did you?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Don't tell Elaine."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh no. You had to marry him because you got pregnant?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Are you shocked?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well I never thought of you and Mr. Robinson as the kind of people who..."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "All right. Now let's get to bed."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Wait a minute. Wait a minute. So how did it happen?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "What?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I mean do you feel like telling me what were the circumstances?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Not particularly."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Was he a law student at the time?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10807",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "And you were a student also."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Yes."
+      },
+      {
+        "speaker": "BEN",
+        "text": "At college."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Yes."
+      },
+      {
+        "speaker": "BEN",
+        "text": "What was your major?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Why are you asking me all this?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Because I'm interested, Mrs. Robinson. Now what was your major subject at college?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Art."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Art?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10808",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "But I thought you -- I guess you kind of lost interest in it over the years then."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Kind of."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well how did it happen?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "How do you think."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I mean did he take you up to his room with him? Did you go to a hotel?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Benjamin, what does it possibly matter?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I'm curious."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "We'd go to his car."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh no. In the car you did it?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I don't think we were the first."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10809",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "What kind of car was it?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "What?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Do you remember the make of the car?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Oh my God."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Really. I want to know."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "It was a Ford, Benjamin."
+      },
+      {
+        "speaker": "BEN",
+        "text": "A Ford! A Ford! Goddamnit, a Ford! That's great!"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "That's enough."
+      },
+      {
+        "speaker": "BEN",
+        "text": "So old Elaine Robinson got started in a Ford."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10810",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Don't talk about Elaine."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Don't talk about Elaine?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "No."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Because I don't want you to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10811",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I wish you'd tell me."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "There's nothing to tell."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well why is she a big taboo subject all of a sudden?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10812",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Well -- I guess I'll have to ask her out on a date and find out what's --"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Benjamin, don't you ever take that girl out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10813",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Do you understand that?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well look. I have no intention of taking her out."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Good."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I was just kidding around."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Good."
+      },
+      {
+        "speaker": "BEN",
+        "text": "But why shouldn't I?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I have my reasons."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Then let's hear them."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "No."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Let's hear your reasons, Mrs. Robinson. Because I think I know what they are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10814",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I'm not good enough for her to associate with, am I? I'm not good enough to even talk about her, am I?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Let's drop it."
+      },
+      {
+        "speaker": "BEN",
+        "text": "We're not dropping it. Now that's the reason, isn't it? I'm a dirty degenerate, aren't I? I'm not fit to --"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Benjamin?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I'm good enough for you but I'm too slimy to associate with your daughter. That's it, isn't it? ISN'T IT?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Yes."
+      },
+      {
+        "speaker": "BEN",
+        "text": "You go to hell. You go straight to hell, Mrs. Robinson. Do you think I'm proud of myself? Do you think I'm proud of this?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I wouldn't know."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well, I'm not."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "You're not."
+      },
+      {
+        "speaker": "BEN",
+        "text": "No sir. I am not proud that I spend my time with a broken-down alcoholic!"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I see."
+      },
+      {
+        "speaker": "BEN",
+        "text": "And if you think I come here for any reason besides pure boredom, then you're all wrong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10815",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Because -- Mrs. Robinson this is the sickest, most perverted thing that ever happened to me. And you do what you want but I'm getting the hell out."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Are you?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "You're goddamn right I am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10816",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "That I'm a sick and disgusting person."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Now don't start this."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "What?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Don't start acting hurt."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Don't you expect me to be a little hurt?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Mrs. Robinson, you stand there and tell me I'm not good enough for your daughter."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Did I say that?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Of course you did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10817",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Benjamin, I want to apologize to you if that's the impression you got."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well two minutes ago you told me I wasn't good enough for your daughter. Now you say you're sorry I got that impression."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I didn't mean it. I don't think you'd be right for each other. But I would never say you weren't as good a person as she is."
+      },
+      {
+        "speaker": "BEN",
+        "text": "You wouldn't."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Of course I wouldn't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10818",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Well it's pretty obvious you don't want me around any more."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well look -- I was kind of upset there.  I'm sorry I said those things."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "If that's how you feel --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "But it's not."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "That's all right. I think I can understand why I'm disgusting to you."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh no.  Look -- I like you. I wouldn't keep coming here if I didn't like you."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "But if it's sickening for you --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "It's not! I enjoy it! I look forward to it. It's the one thing I have to look forward to."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "You don't have to say that."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well I wouldn't. I would never say it if it wasn't true."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "May I stay then?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes. Please. I want you to."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well don't thank me, because I want you to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10819",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Look. Why the hell did you bring this up. It never occurred to me to take her out."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Then give me your word you won't."
+      },
+      {
+        "speaker": "BEN",
+        "text": "This is absurd."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Promise me, Benjamin."
+      },
+      {
+        "speaker": "BEN",
+        "text": "All right, for christ's sake. I promise I will never take out Elaine Robinson."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Thank you.  Benjamin --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Let's not talk about it. Let's not talk at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10820",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Now listen -- this was not my idea. It was my father's idea."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Benjamin -- I thought I made myself perfectly clear about this."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Look, we'll go out to dinner and have a drink and I'll bring her back. Because it was either that or a dinner party for the two families. And I'm afraid I couldn't quite handle that, if you don't mind. I have no intention of ever taking your precious daughter out again in her life. So don't get upset about it."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "But I am. I'm extremely upset about it, Benjamin."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10821",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Drive down the block."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Mrs. Robinson -- I have a date with Elaine. We're going for a drive."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Do exactly what I say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10822",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Now it seems to me --"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Listen to me very carefully, Benjamin. You are not to see Elaine again. Ever. Those are my orders. Is that clear?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10823",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Mrs. Robinson --"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I can makes things quite unpleasant."
+      },
+      {
+        "speaker": "BEN",
+        "text": "How?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "In order to keep Elaine away from you -- I am prepared to tell her everything."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I don't believe you."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Then you'd better start believing me."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Mrs. Robinson, don't wreck it. I'm asking you please not to wreck it."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Go home now."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I just don't believe you would do that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10824",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Hello. Get me the police, please."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Where is Elaine?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I'll be with you in a moment, Benjamin.  Will you send a police car to twelve hundred Glenview Road. We have a burgler here. Just a second. I'll ask him.  Are you armed?  No -- I don't believe he is. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10825",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "What have you done to her?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I think we have everything quite under control now, Benjamin. Would you like a quick drink before you go?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10826",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "You can't stop me from seeing her, Mrs. Robinson. I'll find her."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I'm sorry we won't be able to invite you to the wedding, Benjamin, but the arrangements have been so rushed --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "What the hell have you done?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10827",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Ahh. I don't think you'll have time for that drink after all."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I'll find her."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "I don't think so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10828",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I say I've got it."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "The toothbrush. I got it all right."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Very good, sir."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes. Well -- goodnight."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Goodnight, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10829",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "No -- actually I'm not --"
+      },
+      {
+        "speaker": "MRS. SINGLEMAN",
+        "text": "I'd like you to know my sister, Miss DeWitte --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10830",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. SINGLEMAN",
+        "text": "Braddock -- Braddock?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes, but I'm afraid --"
+      },
+      {
+        "speaker": "MRS. SINGLEMAN",
+        "text": "I'll find your table in a moment. Braddock. Not Braniff? We have a Braniff."
+      },
+      {
+        "speaker": "BEN",
+        "text": "No -- actually I'm just looking for a friend."
+      },
+      {
+        "speaker": "MRS. SINGLEMAN",
+        "text": "I'm afraid I don't understand."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I'm not with your party -- I'm sorry."
+      },
+      {
+        "speaker": "MRS. SINGLEMAN",
+        "text": "Hey -- I don't get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10831",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Say hello to Mrs. Robinson, Benjamin."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Hello, Mrs. Robinson."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10832",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Can I talk to you a minute?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Sure."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Benjamin? I'm going to ask you something but you don't have to tell me if you don't want."
+      },
+      {
+        "speaker": "BEN",
+        "text": "What?"
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Well I'm going to ask you what you do when you go off at night."
+      },
+      {
+        "speaker": "BEN",
+        "text": "When I go off?"
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "You don't have to tell me if you don't want."
+      },
+      {
+        "speaker": "BEN",
+        "text": "No, I do. I want to tell you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10833",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I drive around."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "What else?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Nothing else."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Well you don't drive around from midnight until noon the next day, Benjamin."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh, no."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Then what do you do? Do you meet someone?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Meet someone?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10834",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Why did you say that?"
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Well this is your business, Benjamin.  If you --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No wait. Wait."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10835",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I don't meet anyone, mother, but why did you say that?"
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Benjamin, I'm not going to pry into your affairs, but I'd rather you didn't say anything at all than be dishonest. Goodnight, Benjamin."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well, wait."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10836",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Well why do you -- why do you think that?"
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Because I know you don't drive around for twelve hours."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh. Well, I don't. Shall I tell you what I do?"
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Not if you don't want to."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I do."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "But I don't want you to make up something."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I'm not. But I'm -- I'm not very proud of what I do. I usually get kind of drunk. I usually drive over to Los Angeles and go to some bars and get kind of drunk. Then I take a hotel room. So I won't have to drive home on the freeway. I mean it kind of scares me to drive home after --"
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Goodnight, Benjamin."
+      },
+      {
+        "speaker": "BEN",
+        "text": "You believe me, don't you?"
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "No."
+      },
+      {
+        "speaker": "BEN",
+        "text": "You don't?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10837",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "But I want you to. Please. Please will you believe me."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Goodnight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10838",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "It's pretty embarrassing. I really don't know what to tell Mr. Robinson. It's awkward and strained for me every time he suggests that you call up Elaine."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Next time he suggests it, I'll tell him I have no intention of ever calling her up in my life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10839",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Don't go on like this. Now if Benjamin absolutely refuses to take her out --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I do."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "-- then I'll simply invite all the Robinsons' over for dinner on Thursday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10840",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I'm going up to Berkeley today."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Oh, Ben -- this is so -- exciting --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10841",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "They don't know?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No -- they don't."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Well -- when did you decide all this?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "About an hour ago."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10842",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "When did you two talk this over?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "We haven't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10843",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I'm just --"
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "-- worried?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well --"
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "About what?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I guess -- about my future."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "What about it?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I don't know. I want it to be --"
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "To be what?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Different."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10844",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Why?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Well -- it's very comfortable -- just to drift here."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Have you thought about graduate school?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Would you mind telling me then -- what were those four years of college for? What was the point of all that hard work?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "You got me."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Now listen, Ben. I think it's a very good thing that a young man -- after he's done some very good work -- should have a chance to relax and enjoy himself, and lie around, and drink beer and so on. But after a few weeks I believe that person would want to take some stock in himself and his situation and start to think about getting off his ass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10845",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "I guess she's not good enough for you, is that it?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Look -- Elaine Robinson and I do not get along."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "How do you know? You haven't seen her since high school. I guess your evenings, whatever you do with them, are just too valuable."
+      },
+      {
+        "speaker": "BEN",
+        "text": "That has nothing to do with it --"
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "I guess I'll just tell Mr. Robinson that you're just too busy every evening -- doing God knows what --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10846",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Say that again."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I'm going to marry Elaine Robinson."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10847",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Come on, let's call the Robinsons. We've got something to celebrate."
+      },
+      {
+        "speaker": "BEN",
+        "text": "No. I think you'll want to wait on that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10848",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Wait a minute. You talked to Elaine this morning?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No. She doesn't know about it."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "She doesn't know that you're coming up to Berkeley?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No. Actually -- she doesn't know about us getting married yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10849",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Ben -- this whole idea sounds pretty half-baked."
+      },
+      {
+        "speaker": "BEN",
+        "text": "No -- it's not. It's completely baked. It's a decision I've made."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10850",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "I drove -- I drove Mrs. Robinson home. She wanted me to drive her home so I -- I drove her home."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Swell. I appreciate it."
+      },
+      {
+        "speaker": "BEN",
+        "text": "She's upstairs. She wanted me to wait down here till you got home."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Standing guard over the old castle, are you?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10851",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Here. It looks like you need a refill."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh no."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "What?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I've got to go."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Is anything wrong? You look a little shaken up."
+      },
+      {
+        "speaker": "BEN",
+        "text": "No. No -- I'm just -- I'm just a little worried about my future. I'm a little upset about my future."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10852",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Thank you very much, sir."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Ben -- how old are you now?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Twenty. I'll be twenty-one next week."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "That's a hell of a good age to be."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "I wish I was that age again. Because, Ben --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "You'll never be young again."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I know."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Ben, can I say something to you?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "What?"
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "How long have we known each other now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10853",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "How long have you and I known each other? How long have your Dad and I been partners?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Quite a while."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "I've watched you grow up, Ben."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "In many ways I feel as though you were my own son."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "So I hope you won't mind my giving you a friendly piece of advice."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I'd like to hear it."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Ben -- I think -- I think you ought to be taking it a little easier right now than you seem to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10854",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "You have yourself a few flings this summer. I bet you're quite a ladies' man."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh no."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "What? You look like the kind of guy that has to fight them off.  Doesn't he look to you like the kind of guy who has to fight them off?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10855",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Oh say -- Elaine gets down from Berkeley on Saturday."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh yes."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Ben -- I want you to give her a call."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I will."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Great."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10856",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Hi, Ben. What are you doing with yourself these days?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Oh -- not too much. Taking it easy."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "That's what I'd do if I could. Nothing wrong with that. Hey Ben, Elaine's coming down from Berkeley soon. I want you to call her up this time."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I will."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Because I just think you two would hit it off real well together."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10857",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Hello."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "What would you say to a short one? Bourbon still your drink?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10858",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Do you want -- do you want to try and tell me why you did it?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Mr. Robinson?"
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Do you have a special grudge against me? Do you feel a particularly strong resentment for me?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No, it's not --"
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Is there something I've said that's caused this contempt? Or is it just the things I stand for that you despise?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "It was nothing to do with you, sir."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Well, Ben, it was quite a bit to do with me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10859",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Now look -- please --"
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Ben, I think we're two civilized human beings. Do you think it's necessary to threaten each other?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "I am not threatening you."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Do you want to unclench your fists, please? Thank you. I can see in the dark, you know. I've been here quite a while."
+      },
+      {
+        "speaker": "BEN",
+        "text": "I am trying to tell you I have no personal feelings about you, Mr. Robinson. I am trying to tell you I do not resent you."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "You don't respect me terribly much either, do you?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "No, I don't."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Well, I don't think we have a whole lot to say to each other, Ben. I do think you should know the consequences of what you've done. I do think you should know that my wife and I are getting a divorce soon."
+      },
+      {
+        "speaker": "BEN",
+        "text": "But why?"
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Why?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "It shouldn't make any difference what happened."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "That's quite a statement."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Listen to me. We got -- we got into bed with each other. But it was nothing. It was nothing at all. We might -- we might just as well have been shaking hands."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Shaking hands. Well, that's not saying much for my wife, is it?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "You miss the point."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Don't shout at me, Ben."
+      },
+      {
+        "speaker": "BEN",
+        "text": "The point is -- I don't love your wife. I love your daughter, sir."
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "Well -- I'm sure you think you do, Ben, but after a few times in bed with Elaine I feel quite sure you'd get over that as quickly as you --"
+      },
+      {
+        "speaker": "BEN",
+        "text": "HUH?"
+      },
+      {
+        "speaker": "MR. ROBINSON",
+        "text": "I think I've talked about this enough. I don't know how far I can go, Ben. I don't know if I can prosecute or not, but I think maybe I can. In the light of what's happened I think maybe I can get you behind bars if you ever look at my daughter again. I have seen Elaine and I have spent the afternoon taking steps to insure..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10860",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Hello."
+      },
+      {
+        "speaker": "BEN'S VOICE",
+        "text": "Mrs. Robinson?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "BEN'S VOICE",
+        "text": "It's Benjamin."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "BEN'S VOICE",
+        "text": "Benjamin Braddock."
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Benjamin -- where are you?"
+      },
+      {
+        "speaker": "BEN'S VOICE",
+        "text": "Can you look through the glass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10861",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN'S VOICE",
+        "text": "Can you see me now?"
+      },
+      {
+        "speaker": "MRS. ROBINSON",
+        "text": "Yes, I can."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10862",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Are you ready in there, feature attraction?"
+      },
+      {
+        "speaker": "BEN'S VOICE",
+        "text": "Could I speak to you for a second, Dad?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10863",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "BEN'S VOICE",
+        "text": "Dad -- could we just talk about this for a second?"
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Twenty-one-years-old, ladies and gentlemen; four of those years spent accomplishing some rather extraordinary things at one of our nation's leading seats of learning --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10864",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "I can't hold them much longer, Ben. You better get out here."
+      },
+      {
+        "speaker": "BEN'S VOICE",
+        "text": "I'd like to discuss this."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "This boy -- I'm sorry -- this young man -- is soon to continue his education as a Frank Halpingham Award Scholar -- but before he does --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10865",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "-- before he does --  You're disappointing them, Ben. You're disappointing them."
+      },
+      {
+        "speaker": "BEN'S VOICE",
+        "text": "Dad -- can you listen --"
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "I'll give you ten seconds.  He is going to give us a practical demonstration of what I feel safe in saying is a pretty exciting birthday present -- and it better work or I'm out over two hundred bucks -- so let's hear it for --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10866",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "Is anything wrong?"
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "No! No -- we're just on our way downstairs!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10867",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "The Carlsons' are here."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "They are?  Come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10868",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "They came all the way from Tarzana."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "It's a wonderful thing to have so many devoted friends."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10869",
+    "movie_id": "m77",
+    "turns": [
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "What's happening?"
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "Ben says he and Elaine are getting married."
+      },
+      {
+        "speaker": "MRS. BRADDOCK",
+        "text": "I don't believe it."
+      },
+      {
+        "speaker": "MR. BRADDOCK",
+        "text": "That what he says. Right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10870",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "A MAN",
+        "text": "Turn 'em up."
+      },
+      {
+        "speaker": "KRINGELEIN",
+        "text": "Oh yes -- that's right -- look! I win, don't I --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10871",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "KRINGELEIN",
+        "text": "I'm having luck for the first time in my life."
+      },
+      {
+        "speaker": "A MAN",
+        "text": "Your bank, Mr. Kringelein."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10872",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "KRINGELEIN",
+        "text": "I oughtn't to presume, but I --  I'm so grateful to you -- it's been so marvelous. The first time in my life I have gambled -- I've danced! Oh, you can laugh, gentlemen, but it's the first time in my life I've ever tasted life!"
+      },
+      {
+        "speaker": "A MAN",
+        "text": "Splendid!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10873",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "KRINGELEIN",
+        "text": "Life, gentlemen, is wonderful, but very dangerous. You must have courage for it, then it's wonderful. You gentlemen don't know that because you are all healthy and happy, but I -- believe me -- a man must know death and not until then does a man know anything about life."
+      },
+      {
+        "speaker": "A MAN",
+        "text": "Rejoice in life while yet the small lamp burns."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10874",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "A MAN",
+        "text": "It's a short life and a gay one..."
+      },
+      {
+        "speaker": "KRINGELEIN",
+        "text": "Every glass high to life -- the splendid, dangerous, mighty, brief -- brief life -- and the courage to live it.  Baron, you know -- I've only lived since last night -- but that little while seems longer than all the time before -- all the --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10875",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "Have you a minute now?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "No -- I told you not to come in this lobby."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "Time's getting short."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I've told you a hundred times not to speak to me with a cigarette in your mouth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10876",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "I want to speak --"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Not now."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "Yes, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10877",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "You are late -- the dancer's gone to the theatre."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Well?"
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "She's gone to the theatre -- don't you know?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Yes."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "And what are you going to do?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "The pearls are in her room."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "Now listen to me. The others are getting suspicious of you. I was on the telephone to Amsterdam today, they think you're scared."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I've been careful, I've been waiting my chance."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "You've been waiting your chance. You're too much of a gentleman -- that's the trouble with you."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I told you I'll get the pearls tonight."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "Need any help?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "No."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "Have you got that skeleton key?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10878",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "No --"
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "Why?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "The floor clerk is out there in the corridor -- she sees everything ---"
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "I could take care of her."
+      },
+      {
+        "speaker": "BARON",
+        "text": "How?"
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "Chloroform on a handkerchief from behind -- while you..."
+      },
+      {
+        "speaker": "BARON",
+        "text": "No -- no -- no -- no..."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "Why?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Poor girl -- chloroform would give her a rotten headache... I know -- I had it in the war. Besides, she's very pretty -- not young but --"
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "You're no good for this business. It's just a joke to you..."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I don't like your tone."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "No --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10879",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "Get out and leave it to me... be ready to leave on the night train for Amsterdam..."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "With the pearls?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "With the pearls --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10880",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "I've quit."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "You can't."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I'm not going to get those pearls and neither are you."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "What about the money?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I'll pay you back."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "How?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I have an idea working in my head..."
+      },
+      {
+        "speaker": "CHAUFFEUR",
+        "text": "You might find a bullet through that head..."
+      },
+      {
+        "speaker": "BARON",
+        "text": "If you did that, you'd get nothing except the police after you. If you wait -- I'll give you your six thousand back --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10881",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "Like dancing?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Not with strangers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10882",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "Never?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "You're a fool!"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Yes, I am rather."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10883",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "He must be very nice."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Who?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Whoever is keeping you waiting."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Have you seen it?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Oh, my large and noisy neighbor -- really? That?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "That."
+      },
+      {
+        "speaker": "BARON",
+        "text": "You?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Oh -- work!!"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Oh!"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Dictation.  You know..."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Oh... poor child. If you were free, I'd ask you to come and have some tea -- but --"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Tea would spoil my dinner.  One meal a day, I'd hate to spoil it."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Reducing?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "No -- why? -- should I?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Lord no -- charming -- but why one meal a day?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Money -- Ever heard of it?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Yes -- yes indeed -- but you are a...  ...a stenographer. Don't little stenographers earn little pennies?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Very little."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Too bad."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Did you ever see a stenographer with a decent frock on? -- One that she'd bought herself?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Poor child --  I wish I were free tonight -- we could --"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Aren't you?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "What?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Free --"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Unfortunately no -- to bad -- tomorrow though."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Tomorrow? What time tomorrow?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Shall we say five o'clock -- downstairs?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Where downstairs?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Yellow Room where they dance --"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "You're very funny --"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Yes? -- Tomorrow?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Of course."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Really?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10884",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "We'll dance."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "All right. We'll dance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10885",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "I'd given you up."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10886",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "Chasing around."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Chasing what?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10887",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "You were very different yesterday."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Yesterday -- yes -- that was yesterday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10888",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "That was lovely."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Will you do me a big favor?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "I'll do anything for you."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Would you like to make a man happy?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Yes -- I'd love to."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Then dance the next number with Kringelein."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Why?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I feel sorry for him."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "You're not a bit like you were yesterday."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I fell in love last night -- the real thing."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Oh -- there's no real thing -- it doesn't exist."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I thought that, too -- but I found that it does. Come along, dance with Kringelein."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Anything for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10889",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "Going?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Yes --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10890",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "Flaemmchen, what are you doing here in the middle of the night."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Looking for my room -- one sixty- six."
+      },
+      {
+        "speaker": "BARON",
+        "text": "You live here?"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "For tonight."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Oh!"
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "Yes -- oh!"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Well -- such is life, Flaemmchen."
+      },
+      {
+        "speaker": "FLAEMMCHEN",
+        "text": "And Baron, thanks so much for everything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10891",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "Please do not be frightened, Madam."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "What do you want here?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Nothing -- only to be here."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Why do you hide in my room?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "But surely you must know -- because I love you."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Because you love me -- you love me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10892",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "Poor little Grusinskaya! Does it do you good to cry? Are you afraid? Shall I go?"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "I was so alone -- always alone -- and suddenly you were there and said that.  No. I am not afraid. It is strange."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Don't cry -- it tears my heart to see you sob like that."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Nerves -- just nerves. You must forgive me. I have had a bad evening. I am very tired. Do you know what it is to be tired -- tired of a routine existence?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I'm afraid not -- I usually do just what I feel like doing at the moment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10893",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "So you feel like coming into a lady's room -- and you come... What now?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I'd like to smoke a cigarette."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Certainly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10894",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Why do you look at me like that?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I did not know you were so beautiful... and --"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "And then --?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "No irony. You're so appealing -- so soft -- so tired. I feel like taking you in my arms and not letting anything more happen to you -- ever."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "And -- and --"
+      },
+      {
+        "speaker": "BARON",
+        "text": "How tired you are!"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Yes -- tired..."
+      },
+      {
+        "speaker": "BARON",
+        "text": "So alone."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Alone. All alone.  Oh, you strange -- strange creature."
+      },
+      {
+        "speaker": "BARON",
+        "text": "You mustn't talk Russian to me."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Strange man..."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Am I quite strange to you?"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Not quite strange now. It is as if I had been expecting you. You know, once when the Grand Duke was alive, I found a man hiding in my room -- a young officer --"
+      },
+      {
+        "speaker": "BARON",
+        "text": "And...?"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "He disappeared. Later he was found dead."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I never knew it was so dangerous to hide in a woman's room when she's alone."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Go away. Who are you --?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "A man who could love -- that is all, who has forgotten everything else for you."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "You could love me. It is so long since I have heard that word. Nobody has loved me for a long time. It is so icy-cold to be famous. One is so cruelly alone. How is it that you -- Let me look at you. Your hands. Your eyes. Why could you love me?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I saw you just now -- then I saw you cry -- and now I see you in the mirror -- Grusinskaya..."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Grusinskaya... Oh -- oh if you knew how I slaved and slaved for Grusinskaya -- for the success of Grusinskaya -- for the triumph of Grusinskaya... and what is she now? Just someone who has found that on the day success ceases life ceases -- Are you listening to me -- Do you understand? -- I want you to understand."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Yes -- I do understand."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "I think you must go now -- the key is on the floor."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I'm not going -- You know I'm not going -- Let me stay here?"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "I want to be alone."
+      },
+      {
+        "speaker": "BARON",
+        "text": "That is not so -- you don't want to be alone."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "I want to be alone --"
+      },
+      {
+        "speaker": "BARON",
+        "text": "No -- You don't want to be alone at all -- You were in despair before -- If I left you, you'd feel worse than you did before, You must not be alone -- You mustn't cry -- you must forget... Tell me that I can stay with you -- tell me."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Just for a minute then."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10895",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "The stage frays one's nerves... the discipline -- it's so exacting. Discipline means doing what you don't want to do and take no pleasure in doing. Do you know what I mean? Have you ever experienced the weariness that comes from discipline?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I? -- Oh, no. I do only what I take pleasure in doing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10896",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "I see -- you do only what you take pleasure in doing. You take pleasure in coming into a woman's bedroom and you come. You take pleasure in a dangerous climb onto a balcony, so you do it... And what is your pleasure now?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I should like to smoke."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10897",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Why do you smile?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Because I can see something in the mirror that you cannot. My dear --"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "What can you see?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "You are beautiful!"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "No."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Beautiful but so sad. I did not know it was so dangerous to look into a woman's bedroom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10898",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "I'm not going... You know that I'm not going... Do you think I could leave you alone here? After that --?"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "What?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "The veronal -- you. I'm going to stay here with you."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "I want to be alone."
+      },
+      {
+        "speaker": "BARON",
+        "text": "That is not the truth.  You do not want to be alone -- you're afraid of being alone -- I know you're afraid. I know you. You were desperate, just now, if I go away you'll be more desperate than ever. Say I am to stay with you... say it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10899",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Oh -- I was ambitious then -- ambition was in my blood -- no rest, no stopping. We were drilled like little soldiers -- We danced in the school of the Imperial Ballet, in St. Petersburg. I was little and slim but hard as diamond -- a duty machine -- No rest, no stopping. And then -- I became famous and whoever is famous is alone... But why should I be telling you this? Last night I did not know you at all -- who are you, really? -- I do not even know your name."
+      },
+      {
+        "speaker": "BARON",
+        "text": "I am Felix Benvenuto von Gaigern. My mother called me Flix."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Flix. -- And how do you live? What kind of a person are you?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I'm a prodigal son, the black sheep of a white flock -- I shall die on the gallows."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Really?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "Really, I haven't a bit of character. None at all."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "No?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "When I was a little boy I was taught to ride and be a gentleman -- at school, it was a monastery, I learned to pray and lie -- and ---"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "And?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "And then, in the war, to kill and hide. That's all."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "And what do you do -- now?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I'm a gambler -- I'm running at large like a happy pig, devouring anything of life that pleases me, I really belong in jail"
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Oh! What a picture -- and what else?"
+      },
+      {
+        "speaker": "BARON",
+        "text": "I'm also a criminal and a hotel thief."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "That's a silly joke."
+      },
+      {
+        "speaker": "BARON",
+        "text": "Please look at me. You must believe me -- you must believe that I love you -- that I have never known what love is -- until last night."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "What is the matter?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_10900",
+    "movie_id": "m78",
+    "turns": [
+      {
+        "speaker": "BARON",
+        "text": "There."
+      },
+      {
+        "speaker": "GRUSINSKAYA",
+        "text": "Oh --"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1718 @@
+[
+  {
+    "conversation_id": "conv_36501",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "BARTON",
+        "text": "I'm sorry if I let you down."
+      },
+      {
+        "speaker": "LIPNIK",
+        "text": "You didn't let ME down. Or even Lou. We don't live or die by what you scribble, Fink. You let Ben Geisler down. He liked you. Trusted you. And that's why he's gone. Fired.  That guy had a heart as big as the outdoors, and you fucked him. He tried to convince me to fire you too, but that would be too easy. No, you're under contract and you're gonna stay that way.  Anything you write will be the property of Capitol Pictures. And Capitol Pictures will not produce anything you write. Not until you grow up a little. You ain't no writer, Fink  you're a goddamn write-off."
+      },
+      {
+        "speaker": "BARTON",
+        "text": "I tried to show you something beautiful.  Something about all of US "
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36502",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "Welcome to the Hotel Earle. May I help you, sir?"
+      },
+      {
+        "speaker": "BARTON",
+        "text": "I'm checking in. Barton Fink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36503",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "F-I-N-K. Fink, Barton. That must be you, huh?"
+      },
+      {
+        "speaker": "BARTON",
+        "text": "Must be."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Okay then, everything seems to be in order. Everything seems to be in order."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36504",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "...Are you a tranz or a rez?"
+      },
+      {
+        "speaker": "BARTON",
+        "text": "Excuse me?"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Transient or resident?"
+      },
+      {
+        "speaker": "BARTON",
+        "text": "I don't know... I mean, I'll be here, uh, indefinitely."
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Rez. That'll be twenty-five fifty a week payable in advance. Checkout time is twelve sharp, only you can forget that on account you're a rez. If you need anything, anything at all, you dial zero on your personal in-room telephone and talk to me. My name is Chet."
+      },
+      {
+        "speaker": "BARTON",
+        "text": "Well, I'm going to be working here, mostly at night; I'm a writer. Do you have room service?"
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Kitchen closes at eight but I'm the night clerk. I can always ring out for sandwiches."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36505",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "...Okay"
+      },
+      {
+        "speaker": "BARTON",
+        "text": "Huh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36506",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "Okey-dokey, go ahead."
+      },
+      {
+        "speaker": "BARTON",
+        "text": "What "
+      },
+      {
+        "speaker": "CLERK",
+        "text": "Don't you wanna go to your room?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36507",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "CLERK",
+        "text": "...Those your only bags?"
+      },
+      {
+        "speaker": "BARTON",
+        "text": "The others are being sent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36508",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "L.A.P.D."
+      },
+      {
+        "speaker": "BARTON",
+        "text": "Uh-huh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36509",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Jesus! Ain't that a load off! You live in 605?"
+      },
+      {
+        "speaker": "BARTON",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36510",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Is this multiple choice?"
+      },
+      {
+        "speaker": "BARTON",
+        "text": "Nine days  Tuesday "
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36511",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "BARTON",
+        "text": "...Yeah, he... he lives next door to me."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "That's right, Fink, he lives next door to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36512",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "BARTON",
+        "text": "What did... What did he "
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Funny. As in, he likes to ventilate people with a shotgun and then cut their heads off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36513",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "BARTON",
+        "text": "Charlie... Charlie's back..."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "No kidding, bright boy  we smelt Mundt all over this. Was he the idea man?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36514",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "BARTON",
+        "text": "Sex?! He's a MAN! We WRESTLED!"
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "You're a sick fuck, Fink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36515",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "DEUTSCH",
+        "text": "Got a couple questions to ask ya."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "What do you do, Fink?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36516",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Big fuckin' deal."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "You want my partner to kiss your ass?"
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Would that be good enough for ya?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36517",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Yeah, and I'm Buck Rogers."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "His name is Mundt. Karl Mundt."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Also known as Madman Mundt."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "He's a little funny in the head."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36518",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Started in Kansas City. Couple of housewives."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "Couple of days ago we see the same M.O. out in Los Feliz."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Doctor. Ear, nose and throat man,."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "All of which he's now missin'."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Well, some of his throat was there."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "Physician, heal thyself."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Good luck with no fuckin' head."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "Anyway."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Hollywood precinct finds another stiff yesterday. Not too far from here. This one's better looking than the doc."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "Female caucasian, thirty years old. Nice tits. No head. You ever see Mundt with anyone meets that description?"
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "But, you know, with the head still on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36519",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "DEUTSCH",
+        "text": "Yeah, and he's Buck Rogers."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "No reputable company would hire a guy like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36520",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Ya know, Fink, ordinarily we say anything you might remember could be helpful. But I'll be frank with you: That is not helpful."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "Ya see how he's not writing it down?"
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Fink. That's a Jewish name, isn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36521",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "...I thought you said you were a writer."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "I dunno, Duke. I kinda liked it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36522",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Second one of your friends to end up dead."
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "You didn't tell us you knew the dame."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36523",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Sixth floor too high for you, Fink?"
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "Give you nose bleeds?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36524",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "DEUTSCH",
+        "text": "Tell us where the heads are, maybe they'll go easy on you."
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "Only fry you once."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36525",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "He teach you to do it?"
+      },
+      {
+        "speaker": "DEUTSCH",
+        "text": "You two have some sick sex thing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36526",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "DEUTSCH",
+        "text": "Why's it so goddamn hot out here?"
+      },
+      {
+        "speaker": "MASTRIONOTTI",
+        "text": "...Fred..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36527",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "LOU",
+        "text": "Mr. Fink hasn't given a preference, Mr.  Lipnik."
+      },
+      {
+        "speaker": "LIPNIK",
+        "text": "How's about it, Bart?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36528",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "LIPNIK",
+        "text": "...Thanks Lou. Join us. Join us. Talking about the Wallace Beery picture."
+      },
+      {
+        "speaker": "LOU",
+        "text": "Excellent picture."
+      },
+      {
+        "speaker": "LIPNIK",
+        "text": "We got a treatment on it yet?"
+      },
+      {
+        "speaker": "LOU",
+        "text": "No, not yet Jack. We just bought the story. Saturday Evening Post."
+      },
+      {
+        "speaker": "LIPNIK",
+        "text": "Okay, the hell with the story. Wallace Beery is a wrestler. I wanna know his hopes, his dreams. Naturally, he'll have to get mixed up with a bad element. And a romantic interest. You know the drill.  Romantic interest, or else a young kid. An orphan. What do you think, Lou? Wally a little too old for a romantic interest?  Look at me, a writer in the room and I'm askin' Lou what the goddamn story should be!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36529",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "LOU",
+        "text": "...Maybe we should do a treatment."
+      },
+      {
+        "speaker": "LIPNIK",
+        "text": "Ah, hell, let Bart take a crack at it.  He'll get into the swing of things or I don't know writers. Let's make it a dame, Bart, keep it simple. We don't gotta tackle the world our first time out. The important thing is we all have that Barton Fink feeling, but since you're Barton Fink I'm assuming you have it in spades.  Seriously Bart, I like you. We're off to a good start. Dammit, if all our writers were like you I wouldn't have to get so goddamn involved. I'd like to see something by the end of the week."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36530",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "LOU",
+        "text": "Mr. Lipnik, I "
+      },
+      {
+        "speaker": "LIPNIK",
+        "text": "This man creates for a living! He puts food on your table and on mine! THANK him for it!  Thank him, you ungrateful sonofabitch! Thank him or YOU'RE fired!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36531",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "LIPNIK",
+        "text": "Get down on your knees, you sonofabitch!  Get down on your knees and kiss this man's feet!"
+      },
+      {
+        "speaker": "LOU",
+        "text": "Mr. Lipnik, please "
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36532",
+    "movie_id": "m256",
+    "turns": [
+      {
+        "speaker": "LOU",
+        "text": "Yes, Colonel."
+      },
+      {
+        "speaker": "LIPNIK",
+        "text": "Hell, I could take you through it step by step, explain why your story stinks, but I won't insult your intelligence. Well all right, first of all: This is a wrestling picture; the audience wants to see action, drama, wrestling, and plenty of it. They don't wanna see a guy wrestling with his soul  well, all right, a little bit, for the critics  but you make it the carrot that wags the dog. Too much of it and they head for exits and I don't blame 'em. There's plenty of poetry right inside that ring, Fink. Look at \"Hell Ten Feet Square\"."
+      },
+      {
+        "speaker": "LOU",
+        "text": "\"Blood, Sweat, and Canvas\"."
+      },
+      {
+        "speaker": "LIPNIK",
+        "text": "Look at \"Blood, Sweat, and Canvas\". These are big movies, Fink. About big men, in tights  both physically and mentally. But especially physically. We don't put Wallace Beery in some fruity movie about suffering  I thought we were together on that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36533",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Okay.  I went after him.  I lost my temper."
+      },
+      {
+        "speaker": "AN I.A. MAN",
+        "text": "Do you have any evidence that he showed your psychiatric file to anyone?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36534",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "AN I.A. MAN",
+        "text": "Where were you tonight?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Home. Watching TV."
+      },
+      {
+        "speaker": "AN I.A. MAN",
+        "text": "All night?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "AN I.A. MAN",
+        "text": "Were you drinking?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36535",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Yeah, I was drinking."
+      },
+      {
+        "speaker": "AN I.A. MAN",
+        "text": "When did you start drinking again?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "A couple days ago."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36536",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "AN I.A. MAN",
+        "text": "There's no smoking in this building."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What are you gonna do -- charge me with smoking?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36537",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Come on -- I'm going to storm into his office in front of everybody in the afternoon and then that night I'm going to kill him?  I'd have to be really dumb to do that."
+      },
+      {
+        "speaker": "AN I.A. MAN",
+        "text": "Going after him before gets you off the hook for killing him that's your alibi."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36538",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "AN I.A. MAN",
+        "text": "I want you in Dr. Gardner's office at nine o'clock.  You're out of control, Curran."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Who are you guys gonna sell my file to this time?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36539",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "ANDREWS",
+        "text": "We got a call from Berkeley P.D. There was a killing.  A professor. Icepick.  In his bed.  Multiple stab wounds.  1977."
+      },
+      {
+        "speaker": "NICK",
+        "text": "She was there, wasn't she?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36540",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "ANDREWS",
+        "text": "Take care, you hear?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Did you find out about her parents?"
+      },
+      {
+        "speaker": "ANDREWS",
+        "text": "You're on leave, man.  You're on psycho leave.  I'm talking to a possible whacko here."
+      },
+      {
+        "speaker": "NICK",
+        "text": "You know I'm whacko, Sam, what'd you find?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36541",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "ANDREWS",
+        "text": "The boat blew.  There was a leak in the gas line.  There were two previous repairs.  There was a five-mil policy on both of 'em.  A real heavy investigation.  Zilch. Goose-egg.  It was an accident."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36542",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "ANDREWS",
+        "text": "I can get my butt kicked for this. You're not supposed to be in here."
+      },
+      {
+        "speaker": "NICK",
+        "text": "It's not gonna take long, Sam."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36543",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "ANDREWS",
+        "text": "Hey, that's Dr. Gardner, isn't it?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Bring 1976 up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36544",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "How are you, Nick?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I'm fine.  Come on, Beth!  You know I'm fine!  How the hell long do I have to keep doing this?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "As long as Internal Affairs wants you to, I suppose.  Sit down, Nick."
+      },
+      {
+        "speaker": "NICK",
+        "text": "It's bullshit.  You know it is."
+      },
+      {
+        "speaker": "BETH",
+        "text": "I know it is -- but sit down anyway so we can get it over with, okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36545",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "So -- how are things?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Things are fine.  I told you. They're fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36546",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "How is your -- personal life?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "My sex life is fine.  My sex life is pretty shitty actually since I stopped seeing you -- maybe I should think about my Electrolux again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36547",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "How about the booze?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "It's been three months."
+      },
+      {
+        "speaker": "BETH",
+        "text": "How about the coke?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "No."
+      },
+      {
+        "speaker": "BETH",
+        "text": "No?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "No!  I'm working my tail off.  I'm off the sauce, I'm not even smoking anymore."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36548",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "How's not smoking?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "It's fucked -- now will you please tell I.A. that I'm just you average healthy totally fucked-up cop and let me get out of here?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "Yes."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36549",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "You okay?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "BETH",
+        "text": "You don't look so okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36550",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "Baby-sitting.  Rookie cop."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What else is new?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36551",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "What was she like?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Who?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "Catherine Tramell."
+      },
+      {
+        "speaker": "NICK",
+        "text": "She said what you said she'd say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36552",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "We were in some of the same classes."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Why didn't you tell me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36553",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I need a cigarette."
+      },
+      {
+        "speaker": "BETH",
+        "text": "I thought you quit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36554",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "What are you talking about, Nick -- what's wrong with you?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Who's got access to my goddamn file?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36555",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "It's a confidential psychiatric record, it'd be illegal --She backs into a wall.  She looks very scared. He comes very close to her -- puts an arm behind her to the wall."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Don't, Beth.  Don't lie to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36556",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "It's Internal Affairs, isn't it?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "No, Nick, please --"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Who?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "Nilsen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36557",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I don't owe you anything; you don't owe me anything.  We went to bed -- what was it? -- ten or fifteen times?  It wasn't memorable enough to carry any obligations."
+      },
+      {
+        "speaker": "BETH",
+        "text": "Sometimes I really hate you."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Yeah?  Well why don't you find some friendly therapist and work some of that hostility out.  But take my advice.  Put a little more life into it than you usually do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36558",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "You did it for me."
+      },
+      {
+        "speaker": "BETH",
+        "text": "Yes.  I care about you.  I did it for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36559",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "It's the least I could do... considering I got you into this mess with those reports."
+      },
+      {
+        "speaker": "NICK",
+        "text": "No.  I mean it, thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36560",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "How do you know Catherine Tramell saw my reports?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "She knows stuff about me that only you know."
+      },
+      {
+        "speaker": "BETH",
+        "text": "She must really be something.  From a clinical point of view."
+      },
+      {
+        "speaker": "NICK",
+        "text": "What was she like in school?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "I hardly knew her.  She gave me the creeps, though.  I don't know why."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36561",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Beth.  I didn't mean what I said. About --"
+      },
+      {
+        "speaker": "BETH",
+        "text": "Yes you did.  I'm a big girl.  I can handle it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36562",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "What is your problem?  I'm trying to help you.  Why won't you let me help you?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I don't need any help."
+      },
+      {
+        "speaker": "BETH",
+        "text": "Yes you do.  Something's on with you.  You're sleeping with her, aren't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36563",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "What is this interest you've got in her?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "My interest is in you, not in her. She seduces people, she manipulates --"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I thought you hardly know her."
+      },
+      {
+        "speaker": "BETH",
+        "text": "I know the type.  I'm a psychologist."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36564",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "What do you want, Nick?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Tell me about Catherine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36565",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "She told you, didn't she?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "What did she tell me, Beth?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "I slept with her once in school.  I was just a kid.  I was experimenting.  It was just that one time.  She developed a... fixation... on me.  She styled her hair like mine. She wore the same kind of clothes I did.  It scared me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36566",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "I did dye my hair.  It didn't have anything to do with her.  I was a redhead for a while, too."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Did you know Noah Goldstein?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "I had him in two classes."
+      },
+      {
+        "speaker": "NICK",
+        "text": "You saw all the reports, Beth!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36567",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "She's really sick you know.  Don't you know what she's doing?  She knows I went to Berkeley.  She knows I knew Noah.  She makes up that story about me.  She's handing you somebody who's obsessed with he her."
+      },
+      {
+        "speaker": "NICK",
+        "text": "She didn't hand you to me.  She doesn't even know who you are. She told me about Lisa Henderson."
+      },
+      {
+        "speaker": "BETH",
+        "text": "She knew you'd find out who Lisa Henderson is.  You're a good cop -- what did she do?  Tell you casually and make it seem irrelevant?  Did she tell you in bed, Nick? That's how I'd do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36568",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Why did you change your name?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "I got married.  He was on staff at the clinic.  I was down in Salinas.  It didn't... last long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36569",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "You should do something about this lock."
+      },
+      {
+        "speaker": "BETH",
+        "text": "She's evil.  She's brilliant.  Be careful, Nick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36570",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "Put your hands up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36571",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Put your fucking hands up!  Don't move."
+      },
+      {
+        "speaker": "BETH",
+        "text": "I got a message on my machine to meet Gus here.  Where is he?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36572",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Don't!  I know about your husband.  You still like girls, Beth?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36573",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I'm De..."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "I know who you are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36574",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "How long were you dating him?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "I wasn't dating him.  I was fucking him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36575",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "How long were you having sex with him?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "About a year and a half."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Were you with him last night?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Did you leave the club with him?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Did you go home with him?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "No.  We had a drink at the club. We left together.  I came here. He went home."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Was there anyone with you last night?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "No.  I wasn't in the mood to have sex with anyone last night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36576",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Ms. Tramell, we'd like you to come downtown and answer some questions for us."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "Are you arresting me?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "If that's the way you want to play it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36577",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Do you always keep old newspapers around?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "Only when they make interesting reading."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36578",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "CATHERINE",
+        "text": "Do you have a cigarette?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I don't smoke."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "Yes, you do."
+      },
+      {
+        "speaker": "NICK",
+        "text": "I quit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36579",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I thought you were out of cigarettes."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "I found some in my purse; would you like one?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36580",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I told you -- I quit."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "It won't last."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36581",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "What's your new book about?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "A detective.  He falls for the wrong woman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36582",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "CATHERINE",
+        "text": "Did I miss something?"
+      },
+      {
+        "speaker": "NICK",
+        "text": "I told them you wouldn't want an attorney present."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36583",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I told them you wouldn't want to hide."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "I have nothing to hide."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36584",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "But you said you liked men to use their hands."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "No.  I said I liked Johnny to use his hands.  I don't give any rules, Nick.  I go with the flow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36585",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Writing a book about it gives you an alibi for not killing him."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "Yes it does, doesn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36586",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "You like playing games, don't you?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "I've got a degree in psych.  It goes with the turf.  Games are fun."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36587",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "How did you feel when he died?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "I loved him.  I hurt."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36588",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "How did you feel when I told you Johnny Boz had died -- that day at the beach."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "I felt somebody had read my book and was playing a game."
+      },
+      {
+        "speaker": "NICK",
+        "text": "But you didn't hurt --"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "No."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Because you didn't love him --"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "That's right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36589",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Even though you were fucking him."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "You still get the pleasure.  Didn't you ever fuck anybody else while you were married, Nick?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36590",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Sure."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36591",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "CATHERINE",
+        "text": "I'm tired."
+      },
+      {
+        "speaker": "NICK",
+        "text": "It's got to be tiring to beat that machine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36592",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "CATHERINE",
+        "text": "If I were guilty, and if I wanted to beat that machine, it wouldn't be tiring.  It wouldn't be tiring at all."
+      },
+      {
+        "speaker": "NICK",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "Because I'm a professional liar. I spend most of my waking hours dwelling on my lies.  For my writing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36593",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I passed."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "You see?  We're both innocent, Nick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36594",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "How do you know all this stuff about me?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "You know all about me."
+      },
+      {
+        "speaker": "NICK",
+        "text": "I don't know anything that isn't police business."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "You know I don't like to wear any underwear, don't you, Nick?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36595",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Am I... disturbing you?"
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "No.  Come in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36596",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "CATHERINE",
+        "text": "Would you like a drink?  I was just going to have one."
+      },
+      {
+        "speaker": "NICK",
+        "text": "No, thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36597",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "I'd like to ask you a few more questions."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "I'd like to ask you some, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36598",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "You tell me."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "I don't know.  But you do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36599",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "It was an accident.  They got in the line of fire."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "Four shootings in five years.  All accidents."
+      },
+      {
+        "speaker": "NICK",
+        "text": "They were drug buys.  I was a vice cop."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_36600",
+    "movie_id": "m257",
+    "turns": [
+      {
+        "speaker": "NICK",
+        "text": "Tell me about Professor Goldstein."
+      },
+      {
+        "speaker": "CATHERINE",
+        "text": "There's a name from the past."
+      },
+      {
+        "speaker": "NICK",
+        "text": "You want a name from the present? How about Hazel Dobkins?"
+      }
+    ]
+  }
+]

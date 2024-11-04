@@ -1,0 +1,2138 @@
+[
+  {
+    "conversation_id": "conv_29201",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "Are you saying that he's..."
+      },
+      {
+        "speaker": "ELDRIDGE",
+        "text": "Shhhhhh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29202",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "Mother o'god..."
+      },
+      {
+        "speaker": "ELDRIDGE",
+        "text": "Give the man a hug, boy!  That's your father!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29203",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "Tomorrow afternoon...  ... oh my god..."
+      },
+      {
+        "speaker": "ELDRIDGE",
+        "text": "Exactly.  Break it to her gently."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29204",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ELDRIDGE",
+        "text": "You ever been in this town before, to your knowledge?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "No.  But..."
+      },
+      {
+        "speaker": "ELDRIDGE",
+        "text": "But what?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Well, this place sorta reminds me of something."
+      },
+      {
+        "speaker": "ELDRIDGE",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "\"It's a Wonderful Life.\""
+      },
+      {
+        "speaker": "ELDRIDGE",
+        "text": "The Jimmy Stewart picture?  I remember that one.  Saw it over at the Bijou.  So, you remember that, huh?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "\"It's a Wonderful Life?\""
+      },
+      {
+        "speaker": "ELDRIDGE",
+        "text": "Or the Bijou.  Either one."
+      },
+      {
+        "speaker": "PETE",
+        "text": "I remember the picture... but I don't remember where I saw it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29205",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "ELDRIDGE",
+        "text": "C'mon, I'll give you two a lift back to the Bijou."
+      },
+      {
+        "speaker": "PETE",
+        "text": "The Bijou?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29206",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "ELDRIDGE",
+        "text": "Well, no, but these gentlemen would like to get some answers..."
+      },
+      {
+        "speaker": "PETE",
+        "text": "I don't know what else to tell you. I wasn't hiding out.  I hit my head and I didn't remember anything until a few days ago."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29207",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "FITTS",
+        "text": "Luke, you probably don't remember me, Roscoe Fitts, I'm the grocer here in town."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Good to meet you.  Again."
+      },
+      {
+        "speaker": "FITTS",
+        "text": "Like Ernie said, we're all glad to have you back."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "FITTS",
+        "text": "And I hear you and Harry are planning on re-opening the Bijou."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "We're gonna try.  Place needs a lot of work."
+      },
+      {
+        "speaker": "FITTS",
+        "text": "I can only imagine.  You know, I spoke with your Dad last year about maybe taking the Bijou off his hands.  I don't think he gave it very much thought."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Well, he loves the place.  It's his home."
+      },
+      {
+        "speaker": "FITTS",
+        "text": "Luke, I'm hopping you can help him see the reality of the situation. I'll come to the point.  I want to buy the property, and I'm prepared to offer six-thousand dollars for it.  And that's just for the property, mind you.  If you want, I'll leave it to you and your father to dismantle and liquidate the building for whatever salvage value it has, and you keep those proceeds.  I just want the land."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "That's... well, that's very generous, but if you've already got a store...?"
+      },
+      {
+        "speaker": "FITTS",
+        "text": "The days of the storefront grocery are numbered.  I plan on putting up a free-standing supermarket."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "A super market.  Huh."
+      },
+      {
+        "speaker": "FITTS",
+        "text": "You think it over.  No reason to risk financial ruin for the sake of a crumbling old building."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29208",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "FITTS",
+        "text": "So... you do intend to fix the place up after all?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Mr. Fitts, with all due respect, I think Lawson needs the Bijou a bit more than it needs a super market. And I think Lawson deserves the Bijou.  There's not a lot that can be done to help us get past the pain we've all felt..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29209",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Excuse me... what's your, um, your name?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Harry, son.  Harry."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "And... what's my name again?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Albert Lucas Trumbo.  But you've been \"Luke\" since you were a baby."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Ah.  Luke.  Luke.  I like it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29210",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "You never came back from the war. We were told you were missing and presumed dead."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "When did I leave?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You joined up one month to the day after Pearl Harbor.  January seventh... nineteen forty-two."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29211",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Nine and-a-half years ago."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Nine and-a-half years..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29212",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Wait'll you see the inside!"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Can't wait."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29213",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "We've been closed for a while."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Ah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29214",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Exactly how long has the Bijou been closed?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Hmmmm... after you left, it was difficult, and then Lily -- that's your mother -- she took ill and died... we haven't shown a picture since forty-eight."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Why?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Well, after the war, with so many of the town's boys killed, people around here didn't much feel like going to the movies, I guess.  Some of 'em moved away -- Los Angeles, Sacramento, San Francisco.  Wasn't much to keep 'em here, I expect. And now with this \"television\" thing -- people just aren't going out as much as they used to."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Didn't you have any help?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Oh, I had Irene and Old Tim but they really couldn't help much. Broke their hearts when we closed up.  Broke mine, too.  But now that you're back, well, things will be different around here, that's for sure.  C'mon, I'll show you where we live."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29215",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "That's Lily.  Your mother, rest her soul."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Mother.  She's beautiful."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Well, yes, that she was.  She certainly made this place a home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29216",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "They couldn't wait to see you."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Who... are they?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "This is the staff of the Bijou."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Oh.  What... what time is it?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Six-thirty.  I thought we'd get an early start."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29217",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "I promised him a new uniform when we re-opened.  And you'll get one, too."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "You know, I hate to bring this up, but screens and uniforms and paint and repairs are going to take money, which I'm willing to bet none of us has."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29218",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Um... Harry?  Did I ever keep the books here?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "No, your mother did, then I did after she passed."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Well, I'm the first one to admit that I don't know anything about bookkeeping, but there are some very interesting things in here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29219",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "\"February 10, 1942.  Picture 'Ball of Fire.'\""
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Gary Cooper.  And Barbara Stanwyck. Yowsa."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "\"Eight p.m. showtime, ninety-six admissions, receipts including concessions, $84.75... plus one fryer and two-dozen eggs.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29220",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "\"one fryer and two-dozen eggs?\""
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Forty-two was a lean year around here.  The war had just started... you were gone less than a month... and we were coming off a bit of a drought as I recall.  Not everyone could ante up the price of a ticket, and a chicken's as good as money if you ask me.  At that time, it meant a lot to the folks around here to be able to come to the pictures."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yeah, I know, but poultry...?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "I know it's hard to believe, son, but this place, this little place this wasn't a theater then, this was a palace!  Any man, woman, child, you, me, it didn't matter, you bought your ticket and you walked in and you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29221",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "But I..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Son, I think you loved the Bijou even more than I did.  You've got to remember that.  You've got to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29222",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Ernie."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "... Ernie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29223",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Carl.  Friend of yours from high school.  Everybody calls him \"Cueball.\""
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Oh, hi Cue... Carl.  Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29224",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "I'll be home in a little while, Harry.  Don't wait up."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You two have a lot of catching up to do, I guess."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "You bet."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Goodnight, son.  'Night, Delly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29225",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Well..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Between a new screen, paint, plumbing for the concession stand, and about a hundred other repairs around the theater... it's going to cost at least nine hundred dollars to get the Bijou into shape to open up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29226",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "And you have sixty-eight dollars and thirty-seven cents in the bank. Your only source of income are my veteran's death benefit of forty dollars a month, to which you're no longer entitled since I'm alive, and these ten dollar a month cash deposits you make.  What are those?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "They're..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29227",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Why don't you two get out there and dance?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Oh, no, I..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29228",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Beautiful, wasn't it?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Well, son, I wish I could've shown you more, but this is all that's left.  Just this one reel that never got sent back from a picture we showed here a long time ago. Nineteen twenty-five, to be exact..."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Dad, I..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Ha!"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "... what?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "You know, since you've been back, that's the first time you've called me \"Dad.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29229",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "Luke... what time is it?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Six-thirty.  I thought we'd get an early start."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29230",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Jesus..."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "The film broke..."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I know, I know... keep still."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29231",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "I'm here."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Did you... did you..."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Did I what?"
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Did you fix the damn film?  It broke in the last reel."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I know.  Everyone went home.  We offered them refunds."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Anybody take it?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "A few."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Vultures..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29232",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "HARRY",
+        "text": "I'm not happy about this, mind you, but if I have to go, at least I'm going in my own bed, the same bed my Lily died in, and... knowing that my son is alive.  That's not too shabby, is it?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "You're not going anywhere, Harry."
+      },
+      {
+        "speaker": "HARRY",
+        "text": "Don't tell me, I know about these things.  I've seen it before.  It's all right.  It's... all right. You're here.  Oh, God, I love you, son."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29233",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "JERRY",
+        "text": "Pete.  You think maybe you've had enough?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Bought the bottle, didn't I?  To the United States of America. Long my she wave."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29234",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Thanks, Jerry.  Tell me something."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "What."
+      },
+      {
+        "speaker": "PETE",
+        "text": "You tight with J. Edgar Hoover?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "The G-man?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Zackly."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Pete, if J. Edgar Hoover walked in here wearing a dress, I wouldn't know him."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Too bad.  He says I'm a communist."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "You should watch what you say.  You don't know who's listening."
+      },
+      {
+        "speaker": "PETE",
+        "text": "You know I'm not a communist, don't you, Jer?"
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Sure, I suppose.  That why you're on a bender?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "This is not a bender yet.  This is the start of a bender.  But I can see how you were confused, they look a lot alike."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29235",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "JERRY",
+        "text": "Pete... go home.  Come on, I'll call that girlfriend of yours, what's her name... Sandy?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Sandra Sinclair."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Gimmee her number, I'll have her pick you up."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Sandra Sinclair.  Wanna know her real name?  Bella Iskowitz.  No one's who they really are, Jer. Everyone's someone else.  Even you. Even me.  Especially me.  I'm Peter Appleton, the communist who's not really a communist."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "I wanna close up soon.  C'mon, let's call her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29236",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Nope.  Can't.  We're through."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Then I'll call you a cab."
+      },
+      {
+        "speaker": "PETE",
+        "text": "I'll save you the trouble.  I'm a cab.  There.  Did it myself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29237",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "'Sides, car's right outside.  I'll be seein' ya, Jer."
+      },
+      {
+        "speaker": "JERRY",
+        "text": "Pete..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29238",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "Any idea how you got here, son?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "No, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29239",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "Been drinkin' a bit, have we?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "I don't remember.  I guess so. Smells like it.  Tastes like it."
+      },
+      {
+        "speaker": "LARDNER",
+        "text": "Well, you've been wet to the skin. You must've fallen in."
+      },
+      {
+        "speaker": "PETE",
+        "text": "I guess I did."
+      },
+      {
+        "speaker": "LARDNER",
+        "text": "Lucky you got out, that water's got quite a pull, and it empties straight into the ocean."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29240",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "Here, one of mine."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29241",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "Do you remember if you were driving a car?  Maybe you went over the bridge.  No guard rail there, it's easy to do.  It's happened before."
+      },
+      {
+        "speaker": "PETE",
+        "text": "It's possible.  I just don't remember."
+      },
+      {
+        "speaker": "LARDNER",
+        "text": "And you don't know your name or who you are, that right?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "I... no, I... I just can't..."
+      },
+      {
+        "speaker": "LARDNER",
+        "text": "It's okay, son.  We just need to call you something.  That's all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29242",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Call me... Ishmael?"
+      },
+      {
+        "speaker": "LARDNER",
+        "text": "Well, at least you remember \"Moby Dick.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29243",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "That's me and my daughter Adele. My pride and joy.  Charms the fish right out of the lake, she does."
+      },
+      {
+        "speaker": "PETE",
+        "text": "She's very pretty."
+      },
+      {
+        "speaker": "LARDNER",
+        "text": "Thanks.  Well, Sheriff's on his way over, and maybe we can get to the bottom of who you are..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29244",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "... sorry 'bout that, but you do look familiar to me."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Wish I could say the same thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29245",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "That's where you live."
+      },
+      {
+        "speaker": "PETE",
+        "text": "We live in a theater?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29246",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "Evening, Luke."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Evening, Doctor Lardner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29247",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "LARDNER",
+        "text": "Uh, no... just seeing you standing there, it reminded me... there's a word for it..."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Oh, you mean the suit.  Harry kept all my old clothes.  Fits okay, but it's a little big."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29248",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "You kids off to the dance?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Aren't you coming?"
+      },
+      {
+        "speaker": "LARDNER",
+        "text": "No, I'm not much of a dancer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29249",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LARDNER",
+        "text": "It's a pretty massive heart attack. His lungs have filled with fluid, and, well... it seems as though his body is just... shutting down."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Can we get him to the hospital?"
+      },
+      {
+        "speaker": "LARDNER",
+        "text": "Even if we could, and the move didn't kill him, there'd be very little we could do there that we can't do here.  I'm sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29250",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "You smell gas?"
+      },
+      {
+        "speaker": "SUPER",
+        "text": "Don't smell nothin'.  He must not be dead in here."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Jesus."
+      },
+      {
+        "speaker": "SUPER",
+        "text": "Hey, it's the best way to tell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29251",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "SUPER",
+        "text": "You think he's drunk somewhere?"
+      },
+      {
+        "speaker": "LEO",
+        "text": "Wouldn't blame him if he was."
+      },
+      {
+        "speaker": "SUPER",
+        "text": "Well, his rent's past due and he said to call you in case of an emergency.  He lose his job or somethin'?"
+      },
+      {
+        "speaker": "LEO",
+        "text": "What's his rent?"
+      },
+      {
+        "speaker": "SUPER",
+        "text": "Thirty a month."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29252",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "Here's three months rent, and a ten spot for no more questions and to keep an eye on his place.  Now, I need a moment alone."
+      },
+      {
+        "speaker": "SUPER",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "LEO",
+        "text": "Take a hike.  Am-scray."
+      },
+      {
+        "speaker": "SUPER",
+        "text": "Huh?  Oh, sure.  Just pull the door shut when you leave."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29253",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "Peter, their hands are tied.  You see that, don't you?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "I... I don't believe this."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Are you saying it's a mistake, that you didn't go to any meetings? They say you did."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Who the hell is this \"they?\""
+      },
+      {
+        "speaker": "LEO",
+        "text": "Congress, the FBI, Red Channels, it don't matter who the hell \"they\" is.  \"They\" know who \"they\" are, that's all that matters.  Now, did you go to any meetings?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "No.  Yeah... I... I don't know. Maybe I did.  Leo, this was before Pearl Harbor.  I was in college. It was a bunch of kids, and I was just one of 'em.  I didn't believe in what they were saying.  Hell, I didn't even know what they were saying!"
+      },
+      {
+        "speaker": "LEO",
+        "text": "So, you're saying that it's true. You went to a meeting of a known communist organization."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Leo, I was trying to impress a skirt.  You know me, I'm non- political.  Republican, Democrat, Communist, there's not a dime's worth of difference between 'em anyway."
+      },
+      {
+        "speaker": "LEO",
+        "text": "You should watch what you say."
+      },
+      {
+        "speaker": "PETE",
+        "text": "I don't know who fingered me, but I'm not a communist!"
+      },
+      {
+        "speaker": "LEO",
+        "text": "Kid, that cuts no ice with them."
+      },
+      {
+        "speaker": "PETE",
+        "text": "What?  That I'm accused of being a communist when I don't happen to be one?"
+      },
+      {
+        "speaker": "LEO",
+        "text": "They know you were at that meeting, Peter.  They've been told, and they know."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Leo, you're my agent.  Tell \"them\" to take a flyin' piss.  I didn't do anything wrong.  I fought in the war, for crissakes!"
+      },
+      {
+        "speaker": "LEO",
+        "text": "Fought?  Come on, Pete, you ran the PX at Fort Dix."
+      },
+      {
+        "speaker": "PETE",
+        "text": "I was decorated."
+      },
+      {
+        "speaker": "LEO",
+        "text": "I know.  A Purple Heart."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Exactly."
+      },
+      {
+        "speaker": "LEO",
+        "text": "You broke your arm.  You were coming out of a bar.  You were drunk."
+      },
+      {
+        "speaker": "PETE",
+        "text": "At least I was on our side!  Look, they want me to testify?  I'll testify.  I'll tell 'em anything they want to hear!  Jesus, Leo, this is my career!"
+      },
+      {
+        "speaker": "LEO",
+        "text": "You can't testify."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Why not?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29254",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "They don't want you to testify because you're not a big enough fish for them.  They just don't want you writing pictures for now. That's all."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Yeah, well, that's enough."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Peter, I believe in you.  More to the point, I read your new script... um..."
+      },
+      {
+        "speaker": "PETE",
+        "text": "\"Ashes To Ashes?\""
+      },
+      {
+        "speaker": "LEO",
+        "text": "That's the one, \"Ashes To Ashes.\" I think it's great.  But it'll never get made with this communist business hanging over your head. You can't work until you're cleared -- and believe me, starting right now, I'm gonna do everything I can to make that happen."
+      },
+      {
+        "speaker": "PETE",
+        "text": "So, it is a blacklist."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Don't say that.  There is no such thing as a blacklist.  Now, are you gonna play ball?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Yes.  Leo, goddammit... this isn't fair!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29255",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "The FBI can't arrest you, because you haven't done anything wrong."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Well, that's a relief.  I understand they usually don't let that stop them."
+      },
+      {
+        "speaker": "LEO",
+        "text": "However... you're gonna be subpoenaed to testify before the Un-American Activities Committee when they open hearings in Los Angeles.  Now, if you play ball and tell them what they want to hear, they'll clear you."
+      },
+      {
+        "speaker": "PETE",
+        "text": "And I won't be a communist anymore."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Exactly."
+      },
+      {
+        "speaker": "PETE",
+        "text": "So it doesn't make any difference that I'm not one now, and have never been one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29256",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "Next time, it might be the FBI. The time after that, it might be the President.  But it'll always be someone.  Count on it."
+      },
+      {
+        "speaker": "PETE",
+        "text": "That's not the country Luke fought for."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Lest we forget, Peter, your own military career was somewhat less illustrious than Luke's."
+      },
+      {
+        "speaker": "PETE",
+        "text": "It's wrong, Leo."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Peter, don't let that stop you all of a sudden."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29257",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "That was quite a show you gave them today.  We shoulda sold tickets."
+      },
+      {
+        "speaker": "PETE",
+        "text": "I'm not sorry for what I said."
+      },
+      {
+        "speaker": "LEO",
+        "text": "No, of course not, why should you be sorry?  You're the new Peter Appleton.  You exercised your rights as a solid citizen, first amendment, freedom of speech, all that.  Very noble."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29258",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "Cigarette?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "No thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29259",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "When'd you quit smoking?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Luke didn't smoke."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Oh, I see.  But you're not Luke. You're Peter Appleton, the picture writer."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Not any more."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Leo, you were in there, you saw what I did.  You think they're gonna let me write pictures?  Hell, they're probably gonna throw my ass in jail."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Not at all."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Besides, I don't even know if I want to write anymore."
+      },
+      {
+        "speaker": "LEO",
+        "text": "What, you're going to go back to that hick town and run the projector and marry the doctor's daughter?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29260",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LEO",
+        "text": "Peter, I'm an agent.  I buy lunches and get deals made for guys like you.  That's what I do.  You're a writer.  You write pictures. That's what you do.  And trust me, you'll be back doing it again tomorrow morning."
+      },
+      {
+        "speaker": "PETE",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "LEO",
+        "text": "Kid, you gave them what they wanted.  This committee, it feeds on names.  The more names, the better.  But for some high-profile witnesses, like yourself, any name will do."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Leo, I didn't give them the names. I wouldn't do that."
+      },
+      {
+        "speaker": "LEO",
+        "text": "What, all of a sudden, \"Lucille Angstrom\" isn't a name?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29261",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Her name was right there in front of them.  They gave it to me, I didn't give it to them."
+      },
+      {
+        "speaker": "LEO",
+        "text": "Well, that's not what they think."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Leo, she was... she was a girl I knew in college..."
+      },
+      {
+        "speaker": "LEO",
+        "text": "You should keep track of your old school chums.  Turns out she eventually joined the communist party.  On top of which, she's Lucy Angstrom Hirschfeld now, and she happens to be a writer for \"Studio One\" on CBS."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Oh god, oh, god, no, I..."
+      },
+      {
+        "speaker": "LEO",
+        "text": "So, our lawyers had a talk with the Committee's lawyers.  That Elvin Clyde fella won't be too happy about it, but we cut a deal. They cleared you -- and they're gonna thank you publicly for your testimony purging yourself."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Thank me publicly?  For what?  For ruining this woman's life?"
+      },
+      {
+        "speaker": "LEO",
+        "text": "Climb down off your cross.  They already knew about her.  She was subpoenaed six months ago! Who the hell do you think named you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29262",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "MRS. TERWILLIGER",
+        "text": "I haven't danced with another man since Mr. Terwilliger passed."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "When was that?"
+      },
+      {
+        "speaker": "MRS. TERWILLIGER",
+        "text": "Nineteen-oh-nine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29263",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "That was beautiful."
+      },
+      {
+        "speaker": "MRS. TERWILLIGER",
+        "text": "I taught you that."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I can play the piano?"
+      },
+      {
+        "speaker": "MRS. TERWILLIGER",
+        "text": "Oh dear, yes.  You were an excellent student, before all that clarinet nonsense.  You loved Chopin.  You used to call it \"heaven music.\"  \"Teach me some heaven music,\" you used to say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29264",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "MRS. TERWILLIGER",
+        "text": "Sit.  Play with me."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "No, I..."
+      },
+      {
+        "speaker": "MRS. TERWILLIGER",
+        "text": "Some of it might come back to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29265",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "MRS. TERWILLIGER",
+        "text": "Luke!  Luke, something's wrong! The film broke, and I can't raise Harry on the house phone!"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "What?"
+      },
+      {
+        "speaker": "MRS. TERWILLIGER",
+        "text": "You've got to talk to them before they tear the theater apart!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29266",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Is there a young Tim?"
+      },
+      {
+        "speaker": "OLD TIM",
+        "text": "No."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Well, then, why do they call you \"Old Tim?\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29267",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "OLD TIM",
+        "text": "Found me."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yeah.  I hope you don't mind.  I didn't know anyone lived here... well, besides Harry.  And me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29268",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "So I guess this fellow belongs to you.  What's his name?"
+      },
+      {
+        "speaker": "OLD TIM",
+        "text": "Cat."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Cat.  That's simple.  I like it.  Hi, Cat."
+      },
+      {
+        "speaker": "OLD TIM",
+        "text": "We thought you was dead, you know.  It's okay that I live here?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29269",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "OLD TIM",
+        "text": "T-t-thank you.  Thank you.  I... I always... I always wanted to wear my uniform from the Great War, but your daddy, he always said no, that's not an usher's u-u-uniform, that's an army uniform and the Bijou, she's not the army.  They give me a medal, but I lost it in the h-h-hospital.  I forget things sometimes.  Since the w-w-war."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yeah... me too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29270",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "OLD TIM",
+        "text": "That's my r-r-rent."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29271",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "OLD TIM",
+        "text": "Can I... Can I t-t-talk to you?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Sure.  Come on in.  I was just packing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29272",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Please, sit."
+      },
+      {
+        "speaker": "OLD TIM",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29273",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "OLD TIM",
+        "text": "They'll come back, you know. They'll all c-c-come back."
+      },
+      {
+        "speaker": "PETE",
+        "text": "The customers?  I don't know..."
+      },
+      {
+        "speaker": "OLD TIM",
+        "text": "They will.  They w-w-will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29274",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Tim, I have to tell you something."
+      },
+      {
+        "speaker": "OLD TIM",
+        "text": "Oh."
+      },
+      {
+        "speaker": "PETE",
+        "text": "It's about me."
+      },
+      {
+        "speaker": "OLD TIM",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29275",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "I'm... I'm not Luke.  Luke is dead. He died in the war.  He's not coming back, and I'm not him.  I don't even belong here.  This whole thing started out as an accident, and that's all it is.  An accident."
+      },
+      {
+        "speaker": "OLD TIM",
+        "text": "Oh..."
+      },
+      {
+        "speaker": "PETE",
+        "text": "My name isn't Luke.  It's Peter. Peter Appleton."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29276",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "OLD TIM",
+        "text": "Did you think I didn't kn-kn-know that?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "I thought you..."
+      },
+      {
+        "speaker": "OLD TIM",
+        "text": "I know more than you give me c-c- credit, that's for sure.  Don't you see, it don't m-m-matter who you are?  All that matters is what you g-g-gave us.  And you can't take that away now.  You're wrong, Peter Appleton.  You do belong here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29277",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "SANDRA",
+        "text": "Pete, there's time before the picture starts, you want to get some popcorn?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "You bet, honey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29278",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "SANDRA",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "What exactly did you hear?"
+      },
+      {
+        "speaker": "SANDRA",
+        "text": "That you got let go."
+      },
+      {
+        "speaker": "PETE",
+        "text": "I wasn't alone.  Wasn't Frankie Ruskin directing the picture you're in?"
+      },
+      {
+        "speaker": "SANDRA",
+        "text": "He was, but he got sick.  We got a new director today.  Why?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Well, whatever Frankie's got, it's catching."
+      },
+      {
+        "speaker": "SANDRA",
+        "text": "You mean, he was... let go, too?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "They're saying I'm a communist, Sandy.  But I'm not, you know that. I'm gonna fight 'em, and I'm gonna win, but I'll need your help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29279",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Will you help me, Sandy?"
+      },
+      {
+        "speaker": "SANDRA",
+        "text": "I'll have to think about this.  I have to get back... I should go..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29280",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "Ancestors?"
+      },
+      {
+        "speaker": "STANTON",
+        "text": "Actually, my grandpap.  But \"ancestors\" sounds better, don't it?  Here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29281",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "I suppose.  Thanks."
+      },
+      {
+        "speaker": "STANTON",
+        "text": "You look familiar, fella.  What's your name?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29282",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "PETE",
+        "text": "They all know you?"
+      },
+      {
+        "speaker": "STANTON",
+        "text": "'Course they all know me.  And I know all them.  Town's got my name, don't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29283",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "STANTON",
+        "text": "Ernie Cole here just got himself elected mayor.  Lost both his boys in the war.  Kenny at Anzio and Willie at Normandy."
+      },
+      {
+        "speaker": "PETE",
+        "text": "The war..."
+      },
+      {
+        "speaker": "STANTON",
+        "text": "Mabel over there at the diner lost her husband Max.  Okinawa, I believe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29284",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "STANTON",
+        "text": "You hungry, son?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "Yes.  Very."
+      },
+      {
+        "speaker": "STANTON",
+        "text": "Got any money?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29285",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "STANTON",
+        "text": "Said as much myself, Doc.  Can't place him, though.  To look at him, you'd think the cheese slid off his cracker.  Well, morning's half-over.  I'm off."
+      },
+      {
+        "speaker": "PETE",
+        "text": "Thank you, Mr. Lawson."
+      },
+      {
+        "speaker": "STANTON",
+        "text": "Don't mention it.  Whoever-you-are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29286",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "SAUNDERS",
+        "text": "Now that you remember who you are, were you planning on telling anyone your true identity?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "I already have."
+      },
+      {
+        "speaker": "SAUNDERS",
+        "text": "Who?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "My girlfriend.  If she still is..."
+      },
+      {
+        "speaker": "SAUNDERS",
+        "text": "Would that be Miss Sinclair?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "No.  No, not Miss Sinclair.  I'm talking about Adele Lardner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29287",
+    "movie_id": "m207",
+    "turns": [
+      {
+        "speaker": "SAUNDERS",
+        "text": "Mr. Appleton, I have reason to believe you're holding something back, and that just rubs me the wrong way.  Sir, are you a communist?"
+      },
+      {
+        "speaker": "PETE",
+        "text": "No.  Absolutely not."
+      },
+      {
+        "speaker": "SAUNDERS",
+        "text": "All right.  All right.  We'll see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29288",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "MELANIE",
+        "text": "Miss Hayworth?"
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "I'm Melanie Daniels. I'm sorry to bother you, but..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29289",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "The man at the post office sent me. He said you'd know the name of the little Brenner girl."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Cathy?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "The one who lives in the white house across the bay?"
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "That's the one. Cathy Brenner."
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "They seemed sure it was either Alice or Lois."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Which is why the mail in this town never gets delivered to the right place.  Did you want to see Cathy about something?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29290",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "Are you a friend of Mitch's?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "No, not really."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29291",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "I've been wanting a cigarette for the past twenty minutes, but I couldn't convince myself to stop. This 'tilling of the soil' can get a little compulsive, you know."
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "It's a lovely garden."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Thank you. It gives me something to do with my spare time.  There's a lot of spare time in Bodega Bay.  Did you plan on staying long?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "No. Just a few hours."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "You're leaving after you see Cathy?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "Well... something like that.  I'm sorry. I don't mean to sound so mysterious."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Actually, it's none of my business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29292",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "Did you drive up from San Francisco?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "It's a nice drive.  Is that where you met Mitch?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "I guess that's where everyone meets him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29293",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "Do I?  No, I'm an open book, I'm afraid.  Or maybe a closed one.  Pretty. What are they?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "Lovebirds."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29294",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "Mmm.  Well, good luck, Miss Daniels."
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29295",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "Oh, hi!  Did you find her all right?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "Yes, I did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29296",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "MELANIE",
+        "text": "I was wondering..."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "That sign.  Do you think I could have the room for a single night?"
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Well, I'd really hope to rent it for..."
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "I would appreciate it. I've tried everywhere in town, and they're all full."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Sure. You can have it.  Where's your bag? In the car?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29297",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "It's utilitarian, I'll say that for it."
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "I just picked up some things for the night at the general store. You see, I hadn't planned on spending much time here."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Yes, I know. Did something unexpected crop up?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29298",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "Miss Daniels? Is that you?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29299",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "ANNIE",
+        "text": "Hi.  Is something wrong? Is that cut beginning to bother you?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "No, it's not the cut that's bothering me."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "Would you like some brandy?"
+      },
+      {
+        "speaker": "MELANIE",
+        "text": "If you have some, I'd..."
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "I'll get it, sit down, Miss Daniels. Do you want a sweater or something? A quilt?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_29300",
+    "movie_id": "m208",
+    "turns": [
+      {
+        "speaker": "MELANIE",
+        "text": "No, thank you.  Won't you call me Melanie?"
+      },
+      {
+        "speaker": "ANNIE",
+        "text": "All right."
+      }
+    ]
+  }
+]

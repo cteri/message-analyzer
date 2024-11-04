@@ -1,0 +1,1782 @@
+[
+  {
+    "conversation_id": "conv_6201",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "Where's the name sheet?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Nobody's named this one yet."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "It's my turn!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6202",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "He doesn't like it.  He's a boy, That's why."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Can't a boy be a Dorrit?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I don't think so."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "You do it then."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6203",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "Henceforth you shall be... Little Wilbur."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "I'm not crazy about the \"Little...\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6204",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "Okay, he's just a Wilbur then."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "We haven't had a Wilbur here in a year or so, have we? We used to have *dozens*!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6205",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "I thought you took care of this. It always breaks in the same place. It's your splice, isn't it?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "It's *your* splice! You blame me for everything!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6206",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "I thought it was my turn."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "It is. I'll get this. You go ahead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6207",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "How about expecting people to be responsible enough to control themselves to begin with?"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "How about this child? You expect *her* to be responsible?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6208",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "It's just a marvel to me that you still have such high expectations of people."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I'm happy I amuse you."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Try to look at it this way. What choice does Buster have? What are his options? Nobody will ever adopt him."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Try to look at it *this* way. Buster and I are sitting right here beside you. We could have ended up in the incinerator!"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Happy to be alive, under any circumstances--is that your point?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6209",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "LARCH",
+        "text": "Doubtless you'll let me know what immensely worthwhile or at least *useful* thing it is that you find to do."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I wasn't intending to leave here in order to be entirely useless--I expect I'll find some ways to be of use."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "In other parts of the world, I suppose there are other ways."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Of course."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Are you really so *stupid* that you imagine you're going to find a more gratifying life? What you're going to find is people like the poor people who get left here--only nobody takes care of them as well! And you won't be able to take care of them, either. There's no taking care of *anybody*-- not out there!"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "You know I'm grateful for everything you've done for me..."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "I don't need your gratitude."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6210",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "I don't need this--I know all about my condition."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "It's your heart--you ought to take it with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6211",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "I am not a doctor."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "You know everything I know, plus what you've taught yourself--you're a better doctor then I am and you know it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6212",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "OLIVE",
+        "text": "What I mean is... I would like it very much if you thought you could be happy here, Homer."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Mrs. Worthington, I feel I'm very lucky to be here."
+      },
+      {
+        "speaker": "OLIVE",
+        "text": "There's not a lot of work in the winter, and you'll have to tolerate Vernon--even Wally despises him, and Wally likes everyone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6213",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "I think Wally will be fine, Mrs. Worthington--he seems indestructible to me."
+      },
+      {
+        "speaker": "OLIVE",
+        "text": "I don't know.  Just promise me one thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6214",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "Uh... sure."
+      },
+      {
+        "speaker": "OLIVE",
+        "text": "Just promise me that, if there's a blizzard, you'll move into Wally's room until it's over."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6215",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "OLIVE",
+        "text": "Good-bye, Arthur.  Homer, I'll see you tomorrow?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6216",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MUDDY",
+        "text": "Don't mess in this, Homer, if you know what's good for you."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "How long's this been going on, Muddy?"
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "Long enough. You ain't gonna stop it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6217",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "\"One: Please don't smoke in bed.\""
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "We heard that one already, Homer."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "\"Two: Please don't go up to the roof to eat your lunch.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6218",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "Thanks, guys... I'd like to go with you. But I've got to move on."
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "Yeah, well... you could move on with *us*, man! You could move on somewhere *warm*!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6219",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "Rose Rose?"
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "Pretty, ain't it? You a plumber?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6220",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ROSE ROSE",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "It's just my heart."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "What you got a picture of your heart for?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6221",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "There's a little something wrong with it. Just this part here--the right ventricle. It's slightly enlarged."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "So what?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Yes, so what. It's nothing serious, really. Just a small defect."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6222",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "Do you like to read?"
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "I can't read. Nobody taught me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6223",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ROSE ROSE",
+        "text": "You ain't gettin' in no trouble, I hope."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "No trouble."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6224",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "I'm not in trouble."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "Yeah, you is. I know when people is in trouble, and you is."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6225",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "Give men that. I know how to do it."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "Oh, I suppose you is a doctor, Homer?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Almost."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6226",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "You okay, Rose?"
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "I guess you must like watchin' me be sick..."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I don't like watching anyone be sick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6227",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "You're not yet three months, are you?"
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "Not yet. What do you know about it?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "I know more than I want to know about it. Who's the father?"
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "Don't trouble yourself about it, Homer--this ain't your business."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "But you don't look very happy."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "*Happy*! What are you thinkin'? How am I supposed to take care of a baby! I can't have a baby."
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Rose, please listen. Whatever you want to do, I can help you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6228",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "HOMER",
+        "text": "What I mean is, if you don't want to... keep the baby, I know a place where you can go."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "You think Daddy's gonna let me go anywhere? I ain't going *nowhere*."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6229",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ROSE ROSE",
+        "text": "Why don't you just go back to your pickin', Homer? I can take care of it myself!"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "Rose, listen--don't *do* anything. You know, I mean to yourself. Please listen..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6230",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ROSE ROSE",
+        "text": "That's *it*?"
+      },
+      {
+        "speaker": "HOMER",
+        "text": "That's it."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "It means nothin' at all! And all this time I been *wonderin'* about it!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6231",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "Who cares?"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "Now, now. He's a good boy."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Shit. We don't know what he is."
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "Jack, you gotta watch your language 'round my daughter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6232",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "I bet the view looks better from the Worthin'tons'."
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "You think so, Jack? Well... I wouldn't want to be in that Wally's shoes tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6233",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "That just ain't right, Jack--your cigarette's gonna end up in nine or ten gallons of this batch of cider! That ain't right."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Them people drinkin' that cider, they don't know there's a cigarette in there!"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "It's not that hard to find it in there, Jack--it'll take you just a minute. You just gotta go fishin'."
+      },
+      {
+        "speaker": "JACK",
+        "text": "You mean *swimmin'*. I ain't goin' in that vat to fish out no cigarette!"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "What business is you in, Jack? Just tell me what your business is..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6234",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MRS. GOODHALL",
+        "text": "Do you know him?"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "*No*! I don't want to know him! He's doing *missionary* work--in *India*! I wrote him *weeks* ago, but he's either too holy or too busy to answer. Maybe he got killed in the war!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6235",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MRS. GOODHALL",
+        "text": "I fail to see how someone courageous enough to make a commitment to a foreign mission is automatically to be dismissed--that part of the world requires precisely the kind of dedication that is needed here."
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Does it *snow* in Bombay? One winter here and we'll be shipping him south, in a *coffin*!"
+      },
+      {
+        "speaker": "MRS. GOODHALL",
+        "text": "You can't think that a man who has *served* under such conditions as exist over there will be in the slightest daunted by a little *snow*-- have you no idea how harsh and primitive and full of *disease* that part of the world is?"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Then I suppose we can look forward to catching various diseases from him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6236",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MRS. GOODHALL",
+        "text": "I fail to see how a little Christianity could *hurt* anyone here!"
+      },
+      {
+        "speaker": "LARCH",
+        "text": "Anyway, I was just showing you this guy as an example of what's available-- I didn't think you'd be interested."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6237",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MAJOR WINSLOW",
+        "text": "When the plane was hit, the crew chief and the radioman jumped close together. The copilot jumped third. All on Captain Worthington's orders-- the captain was still flying the plane. None of the men of the ground could see the sky--that's how thick the jungle was. They never saw the plane crash--they never *heard* it crash. They never saw Captain Worthington's parachute, either."
+      },
+      {
+        "speaker": "OLIVE",
+        "text": "Why was he missing for twenty days?"
+      },
+      {
+        "speaker": "MAJOR WINSLOW",
+        "text": "Because the crew thought he'd gone down with the plane. They were hospitalized for almost a week in China before they were flown back to India. It wasn't until that they sorted through their gear..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6238",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "OLIVE",
+        "text": "Then it's malaria?"
+      },
+      {
+        "speaker": "MAJOR WINSLOW",
+        "text": "It's encephalitis B. He's recovering at Mount Lavinia Hospital, Ceylon.  Uh... Captain Worthington is paralyzed.  Waist down. He won't walk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6239",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MAJOR WINSLOW",
+        "text": "No autonomic effects... that's correct."
+      },
+      {
+        "speaker": "OLIVE",
+        "text": "When will he be home, Major?"
+      },
+      {
+        "speaker": "MAJOR WINSLOW",
+        "text": "Four weeks or so, right around Halloween."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6240",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "They told me I was too old to serve."
+      },
+      {
+        "speaker": "PEACHES",
+        "text": "They told Muddy his feet was too flat!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6241",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "PEACHES",
+        "text": "Ain't you gonna see what it is, Homer?"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "Mind your own business, Peaches."
+      },
+      {
+        "speaker": "PEACHES",
+        "text": "Sorry, Homer..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6242",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "You all take care of yourself, too, Homer!"
+      },
+      {
+        "speaker": "PEACHES",
+        "text": "We see you next harvest."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6243",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "Don't this place look like home?"
+      },
+      {
+        "speaker": "PEACHES",
+        "text": "It look nicer then home!"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "What have you two been doin' to make it look so nice?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6244",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "You pickin' nothin' but cider apples, Peaches--I hope you understand that."
+      },
+      {
+        "speaker": "PEACHES",
+        "text": "They ain't drops--I picked 'em off the tree!"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "Then you pickin' 'em too fast--they ain't no better than drops to me. See that bruise, and that one? *Half* of these is bruised! Look at this one! It ain't got no stem! You might as well *step* on 'em, too--they only good for cider."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6245",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "PEACHES",
+        "text": "They're *outrageous*, them rules!"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "Who *live* here in this cider house, Peaches? Who grind them apples, who press that cider, who clean up the mess, and who just plain *live* here... just breathin' in the vinegar?  Somebody who *don't* live here made them rules. Them rules ain't for *us*. *We* the ones who make up them rules. We makin' our *own* rules, every day. Ain't that right, Homer?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6246",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "Where's your manners? Make room for Homer, so's he can enjoy the view."
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "What view?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6247",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MUDDY",
+        "text": "*What* view?"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "Well, Muddy, we can look at all these angry stars Homer's been readin' to us about."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6248",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "Don't let us make you nervous or nothin'--we know you gotta job to do."
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "Yeah, we can wait all night for the water to come back on--you just go on and take your time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6249",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MUDDY",
+        "text": "It's that Vernon--he keeps askin' where you and Homer and Rose Rose is at."
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "Tell that Vernon to mind his own business, Muddy."
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "I told him that you all is sick."
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "Tell him what you want, Muddy--*you* is the crew boss today."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6250",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "She's *good* with that knife! She's real fast. She's a lot better with that knife than *you* is, Muddy! And who do you suppose taught her?"
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "*You* taught her, I suppose..."
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "That's right! A girl's gotta know how to defend herself, don't she?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6251",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MUDDY",
+        "text": "That what happen--you lost you only daughter so's you killed yourself! That's what we say, all right."
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "That's right. I know you understand how I feel, Homer--you is breakin' them rules, too. Ain't that right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6252",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ROSE ROSE",
+        "text": "Daddy, I'd like to be in that Wally's shoes *every* night."
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "You lucky you in your work boots tonight, girl..."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "What's lucky about that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6253",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ROSE ROSE",
+        "text": "That sounds like you is in trouble already, Homer."
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "That's right--that sounds like trouble to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6254",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "ROSE ROSE",
+        "text": "We should drown that damn Jack in the vat!"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "Now, now, darlin'... Jack just needs to know what business he's in."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "Yeah, you really showed him, Daddy-- you just about cut your own hand off, and all you cut off *him* was his clothes!"
+      },
+      {
+        "speaker": "MR. ROSE",
+        "text": "You oughta know you don't go to jail for cuttin' a guy's *clothes*. Ain't that right, Homer?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6255",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "Now, now, Jack--that just ain't right."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "You just stay out of trouble, Homer!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6256",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "Where do you think you're going?"
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "You gotta let me go, Daddy. Please..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6257",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "You ain't goin' nowhere in the middle of the night, girl!"
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "I ain't your business no more, Daddy. Please let me go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6258",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MR. ROSE",
+        "text": "You just go inside, Homer. We don't need no help."
+      },
+      {
+        "speaker": "ROSE ROSE",
+        "text": "That's right, Homer. This ain't your business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6259",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "PEACHES",
+        "text": "That Candy--she's the nicest girl I know!"
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "She's about the most beautiful girl I ever seen--I don't know if she's the nicest."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6260",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MUDDY",
+        "text": "You're lucky he didn't cut your *nipples* off, man."
+      },
+      {
+        "speaker": "PEACHES",
+        "text": "The good news, Jack, is you're half- undressed for *swimmin'*..."
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "Yeah, that cigarette ain't hard to find when you're properly undressed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6261",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MUDDY",
+        "text": "Rose Rose has runned away!"
+      },
+      {
+        "speaker": "PEACHES",
+        "text": "She took off in the night!"
+      },
+      {
+        "speaker": "MUDDY",
+        "text": "She took off on the bicycle, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6262",
+    "movie_id": "m44",
+    "turns": [
+      {
+        "speaker": "MUDDY",
+        "text": "You ever see a palm tree, Homer?"
+      },
+      {
+        "speaker": "PEACHES",
+        "text": "He ain't never been outta Maine!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6263",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "LILY",
+        "text": "But I'm not that late. You didn't have to give away my seat."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "I wasn't sure if you'd make it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6264",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "LILY",
+        "text": "Thanks for playing along. I just have to sit for a while."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Tough day?"
+      },
+      {
+        "speaker": "LILY",
+        "text": "Brutal day. They say the streets are lined with money down here, but I guess you have to know the secret handshake. What are you drinking?"
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Uh, Maker's Mark. Rocks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6265",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "ASHBY",
+        "text": "My name's Grant. Grant Ashby."
+      },
+      {
+        "speaker": "LILY",
+        "text": "Oh god. I'm overbearing and rude. Lily. Lily Finn."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6266",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "ASHBY",
+        "text": "So, what do you do?"
+      },
+      {
+        "speaker": "LILY",
+        "text": "It's more like what aren't I doing. My partners and I are trying to secure start up capital for a small tech company. We tried the venture capitalist route in the Valley, but then again who hasn't up there."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Silicon Valley?"
+      },
+      {
+        "speaker": "LILY",
+        "text": "That's right. So, brainiacs that we are, we thought we'd be innovative and relocate east. Try our luck with a straight corporate loan out here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6267",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "ASHBY",
+        "text": "Can --"
+      },
+      {
+        "speaker": "LILY",
+        "text": "On me. For the seat. Cheers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6268",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "LILY",
+        "text": "So we've been meeting with banks all day. It's amazing how many ways they can say \"no\" without ever using the word."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Well, typically, corporate loans are relatively simple matters, but you do need to demonstrate a capacity for gross fund recovery."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6269",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "LILY",
+        "text": "Don't tell me you started a tech firm here before us."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "No, no. Nothing like that. I work in a bank."
+      },
+      {
+        "speaker": "LILY",
+        "text": "Really? Wish we had met eight hours ago."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6270",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "ASHBY",
+        "text": "Oh. Well, thanks for the drink."
+      },
+      {
+        "speaker": "LILY",
+        "text": "You're welcome. I was just going to ask you if you'd like to join us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6271",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "Uh, right... And that was it. That's when we decided to start our own business. No more shithead bosses."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "I envy you guys. Taking a chance like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6272",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "What do you do over at your bank, Grant?"
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "What do I do? I'm the VP of Finance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6273",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "Here's where a little research comes in handy. Corporate banks give out VP titles like calendars. It's a small lie, but now we're sure he's playing."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Maybe you can help us understand what's so hard about getting a corporate loan."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Well, typically speaking, they're not. As long as you can demonstrate --"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "A capacity for gross fund recovery. Yeah, we got that part."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "That's right. And tech firms... They 'tend to scare people off."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "They scare people off because most people lack vision. Vision and balls. Present company excluded of course."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Banks need to know how they're going to get their money back."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "We know exactly how we're going to make the money back. There in lies the Catch-22"
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "I don't follow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6274",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "Listen, what I'm about to tell you, I'm telling you in confidence, okay?  Have you ever heard of a company called Big.Com?"
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Big.Com. That Internet thing."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Right. The guys who started that did what a lot of companies in the Valley do. They get a good idea, shop it around, raise some capital, then sell it off to a bigger company. Microsoft, Intel, Oracle, whatever. The beauty of it is, they've pretty much sold the company before they're even real. The bigger company is already set to buy it, all they want to do is make sure that the idea actually works. So they get some start up capital, make it work, then sell it for like five times the initial loan."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Sort of like a letter of intent."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Exactly. But the Catch-22 is that you can't tell anyone about the offer, because if it's public, you could start a bidding war and that's considered a breach of etiquette. It could kill a deal. But, wait too long and you're not considered hot anymore."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "And you have this letter of intent?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Yes. That's why I wish there were guys willing to take a chance and live a little."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6275",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "We had to finalize the deal."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Everything looks in order."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "This has to happen fast."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "I know. It won't go unnoticed."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "There'll be red flags."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6276",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "ASHBY",
+        "text": "What's this?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "You need some convincing. Consider it a convincer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6277",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "ASHBY",
+        "text": "Let's just slow down for a second..."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "You're worried about recouping the loan. I already told you."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "No, I understand that. What I mean... What I'm trying to say... I was actually wondering about... Well, my cut."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6278",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "Then there it is. Ashby gets the itch."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "The standard ten."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Ten percent. Of how much?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Two million."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6279",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "Same thing with playing a con. You have to be able to see that deep."
+      },
+      {
+        "speaker": "ASHBY",
+        "text": "Jake? Right. Uh-huh... Uh-huh... Yeah, it's going through --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6280",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BIG AL",
+        "text": "Hey, Jake... When am I gonna get to play the Inside?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Gordo plays the inside. You're the Shill."
+      },
+      {
+        "speaker": "BIG AL",
+        "text": "Yeah, but come on... All I get to do is cry and get insulted."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "What are you talking about? You should get a fucking Academy Award for the Shill work you do.  We got it down cold, Al. You don't want to jinx it by changing something up, do you?"
+      },
+      {
+        "speaker": "BIG AL",
+        "text": "I'm gonna go get eggrolls. Anyone want eggrolls?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6281",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "It can erase all those things about you that you wish didn't exist."
+      },
+      {
+        "speaker": "BIG AL",
+        "text": "It's Alfonse. I want to settle up. I haven't been ducking you. I told you I'd get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6282",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "And I think it's because of this redhead..."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "Know who I am, Jake?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "The Anti-Christ?"
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "No. I'm not the Anti-Christ. Or the Prince of Darkness. I'm just a guy looking for some answers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6283",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "Things are probably going to end badly for you, Jake."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Gee... What makes you say that?"
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "Your life flashing before your eyes?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Just the last three weeks."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "That's not a bad place to start."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6284",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "Grifters..."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "We can't all be model citizens such as yourself."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "It's all about the money, isn't it?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Isn't it always?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6285",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "I'm not saying anything. Besides, you're one to talk. You're the one who's got me on my knees in a dark alley."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "And these cops? What do they get?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6286",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "Keeping the Fix happy."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "You never know when you can use a crooked cop."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "Keep going. I want to know how you got Lionel Dolby."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "So you want to know how to play the Big Con."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "In this case, you might say I want to know how not to play the Big Con."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6287",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "So how'd you get caught?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Suits used to say that in any con, sooner or later someone's going to start asking the right questions. Usually, it takes a little longer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6288",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "I can see why you liked her."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "That was it. We had our crew. Now we needed the Mark."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6289",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "But there were other factors."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Factors that weren't clear to me until now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6290",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "He's just as crooked as the next guy. You'd think he'd have more important things to do with tax payer dollars."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "Cue the fucking violins. Come on... It's getting cold."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6291",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "Nice."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "We got our stake. Now we need to find our guy in Gillett's bank."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6292",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "Thanks. Did you know you shouldn't light three cigarettes with a match?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Back in WWI or WWII, one of the WW's, if you took the time to light three cigarettes with one match, some Nazi would be able to figure out where you were. Then, well... It was the last cigarette you and your two buddies ever had. So three on a match is bad luck."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "You're a superstitious fucker."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Luck's a funny thing. Especially the bad."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Having a gun pointed at you for one. It's not like breaking a mirror bad luck, but it's bad. Three on a match, black cats... Believe it. Believe it all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6293",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "She had you tempting fate."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "My father used to play the same fucking lotto numbers with these other guys in the pharmacy. The same numbers everyday for sixteen years. One day he gets pissed off, tells them he's out and plays his own numbers. They hit the Lucky Seven for one point two million."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6294",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "Is that what it was, Jake? Was it love?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "You know when the first con was ever played? It was when Adam fell for Eve in the Garden of Eden."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6295",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "So much for honor among thieves. You would have cut loose your friends, your girl..."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "I was doing it for them."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "BULLSHIT! You were scared, Jake! You lost your nerve! You lost your confidence! You weren't being noble. You weren't trying to save anybody but yourself! Admit it."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "It's not true."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "Yes it is, Jake! Yes it is! They were right there for you. She was right there for you! Look at her!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6296",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "JAKE",
+        "text": "We were back on."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "After you cut her loose."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "She walked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6297",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "Alrlght, alrlght. What happened today?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Today? Started off great..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6298",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "Alright... Turn around. She doesn't get shit, unless I get that money. Where is it?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Probably safe in the hands of the Federal Government."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6299",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "Oh, Jake. You disappoint me. And you just let Lily here down again. What was it you said about playing the big con?"
+      },
+      {
+        "speaker": "JAKE",
+        "text": "It's like putting on a play, where everyone knows their part except for the mark."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "Like putting on a play... Guess some people forgot their lines."
+      },
+      {
+        "speaker": "JAKE",
+        "text": "Guess so."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "So why don't you take a deep breath, Jake, and I'll count to ten. One. Two. Three..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_6300",
+    "movie_id": "m45",
+    "turns": [
+      {
+        "speaker": "BUTCH",
+        "text": "Not that I recall. What do you want us to do about it?"
+      },
+      {
+        "speaker": "GILLETTE",
+        "text": "Let's see... Let's suppose he gets to Customs and he gets caught. We get our money back, but then we have to deal with a criminal investigation. I don't much like that idea. Then again, let's suppose he actually gets through Customs. Now, that'll be something. We recover the money in cash and let the insurance cover the corporate fraud. We double our money."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "So we go to the bar."
+      },
+      {
+        "speaker": "GILLETTE",
+        "text": "I think so. The airport's going to be crawling with police. Traffic will be a nightmare. Go down to the bar. If they pull it off, great. Have someone deal with Ashby."
+      },
+      {
+        "speaker": "BUTCH",
+        "text": "We'll take care of it."
+      },
+      {
+        "speaker": "GILLETTE",
+        "text": "And how much did you say you wanted for this... What did you call it? A finder's fee?"
+      }
+    ]
+  }
+]

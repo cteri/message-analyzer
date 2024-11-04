@@ -1,0 +1,2166 @@
+[
+  {
+    "conversation_id": "conv_32201",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "CHET",
+        "text": "Hey!!!... Johnnie Farragut. How are you, my man."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Real good, Chet... It's been awhile."
+      },
+      {
+        "speaker": "CHET",
+        "text": "Everythin's relative. Where's that Marietta Pace Fortune? You two didn't split up, I hope."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "No... She's fine. Back home."
+      },
+      {
+        "speaker": "CHET",
+        "text": "What'll it be? The regular? Black Label?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Set one up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32202",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "CHET",
+        "text": "So who you out sleuthin' for now?... Can I help ya?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Actually, I'm lookin' for Marietta's daughter, Lula. Her and 'er beau took off the other day. Marietta's real upset about it."
+      },
+      {
+        "speaker": "CHET",
+        "text": "Hell, that rings a bell. Someone told me somebody lookin' like her was at the Nothin' Fancy yesterday."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Sounds right... I'll check it out."
+      },
+      {
+        "speaker": "CHET",
+        "text": "You hitched yet?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "No sir..."
+      },
+      {
+        "speaker": "CHET",
+        "text": "It's none of my business, but when are you and Marietta gonna tie the knot? I always wondered why you never did."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Not for lack of love, I can tell ya that."
+      },
+      {
+        "speaker": "CHET",
+        "text": "That's what I mean... Always looked like you was just knocked out in love... Was real nice to see."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "I'll tell ya though, it's comin' up to the time when Marietta and me might just set up house together and settle down... I think that time's comin' up right soon. But like you said, everythin's relative."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32203",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "Alright... By all means. Make yourselves at home."
+      },
+      {
+        "speaker": "DROP SHADOW",
+        "text": "Muchas gracias."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32204",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "DROP SHADOW",
+        "text": "No big buildings like in New Orleans."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Whattaya do there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32205",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "I thought you two were in Austin, Texas. Or Takes-us, as they say in these parts."
+      },
+      {
+        "speaker": "DROP SHADOW",
+        "text": "We were. Now Mr. San Pedro Sula and I are on our way back to Utila, in the morning."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32206",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "So, it's back to the islands."
+      },
+      {
+        "speaker": "DROP SHADOW",
+        "text": "Yes. Mr. San Pedro Sula spoke yesterday to his son, Archibald Leach San Pedro Sula, who is named after Cary Grant, and he told them there was a shooting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32207",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "DROP SHADOW",
+        "text": "But how are you finding New Orleans, Senor Farragut?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Call me Johnnie... N.O. has always been a good town to sit around in."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32208",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "DROP SHADOW",
+        "text": "Mr. San Pedro Sula is from Honduras."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "Do you know Honduras, Johnny?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32209",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "REGGIE",
+        "text": "Oh, many things..."
+      },
+      {
+        "speaker": "DROP SHADOW",
+        "text": "Mr. San Pedro Sula's got an appliance shop."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "But I am also with the government."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32210",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "REGGIE",
+        "text": "That is my permiso."
+      },
+      {
+        "speaker": "DROP SHADOW",
+        "text": "Mr. San Pedro Sula's permit to kill."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "Only if necessary, of course, and only in my own country."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32211",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "DROP SHADOW",
+        "text": "Mr. San Pedro Sula's authorized to carry a .45."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "United States Marine issue, before they made the unfortunate switch to the less dependable nine millimeters. I have it here, in my briefcase."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32212",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "DROP SHADOW",
+        "text": "He wants to take Mr. San Pedro Sula and me bass fishing."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "We are in the same businesses and also we are fishermen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32213",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "GEORGE",
+        "text": "My name's George Kovich. Bet you've heard of me."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Don't know that I have... Should I know about you for anythin' in particular?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Was in all the papers three years ago. I'm seventy-six, was only seventy- three then. Had a business in Buffalo, New York, called Rats With Wings. Killed pigeons for anyone who wanted 'em killed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32214",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "If your neighbors didn't mind, how'd you get put out of business?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Woman drivin' down the street spotted me with on a roof with my rifle. She called the police and they came over and arrested me. Thought I was a sniper! Boys at the VFW loved that one. Cops didn't understand about the pigeons, the damage they do to personal property. I used to complain to the city but they never lifted a finger. I was gonna put out poison, but I was afraid somebody's cat would eat it. Hell, I had six cats myself. So I used the .22 because it didn't make much noise and the ammo was cheap."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "What happened on the charges?"
+      },
+      {
+        "speaker": "GEORGE",
+        "text": "Guilty on a reduced charge. Hundred dollar fine and ordered to desist. Pigeons carry diseases and muss up the place. You seen it. Plain filth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32215",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "The Good Witch..."
+      },
+      {
+        "speaker": "GOOD WITCH",
+        "text": "Sailor... Lula loves you."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "But I'm a robber and a manslaughterer and I haven't had any parental guidance."
+      },
+      {
+        "speaker": "GOOD WITCH",
+        "text": "She's forgiven you of all these things... You love her... Don't be afraid, Sailor."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "But I'm wild at heart."
+      },
+      {
+        "speaker": "GOOD WITCH",
+        "text": "If you are truly wild at heart, you'll fight for your dreams... Don't turn away from love, Sailor... Don't turn away from love... Don't turn away from love."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32216",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Are you going to provide me with an opportunity to prove my love to my girl? Or are you gonna save yourself some trouble and step up like a gentleman and apologize to her?"
+      },
+      {
+        "speaker": "IDIOT PUNK",
+        "text": "Don't fuck with me, man. You look like a clown in that stupid jacket."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "This is a snakeskin jacket, and for me it's a symbol of my individuality and my belief in personal freedom."
+      },
+      {
+        "speaker": "IDIOT PUNK",
+        "text": "...Asshole."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Come here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32217",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "I'm sorry to do this to ya here in front of a crowd, but I want ya to stand up and make a nice apology to my girl."
+      },
+      {
+        "speaker": "IDIOT PUNK",
+        "text": "I'm sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32218",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "REGGIE",
+        "text": "You are from New Orleans, Senor Farragut?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Johnnie, please. Nope. Charlotte, North Carolina. Here on business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32219",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "Only that it's supposed to be a pretty poor sight since the hurricane came through last year."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "Yes, that's so. But there is not much to destroy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32220",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "In what capacity?"
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "In many capacities."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32221",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "General Osvaldo Tamarindo y Ramirez. Telefono 666."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "He is my sponsor. The General is the head of the secret police of Honduras."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32222",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "Why are you in New Orleans? If you don't mind my askin'."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "Certainly not. We are here only briefly, in fact, until this evening, when we fly to Austin, Texas to visit a friend of mine who is an agent for the CIA."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32223",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "REGGIE",
+        "text": "The same to you. If you are in Honduras, come to the Bay Islands and visit us. The Hondurans are great friends of the American people. But I have a joke for you before I go. If a liberal, a socialist, and a communist all jumped off the roof of the Empire State Building at the same time, which one of them would hit the ground first?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "I couldn't say, which one?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32224",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "REGGIE",
+        "text": "Would you like to enjoy a martini with us?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Why not? How was the fishin'?"
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "I think they are too serious, these American fishermen. In Honduras, we are not so concerned with the method."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32225",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "REGGIE",
+        "text": "Teddy Roosevelt, one of the local shrimp boat captains is in jail now. These people are friends of mine, so I must return and find out what happened."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "This island of yours sounds like a kind of unpredictable place."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "It has its moments of uncertainty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32226",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "REGGIE",
+        "text": "Hasta siempre."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Hasta siempre."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "Do you know how it came about that copper wire was invented in Scotland?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "How's that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32227",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "Gotta admit, you guys are -  two in four dozen."
+      },
+      {
+        "speaker": "REGGIE",
+        "text": "The real joke is we never went fishing, but we're still fishing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32228",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "REGGIE",
+        "text": "I forgot to show you this. The gentlemen that gave this to me said you'd recognize it. Said he wanted it'd be 'bout the last thing you ever saw in this life."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Oh God... OH GOD... Santos... Oh God Marietta... are you in on this?... OH GOD!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32229",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "MARIETTA",
+        "text": "I knew this would happen. Soon as that piece of filth got out of Pee Dee, I knew there'd be trouble. He's just got some kind of influence over her I can't decipher. There's somethin' wild in Lula I don't know where it comes from. You gotta find 'em, Johnnie."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "He served his time for what he did. Another thing... If Lula went with him of her own volition - willingly, that is - there ain't much can be done about it."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Don't talk down to me, Johnnie Farragut. I know what volition means, and that's why I want Sailor Ripley off the planet! He's pure slime and it's leakin' all over my baby. Maybe you could push him into makin' some kinda move and then kill him dead. You'd only be defendin' yourself, and with his record, nobody'd fuss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32230",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "MARIETTA",
+        "text": "I'll hire a hit man if you don't want to help me stop this thing. I'll call Marcello Santos."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Now, Marietta, I am goin' to help you. And don't be gettin' carried away. You don't want to be bringin' Santos and his people into it."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "You're just jealous of Santos cause he's sweet on me."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Darlin', you ain't seein' Santos again, are ya?"
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Oh, Johnnie Farragut... Don't you trust your very own Marietta?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Sorry, sweetheart. Bein' in love with you like I am brings out that ugly jealous side."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Well stop worryin' about me and start worryin' about how you're gonna get that Lula back here and away from that murderer."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Sailor ain't a murderer. You got to get off that kick. And far's I can tell, Sailor was entire clean prior to that involvin' Lula. Even there he was protectin' her. You oughta be thankin' him for that. That Bob Ray Lemon they say was comin' after the both of 'em. Why am I tellin' you this, you was around that night. You ought to know just exactly what happened. Sailor just got a little too forceful is all... You remember that night..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32231",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "MARIETTA",
+        "text": "Maybe I was there, but I didn't see anythin'. All I know's that trash killed a man with his bare hands. Hands which are now prob'ly all over my baby!"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Marietta, settle down now darlin'... I want what's best for her, too - like I said, I'll do what I can to bring her home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32232",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "No, Marietta, I haven't found 'em."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "This is the kinda mistake can take a Hindu's lifetime to unfix... You better get a move on, Johnnie, before that boy got her holdin' down a Memphis streetcorner and shootin' dope up her arms."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32233",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "Really, Marietta, you got more scenarios swimmin' around in your brain than Carter got pills. Try to take it easy. Go over to Myrtle Beach for a few days."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "I'm stayin' right here by the phone until you find Lula, then I'm comin' to get her. You call soon's you got somethin', even if it's three in the a.m."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "I will, Marietta. Goodbye now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32234",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "I got some news, Marietta. Lula and Sailor been here. They checked out of the Hotel Brazil on Frechman Street yesterday."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Listen, Johnnie, Lula just called me. She knew you were in N.O., so they left the city."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Did she tell you where she was callin' from?"
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "No, but my guess is they're headed west, so prob'ly Texas. Their money must be runnin' low. I don't think Sailor had much to begin with, if any, and Lula took the six hundred she had saved in the Cherokee Thrift."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "How'd she sound? Was she doin' okay?"
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Could she be doin' okay, Johnnie? She's tryin' to prove somethin' to me, that's all. Lula ain't doin' no more'n showin' off, defyin' me...  Johnnie, I've done somethin' bad..."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "What?"
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "I won't tell you over the phone. I'm comin' to N.O. and I'll tell you then."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Marietta, I was just gonna leave and see if I could pick up their trail."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "No, you wait right there for me... I'll be on the Piedmont flight tomorrow at seven. Meet me at the airport."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "I'll meet you, Marietta, if that's what you want, but I'm against it."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Seven tomorrow evenin'. We can eat at Galatoire's. Fix it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32235",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "JOHNNIE",
+        "text": "Who was that?... Who know's your here?"
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "I'll be damned if that wasn't a wrong number?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32236",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "MARIETTA",
+        "text": "What is it, Johnnie?"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Just some guys I met here... I keep seein' 'em...  Now tell me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32237",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "MARIETTA",
+        "text": "Johnnie, I can't tell you, honey. Is there anyway we can get on the road tonight? We've got to find them kids."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Somethin' was upsettin' you bad last night, and you wanted to tell me and I figured you wanted to tell me so's I could help..."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "I did, honey, but that was last night... Let's just find those two kids before it's too late."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Honey, I have to ask you this... Is Santos involved in any of this?"
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Hell no, baby... I wouldn'ta done that without tellin' you."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "That bastard Pucinski..."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Who?... Uncle Pooch?..."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Yeah... The one that introduced Santos to you and Clyde."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Johnnie... That's the past... We gotta get on to our future, sugar!"
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "All I have to do is grab my suitcase, and I'm ready. You're lucky cause I happen to love night drivin'."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "Let's head for Texas and see if we can pick up the trail."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "Did I tell ya it's great to see ya again?"
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "This 'bout the fifth time?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32238",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "MARIETTA",
+        "text": "I'll pack my things and meet you downstairs."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "And to think what coulda happened in that king-sized bed tonight..."
+      },
+      {
+        "speaker": "MARIETTA",
+        "text": "You won't of missed much."
+      },
+      {
+        "speaker": "JOHNNIE",
+        "text": "See ya downstairs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32239",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Don't give me no trouble now, Pace, please. This ain't the easiest day in a long time. And what do you mean how are we gonna know what your daddy looks like? You seen his photo."
+      },
+      {
+        "speaker": "PACE",
+        "text": "How'll he know what we look like? He seen our photo?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32240",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Damn it, child! Now look what you made me do."
+      },
+      {
+        "speaker": "PACE",
+        "text": "What I made you do, mama?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32241",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Nothin', honey.  Mama's just actin' strange."
+      },
+      {
+        "speaker": "PACE",
+        "text": "You ain't actin', mama."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Why, Pace Roscoe Ripley, ain't you got one cute mouth tonight?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32242",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "PACE",
+        "text": "I still ain't sure what my daddy looks like."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Like you, sweetheart. You and your daddy got the same mouth, eyes, ears, and nose. Only difference is your color hair is like mine."
+      },
+      {
+        "speaker": "PACE",
+        "text": "My daddy ain't never killed nobody, has he, mama?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Course he ain't never killed nobody. Why'd you say that, Pace?"
+      },
+      {
+        "speaker": "PACE",
+        "text": "Heard grandpa Santos and grandmama talkin'."
+      },
+      {
+        "speaker": "LULA",
+        "text": "And?"
+      },
+      {
+        "speaker": "PACE",
+        "text": "Grandmama said how Sailor murdered a man."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Wrong, baby. Your daddy never committed no murder. Musta been you didn't hear grandmama proper. He made some mistakes, is all. Your daddy ain't always been so lucky... We're almost at the depot, honey. Sit back a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32243",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "PACE",
+        "text": "Why we sittin' here, mama?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Thinkin' a second, baby."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32244",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "PACE",
+        "text": "I'm scared, mama."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Why, honey?"
+      },
+      {
+        "speaker": "PACE",
+        "text": "Case daddy don't like me. What if he don't like that I don't got his color hair."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Pace, your daddy'd love you even if you didn't have no hair at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32245",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Hey baby..."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Peanut..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32246",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Hey, my snakeskin jacket... Thanks, baby... Did I ever tell you that this here jacket for me is a symbol of my individuality and my belief in personal freedom?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "'Bout fifty thousand times. I got us a room at the Cape Fear, and guess what?... I hear Powermad's at \"The Hurricane.\""
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Stab it and steer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32247",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Did you ever think somethin' like about the wicked witch of the east comin' flyin' in?... Did you ever think somethin' and then later think you've said it out loud to someone?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I really did miss your mind while I was out at Pee Dee, honey. The rest of you, too, of course. But the way your head works is God's own private mystery. What was it you was thinkin'?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Well, I was thinkin' about smokin' actually... My mama smokes Marlboros now, used to be she smoked Kools? I stole 'em from her beginnin' in about sixth grade. When I got old enough to buy my own, I bought those. Now I've just about settled on Mores, as you probably noticed? They're longer."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I guess I started smokin' when I was about six... My mama was already dead from lung cancer..."
+      },
+      {
+        "speaker": "LULA",
+        "text": "What brand'd she smoke?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Camels, same as me... Guess both my mama and my daddy died of smoke or alcohol related illness."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Gee, Sailor. I'm sorry, honey. I never would have guessed it."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "It's okay. I hardly used to see them anyway. I didn't have much parental guiding. The public defender kept sayin' that at my parole hearin'. He was a good ol' boy, stood by me... Even brought me some cartons of cigarettes from time to time."
+      },
+      {
+        "speaker": "LULA",
+        "text": "I'd stand by you, Sailor... through anything."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Hell, peanut, you stuck with me after I planted Bob Ray Lemon. A man can't ask for more than that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32248",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "You're perfect for me, too."
+      },
+      {
+        "speaker": "LULA",
+        "text": "You remind me of my daddy, you know? Mama told me he liked skinny women whose breasts were just a bit too big for their bodies. He had a long nose, too, like theirs. Did I ever tell you how he died?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "In a fire, as I recall."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Started he couldn't remember things? Got real violent? Mama kept tellin' me it was on account of lead poisoning from cleanin' the old paint off our house without usin' a mask... But I don't know. Seems like his brain just fell apart in pieces."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32249",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "You have such a pretty, long neck, like a swan."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Grandmama Pace had a long, smooth white neck. It was like on a statue it was so white?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32250",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Sailor, you are somethin' else, honey... When I was fifteen, Mama told me that pretty soon I'd be startin' to think about sex, and I should talk to her before I did anything about it."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "But honey, I thought you told me your Uncle Pooch raped you when you was thirteen."
+      },
+      {
+        "speaker": "LULA",
+        "text": "That's true. Uncle Pooch wasn't really an uncle. He was a business partner of my daddy's? And my mama never knew nothin' about me and him - that's for damn sure. His real name was somethin' kind of European, like Pucinski. But everyone just called him Pooch. He came around the house sometimes when Daddy was away. I always figured he was sweet on mama, so when he cornered me one afternoon, I was surprised more'n a little."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "How'd it happen, peanut? He just pull out the old toad and let it croak?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32251",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "You're terrible crude sometimes, Sailor, you know?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I can't hardly understand you when you talk with one of them Mores in your mouth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32252",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "I said you can be too crude sometimes? I don't think I care for it."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Sorry, sugar. Go on and tell me how old Pooch done the deed."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Well, mama was at the Busy Bee havin' her hair dyed? And I was alone in the house."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32253",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Uncle Pooch came in the side door through the porch, you know? Where I was makin' a jelly and banana sandwich? I remember I had my hair in curlers cause I was goin' that night with Vicki and Cherry Ann, the DeSoto sisters. Uncle Pooch must have known nobody but me was home, cause he came right in and put both his hands on my butt and sorta shoved me up against the counter."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Didn't he say somethin'?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32254",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "So how'd he finally nail you? Right there in the kitchen?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "No, he picked me up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32255",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "He was short but powerful. With hairy arms? Anyway, he carried me into the maid's dayroom which nobody used. We did it there on an old bed."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "'We' did it? Whattaya mean? Didn't he force you?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Well, sure. But he was super-gentle, you know? I mean, he raped me and all, but I guess there's all different kinds of rapes. I didn't exactly want him to do it but I suppose once it started, it didn't seem all that terrible. It was over pretty quick, and after Uncle Pooch just stood there and pulled up his trousers and left me there. I stayed in bed till I heard him drive off. Then I just went back into the kitchen and finished makin' my sandwich."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "And you never told nobody about it?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Just you. Uncle Pooch never acted strange or different after. And he never did anything else to me. I always got a nice present from him at Christmas, like a coat or jewelry?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "One hundred twenty decibels - head on collision of a '54 Ford Pick-Up and a '64 Chevy Station Wagon. No survivors. Balls of flame and grinding metal."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Uncle Pooch died in a car crash three years later while he was holidayin' in Myrtle Beach. They still got way too much traffic there for my taste... And another thing, baby... That government of ours should be keepin' us separated from outer space..."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Here she goes again..."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Sailor, that ozone layer is disappearin'. Seems to me the government could do somethin' about it. One of these mornings the sun'll come up and burn a hole clean through the planet like an X-Ray."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32256",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "You okay, honey?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "That woman's laugh creeps me out. I heard somethin' like that... somewhere before... Sound'd like the wicked witch..."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Just sounded like an old gal havin' a good time to me... You ready to dance?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "I'm always ready to dance. But I need me a kiss first, honey. Just one?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32257",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Hell, you just rubbed up against the wrong girl is all."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "That's good... Now go get yourself a beer.  You fellas have alotta the same power Elvis had... Y'all know this one?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32258",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "What you want to watch this trash for? Ain't one of those people have a real thought in their brain."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "That so?  You want to tell me what, if any, real thoughts you had lately?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "What you have to get personal about so quick? All I mean is you could possibly read a book."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32259",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "What's that honey?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "We didn't have no TV up at Pee Dee, baby, you know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32260",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "I'm sorry, sweetie. I forget some moments where all you been the last two years."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Twenty-three months, eighteen days is all. Don't need to make more'n it was.  This couple's goin' on a date to Hawaii. The girl chose him over the other two guys."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Don't the reject guys get anythin'?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Gift certificates to Kentucky Fried Chicken."
+      },
+      {
+        "speaker": "LULA",
+        "text": "That don't seem fair."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Hell, why should the Datin' Game be different from real life? At least them boys is gonna get somethin' to eat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32261",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Sailor?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Wouldn't it be fabulous if we somehow stayed in love for the rest of our lives?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "You think of the weirdest damn things to say sometimes, peanut. Ain't we been doin' a pretty fair job this far?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Oh, you know exactly what I mean, honey? It'd make the future so simple and nice."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "At Pee Dee, all you think about is the future, you know? Gettin' out? And what you'll do and what you'll think about when you're on the outside again."
+      },
+      {
+        "speaker": "LULA",
+        "text": "I just think about things as they come up. I never been much of a planner."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "It ain't altogether terrible just to let things go along sometimes. Lula, I done a few things in my life I ain't too proud of, but I'll tell ya from now on I ain't gonna do nothin' for no good reason. All I know for sure is there's more'n a few bad ideas runnin' around loose out there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32262",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Musta been a lesson tellin' ya it was the wrong time... What did you do, your mama find out?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "She got me an abortion..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32263",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "...I hope you appreciate my spendin' six hundred dollars, not countin' what it cost us to get here and back... This man's the best damn abortionist in the South."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "You tell the boy who knocked you up?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "It was my cousin, Dell, done it? His folks used to visit with us summers."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "What happened to him?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Oh, nothin'. I never let on to mama about Dell bein' the one. I just flat refused to tell her who the daddy was? I didn't tell Dell, neither. He was back home in Chattanooga by then, anyhow, and I didn't see the point. Somethin' terrible happened to him, though. Six months ago."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "What's that, peanut?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Dell disappeared. Dell was learnin' a hard lesson. What I learned from observin' Dell is I think people who are frightened want to disappear. He'd startin' behavin' weird? Like comin' up to people every fifteen minutes and askin' how they were doin'?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32264",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Actin' funny how?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Well, like mama told me, Aunt Rootie, Dell's mama? She found cockroaches in Dell's underwear."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32265",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "One time, Aunt Rootie caught Dell puttin' one big cockroach on his anus?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Hell, peanut..."
+      },
+      {
+        "speaker": "LULA",
+        "text": "One time - real late - like about two thirty a.m.? She found Dell up in the black of night all dressed and makin' sandwiches in the kitchen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32266",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "...are followin' him around."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Prob'ly the rain boys from Outer Space."
+      },
+      {
+        "speaker": "LULA",
+        "text": "It ain't so funny now, though. December before Christmas? Dell disappeared again and Aunt Rootie hired a private eye to find him. He was missin' for almost a month before he wandered back in the house on mornin' dressed in some filthy Santa Claus suit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32267",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "The private eye cost Aunt Rootie over a thousand dollars? Then a little while later Dell ran off a third time to some place he said would \"give him peace of mind.\" Nobody's seen him since."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Sound like ol' Dell's more'n just a little confused, peanut... Too bad he couldn't visit that ol' Wizard of Oz and get some good advice."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Too bad we all can't, baby... One thing about Dell?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "When he was about seventeen, he startin' losin' his hair."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "So?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "He's twenty-four now? A year older than you? And must be 'bout bald."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "There's worse things that can happen to a man, honey."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Yeah, I suppose. But you know somethin' baby, hair does make a difference."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32268",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Let's go dancin', peanut. I'm ready."
+      },
+      {
+        "speaker": "LULA",
+        "text": "We gotta be careful, honey, my mama's gonna have Johnnie Farragut on us like a duck on a june bug, and he's one clever detective? You know how clever? He once told me that he could find an honest man in Washington. My toenails gotta dry first anyways, Sailor."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "One thing puzzles my mind, sugar... You're twenty years old - aren't you ever curious why your mama has this fixation on keepin' us apart? Puttin' a detective on us. I'll tell ya Lula... Well... It's more'n me killin' Bob Ray Lemon..."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Maybe my mama cares for me just a little too much..."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Yeah, maybe..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32269",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Sailor!"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "You up for that?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "I'd got to the far end of the world for you, baby... You know I would."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Those toenails dry yet? We got some dancin' to do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32270",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "...That's an awful long way to go, just to get some pussy."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Yeah, I had my first taste on that trip to Juarez. At that age you still got a lot of energy."
+      },
+      {
+        "speaker": "LULA",
+        "text": "You still got plenty energy for me, baby."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32271",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Sorry, baby... When's the first time you done it with a girl who wasn't hookin'?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Maybe two, three months after Juarez. I was visitin' my cousin, Junior Train, in Savannah, and we were at some kid's house whose parents were out of town. A girl comes up to me that was real tall, taller than me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32272",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "She looked right at me and run her tongue over her lips and put her hand on my arm - told me her name was Irma."
+      },
+      {
+        "speaker": "LULA",
+        "text": "What'd you say to her?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Told her my name. Then she said somethin' like, 'It's so noisy down here. Why don't we go upstairs so we can hear ourselves?' She turned around and led the way. I knew I had an important lesson to learn that day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32273",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "When she got almost to the top step I stuck my hand between her legs from behind."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Oh, baby. What a bad boy you are!"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "That's just what she said. I had a boner with a capital \"O.\" I went to kiss her but she broke off laughin' and ran down the hallway. I found her lyin' on a bed in a room filled with assault weapons and Penthouse magazines. She was a wild chick. She was wearin' bright orange pants with kind of Spanish lookin' lacy black stripes down the sides. You know, them kind that doesn't go all the way down your leg?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "You mean like pedal pushers?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I guess."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32274",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "She just rolled over onto her stomach and stuck her ass up in the air. I slid my hand between her legs and she closed her thighs on it."
+      },
+      {
+        "speaker": "LULA",
+        "text": "You're excitin' me, honey. What'd she do?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Her face was half-pushed into the pillow, and she looked back over her shoulder at me and said, 'I won't suck you. Don't ask me to suck you.'"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Poor baby. She don't know what she missed. What color hair she have?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Sorta brown, blonde, I guess. But dig this, sweetie. Then she turns over, peels off them orange pants, and spreads her legs real wide and says to me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32275",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "I'll drop mama a postcard from somewhere. I mean, I don't want her to worry no more'n necessary."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "What do you mean by necessary? She's prob'ly already called the cops, my parole officer, her p.i. boyfriend Johnnie Farragut."
+      },
+      {
+        "speaker": "LULA",
+        "text": "I suppose so. She knew I was bound to see you soon as you was sprung, but I don't figure she counted on us takin' off together like this... I guess this means you're breakin' parole, then?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "You guess? My parole was broke two hundred miles back when we burnt Portagee County."
+      },
+      {
+        "speaker": "LULA",
+        "text": "What'll it be like in California, Sailor, do you think? I hear it don't rain much there."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "You got about six more big states to go before we find out."
+      },
+      {
+        "speaker": "LULA",
+        "text": "We got through two states already."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32276",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "That don't smell like a More."
+      },
+      {
+        "speaker": "LULA",
+        "text": "It ain't. It's part of the lessons of life. I picked me up a pack of Vantages before we left the Cape?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "They sure do stink."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Yeah, I guess, but - and here's the lesson part - they ain't supposed to be so bad for you."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "You ain't gonna begin worryin' about what's bad for you at this hour, are you, sugar? I mean, here you are crossin' state lines with a A-Number One certified murderer."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Manslaughterer, honey, not murderer. Don't exaggerate."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Okay, manslaughterer who's broke his parole and got in mind nothin' but immoral purposes far's you're concerned."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Thank the Lord. Well, you ain't let me down yet, Sailor. That's more'n I can say for the rest of the world?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32277",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Life is a bitch and then you marry one."
+      },
+      {
+        "speaker": "LULA",
+        "text": "What kinda trash talk is that?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "What it says on the bumper sticker up front. On that pickup."
+      },
+      {
+        "speaker": "LULA",
+        "text": "That's disgustin'. Those kinda sentiments shouldn't be allowed out in public. Is this Biloxi yet?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Almost. I figure we should find us a place to stay and then go eat."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Got anyplace special in mind?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "We oughta stay somewhere outta the way. Not in no Holidays or Ramadas or Motel Six. If Johnnie Farragut's on our trail he'll check those first."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32278",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "How about that one? The Host of the Old South Hotel."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Looks more like the Ghost of the Old South, but we'll try her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32279",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "I H-A-T-E hotel bedspreads. They don't hardly never get washed, and I don't like the idea of lyin' on other people's dirt."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Come look at this."
+      },
+      {
+        "speaker": "LULA",
+        "text": "What's that, honey?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "There ain't no water in the swimmin' pool. Just a dead tree fell in, prob'ly from bein' struck by lightnin'."
+      },
+      {
+        "speaker": "LULA",
+        "text": "It's huge. This musta been a grand old place at one time."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Let's get fed, sweetheart. The light's fadin' fast."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32280",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "M-i-ss-i-ss-i-pp-i... You can almost hear that jazz blowin' up from the big N.O."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Lula... I learned somethin' interestin' today on a science show I heard on the radio... How leeches is comin' back into style."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Say what? Honestly, sugar, you can talk more shit sometimes?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32281",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Got you a pack of Mores again, huh?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Yeah, it's a real problem for me, Sailor, you know? When I went in that drugstore by the restaurant in Biloxi? I saw 'em by the register and the girl throw 'em in. I'm not big on resistin'. So what about a leech?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Heard on the radio how doctors is usin' leeches again, just in old times. You know, when even barbers used 'em?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "I got one on me at Lake Lanier. Lifeguard poured salt on it and it dropped off. Felt awful. He was a cute boy, though, so it was almost worth it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32282",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Yeah, well listen to this... Radio said back in the 1920s a I-talian doctor figured out that if, say, a fella got his nose cut off or bit off in, say, a barfight or somethin', they'd sew one of his forearms to his nose for a few weeks... Then put leeches on it."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Sailor? You expect me to believe a man'd be goin' around with a arm sewed to his nose?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "How they used to do it. Course they got more sophisticated ways now. Radio said the Chinese, I think it is, figured a better idea is by insertin' a balloon in the forehead and lettin' it hang down on the nose."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32283",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Sailor Ripley! You stop! You're makin' this shit up and I ain't gonna sit for it!"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Honest, Lula. I prob'ly ain't precisely got all the facts straight, but it's about what they said."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Honey, we're goin' to bed now and it's time to change the subject."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32284",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "We're about dry bones, sweetheart. We don't wanna have to push this \"bird\" into New Orleans."
+      },
+      {
+        "speaker": "LULA",
+        "text": "We sure don't, honey...  Get me a Mounds?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32285",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "I love it when your eyes get wild, honey. They light up all blue almost and little white parachutes pop out of 'em. Oh, Sailor you're so aware of what goes on with me? I mean, you pay attention. And I swear, you got the sweetest cock. Sometimes it's like it's talkin' to me when you're inside? Like it's got a voice all it's own. You get right on me."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "You really are dangerously cute, honey. I gotta admit it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32286",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "What lesson do get outta that story, Lula?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "It's just another case, Sailor."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "What's that, peanut?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "One person thinks he's doin' somethin' good and ever'body else gets upset about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32287",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Ever imagine what it'd be like to get eaten alive by a wild beast? Sometimes I think it would be the biggest thrill?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "My God,  it better be, darlin', cause it'd be the last... What time is it?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Shhhhh... It's four o'clock... That woman's laugh the other day had somethin' to do with this feelin'?... Like bein' ripped apart by a gorilla, maybe... Grabbed sudden and pulled apart real quick by a real powerful one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32288",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "Lula, sometimes I gotta admit, you come up with some weird thoughts..."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Anythin' interestin' in the world come out of somebody's weird thoughts, Sailor. You tell me Sailor, who could come up with shit like we're seein' these days?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "You got me, peanut."
+      },
+      {
+        "speaker": "LULA",
+        "text": "You certain?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I ain't never met anyone come close to you, sugar."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Recall the time we was sittin' one night behind the Confederate soldier? Leanin' against it. And you took your hand and put it on your heart and you said, 'You feel it beatin' in there, Lula?... Get used to it, 'cause it belongs to you now.' D'you recall that?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I do."
+      },
+      {
+        "speaker": "LULA",
+        "text": "I was hopin' you would. I know that night by heart. Sometimes, honey? I think it's the best night of my life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32289",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "I really do think it's the best night of my life."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "We didn't do nothin' special I can remember. Just talked, is all."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Talkin's good. Long as you got the other? I'm a big believer in talkin', case you ain't noticed."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Too bad they don't give an award for talkin'... You'd win first prize. Especially with those tits."
+      },
+      {
+        "speaker": "LULA",
+        "text": "You think so, baby? Does my talkin' bother you, honey?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "No, I like gettin' up around four a.m. and talkin' bout wild animals... Though you woke me up this time in the middle of a dream. I kinda wish I didn't remember it. Up at Pee Dee, I couldn't remember any of my dreams."
+      },
+      {
+        "speaker": "LULA",
+        "text": "What was this one?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "It wasn't no fun, Lula. The wind was blowin' super-hard and I wasn't dressed warm. Only instead of freezin', I was sweatin' strong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32290",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "The water was rollin' off me. And I was dirty, too, like I hadn't had no bath in a long time, so the sweat was black almost."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Boy, sweetie, this is weird, okay."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I know. I kept walkin', I headed for your house, only it wasn't your house, really. You let me in only you weren't real pleased to see me. You kept askin', 'Why'd you come to see me now? Why now?' Like it'd been a long time since we'd seen each other."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Oh, baby, what an idea. I'd always be happy to see you, no matter what."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I know, peanut. But it wasn't all like you were so unhappy I was there, just you were upset. My bein' there was upsettin' to you. You had some kids there, little kids, and I guess you'd got married and your husband was comin' home any minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32291",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Sometimes dreams just don't mean nothin'... Stuff comes into your mind and you don't have no control over, you know? Anyways, dreams ain't no odder than real life. Sometimes not by half."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Well, I ain't upset about it, darlin'. Just give me an odd feelin' there a minute, is all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32292",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Let's get outta here... I suddenly got a funny feelin' about this place. Feelin' all that voodoo..."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Gotta hex from a voodoo?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Who do?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "You do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32293",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Oh my God... It's Johnnie... Duck down!... Get goin'!"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Where?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Never mind where... Get outta here... I mean it, Sailor."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I'm goin'."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32294",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "You think he saw us?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Who knows, baby?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "He was sittin' there havin' a beignet at the Cafe Du Monde. Do you think he saw us?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Lula, darlin'... Makes no difference anyway... We're outta here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32295",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "Sure you wanna do this? Might be a way they could track us."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "He's just a regular guy't needs help, honey. Look at him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32296",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "You don't feel you was a little hard on the guy, honey?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "I know you're thinkin' that I got more'n some of my mama in me? Well, I couldn't help it. Sailor, I really couldn't. I'm sorry for that guy, but when he pulled that drippin' hunk of awful-smellin' meat out of his pocket? I near barfed. And them poor diseased puppies!"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Just part of life on the road, peanut."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Do me a favor, Sailor? Don't pick up no more hitchers, okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32297",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "I wouldn't mind a little night life. How about you?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Hard to tell what's shakin' in a place like this, honey. You don't want to be walkin' in the wrong door."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Maybe there's a place we could hear some music. I feel like dancin'. We could ask someone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32298",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "You ready for this?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "We'll find out in a hurry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32299",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "LULA",
+        "text": "I'll be damned if I'm leavin'. That band is too good?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Uh huh."
+      },
+      {
+        "speaker": "LULA",
+        "text": "You notice that woman when we come in? The white woman sittin' by herself?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Well, she ain't talked to nobody and ain't nobody spoke to her that I could tell. What you make of that?"
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "Honey, we bein' strangers here and all, this is the kinda place we don't want to make nothin' of nothin'."
+      },
+      {
+        "speaker": "LULA",
+        "text": "You think she's pretty?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_32300",
+    "movie_id": "m229",
+    "turns": [
+      {
+        "speaker": "SAILOR",
+        "text": "What's wrong, sweetheart? Somethin' botherin' you?"
+      },
+      {
+        "speaker": "LULA",
+        "text": "Mama. I been thinkin' about her. She's prob'ly worried to death by now."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "More'n likely."
+      },
+      {
+        "speaker": "LULA",
+        "text": "I want to call her and tell her I'm okay. That we're okay."
+      },
+      {
+        "speaker": "SAILOR",
+        "text": "I ain't so sure it's a great idea, but that's up to you. Just don't tell her where we are."
+      },
+      {
+        "speaker": "LULA",
+        "text": "Pardon me? Y'all got a phone here I can use?"
+      }
+    ]
+  }
+]

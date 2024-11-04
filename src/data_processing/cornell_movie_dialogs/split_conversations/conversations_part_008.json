@@ -1,0 +1,1782 @@
+[
+  {
+    "conversation_id": "conv_701",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Whaddya think?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "What do I know?  I'm just a bartender."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Let's go, Reggie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_702",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "How'd they take it back at headquarters?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "Usual bullshit.  You make one smart move and everybody wants to be your friend... You know somethin', shootin' guys sucks. Especially compared to this."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I've been waiting a long time to hear you say that."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Yeah, bein' a hard-ass all the time is a real drag, but it works."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_703",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "CATES",
+        "text": "Three more hours..."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Where is he?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "Promised I'd turn my back while he... ah, never mind..."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Tell me."
+      },
+      {
+        "speaker": "CATES",
+        "text": "He's takin' care of the same business I'll be takin' care of - soon as I dry off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_704",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "You're impossible..."
+      },
+      {
+        "speaker": "CATES",
+        "text": "That's what I always say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_705",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Who the hell are you?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Name's Hammond, Reggie Hammond. I heard a lot about you. And any friend of Jack's is a friend of mine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_706",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "I'm not so sure I can say the same thing...You don't look like a cop."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Well, I been workin' the other side of the street for the last few years.  And you don't exactly look like a shrink, wearin' that dress..."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Shrink major, not a shrink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_707",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Hard man to live with."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "How would you know?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Hey, two days with him is enough."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "That's no bull."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_708",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "He was the only one of my bunch that was my friend... He was loyal, went all the way for you..."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "In all due respect, he sounds kind of pathetic to me.  The kind of guy that runs home to his momma or some girlfriend.  Have you two ace detectives checked that out?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_709",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Hey..."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Shut up."
+      },
+      {
+        "speaker": "LISA",
+        "text": "What the hell's wrong?  I didn't do anything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_710",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "What do you want?  What's goin' on?"
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Shut up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_711",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "Stall."
+      },
+      {
+        "speaker": "LISA",
+        "text": "What do you want?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_712",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "Keep stallin'."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Alright, I'm coming...hold on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_713",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "How hot are they?"
+      },
+      {
+        "speaker": "HENRY",
+        "text": "Hot?  Hey, they're not even room temperature."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_714",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "How ya doin'?"
+      },
+      {
+        "speaker": "HENRY",
+        "text": "Can't complain."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "We got a lot to talk about."
+      },
+      {
+        "speaker": "HENRY",
+        "text": "Yeah, old times."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "We'll follow you.  Take it slow,okay?"
+      },
+      {
+        "speaker": "HENRY",
+        "text": "Sure, right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_715",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "Surprise, Luther."
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "Whaddya want?  I thought you were locked up-"
+      },
+      {
+        "speaker": "GANZ",
+        "text": "I want the money, asshole, what do you think?  The money that Reggie hid..."
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "I don't know what you're talkin' about."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "You want that Indian to snap her neck?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_716",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "GANZ",
+        "text": "Instead of worryin' about Reggie, you better worry about me..."
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "Don't give me this, we were partners."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Billy, go ahead, break it..."
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "No! Don't kill her.  I can get you the money."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "When?"
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "I can't get it until Monday. Honest."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "You chickenshit punk..."
+      },
+      {
+        "speaker": "LUTHER",
+        "text": "Honest. The place we stashed it opens Monday morning. I can't get it till then. Monday morning, that's when it opens. After that, I'll get the money to you right away..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_717",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "LUTHER",
+        "text": "Come on, you can trust me. Please."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "You try to mess with us or go to the cops, I promise you, I'll put holes in her you wouldn't believe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_718",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "LUTHER",
+        "text": "Let her go."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "First, the money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_719",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "LUTHER",
+        "text": "Rosalie, you okay?"
+      },
+      {
+        "speaker": "GANZ",
+        "text": "What are you talkin' about? I said I wouldn't hurt her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_720",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "How you doing, man?"
+      },
+      {
+        "speaker": "SOSNA",
+        "text": "Not bad, not bad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_721",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "SOSNA",
+        "text": "You want to go outside?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Naw, right here's okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_722",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "SOSNA",
+        "text": "You sure?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I'm sure.  Everybody here's looking at everybody else's ass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_723",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "How about some ammo?"
+      },
+      {
+        "speaker": "SOSNA",
+        "text": "It's loaded... I got some shells in here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_724",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "How much?"
+      },
+      {
+        "speaker": "SOSNA",
+        "text": "This is clean shit.  No serial numbers and never been used..."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Don't mess with me. How much?"
+      },
+      {
+        "speaker": "SOSNA",
+        "text": "Five bills."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Five.  On credit."
+      },
+      {
+        "speaker": "SOSNA",
+        "text": "This ain't a credit business."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_725",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Yeah, I know that, but this is me and we're old friends. I haven't got the money so what are you gonna do about it?"
+      },
+      {
+        "speaker": "SOSNA",
+        "text": "Give it back."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Try and take it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_726",
+    "movie_id": "m4",
+    "turns": [
+      {
+        "speaker": "SOSNA",
+        "text": "Fuck you.  You got no right for this kind of play."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I'll got your money to you. No sweat."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_727",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "Appipulai Leeloo Minai.."
+      },
+      {
+        "speaker": "LEELOO",
+        "text": "Corn-i-Lius?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "At your service."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_728",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "What're you laughing about?"
+      },
+      {
+        "speaker": "LEELOO",
+        "text": "Napoleon... small."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_729",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "The case..with the stones... Where is it?"
+      },
+      {
+        "speaker": "LEELOO",
+        "text": "San Agamat chay bet... envolet!"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "The case was stolen?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_730",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "LEELOO",
+        "text": "Ikset-kiba.  Me imanetaba oum dalat!"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "You know exactly where they are!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_731",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "LEELOO",
+        "text": "Vano da, mechteba?! Soun domo kala chon hammas!"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "No, I'm not proud of myself... But we don't have the luxury of choice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_732",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "LEELOO",
+        "text": "Akta dedero ansila do mektet."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "I can't pretend to be your husband... David's in great shape."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_733",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "...We're saved!"
+      },
+      {
+        "speaker": "ZORG",
+        "text": "I'm fucked!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_734",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "ZORG",
+        "text": "Zorg. Jean-Baptiste Emmanuel Zorg... nice to see you again"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "I remember you now..the so called art dealer."
+      },
+      {
+        "speaker": "ZORG",
+        "text": "I'm glad you got your memory back, Father... Because you're going to need it... Where are the stones?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "...Why on earth do the stones interest you?"
+      },
+      {
+        "speaker": "ZORG",
+        "text": "Personally, they are of no interest to me, I'd rather sell weapons..but I have a customer... so tell me..."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Even it I did know where the stones were I would never tell somebody like you."
+      },
+      {
+        "speaker": "ZORG",
+        "text": "Why?  What's wrong with me?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "...I'm a priest! I'm here to serve life, All you want to do is destroy it."
+      },
+      {
+        "speaker": "ZORG",
+        "text": "Ah, Father... You are so wrong. Let me explain..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_735",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "ZORG",
+        "text": "...would you like a drink?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "No thank you."
+      },
+      {
+        "speaker": "ZORG",
+        "text": "Follow me.. Life, which you so nobly serve, comes from destruction. Look at this empty glass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_736",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "ZORG",
+        "text": "...Look at all these little things... so busy all of a sudden. Notice how each one is useful. What a lovely ballet, so full of form and color.  So full of..life!"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "They are robots!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_737",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "ZORG",
+        "text": "Father, by creating a little destruction, I am, in fact, encouraging life!  So, in reality, you and I are in the same business!"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Destroying a glass is one thing..killing people with the weapons you produce is quite another."
+      },
+      {
+        "speaker": "ZORG",
+        "text": "Let me reassure you Father..I will never kill more people in my entire life than religion has killed in the last 2000 years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_738",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "You are a monster, Zorg!"
+      },
+      {
+        "speaker": "ZORG",
+        "text": "I know..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_739",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "Excuse me, I'm looking for a priest."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Weddings are one floor down. Congratulations."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_740",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "She's not my bride, she's my fare. She's looking for this Vito Cornelius. According to the phone guide he lives here."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "That's me.  But I don't know who she is... where did you find her?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "She dropped in on me... holding this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_741",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "Who are you?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I brought the girl remember?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "The girl?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_742",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "He's a she!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "You noticed..."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "There's not a moment to lose! Wake her up, but be gentle about it!  This woman is mankind's most precious possession! She is... perfect!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "So you do know her."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Uh yes, we're cousins..distant cousins.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_743",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "They all like this in your family, father?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "She's an exception.."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Thank you so much for your help Mr...?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Dallas. Korben Dallas."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_744",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "Yes. That's fine! Thank you very much. A thousand times over!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I might call to check up on her, you know... to see if she's better?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "She's fine, really..don't you worry.. just needs some rest..she's had a very long trip."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I know. I was there when she arrived."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_745",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "Excuse me! Just one thing!  She said something to me a while ago and... I don't really get it... Akta Gamat?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "It means, \"Never without my permission\"."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "That's what I thought."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_746",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "I'm sorry to have to resort to such methods, but we heard about your good luck on he radio and we need the tickets to Fhloston."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Is that the usual way priests go on vacation?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "We're not going on vacation..we're on a mission.."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "What kind of mission?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "We have to save the world."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Good luck.."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Of course."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Father, I was in the Army for awhile and every time they told us we were on a mission to save the world the only thing that changed was I lost a lot of friends. So thanks for the offer.. but no thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_747",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "What are you doing?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Trying to save your ass so you can save the world."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_748",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "You're probably very angry with me and I quite understand. But I want you to know I'm fighting for a noble cause."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Yeah, I know... to save the world... but right now all I want to do is save Leeloo."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Leeloo's in trouble?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "When is she not in trouble?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Uh.. Have you tried the Diva's suite?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_749",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "Don't tell me you don't know how all this works?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Theoretically, yes! The four Stones form the beam and the Fifth Element is supposed to stand in the middle there, but... I don't have the reference book. I've never seen the Stones work!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_750",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "There's no light! You told me there were supposed to be four beams of light."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Yes, of course, but... The Stones are shut! They have to be open for it to work."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "And you don't know how they open, is that what you are saying?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "That's what I'm saying."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_751",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "Imagine for a moment that this. thing is not anything that can be identified because it prefers not to be, because it is the antithesis of all we are. Because it is evil.. TOTAL EVIL."
+      },
+      {
+        "speaker": "PRESIDENT",
+        "text": "One more reason to shoot first eh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_752",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "PRESIDENT",
+        "text": "Your theory is interesting Father but I don't think we have time to go into it right now!"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Time is of no importance, Mr. President. Only life is important."
+      },
+      {
+        "speaker": "PRESIDENT",
+        "text": "That's exactly what we are going to try and do: Protect the lives of some 200 billion of our fellow citizens! General? You may fire when ready."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_753",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "We have forty-eight hours, the time it needs to adapt itself to our living conditions."
+      },
+      {
+        "speaker": "PRESIDENT",
+        "text": "And then?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "And then it will be too late. The goal of evil is to wipe out life! All forms of life. For all eternity...Life upsets it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_754",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "PRESIDENT",
+        "text": "Is there anything that can stop it?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Yes..thank God.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_755",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "PRESIDENT",
+        "text": "But what happens if instead of this... Ultimate Warrior... it is EVIL who stands here?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "White turns to black.  Light to Dark. Life to Death.  For all eternity."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_756",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "PRESIDENT",
+        "text": "Did you see that..thing..swallow our battleship like a gum drop?  You can't even tell me what it is! I ask you for options you give me bullshit. Give them permission to enter our territories with my warmest regards."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Thank you, Mr. President."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_757",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "What are we going to do?"
+      },
+      {
+        "speaker": "PRESIDENT",
+        "text": "This is government business now. You ought to go home and get some rest, Father."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_758",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "It's a miracle!!!"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "What is?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "I can't wear these clothes! This calls for dignity! I have to dress the part!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_759",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Father, will you please explain what's going on?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "The Supreme Being, the fifth element is here, in our parish!!! It's a miracle!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_760",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Father.  You sure she's the Supreme Being?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Absolutely sure There's the triple suns on her gloves!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_761",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "What's she doing?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Learning our history! The last 5000 years that she missed! She's been out of circulation a while, you know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_762",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "Uh father, I know she's been through a lot... but the sacred stones..we don't have much time.."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Yes. Of course.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_763",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "There was this guy with a limp who came a month ago..said he was an art dealer ... Asking all these questions about the Sacred Stones..at the time I didn't think anything of it.. What was his name? I'm so bad with names..."
+      },
+      {
+        "speaker": "DAVID",
+        "text": "I didn't know your size."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_764",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "They really made her..."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Perfect."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_765",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "I got it!  Everything  here we need to know about Fhloston Paradise Hotel... and a detailed blueprint of the entire hotel!"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Good work, my son.  Now all we need is a way to get there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_766",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "Where's Leeloo?"
+      },
+      {
+        "speaker": "DAVID",
+        "text": "On the plane... with Mr. Dallas... the real one."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "It's all my fault.  I'm the servant... It's my mission! Here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_767",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "DAVID",
+        "text": "You're all safe. Thanks be to God!"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Later, David! Later! There's not a minute to lose!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_768",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "DIVA",
+        "text": "You're a good man... She was right to have chosen you..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Who?"
+      },
+      {
+        "speaker": "DIVA",
+        "text": "The Fifth Element... The Supreme Being... Your wife..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_769",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "Leeloo... is... she's..."
+      },
+      {
+        "speaker": "DIVA",
+        "text": "Yes, and more than that... You must give her the Stones, she's the only one who knows how to use them."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "...So Cornelius was telling the truth!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_770",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "DIVA",
+        "text": "She was taught to love the life of others... but not her own. You have to teach her to love if you want her to truly live!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I'll help her, I promise, but I think you should tell me where the Stones are!"
+      },
+      {
+        "speaker": "DIVA",
+        "text": "Do you love her?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I... I don't know! We hardly know each other... it takes time!"
+      },
+      {
+        "speaker": "DIVA",
+        "text": "I don't have time... I need to know."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Listen, the last time I admitted to a woman I loved her ... I never saw her again."
+      },
+      {
+        "speaker": "DIVA",
+        "text": "I would like to have died in peace..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_771",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "I'm sorry, but... the Stones..."
+      },
+      {
+        "speaker": "DIVA",
+        "text": "They are... with me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_772",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "FINGER",
+        "text": "Hey bud! Finger here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_773",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "FINGER",
+        "text": "I love you too Major, but you haven't called me that since basic training."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I was talking to the cat."
+      },
+      {
+        "speaker": "FINGER",
+        "text": "Oh, yeah, I forgot.You still prefer your cat to the real thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_774",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "At least, the cat comes back."
+      },
+      {
+        "speaker": "FINGER",
+        "text": "You still pining for that two timing bitch. Forget her. There are a million women out there."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I don't want a million - I just want one.  A perfect one."
+      },
+      {
+        "speaker": "FINGER",
+        "text": "Don't exist bud."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_775",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "I just found a picture of you."
+      },
+      {
+        "speaker": "FINGER",
+        "text": "How do I look?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Like shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_776",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "I don't need one."
+      },
+      {
+        "speaker": "FINGER",
+        "text": "You forgetting who sat next to you for a thousand missions. I know how you drive."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Finger!  I'm driving a cab now, not a space fighter!!"
+      },
+      {
+        "speaker": "FINGER",
+        "text": "How many points you got left on your license?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Uh... at least fifty."
+      },
+      {
+        "speaker": "FINGER",
+        "text": "In your dreams! See you tonight!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_777",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "FINGER",
+        "text": "Hey bud...I'm waiting all day here."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Finger..man..I'm sorry..listen..I was on the way over but I had a fare fall into my lap.. y'know one of those big fares you just can't resist.."
+      },
+      {
+        "speaker": "FINGER",
+        "text": "So, just how big was this fare?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "5'7\", green eyes... long legs... great skin... perfect.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_778",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "FINGER",
+        "text": "Uh huh..and I don't suppose you got the name of this..perfect fare.."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Leeloo.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_779",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "GIRL",
+        "text": "Akina delutan, nou-shan."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "...'Scuse me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_780",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "GIRL",
+        "text": "Daya deo dono Dato.  Dalutan!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "It there's one thing I don't need advice on, it's how to drive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_781",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "GIRL",
+        "text": "...Priest..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "You're not that bad... Come on we'll get you to a doctor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_782",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "GIRL",
+        "text": "Vito... Cor... Ni-lious... Priest..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Vito Cornelius?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_783",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "GIRL",
+        "text": "Eto Akta Gamat!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I'm sorry, it's just that... I was told to wake you up gently, so I figured..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_784",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "...What's your name?"
+      },
+      {
+        "speaker": "GIRL",
+        "text": "Leeloo Minai Lekarariba-Laminai-Tchai Ekbat De Sebat."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Hey,  that's... cute... Do you have a nickname, something a little... shorter?"
+      },
+      {
+        "speaker": "GIRL",
+        "text": "...Leeloo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_785",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "PRIEST",
+        "text": "The Fifth Element..."
+      },
+      {
+        "speaker": "KOMMANDER",
+        "text": "Take them and put them in a safe place."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_786",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "PRIEST",
+        "text": "Will the elements be gone now forever from this place?"
+      },
+      {
+        "speaker": "KOMMANDER",
+        "text": "When mankind comes to its senses. We will return."
+      },
+      {
+        "speaker": "PRIEST",
+        "text": "Knowing mankind as I do, that could take centuries!"
+      },
+      {
+        "speaker": "KOMMANDER",
+        "text": "Time is of no importance, only life is important."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_787",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KOMMANDER",
+        "text": "When EVIL returns so shall we."
+      },
+      {
+        "speaker": "PRIEST",
+        "text": "We will be ready, Lord."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_788",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "...Hello?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "You're the nastiest dirtbag I know in this stinking City!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Hi Ma..."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "I've been playing twice a week for 20 years, 20 years I've been eating those shitty croquettes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_789",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "Are you listening to me, you ingrate!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Yes ma.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_790",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "Other than that... You all right?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "...And now you're making fun of me? I'm warning you! If you don't take me after all these years of sacrifice, I'll never forgive you!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_791",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "I'm coming!. Ma, what're you talking about?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "I get it! You want to make me beg, is that it?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "All I want is an explanation! I just got in, I lost my job. I smashed my cab. I got mugged, but other than that everything's peachy, Ma, thanks for asking!! Now settle down and explain to me calmly.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_792",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "MOTHER",
+        "text": "You just won a trip, you dolt! Ten days in Fhloston Paradise for two!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Ma. If I'd won, I'd know about it. Someone would have notified me."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "They've been blaring out your name on the radio for the last hour, blockhead!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_793",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Have you pulled yourself together?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "...Not yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_794",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "You little sleaze bag!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "...Ma???"
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "Don't you ever ask me for another thing in my life again, you've killed your poor mother with your own hands!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_795",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "VOICE",
+        "text": "Welcome on board Mr. Dallas.."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "How you doing this morning?  Sleep OK? I didn't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_796",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "VOICE",
+        "text": "Fuel level 6.03..Propulsion 2x4..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I had the worst goddamn nightmare."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "You have nine points left on your license.."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Thanks for reminding me.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_797",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "I'm sorry.."
+      },
+      {
+        "speaker": "VOICE",
+        "text": "This is a police control action.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_798",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "VOICE",
+        "text": "30 seconds..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Anyone know how to release the lines on this crate?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_799",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "VOICE",
+        "text": "6... 5..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Found it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_800",
+    "movie_id": "m5",
+    "turns": [
+      {
+        "speaker": "KORBEN",
+        "text": "...Hi."
+      },
+      {
+        "speaker": "LOC RHOD",
+        "text": "Does it get any better or what!"
+      }
+    ]
+  }
+]

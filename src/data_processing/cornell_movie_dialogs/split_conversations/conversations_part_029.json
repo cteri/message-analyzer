@@ -1,0 +1,2270 @@
+[
+  {
+    "conversation_id": "conv_2801",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "GARY",
+        "text": "Help me change the Skywire settings. Add five degrees to each satellite coordinate."
+      },
+      {
+        "speaker": "PHIL",
+        "text": "Gary, don't worry, we --"
+      },
+      {
+        "speaker": "GARY",
+        "text": "Just do what I'm asking!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2802",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "GARY",
+        "text": "Okay, #2."
+      },
+      {
+        "speaker": "PHIL",
+        "text": "Longitude 48 degrees 06 minutes --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2803",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "PHIL",
+        "text": "Ready for number three?"
+      },
+      {
+        "speaker": "GARY",
+        "text": "Let's go."
+      },
+      {
+        "speaker": "PHIL",
+        "text": "Longitude 109 --"
+      },
+      {
+        "speaker": "GARY",
+        "text": "Wait... He knows."
+      },
+      {
+        "speaker": "PHIL",
+        "text": "What?"
+      },
+      {
+        "speaker": "GARY",
+        "text": "'Knows I'm altering the coordinates. Let's jump to #12."
+      },
+      {
+        "speaker": "PHIL",
+        "text": "Gary?"
+      },
+      {
+        "speaker": "GARY",
+        "text": "Just do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2804",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "All the companies know. The faculties tell 'em. At the target schools."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "In exchange for endowments. They should just drop the pretense and name the schools after 'em."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2805",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LARRY",
+        "text": "I think you should go."
+      },
+      {
+        "speaker": "MILO",
+        "text": "You do?"
+      },
+      {
+        "speaker": "LARRY",
+        "text": "I mean, it's your life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2806",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "I know you lost all his work. Maybe I could come down here and --"
+      },
+      {
+        "speaker": "LARRY",
+        "text": "You are naive. Look at your employment contract: you can't work anywhere else in this field for at least few years.  Not that I don't miss you."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Just thought his work should go on."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "He was on the verge of something, too. He was gonna show us the next day. He said \"The answer's not in the box, it's in the band.\" Know what it means?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "It's only meaningful when you've got 40,000 lines of code to back it up."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "Man, could he write code. Totally elegant. He had his own style."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Those really weird, short lines."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2807",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LARRY",
+        "text": "Your app kind of blew mine out of the water."
+      },
+      {
+        "speaker": "MILO",
+        "text": "We'll come up with the next big thing."
+      },
+      {
+        "speaker": "LARRY",
+        "text": "...You wanna work -- here?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "Got out of my other commitment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2808",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LARRY",
+        "text": "You guys'll be using Teddy's old space, is that okay?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "Cool."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2809",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "SHROT",
+        "text": "Could it be a glitch? Something the construction workers caused?"
+      },
+      {
+        "speaker": "LEN",
+        "text": "Unlikely. All 14 cameras are frozen. Do we call Randy and Phil? Tell 'em there may have been a break-in?"
+      },
+      {
+        "speaker": "SHROT",
+        "text": "Not yet. 'Love to bust my ass cause I'm not in frigging Mensa.  I swear to God, it's that kid Milo, I told 'em so in the first place, but they didn't even wanna hear about it.  Let's run a printout on card entries."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2810",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LEN",
+        "text": "Every entry was authorized."
+      },
+      {
+        "speaker": "SHROT",
+        "text": "Keep looking."
+      },
+      {
+        "speaker": "LEN",
+        "text": "What're we looking for?"
+      },
+      {
+        "speaker": "SHROT",
+        "text": "Any irregularity in the pattern."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2811",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LEN",
+        "text": "Delbert seems to enter #21 twice. Without leaving the first time."
+      },
+      {
+        "speaker": "SHROT",
+        "text": "Let's get him in here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2812",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LEN",
+        "text": "Get the backslash, the colon, keys kids don't use but geeks do.  What would Milo want in here, anyway?"
+      },
+      {
+        "speaker": "SHROT",
+        "text": "They know. 'Just they don't trust me with it. So we'll get the evidence, first, ask questions later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2813",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LEN",
+        "text": "You calling Phil and Randy?"
+      },
+      {
+        "speaker": "SHROT",
+        "text": "I'm calling Gary."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2814",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "SHROT",
+        "text": "Come with me."
+      },
+      {
+        "speaker": "LEN",
+        "text": "Where we going?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2815",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "SHROT",
+        "text": "Now what are we doing? I don't get any of this shit!"
+      },
+      {
+        "speaker": "LEN",
+        "text": "I launched Skywire. Just pray the last set of coordinates Milo sent me connected us to Gary's satellite."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2816",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Lisa."
+      },
+      {
+        "speaker": "LISA",
+        "text": "You know my name."
+      },
+      {
+        "speaker": "MILO",
+        "text": "You know mine."
+      },
+      {
+        "speaker": "LISA",
+        "text": "You're famous around here."
+      },
+      {
+        "speaker": "MILO",
+        "text": "I'm getting a teacher's pet rep."
+      },
+      {
+        "speaker": "LISA",
+        "text": "I wouldn't worry about it. You've gotta figure most people around here were their teachers' pets."
+      },
+      {
+        "speaker": "MILO",
+        "text": "...Were you?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "We moved around so much I barely knew my teachers."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Me too! Were you an Army brat or something?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "...Something like that. Yeah."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Didn't mean to pry. I just have this theory. Some of us who got to good at this? We were -- escaping something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2817",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Did I say something?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "No, I know what you mean. I used to spend my life wishing people could be like computers. Least they make sense. Sometimes you think they've betrayed you. Like a person would. But then you see, no, you just missed a step. You can go back and make it all work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2818",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "What've you got there?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Graphical interfaces. For Skywire? I'm s'posed to coordinate with you."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Show me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2819",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Cool!"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Yeah? I ran it for lots of platforms, ranging from the narrowest bandwidth to --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2820",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Did you wanna be alone?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "No. Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2821",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "They just pushed up the schedule on Skywire apps. How fast are you going?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "\"There is no second place.\" Plus every time I get jammed-up, Gary has an inspiration.  Is it like that with your counselor?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Mine's not the CEO. He barely remembers to take a shower."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Right, right. But does he ever just, like, hand you code?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Maybe once. I re-wrote it, anyway."
+      },
+      {
+        "speaker": "MILO",
+        "text": "You're compulsive."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Mmm-more like -- I have a little trouble. Trusting people."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Why's that?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Long story. Not that interesting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2822",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "So, when you were talking about wishing people were more like computers. Was that then? Or now?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Then and now.  But not right now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2823",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "That's great. I -- didn't know."
+      },
+      {
+        "speaker": "MILO",
+        "text": "She saved my life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2824",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "I snuck into #21."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Why would you do a thing like --"
+      },
+      {
+        "speaker": "MILO",
+        "text": "You thought about it too. You've been suspicious for a while. But it's not happening in there. It's happening in the Day Care."
+      },
+      {
+        "speaker": "LISA",
+        "text": "The Day Care?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2825",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "It's easy to know who the smart geeks are, the schools tell 'em. They upload medical files, school records, pharmacy files. They'd be happy just to steal code forever. But when a program gets close to fruition. Like Teddy. He was almost there."
+      },
+      {
+        "speaker": "LISA",
+        "text": "But why would they --?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "You know. There is no second place. And what's the risk? The killings're undetectable, they're hand-tailored, they make \"sense.\" I mean, they're in the information business. They have scenarios for all of us, too. In case we find out too much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2826",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "I know why you're so secretive. Why you won't let anybody near you.  I know what he did to you."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Oh yeah?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2827",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Is that my -- scenario?  Tell me."
+      },
+      {
+        "speaker": "MILO",
+        "text": "They'd frame him."
+      },
+      {
+        "speaker": "LISA",
+        "text": "He's out of prison?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "They're already watching you. If they had to, they'd give him this drug that mimics an alcoholic blackout. He'd wake up not even remembering his \"act of revenge.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2828",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "...Milo?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "Hmm?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "I always felt if a -- boy I liked ever found out -- he'd run. He'd think I was unclean."
+      },
+      {
+        "speaker": "MILO",
+        "text": "No, no. Never."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2829",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "What about the FBI?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "They've got this guy in the DOJ, maybe others. We tell the wrong person, it's over."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Who can we trust?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "There's always a logical answer -- you just have to define the question."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2830",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Do we post it on the Net?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "There're so many disinformation sites about Gary already. Where he has devil's horns or they crop him in with Saddam Hussein."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2831",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "The mainstream media. TV, or a newsmagazine."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Right. But Gary's tied-in to a lot of media conglomerates. Have to be careful who we pick."
+      },
+      {
+        "speaker": "LISA",
+        "text": "We could cross-reference a data base on media ownership. But not on our own computers. Not even at home."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Certainly not at my happy home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2832",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "He's buying up pretty much everything: cable companies, baby bells, picture libraries, museum rights, film archives... Getting ready for Skywire."
+      },
+      {
+        "speaker": "LISA",
+        "text": "What about \"60 Minutes.\""
+      },
+      {
+        "speaker": "MILO",
+        "text": "Yeah, they dig stuff like this.  \"CBS News has partnered with Outpost Information Systems in a cable news network due to launch Fall of 2001.\""
+      },
+      {
+        "speaker": "LISA",
+        "text": "But still, you can't say CBS wouldn't love to break something like --"
+      },
+      {
+        "speaker": "MILO",
+        "text": "Say there's just one \"mole\" working there, like Barton at the DOJ. How do we know he's not the guy we've contacted? Or she? Or the guy she works for?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2833",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Time?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "Time-Warner has a 40 per cent stake in Gary's set-top device. That also takes out CNN.  \"GE joins Outpost in new venture,\" which means NBC is out. \"Disney joins Outpost,\" ABC is out. \"Outpost and Newscorp in new deal,\" Fox is out. Any of these places could have a mole. Or all of 'em.  It's like a a continuous loop. We can go to some alternative press place that 1,000 people read, get them and us killed. But anything big enough for this is a parent of or a subsidiary to something Gary's got a finger in!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2834",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "How close are you?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "What?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "He's got 12 satellites up. He's got dishes on top of 21. He's building this --  mega-network for Skywire. Let's use it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2835",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "We can't just assume they're standing by to receive Skywire 12 months from launch. I'd have to write in an aglet."
+      },
+      {
+        "speaker": "LISA",
+        "text": "A what?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "It's how on-line services push logos they wanna sell you. You don't ask for 'em, they just appear. 'Have to work on it somewhere besides my office or my house. And then the quality of the broadcast wouldn't exactly be digital, that's 12 months away."
+      },
+      {
+        "speaker": "LISA",
+        "text": "But they'd still get the idea, right?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "You'd have to design a graphic interface to make the data pop. Maybe some audio, too. To tie it all in to Gary. How long would that take you?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "It's a standard GUI. Once I've got a concept, it's maybe three day's work."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Gary knows I'm close on Skywire. We have to do this fast."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Before they kill somebody else, too."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Oh, man. I'd have to get into Gary's house. To get the satellite positions."
+      },
+      {
+        "speaker": "LISA",
+        "text": "You mean -- break in?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "I don't know --"
+      },
+      {
+        "speaker": "LISA",
+        "text": "And what if the broadcast dishes on top of 21 aren't hot yet? You said the place isn't finished."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2836",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Why were you so careless?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "I thought the worst they would do is fire me. Who knew they took termination so literally?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2837",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Why were you snooping in my office?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Oh.  I liked you. I was checking you out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2838",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "'Think everybody in this place is here the same reason we are?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "'Cause their apartments might be bugged?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2839",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "I told Teddy about you."
+      },
+      {
+        "speaker": "LISA",
+        "text": "What'd he say?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "\"A beautiful geek? What're the chances?\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2840",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "I felt guilty. 'Cause I \"owed so much\" to Alice. But even then I was starting to wonder. Is it so great to be so consumed by this one thing that you let another person do your thinking for you? If you have a lucrative skill, it's all anybody wants from you. You grow older but you don't grow up. You turn into -- into --"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Gary."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2841",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Great. I knocked off the aglet, as soon as I get a passable version of Skywire we're there."
+      },
+      {
+        "speaker": "LISA",
+        "text": "The dishes are juiced up, too."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Thank God."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Milo? Shrot suspects somebody broke into #21. I was in his office when he was reviewing the card readouts."
+      },
+      {
+        "speaker": "MILO",
+        "text": "They know I broke in. Alice helped me.  Shrot's not one of them. He's blundering into this on his own."
+      },
+      {
+        "speaker": "LISA",
+        "text": "He doesn't know about the Day Care."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Hardly anybody does, that's the beauty part. No cameras, the DOJ doesn't bother with it, it's accessed by a tunnel they boast about. You know the best place to hide a leaf?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Yeah, that's old, in a tree."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Oh."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Milo? What if Shrot notices somebody entered the Day Care at four A.M.? And tells them about it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2842",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Same with the excerpts I'm choosing: they'll play against any of the images you described."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Perfect.  How am I gonna get away from the party long enough to --"
+      },
+      {
+        "speaker": "LISA",
+        "text": "You could always say you have to go the bathroom."
+      },
+      {
+        "speaker": "MILO",
+        "text": "That's lame, isn't it?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "You'll come up with something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2843",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Does he know you know?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "He suspects I know something. I think he was sort of -- explaining himself to me, in case I do.  We have to go in tonight. I'm two hours from a Beta version.  But I've gotta go home for an hour."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Why?!"
+      },
+      {
+        "speaker": "MILO",
+        "text": "She called to apologize. I said I was pulling an all-nighter. She said then come home just to say Hi. Which I always do when we fight, it's suspicious if I don't."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Please don't go."
+      },
+      {
+        "speaker": "MILO",
+        "text": "At this point the worst thing I could do is anything out of the ordinary."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2844",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Meet me at the other location."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Tell me you're not calling on your car phone?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2845",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "They know, I had no choice. Get out of the house now! Do you have a laptop?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "It's three years old, it --"
+      },
+      {
+        "speaker": "MILO",
+        "text": "Bring it to the other location."
+      },
+      {
+        "speaker": "LISA",
+        "text": "But you said the other --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2846",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Maybe it's the satellite."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Let's try #2."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2847",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "...He knows."
+      },
+      {
+        "speaker": "LISA",
+        "text": "What?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "He's been altering the coordinates since we logged on. He's a step ahead. Let's jump to #12."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2848",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Latitude 47 degrees."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Wait a second. He knows I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2849",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "...You got my E-mail?"
+      },
+      {
+        "speaker": "TEDDY",
+        "text": "And your phone messages. You wanna do what you do, it's not a crime."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Is that how Larry feels?"
+      },
+      {
+        "speaker": "TEDDY",
+        "text": "Uh. Not exactly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2850",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Wanted to say goodbye to him..."
+      },
+      {
+        "speaker": "TEDDY",
+        "text": "Hey, we got seed money for the startup! A million-five!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2851",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "TEDDY",
+        "text": "We rented a loft in Sunnyvale.  You know what's the bad part? We can't talk about work anymore. We're competitors! The venture capitalists made us sign like 100 confidentiality forms."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Outpost made me sign 1,000. 'Guess we'll find out what else we have to talk about. Life stuff."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2852",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "TEDDY",
+        "text": "But these, like, White Supremacists trashed my office, last week."
+      },
+      {
+        "speaker": "MILO",
+        "text": "What?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2853",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "TEDDY",
+        "text": "They're in the neighborhood. They usually hassle Vietnamese grocers."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Jesus, Teddy."
+      },
+      {
+        "speaker": "TEDDY",
+        "text": "I'm cool. They didn't touch the machine. Or my disks. Probably didn't know what they were. So, you a Moonie yet?  Milo?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "I met this girl."
+      },
+      {
+        "speaker": "TEDDY",
+        "text": "What? Come on. Is it serious?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "TEDDY",
+        "text": "Did you tell Alice?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "No! I keep thinking it'll go away. But there's this -- connection. She's been hacking since she was little, she had to move around a lot. Plus I see her every day, we're working on the same program. She's -- beautiful."
+      },
+      {
+        "speaker": "TEDDY",
+        "text": "A beautiful geek? I don't wanna sound paranoid, or like a pig, but what're the chances?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "What d'you mean?"
+      },
+      {
+        "speaker": "TEDDY",
+        "text": "I dunno. I guess Larry's got me totally suspicious of that place."
+      },
+      {
+        "speaker": "MILO",
+        "text": "What does that mean?"
+      },
+      {
+        "speaker": "TEDDY",
+        "text": "Milo, geeks don't have two girlfriends. Most don't have one."
+      },
+      {
+        "speaker": "MILO",
+        "text": "I didn't plan this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2854",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "So -- how far are we from the campus?"
+      },
+      {
+        "speaker": "REDMOND",
+        "text": "Oh we're not going to the campus."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2855",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "REDMOND",
+        "text": "So how'd you like the house?"
+      },
+      {
+        "speaker": "MILO",
+        "text": "His Snapples were in alphabetical order."
+      },
+      {
+        "speaker": "REDMOND",
+        "text": "Well, he micro-managed the company till it got too big...  'Guess he needs to micro-manage something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2856",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "REDMOND",
+        "text": "Every geek here's got a thing for Lisa. But that's about the biggest reaction she's had to anybody."
+      },
+      {
+        "speaker": "MILO",
+        "text": "She's a programmer?"
+      },
+      {
+        "speaker": "REDMOND",
+        "text": "Heavy graphical background, doing design-interface for Skywire apps.  You'll be working with her."
+      },
+      {
+        "speaker": "MILO",
+        "text": "I've got a girlfriend, remember?"
+      },
+      {
+        "speaker": "REDMOND",
+        "text": "Right. That's rare around here. You know how nuns' re-married to Jesus? 'Posties are married to Outpost."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2857",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "What're they building?"
+      },
+      {
+        "speaker": "REDMOND",
+        "text": "#21. Way behind schedule. It's top- secret, but everybody knows it's a digital broadcast space. They see the dishes on top, the fiber optics going in."
+      },
+      {
+        "speaker": "MILO",
+        "text": "Gary's not into fiber optics. He's betting everything on the satellites."
+      },
+      {
+        "speaker": "REDMOND",
+        "text": "You wanna survive in the software business, you cover your bets... I gotta say, this is the weirdest car anybody ever requested."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2858",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "PHIL",
+        "text": "We tried the big vaporware number, Gary, it's no-sale."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Can we buy into their IPO? Or is that a Justice Dept. problem?"
+      },
+      {
+        "speaker": "PHIL",
+        "text": "There is no public offering. The guy who wrote it joined some freakazoid cult in San Luis Obispo. 'Wrote this just to run their web site."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2859",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Maybe he'll get back to work."
+      },
+      {
+        "speaker": "PHIL",
+        "text": "Speaking of which..."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Yeah, yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2860",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "PHIL",
+        "text": "Did you download Corey? In San Jose?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Damn. 'Have to go back over there.  Be so much easier if we could walk in the front door."
+      },
+      {
+        "speaker": "PHIL",
+        "text": "You don't look anything like a three- year-old."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2861",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "SHROT",
+        "text": "Not much. Glorified cherry bomb. Right by the civil defense sign? Some geek's idea of irony. I been saying we need a camera in this hall."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "There's nothing in this hall. Someone's pulling your chain, as usual."
+      },
+      {
+        "speaker": "SHROT",
+        "text": "Unless it's a diversion. Milo's in my office. He was tailgating, so I --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2862",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "That kid's the great white hope."
+      },
+      {
+        "speaker": "SHROT",
+        "text": "I could get it out of him."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "You're not listening."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2863",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "SHROT",
+        "text": "Who're these guys?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Where is he?"
+      },
+      {
+        "speaker": "SHROT",
+        "text": "We're too late. Take a look."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2864",
+    "movie_id": "m21",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Fellas, I'm gonna have to ask you to leave here now."
+      },
+      {
+        "speaker": "SHROT",
+        "text": "Wait a second. I'm the one who found out he was mucking around in here in the first place."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "We're all grateful for that. Really. Go out the way you came in?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2865",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "You seem surprised to see me."
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "I thought you'd quit while you were ahead."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "What, and watch all my earnings go...  Down the toilet?"
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "What do you want, Mr... Cunningham, was it?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Call me Ritchie, Miss Fagina. May I call you Alotta...  Please?"
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "You may."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Your boss, Number Two, I understand that cat's involved in big underground drills."
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "Virtucon's main interest is in cable television, but they do have a subterranean construction division, yes. How did you know?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "I didn't, baby, you just told me."
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "It's for the mining industry, Mr. Cunningham. We can talk about business later. But first, let me slip into something more comfortable."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Behave!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2866",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "ALOTTA",
+        "text": "Come in."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "I'd rather talk about Number Two."
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "Don't you like girls, Mr. Cunningham? Come in, and I'll show you everything you need to know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2867",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "ALOTTA",
+        "text": "May I wash you?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Groovy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2868",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "ALOTTA",
+        "text": "In Japan, men come first and women come second."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Or sometimes not at all."
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "Care for some saki?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Sak-i it to me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2869",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "ALOTTA",
+        "text": "How do you feel, Mr. Cunningham?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Mmmm... I feel extreme relaxation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2870",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "'Pardon me for being rude, It was not me, it was my food.  It just popped up to say hello, and now it's gone back down below.'"
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "That's very clever. Do you know any other poems?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "'Milk, milk, lemonade.  Round the corner fudge is made.  Stick your finger in the hole, And out comes a tootsie roll!'"
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "Thank you, that's beautiful. To your health."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "To my health."
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "Kiss me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2871",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "ALOTTA",
+        "text": "Do you mind if I ask you a personal question?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Is it about my teeth?"
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Damn. What exactly do you do at Virtucon?"
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "I'll tell you all in due time, after we make love. But first, tell me another poem."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "I think it was Wordsworth who penned this little gem: 'Press the button, pull the chain, out comes a chocolate choo-choo train.'"
+      },
+      {
+        "speaker": "ALOTTA",
+        "text": "Oh, you're very clever. Let's make love, you silly, hairy little man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2872",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "ANDY WARHOL",
+        "text": "Austin Powers? Hi, I'm Andy Warhol."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Hey, how are you?"
+      },
+      {
+        "speaker": "ANDY WARHOL",
+        "text": "Hungry."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Here, have this can of Campbell's Tomato Soup."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2873",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "ANDY WARHOL",
+        "text": "I'm going to paint this can of soup and become famous and not give you any credit for it."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "If you can become famous, everyone will have their fifteen minutes of fame, man."
+      },
+      {
+        "speaker": "ANDY WARHOL",
+        "text": "\"Fifteen minutes of fame?\" I'm going to use that quote and not give you any credit for that, either."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Smashing!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2874",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Hello, Austin. This is Basil Exposition, Chief of British Intelligence.  You're Austin Powers, International Man of Mystery, and you're with Agent Mrs. Kensington. The year is 1967, and you're talking on a picture phone."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "We know all that, Exposition."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "I just wanted to be extremely clear so that everyone knows what's going on at any given time. We've just received word that Dr. Evil, the ultimate square, is planning to take over the world."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Dr. Evil? I thought I put him in jail for good."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "I'm afraid not. Earlier this week, Dr. Evil escaped from Zedel Edel Prison in Baaden Baaden and now he's planning a trap for you tonight at the Electric Psychedelic Pussycat Swinger's Club in Picadilly Circus here in swinging London."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2875",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "Just where you'd never think to look for him. We'll be there."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Good luck, Austin."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Oh, and Austin..."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Be careful."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thank you.  Let's go, baby!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2876",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "Where am I?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "You're in the Ministry of Defense. It's 1997. You've been cryogenically frozen for thirty years."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "WHO ARE THESE PEOPLE?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "The shouting is a temporary side- effect of the unfreezing process."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Yes, I'm having trouble controlling...  THE VOLUME OF MY VOICE!"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "You might also experience a slight fever, dry mouth, and flatulence at moments of extreme relaxation. Austin, this is Commander Gilmour, Strategic Command, and General Borschevsky, Russian Intelligence."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Russian Intelligence? Are you mad?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "A lot's happened since you were frozen, Austin. The cold war's over."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thank God. Those capitalist dogs will finally pay for their crimes against the people, hey Comrades?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "We won, Austin."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Groovy. Smashing! Good on ya!  Nice tie. Yea capitalism!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2877",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "When do I begin?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Immediately. You'll be working with Ms. Kensington."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "You mean Mrs. Kensington?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "No, Austin, Mrs. Kensington has long- since retired. Ms.  Kensington is her daughter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2878",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Vanessa's one of our top agents."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "My God, Vanessa's got a smashing body. I bet she shags like a minx. How do I tell them that because of the unfreezing process, I have no inner monologue?  I hope I didn't say that out loud just now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2879",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Yes, well...Agent Kensington will get you set up. She's very dedicated. Perhaps, a little too dedicated.  She's got a bit of a bug up her ass. Good luck, Austin, the world's depending on you."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thank you, Exposition."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Oh, and Austin..."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Be careful."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2880",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Hello Austin. Hello Vanessa. This is Basil Exposition, from British Intelligence.  There's a company in Las Vegas called Virtucon that we think may be linked to Dr. Evil. Many of the Virtucon executives gamble at the hotel/casino where you'll be staying. That's the first place you should look.  Well, I'm off to the chat rooms."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thank you, Exposition."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Oh, and Austin..."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Be careful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2881",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Hello, Austin, this is Basil Exposition from British Intelligence. Thank you for confirming the link between Dr. Evil and Virtucon. Find out what part Virtucon plays in something called Project Vulcan. I'll need you and Vanessa to get on that immediately."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Right away, Exposition."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Where is Vanessa, by the way?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2882",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "She's working on another lead right now."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Then you'll have to go it alone. Good luck."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thank you, Basil."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Oh, and Austin..."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Let me remind you that because of the unfreezing process you might experience flatulence at moments of extreme relaxation."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Oh, yes. Thank you."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "There's one more thing, Austin."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Be careful."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2883",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "Hello, Exposition."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Austin, Vanessa, let me bring you up to speed. Dr. Evil has high- jacked a nuclear warhead from Kreplachistan and is holding the world ransom for one-hundred billion dollars. If the world doesn't pay up in four days, he's threatening to destroy the world."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thank you, Exposition. Only two things, scare me, and one is nuclear war."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "What's the other?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Excuse me?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "What's the other thing you're scared of?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Carnies."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "What?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Circus folk.  Nomads, you know. They smell like cabbage."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Indeed... If we could get back to the business at hand. It's one thing to have a warhead, it's quite another thing to have the missiles to launch it."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Maybe these photographs are the last piece of that puzzle.  I've uncovered the details on Project Vulcan. It's a new subterranean warhead delivery system."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Good God, and underground missile. We've long feared such a development."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2884",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "My God, Austin, what have you done?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "That's not your mother, that's a man!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2885",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "I'm sorry, Basil, I thought she was a man."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Damn it, man! You're talking about my mother!"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "You must admit, she is rather mannish. No offense, but if that's a woman, it looks like she's been beaten with an ugly stick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2886",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "All right, Austin, I think you should go."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "I think if everyone were honest, they'd confess that the lady looks exactly like a man in drag."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "I'm leaving!  Oh, and Austin?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Yes, Basil?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Be careful."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thanks."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2887",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Well, Austin, you've stopped Dr. Evil from destroying the world with his subterranean nuclear probe, and somehow you and Agent Kensington managed to escape unscathed from his evil lair."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "I'd say that about sums it up, Exposition."
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Not quite, actually. Vanessa, I have something for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2888",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "Congratulations, Field Agent Kensington!"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Austin, I have something for you as well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2889",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Here's the number of my dentist, he's first rate. Ring him up, he'll look after you."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Thanks, Basil. Maybe the Nineties aren't so bad after all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2890",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "But, wait, I-- you got me again. Oh, and Austin--"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Yes Basil?"
+      },
+      {
+        "speaker": "BASIL EXPOSITION",
+        "text": "Be careful!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2891",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "MICK JAGGER",
+        "text": "Hey Austin Powers, it's me, Mick Jagger."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Hey, Mick!"
+      },
+      {
+        "speaker": "MICK JAGGER",
+        "text": "Are you more satisfied now sexually, Austin?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Well, you can't always get what you want."
+      },
+      {
+        "speaker": "MICK JAGGER",
+        "text": "\"You can't always get what you want!\" That's a great title for a song! I'm gonna write that, and it'll be a big hit."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Good on ya, man."
+      },
+      {
+        "speaker": "MICK JAGGER",
+        "text": "Groovy!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2892",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "DESTRUCTACON",
+        "text": "Good afternoon, Mr. Powers, I'm the Destructacon 5000. I'm programmed to prevent you from progressing beyond this point. You might as well surrender. Resistance is futile. Your odds of survival are 23,763,273 to..."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Well, Destructacon 5000, you have quite a head on your shoulders, I dare to coin."
+      },
+      {
+        "speaker": "DESTRUCTACON",
+        "text": "Yes, I am programmed to answer any question."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Really? Let me ask you this. What is love?"
+      },
+      {
+        "speaker": "DESTRUCTACON",
+        "text": "That does not compute."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Why not? It's a question."
+      },
+      {
+        "speaker": "DESTRUCTACON",
+        "text": "Love is... love is... love is..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2893",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "What's wrong with your hand?"
+      },
+      {
+        "speaker": "DR. EVIL",
+        "text": "Don't try to suck up to me! It's a little late for that. I'm a freak! Look at it, it's been rendered useless."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2894",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "I'm sorry, baby, I'm just not grocking your head space."
+      },
+      {
+        "speaker": "DR. EVIL",
+        "text": "Oh forget it. As a fellow player on the international stage, Mr.  Powers, I'm sure you'll enjoy watching the curtain fall on the third and final act."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2895",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "Dr. Evil, do you really expect them to pay?"
+      },
+      {
+        "speaker": "DR. EVIL",
+        "text": "No, Mr. Powers, I expect them to die. Even after they pay me the money, I'm still going to melt all the cities of the world with hot magma.  All right, guard, begin the unnecessarily Slow-Moving Dipping Mechanism."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2896",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "I've got you, Dr. Evil!"
+      },
+      {
+        "speaker": "DR. EVIL",
+        "text": "Well done, Mr. Powers. We're not so different, you and I. It's true, you're British, and I'm Belgian. You have a full head of hair, mine is slightly receding. You're thin, I'm about forty pounds overweight. OK, we are different, I'm not making a very good point. However, isn't it ironic, Mr. Powers, that the very things you stand for-- swinging, free love, parties, distrust of authority- are all now, in the Nineties, considered to be... evil? Maybe we have more in common than you care to admit."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "No, man, what we swingers were rebelling against were uptight squares like you, whose bag was money and world domination. We were innocent, man. If we'd known the consequences of our sexual liberation, we would have done things differently, but the spirit would have remained the same.  It's freedom, man."
+      },
+      {
+        "speaker": "DR. EVIL",
+        "text": "Your freedom has cause more pain and suffering in the world than any plan I ever dreamed of. Face it, freedom failed."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "That's why right now is a very groovy time, man. We still have freedom, but we also have responsibility."
+      },
+      {
+        "speaker": "DR. EVIL",
+        "text": "Really, there's nothing more pathetic than an aging hipster."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2897",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "It seems the tables have turned again, Dr. Evil."
+      },
+      {
+        "speaker": "DR. EVIL",
+        "text": "Not really. Kill the little bastard. See what I care."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Man, you are one chilly square!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2898",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "VANESSA",
+        "text": "Mr. Powers, my job is to acclimate you to the Nineties. You know, a lot's changed since 1967."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Well, as long as people are still having promiscuous sex with many anonymous partners without protection, while at the same time experimenting with mind-expanding drugs in a consequence-free environment, I'll be sound as a pound."
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "My mother's told me all about you."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "If it's a lie, goddamn her. It it's the truth, goddamn me.  God, I hope that's witty. How's your mum?"
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "My mother's doing quite well, thank you very much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2899",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "OK, OK, man, don't get heavy, I'll sign. Just to get things moving, baby."
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "Listen, Mr. Powers, I look forward to working with you, but do me a favor and stop calling me baby. You can address me as Agent Kensington. We have to leave immediately. We've preserved your private jet just as you left it. It's waiting at Heathrow Airport."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "My jumbo jet? Smashing baby."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_2900",
+    "movie_id": "m22",
+    "turns": [
+      {
+        "speaker": "AUSTIN",
+        "text": "Pretty groovy Jumbo Jet, eh? How does a hot chick like you end up working at the Ministry of Defense?"
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "I went to Oxford and excelled in several subjects, but I ended up specializing in foreign languages. I wanted to travel -- see the world. In my last year I was accepted into the M.O.D. in the Cultural Studies sector. I thought I was off on an exciting career, but my job was to read everything printed in every country. It's very boring. My whole day is spent reading wedding announcements in Farsi. If I do well with this case, I finally get promoted to field operative..."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "That's fascinating, Vanessa. Listen, why don't we go into the back and shag?"
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "I beg your pardon?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "I've been frozen for thirty years, man, I want to see if my bits and pieces are still working."
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "Excuse me?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "My wedding tackle."
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "I'm sorry?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "My meat and two veg."
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "Mr. Powers, please. I know that you must be a little confused, but we have a very serious situation at hand. I would appreciate it if you'd concentrate on our mission and give your libido a rest."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "Have you ever made love to a Chigro?"
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "A Chigro?"
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "You know, a Chigro... part Chinese, part Negro...  Chigro."
+      },
+      {
+        "speaker": "VANESSA",
+        "text": "We don't use the term 'Negro' anymore. It's considered offensive."
+      },
+      {
+        "speaker": "AUSTIN",
+        "text": "That's right. You're supposed to say 'colored' now, right?  Here's the stewardesses! Bring on the sexy stews!"
+      }
+    ]
+  }
+]

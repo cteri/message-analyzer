@@ -1,0 +1,2002 @@
+[
+  {
+    "conversation_id": "conv_1501",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Simon, I'm going to check ROK's secondary readout unit."
+      },
+      {
+        "speaker": "SIMON",
+        "text": "Roger."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1502",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Simon, what's happening?!"
+      },
+      {
+        "speaker": "SIMON",
+        "text": "He tried to disconnect ROK.  It gassed him.  That computer is running this ship and we're heading right for the sun."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Can't we change course?"
+      },
+      {
+        "speaker": "SIMON",
+        "text": "We're computer locked and the manual navigation unit is down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1503",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "SIMON",
+        "text": "My career is shot."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Your career!  What about the lives of those people out there.  Simon, what happened to the man I thought I loved?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1504",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Simon, I didn't want it to end like this. We can be friends!  You'll die out there."
+      },
+      {
+        "speaker": "SIMON",
+        "text": "Maybe."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Simon, what are you saying?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1505",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "Elaine, ask ROK for a field interference scan.  Those sun spots might give us a problem with our communications."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Yes, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1506",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "I don't think we have any alternative, Captain."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "I see.  What do you think our alternatives are?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "We have to disconnect ROK's higher brain functions without disturbing his regulatory system."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1507",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "Roger."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "You can do it from up here, Captain."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "I'd rather sit down for this one, Elaine."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "No, I mean you can do it from the cockpit."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Roger.  You better get back there and monitor the regulatory unit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1508",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Intermitant failure in scan mode \"R\". Analyze."
+      },
+      {
+        "speaker": "ROK",
+        "text": "Negative."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "That doesn't make sense.  Repeat analysis."
+      },
+      {
+        "speaker": "ROK",
+        "text": "Negative."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "That's not possible."
+      },
+      {
+        "speaker": "ROK",
+        "text": "Cut the Doubting Thomas shit, Elaine.  I know where I'm coming from on this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1509",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "ROK",
+        "text": "Elaine, I'm sorry about that little outburst a moment ago."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "That's okay, ROK."
+      },
+      {
+        "speaker": "ROK",
+        "text": "Can I say something of a personal nature to you?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Go ahead."
+      },
+      {
+        "speaker": "ROK",
+        "text": "You have great tits."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1510",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Request; comprehensive electrical systems check."
+      },
+      {
+        "speaker": "ROK",
+        "text": "Systems check positive.  Look, Elaine, I..."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Request; life support systems check."
+      },
+      {
+        "speaker": "ROK",
+        "text": "Life support check.  Elaine, it's obvious you've been ignoring me.  You're a woman. I can relate to that."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Request; self-analysis of ROK hardware and software systems regarding behavioral changes."
+      },
+      {
+        "speaker": "ROK",
+        "text": "There's nothing wrong with me, Elaine. What about tonight -- just you and me.  We can be alone.  I can get rid of everyone else on the ship -- I've already proven <u>that</u>."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1511",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "JIMMY",
+        "text": "Will Scraps be able to sit with us, Dad?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "We'll have to check, Jimmy.  It's a pretty long trip to Mercury."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1512",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "JIMMY",
+        "text": "I sure an glad they let Scraps ride up here with us."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "I bet Scraps is going to love Mercury."
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Do you think things will be a lot different on Mercury, Dad?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "It's going to be terrific.  A whole new world, new kids to play with."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1513",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "How many kids get a chance to live on another planet."
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "No more kids yelling, 'Your old man's a thieving rapist'?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Look, a man can make an honest mistake!! Anyway, she was asking for it!  They're all asking for it all the time!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1514",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "Come on up, Jimmy.  Say, that's some puppy.  What's his name?"
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Scraps."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Can I hold him?"
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Sure."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "He's a boy dog."
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Do you like it when Scraps sleeps on his back, Jimmy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1515",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "WIFE",
+        "text": "Take this, Joey.  It's my last few bucks. You'll need a hot meal when you get there."
+      },
+      {
+        "speaker": "JOE",
+        "text": "We've spent everything on these operations.  Is it really worth it?  We've pawned your mother's wedding ring.  The kids have no winter clothes..."
+      },
+      {
+        "speaker": "WIFE",
+        "text": "Joey, what's more important, the kids' clothes or your sexual potency."
+      },
+      {
+        "speaker": "JOE",
+        "text": "I don't want to hear that word!"
+      },
+      {
+        "speaker": "WIFE",
+        "text": "Okay, Joey.  The Doc says you gotta relax. This hospital in Des Moines is the best sex clinic in the country."
+      },
+      {
+        "speaker": "JOE",
+        "text": "All right.  Here."
+      },
+      {
+        "speaker": "WIFE",
+        "text": "What...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1516",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Joe, you don't want to blow that thing and kill all these innocent people."
+      },
+      {
+        "speaker": "JOE",
+        "text": "I don't want to live anymore."
+      },
+      {
+        "speaker": "TED",
+        "text": "Joe, the insurance policy won't help your wife and kids.  You bought auto insurance, not life insurance."
+      },
+      {
+        "speaker": "JOE",
+        "text": "What?"
+      },
+      {
+        "speaker": "TED",
+        "text": "That's right, Joe.  Now, no one's going to hurt you and no one has to know what's wrong with you."
+      },
+      {
+        "speaker": "JOE",
+        "text": "You're sure?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1517",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "A couple eggs and juice would be nice, Mary.  Over."
+      },
+      {
+        "speaker": "MARY",
+        "text": "How would you like your eggs, Captain? Over."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "No.  Poached.  Over."
+      },
+      {
+        "speaker": "MARY",
+        "text": "Poached <u>and</u> over, Captain Oveur?  Over."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Just poached on toast.  Over."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1518",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "That's how I want them.  Poached.  Over."
+      },
+      {
+        "speaker": "MARY",
+        "text": "All right, Captain Oveur.  Over."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Poached!  Not over!  Over!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1519",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "MARY",
+        "text": "Captain, the coffee machine is jammed and I don't like it."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Have you tried it with a little cinnamon?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1520",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Which passenger is Joe Salucci?"
+      },
+      {
+        "speaker": "MARY",
+        "text": "Sixteen 'C', why?"
+      },
+      {
+        "speaker": "TED",
+        "text": "He's carrying a bomb."
+      },
+      {
+        "speaker": "MARY",
+        "text": "A b..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1521",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "No, a bomb.  Now, as discreetly as possible, I want you to move the passengers into the lounge."
+      },
+      {
+        "speaker": "MARY",
+        "text": "What should I say?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Anything.  Just don't let Salucci think we're onto him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1522",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "SIMON",
+        "text": "Captain Oveur?"
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Mr. Kurtz, I presume."
+      },
+      {
+        "speaker": "SIMON",
+        "text": "We don't have much time.  Let's move. I'll explain everything."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1523",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "SIMON",
+        "text": "That's how dry cleaning works.  Now I'd like to quickly go over the digestive system of amphibians."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Do you think it's necessary to explain <u>everything</u>?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1524",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "Good to be aboard, gentlemen."
+      },
+      {
+        "speaker": "SIMON",
+        "text": "Captain Oveur, your navigator, Mr. Unger, and your first officer, Mr. Dunn."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1525",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "SIMON",
+        "text": "Whenever your're ready, Captain."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Yes, sir, commander.  This is Mercury One.  Everything seems A- okay up here and ready for count-down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1526",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "PORTER",
+        "text": "You folks need any help?"
+      },
+      {
+        "speaker": "STELLA",
+        "text": "Thanks, but we have a terrific woman in on Thursdays."
+      },
+      {
+        "speaker": "PORTER",
+        "text": "Say, isn't that Dr. Barrington, the world- renowned agronomist?"
+      },
+      {
+        "speaker": "STELLA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "PORTER",
+        "text": "It's a privilege to meet you, sir, I'm familiar with all your work."
+      },
+      {
+        "speaker": "STELLA",
+        "text": "Let's go, Daddy.  We have to check in.  He was never appreciated at the Institute."
+      },
+      {
+        "speaker": "PORTER",
+        "text": "Ah, yes, the Institute, I'm familiar with it."
+      },
+      {
+        "speaker": "STELLA",
+        "text": "Now he's D-Y-I-N-Ging and wants to be buried on Mercury."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1527",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "I have to see Bud Kruger."
+      },
+      {
+        "speaker": "RECEPTIONIST",
+        "text": "Do you have an appointment, sir?"
+      },
+      {
+        "speaker": "TED",
+        "text": "No, dammit.  It's a matter of life or death."
+      },
+      {
+        "speaker": "RECEPTIONIST",
+        "text": "You'll have to be more specific than that, sir."
+      },
+      {
+        "speaker": "TED",
+        "text": "All right, it's a matter of death."
+      },
+      {
+        "speaker": "RECEPTIONIST",
+        "text": "Death, death.  How about the first Thursday in March, ten o'clock."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1528",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "RECEPTIONIST",
+        "text": "You can't go in there!"
+      },
+      {
+        "speaker": "TED",
+        "text": "Don't try to stop me!"
+      },
+      {
+        "speaker": "RECEPTIONIST",
+        "text": "But that's not a door.  The door's over there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1529",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Are you on the Mercury mission?"
+      },
+      {
+        "speaker": "SIMON",
+        "text": "That's right, Striker.  And we're getting married when we return."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1530",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "SIMON",
+        "text": "You're seeing bugs where they don't exist, Striker."
+      },
+      {
+        "speaker": "TED",
+        "text": "Look at this wiring.  It's shorting out under high temperatures."
+      },
+      {
+        "speaker": "SIMON",
+        "text": "You're tired, Striker, overworked.  That wiring meets all the safety specifications."
+      },
+      {
+        "speaker": "TED",
+        "text": "I know you've been subtly spreading the word that I'm having a breakdown."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1531",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "SIMON",
+        "text": "Striker."
+      },
+      {
+        "speaker": "TED",
+        "text": "Kurtz, you're drunk.  Who's in command of this ship?"
+      },
+      {
+        "speaker": "SIMON",
+        "text": "That damn computer has taken over.  I'm getting out."
+      },
+      {
+        "speaker": "TED",
+        "text": "Then Elaine was right."
+      },
+      {
+        "speaker": "SIMON",
+        "text": "Don't talk to me about Elaine.  Outta my way!"
+      },
+      {
+        "speaker": "TED",
+        "text": "Pull yourself together!  We've got to..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1532",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "STELLA",
+        "text": "Excuse me, are you alright?  I noticed you talking to yourself.  I'm a nurse.  Can I be of some help?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Uh... oh, thank you.  It's nothing."
+      },
+      {
+        "speaker": "STELLA",
+        "text": "You don't have to thank me, I'm a nurse. This is my father, Dr. Barrington."
+      },
+      {
+        "speaker": "TED",
+        "text": "Not Dr. Barrington, the world renowned agronomist?"
+      },
+      {
+        "speaker": "STELLA",
+        "text": "Yes.  He's dying <u>a-n-d</u> wants to be buried on Mercury."
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm familiar with your work, Doctor. You'll have to excuse me, I have to go."
+      },
+      {
+        "speaker": "STELLA",
+        "text": "You don't have to excuse yourself.  I'm a nurse.  I understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1533",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "STELLA",
+        "text": "You've been hurt."
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm getting over it.  If a relationship isn't working, you can't force it."
+      },
+      {
+        "speaker": "STELLA",
+        "text": "No, I mean your head.  Sit down.  I'll take a look at it.  I'm a nurse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1534",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "STELLA",
+        "text": "Do you want to talk about it."
+      },
+      {
+        "speaker": "TED",
+        "text": "I opened this panel and a vacuum cleaner hit me."
+      },
+      {
+        "speaker": "STELLA",
+        "text": "No.  I mean your relationship."
+      },
+      {
+        "speaker": "TED",
+        "text": "We were in love but I'm not sure I know what love is anymore."
+      },
+      {
+        "speaker": "STELLA",
+        "text": "Love's the same as it always was.  It's people who change."
+      },
+      {
+        "speaker": "TED",
+        "text": "People change in relation to each other. Love changes on its own."
+      },
+      {
+        "speaker": "STELLA",
+        "text": "Not if the people change together in relation to that love."
+      },
+      {
+        "speaker": "TED",
+        "text": "Sure.  But that's only when the love itself goes unchanged."
+      },
+      {
+        "speaker": "STELLA",
+        "text": "Then the relationship remains the same and the love changes only when there's change in the two people who share that love."
+      },
+      {
+        "speaker": "TED",
+        "text": "I just wish it was that simple.  We really were in love.  You know how it is when you laugh all the time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1535",
+    "movie_id": "m12",
+    "turns": [
+      {
+        "speaker": "STELLA",
+        "text": "No.  It's hard to L-A-U-G-H when your father's dying."
+      },
+      {
+        "speaker": "TED",
+        "text": "Well, we laughed.  We laughed all the time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1536",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "MILTON",
+        "text": "I happened to be passing, and I thought you might like some corfee."
+      },
+      {
+        "speaker": "BERNICE",
+        "text": "That's very nice of you. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1537",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "BERNICE",
+        "text": "Ah, won't you sit down?"
+      },
+      {
+        "speaker": "MILTON",
+        "text": "Thank you. Cream?"
+      },
+      {
+        "speaker": "BERNICE",
+        "text": "No, thank you. I take it black. Like my men."
+      },
+      {
+        "speaker": "MILTON",
+        "text": "Were you vacationing in Los Angeles?"
+      },
+      {
+        "speaker": "BERNICE",
+        "text": "Well, it really wasn't a vacation. You see, I'm a teacher in the New York City school system, and I was attending a seminar on visual aids to education. Are you from L.A.?"
+      },
+      {
+        "speaker": "MILTON",
+        "text": "No. I'm from Washington, D.C. I'm a lobbyist for the Small Businessmen's Assocation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1538",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "MILTON",
+        "text": "After my wife died, I felt like a fifth wheel. You know, so many years being with one person -- a very wonderful person -- makes you always think of yourself as part of a pair...When Ethel passed away, I was lost. I couldn't function socially and I couldn't function in business."
+      },
+      {
+        "speaker": "BERNICE",
+        "text": "Well, after a thing like that you wouldn't be expected to."
+      },
+      {
+        "speaker": "MILTON",
+        "text": "But I think it's time we stopped talking about me. A woman like you -- why haven't you ever married?"
+      },
+      {
+        "speaker": "BERNICE",
+        "text": "Well, I'm afraid that's a question that's all too easy to answer."
+      },
+      {
+        "speaker": "MILTON",
+        "text": "I know the answer -- Career. A smart woman like you became so involved in your work, you didn't have time for marriage."
+      },
+      {
+        "speaker": "BERNICE",
+        "text": "I wish I could fool myself into believing that that's the reason. The truth of the matter is, nobody ever asked me."
+      },
+      {
+        "speaker": "MILTON",
+        "text": "You know, here we are having coffee together, and discussing education and business and economy...and we don't even know each other's names...full names I mean."
+      },
+      {
+        "speaker": "BERNICE",
+        "text": "Mine's Eleanor. Eleanor Schiff."
+      },
+      {
+        "speaker": "MILTON",
+        "text": "That's a lovely name. Mine's Milton...Milt Ettenhenim. But my friends call me 'Bubbles.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1539",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "MILTON",
+        "text": "I'm sure we'll both make it...but just in case one of us...well, is there a message you'd like me to give someone?"
+      },
+      {
+        "speaker": "BERNICE",
+        "text": "No. I'm all alone."
+      },
+      {
+        "speaker": "MILTON",
+        "text": "Just in case I don't have a chance to say goodbye, I want you to know that I haven't spent so many pleasant hours for many years."
+      },
+      {
+        "speaker": "BERNICE",
+        "text": "That's a very nice compliment, and I'd like to say that...you've done the same for me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1540",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "CAREY",
+        "text": "Hello, I'm Paul Carey from the airline. I'm here to pick up Captain Kramer."
+      },
+      {
+        "speaker": "MRS. KRAMER",
+        "text": "Oh, yes. Come in, Paul. Rex will be right out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1541",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "MRS. KRAMER",
+        "text": "Shep, sit...sit! So, I understand you've got a real emergency down there."
+      },
+      {
+        "speaker": "CAREY",
+        "text": "Well, to tell the truth, they really didn't fill me in on many of the details. Just told me to pick up Captain Kramer."
+      },
+      {
+        "speaker": "MRS. KRAMER",
+        "text": "Something about a plane with no pilot?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1542",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "CAREY",
+        "text": "Yeah, something like that, but as I say, they didn't have time to tell me very much."
+      },
+      {
+        "speaker": "MRS. KRAMER",
+        "text": "Shep, no! I'll bet you have exciting things happen all the time down there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1543",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "CAREY",
+        "text": "...but after...awhile...you begin to...  ...get used to it."
+      },
+      {
+        "speaker": "MRS. KRAMER",
+        "text": "Shep, no! He gets so excited when new people are here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1544",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "Both pilots!"
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Can you fly this airplane and land it?"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Surely you can't be serious."
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "I <u>am</u> serious, and don't call me Shirley! What flying experience have you had?"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Well, I flew single-engine fighters in the Air Force, but this plane has four engines. It's an entirely different kind of flying...<u>all</u> <u>together</u>!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1545",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Elaine, I haven't time to put this gently, so I'll be very direct. Everyone of us on this plane is in a desperate situation. Mister Striker is the only hope we've got."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Let's see. Those are the flaps, that's the thrust, this must turn on the landing lights."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1546",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "DR. RUMACK",
+        "text": "...safe and sound and free to pursue a life of religious fulfillment."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Chicago, the passengers are beginning to panic. When do we start down?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1547",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Will the hospital equipment be at the airport?"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Yes, everything they've got. How are the passengers doing?"
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "I won't deceive you, Mister Striker. We're running out of time."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Surely there must be something you can do."
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "I'm doing everything I can! -- And stop calling me Shirley!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1548",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "George Zipp said that?"
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "And the last thing he said to me, \"Doc,\" he said, \"Sometime when the crew is up against it and the breaks are beating the boys, tell them to go out there with all they've got and win just one for the Zipper. I don't know where I'll be then, Doc,\" he said, \"but I won't smell too good. That's for sure.\""
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Excuse me, Doc, I've got a plane to land."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1549",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Captain, how soon can we land?"
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "I can't tell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1550",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Can't you take a guess?"
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Well...not for another two hours."
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "You can't take a guess for another two hours?"
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "No, I mean we can't <u>land</u> for another two hours. Fog has closed down everything this side of the mountains. We've got to go through to Chicago!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1551",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "What is it, Doctor? What's happening?"
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "I'm not sure. I haven't seen anything like this since the Lina Wertmuller Film Festival."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1552",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Sir. Excuse me, sir. I'm sorry to have to wake you. Are you a doctor?"
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "That's right."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "We have some passengers who are very sick. Could you come and take a look at them?"
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Yes. Yes, of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1553",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "DR. RUMACK",
+        "text": "You'd better tell the Captain. We've got to land as soon as we can. This woman has to be gotten to a hospital."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "A hospital? What is it?"
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "It's a big building with patients. But that's not important right now. Tell the Captain I must speak to him."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Certainly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1554",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "DR. RUMACK",
+        "text": "What was it we had for dinner tonight?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Well, we had a choice. Steak or fish."
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Yes, yes, I remember. I had lasagna."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1555",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "DR. RUMACK",
+        "text": "What did he have?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "He had fish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1556",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Doctor Rumack, Mister Hammen ate fish. And Randy says there are five more cases, and they ate fish, too."
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Let's see now. The co-pilot had fish. What did the navigator eat?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "He had fish, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1557",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Just how serious is it, doctor?"
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Extremely serious. It starts with a slight fever."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1558",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "DR. RUMACK",
+        "text": "Elaine, you're a member of this crew. Can you face some unpleasant facts?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "No."
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "All right. Unless I can get all these people to a hospital quickly, I can't even be sure of saving their lives. Now, is there anyone else on board who can land this plane?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Well..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1559",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "No. No one that I know of."
+      },
+      {
+        "speaker": "DR. RUMACK",
+        "text": "I think you ought to know what our chances are. The life of everyone on board depends on just one thing: finding someone back there who not only can fly this plane, but who didn't have fish for dinner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1560",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "Elaine!"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Ted!"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "I came home early and found your note. I guess you meant for me to read it later. Elaine, I've got to talk to you."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I just don't want to go over it any more."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "I know things haven't been right for a long time, but it'll be different. If you'll just be patient, I can work things out."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I have been patient and I've tried to help, but you wouldn't even let me do that."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Don't you feel anything for me at all any more?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "It takes so many things to make love last. Most of all it takes respect. And I can't live with a man I don't respect!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1561",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "Look, you'll be back in town tomorrow night. We'll have dinner -- talk it over."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I won't be back. I've requested the Atlanta run."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Elaine, not yet. I promise you I really can change."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Then why don't you take the job that Louie Netz offered you at Boeing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1562",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "You know I haven't been able to get near an airplane since the war. And even if I could, they wouldn't hire me because of my war record."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Your <u>war</u> <u>record</u>? You're the only one keeping that alive. For everyone else it's ancient history."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "You expect me to believe that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1563",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "It's the truth. What's hurt you the most is your record since the war. Different cities, different jobs, and not one of them shows you can accept any real responsibility."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "But if you'll just give me..."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "It's too late, Ted. When I get back to Chicago, I'm going to start my life all over again. I'm sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1564",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Ted, what are you doing here?"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Elaine, I've got to talk to you."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "You...you shouldn't have come. I don't have time now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1565",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "What's the matter?"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "My orders came through. My squadron ships out tomorrow. I'll be leading a very important mission."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Oh, Ted, please be careful. I worry about you so much."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "I love you, Elaine."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I love you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1566",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "Elaine, just hear me out. I know things haven't been right for a long time. But it will be different...like it was in the beginning. Remember?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I remember everything. All I have are memories."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1567",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Mostly I remember...the nights when we were together. I remember how you used to hold me...and how I used to sit on your face and wriggle...and then afterwards how we'd watch until the sun came up. When it did, it was almost like...like each new day was created...only for us."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "That's the way I've always wanted it to be, Elaine."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "But it won't be. Not as long as you insist on living in the past!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1568",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "You got a telegram from head­quarters today."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Headquarters!? What is it?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "It's a big building where the generals meet. But that's not important right now. They've cleared you of any blame for what happened on that raid. Isn't that good news?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1569",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "Is it? Because of my mistake six men didn't return from that raid."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Seven. Lieutenant Zipp died this morning. Ted, Doctor Sandler says you'll be out in a week. Isn't that wonderful?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1570",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "I wish I could say the same for George Zipp."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Be patient, Ted. No one expects you to get over this immediately."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1571",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "What's his problem?"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "That's Lieutennt Hurwitz. Severe shell shock. He thinks he's Ethel Merman."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1572",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "I think they're getting the hang of it! When we re-enlist I'll teach them baseball!"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Ted, I don't want to stay here. It's time for us to go back home -- to the plans we made before the war."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "A lot of people made plans before the war. Like George Zipp."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1573",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Ted! What are you doing? You can't fly this plane!"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "That's what I've been trying to tell these people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1574",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Rain."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "And a little ice."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "And a little ice!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1575",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "Sluggish. Like a wet sponge."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Sluggish. Like a wet sponge."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1576",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "It's a damn good thing he doesn't know how much I hate his guts."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "It's a damn good thing you don't know how much he hates your guts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1577",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "Rats! I've lost number three."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "What happened, Ted? What went wrong?"
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Oil pressure. I forgot to check the oil pressure. When Kramer hears about this, the shit's gonna hit the fan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1578",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "But Ted, you're the only..."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "I don't care. I just don't have what it takes. They'd be better off with someone who'd never flown before."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1579",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "Ted..."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I wanted you to know -- now -- I'm very proud."
+      },
+      {
+        "speaker": "STRIKER",
+        "text": "Tell them the gear is down and we're ready to land."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "The gear is down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1580",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "STRIKER",
+        "text": "See them, Elaine?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Uh-huh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1581",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "We have a visitor."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Hello."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1582",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "ELAINE",
+        "text": "We'd better get back now."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Joey can stay up here for a while if he'd like to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1583",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "Hey, we've been waiting for you. A little bit late tonight."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Who wants to be first?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1584",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "OVEUR",
+        "text": "Airsick?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "I think so, but I've never seen it so acute."
+      },
+      {
+        "speaker": "OVEUR",
+        "text": "Find out if there's a doctor on board, as quietly as you can."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1585",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "GIRL",
+        "text": "Oh, Bill, I'm going to miss you so much."
+      },
+      {
+        "speaker": "SOLDIER",
+        "text": "You promise you'll write."
+      },
+      {
+        "speaker": "GIRL",
+        "text": "Every day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1586",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "SOLDIER",
+        "text": "Good-bye, darling."
+      },
+      {
+        "speaker": "GIRL",
+        "text": "Oh, Bill, I'll keep it. I'll keep it with me all the time."
+      },
+      {
+        "speaker": "SOLDIER",
+        "text": "So long, darling. Good-bye. Take care of yourself."
+      },
+      {
+        "speaker": "GIRL",
+        "text": "Bill! Bill! Good-bye, Bill."
+      },
+      {
+        "speaker": "SOLDIER",
+        "text": "Good-bye, darling."
+      },
+      {
+        "speaker": "GIRL",
+        "text": "Good-bye, darling. I love you. I love you, darling."
+      },
+      {
+        "speaker": "SOLDIER",
+        "text": "Good-bye, darling."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1587",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "KRAMER",
+        "text": "And get that finger out of your ear. You don't know where that finger's been! Gunderson?"
+      },
+      {
+        "speaker": "GUNDERSON",
+        "text": "Yes, Captain?"
+      },
+      {
+        "speaker": "KRAMER",
+        "text": "Did you decide on a runway yet?"
+      },
+      {
+        "speaker": "GUNDERSON",
+        "text": "Runway niner. It's the longest, and directly into the wind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1588",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "GUNDERSON",
+        "text": "Eight miles. Turn right to heading zero eight niner."
+      },
+      {
+        "speaker": "KRAMER",
+        "text": "You are now eight miles from the airport. Turn right to a heading of zero eight niner, throttle back slightly and begin to lose altitude to fifteen hundred feet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1589",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "GUNDERSON",
+        "text": "He's all over the place! Nine hundred feet up to thirteen hundred feet! What an asshole!"
+      },
+      {
+        "speaker": "KRAMER",
+        "text": "Watch your altitude, Striker. It's too erratic. You can't come straight in. You've got enough fuel left for two hours flying. You've got to stay up there 'til we get a break in the weather."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1590",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "GUNDERSON",
+        "text": "He's right on the heading."
+      },
+      {
+        "speaker": "KRAMER",
+        "text": "All right, he's on final now! Put out all runway lights except niner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1591",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "SHIRLEY",
+        "text": "Jack, isn't that Fred Bliffert over there in the blue turtleneck? Maybe he's on our flight to Chicago."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Yeah, I think he is.  Hey, Fred!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1592",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "What did you think of 'Great Expectations?'"
+      },
+      {
+        "speaker": "SHIRLEY",
+        "text": "Well, it wasn't all that I had hoped."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1593",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "SHIRLEY",
+        "text": "Oh, I can't stand it."
+      },
+      {
+        "speaker": "JACK",
+        "text": "What is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1594",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "How ya doing, honey?"
+      },
+      {
+        "speaker": "SHIRLEY",
+        "text": "Oh Jack, I'm so warm. I'm burning up."
+      },
+      {
+        "speaker": "JACK",
+        "text": "Here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1595",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "Wait a minute. I know you. You're Kareem Abdul Jabbar. You play basketball for the Los Angeles Lakers!"
+      },
+      {
+        "speaker": "MURDOCK",
+        "text": "I'm sorry, son, but you must have me confused with someone else. My name is Roger Murdock. I'm the co-pilot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1596",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "JOEY",
+        "text": "You <u>are</u> Kareem. I've seen you play. My Dad's got season tickets!"
+      },
+      {
+        "speaker": "MURDOCK",
+        "text": "I think you should go back to your seat now, Joey. Right, Clarence?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1597",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "MURDOCK",
+        "text": "I'm an airline pilot.  Ah, Clarence, according to my calculations, with this tailwind we ought to be able to make up an additional fifteen minutes over the Rockies."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "I think you're the greatest. But my Dad says you don't work hard enough on defense."
+      },
+      {
+        "speaker": "MURDOCK",
+        "text": "Denver Control, this is Flight two-zero- niner intersecting Victor Airway seven- niner-niner."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "...and that lots of times you don't even run down court."
+      },
+      {
+        "speaker": "MURDOCK",
+        "text": "We are turning left to a heading of zero- niner-niner."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "...and that you don't really try, except during the playoffs."
+      },
+      {
+        "speaker": "MURDOCK",
+        "text": "The hell I don't! I'm out there busting my buns every night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1598",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Hi!"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "I'm Randy."
+      },
+      {
+        "speaker": "LISA",
+        "text": "I'm Lisa. Oh, you have a guitar!"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "I thought maybe you'd like to hear a song."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Oh, I'd love to."
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Okay, this is one of my favorites."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1599",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Would either of you like another cup of coffee?"
+      },
+      {
+        "speaker": "MRS. HAMMEN",
+        "text": "I will, but Jim won't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1600",
+    "movie_id": "m13",
+    "turns": [
+      {
+        "speaker": "RANDY",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "MRS. HAMMEN",
+        "text": "Oh, Stewardess. My husband is very sick. Can you do something, please?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Well, the doctor will be with you in just a moment. One thing: do you know what he had for dinner?"
+      },
+      {
+        "speaker": "MRS. HAMMEN",
+        "text": "Yes, of course. We both had fish. Why?"
+      },
+      {
+        "speaker": "RANDY",
+        "text": "Oh, it's nothing to be alarmed about. We'll get back to you very quickly."
+      }
+    ]
+  }
+]

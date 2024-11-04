@@ -1,0 +1,2266 @@
+[
+  {
+    "conversation_id": "conv_37601",
+    "movie_id": "m265",
+    "turns": [
+      {
+        "speaker": "LYDIA",
+        "text": "Wait a minute!  What am I worried about?  Otho, you can't even change a tire!"
+      },
+      {
+        "speaker": "OTHO",
+        "text": "I'll need something personal of theirs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37602",
+    "movie_id": "m265",
+    "turns": [
+      {
+        "speaker": "LYDIA",
+        "text": "Their wedding clothes."
+      },
+      {
+        "speaker": "OTHO",
+        "text": "Their wedding clothes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37603",
+    "movie_id": "m265",
+    "turns": [
+      {
+        "speaker": "LYDIA",
+        "text": "<u>Adam</u>!  <u>Adam</u>!"
+      },
+      {
+        "speaker": "OTHO",
+        "text": "As flies the lizard Serpent fell; As goblin vizard, At the spell Of pale wizard, Sinks to hell; The buried, dead, and slain... Rise again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37604",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "The injection will ease the pain and swelling, Mr. Gardiner."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I understand. I've seen it done before."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Now, you'll barely feel this. It won't hurt at all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37605",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "You were wrong, it did hurt."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "But not for long..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37606",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "It's good that there was no apparent damage to the bone."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I think so, too."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "However, with injuries such as this, I have run into minor hemorrhaging, which really isn't too serious at the time, but can cause secondary problems if not looked after."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37607",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "You can pull your trousers up, now."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Oh, fine."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Just to take the proper precautions, Mr. Gardiner, I'd recommend we take you downstairs and X-ray your leg.  ... By the way, Mr. Gardiner, I would like to ask you something straight out."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "... Straight out?"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Yes. Are you planning on making any sort of claim against the Rand's?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Claim...? ... Oh, claim, that's what Thomas asked me."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Thomas? Who's Thomas?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thomas Franklin, an attorney."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "An attorney?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Then you wish to handle this matter through your attorneys?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "There's no need for a claim, the garden is a healthy one."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Oh, I see...  ... Well, then... You're a very funny man, Mr. Gardiner. You caught me off guard, I must admit..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Good, keep your weight off that leg, Mr. Gardiner. In fact, it would be best if you could stay here for a day or two, if that would be would be possible. Since Benjamin became ill we have our own hospital downstairs. I can promise you the finest in care, unless, of course, you would prefer to go elsewhere."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, I could stay here. Thank you."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Fine. Would you like me to speak to your personal physician?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37608",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "I'll send Wilson up to take you for X-rays, Mr. Gardiner. Feel free to use the telephone, and please let me know if you have any discomfort."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, I will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37609",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "... And please call me Robert."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Robert. I will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37610",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "Chauncey, there you are. What are you doing on that leg?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "It's fine today, Robert."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Shame on you, Chauncey - you should let me be the judge of that.  Please, sit in the chair."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37611",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "I swear, Chauncey, between you and Benjamin, I've got my hands full...  ... Say, that is coming along, the swelling has gone down considerably...  ... Any pain here?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Robert. But it's not bad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37612",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "... Benjamin has been hounding me to allow him to address the annual meeting of his Financial Institute today, but obviously, the strain would be impossible... How about here, Chauncey, any soreness?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Hardly any, Robert."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37613",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "... Were you going somewhere?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No, Robert."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "... Oh.  ... My God, I only wish that Benjamin had your recuperative powers... Anyway, the President offered to sit in for Ben at the meeting, quite a nice gesture, I felt. He's due here soon, I believe."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Robert. I know about the President."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "... Oh? You've heard?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. Ben called me. He wants me to meet the President."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "He does, does he?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Ben told me to be in his room at ten o'clock."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Why, that's terrific, Chauncey."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "How do I know when it's ten o'clock?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37614",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "... It's five of, you'd best get on in there."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you, Robert."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37615",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "I would like to walk today."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Hell yes - walk. You're meeting the President, aren't you?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Oh, really?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37616",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "... He's gone, Chauncey."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Robert. I have seen it before. It happens to old people."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Yes, I suppose that's true."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37617",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "Will you be leaving now, Robert?"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "In a day or two, yes."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Eve is going to stay. The house will not be closed."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "... You've become quite a close friend of Eve's - haven't you Mr...  ... Chance...?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I love Eve very much."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "I see...  ... And you are really a gardener, aren't you?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Robert - I am.  I'll go tell Eve about Ben now, Robert."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37618",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "I know exactly what you mean. Today the businessman is at the mercy of kid-lawyers from the SEC. All they want to do is regulate our natural growth! It's happening across the country!"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "To everyone, I'm afraid. The Government controls are so restricting that the Medical Profession, as we know it, is being legislated out of existence."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Of course! By kid-lawyers!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37619",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "... No, of course you don't. Excuse me for being so presumptuous. No man knows everything about another man - however, very few are honest enough to admit it."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "That is so true. You're different, Chauncey... Quite different than most men."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37620",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "Some pain is to be expected...  ... And I think what would be best for the two of you is a good night's rest.  ... It's late, I'm afraid it's time for my patients to prepare for bed."
+      },
+      {
+        "speaker": "RAND",
+        "text": "We have common foes, Chauncey - kid lawyers and our physician!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37621",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "And you, Benjamin, must be strong and brave for me. Turn over, please."
+      },
+      {
+        "speaker": "RAND",
+        "text": "In a minute, Robert - in a minute... Chauncey, I would like to ask a favor of you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37622",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "No more, Robert... No more needles..."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "It's not good, Ben - I'm sure you can feel it."
+      },
+      {
+        "speaker": "RAND",
+        "text": "I know, Robert... But, strangely enough, I don't feel too bad about now... I feel all right... I guess it's easier... knowing Chauncey is here... to take care of things..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37623",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "Good God, Eve - you'll freeze out here."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I wanted some fresh air, Robert. How is Mr. Gardiner?"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "A rather large contusion, but I don't feel there is any serious damage. I'd like to keep an eye on him, though - I suggested that he stay here for a couple of days."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Stay here? Is that necessary?"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Not necessary, but preferable. I don't think he'll be a bother, he seems like a most refreshing sort of man."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Yes, he is different... Not the kind of person one usually meets in Washington."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "How true. Mr. Gardiner may be a welcome change of pace."
+      },
+      {
+        "speaker": "EVE",
+        "text": "He's very intense, and internal, don't you think?"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "At times, yes. But that's not an uncommon reaction to such an accident. Actually, I found him to have quite a sense of humor."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Good. It might be pleasant for a couple of days.  ... Robert... Is there any improvement...?"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "No, Eve... I'm sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37624",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "... Eve - this has been an exhausting day for Ben..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... But he's...?"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "He's resting comfortably now. There's no cause for alarm, yet..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37625",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "ALLENBY",
+        "text": "... He walked off..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Chauncey is so sensitive... He was overcome with grief..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37626",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... Do you think we should look for him?"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "I don't think so, he should be along soon..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I wish he were here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37627",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "We have to find him, Robert - he could be lost, something may have happened, we can't leave him!"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "You really care for him, don't you, Eve?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "I do - we do - both of us, Ben and I feel so much for Chauncey..."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "I think we'd better go look for him.  David!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37628",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "FRANKLIN",
+        "text": "... And he told us that he had been living there since he was a child, working as a gardener. He showed us a room in the garage, where he said he stayed, and I... Well, I didn't really believe him, of course - but why the act?"
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "I have no idea..."
+      },
+      {
+        "speaker": "FRANKLIN",
+        "text": "Another thing that baffles me, Doctor - what was his connection with the deceased? Major financial dealings, obviously - but our firm has no record of any such transactions."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Hmmm. You say he showed you his garden?"
+      },
+      {
+        "speaker": "FRANKLIN",
+        "text": "Well, he said it was his, he walked us through it."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "I see.  Mr. Franklin, I must ask you and Miss Hayes to keep this incident with Mr. Gardiner to yourselves. There's no telling what he was involved in, and the matter may be extremely confidential. So please, not a word."
+      },
+      {
+        "speaker": "FRANKLIN",
+        "text": "Of course, Doctor, I understand."
+      },
+      {
+        "speaker": "ALLENBY",
+        "text": "Fine. Thank you, Mr. Franklin."
+      },
+      {
+        "speaker": "FRANKLIN",
+        "text": "Certainly, glad to be of help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37629",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "PRESIDENT",
+        "text": "Gentlemen, I didn't call you here at such an hour to make accusations, I just want to explore the possibilities. Now, I have three questions; Is the man a foreign agent? Or, have we suddenly found that our methods of gathering data are grossly inefficient? Or, thirdly, have the man's files been destroyed? Now, I'd like some answers."
+      },
+      {
+        "speaker": "BALDWIN",
+        "text": "Gardiner is not a foreign agent, there are now sixteen countries investigating the man. We can rule that out."
+      },
+      {
+        "speaker": "PRESIDENT",
+        "text": "Very well... Can we rule out inefficiency...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37630",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "BALDWIN",
+        "text": "I don't think that's entirely true, Grover."
+      },
+      {
+        "speaker": "PRESIDENT",
+        "text": "And what do the boys around Intelligence think?"
+      },
+      {
+        "speaker": "BALDWIN",
+        "text": "Well, Mr. President... They don't quite know what to think."
+      },
+      {
+        "speaker": "PRESIDENT",
+        "text": "Gentlemen, needless to say, there is going to be a full Congressional investigation of your respective operations.  Good night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37631",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "Do you know Raphael?"
+      },
+      {
+        "speaker": "BILLINGS",
+        "text": "No sir, I don't believe I do."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Oh. I have a message for him."
+      },
+      {
+        "speaker": "BILLINGS",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "A Black man gave me the message."
+      },
+      {
+        "speaker": "BILLINGS",
+        "text": "Well, I still don't believe I know the man, Mr. Gardiner. Now, hold still."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37632",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "I understand. I've never seen anything like this on television."
+      },
+      {
+        "speaker": "BILLINGS",
+        "text": "Please, hold still, Mr. Gardiner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37633",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "MRS. AUBREY",
+        "text": "Mr. Gardiner, I have a telephone call for you. Sidney Courtney, the financial editor of the Washington Post."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "MRS. AUBREY",
+        "text": "Would you care to take it, sir?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37634",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "MRS. AUBREY",
+        "text": "Oh, Mr. Gardiner, I've been looking all over."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Oh, yes."
+      },
+      {
+        "speaker": "MRS. AUBREY",
+        "text": "Morton Hull, the producer of 'This Evening' just called."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, I have seen that show on television."
+      },
+      {
+        "speaker": "MRS. AUBREY",
+        "text": "Of course. They would like you to appear on the show tonight. The Vice President was scheduled, but he had to cancel, and they asked if you would be interested."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I would like to be on that show."
+      },
+      {
+        "speaker": "MRS. AUBREY",
+        "text": "Fine. They felt that since you had such close ties with the President, you would be a splendid choice.  ... Can I help you? Are you looking for something?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No. I like this attic very much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37635",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... Won't you let us do something for you? Your leg should be examined, we could take you to a hospital."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "There's no need for a hospital."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Why, there certainly is. You must see a doctor, I insist on it. Please, let us take you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37636",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I hope you're comfortable."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I am."
+      },
+      {
+        "speaker": "EVE",
+        "text": "These can be such trying situations everyone seems to make such a to-do over a simple little accident. Of course, they can be very frightening, and I must apologize for David, he's never had an accident before."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. He's a very careful driver."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... Why, yes, he is... Is your leg feeling any better?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "It's feeling better, but it's still very sore."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I see.  ... Say, would you mind seeing our family doctor?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Your family doctor?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Yes. My husband has been very ill. His doctor and nurses are staying with us. Those hospitals can be so impersonal - why, it might be hours before you are treated..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I agree."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Fine, it will save a lot of unnecessary fuss and it will be so much more pleasant for you...  David, we'll just go on home. Jeffrey, would you call and let them know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37637",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Would you care for a drink?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37638",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "I would like to watch television."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Oh? Certainly..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37639",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Oh, by the way - I'm Eve Rand."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Hello, Eve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37640",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "May I ask your name?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "My name is Chance."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Pardon me, was that Mr. Chance?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No. I'm a gardener."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Oh... Mr. Gardiner... Mr. Chauncey Gardiner... You're not related to Basil and Perdita Gardiner are you?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No, Eve. I'm not related to Basil and Perdita."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Oh. Well, they're just a wonderful couple, we've been friends for years. We visit their island quite often."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37641",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Did you lose something?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I lost my remote control."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Oh... Well, I'm very sorry..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37642",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... I'll feel so relieved after Dr. Allenby examines your leg. After that, David can run you on home, or to your office or wherever you'd prefer...  ... Is there anything special you would like to watch?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I like to watch. This is fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37643",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I can see that it must be very important for you to stay informed of all the latest events."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I admire that in a person. As for myself, I find there is so much to assimilate that it can become quite muddling at times..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37644",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Won't your injury prevent you from attending to business, Mr. Gardiner?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No. It won't do that."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... Would you like us to notify anyone for you?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No. The Old Man died and Louise left."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37645",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I hope that staying here won't be an inconvenience for you."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No. I like it here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37646",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Oh, I know exactly what you mean. I sometimes enjoy puttering around myself, such a pleasant way to forget one's troubles."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I am a very good gardener."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37647",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Chauncey, I wanted to tell you how dreadful I feel about the accident today, but that I'm delighted that you are staying with us."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you, Eve - I like this house very much."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... And Ben is just mad about you - you've lifted his spirits so - it's just... Well, it's just a real pleasure having you with us."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Ben is very ill, Eve - I've seen that before."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Yes... I know, Chauncey."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I like Ben very much... He reminds me of the Old Man..."
+      },
+      {
+        "speaker": "EVE",
+        "text": "He does...?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. Are you going to leave and close the house when he dies?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37648",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... Why... No, I don't think so..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "That's good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37649",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... Good night, Chauncey."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Good night, Eve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37650",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Chauncey!"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Hello, Eve."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Your leg must be getting better."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. It's feeling much better now."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Good. I'm glad to hear that.  ... How did you like meeting the President?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Fine. He's very nice."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Yes, he is. I'm sorry I didn't get to see him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37651",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... Chauncey... Last night you mentioned an old man, that died."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Was he a relative? Or an intimate friend?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "He was a very wealthy man, he looked after me since I was young."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Oh, I see... Your mentor, perhaps?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "... Mentor...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37652",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Forgive me, Chauncey - I didn't mean to pry. You must have been very close to him."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I was."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I'm sorry...  ... And what about Louise? YOU mentioned that she had gone, were you close to her also?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I liked Louise very much. She was his maid."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Oh, his maid!... Stupid me, I thought perhaps she was someone that you may have been romantically involved with."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Oh, no. She brought me my meals."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37653",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "What is that?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "Our greenhouse."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Oh, I like that very much."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Yes, so do we."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37654",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... I'm...  ... I'm very grateful that you're here, Chauncey...  ... With us ..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "So am I, Eve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37655",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I'll be all right, Chauncey you go ahead with Mrs. Aubrey..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Eve. You'll be all right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37656",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Chauncey..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Hello, Eve."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Chauncey, I just wanted to wish you well. I know you'll be smashing."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you, Eve."
+      },
+      {
+        "speaker": "EVE",
+        "text": "And Benjamin sends along his best wishes."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "How is Ben feeling?"
+      },
+      {
+        "speaker": "EVE",
+        "text": "He's tired, Chauncey - but he's going to watch you tonight. We'll both be watching."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "That's good. I like to watch, too."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I know you do - you and your television...  ... Good luck, Chauncey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37657",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... You don't happen to have a tuxedo in your suitcase, do you?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No, thank you."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Oh. Well, we can fix up one of Ben's for you tomorrow night. Sophie insists an Black Tie."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I see."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... I have very few friends, Chauncey... And Benjamin's friends are all quite a bit older..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37658",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... Good night, Chauncey."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Good night, Eve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37659",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Chauncey! Have you seen the papers?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No, Eve. I don't read the papers."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Well, it seems you've been described as one of the architects of the President's speech. And your own comments from the 'This Evening' show are quoted side by side with the President's."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I like the President. He is a very nice man."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I know...  ... So are you, Chauncey ...  ... Do you mind my being here, like this?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No, Eve. I like you to be here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37660",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... You know, Chauncey... I want us to be...  I want us... You and I to become... close... I want us to become very close, you know...?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Eve. I know that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37661",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "... I'm grateful to you, Chauncey... I would have opened to you with a touch, and you know that...  ... But you're so strong - I can trust myself with you. I'm glad, Chauncey - I'm glad that you showed so much restraint..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Eve. I'm very glad that you didn't open."
+      },
+      {
+        "speaker": "EVE",
+        "text": "I know you are, Chauncey...  ... You conquer a woman from within herself, you infuse in her the need and desire and the longing for your love."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. That could be true."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... I guess I may as well be honest about my feelings, Chauncey, as I know you are I am in love with you... I love you and I want you... And I know that you know it and I'm grateful that you've decided to wait until... Until..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37662",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I've never seen anyone handle the media as well as you, Chauncey. You're so cool and detached - almost as if you were born to it."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you, Eve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37663",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Chauncey, this is Mr. Dennis Watson of the State Department."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Hello, Dennis."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37664",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Chauncey, where have you been? I was afraid you got bored and left, or that you were with some mysterious woman."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No. I was with a man. We went upstairs."
+      },
+      {
+        "speaker": "EVE",
+        "text": "Upstairs? Chauncey, you're always involved in some sort of discussion..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "He was very ill, I stayed with him for a while."
+      },
+      {
+        "speaker": "EVE",
+        "text": "It must be the punch, and it is stuffy in here -- I feel it a little myself. You're an angel, my dear - thank God there are still men like you around to give aid and comfort."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37665",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I feel so close to you, so safe with you, Chauncey...  ... And Benjamin understands that, dearest... He understands and accepts my feelings for you..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Eve. Ben is very wise."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... Come in, Chauncey - please come in..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37666",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "I just don't excite you at all... I don't know what you want... I don't know what you like..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I like to watch."
+      },
+      {
+        "speaker": "EVE",
+        "text": "To watch...? To watch me...?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I like to watch."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... Is that all you want...?  ... To watch me...?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. It's very good, Eve."
+      },
+      {
+        "speaker": "EVE",
+        "text": "... But I've never done...  ... You mean...? When... When... When I do it? ... When I touch myself...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37667",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Dearest, you uncoil my wants; desire flows within me, and when you watch me my passion dissolves it. You set me free. I reveal myself to myself and I am drenched and purged."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "That's very interesting, Eve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37668",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Chauncey! Chauncey!"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Hello, Eve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37669",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "EVE",
+        "text": "Oh, Chauncey, darling... Where have you been? We thought we'd lost you - we've been looking all over!"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I've been looking for you, too, Eve."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37670",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "COURTNEY",
+        "text": "Hello, Mr. Gardiner. This is Sid Courtney, Washington Post."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Hello, Sid."
+      },
+      {
+        "speaker": "COURTNEY",
+        "text": "I'm sorry to disturb you, Mr. Gardiner, I know you must be very busy."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No. I'm not busy."
+      },
+      {
+        "speaker": "COURTNEY",
+        "text": "Then, I'll be brief. I covered the President's speech at the Financial Institute today, and since the Post would like to be as exact as possible, we would appreciate your comments on the meeting that took place between Mr. Rand, the President and yourself."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "The President is a nice person. I enjoyed it very much."
+      },
+      {
+        "speaker": "COURTNEY",
+        "text": "Good, sir. And so, it seems, did the President - but we would like to have some facts; such as, uh... What exactly is the relationship between yourself and that of the First American Financial Corporation?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I think you should ask Mr. Rand that."
+      },
+      {
+        "speaker": "COURTNEY",
+        "text": "Of course. But since he is ill I'm taking the liberty of asking you."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, that is correct. I think you should ask Mr. Rand that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37671",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "COURTNEY",
+        "text": "I see. Then one more quick question, Mr. Gardiner; since we at the Post would like to, uh - update our profile on you - what exactly is your business?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I have nothing more to say."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37672",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "HULL",
+        "text": "Mr. Gardiner, I'm Morton Hull, the producer of 'This Evening.'"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Hello, Morton."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37673",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "HULL",
+        "text": "Of course, Mr. Gardiner, the fact that you occupy such a position in the world of finance makes you ideally suited to provide our millions of viewers with an explanation of this nation's economic crisis."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I see."
+      },
+      {
+        "speaker": "HULL",
+        "text": "Do you realize, Mr. Gardiner, that more people will be watching you tonight than all those who have seen theater plays in the last forty years?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. It's a very good show."
+      },
+      {
+        "speaker": "HULL",
+        "text": "I'm glad you like it, Mr. Gardiner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37674",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "DENNIS' VOICE",
+        "text": "Can you see well?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, very well, thank you."
+      },
+      {
+        "speaker": "DENNIS' VOICE",
+        "text": "Do you like it?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. It's very tiny, but it's good."
+      },
+      {
+        "speaker": "DENNIS' VOICE",
+        "text": "... Are you sure you like it?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, I do, it's very good."
+      },
+      {
+        "speaker": "DENNIS' VOICE",
+        "text": "Really? Really!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37675",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "Do you need a doctor? I could call Robert..."
+      },
+      {
+        "speaker": "DENNIS' VOICE",
+        "text": "I don't want Robert."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I see."
+      },
+      {
+        "speaker": "DENNIS' VOICE",
+        "text": "Your foot! Give me your foot!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37676",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "SKRAPINOV",
+        "text": "You must sit with us, my friend, we have much to discuss."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I agree."
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "How is my dear friend Benjamin feeling?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37677",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "SKRAPINOV",
+        "text": "Regretfully, Mrs. Rand - I shall yield the pleasure of your company to others."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Eve. I shall yield too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37678",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "SKRAPINOV",
+        "text": "I'm sorry we haven't met sooner, Mr. Gardiner. I had the pleasure of seeing you on television last night and I listened with great interest to your down-to-earth philosophy. I'm not surprised that it was so quickly endorsed by the President.  ... Tell me, Mr. Gardiner, just how serious is Benjamin's illness? I did not want to upset Mrs. Rand by discussing it in detail."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Ben is very ill."
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "Yes, so I've heard, a shame... As you know, we in the Soviet Union have the keenest interest in developments of the First American Financial Corporation... We are pleased to hear that you may fill Benjamin's place should he fail to recover.  Be seated, please, Mr. Gardiner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37679",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "SKRAPINOV",
+        "text": "... Mr. Gardiner, I wish to be quite candid - considering the gravity of your economic situation, shouldn't we, the diplomats, and you, the businessman - get together more often?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, I agree, I think so too."
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "To exchange our thoughts - what does a Russian know about business? On the other hand, what does an American know about diplomacy?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, I understand."
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "And I have noticed in you a certain reticence regarding political issues - so why not a coming together? An interchange of opinion? We may find, my friend, that we are not so far from each other, not so far!"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "We are not far...  ... our chairs almost touch."
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "Bravo! Bravo! Our chairs are indeed almost touching! And we want to remain seated on them, correct? We don't want them snatched from under us, am I right? Because if one goes, the other goes, and then - boom! Boom! And we are both down before our time, you see? And neither of us wants that, do you agree?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I certainly do."
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "Yes. Tell me, Mr. Gardiner - do you by any chance enjoy Krylov's fables? I ask this because there is something... there is something Krylovian about you."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Do you think so? Do you think so?"
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "So you know Krylov!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37680",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "SKRAPINOV",
+        "text": "So you know your Krylov in Russian, do you? Mr. Gardiner, I must confess I had suspected as much all along - I know an educated man when I meet one!"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Oh, good."
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "Yes, it is very good!"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, it is.  Would you tell me your name again, please?"
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "Ho! Ho! A dash of American humor! Vladimar Skrapinov!"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I like that name very much."
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "And yours, sir - Chauncey Gardiner!  How poetic! Chauncey, a name of uncertain meaning! And Gardiner, a bit of the French, a suggestion of a stroll through the flowers! A beautiful name, my friend!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37681",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Eve. That would be good."
+      },
+      {
+        "speaker": "SKRAPINOV",
+        "text": "We must speak again, Mr. Gardiner, many times!"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37682",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "Welcome to Rand Memorial Hospital, Mr. Gardiner."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "... I see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37683",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "I feel very good in here."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Sure you do. This ward is air tight, I have a little extra oxygen pumped in, keeps my spirits up."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I like that very much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37684",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "Failure of the bone marrow to produce red blood cells... Not a damn thing they can do about it. Oh, they can make me comfortable, prolong my life with steroid therapy and transfusions... And what makes my blood boil, what little I have left, that is, Mr. Gardiner - is that it's generally a young person's disease... Here I am, getting on in years and about to die of a young person's disease..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. You look very sick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37685",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "... We're prisoners, Mr. Gardiner - we're prisoners of tubes and technology."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I agree."
+      },
+      {
+        "speaker": "RAND",
+        "text": "... You will join us for dinner, won't you, Mr. Gardiner?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I am very hungry."
+      },
+      {
+        "speaker": "RAND",
+        "text": "... So am I, my boy - so am I."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37686",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "No, thank you. My house has been closed."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Oh. When you say 'Your house has been closed', you mean to say that your business was shut down?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. Shut down and locked by the attorneys."
+      },
+      {
+        "speaker": "RAND",
+        "text": "What'd I tell you? Kid-lawyers! The S.E.C.! Damn them!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37687",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "That's good, Mr. Gardiner. Or may I call you Chauncey?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. Chauncey is fine."
+      },
+      {
+        "speaker": "RAND",
+        "text": "And I'm Ben."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37688",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "Do we have a garden? Hah! Tomorrow, Chauncey, you will see our gardens."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I see. I would like to work in your garden."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37689",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "A gardener! Well put, Chauncey excellent! Isn't that what a businessman is? A gardener? A person that makes flinty soil productive with the labor of his own hands, who waters it with the sweat from his own brow, and who creates a place of value for his family and community? Yes, Chauncey, what a brilliant metaphor -- yes, indeed, a productive businessman is a laborer in his own vineyard."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you, Ben. The garden that I left was such a place. Everything which grew there was with the labor of my own hands. I planted seeds and watered them and watched everything grow."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Bravo!"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "But I don't have that any more...  ... All that's left for me now is the room upstairs."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Now, wait a minute, Chauncey you are young, you are healthy, for God's sake don't give up on yourself! You have to fight! You can't let those bastards keep you down! I don't want to hear any more from you about the 'Room Upstairs'. That's where I'm going soon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37690",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "It's a very pleasant room, Ben."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Yes, I'm sure it is. That's what they say, anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37691",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "No, Ben."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Reluctant to speak, eh, Chauncey? Well, I can understand that. When a man loses everything, anger has a tendency to block out reason for a time. Just give it some thought, work with the idea, I'm sure you'll have plenty to say in a few days."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I could give it some thought, Ben, but my leg is very sore."
+      },
+      {
+        "speaker": "RAND",
+        "text": "... Oh?  Robert, take a look, would you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37692",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "Chauncey, up and around this morning, are you?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Ben. My leg is not very sore."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Well, that's good news, my boy."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "You're looking much better today, Ben."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Hah! It's all make-up, Chauncey... I asked nurse Teresa to fix me up, I didn't want the President to think I was going to die during our talk."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I understand."
+      },
+      {
+        "speaker": "RAND",
+        "text": "No one likes a dying man, my boy - because few know what death is. All we know is the terror of it. But you're an exception, Chauncey - that's what I admire in you, your marvelous balance. You don't stagger back and forth between fear and hope - you're a truly peaceful man."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you, Ben.  ... The nurse did a very good job, Ben."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37693",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "Yes, when I was younger I had thoughts about public office... But I found, Chauncey - that I was able to contribute more as a private citizen... of course, my wealth provided me with considerable influence, but I've tried, believe me, not to misuse that power... It's extremely important, Chauncey, when one is in a position of eminence, that he does not allow himself to become blinded to the needs of the country... The temptations are strong, and I've been labeled a 'kingmaker' by many, but I have tried to stay open to voices of the people... I have tried to remain honest to myself..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I see, Ben."
+      },
+      {
+        "speaker": "RAND",
+        "text": "... Maybe one day you shall find yourself in a similar position, Chauncey... Maybe one day..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37694",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "I think what my most insightful friend is saying, Mr. President, is that we welcome the inevitable seasons of nature, yet we are upset by the seasons of our economy."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. That is correct."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37695",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "He's a decent fellow, the President, isn't he?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Ben - he is."
+      },
+      {
+        "speaker": "RAND",
+        "text": "He was quite impressed with your comments, Chauncey - he hears my sort of analysis from everyone, but yours, unfortunately - seldom if ever at all."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I'm glad he came, Ben. It was nice talking to the President."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37696",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "... You know, Chauncey, there's something about you... You're direct, you grasp things quickly and you state them plainly. You don't play games with words to protect yourself. I feel I can speak to you frankly... You know what I was talking to you about last night?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "No, Ben."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Oh, sure you do, the financial assistance program. I think you might be just the man to take charge of such an undertaking. I'd like you to meet with the members of the Board, we'll be able to discuss the matter at greater length at that time."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I understand."
+      },
+      {
+        "speaker": "RAND",
+        "text": "And, please, Chauncey - don't rush your decision. I know you're not a man to act on the spur of the moment."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Thank you, Ben."
+      },
+      {
+        "speaker": "RAND",
+        "text": "And now, Chauncey, I'm afraid you must excuse me - I'm very tired all of a sudden."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37697",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "CHANCE",
+        "text": "Certainly, Ben."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Senator Rowley's widow, Sophie, is hosting an evening reception tomorrow evening honoring Ambassador Skrapinov of the Soviet Union... I think it's rather obvious that Robert won't allow me to attend, so - would you go in my place, and escort Eve?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I would like to escort Eve."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Good. Together, the two of you should create quite a stir - I can already hear the gossip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37698",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "... Chauncey... Chauncey..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes, Ben - are you going to die now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37699",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "RAND",
+        "text": "... I'm about to surrender the Horn of Plenty for the Horn of Gabriel, my boy..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Oh, I see."
+      },
+      {
+        "speaker": "RAND",
+        "text": "Let me feel the strength in your hand, Chauncey... Let me feel your strength...  Yes, that's good... I hope, Chauncey - I hope that you'll stay with Eve... Take care of her, watch over her, she's a delicate flower, Chauncey..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "A flower..."
+      },
+      {
+        "speaker": "RAND",
+        "text": "She cares for you and she needs your help, Chauncey... there's much to be looked after..."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I would like to do that."
+      },
+      {
+        "speaker": "RAND",
+        "text": "... I've worked very hard and enjoyed my life... I've known success... and I've felt love... My associates, Chauncey - I've talked with them about you... They're eager to meet you... very eager to meet you... I'm very fond of you, Chauncey... And I understand Eve... Tell her that... tell her I'm madly in love with her..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_37700",
+    "movie_id": "m266",
+    "turns": [
+      {
+        "speaker": "DENNIS",
+        "text": "We could do it now, we can go upstairs.  ... Please, it's time for us. Come upstairs."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I like to watch."
+      },
+      {
+        "speaker": "DENNIS",
+        "text": "Watch? You mean just watch me? Doing it alone?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes. I like to watch very much."
+      },
+      {
+        "speaker": "DENNIS",
+        "text": "Well, if that's what you want, then I want it too.  We can go this way."
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "I want to tell Eve."
+      },
+      {
+        "speaker": "DENNIS",
+        "text": "Tell Eve? You mean Mrs. Rand?"
+      },
+      {
+        "speaker": "CHANCE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DENNIS",
+        "text": "Oh, you can tell her later. She'll never miss you in this crowd."
+      }
+    ]
+  }
+]

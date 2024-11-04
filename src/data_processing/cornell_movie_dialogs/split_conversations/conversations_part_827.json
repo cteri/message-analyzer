@@ -1,0 +1,1822 @@
+[
+  {
+    "conversation_id": "conv_82619",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "ZUKOVSKY",
+        "text": "No! Bond!"
+      },
+      {
+        "speaker": "CHRISTMAS",
+        "text": "Bond!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82620",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "CHRISTMAS",
+        "text": "What is this place?"
+      },
+      {
+        "speaker": "ZUKOVSKY",
+        "text": "Former KGB surveillance post. The Dye Factory was just a front; now it turns a good profit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82621",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "ZUKOVSKY",
+        "text": "In the good old days, the KGB had three or four spots where our submarines could surface without anyone knowing. But Yevgeny is supposed to be loading cargo."
+      },
+      {
+        "speaker": "CHRISTMAS",
+        "text": "What class sub does your nephew run?"
+      },
+      {
+        "speaker": "ZUKOVSKY",
+        "text": "C-class."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82622",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "M",
+        "text": "Ill send someone out."
+      },
+      {
+        "speaker": "ELEKTRA",
+        "text": "Could...could you come?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82623",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "M",
+        "text": "Perhaps this isnt the time..."
+      },
+      {
+        "speaker": "ELEKTRA",
+        "text": "Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82624",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "ELEKTRA",
+        "text": "Your people? Your people will leave you here to rot just like you left me. You and my father. He didnt think my life was worth the chump change he spent on a day at the stock market."
+      },
+      {
+        "speaker": "M",
+        "text": "Your father..."
+      },
+      {
+        "speaker": "ELEKTRA",
+        "text": "Is nothing.  His kingdom he stole from my mother. The kingdom I will rightly take back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82625",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "ELEKTRA",
+        "text": "Now you know how it feels.  To be locked away, to wonder if theyre coming for you, if anyone will ever come for you."
+      },
+      {
+        "speaker": "M",
+        "text": "Someone will come."
+      },
+      {
+        "speaker": "ELEKTRA",
+        "text": "Who?  Bond?  Bond is dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82626",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "ELEKTRA",
+        "text": "Warm."
+      },
+      {
+        "speaker": "RENARD",
+        "text": "Is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82627",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "RENARD",
+        "text": "So beautiful. So smooth, so warm."
+      },
+      {
+        "speaker": "ELEKTRA",
+        "text": "How would you know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82628",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "RENARD",
+        "text": "Why are you like this?  Because Bond is dead?  Its what you wanted."
+      },
+      {
+        "speaker": "ELEKTRA",
+        "text": "Of course..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82629",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "RENARD",
+        "text": "He was a...good lover?"
+      },
+      {
+        "speaker": "ELEKTRA",
+        "text": "What do you think?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82630",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "RENARD",
+        "text": "This is the end."
+      },
+      {
+        "speaker": "ELEKTRA",
+        "text": "No.  It is the beginning. The world will never be the same."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82631",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "ELEKTRA",
+        "text": "Everythings under control up here.  Are you ready?"
+      },
+      {
+        "speaker": "RENARD",
+        "text": "Yes.  Au revoir..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82632",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "M",
+        "text": "Weve been pawns in someones game. They tricked us into bringing the money to King. Not just elaborate.  Cock-sure."
+      },
+      {
+        "speaker": "TANNER",
+        "text": "And expensive.  Cost three million plus."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82633",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "M",
+        "text": "Do we have the range of Renards plane?"
+      },
+      {
+        "speaker": "TANNER",
+        "text": "Anywhere in this circle.  Iran, Iraq, Pakistan, Syria, Afghanistan..."
+      },
+      {
+        "speaker": "M",
+        "text": "Marvellous."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82634",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "M",
+        "text": "The parcels in the post."
+      },
+      {
+        "speaker": "TANNER",
+        "text": "Its heading for the oil terminal."
+      },
+      {
+        "speaker": "M",
+        "text": "Where it can do the most damage."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82635",
+    "movie_id": "m611",
+    "turns": [
+      {
+        "speaker": "M",
+        "text": "Any word from him?"
+      },
+      {
+        "speaker": "TANNER",
+        "text": "Still no contact yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82636",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Major Adamson, I can't seem to get in the door."
+      },
+      {
+        "speaker": "ADAMSON",
+        "text": "Laurie, I'll have to ask you to come with me."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Why?  What's the problem?"
+      },
+      {
+        "speaker": "ADAMSON",
+        "text": "I can't tell you that.  It is quite urgent."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "I would like to use the bathroom --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82637",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "ADAMSON",
+        "text": "The access code's been changed.  Your card won't work anymore."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "What?!"
+      },
+      {
+        "speaker": "ADAMSON",
+        "text": "Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82638",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "PRESIDENT",
+        "text": "What about our end?"
+      },
+      {
+        "speaker": "ANALYST",
+        "text": "Well, sir . . . in a worst-case scenario . . . we'd assume that twenty-five percent of the Russian birds get through."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82639",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "PRESIDENT",
+        "text": "What kind of time frame are we talking about?"
+      },
+      {
+        "speaker": "ANALYST",
+        "text": "Thirty minutes maximum.  Of course, I assume we'd be in the fortified command bunker at the time of the launch order."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82640",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "ANALYST",
+        "text": "As you can see, we may be able to salvage a good-sized chunk of the farm belt."
+      },
+      {
+        "speaker": "PRESIDENT",
+        "text": "What about the aftermath?  This so-called . . . \"nuclear winter\" theory?"
+      },
+      {
+        "speaker": "ANALYST",
+        "text": "We don't really know, sir, but bluntly, our survival capability . . . may depend on a quirk of the weather."
+      },
+      {
+        "speaker": "PRESIDENT",
+        "text": "The weather.  I see.  Keep me posted.  I want hourly forecasts and a full report on optimum strike conditions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82641",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "BURNS",
+        "text": "Had a lot of blood in him."
+      },
+      {
+        "speaker": "HYDE",
+        "text": "You oughta see upstairs.  It's a slaughterhouse."
+      },
+      {
+        "speaker": "BURNS",
+        "text": "No idea who's behind this?"
+      },
+      {
+        "speaker": "HYDE",
+        "text": "Small army, from the looks of it.  He put up one hell of a fight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82642",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "BURNS",
+        "text": "He would -- You might as well know.  It's gonna get messy.  We got a call from Washington."
+      },
+      {
+        "speaker": "HYDE",
+        "text": "Washington?"
+      },
+      {
+        "speaker": "BURNS",
+        "text": "They want in.  Seems our friend here was hardcore CTU."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82643",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. LONG",
+        "text": "Walter --"
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Don't call me that."
+      },
+      {
+        "speaker": "DR. LONG",
+        "text": "Walter -- you're just telling me what you think I want to hear."
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Wrong answers?"
+      },
+      {
+        "speaker": "DR. LONG",
+        "text": "There's no right or wrong.  But if you don't give me an honest response, I can't help you.  I want to help you.  I want to know all about you."
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Hnnrr.  -- Like to masturbate.  Shit once a day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82644",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "RORSCHACH",
+        "text": "A whore fucking."
+      },
+      {
+        "speaker": "DR. LONG",
+        "text": "Who is she?  Do you know her?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82645",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. LONG",
+        "text": "And what -- split -- the dog's skull open?"
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Why, doctor.  I did.  He was a bad dog."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82646",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. LONG",
+        "text": "Walter.  This compulsion of yours -- to punish transgressors.  In your mind . . . what gives you the right to judge?"
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "God isn't there to do it."
+      },
+      {
+        "speaker": "DR. LONG",
+        "text": "We don't know that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82647",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. LONG",
+        "text": "That man, then, he was the first.  The first you --"
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Saw the world that night -- random, empty, hideous.  God didn't make it that way.  We did.  We make the world -- in our own image.  What else can I illuminate?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82648",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "VEIDT",
+        "text": "Hi, Jon."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Hello, Adrian."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82649",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "The bearer of bad news."
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "We've lost a colleague.  The Comedian is dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82650",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "VEIDT",
+        "text": "Rorschach's on the case.  He's got Dreiberg in a lather.  He seems to think that someone is \"stalking\" the Watchmen."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Oh?  The CTU suspects a Libyan hit squad."
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "What's your theory?"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Life and death are unquantifiable abstracts.  They don't concern me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82651",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "VEIDT",
+        "text": "I guess you'll be dismantling Russian tanks soon."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "You mean Afghanistan?  It won't require my attention.  What I'm doing here is far more interesting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82652",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "WHAT ARE YOU DOING, VEIDT?"
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "Jon!  Get back!  You don't understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82653",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Blake?  Dead?"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Yes.  I heard this morning.  Washington's asked me to attend the funeral as a matter of protocol."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82654",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "I'm here, Laurie."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Is it time?  D'you have to leave for the funeral?"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Not yet, there's plenty of time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82655",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Would you like me to stay?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Mm hmm."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "I could stay and go."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": ". . . And just how would you manage that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82656",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "I'm not here.  I'm still on Mars.  I've come to collect you."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Collect me?"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "In the immediate future we're on Mars.  I'm telling you goodbye. You're trying to convince me to cure your illness . . ."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Jon, no -- I can't --"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "It will happen, Laurie.  I've already seen it.  Neither of us can do anything to change it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82657",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "The atmosphere.  I'm sorry.  These things slip my mind."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Jesus, Jon, I nearly choked to -- where are we --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82658",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "This whole place is ticking.  Does it -- keep time?"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Yes.  In about . . . thirty seconds, for example, you'll tell me you're sleeping with Dreiberg."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "You -- you know about me and Dan?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82659",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Jon, does anybody know what the hell you're talking about?  Dan's just an ordinary guy, but he talks to me.  When he looks at me he's seeing something more than just a -- a collection of atoms."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Then you're sleeping with Dreiberg?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Well, I just, you just said -- don't act surprised."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "That's how time works, Laurie.  Everything is preordained . . . even my responses.  We're all puppets.  I'm just a puppet who can see the strings.  -- Thirty seconds."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82660",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Jon -- there's something I have to know.  Did you love me once?"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Yes, I loved you.  I left the earth when I lost you."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Yet you must've known all along that you'd give me cancer.  Just be being with me."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "I didn't give you cancer, Laurie.  Not you, not the others.  I don't know what did."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "But you knew that I'd -- die."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Memories of the future are just like any others.  I've tried not to dwell on the unpleasant ones . . .  You won't die of cancer, Laurie.  There won't be time for that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82661",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Then it's going to happen.  The world's going to end.  -- And you've always known."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Always.  Ever since the day I died."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82662",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Then why don't you . . . do something about it!"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Because --"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Because you can't, I know, it's preordained.  So sorry.  I forgot.  Jon.  This, this \"script\" you're following . . . who writes it?"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "I don't know yet.  I should be able to tell you in -- roughly six hundred years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82663",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "I can't stand any more of this.  I want to go back.  If I'm going to die I want to be with -- other people."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Please, Laurie.  Not yet.  I've got eons stretching before me, a universe to explore.  I'll be alone.  You're the last human being I'll ever see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82664",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Jon, I do not want to hear it."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "I'm sorry.  Look -- there's a gas storm on the Valles Marineris . . ."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Oh God.  I'm no more than a bug on a windshield to you."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "You're the only human being I care for."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Then do me a favor.  If the world's going to end, it shouldn't matter a bit.  I want you to cure me."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "I won't do that."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "You have the power to do it.  I want you to do it.  Please."
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "I explained this.  I can't.  That's not the way it happens."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Jon.  If you ever loved me -- if there's anything human left in you -- then do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82665",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "What -- am I --"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Cured, yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82666",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "It¹s very strange.  Time¹s flowing backwards . . ."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Jon -- what??"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "The south pole.  Time¹s flowing backwards."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82667",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Jon, where are we?"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Veidt¹s complex."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82668",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Jon --"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "Space and time.  I finally understand, Laurie.  I see it all now."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Jon -- for God¹s sake, what do you see?"
+      },
+      {
+        "speaker": "DR. MANHATTAN",
+        "text": "I see what the watchmaker made.  I see the universe!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82669",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "The Comedian.  He's dead.  Murdered.  That's all I know."
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "My God.  Murdered?  -- What's this have to do with Rorschach?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "It's -- he's got some kind of conspiracy theory.  He thinks someone's . . . I don't know, stalking us."
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "Us.  You mean the Watchmen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82670",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "I know, I know, it's just -- he's back on the street, he smells blood."
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "You know how he is.  He goes on these binges, kills a couple of thugs -- then he's satisfied.  It blows over."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "He's bound to get caught.  I don't want my name coming out.  Not at this late date."
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "If he comes here, I'll handle him.  Remember -- I've always protected you.  Haven't I?  Do you need money?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "No.  I just wanted you to --"
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "You did the right thing, Daniel.  Let's stay in touch, okay?  Good night."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Good night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82671",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "Who?"
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "I don't know, but . . . in the wake of all that's happened, I'm starting to think Rorschach may have been right.  Is Laurie okay?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "She's with me."
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "Good.  Be careful, Daniel, don't let up your guard.  Look, I'm going to head south for a while -- hole up at Karnak until all this blows over.  You two would be welcome to join me."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Thanks for the offer, Adrian.  I'll let you know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82672",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "VEIDT",
+        "text": "Yeah.  See, I've been working on a little project.  Top secret, of course . . ."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "The missing scientists."
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "Uh huh.  You might recognize the names.  Quite a few of them worked at Gila Flats."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82673",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "What??"
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "I couldn't let him interfere with my project."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82674",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "VEIDT",
+        "text": "It is  Jon.  Twenty-four years ago.  Before he turned into Dr. Manhattan."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Good Lord.  How'd you get it on tape?"
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "It's not on tape.  It's live.  We're watching it happen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82675",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "VEIDT",
+        "text": "Gentlemen, the past.  Unfolding before your eyes.  Stand back from the field.  It'll blow you to bits."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "What is it?  How does it work?"
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "It's a tachyon chamber.  It generates subatomic particles which flow backward in time.  There are other worlds, Daniel, other timelines -- existing parallel to our own --"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Adrian -- you've lost it."
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "I've seen them!  I've seen them in there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82676",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "VEIDT",
+        "text": "Don¹t be obtuse, Daniel.  If I kill Jon in the past, none of this will happen.  We won¹t even be here, will we?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "And what if you¹re wrong?"
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "I¹m not."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "What if you¹re wrong??"
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "Then I¹ve been a very bad boy and you¹ll have to spank me.  Christ!  I¹m doing what I have to do to save the godforsaken human race!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82677",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "VEIDT",
+        "text": "Your problem, Dan, is a lack of vision.  You spent all those years chasing after muggers, and drug dealers, and jaywalkers . . . as if the world was any better for it.  As if any of it mattered."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "You ruthless son of a bitch.  You really believe this mad-scientist bullshit is going to save the world?"
+      },
+      {
+        "speaker": "VEIDT",
+        "text": "We'd better hope so.  -- It's almost time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82678",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "Sorry, it's this thing with Blake.  I mean, you don't really think anyone's out to get us -- do you?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Dan, are you really that paranoid?  Let's face it, Eddie Blake was no Mother Teresa."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Psychotic pig.  He had it coming.  Mr. CTU . . ."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Now wait.  We all had the same option as Blake.  It was work for the government or do time."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Fine, but the Civil Terrorism Unit?  It's a fucking Gestapo!  Dirty tricks -- political assassinations --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82679",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Okay, okay.  You made your choice.  You went underground.  Some of us made other choices."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82680",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Damn straight."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Damn straight!  We were heroes."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Of course, we looked like idiots in those bondage outfits."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Well, that was Adrian's idea.  I know he's the smartest man in the world and all that, but -- talk about publicity hounds . . ."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Hey.  You remember that nut in the hockey mask?  With the asthma? What was his name . . ."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Oh yeah.  The one that used to confess to everything?  Hoping we'd beat him up?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "That's the one.  Whatever happened to him?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "He pulled it on Rorschach . . . and Rorschach dropped him down an elevator shaft."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82681",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "Christ yes, I went in for a cancer scan first thing.  Gave me a couple of rough nights, I'll tell you . . .  How about you, Laurie?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Oh, yeah.  They gave me a clean bill of health and then booted me the hell out.  No expense account.  No place to live."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "You'll find something.  -- I should go.  You and me, seeing each other, someone might put two and two together . . ."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82682",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "They're not following me, Dan.  I mean -- Jon's gone, we're right on the brink of World War III.  Nobody cares about the Watchmen."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Maybe not, but why take chances?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Dan, what are you so scared of?  I mean, me, I've spent all these years keeping Jon together, and now that it's over I feel -- I feel glad.  I'm finally free to, to go out and live my own life, and --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82683",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "Laurie, wait.  I've got a spare room.  It's empty.  If you'd like . . . LAURIE Oh Daniel, thanks, but I couldn't.  You'd just be all nervous about --"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "No, screw that.  What you were saying before, it's absolutely right.  -- I'd love to have you stay."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "You're sure?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82684",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "Oh.  No.  Sorry.  I'll be right down the hall if you want me . . . I mean, if you need some aspirin, or --"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "I'm gonna take a warm bath and sack out.  -- You've been really sweet.  Sleep tight, okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82685",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "His what?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "His . . . whatever."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "I'm not his . . . whatever.  Okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82686",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "I told you I was a little bit out of step.  A lot of the old stuff I listen to -- it never came out on crystal."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "I'd say you stalled out about forty years ago.  Nellie Lutcher -- Louis Jordan -- I've never even heard of these people."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Play one.  Educate yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82687",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "No wonder Adrian's rich.  You use that stuff?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Sure.  It works.  I mean, look at this face, Daniel.  I'm thirty-eight years old!"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "I don't mind getting older.  I'm obsolete anyway.  Why try to hide it?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "I like the way you look.  It's strange with Jon.  He doesn't age.  His face doesn't change. But you, Daniel, you look . . ."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Old?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Not at all.  You look very -- dashing.  Here, you pick one."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": ". . . What?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Pick a record.  I feel like dancing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82688",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Eight cops?  Oh, great.  A jury's gonna love that."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Are you kidding?  If they put him in jail he's dead.  He'll never get to trial."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82689",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "I just realized.  I'd never seen his face.  I guess it was just a matter of time.  He's totally -- Daniel? What's wrong?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "The Comedian . . . Jon . . . now Rorschach."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82690",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Ohh.  I could use some dinner.  Who was that on the phone?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "One more down.  Someone tried to kill Adrian.  . . . First time I've ever heard him scared."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82691",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "-- What is it."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "I know what you're thinking.  You'd be a lot safer if I weren't around."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Laurie --"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "I'm an open target, Dan.  If you're with me --"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "With any luck, the world'll end before we get ours."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82692",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Enough is enough, Daniel.  Where exactly are we?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Memory lane."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82693",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "The Owlship.  I can't believe it."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "-- I thought it was time for a routine maintenance check."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82694",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "I took her out a couple of summers back.  Scared the hell out of some cows.  -- I wonder if she'd make it down to Antarctica."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Antarctica??"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Adrian's headed down to his secret retreat.  He invited us to come along.  I've been thinking.  If things do get nasty . . . it wouldn't be a bad place to sit out a war."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Would you want to sit out a war?  I mean -- what would be left."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "You and me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82695",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Dan!  The spare costumes!  I can't believe you kept them."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Me neither.  Mine barely even fits.  The thing is, I try to remember why we did it, and I can't.  Helping people, or righting wrongs, or trying to save the world . . . I don't know.  It all seems so abstract."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82696",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "God, you sound like Jon.  -- Turn around."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "What are you up to?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Don't look.  Turn around."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82697",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "This'd better not be what I think it is."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Okay!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82698",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "What the hell -- ?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "It's a peace rally.  The CTU's just opened fire on the crowd."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Oh, Laurie.  Jesus.  No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82699",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "They're following us."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "All right.  Mission accomplished."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82700",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Missed 'em Dan.  You're aiming high!"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "I don't want to take 'em out.  Just want to keep 'em interested."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "They're practically on us . . ."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "That Detroit shit?  I'm so worried."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82701",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "What?"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "The costumes.  Am I right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82702",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "No way.  I'm not that much of a pervert."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Yes you are."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "No offense, Laurie, but it was Silk Spectre I had the crush on.  Tonight was the first time I've felt like myself in ten years."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "That's because --"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "It's because there's nothing to be afraid of anymore.  The world's about to end.  I feel like I could save it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82703",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "You're full of yourself.  What are you doing?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Long as we're on the subject of perverts . . .  I miss Rorschach.  Let's spring him."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": ". . . What??"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82704",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "What's he doing?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "I think he's going to the john."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "My God!  We bust him out of jail, in the middle of a riot, and he stops to take a --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82705",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "I beg your pardon . . . ?  Some gratitude."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Will you two lovebirds keep it down?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82706",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Welcome back, Night Owl."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "What now?  Fly south -- hook up with Adrian?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82707",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "What was he doing?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Trying to change the past.  He said it was the only way to save the world --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82708",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "He saved himself.  He changed the past."
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Where did he go?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82709",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Dan, is this -- is this New York??"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Those cars.  What year is this??"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "Everything's changed --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82710",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "LAURIE",
+        "text": "Dan -- what do we do now?"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Wherever we are, it's better than what we left.  Backs together --"
+      },
+      {
+        "speaker": "LAURIE",
+        "text": "We'll tell them what's happened.  They'll listen to reason, won't they -- ?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82711",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "RORSCHACH",
+        "text": "Hiya, pardner.  Long time no see."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Did anybody follow you?  See you come here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82712",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "Sure.  You got some kind of -- bean juice on it."
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Human bean juice.  The Comedian is dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82713",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "RORSCHACH",
+        "text": "So do I.  So do you."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Rorschach, that was a long time ago.  I mean, that -- that's just paranoia."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82714",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "RORSCHACH",
+        "text": "Maybe.  Or maybe somebody's finally caught up with us.  Somebody with a grudge.  Thought you might want to spread the word."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Hey.  Hey.  If you don't mind, use the back stairs, all right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82715",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": ". . . That was quick."
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Toilet clogged.  Short fat turd.  Let's get out of here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82716",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "DREIBERG",
+        "text": "I don't know if you heard.  A hired gunman tried to off Adrian."
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Veidt's a fool.  Tried to warn him about new information.  Sicced his mangy cat on me."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "What new information?"
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Blake investigating missing scientists for CTU.  Dr. Manhattan somehow involved . . ."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82717",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "RORSCHACH",
+        "text": "CTU.  Could be behind Dr. Manhattan frame-up."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "What do you mean, frame-up?"
+      },
+      {
+        "speaker": "RORSCHACH",
+        "text": "Obvious pattern -- all ties in --"
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Are you saying that someone would risk starting World War III just to get back at us?  What about all those poor shits with cancer?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_82718",
+    "movie_id": "m612",
+    "turns": [
+      {
+        "speaker": "RORSCHACH",
+        "text": "How do we know they've got cancer?  Could be part of massive propaganda scheme . . ."
+      },
+      {
+        "speaker": "DREIBERG",
+        "text": "Come on, Rorschach.  Gimme a break --"
+      }
+    ]
+  }
+]

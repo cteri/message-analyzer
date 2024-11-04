@@ -1,0 +1,2146 @@
+[
+  {
+    "conversation_id": "conv_57413",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Objection!"
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Your honor, I'd like to ask what this model of stability and respectability has ever succeeded at?  Mrs. Kramer, were you a failure at the longest, most important personal relationship in your life?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57414",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Objection, your honor.  The answer is, to be generous, very vague."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Can you recall any particular incident that relates to Mr. Kramer's care of his child?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57415",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "No further questions.  Thank you Mrs. Phillips."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "No questions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57416",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "So do I."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Objection!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57417",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Objection, your honor!  Counsel is harassing the witness."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Your honor, I'm only examining the man's employment record.  He pretends to fitness when he cannot hold a job."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57418",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Objection!  Your honor, counsel is raising a question that is not germane to these proceedings."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "While the child was in the care of the witness, he cut his face badly and is now scarred."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57419",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "GRESSEN",
+        "text": "Now then, Mr. O'Connor, how long did Ted Kramer work for you?"
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "Eight, almost nine years."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "And did you have a close personal relationship?"
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "And how did you find his work?"
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "It was good.  He was a hard worker, a lot of drive, a real hustler."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "And yet you fired him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57420",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "O'CONNOR",
+        "text": "Ted was a good worker.  But, ah... ... after his wife left him and he was taking care of the kid on his own, things started to change. Look, I know he had problems, I understand that.  I've got problems, everybody's got problems.  But I've got a shop to run, I can't let that kind of thing get in the way...  I guess I felt that Ted was letting his duties at home interfere with his responsibilities in the office."
+      },
+      {
+        "speaker": "GRESSEN",
+        "text": "Thank you.  I have no further questions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57421",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "INTERVIEWER",
+        "text": "Ummm, hmmm... umm, hmmm...  Well, this looks very good.. Of course  ... you understand this is the worst time of the year to look for a job."
+      },
+      {
+        "speaker": "TED",
+        "text": "What?!  What do you mean, I don't understand."
+      },
+      {
+        "speaker": "INTERVIEWER",
+        "text": "Mr. Kramer, nobody even thinks about leaving their job until after they get their Christmas bonus."
+      },
+      {
+        "speaker": "TED",
+        "text": "Look, you don't understand.  I need a job.  I've got a kid and--"
+      },
+      {
+        "speaker": "INTERVIEWER",
+        "text": "I understand and I'm absolutely sure something wonderful will turn up....  ...after the first of the year."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57422",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "INTERVIEWER",
+        "text": "There might be something at J. Walter Thompson.  But...  ...I don't think they're really serious.  The position's been open for two months and...  They may just be on a fishing expedition.  I'm sure you'll be much happier if you wait until after the first--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Call up the people at J. Walter Thompson.  Set up an appointment at four."
+      },
+      {
+        "speaker": "INTERVIEWER",
+        "text": "Mis-ter Kramer, it's...  ...almost four now.  It's the Friday before Christmas.  Nobody is going to want to--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Either you call and set up the appointment, or I'll call.  And if I call, you lose the commission."
+      },
+      {
+        "speaker": "INTERVIEWER",
+        "text": "My, we are a hot shot aren't we?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57423",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Now then, Mrs. Kramer, you said you were married seven years. Is that correct?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "In all that time did your husband ever strike you or abuse you physically in any way."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "No."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Did your husband strike or physically abuse his child in any way?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "No."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Would you describe your husband as an alcoholic?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "No."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "A heavy drinker?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "No."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Was he unfaithful?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "No."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Did he ever fail to provide for you?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "No."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Well, I can certainly understand why you left him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57424",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "I don't recall."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "How many lovers have you had-- permanently?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I don't recall."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "More than three, less than thirty- three--permanently?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57425",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "Somewhere in between."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Do you have a lover now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57426",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Is that...permanent?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I...I don't know..."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Then, we don't really know, do we, when you say \"permanently\" if you're planning to remain in New York, or even to keep the child for that matter, since you've never really done anything in your life that was continuing, stable, that could be regarded as permanent."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57427",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Whom you've seen twice in a year? Mrs. Kramer, your ex-husband, wasn't he the longest personal relationship in your life?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I suppose..."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Would you speak up, Mrs. Kramer? I couldn't hear you."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Yes."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "How long was that?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "We were married two years before the baby.  And then four very difficult years."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "So, you were a failure at the longest, most important relationship in your life."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57428",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "I was not a failure."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Oh?  What do you call it then --a success?  The marriage ended in divorce."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I consider it less my failure than his."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Congratulations, Mrs. Kramer. You have just rewritten matrimonial law.  You were both divorced, Mrs. Kramer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57429",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Were you?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57430",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "I thought you might just like to know that at five-fifteen this afternoon we were officially handed the Fire and Ice account by Revlon."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Ted, I'm leaving you."
+      },
+      {
+        "speaker": "TED",
+        "text": "That represents a gross billing in excess of two million--  What?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57431",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "My American Express...My Bloomingdale's Credit Card... My check book--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Okay, okay...What is it this time? What did I do now?..."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I took two thousand out of the savings account.  That was what I had in the bank when we got married."
+      },
+      {
+        "speaker": "TED",
+        "text": "Joanna, whatever it is, believe me, I'm sorry."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Here are the slips for the laundry and the cleaning.  They'll be ready on Saturday."
+      },
+      {
+        "speaker": "TED",
+        "text": "Now listen, before you do something you'll really regret you'd better stop and think--"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I've paid the rent, the Con-Ed and the phone bill, so you don't have to worry about them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57432",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "Look, it's not your fault, okay? It's me.  It's my fault--you just married the wrong person."
+      },
+      {
+        "speaker": "TED",
+        "text": "So we've got problems.  Everybody's got problems--that's normal--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57433",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "Ted, you're not listening to me. It's over, finished."
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm listening, Joanna--believe me, I'm listening.  My wife is walking out on me after eight years of--"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "You just don't get it, do you?  I - am - really - and - truly - leaving - you."
+      },
+      {
+        "speaker": "TED",
+        "text": "I heard you, Joanna.  I promise I heard you."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "No you didn't.  You didn't even ask about Billy."
+      },
+      {
+        "speaker": "TED",
+        "text": "What about Billy?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I'm not taking him with me."
+      },
+      {
+        "speaker": "TED",
+        "text": "What?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Ted, I can't...I tried...I really tried but...I just can't hack it anymore..."
+      },
+      {
+        "speaker": "TED",
+        "text": "C'mon, Joanna, you don't mean that.  You're a terrific mother--"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I am not!  I'm a terrible mother! I'm an awful mother.  I yell at him all the time.  I have no patience.  No...No.  He's better off without me.  Ted, I've got to go...I've got to go."
+      },
+      {
+        "speaker": "TED",
+        "text": "Okay, I understand and I promise I won't try and stop you, but you can't just go...Look, come inside and talk...Just for a few minutes."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "NO!...Please...Please don't make me stay...I swear...If you do, sooner or later...maybe tomorrow, maybe next week...maybe a year from now...  I'll go right out the window."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57434",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I don't know..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57435",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "Hello, Ted.  You look well."
+      },
+      {
+        "speaker": "TED",
+        "text": "So do you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57436",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "How's the new job?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57437",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Look at us, Joanna.  Just like any old married couple having dinner.  Who would believe it."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Yes...How's Billy?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57438",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "I can't help but feel somehow... it's my fault.  I keep thinking I could've done something-- stopped it..."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "You can't tell it from a distance, Ted."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57439",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "I've seen him."
+      },
+      {
+        "speaker": "TED",
+        "text": "You have?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "A few times.  Sometimes I sit in that coffee shop across the street and watch when you take him to school."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57440",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "He looks like a terrific kid."
+      },
+      {
+        "speaker": "TED",
+        "text": "He is...  You sat in that coffee shop across from school--"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Watching my son...Ted, I've been living in New York for the past two months."
+      },
+      {
+        "speaker": "TED",
+        "text": "You've been living here, in the city?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Ted...The reason I wanted to see you...I want Billy back."
+      },
+      {
+        "speaker": "TED",
+        "text": "You want what?!"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "I want my son.  I'm through sitting in coffee shops looking at him from across the street. I want my son."
+      },
+      {
+        "speaker": "TED",
+        "text": "Are you out of your mind?! You're the one that walked out on him, remember?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Ted, listen to me...You and I, we had a really crappy marriage--  Look, don't get so defensive, okay?  It was probably as much my fault as it was yours... Anyway when I left I was really screwed up--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Joanna, I don't give a--"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Ted, all my life I'd either been somebody's daughter or somebody's wife, or somebody else's mother. Then all of a sudden, I was a thirty-two-year-old, highly neurotic woman who had just walked out on her husband and child.  I went to California because that was about as far away as I could get.  Only... I guess it wasn't far enough. So I started going to a shrink.  Ted, I've had time to think. I've been through some changes. I've learned a lot about myself."
+      },
+      {
+        "speaker": "TED",
+        "text": "Such as?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57441",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Joanna, go be a mother.  Get married, have kids.  Don't get married, have kids.  Do whatever you want.  I don't give a damn. Just leave me out of it--and leave my baby out of it."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Ted, if you can't discuss this rationally--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Joanna, go fuck yourself!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57442",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "I'm sorry...I just mentioned it in passing.  I never thought he'd use it."
+      },
+      {
+        "speaker": "TED",
+        "text": "Yeah, well he did, didn't he."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Please, Ted.  I never would have brought it up if I thought--"
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm not interested, Joanna. Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57443",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Okay, I'm here.  Now why did you--"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Ted, do you love him?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Goddamnit, Joanna. What the--"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Ted, do you love him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57444",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "Ted, when we got married it was because I was twenty-seven years old and I thought I should get married and...when I had Billy it was because I thought I should have a baby...and I guess all I did was mess up my life and your life and--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Joanna, what the hell is--"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Please...Please don't stop me. This is the hardest thing I've ever had to do.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57445",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "After I left...when I was in California, I began to think, what kind of mother was I that I could walk out on my own child. It got to where I couldn't tell anybody about Billy--I couldn't stand that look in their faces when I said he wasn't living with me.  Finally it seemed like the most important thing in the world to come back here and prove to Billy and to me and to the world how much I loved him...And I did ...And I won.  Only...it was just another \"should.\"  ...Sitting in that courtroom. Hearing everything you did, everything you went through... Something happened.  I guess it doesn't matter how much I love him, or how much you love him. I guess it's like you said, the only thing that counts is what's best for Billy.  I don't know, maybe that's all love is anyway... Ted, I think Billy should stay with you..."
+      },
+      {
+        "speaker": "TED",
+        "text": "What?"
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "He's already got one mother, he doesn't need two...He's yours...  I won't fight you for him any more. He's yours..."
+      },
+      {
+        "speaker": "TED",
+        "text": "Oh, God...Oh, my God..."
+      },
+      {
+        "speaker": "JOANNA",
+        "text": "Only can I still see him?"
+      },
+      {
+        "speaker": "TED",
+        "text": "No more waiting in Coffee Shops ...I promise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57446",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "JOANNA",
+        "text": "Okay...I think I'll go talk to my son now.  How do I look?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Beautiful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57447",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "O'CONNOR",
+        "text": "Ted, will you take it easy? Revlon's not about to drop an account that represents more than two million in gross billing receipts in a small agency like this, without making us sweat.  Now just relax, okay? Everything's gonna be fine."
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't think so, Jim.  Maybe I shouldn't have--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57448",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "O'CONNOR",
+        "text": "Hey, what's the rush?  C'mon, walk me a couple of blocks."
+      },
+      {
+        "speaker": "TED",
+        "text": "Jim, I've got to go.  I'm already late--"
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "Listen, Ted...I just want to tell you, when old man Schmidt retires next year, I've got a pretty"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57449",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Wow!"
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "I mean it Ted, you're running this one."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57450",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "O'CONNOR",
+        "text": "Jesus Christ.  That's a real blockbuster.  I always figured you guys had it made."
+      },
+      {
+        "speaker": "TED",
+        "text": "You want to know the real kicker?  The real kicker is, for the first time in my life-- the first time--I feel like a loser."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57451",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "O'CONNOR",
+        "text": "Listen, don't let it get you down.  You're going to be fine."
+      },
+      {
+        "speaker": "TED",
+        "text": "Me?  I've never been better. I mean having my wife walk out on me after seven years of marriage agrees with me just fine."
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "Look, Ted, I'm the oldest whore on the beat, okay?  Three marriages, two divorces...You're gonna be okay."
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm going to be okay.  The way I see it, Joanna'll come home, it's just a matter of time."
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "She'll be back..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57452",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "O'CONNOR",
+        "text": "But...just in case...I mean, just on the off chance she doesn't. What are you going to do about the kid?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't know, Jim.  This whole thing has happened so...Pow-- like that."
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "Look, it's none of my business, so you can tell me to butt out, okay?  But if you want my advice, you'll send Billy away to stay with relatives for a while.  Just until you get yourself straightened out."
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't know, Jim..."
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "Ted, this may sound a little rough, but we've just landed the biggest account in the history of this agency, right? And now it's up to us--that's you and me --to deliver the goods.  Ted, you're my main man, and if I can't depend on you a hundred and ten percent, twenty-four hours a day, because you're worried about a kid with a runny nose--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Jim, I appreciate what you're saying.  I mean it, but I really think Joanna's coming back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57453",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "'Night, Jim."
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "Hey, Ted.  C'mon in.  I wanna' talk to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57454",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "What the hell is this?"
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "Murray had some ideas about the Fire and Ice campaign and he had the art department make up a few roughs...  I think they're kind of interesting."
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't.  Jim, this isn't anything like what we talked about.  It's not even close."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57455",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "All right, Jim.  You said I was running this show, right? You said no decisions without my approval, right?  Well what the hell is this? What's going on, Jim?"
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "Well, ah...I thought it over and I decided we're doing it Murray's way."
+      },
+      {
+        "speaker": "TED",
+        "text": "Jim, this is garbage.  This isn't anything like what we talked to Revlon about.  None of it. You can't--"
+      },
+      {
+        "speaker": "O'CONNOR",
+        "text": "That's my decision, Ted and that's final."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57456",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "O'CONNOR",
+        "text": "Disappointing.  It only pulled a fourteen share and they were hoping for a twenty-five minimum, and...ah...they're not very happy and...Well, the guys have decided they want to...ah, re-think the entire concept and...Look, I don't like having to do this, okay?... But...I mean, what I mean is...ah, I'm going to have to...ah, let you go--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Are you firing me, Jim?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57457",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Hiya, Phyllis.  These are the Revlon contracts.  I thought you ought to check them out."
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "Sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57458",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "PHYLLIS",
+        "text": "Yes."
+      },
+      {
+        "speaker": "TED",
+        "text": "Yes, what?"
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "Yes, I'll have dinner with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57459",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "PHYLLIS",
+        "text": "Kramer, I've got to go.  I've got an eight o'clock closing tomorrow down on Centre Street."
+      },
+      {
+        "speaker": "TED",
+        "text": "Mmmmnph...I'll get you a cab..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57460",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "And?"
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "He wanted to know if I liked fried chicken."
+      },
+      {
+        "speaker": "TED",
+        "text": "Do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57461",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Okay, Phyllis, what's up?"
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "Kramer..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57462",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "PHYLLIS",
+        "text": "O'Connor's out to get you.  He's going to take the Fire and Ice account away from you."
+      },
+      {
+        "speaker": "TED",
+        "text": "What?!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57463",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "PHYLLIS",
+        "text": "You want to know why?  I'll tell you why...  Another scotch and soda for the gentleman.  I'll tell you exactly why. Because you're not his buddy anymore.  Because he can't count on you to sit around the office every night until eight or nine and shoot the shit with him."
+      },
+      {
+        "speaker": "TED",
+        "text": "I can't.  I've got Billy to take care of."
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "You dope.  O'Connor doesn't give a damn about Billy.  All he wants is somebody that'll hang around with him every night so he won't have to go home."
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't believe you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57464",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "How should I know?"
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "Murray."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57465",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "So...what's so terrible about that?"
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "Oh, for God's sake, Kramer. You have got to be the world's most naive human being.  Murray has gone in and changed every single ad you've done on the entire Fire and Ice campaign. Every layout...Every idea...Every single thing, right down the line."
+      },
+      {
+        "speaker": "TED",
+        "text": "No.  No, I don't believe it. Jim O'Connor would never let anything like that happen.  He gave me my shot in this business. If it wasn't for Jim O'Connor I'd be--I don't know where I'd be. He's a wonderful man..."
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "Kramer, I'm sorry.  All I was trying to do was--"
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't want to hear another word against him.  Not another word.  He's a wonderful man ...a wonderful man..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57466",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "So, naturally, you assume that since Joanna left, that would be a compelling point against her, right?"
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "Right."
+      },
+      {
+        "speaker": "TED",
+        "text": "But it doesn't work that way. A major decision was handed down by the Appellate Court in 1969--in the case of Haskins vs. Haskins."
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "Kramer--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Now in Haskins vs. Haskins the court ruled in favor of the mother, thus establishing a precedent for awarding the child to the mother even though she previously abandoned the baby."
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "Kramer...There's something I ought to tell you."
+      },
+      {
+        "speaker": "TED",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "I've been offered a job in Washington with H.E.W."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57467",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "And?"
+      },
+      {
+        "speaker": "PHYLLIS",
+        "text": "I'm going to take it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57468",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "PHYLLIS",
+        "text": "It's a very good job--too good to pass up.  I'll be handling funding for the whole...  Look, I...  ...\"like\" you a lot.  And you...  ...\"like\" me, okay?  Maybe if it was a year from now, maybe things would be different..."
+      },
+      {
+        "speaker": "TED",
+        "text": "But it's not a year from now, is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57469",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "What?"
+      },
+      {
+        "speaker": "SATURDAY FATHER",
+        "text": "Walk him over to Bethesda Fountain, buy him an ice.  It'll kill twenty minutes."
+      },
+      {
+        "speaker": "TED",
+        "text": "I've got a lot more than twenty minutes to kill."
+      },
+      {
+        "speaker": "SATURDAY FATHER",
+        "text": "Tough...  ...I get off duty at five-thirty.  How long you been divorced?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Three months.  How can you tell?"
+      },
+      {
+        "speaker": "SATURDAY FATHER",
+        "text": "You've got that look.  My lady and I split two years ago in August and I'm an old pro at this shit.  First thing, stay away from the Children's Zoo.  It's pure hell--if I never see another chicken, I'll be happy.  I'm here, darling.  Don't worry..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57470",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SECRETARY",
+        "text": "Mr. O'Connor called.  There's a meeting with the Revlon people in the board room and you're fifteen minutes late."
+      },
+      {
+        "speaker": "TED",
+        "text": "I know....I know."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Mr. Schmidt can't have the figures on the television buy until Monday."
+      },
+      {
+        "speaker": "TED",
+        "text": "No.  Uh, uh.  Tell him I asked for it Friday.  I want it Friday. Period."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Mr. Lombardo from packaging wants to meet on Friday."
+      },
+      {
+        "speaker": "TED",
+        "text": "Fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57471",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Look, she walked out on her own child, right?  That's desertion, right? Mr. Shaunessy, I'm telling you it's an open and shut case."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "First, there's no such thing as an open and shut case. Especially where custody is involved.  Got it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57472",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "That's if we win.  If we lose, you could end up having to pay your wife's court costs as well."
+      },
+      {
+        "speaker": "TED",
+        "text": "Fine."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Good.  You've hired yourself a hell of a lawyer, Mr. Kramer.  How old is the child?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Six."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57473",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Look, Ted, I don't honestly think she would go to the trouble of suing you for custody of the child if she was planning on kidnapping him."
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't know, John...I mean, to be brutally honest, I'm not so sure what kind of mental shape Joanna's in right now.  Y'know she admitted she was seeing a shrink."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57474",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Jesus Christ.  Did you have to be so rough on her?"
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Do you want the kid or don't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57475",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Mr. Kramer, would you tell the court exactly why you want to retain custody of your child."
+      },
+      {
+        "speaker": "TED",
+        "text": "When Joanna--  my ex-wife--when she was talking before about how unhappy she was during our marriage...Well, I guess most of what she said was probably true.  There were a lot of things I didn't understand-- a lot of things I would do different if I could.  Just like I guess there are a lot of things Joanna wishes she could change...But we can't.  Some things, once they are done, can't be undone.  Joanna says she loves Billy.  I believe she does.  So do I.  But the way it was explained to me, that's not the issue.  The only thing that's supposed to matter here is what's best for Billy...When Joanna said why shouldn't a woman have the same ambitions as a man, I suppose she's right.  But by the same token what law is it that says a woman is a better parent simply by virtue of her sex?  I guess I've had to think a lot about whatever it is that makes somebody a good parent:"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57476",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Oh, Christ!"
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "The judge went for motherhood straight down the line."
+      },
+      {
+        "speaker": "TED",
+        "text": "I lost him?  I lost him?"
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "I can't tell you how sorry I am."
+      },
+      {
+        "speaker": "TED",
+        "text": "Oh, no.."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Ordered, adjudged and decreed that the petitioner be awarded custody of the minor child, effective Monday the 23rd of January.  That the respondent pay for the maintenance and support of said child, four hundred dollars each month.  That the father shall have the following rights of visitation: every other weekend, one night each week to be mutually agreed upon and one half of the child's vacation period.  That's it."
+      },
+      {
+        "speaker": "TED",
+        "text": "What if I fight it?"
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "We can appeal, but I can't guarantee anything."
+      },
+      {
+        "speaker": "TED",
+        "text": "I'll take my chances."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "It's going to cost."
+      },
+      {
+        "speaker": "TED",
+        "text": "Don't worry.  I'll get the money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57477",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Mrs. Phillips, how long have you known Ted Kramer?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Six years.  Ever since Ted and Joanna moved into the building."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "How often do you see Mr. Kramer and his son?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Charley, my husband, and I are ...divorced and Kim, that's our daughter is about Billy's age and the children play together a lot.  So, I guess we see each three or four times a week."
+      },
+      {
+        "speaker": "SHAUNESSY",
+        "text": "Can you describe the relationship between Mr. Kramer and his son?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "It's beautiful.  It's just beautiful. They have a beautiful relationship."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57478",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY'S VOICE",
+        "text": "Ted?  They've set the court date. I just heard today...It's...  January sixth."
+      },
+      {
+        "speaker": "TED",
+        "text": "Oh, Christ.. .John, there's some- thing I ought to tell you.  My... ah, situation has...changed.  I lost my job."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57479",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "John?"
+      },
+      {
+        "speaker": "SHAUNESSY'S VOICE",
+        "text": "Ted, I won't lie to you, we don't have a hope in hell of winning a custody hearing if you're out of work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57480",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Good Christ, Joanna, just get the hell out of my life."
+      },
+      {
+        "speaker": "SHAUNESSY'S VOICE",
+        "text": "Ted?  Are you there?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "SHAUNESSY'S VOICE",
+        "text": "Any prospects?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Don't worry.  I plan to have something within twenty-four hours, John."
+      },
+      {
+        "speaker": "SHAUNESSY'S VOICE",
+        "text": "How the hell are you going to do that?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57481",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "What?!  She wants what?!"
+      },
+      {
+        "speaker": "SHAUNESSY'S VOICE",
+        "text": "She's the mother.  That means she's within her legal rights."
+      },
+      {
+        "speaker": "TED",
+        "text": "John, what if she kidnaps him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57482",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SHAUNESSY'S VOICE",
+        "text": "You ever see her talk to the walls?"
+      },
+      {
+        "speaker": "TED",
+        "text": "No, but--"
+      },
+      {
+        "speaker": "SHAUNESSY'S VOICE",
+        "text": "Then you don't have a choice. Have Billy at the Seventy- Fifth Street entrance to Central Park, Saturday at ten."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57483",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SURGEON",
+        "text": "Your boy is very lucky, Mr. Kramer.  One inch over and it would have caught the eye."
+      },
+      {
+        "speaker": "SURGEON",
+        "text": "But I'm going to have to take some stitches."
+      },
+      {
+        "speaker": "TED",
+        "text": "How many?"
+      },
+      {
+        "speaker": "SURGEON",
+        "text": "Ten."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57484",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "SURGEON",
+        "text": "Now, I'd advise you to wait outside.  It'll be eas--"
+      },
+      {
+        "speaker": "TED",
+        "text": "No."
+      },
+      {
+        "speaker": "SURGEON",
+        "text": "Mr. Kramer, there's--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Fuck you.  He's my son.  I'm staying with him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57485",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "All right, Thelma, you want to know what's going on?  I'll tell you what's going on.  I'll tell you exactly what's going on."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Look, Ted, all I--"
+      },
+      {
+        "speaker": "TED",
+        "text": "I came home tonight.  We just got the Fire and Ice account at the agency.  Do you know what that means?!  Do you understand what that means?  It means that it was maybe one of the five best days in my whole life."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Ted, all I wanted to know was where--"
+      },
+      {
+        "speaker": "TED",
+        "text": "I walk in the house and before I can say \"How are you?\", \"Did you have a nice day?\" before I can say anything.   Pow she's out the door."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "OhmyGod.  Didn't she say anything? She must've said something."
+      },
+      {
+        "speaker": "TED",
+        "text": "Yeah, she said it wasn't any use talking anymore."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Ted, don't be so hostile."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57486",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Hostile?  Me?  Thelma, I'm not hostile.  I am anything but hostile.  But if you want to know what I am.  I'll tell you what I am. What I am is, I am hurt.  I am very hurt.  And I just want to know one thing, okay?  Just one thing ...Why?  That's all I want to know...Why?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Ted, Joanna and I used to talk a lot and...well, she told me a lot of...ah, things about the two of you."
+      },
+      {
+        "speaker": "TED",
+        "text": "Things? What kind of things?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "I mean...things.  Ted, Joanna's very unhappy and--"
+      },
+      {
+        "speaker": "TED",
+        "text": "Listen, Joanna Kramer's got a goddamn good life.  She's got a husband that loves her.  She's got a terrific kid.  She's got a wonderful home--"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "What d'you know about how Joanna felt?  You went off to an office every morning and you'd come dragging home at seven or eight every night and as long as dinner was on the table you thought everything was swell."
+      },
+      {
+        "speaker": "TED",
+        "text": "Did it ever occur to you guys that Joanna Kramer's not the easiest person in the world to live with?!  Did it?!  For one thing she's always thirty minutes late.  You can set your watch by it--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57487",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Two.  She is getting to be a real hermit or recluse or whatever it is you call it.  Thelma, do you know where I could be in this business if I had a wife that entertained or went out socially--"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Oh for shit's sake, Ted, you are the most selfish human being I have ever met.  No wonder she said you came first, then Billy, then, if there was anything left over, she got the scraps."
+      },
+      {
+        "speaker": "TED",
+        "text": "Joanna said that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57488",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Then how come she never said anything like that to me?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Maybe she didn't feel like she should have to.  Maybe she felt like if you'd been paying any real attention to her to start with, maybe you would've noticed."
+      },
+      {
+        "speaker": "TED",
+        "text": "Boy, you guys are really something, y'know?  I'd like to know one thing, okay--just one little thing.  Did you tell Joanna she should leave me?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57489",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Y'know something Thelma--you are the typhoid Mary of divorce. I mean it.  Joanna and I never had any trouble until you and Charley split up."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Ted, divorce is a terrible thing. I know, I went through it. You've got to believe I did everything I could to get Joanna to stay.  But I'll tell you something. You may not want to hear it, but it took a lot of courage for Joanna to do what she just did."
+      },
+      {
+        "speaker": "TED",
+        "text": "I'd like to know what the hell kind of courage it takes to walk out on your husband and your child?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57490",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "THELMA",
+        "text": "What are you going to do?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't know, Thel...This whole thing has happened so...Pow, like that."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "I mean, what are you going to do about Billy?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm gonna keep him, why?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Look, this is nothing personal, but I don't think you can do it."
+      },
+      {
+        "speaker": "TED",
+        "text": "Thelma, I've lost my wife, I'm not losing my child."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "All right...Okay...But let's get something straight, right now. I mean, I'm sorry about what happened between you and Joanna, but it's not my problem, understand?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57491",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "THELMA",
+        "text": "I've got enough trouble raising my own kid.  I don't need another one.  Got it?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Got it."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "You're on your own, understand?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I understand."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "You're sure?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I'm sure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57492",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Wait a minute!  Wait a minute!"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Lenox Hill.  77th Street between Park and Lex.  The emergency number is 327-0800."
+      },
+      {
+        "speaker": "TED",
+        "text": "Slow down...Slow down..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57493",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "You ever think about getting married again?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "No, not really...  I guess it's different if you don't have children, but...I dunno, even if Charley and I don't live together, even if we're sleeping with other people, even if Charley was to marry again...He'd still be my husband. That stuff about \"Till death do you part?\"  That's really true."
+      },
+      {
+        "speaker": "TED",
+        "text": "How many onions does it say to use?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Three.  And add some basil."
+      },
+      {
+        "speaker": "TED",
+        "text": "D'you think you and Charley'll ever get back together again?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "No.  I don't think so."
+      },
+      {
+        "speaker": "TED",
+        "text": "C'mon, Thel.  So Charley had a little fling.  So what? All in all he was a pretty good husband."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Look,  I know this isn't gonna make any sense, okay?  I mean forget the logic part...But I keep thinking if Charley really loved me, he wouldn't have let me divorce him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57494",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Thel, you ever hear from Joanna?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Not for a couple of months. The last time I heard from her she was living in San Francisco."
+      },
+      {
+        "speaker": "TED",
+        "text": "California?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Uh, huh...She said she had a good job, was playing a lot of tennis.  She wanted to know all about Billy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57495",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "She ever ask about me?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Uh, huh...Yeah..."
+      },
+      {
+        "speaker": "TED",
+        "text": "What d'you tell her?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "I told her you're doing a"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57496",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "He's okay...Thel, can I ask you a favor?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Sure."
+      },
+      {
+        "speaker": "TED",
+        "text": "I don't mean a little favor. mean a big F favor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57497",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Thelma, if I die--"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "What?"
+      },
+      {
+        "speaker": "TED",
+        "text": "I didn't say I'm going to die, but if I should--"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Don't say that!  I don't want to hear you say that!"
+      },
+      {
+        "speaker": "TED",
+        "text": "Thel, listen to me.  If, on the million to one shot that I should--  That anything should happen to me.  Would you take care of Billy?"
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Me?!  You want me to take care of Billy?!"
+      },
+      {
+        "speaker": "TED",
+        "text": "I thought about it a lot and you're the only person I know that I trust with him.  I mean, if anything happened to me, he'd be okay with you.  You're a good mother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57498",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "THELMA",
+        "text": "You heard anything yet?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Any day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57499",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "THELMA",
+        "text": "Ted."
+      },
+      {
+        "speaker": "TED",
+        "text": "Uh, huh..."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Ah, Charley and I are...Well, we're thinking about...I mean, actually we're sort of talking about maybe getting back together."
+      },
+      {
+        "speaker": "TED",
+        "text": "You and Charley?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57500",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Hey, that's terrific."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Maybe.  I said maybe.  What I mean is, ah...I don't think it'll really work out, but Charley seems to want it, so..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57501",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "TED",
+        "text": "Please go away, Thel...I...I just have to be by myself for a little while..."
+      },
+      {
+        "speaker": "THELMA",
+        "text": "Ted, I just heard..."
+      },
+      {
+        "speaker": "TED",
+        "text": "Please, Thel..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57502",
+    "movie_id": "m416",
+    "turns": [
+      {
+        "speaker": "WOMAN'S VOICE",
+        "text": "Huh.. .Hello?"
+      },
+      {
+        "speaker": "TED",
+        "text": "All right, Thelma...That's it. I've had it.  You can call your good friend Joanna Kramer and tell her enough is enough, okay?  I mean, I don't know what I did, but you can tell her she's made her point."
+      },
+      {
+        "speaker": "WOMAN'S VOICE",
+        "text": "Ted, what are you talking about?!"
+      },
+      {
+        "speaker": "TED",
+        "text": "Don't play innocent with me, Thelma.  You know perfectly well what's going on."
+      },
+      {
+        "speaker": "WOMAN'S VOICE",
+        "text": "Ted, I don't understand a word you're saying.  Where's Joanna?"
+      },
+      {
+        "speaker": "TED",
+        "text": "Ha!  You tell me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57503",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "BODYGUARD",
+        "text": "We must go, Holiness."
+      },
+      {
+        "speaker": "TENZIN GYATSO",
+        "text": "A moment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57504",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "BODYGUARD",
+        "text": "Please, come, Holiness."
+      },
+      {
+        "speaker": "TENZIN GYATSO",
+        "text": "Yes. I am ready."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57505",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "TENZIN GYATSO",
+        "text": "All quiet?"
+      },
+      {
+        "speaker": "BODYGUARD",
+        "text": "Yes, Holiness."
+      },
+      {
+        "speaker": "TENZIN GYATSO",
+        "text": "Where are you from?"
+      },
+      {
+        "speaker": "BODYGUARD",
+        "text": "Kham, Holiness."
+      },
+      {
+        "speaker": "TENZIN GYATSO",
+        "text": "Your people are very brave. They are fighting the Chinese. No one can stop them. Not even me."
+      },
+      {
+        "speaker": "BODYGUARD",
+        "text": "Khambas are wild men."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57506",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "TENZIN GYATSO",
+        "text": "I worry about them."
+      },
+      {
+        "speaker": "BODYGUARD",
+        "text": "Do not worry, Holiness. They fight for you. They are under your protection."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57507",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "BOY",
+        "text": "Mama, my story."
+      },
+      {
+        "speaker": "WOMAN",
+        "text": "Again?"
+      },
+      {
+        "speaker": "BOY",
+        "text": "Tell me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57508",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "WOMAN",
+        "text": "Your father had been very ill, we thought he would die, and some animals had died."
+      },
+      {
+        "speaker": "BOY",
+        "text": "Cow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57509",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "WOMAN",
+        "text": "You were a beautiful baby. So calm."
+      },
+      {
+        "speaker": "BOY",
+        "text": "No cried?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57510",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "WOMAN",
+        "text": "And that day, your father got better. He named you Lhamo. \"The Protector.\""
+      },
+      {
+        "speaker": "BOY",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57511",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "FATHER",
+        "text": "I am sorry, Lhamo."
+      },
+      {
+        "speaker": "TENZIN GYATSO",
+        "text": "It is alright, Father."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57512",
+    "movie_id": "m417",
+    "turns": [
+      {
+        "speaker": "FATHER",
+        "text": "Not the way to talk to people."
+      },
+      {
+        "speaker": "TENZIN GYATSO",
+        "text": "Can I do anything I want?"
+      },
+      {
+        "speaker": "FATHER",
+        "text": "No."
+      },
+      {
+        "speaker": "TENZIN GYATSO",
+        "text": "But, I am in charge."
+      },
+      {
+        "speaker": "FATHER",
+        "text": "Are you? Of whom?"
+      }
+    ]
+  }
+]

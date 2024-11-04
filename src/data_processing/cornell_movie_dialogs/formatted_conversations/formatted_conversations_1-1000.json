@@ -1,0 +1,4750 @@
+[
+  {
+    "original_id": "conv_1",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "Can we make this quick?  Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break- up on the quad.  Again."
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "Well, I thought we'd start with pronunciation, if that's okay with you."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Not the hacking and gagging and spitting part.  Please."
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "Okay... then how 'bout we try out some French cuisine.  Saturday?  Night?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Cameron asks Bianca to try French cuisine on Saturday night",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_9",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "You got something on your mind?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I counted on you to help my cause. You and that thug are obviously failing. Aren't we ever going on our date?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to a planned date (previously arranged)",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_12",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "Sure have."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I really, really, really wanna go, but I can't.  Not unless my sister goes."
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "I'm workin' on it. But she doesn't seem to be goin' for him."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to wanting to go somewhere (context implies an event)",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_13",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "She's not a..."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Lesbian?  No. I found a picture of Jared Leto in one of her drawers, so I'm pretty sure she's not harboring same-sex tendencies."
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "So that's the kind of guy she likes? Pretty ones?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Who knows?  All I've ever heard her say is that she'd dip before dating a guy that smokes."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to finding a picture in a drawer"
+    }
+  },
+  {
+    "original_id": "conv_17",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "I looked for you back at the party, but you always seemed to be \"occupied\"."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I was?"
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "You never wanted to go out with 'me, did you?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to being at a party",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_23",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "Wow"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Let's go."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - \"Let's go\" (implies immediate movement)",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_31",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "I have to be home in twenty minutes."
+      },
+      {
+        "speaker": "CHASTITY",
+        "text": "I don't have to be home 'til two."
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - References being sophomores",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_32",
+    "dialogue": [
+      {
+        "speaker": "CHASTITY",
+        "text": "You think you ' re the only sophomore at the prom?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I did."
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - References being sophomores at prom",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about prom attendance",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_34",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "Exactly  So, you going to Bogey Lowenbrau's thing on Saturday?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Hopefully."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about going to \"Bogey Lowenbrau's thing on Saturday\"",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_35",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "So yeah, I've got the Sears catalog thing going -- and the tube sock gig \" that's gonna be huge.  And then I'm up for an ad for Queen Harry next week."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Queen Harry?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "It's a gay cruise line, but I'll be, like, wearing a uniform and stuff."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Discussion of modeling/catalog work"
+    }
+  },
+  {
+    "original_id": "conv_36",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "Neat..."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "My agent says I've got a good shot at being the Prada guy next year."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - More modeling discussion"
+    }
+  },
+  {
+    "original_id": "conv_38",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "Listen, I want to talk to you about the prom."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "You know the deal.  I can ' t go if Kat doesn't go --"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about prom attendance",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_41",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "Oh my God, does this mean you're becoming normal?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "It means that Gigglepuss is playing at Club Skunk and we're going."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Oh, I thought you might have a date  I don't know why I'm bothering to ask, but are you going to Bogey Lowenstein's party Saturday night?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "What do you think?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I think you're a freak.  I think you do this to torture me.  And I think you suck."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Club Skunk event and Bogey Lowenstein's party mentioned",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_42",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "You're ruining my life'  Because you won't be normal, I can't be normal."
+      },
+      {
+        "speaker": "KAT",
+        "text": "What's normal?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Bogey Lowenstein's party is normal, but you're too busy listening to Bitches Who Need Prozac to know that."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Bogey Lowenstein's party mentioned again",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_48",
+    "dialogue": [
+      {
+        "speaker": "KAT",
+        "text": "Listen, I know you hate having to sit home because I'm not Susie High School."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Like you care."
+      },
+      {
+        "speaker": "KAT",
+        "text": "I do care. But I'm a firm believer in doing something for your own reasons, not someone else ' s ."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I wish I had that luxury. I'm the only sophomore that got asked to the prom and I can't go, because you won ' t."
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - References being a sophomore",
+      "Q2": "No",
+      "Q3": "Yes - Prom discussion",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_49",
+    "dialogue": [
+      {
+        "speaker": "KAT",
+        "text": "Joey never told you we went out, did he?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "What?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "In 9th.  For a month"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Why?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "He was, like, a total babe"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "But you hate Joey"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Now I do.  Back then, was a different story."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "As in..."
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - Reference to 9th grade",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_59",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "Daddy, I --"
+      },
+      {
+        "speaker": "WALTER",
+        "text": "And where're you going?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "If you must know, we were attempting to go to a small study group of friends."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "Otherwise known as an orgy?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "It's just a party. Daddy, but I knew you'd forbid me to go since \"Gloria Steinem\" over there isn't going --"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to \"small study group\"/\"party\"",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_60",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "Daddy, people expect me to be there!"
+      },
+      {
+        "speaker": "WALTER",
+        "text": "If Kat's not going, you're not going."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Party reference",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_61",
+    "dialogue": [
+      {
+        "speaker": "WALTER",
+        "text": "Oh, God.  It's starting."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "It's just a party. Daddy."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Party reference",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_64",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "Daddy, I want to discuss the prom with you. It's tomorrow night --"
+      },
+      {
+        "speaker": "WALTER",
+        "text": "The prom?  Kat has a date?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "No, but"
+      },
+      {
+        "speaker": "WALTER",
+        "text": "It's that hot rod Joey, right? That ' s who you want me to bend my rules for?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "He's not a \"hot rod\".  Whatever that is."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "You're not going unless your sister goes.  End of story."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Fine.  I see that I'm a prisoner in my own house.  I'm not a daughter. I'm a possession!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Prom discussion (tomorrow night)",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_70",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "That girl -- I --"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "You burn, you pine, you perish?"
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "Who is she?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Bianca Stratford.  Sophomore. Don't even think about it"
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "I could start with your haircut, but it doesn't matter.  She's not allowed to date until her older sister does.  And that's an impossibility."
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - Reference to being a sophomore",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_79",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "This is it.  A golden opportunity. Patrick can ask Katarina to the party."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "In that case, we'll need to make it a school-wide blow out."
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "Will Bogey get bent?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Are you kidding?  He'll piss himself with joy.  He's the ultimate kiss ass."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Party planning discussion",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_97",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "The vintage look is over, Kat. Haven't you been reading your Sassy?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Yeah, and I noticed the only part of you featured in your big Kmart spread was your elbow.  Tough break."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "They're running the rest of me next month."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to Kmart spread/modeling"
+    }
+  },
+  {
+    "original_id": "conv_102",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "Two legs, nice rack..."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Yeah, whatever.  I want you to go out with her."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Sure, Sparky.  I'll get right on it."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "You just said"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "You need money to take a girl out"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "But you'd go out with her if you had the cake?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Joey wants Patrick to \"go out with\" someone",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_103",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "You got it, Verona.  I pick up the tab, you do the honors."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "You're gonna pay me to take out some girl?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "I can't date her sister until that one gets a boyfriend.  And that's the catch. She doesn't want a boyfriend."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "How much?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about paying Patrick to take someone out",
+      "Q4": "Yes - Joey offers to pay Patrick to take someone out",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_104",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "I can't take a girl like that out on twenty bucks."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Fine, thirty."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Discussion of payment ($20) for date",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_105",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "Take it or leave it.  This isn't a negotiation."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Fifty, and you've got your man."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Negotiation of payment ($50)",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_106",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "When I shell out fifty, I expect results."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "I'm on it"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Watching the bitch trash my car doesn't count as a date."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "I got her under control. She just acts crazed in public to keep up the image."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to a date",
+      "Q4": "Yes - Payment for date discussed",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_107",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "I just upped my price"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "What?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "A hundred bucks a date."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Forget it."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Forget her sister, then."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Price increased to $100 per date",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_108",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "It's about time."
+      },
+      {
+        "speaker": "JOEY",
+        "text": "A deal's a deal."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Reference to payment deal",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_110",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "I don't know, Dorsey. ..the limo.-the flowers.  Another hundred for the tux --"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Enough with the Barbie n' Ken shit. I know."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Mentions expenses for limo, flowers, tux",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_112",
+    "dialogue": [
+      {
+        "speaker": "MICHAEL",
+        "text": "But she can't go out with you because her sister is this insane head case and no one will go out with her. right?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "Does this conversation have a purpose?"
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "So what you need to do is recruit a guy who'll go out with her.  Someone who's up for the job."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about arranging dates",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_114",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "You better not fuck this up.  I'm heavily invested."
+      },
+      {
+        "speaker": "MICHAEL",
+        "text": "Hey -- it's all for the higher good right?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Reference to being \"heavily invested\"",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_115",
+    "dialogue": [
+      {
+        "speaker": "MANDELLA",
+        "text": "Who's that?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Patrick Verona   Random skid."
+      },
+      {
+        "speaker": "MANDELLA",
+        "text": "That's Pat Verona? The one who was gone for a year? I heard he was doing porn movies."
+      },
+      {
+        "speaker": "KAT",
+        "text": "I'm sure he's completely incapable of doing anything that interesting."
+      },
+      {
+        "speaker": "MANDELLA",
+        "text": "He always look so"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Block E?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to \"porn movies\" in rumor"
+    }
+  },
+  {
+    "original_id": "conv_124",
+    "dialogue": [
+      {
+        "speaker": "MANDELLA",
+        "text": "You went to the party?  I thought we were officially opposed to suburban social activity."
+      },
+      {
+        "speaker": "KAT",
+        "text": "I didn't have a choice."
+      },
+      {
+        "speaker": "MANDELLA",
+        "text": "You didn't have a choice?  Where's Kat and what have you done with her?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "I did Bianca a favor and it backfired."
+      },
+      {
+        "speaker": "MANDELLA",
+        "text": "You didn't"
+      },
+      {
+        "speaker": "KAT",
+        "text": "I got drunk.  I puked.  I got rejected. It was big fun."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to attending a party",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_125",
+    "dialogue": [
+      {
+        "speaker": "KAT",
+        "text": "Can you even imagine?  Who the hell would go to this a bastion of commercial excess?"
+      },
+      {
+        "speaker": "MANDELLA",
+        "text": "Well, I guess we're not, since we don't have dates ."
+      },
+      {
+        "speaker": "KAT",
+        "text": "Listen to you!  You sound like Betty, all pissed off because Archie is taking Veronica."
+      },
+      {
+        "speaker": "MANDELLA",
+        "text": "Okay, okay, we won't go.  It's not like I have a dress anyway"
+      },
+      {
+        "speaker": "KAT",
+        "text": "You ' re looking at this from the wrong perspective.  We're making a statement."
+      },
+      {
+        "speaker": "MANDELLA",
+        "text": "Oh, good.  Something new and different for us."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about prom attendance",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_126",
+    "dialogue": [
+      {
+        "speaker": "MANDELLA",
+        "text": "Have you seen him?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Who?"
+      },
+      {
+        "speaker": "MANDELLA",
+        "text": "William - he asked me to meet him here."
+      },
+      {
+        "speaker": "KAT",
+        "text": "Oh, honey -- tell me we haven't' progressed to full-on hallucinations."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to meeting someone",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_128",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "Pick you up Friday, then"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Oh, right.  Friday."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - \"Pick you up Friday\"",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_129",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "The night I take you to places you've never been before.  And back."
+      },
+      {
+        "speaker": "KAT",
+        "text": "Like where?  The 7-Eleven on Burnside? Do you even know my name, screwboy?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "I know a lot more than that"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about taking someone places",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_130",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "You hate me don't you?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "I don't really think you warrant that strong an emotion."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Then say you'll spend Dollar Night at the track with me."
+      },
+      {
+        "speaker": "KAT",
+        "text": "And why would I do that?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Come on -- the ponies, the flat beer, you with money in your eyes, me with my hand on your ass..."
+      },
+      {
+        "speaker": "KAT",
+        "text": "You -- covered in my vomit."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Seven-thirty?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Invitation to \"Dollar Night at the track\" at 7:30",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_136",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "What's this?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "\"I'm getting trashed, man.\" Isn't that what you're supposed to do at a party?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "I say, do what you wanna do."
+      },
+      {
+        "speaker": "KAT",
+        "text": "Funny, you're the only one"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to being at a party",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_148",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "Excuse me, have you seen The Feminine Mystique?  I lost my copy."
+      },
+      {
+        "speaker": "KAT",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "I heard there was a poetry reading."
+      },
+      {
+        "speaker": "KAT",
+        "text": "You 're so --"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Pleasant?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to poetry reading attendance",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_156",
+    "dialogue": [
+      {
+        "speaker": "KAT",
+        "text": "State trooper?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Fallacy."
+      },
+      {
+        "speaker": "KAT",
+        "text": "The duck?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Hearsay."
+      },
+      {
+        "speaker": "KAT",
+        "text": "I know the porn career's a lie."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to \"porn career\" rumor"
+    }
+  },
+  {
+    "original_id": "conv_157",
+    "dialogue": [
+      {
+        "speaker": "KAT",
+        "text": "Tell me something true."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "I hate peas."
+      },
+      {
+        "speaker": "KAT",
+        "text": "No -- something real.  Something no one else knows."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "You're sweet.  And sexy.  And completely hot for me."
+      },
+      {
+        "speaker": "KAT",
+        "text": "What?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "No one else knows"
+      },
+      {
+        "speaker": "KAT",
+        "text": "You're amazingly self-assured. Has anyone ever told you that?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Go to the prom with me"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Invitation to prom",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_158",
+    "dialogue": [
+      {
+        "speaker": "KAT",
+        "text": "Is that a request or a command?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "You know what I mean"
+      },
+      {
+        "speaker": "KAT",
+        "text": "No."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "No what?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "No, I won't go with you"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Because I don't want to. It's a stupid tradition."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about prom invitation",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_160",
+    "dialogue": [
+      {
+        "speaker": "KAT",
+        "text": "How'd you get a tux at the last minute?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "It's Scurvy's.  His date got convicted. Where'd you get the dress?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "It's just something I had.  You know"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Oh huh"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Look, I'm  -- sorry -- that I questioned your motives.  I was wrong."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to attending prom",
+      "Q4": "Yes - Discussion about tux and dress",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_163",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "Wait I..."
+      },
+      {
+        "speaker": "KAT",
+        "text": "You were paid to take me out!  By -- the one person I truly hate.  I knew it was a set-up!"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "It wasn't like that."
+      },
+      {
+        "speaker": "KAT",
+        "text": "Really?  What was it like?  A down payment now, then a bonus for sleeping with me?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "I didn't care about the money."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Reference to payment for dates",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_164",
+    "dialogue": [
+      {
+        "speaker": "KAT",
+        "text": "A Fender Strat. You bought this?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "I thought you could use it. When you start your band."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Gift of a Fender Strat guitar",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_165",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "Besides, I had some extra cash. Some asshole paid me to take out a really great girl."
+      },
+      {
+        "speaker": "KAT",
+        "text": "Is that right?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Yeah, but then I fucked up. I fell for her."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Reference to payment for dating",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_169",
+    "dialogue": [
+      {
+        "speaker": "WALTER",
+        "text": "My insurance does not cover PMS"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Then tell them I had a seizure."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "Is this about Sarah Lawrence? You punishing me?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "I thought you were punishing me."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "Why can't we agree on this?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Because you're making decisions for me."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "As a parent, that's my right"
+      },
+      {
+        "speaker": "KAT",
+        "text": "So what I want doesn't matter?"
+      },
+      {
+        "speaker": "WALTER",
+        "text": "You're eighteen.  You don't know what you want.  You won't know until you're forty-five and you don't have it."
+      },
+      {
+        "speaker": "KAT",
+        "text": "I want to go to an East Coast school! I want you to trust me to make my own choices.  I want --"
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - Mentions being 18",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_171",
+    "dialogue": [
+      {
+        "speaker": "WALTER",
+        "text": "I don't understand the allure of dehydrated food.  Is this something I should be hip to?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "No, Daddy."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "So tell me about this dance. Was it fun?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "Parts of it."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "Which parts?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "The part where Bianca beat the hell out of some guy."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "Bianca did what?"
+      },
+      {
+        "speaker": "KAT",
+        "text": "What's the matter?  Upset that I rubbed off on her?"
+      },
+      {
+        "speaker": "WALTER",
+        "text": "No -- impressed."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to attending a dance",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_181",
+    "dialogue": [
+      {
+        "speaker": "MICHAEL",
+        "text": "I think I speak correctly when I say that Cameron's love is pure.  Purer than say -- Joey Dorsey's."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Dorsey can plow whoever he wants. I'm just in this for the cash."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Reference to \"cash\" payment",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_186",
+    "dialogue": [
+      {
+        "speaker": "MICHAEL",
+        "text": "Ever been to Club Skunk?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "Yeah."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to Club Skunk",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_188",
+    "dialogue": [
+      {
+        "speaker": "MICHAEL",
+        "text": "So you got cozy with she who stings?"
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "No - I've got a sweet-payin' job that I'm about to lose."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Reference to \"sweet-payin' job\"",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_190",
+    "dialogue": [
+      {
+        "speaker": "PATRICK",
+        "text": "I missed you."
+      },
+      {
+        "speaker": "MISS PERKY",
+        "text": "It says here you exposed yourself to a group of freshmen girls."
+      },
+      {
+        "speaker": "PATRICK",
+        "text": "It was a bratwurst.  I was eating lunch."
+      },
+      {
+        "speaker": "MISS PERKY",
+        "text": "With the teeth of your zipper?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to exposure incident"
+    }
+  },
+  {
+    "original_id": "conv_198",
+    "dialogue": [
+      {
+        "speaker": "SHARON",
+        "text": "They'll dance, they'll kiss, they'll come home.  Let her go."
+      },
+      {
+        "speaker": "WALTER",
+        "text": "Kissing?  Is that what you think happens?  Kissing isn't what keeps me up to my elbows in placenta all day."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to dancing and coming home",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_224",
+    "dialogue": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Can't you stay with us a little?"
+      },
+      {
+        "speaker": "BEATRIX",
+        "text": "I am busy inside."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Columbus asks Beatrix to stay",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_230",
+    "dialogue": [
+      {
+        "speaker": "FERNANDO",
+        "text": "I want to go with you!"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "There'll be a time."
+      },
+      {
+        "speaker": "FERNANDO",
+        "text": "You promise?  Do you swear on St. Christopher...?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about going somewhere in future",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_232",
+    "dialogue": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "I have to explore the mainland."
+      },
+      {
+        "speaker": "FERNANDO",
+        "text": "This time with me!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about exploring mainland together",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_236",
+    "dialogue": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "What does he say?"
+      },
+      {
+        "speaker": "FERNANDO",
+        "text": "He asks when he can come to visit you.  He left his address."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "He never had one... except aboard my ships!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about someone visiting",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_256",
+    "dialogue": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "God... That's in a week!"
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "That's what it says."
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "How did you manage it?"
+      },
+      {
+        "speaker": "MARCHENA",
+        "text": "With some difficulty.  I had to promise them you were not a total fool."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Meeting scheduled in a week",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_273",
+    "dialogue": [
+      {
+        "speaker": "ISABEL",
+        "text": "How old are you, Senor Colon?"
+      },
+      {
+        "speaker": "COLUMBUS",
+        "text": "Thirty seven, Your Majesty... And you?"
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - Both characters state being 37",
+      "Q2": "Yes - Isabel asks Columbus's age",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_286",
+    "dialogue": [
+      {
+        "speaker": "COLUMBUS",
+        "text": "Where can I meet this man?"
+      },
+      {
+        "speaker": "PINZON",
+        "text": "Immediately."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about meeting immediately",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_290",
+    "dialogue": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "... Into a monk..."
+      },
+      {
+        "speaker": "ISABEL",
+        "text": "Yes.  It would be a pity, wouldn't it?  Call him back!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Request to call someone back",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_296",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "Oh no!  No!  Shit!"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Emil.  Take it easy.  Stay with me.  Sit down.  What do you need?  What are you looking for?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "He has the camera!  He took the movie!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to camera and movie being taken"
+    }
+  },
+  {
+    "original_id": "conv_297",
+    "dialogue": [
+      {
+        "speaker": "CUTLER",
+        "text": "Don't say anything."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Where are we going?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "I'm coming with you."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yes.  Yes, come with me!"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "I'm invoking rights - this man is represented by counsel.  I'm coming with him."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Going somewhere together",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_299",
+    "dialogue": [
+      {
+        "speaker": "CUTLER",
+        "text": "...delusions and paranoia."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "I was all of these."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Well, you didn't appreciate the severity of it until recently.  No question about that."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "What about Oleg?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Disappeared.  They're looking everywhere.  Maybe he went back to Czechoslovakia."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "No, he is here.  Shit..."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Don't worry about him.  Think about yourself."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "What about my movie rights?  Book rights?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "Look, I haven't really focused on that kind of thing."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "What's your cut?  How much?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "I would say...half.  Half is fair."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "No.  No way."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "But it's..."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Thirty-percent.  No more.  Or I call another lawyer.  This is the biggest case of your life.  Don't try to negotiate.  Thirty percent.  Say yes or no."
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "This is not about money, Emil.  I need your trust in me."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "What else do you need?"
+      },
+      {
+        "speaker": "CUTLER",
+        "text": "I need to know about your background.  I need to know about your upbringing.  Why you're here."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Give me another one, please."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Discussion about movie rights"
+    }
+  },
+  {
+    "original_id": "conv_306",
+    "dialogue": [
+      {
+        "speaker": "DAPHNE",
+        "text": "Are you married?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Divorced."
+      },
+      {
+        "speaker": "DAPHNE",
+        "text": "Do you live alone?  I've been in these clothes since...the killings.  Could we stop at your place? I could take a shower...before I go into custody?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Request to go to Jordy's place to take a shower",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_307",
+    "dialogue": [
+      {
+        "speaker": "JORDY",
+        "text": "I can't take you to my place."
+      },
+      {
+        "speaker": "DAPHNE",
+        "text": "Somewhere else?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Asks about going \"somewhere else\"",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_308",
+    "dialogue": [
+      {
+        "speaker": "JORDY",
+        "text": "The men are out of quarters - practicing putting out fires."
+      },
+      {
+        "speaker": "DAPHNE",
+        "text": "So...the station is empty?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Yeah.  This way."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Going to empty fire station",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_340",
+    "dialogue": [
+      {
+        "speaker": "LEON",
+        "text": "He got my gun!  Motherfucker was filming the whole time!"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "I know.  Relax.  Take it easy.  Don't worry, we'll get those fuckers."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to filming"
+    }
+  },
+  {
+    "original_id": "conv_345",
+    "dialogue": [
+      {
+        "speaker": "ROSE",
+        "text": "He said he was her cousin.  I told him where she works.  They were just here."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Describe him."
+      },
+      {
+        "speaker": "ROSE",
+        "text": "Tall, short-haired, scary eyes.  Second guy with him was...shorter, with a wrestler's build.  And he wouldn't turn his videocamera off me."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "He had a videocamera?  Where is she? Quickly!"
+      },
+      {
+        "speaker": "ROSE",
+        "text": "She washes hair up at Ludwig's - a salon on 63rd and Madison."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to videocamera"
+    }
+  },
+  {
+    "original_id": "conv_348",
+    "dialogue": [
+      {
+        "speaker": "JORDY",
+        "text": "It's your crime scene now.  You can do what you want."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Watch the news?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Nah, I musta missed it."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Well, just so you know.  I gave you guys the credit."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Well, just so you know, I don't care about that stuff."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Nah, why should you?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "I don't even watch TV."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Good.  Good.  Commendable."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to watching TV"
+    }
+  },
+  {
+    "original_id": "conv_354",
+    "dialogue": [
+      {
+        "speaker": "JORDY",
+        "text": "You goin' to the escort service?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "You got any better ideas?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Mind if I ride along with you?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "This has nothing to do with your fire."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "But what if it does?  You might need my help."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Request to ride along",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_355",
+    "dialogue": [
+      {
+        "speaker": "EDDIE",
+        "text": "I'll let you know what happens."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "This is ridiculous.  I'm not gonna be in your way - we can talk the case over."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Tell you what - I'll flip you a coin. If you win you can come with me.  If you don't win, you don't come."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "I'll call it... tails."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about coming along",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_362",
+    "dialogue": [
+      {
+        "speaker": "JORDY",
+        "text": "Look - let me talk to her.  Any leads I get, they're all yours.  Just let me have a first crack at her."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "You wanna talk to her alone?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "What would your girlfriend think of that?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "I don't have a girlfriend."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "My point exactly."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "I'm serious here."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "So am I."
+      },
+      {
+        "speaker": "JORDY",
+        "text": "C'mon.  You intimidate her 'cause you're a celebrity.  She sees me differently."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "You're her Savior?  Is she the kid you're gonna save from the burning building?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "You know what I'm saying here."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Request to talk alone",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_367",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "So...who's Nicky?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Your opinion.  You see, they going to make a movie about me, too, Eddie.  And write books."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "What's your accomplishment."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "I kill someone famous."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Then do it, asshole."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Good - be tough to the end.  Actor who plays you will want to die like hero."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Discussion about making a movie"
+    }
+  },
+  {
+    "original_id": "conv_368",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "So tabloids don't have to do re enactments.  They going to have real movie this time."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "If you kill me and film it you're putting a noose around your neck."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to filming"
+    }
+  },
+  {
+    "original_id": "conv_370",
+    "dialogue": [
+      {
+        "speaker": "NICOLETTE",
+        "text": "Detective, does it look like a murder?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "We don't know that yet.  It's much too early.  There's a lot to be done."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "How many victims are up there?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "There are two bodies found at this point."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Can we go up to the crime scene?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "You know you can't do that.  C'mon."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Is it drug related?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "We don't know.  When I have more I'll let you know."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Request to go to crime scene",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_372",
+    "dialogue": [
+      {
+        "speaker": "NICOLETTE",
+        "text": "I understand, but I noticed that the Fire Marshall is here with you.  Is this somehow related to the fire department?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "I really can't give out any information right now at this point."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Okay.  But I do understand that your partner, Leon Jackson's been injured. Is that correct?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "He was hurt, but not seriously.  He'll be fine."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Do you have the suspect in custody?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Um...now is not a good time, okay. Detective Jackson's hurt.  He's fine. I've got a Fire Marshall shot, Detective Jackson is hurt but not seriously."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Alright, cut, cut, cut."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to filming"
+    }
+  },
+  {
+    "original_id": "conv_379",
+    "dialogue": [
+      {
+        "speaker": "NICOLETTE",
+        "text": "Okay, til tonight."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Tonight."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "You promise?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Yeah.  I promise."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Okay.  And you know what, I'll swing by my place, grab a couple pairs of shoes and maybe just test them out next to yours...How's that... Would that be a good thing."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Yeah, yeah.  Good thing."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Okay."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "See you later.  Good luck."
+      },
+      {
+        "speaker": "NICOLETTE",
+        "text": "Thank you."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Don't be late."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Plans to meet later",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_384",
+    "dialogue": [
+      {
+        "speaker": "EDDIE",
+        "text": "He's from Antigua.  His girlfriend was taking too long to put her make-up on. they were late for a party.  Stabbed her with a beer bottle."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "That's unique."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Yeah.  And he still went to the party."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to going to a party",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_390",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "Come to 45 Broadway.  Don't bring the Police.  Come alone or you'll be in my next film."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "Look asshole.  I've been threatened by better than you."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "No.  I'm the best that's ever threatened you."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "I'll meet you on one condition - I get exclusivity and you surrender to me."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "We'll talk about that.  Four o'clock gives you time to go to bank.  Three hundred thousand dollars."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "What?  It doesn't work that way."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "If you don't want my film - I'll call another show.  And they will show it."
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "Wait a minute.  Wait a minute."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Come alone.  Bring cash.  And we'll talk about surrendering."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Request to meet at 45 Broadway at 4 o'clock",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_406",
+    "dialogue": [
+      {
+        "speaker": "VENDOR",
+        "text": "This all you want?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Do you know how much killer gets for movie rights?"
+      },
+      {
+        "speaker": "VENDOR",
+        "text": "In here, says he wants a million."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Million?!  The killer gets one million dollars for a television interview?"
+      },
+      {
+        "speaker": "VENDOR",
+        "text": "Hey, tabloids paid Ted Bundy - famous serial killer - half a million for his interview.  And how much you think Monica got for writing book about the President coming on to her?  It pays to be a killer or a whore in this country. Look, you want magazine or not?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yes.  Both."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Discusses magazine purchase",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_409",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "Did you hear what I said?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "I want to document my trip to America."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References documenting trip"
+    }
+  },
+  {
+    "original_id": "conv_411",
+    "dialogue": [
+      {
+        "speaker": "OLEG",
+        "text": "Look.  New videocameras.  Color viewfinder.  Image stabilization. Solarization.  Night vision."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "We have no money.  Come on."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Discusses videocameras"
+    }
+  },
+  {
+    "original_id": "conv_414",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "Turn that fucking thing off!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "I'm not filming.  I'm watching Milos die.  It's just like a move but realer."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to filming"
+    }
+  },
+  {
+    "original_id": "conv_415",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "Speak English!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "You said speak Czech!"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "How you erase this?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "I'll do it.  Don't hurt my camera!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References camera"
+    }
+  },
+  {
+    "original_id": "conv_418",
+    "dialogue": [
+      {
+        "speaker": "OLEG",
+        "text": "Gotta light the scene better.  Now it's more moody... like a scene from THE THIRD MAN."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Shut up."
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Does it hurt?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References filming scene"
+    }
+  },
+  {
+    "original_id": "conv_419",
+    "dialogue": [
+      {
+        "speaker": "OLEG",
+        "text": "Oh, shit.  I hate looking at that!"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Don't want to film this?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References filming"
+    }
+  },
+  {
+    "original_id": "conv_420",
+    "dialogue": [
+      {
+        "speaker": "OLEG",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "The video of Milos and Tamina - I told you to erase it."
+      },
+      {
+        "speaker": "OLEG",
+        "text": "I did."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "And the whore's murder?  You didn't erase that either, did you?  Don't lie, I won't be angry."
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Put the camera down, Oleg."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References video and camera"
+    }
+  },
+  {
+    "original_id": "conv_422",
+    "dialogue": [
+      {
+        "speaker": "OLEG",
+        "text": "Let me get a shot of it."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Sit down!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "This way.  Hold it this way.  Good."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References getting a shot"
+    }
+  },
+  {
+    "original_id": "conv_423",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "No.  We are insane.  Who else but crazy men would film their murders?  So we kill someone famous and if we are caught, we are sent to mental hospital. But what good is money there?  Because once in hospital I say I not crazy. Just pretended to be acquitted.  We see psychiatrists.  They must certify we are sane and because of your - what is law called?  Oh - I got it.  Because of your Double Jeopardy law, we can't be tried for same crime twice.  We come out free, rich and famous!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Good idea!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References filming murders"
+    }
+  },
+  {
+    "original_id": "conv_424",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "Okay.  He has nothing to say.  Start the camera!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Cut!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References camera operation"
+    }
+  },
+  {
+    "original_id": "conv_426",
+    "dialogue": [
+      {
+        "speaker": "OLEG",
+        "text": "In movie they make of us, who do you think would act me?"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "The one who got caught in the bathroom.  George Michael."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References movie making"
+    }
+  },
+  {
+    "original_id": "conv_428",
+    "dialogue": [
+      {
+        "speaker": "OLEG",
+        "text": "This is my project.  I say 'action.'  I am the director!  You are the talent. You wait for me to say 'action.'  And 'action!'"
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Bad last moment - I cut it out."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References directing/filming"
+    }
+  },
+  {
+    "original_id": "conv_429",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "I told you to cut that out before we handed in the tape!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Be quiet.  Watch."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References tape/filming"
+    }
+  },
+  {
+    "original_id": "conv_430",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "Why did you leave that stuff in about you being the director?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Because I am the director.  Don't you realize, if it wasn't for my film, for my talent, my idea to do this - no way would we be sitting here right now."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Your idea?  I thought it was my idea."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References film making"
+    }
+  },
+  {
+    "original_id": "conv_431",
+    "dialogue": [
+      {
+        "speaker": "OLEG",
+        "text": "I'm serious...this - this is a great American film.  Full of violence and sex.  And I want my credit."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Credit?"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "Yes.  Before we hand in the next video - I put titles on it and my credit is going to read - Directed by Oleg Razgul."
+      },
+      {
+        "speaker": "EMIL",
+        "text": "Yes.  But there's only one problem - you want credit but the problem is - I don't share credit."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References video and credits"
+    }
+  },
+  {
+    "original_id": "conv_433",
+    "dialogue": [
+      {
+        "speaker": "EMIL",
+        "text": "Traitor!!"
+      },
+      {
+        "speaker": "OLEG",
+        "text": "No.  You are the traitor.  You are murderer.  I am director.  Action!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References directing"
+    }
+  },
+  {
+    "original_id": "conv_440",
+    "dialogue": [
+      {
+        "speaker": "HAWKINS",
+        "text": "Viewer discretion advised!"
+      },
+      {
+        "speaker": "MAGGIE",
+        "text": "You want the tape?  There it is!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References tape"
+    }
+  },
+  {
+    "original_id": "conv_443",
+    "dialogue": [
+      {
+        "speaker": "LEON",
+        "text": "And you, you'll pay for what you did!"
+      },
+      {
+        "speaker": "HAWKINS",
+        "text": "This footage will work in your favor. When the jury sees this - no matter what Cutler tries, they'll convict him."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References footage"
+    }
+  },
+  {
+    "original_id": "conv_463",
+    "dialogue": [
+      {
+        "speaker": "JORDY",
+        "text": "Now that you know him, maybe you can get extra work in the next movie they make about him."
+      },
+      {
+        "speaker": "KORFIN",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Maybe you can be his stand-in."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References movie making"
+    }
+  },
+  {
+    "original_id": "conv_470",
+    "dialogue": [
+      {
+        "speaker": "TOMMY",
+        "text": "What are you gonna do?"
+      },
+      {
+        "speaker": "JORDY",
+        "text": "Don't you get it?  He knew he was gonna get caught!  That's why he videotaped Eddie's murder - he thinks he's gonna get off."
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Don't stoop to his level!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References videotape"
+    }
+  },
+  {
+    "original_id": "conv_472",
+    "dialogue": [
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "This had nothing to do with shoes that didn't fit or my relationship with my father who, as you know, made a fortune selling penny loafers in the fifties. These people died because of the criminal actions of my doctor."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "Your doctor?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "Yes.  My psychiatrist didn't insist that I stay on my medication."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "...so you feel absolutely no responsibility for killing these people?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "It was my finger that pulled the trigger, but I'm not morally responsible.  My psychiatrist knew what I was capable of.  How could I know. I'm not a doctor."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "You seem very savvy for a man who's been found mentally incompetent to stand trial."
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "Look, I'm a victim here, too.  I was a year away from getting my masters in Art, now I'll never graduate.  My life has been permanently disrupted."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "Permanently disrupted?  Aren't you selling paintings now for quite a lot of money?  Hasn't this 'incident' as you call it, jump started your career as an artist?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "Look, I'm in here.  You call this a career move?"
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "And isn't there a movie in the works about you?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "We're in negotiations, that's correct."
+      },
+      {
+        "speaker": "ROBERT HAWKINS",
+        "text": "But doesn't the Son of Sam Law prevent criminals from profiting from their crimes?"
+      },
+      {
+        "speaker": "STEPHEN GELLER",
+        "text": "That doesn't apply to me because I'm not a criminal.  I'm not a criminal!  I wasn't convicted."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - References movie making"
+    }
+  },
+  {
+    "original_id": "conv_511",
+    "dialogue": [
+      {
+        "speaker": "CHILD",
+        "text": "I'm having a party tomorrow."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Yes, I know that sweetheart."
+      },
+      {
+        "speaker": "CHILD",
+        "text": "Are you coming to my party?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "No, I'm sorry, darling, I told you I won't be home for a few days."
+      },
+      {
+        "speaker": "CHILD",
+        "text": "When are you coming home?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "In three days, darling, I hope."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Child mentions having a party tomorrow",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_513",
+    "dialogue": [
+      {
+        "speaker": "FLOYD",
+        "text": "Okay, sweetheart. Have a lovely Birthday Party tomorrow."
+      },
+      {
+        "speaker": "CHILD",
+        "text": "Thank you, Daddy."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "I'll wish you a happy Birthday now and I'll see you soon. All right, Darling?"
+      },
+      {
+        "speaker": "CHILD",
+        "text": "Yes, Daddy."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "'Bye, 'bye, now, sweetheart."
+      },
+      {
+        "speaker": "CHILD",
+        "text": "Goodbye, Daddy."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to birthday party tomorrow",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_519",
+    "dialogue": [
+      {
+        "speaker": "ELENA",
+        "text": "Well, Gregor and I will look forward to seeing you."
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Thank you. It's been a great pleasure to meet all of you... Dr. Smyslov."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to IAC conference in June",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_524",
+    "dialogue": [
+      {
+        "speaker": "FLOYD",
+        "text": "Well, as it happens, I'm on my way up to the moon"
+      },
+      {
+        "speaker": "SMYSLOV",
+        "text": "Are you, by any chance, going up to your base at Clavius?"
+      },
+      {
+        "speaker": "FLOYD",
+        "text": "Yes,as a matter of fact, I am."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about going to moon base",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_555",
+    "dialogue": [
+      {
+        "speaker": "GANZ",
+        "text": "I want to drive awhile."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I ain't tired yet."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Maybe after we get done with him I'm gonna buy us some girls."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "Whaddya mean, buy?"
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Pros."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about getting girls",
+      "Q4": "Yes - Reference to buying girls",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_556",
+    "dialogue": [
+      {
+        "speaker": "BILLY",
+        "text": "Pay money?"
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Yeah, dummy.  Money."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "I never paid for it in my life."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "It's better when you pay... they let you do anything."
+      },
+      {
+        "speaker": "BILLY",
+        "text": "They always let me do anything. I don't want to pay for it.  I never paid for it in my life."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "Just do what I say, okay? We'll pay for the girls and have a good time... Don't you trust me?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about paying for girls",
+      "Q4": "Yes - Discussion about paying for girls",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_561",
+    "dialogue": [
+      {
+        "speaker": "CANDY",
+        "text": "You're in a hurry."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Yeah, i been waiting three years."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "You just quit bein' a priest or somethin'?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "No, baby, nothin' like that. Look, there's a place across the street. We can go right over there..."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "What's the matter with my place?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "No, it's gotta be here and now. Believe me. Only I don't have the damn money for a room..."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Suggestion to go to a place across the street",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_563",
+    "dialogue": [
+      {
+        "speaker": "CANDY",
+        "text": "Hello, again."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I just struck it rich... I think we can do a little business.  As a matter of fact, I think we can have a party."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to having a party",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_564",
+    "dialogue": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Here you go, baby."
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Hey, don't do that.  I said I wasn't a pro, remember?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Hey, no, I'm tryin' to be nice. Buy yourself something pretty. I'd do it, but I got to go.  I got this cop waitin' for me..."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "Yes - Offering money",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_565",
+    "dialogue": [
+      {
+        "speaker": "HAMMOND",
+        "text": "I'll buy ya the best dinner in San Francisco...how'd that be? Then we'll go dancin', okay?"
+      },
+      {
+        "speaker": "CANDY",
+        "text": "Now you're talkin'. See ya..."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Offer of dinner and dancing",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_605",
+    "dialogue": [
+      {
+        "speaker": "CATES",
+        "text": "Let's go."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Wait a minute.  Maybe these ladies would like to go a few laps with us.  How about it? I been nearly three years in prison and..."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Hammond suggests \"going a few laps\" with ladies after mentioning being in prison",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_629",
+    "dialogue": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Hey, Jack, how ya doin'? What took you so long to call, man? I been waitin' ... I'm at Vroman's up in the Fillmore. Yeah, Vroman's... 'Course you don't hang out here; it's for the brothers."
+      },
+      {
+        "speaker": "CATES",
+        "text": "I'll be there in a minute. You don't move your ass, right?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Hammond tells Cates he's at Vroman's in the Fillmore",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_637",
+    "dialogue": [
+      {
+        "speaker": "CATES",
+        "text": "Yeah, I see her."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "I can just take her right across the street to Luther's hotel.  All I need is some money for the room."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Hammond suggests taking someone to Luther's hotel",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_640",
+    "dialogue": [
+      {
+        "speaker": "HAMMOND",
+        "text": "Hey, how'd my car get here?"
+      },
+      {
+        "speaker": "CATES",
+        "text": "I had it impounded.  Come on, we'll use it for haulin' you back to the slam."
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Back to jail in my own car.  Ganz got away. Got all my money. It just don't seem right."
+      },
+      {
+        "speaker": "CATES",
+        "text": "I don't know about you, but I could use a drink... I'll buy you one.  It'll be my good-bye present."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Cates offers to buy Hammond a drink as a goodbye present",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_682",
+    "dialogue": [
+      {
+        "speaker": "ELAINE",
+        "text": "You know, if you let me come over to your place once in a while, you could put on a clean shirt in the morning."
+      },
+      {
+        "speaker": "CATES",
+        "text": "What makes you think I have any clean shirts at my place?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Elaine suggests coming over to Cates' place",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_683",
+    "dialogue": [
+      {
+        "speaker": "CATES",
+        "text": "Maybe you ought to buy me one."
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "Maybe I would if I knew when you were coming back."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about Cates coming by",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_691",
+    "dialogue": [
+      {
+        "speaker": "ELAINE",
+        "text": "Just one.  Some lady called.  Said she's a little hot-headed sometimes... But she still wants her occasional roommate. She'd like to talk it over after she gets off work tonight... if it's humanly possible...."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Elaine, look, I'm in the middle of sone stuff right now... I'm not gonna have time to come by. I don't know when I can get there."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to meeting after work",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_701",
+    "dialogue": [
+      {
+        "speaker": "CATES",
+        "text": "Whaddya think?"
+      },
+      {
+        "speaker": "ELAINE",
+        "text": "What do I know?  I'm just a bartender."
+      },
+      {
+        "speaker": "CATES",
+        "text": "Let's go, Reggie."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Cates tells Reggie \"Let's go\"",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_714",
+    "dialogue": [
+      {
+        "speaker": "GANZ",
+        "text": "How ya doin'?"
+      },
+      {
+        "speaker": "HENRY",
+        "text": "Can't complain."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "We got a lot to talk about."
+      },
+      {
+        "speaker": "HENRY",
+        "text": "Yeah, old times."
+      },
+      {
+        "speaker": "GANZ",
+        "text": "We'll follow you.  Take it slow,okay?"
+      },
+      {
+        "speaker": "HENRY",
+        "text": "Sure, right."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - \"We'll follow you\"",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_721",
+    "dialogue": [
+      {
+        "speaker": "SOSNA",
+        "text": "You want to go outside?"
+      },
+      {
+        "speaker": "HAMMOND",
+        "text": "Naw, right here's okay."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - \"You want to go outside?\"",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_746",
+    "dialogue": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "I'm sorry to have to resort to such methods, but we heard about your good luck on he radio and we need the tickets to Fhloston."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Is that the usual way priests go on vacation?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "We're not going on vacation..we're on a mission.."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "What kind of mission?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "We have to save the world."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Good luck.."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Of course."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Father, I was in the Army for awhile and every time they told us we were on a mission to save the world the only thing that changed was I lost a lot of friends. So thanks for the offer.. but no thanks."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Mission to save the world mentioned",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_775",
+    "dialogue": [
+      {
+        "speaker": "KORBEN",
+        "text": "I just found a picture of you."
+      },
+      {
+        "speaker": "FINGER",
+        "text": "How do I look?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Like shit."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to finding a picture"
+    }
+  },
+  {
+    "original_id": "conv_781",
+    "dialogue": [
+      {
+        "speaker": "GIRL",
+        "text": "...Priest..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "You're not that bad... Come on we'll get you to a doctor."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Offer to go to a doctor",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_792",
+    "dialogue": [
+      {
+        "speaker": "MOTHER",
+        "text": "You just won a trip, you dolt! Ten days in Fhloston Paradise for two!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Ma. If I'd won, I'd know about it. Someone would have notified me."
+      },
+      {
+        "speaker": "MOTHER",
+        "text": "They've been blaring out your name on the radio for the last hour, blockhead!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to trip to Fhloston Paradise",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_801",
+    "dialogue": [
+      {
+        "speaker": "LOC RHOD",
+        "text": "...Quiver ladies, he's gonna set the world on fire right here from 5 to 7! You'll know everything there is to know about the D-man. His dreams, his desires, his most intimate of intimates.  And from what I'm looking at intimate is the stud muffin's middle name. So tell me my main man... you nervous in the service?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Uh... not really."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Radio show meetup mentioned (5 to 7)",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_802",
+    "dialogue": [
+      {
+        "speaker": "KORBEN",
+        "text": "I didn't come here to play Dumbo on the radio. So tomorrow between 5 and 7 give yourself a hand, that clear pal?"
+      },
+      {
+        "speaker": "LOC RHOD",
+        "text": "Crystal."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Radio show tomorrow between 5 and 7",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_803",
+    "dialogue": [
+      {
+        "speaker": "LOC RHOD",
+        "text": "My main man! Please don't leave me here alone. My head's killing me and my adoring fans are gonna tear me apart! Get me outta here!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I'll take you to the bar, after that, you're on your own."
+      },
+      {
+        "speaker": "LOC RHOD",
+        "text": "Oh, yes! Do that! You treat me right, man. Tell me all about yourself, your roots, your personal life, your childhood dreams..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I don't think this is a good time..."
+      },
+      {
+        "speaker": "LOC RHOD",
+        "text": "...You got brothers and sisters? What about your dad? Tell me about your dad! What was he like? Physically? Big, I suppose?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Yeah, very big, a giant."
+      },
+      {
+        "speaker": "LOC RHOD",
+        "text": "I didn't have a dad... never saw him... never even heard him. 50 billion people listen to me every day... and he doesn't hear me..."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Request to take to bar",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_806",
+    "dialogue": [
+      {
+        "speaker": "LOC RHOD",
+        "text": "Maybe we oughta be going, what do you think?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Not without Leeloo."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - \"Not without Leeloo\" implies meeting",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_807",
+    "dialogue": [
+      {
+        "speaker": "LOC RHOD",
+        "text": "Like Korben, can I have 30 seconds of your time here?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I'll be right back."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - \"I'll be right back\" implies meeting",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_810",
+    "dialogue": [
+      {
+        "speaker": "KORBEN",
+        "text": "Solid little jobs, aren't they?"
+      },
+      {
+        "speaker": "LOC RHOD",
+        "text": "Dear listeners, your favorite DJ is alive and kicking. It's seven o'clock and time for the news. Tune in tomorrow for another adventure."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to \"tomorrow for another adventure\"",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_813",
+    "dialogue": [
+      {
+        "speaker": "MUNRO",
+        "text": "Major Dallas, if our calculations are correct you still have 57 hours owed to the Federal Army on your enlistment which is more than you will need for a mission of the utmost importance."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "What mission?"
+      },
+      {
+        "speaker": "MUNRO",
+        "text": "To save the world."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Where have I heard this song before?"
+      },
+      {
+        "speaker": "MUNRO",
+        "text": "You're to leave immediately for Fhloston Paradise. Retrieve four Stones from the Diva Plavalaguna. And bring them back with the utmost discretion as possible. Any questions'?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Just one... why me?"
+      },
+      {
+        "speaker": "MUNRO",
+        "text": "Three reasons... One: As part of The Elite Special Forces Unit of the Federated Army you are an expert in the use of all weapons and spacecraft needed for this mission."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Mission to Fhloston Paradise",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_815",
+    "dialogue": [
+      {
+        "speaker": "MUNRO",
+        "text": "Don't you open your messages?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "I've had enough good news for today"
+      },
+      {
+        "speaker": "MUNRO",
+        "text": "You have won the annual Gemini contest and a trip to Fhloston Paradise. For two. Congratulations. Here are your tickets."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Trip to Fhloston Paradise mentioned",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_819",
+    "dialogue": [
+      {
+        "speaker": "KORBEN",
+        "text": "...Sorry, General, but we've got no choice! It'll only take a minute! Let me set up another meeting and I'll be back."
+      },
+      {
+        "speaker": "MUNRO",
+        "text": "Three of us will never fit in there!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Oh, yes you will..."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - \"Set up another meeting\" mentioned",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_823",
+    "dialogue": [
+      {
+        "speaker": "LEELOO",
+        "text": "Dinoine chagantakat!"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Took the words right out of my mouth. Go on... I'll be right with you.  It's our honeymoon. We're going to use the trip to get to know each other better."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to honeymoon trip",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_830",
+    "dialogue": [
+      {
+        "speaker": "KORBEN",
+        "text": "Where you going?"
+      },
+      {
+        "speaker": "LEELOO",
+        "text": "I'm going to see the Diva sing. What's the matter?... Do I look bad?"
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "No, not at all!  I mean, just the opposite, you're... you're beautiful!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Going to see Diva sing",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_835",
+    "dialogue": [
+      {
+        "speaker": "KORBEN",
+        "text": "It's up to you now, Angel!"
+      },
+      {
+        "speaker": "LEELOO",
+        "text": "I'm so tired..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "You can sleep tomorrow... come on..."
+      },
+      {
+        "speaker": "LEELOO",
+        "text": "I want to sleep... forever..."
+      },
+      {
+        "speaker": "KORBEN",
+        "text": "Leeloo! Listen to me! I'll take you on a vacation afterwards! A real vacation, this time, for as long as you want. Come on! You can do it!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Mention of vacation",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_840",
+    "dialogue": [
+      {
+        "speaker": "KORBEN",
+        "text": "At least I won lunch."
+      },
+      {
+        "speaker": "THAI",
+        "text": "Good philosophy..see good in bad.. I like..I prepare number one dessert.. special for you and pussy.."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to lunch",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_861",
+    "dialogue": [
+      {
+        "speaker": "ZORG",
+        "text": "How's that? Can you hear me better now?"
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Yes, Mr. Zorg, I hear you perfectly! So, how was the concert?"
+      },
+      {
+        "speaker": "ZORG",
+        "text": "Who gives a shit! I didn't come here to listen to music! Listen up instead of running off at the mouth! The batteries on my phone are almost gone."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Yes, Sir!"
+      },
+      {
+        "speaker": "ZORG",
+        "text": "Dispatch me another ZFX200 immediately. Someone stole mine."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Right away, Sir. I'll send you a new one to the hotel."
+      },
+      {
+        "speaker": "ZORG",
+        "text": "I'm not at the hotel!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to concert",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_870",
+    "dialogue": [
+      {
+        "speaker": "AMY",
+        "text": "You think you'll have time for the water heater this weekend?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Sure.  I'll call the guy."
+      },
+      {
+        "speaker": "AMY",
+        "text": "You're not using the same guy who tried to fix it?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "I'm not using him again for anything.  He was worthless.  You have bridge here Saturday?"
+      },
+      {
+        "speaker": "AMY",
+        "text": "Betty's out of town so we're playing next week."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Bridge game next week mentioned",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_871",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "This is the mortgage.  This is Cindy's college money."
+      },
+      {
+        "speaker": "AMY",
+        "text": "I understand."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Sometimes you can't know what I'm doing.  It's better that way."
+      },
+      {
+        "speaker": "AMY",
+        "text": "I know."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "It's a missing persons case... a long shot.  I'll give it two months, two months at most, then I'll be back.  We'll take a vacation."
+      },
+      {
+        "speaker": "AMY",
+        "text": "Why the gun?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "I'm not gonna need it.  I won't even wear it.  It's a precaution.  Don't worry about me."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to coming back in two months",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_873",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "Amy, just listen.  Take Cindy and get out of the house.  Do it now. Go to a hotel and stay there..."
+      },
+      {
+        "speaker": "AMY",
+        "text": "What's wrong?  Are you alright?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "I'm okay.  Please, honey, I can't explain.  Don't use the phone, just pack a bag and get out.  I'm on my way.  I'll be back at the house in three hours.  Call me from the hotel when you get there"
+      },
+      {
+        "speaker": "AMY",
+        "text": "... What's going on?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Just do it, Amy, please, go."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Coming back to house in three hours",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_880",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "What are these?"
+      },
+      {
+        "speaker": "ANGRY DEALER",
+        "text": "Mixed hard bondage.  Rape films. Sick shit.  Buy five, get one free."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to films"
+    }
+  },
+  {
+    "original_id": "conv_881",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "Anything harder?"
+      },
+      {
+        "speaker": "ANGRY DEALER",
+        "text": "There's nothing harder."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Snuff?"
+      },
+      {
+        "speaker": "ANGRY DEALER",
+        "text": "What you see is what I got, mister."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "You know where I can get it?  I have a lot of money to spend."
+      },
+      {
+        "speaker": "ANGRY DEALER",
+        "text": "There ain't no such thing as snuff. Why don't you fuck off?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Discussion of films"
+    }
+  },
+  {
+    "original_id": "conv_884",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "It's an honor to meet you.  Thank you for seeing us."
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "What can I do for you today?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Meeting in person",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_887",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "That's five thousand dollars."
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "Is it?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Five thousand now, five thousand on delivery. Two women, one white and one black, as long as they have large breasts. Hard bondage, or course.  Other than that, trusting your artistic interpretation, I have only two stipulations."
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "And they are?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "I want to watch you work."
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "I'll consider it."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "And the other performer... it has to be that monster you use... the man in the mask."
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "Machine."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "If it's not him, there's no deal."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to filming"
+    }
+  },
+  {
+    "original_id": "conv_889",
+    "dialogue": [
+      {
+        "speaker": "DINO VELVET",
+        "text": "You have a beautiful face... the way the light hits it.  I'd like to take your picture.  You don't mind?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "I'd rather you didn't."
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "What's the problem?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "I'm camera shy."
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "You trust me to keep your money, but not to take your picture?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Those are two different kinds of trust.  Thank you for your time.  I hope we can do business."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Discussion about taking pictures"
+    }
+  },
+  {
+    "original_id": "conv_891",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "Where's that?"
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "Brooklyn.  Don't be late."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Meeting in Brooklyn",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_893",
+    "dialogue": [
+      {
+        "speaker": "DINO VELVET",
+        "text": "Excellent."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Where are the women?"
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "They should be here any minute."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Waiting for people to arrive",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_899",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "I'll get it.  It's in a safe deposit box, in the city..."
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "How cooperative.  Longdale will keep you company."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to meeting in city",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_903",
+    "dialogue": [
+      {
+        "speaker": "EDDIE",
+        "text": "... sorry..."
+      },
+      {
+        "speaker": "DINO VELVET",
+        "text": "First things first.  You might want to watch this, Mr. Welles..."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to watching something"
+    }
+  },
+  {
+    "original_id": "conv_921",
+    "dialogue": [
+      {
+        "speaker": "EDDIE",
+        "text": "You know how my tapes sell.  People eat this stuff up."
+      },
+      {
+        "speaker": "MALE VOICE",
+        "text": "I had three jerkoffs trying to return your tapes last month.  Do you know how bad a skin flick has to be for some jackass to come back into my place with a fucking receipt, and try to fucking return it?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Maybe there's something wrong with the scumbag customers coming into your place, ever think of that?"
+      },
+      {
+        "speaker": "MALE VOICE",
+        "text": "The only thing wrong is the cheap, softcore crap you're peddling, Eddie.  Where do you get this stuff?"
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Look, you cocksucker..."
+      },
+      {
+        "speaker": "MALE VOICE",
+        "text": "Get together some upscale product where the girls still have teeth in their head.  Till then, fuck you."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Fuck you!"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to tapes"
+    }
+  },
+  {
+    "original_id": "conv_923",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "You were the middleman, am I right? Old man Christian wasn't about to go shopping for a snuff film himself."
+      },
+      {
+        "speaker": "LONGDALE",
+        "text": "Wouldn't exactly have been possible for a man of his stature."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "So, he sent you, gave you the money, his errand-boy.  And if you refused, it wasn't like you could tell anyone your pervert boss just asked you to get him a snuff film.  That's the beauty of lawyer/client privilege."
+      },
+      {
+        "speaker": "LONGDALE",
+        "text": "That's trust.  Mr. Christian trusted me implicitly."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Must have paid you a lot, for you to risk everything.  Would've had to have cut yourself a real nice piece of money."
+      },
+      {
+        "speaker": "LONGDALE",
+        "text": "I was well compensated."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "That's why you got scared when Mrs. Christian hired me.  You knew about the film, figured it had to be in that safe.  How'd you find me?"
+      },
+      {
+        "speaker": "LONGDALE",
+        "text": "Never mind how I found you."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Followed me... must have freaked out when you saw me closing in on your buddies..."
+      },
+      {
+        "speaker": "LONGDALE",
+        "text": "They're no friends of mine."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Except, you're willing commit murder with them."
+      },
+      {
+        "speaker": "LONGDALE",
+        "text": "None of this would be happening if you would have left it alone.  If you weren't digging up a girl who died six years ago.  A girl no one even remembers."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Mary Anne Mathews, that was her name.  Her mom remembers her."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to film"
+    }
+  },
+  {
+    "original_id": "conv_928",
+    "dialogue": [
+      {
+        "speaker": "LONGDALE",
+        "text": "Give me the film."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "You'll get it when we get there."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to film"
+    }
+  },
+  {
+    "original_id": "conv_939",
+    "dialogue": [
+      {
+        "speaker": "MAX",
+        "text": "You've got Penthouse, Playboy, Hustler, etc.  Nobody even considers them pornography anymore.  Then, there's mainstream hardcore.  Triple X.  The difference is penetration. That's hardcore.  That whole industry's up in the valley. Writers, directors, porn stars. They're celebrities, or they think they are.  They pump out 150 videos a week.  A week.  They've even got a porno Academy Awards.  America loves pornography.  Anybody tells you they never use pornography, they're lying.  Somebody's buying those videos.  Somebody's out there spending 900 million dollars a year on phone sex.  Know what else?  It's only gonna get worse.  More and more you'll see perverse hardcore coming into the mainstream, because that's evolution.  Desensitization.  Oh my God, Elvis Presley's wiggling his hips, how offensive!  Nowadays, Mtv's showing girls dancing around in thong bikinis with their asses hanging out.  Know what I mean?  For the porn-addict, big tits aren't big enough after a while.  They have to be the biggest tits ever.  Some porn chicks are putting in breast implants bigger than your head, literally.  Soon, Playboy is gonna be Penthouse, Penthouse'll be Hustler, Hustler'll be hardcore, and hardcore films'll be medical films. People'll be jerking off to women laying around with open wounds. There's nowhere else for it to go."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Interesting theory."
+      },
+      {
+        "speaker": "MAX",
+        "text": "What you saw tonight, we're not talking about a video some dentist takes home over the weekend.  We're talking about stuff where people get hurt.  Specialty product."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Child pornography."
+      },
+      {
+        "speaker": "MAX",
+        "text": "There's two kinds of specialty product; legal and illegal.  Foot fetish, shit films, watersports, bondage, spanking, fisting, she- males, hemaphrodites... it's beyond hardcore, but legal.  This is the kind of hardcore where one guy's going to look at it and throw up, another guy looks at it and falls in love.  Now, with some of the S+M and bondage films, they straddle the line.  How are you supposed to tell if the person tied up with the ball gag in their mouth is a consenting or not?  Step over that line, you're into kiddie porn.  Rape films, but there aren't many.  I've never seen one."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Snuff films."
+      },
+      {
+        "speaker": "MAX",
+        "text": "I heard you asking.  That guy wasn't yanking you around.  There's no such thing."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "What other ways are there to get illegal films?  Who do you see?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "First of all, basement sales like tonight aren't gonna last much longer.  It's too risky, one, and two, everything's going on the internet.  Anyone with a computer and enough patience can find anything he wants.  It's heaven for those degenerate chicken-hawks. They're swapping pictures back and forth as fast as their modems can zap 'em.  But, there's still some weird shit under the counter where I work sometimes.  No one knows where it comes from.  That's local underground, where information spreads by word of mouth.  Those are zombies, hardcore junkies.  Their hands are permanently pruned.  They go out in the sun they don't burn, they blister.  Other than that, all I know about is the mail. Classified ads in the paper with hidden codes.  Secret couriers. Credit card orders to dummy corporations.  Interstate wire transfers.  Revolving P.O. boxes. But, if you're asking me who do you go to to get illegal shit... who knows?  That's the whole point -- the seller stays as far away from the buyer as possible, and vice versa, and cops can't trace the deal.  There's ways to do it so nobody knows who anybody is."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Discussion about pornography"
+    }
+  },
+  {
+    "original_id": "conv_940",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "How old are you?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Twenty-five."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Where are your parents?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I don't know, where are yours?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "I don't mean any offense... but what are you doing mixed up in all this?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm not mixed up in anything, hayseed.  What are you talking about?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "You just strike me as smart enough to be doing something else."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Yeah, I'm a real genius.  What choices have I got?  Fuck, just because I know about stuff like tonight doesn't mean I deal it.  I work a job.  It beats pumping gas, beats making hamburgers."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "You're telling me it doesn't get to you?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "You can't sit there all day watching the parade of losers that comes into that place without going numb.  So what? Am I gonna go off and be a race car driver?  Go to Harvard?  Run for President?  What about you, pops?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "What about me?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I see a ring on your finger.  You have any kids?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "A daughter."
+      },
+      {
+        "speaker": "MAX",
+        "text": "So, you have a wife and kid waiting for you in Pennsylvania... what are you doing mixed up in all this?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Good question."
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - States age as 25",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_941",
+    "dialogue": [
+      {
+        "speaker": "MAX",
+        "text": "Dino Velvet... yeah, he's like the John Luc Godard of S+M flicks, supposed to be a real weirdo."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "A weirdo making S+M films?  Who'd have thought it?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "His stuff comes out of New York. Bondage and fetish videos, Gothic Hardcore.  Definitely not for the squeamish."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Specialty product."
+      },
+      {
+        "speaker": "MAX",
+        "text": "You're learning."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Where does he sell it?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "Out of the back of bondage magazines mostly, but you can find it on the street if you look.  He'll also do commissions, for enough money..."
+      },
+      {
+        "speaker": "MAX",
+        "text": "Nothing illegal, it's always borderline.  Like if some freak wants to see a transvestite in a full rubber immersion suit getting an enema from a..."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Alright, I get the picture."
+      },
+      {
+        "speaker": "MAX",
+        "text": "He cuts all kinds of other stuff into his movies; photographs, newsreel footage, subliminal images. Thinks he's making art."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Well, I'm in New York now.  What do you say to flying out and giving me a hand?"
+      },
+      {
+        "speaker": "MAX",
+        "text": "I'm a working stiff, pops."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Take a vacation.  I'll pay you four hundred a day, plus expenses."
+      },
+      {
+        "speaker": "MAX",
+        "text": "You want me to come out there and play private eye?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Consider it.  Meanwhile, dig up whatever Dino Velvet films you can. Get receipts.  I'll call back."
+      },
+      {
+        "speaker": "MAX",
+        "text": "See ya."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to films"
+    }
+  },
+  {
+    "original_id": "conv_960",
+    "dialogue": [
+      {
+        "speaker": "MRS CHRISTIAN",
+        "text": "It's a film... of a girl being murdered."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "I'm afraid I don't..."
+      },
+      {
+        "speaker": "MRS CHRISTIAN",
+        "text": "This is a movie showing a girl being murdered.  She's sitting on a bed, and a man rapes her... and he begins to cut her with a knife...  I only watched what I could."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to film"
+    }
+  },
+  {
+    "original_id": "conv_961",
+    "dialogue": [
+      {
+        "speaker": "MRS CHRISTIAN",
+        "text": "I didn't know what to think.  I can't tell you how horrible it's been, to know this belonged to my husband.  To know that he watched this... this atrocity.  But, I can't go to the police..."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Mrs. Christian... please, will you sit down a moment?  I want you to listen carefully. What you're talking about is a \"snuff film.\"  But, from what I know, snuff films are a kind of... urban myth.  Like, red light district folklore.  There's no such thing, I can assure you."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to film"
+    }
+  },
+  {
+    "original_id": "conv_962",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "Please, believe me.  This is probably a stag film.  Simulated rape.  Hard to stomach, and it might seem real, but there are ways of making it look realistic... fake blood and special effects..."
+      },
+      {
+        "speaker": "MRS CHRISTIAN",
+        "text": "No."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "If you were to study it you'd see the camera cutting away... you'd see the tricks they can play..."
+      },
+      {
+        "speaker": "MRS CHRISTIAN",
+        "text": "I'm telling you it's not that."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "I'm sure it is.  It's probably something your husband was given as a bad joke.  More than likely he never even watched it."
+      },
+      {
+        "speaker": "MRS CHRISTIAN",
+        "text": "Will you watch it and see for yourself?"
+      },
+      {
+        "speaker": "WELLES",
+        "text": "Of course.  But, I'm certain it's nothing to worry about."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Discussion about film"
+    }
+  },
+  {
+    "original_id": "conv_963",
+    "dialogue": [
+      {
+        "speaker": "WELLES",
+        "text": "You... you need to go to the police."
+      },
+      {
+        "speaker": "MRS CHRISTIAN",
+        "text": "I told you I can't, not yet."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "You don't have any other choice."
+      },
+      {
+        "speaker": "MRS CHRISTIAN",
+        "text": "No.  For me to live with the ruin of my husband's name, I need know that whoever did this will be punished. If you can find them, I will take their names to the police.  I'll say my husband confessed on his death bed. I'll say I didn't have courage to come forward at first..."
+      },
+      {
+        "speaker": "WELLES",
+        "text": "It won't work like that."
+      },
+      {
+        "speaker": "MRS CHRISTIAN",
+        "text": "Any evidence you collect can be given to the police later, anonymously.  I've thought about it and there's no other way.  If you can't find them... if the only thing that comes from this film is that this is all my husband will be remembered for, well I can't let that happen.  I'm telling you I won't.  If there's no chance that poor girl's memory can be served, then I'll just have to spend my last days trying to forget her."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to film"
+    }
+  }
+]

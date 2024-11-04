@@ -1,0 +1,1806 @@
+[
+  {
+    "conversation_id": "conv_27801",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "MARTIA",
+        "text": "That's not his knee.  Not everybody keeps their genitals in the same place, Captain."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Anything else you want to tell me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27802",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "MARTIA",
+        "text": "When whoever it is makes their move, you won't be here to ask if he's the one."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "There's gotta be a way out of this place..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27803",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "MARTIA",
+        "text": "Listen. No one has ever escaped from Rura Penthe."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Except us."
+      },
+      {
+        "speaker": "MARTIA",
+        "text": "It IS possible."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27804",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "MARTIA",
+        "text": "I know how to get outside the shield."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Where do we come in?"
+      },
+      {
+        "speaker": "MARTIA",
+        "text": "Getting outside the shield is easy. After that it's up to you to get us off the surface before we freeze. Can you?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Possibly."
+      },
+      {
+        "speaker": "MARTIA",
+        "text": "I can't make it alone. You're the likeliest candidate to come to this god-forsaken place in months."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Candidate for what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27805",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "Maybe if their particles just got a wee bit mixed..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Energize..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27806",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Stand down your weapons."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Captain, if --"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Stand DOWN, Mr. Scott. All stop. That's an order."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27807",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "This is incredible -"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "WHO ELSE...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27808",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "As you were. Lieutenant...?"
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Saavik, sir. We were told you'd need a helmsman -  ... so I volunteered."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27809",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Aft thrusters -"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Thank you. Lieutenant, one quarter impulse power..."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Captain, may I remind you that regulations specify thrusters only while in space dock?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27810",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Aye, sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Plot a course for Kronos, Lieutenant."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Kronos, sir?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I'm still in the chair, Lieutenant."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27811",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Sorry -"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Come on, Saavik, you COULD knock -"
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "We're almost at the rendezvous - I thought you'd want to know..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Right -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27812",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "I gather you are not enthusiastic about the assignment... I don't think many on board are."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You piloted well out of spacedock, Lieutenant -"
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "I always wanted to try that."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Only don't try putting words in my mouth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27813",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Uhura, hailing frequencies. Right standard rudder, bring us alongside..."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Right standard rudder, Z plus five degrees..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27814",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "I hope you're happy."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Captain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27815",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Saavik, you know anything about a neutron energy surge?"
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Mr. Chekov, anything unusual?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27816",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Captain, our shields -- !"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Uhura, signal our surrender."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27817",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Who is \"US?\""
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "I won't allow Starfleet to be dismantled over some Klingon promises."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Starfleet will be around long enough for me to convene a Court Martial on this ship, Lieutenant. Win, lose or draw it will be on your record."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27818",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Just the prototype."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You hear that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27819",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "This is Captain Sulu, USS Excelsior."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Sulu!"
+      },
+      {
+        "speaker": "SULU",
+        "text": "Standing by, Captain Kirk."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You understand that by even talking to us, you're violating regulations, Captain."
+      },
+      {
+        "speaker": "SULU",
+        "text": "I'm sorry, Captain - your message is breaking up."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Bless you, Sulu.  Where's the peace conference? They're going to attempt another assassination."
+      },
+      {
+        "speaker": "SULU",
+        "text": "The Conference is at Camp Khitomer, near the Romulan border. I'm sending the exact coordinates on a coded frequency."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I'm afraid we may need more than that. There's a Bird of Prey on the lookout for us. And she can fire while she's cloaked."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Surely not."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I'm telling you. Hang on.  How many of those things are there? Come on, Lieutenant, you're charged with murder..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27820",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "I'm getting underway now. But you should know, I'm in alpha Quadrant. The chances of my reaching the conference in time are slim."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "When does this conference start?"
+      },
+      {
+        "speaker": "SULU",
+        "text": "According to my information, today."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Thank you, Captain Sulu."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Don't mention it, Captain Kirk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27821",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Me?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "We have volunteered to rendezvous with the Klingon ship that's bringing Chancellor Gorkon here, and escort him safely through Federation space."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27822",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "I have personally vouched for you in this matter, Captain."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You have personally -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27823",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "WE volunteered?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "There's an old Vulcan proverb: only Nixon could go to China."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "How could you vouch for me? That's...  ... arrogant presumption -"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I was asked by my father to open neg-"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I know your father's the Vulcan Ambassador for heaven's sake, but you know how I feel about this: they're animals."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Jim, there is an historic opportunity here -"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "DON'T TRUST THEM. DON'T BELIEVE THEM -"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "They're dying."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "LET THEM DIE."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27824",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Lieutenant, I am pleased to see you.  The Lieutenant is the first Vulcan to be graduated at the top of her class as the Academy."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Congratulations, Lieutenant. That must make you very proud..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27825",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Never been this close."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "The Chancellor is undoubtedly awaiting our signal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27826",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "I believe the Captain feels that Starfleet's mission has always been one of peace -"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Far be it for me to dispute my first officer. Starfleet has always -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27827",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "I don't believe our own conduct will distinguish us in the annals of diplomacy..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I'm going to sleep it off. Let me know if there's some other way we can screw up tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27828",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I am uncertain."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Spock, I'm really tired..."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "We are reading an enormous amount of neutron radiation."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Where?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Curiously it appears to emanate from us."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "From Enterprise?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27829",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "What the -"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "We've fired on the Chancellor's ship -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27830",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "We HAVEN'T fired -"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "According to the data bank, we HAVE - twice..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27831",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "I am responsible for involving you in this. I will go."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I'M going. You are going to be responsible for getting me out of this. Meantime we're not going to be the instigators of a full-scale war on the eve of universal peace."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Perhaps you're right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27832",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Captain..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "He was just about to explain the whole damn -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27833",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "The Klingons have a new weapon: a Bird of Prey that can fire while cloaked. She torpedoed Gorkon's ship."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "So, that's it.."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27834",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "The peace conference."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "What peace conference?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Azetbur has agreed to meet the Federation at a undisclosed location to continue her father's work... the conspirators obviously intend to try again..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27835",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "I've been dead before. Uhura, raise Excelsior. She ought to have the co-ordinates."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Why would they give them to us?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "The Commander is an old friend of yours."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27836",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Are you dining on worms?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "You were right: it was arrogant presumption that got us into this situation. You might have died."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "The night is young. Anyway, it was logical.  You know, you're a great one for logic. I'm a great one for  rushing in where angels fear to tread. We're both extremists. Reality is probably somewhere in between us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27837",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "I was blind. I couldn't see past the death of my son. I couldn't trust."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I too was blind. I knew about HER - and I did nothing. I trusted too much."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "You couldn't have known she was listening the night I dictated that entry into my log. You were proud of her achievements as a Vulcan."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I was PREJUDUCED by those achievements."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Gorkon had to die before I understood how prejudiced I was..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27838",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Can we two have grown so old and inflexible that we have outlived our usefulness?  Would that constitute a joke?"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Someone said the difference between comic and cosmic is the letter \"S.\" You haven't outlived your usefulness - to me. And you are not responsible just because she is also Vulcan -"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I SHOULD have been -"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Not for the actions of another. No one is responsible for any actions but his own. Human beings -"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "But I am not human. I am only -"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Spock, you want to know something?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27839",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Close enough to beam down?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Not yet... Section 4236..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27840",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Captain, perhaps we're going about this the wrong way; our job is to get to the conference; HER job will be to stop us."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Make ourselves a target?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27841",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "What's she waiting for?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Probably trying to figure out why we're reversing, wondering if we detect her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27842",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "But we haven't run out of history just yet.  Your father quoted Hamlet: he called the future - \"the undiscovered country\"..."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I always assumed Hamlet meant death."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Gorkon thought the undiscovered country might mean something else - another kin of life. People can be very frightened of change. I know I was."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27843",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "The only way to find out if a man's trustworthy..."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "... is to trust him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27844",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "Control tower, reading, Sir."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Control, this is Enterprise requesting permission to depart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27845",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "Channel open, Captain."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "This is the Starship Enterprise, Captain James Kirk commanding."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27846",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "Captain --"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "WE SURRENDER."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "This is Enterprise. We surrender. Repeat  Enterprise surrenders --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27847",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "It's pretty chaotic over there. There's been some weapons fire and a lot of shouting..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "I'm going aboard. Spock, you have the conn."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27848",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "Gorkon's own man??"
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Who else?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27849",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "KIRK",
+        "text": "Uhura?"
+      },
+      {
+        "speaker": "UHURA",
+        "text": "Nothing, Captain. If they're here, they're rigger for silent running."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27850",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "Captain, we can't see her, but she gives off heat..."
+      },
+      {
+        "speaker": "KIRK",
+        "text": "Not from a distance. She won't show up on ANY type of scan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27851",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "You have done well, Saavik. As your sponsor at the Academy I have followed your career with... satisfaction. And as a Vulcan."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Sir, I speak to you as a kindred intellect. Do you not recognize that a turning point has been reached in the affairs of the Federation?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I am not certain such speculations are included among your duties, Lieutenant."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27852",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "You must have faith."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Faith...?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "That the universe will unfold as it should."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27853",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "But we can't allow them to be taken back to Kronos as prisoners."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "What do you suggest, Lieutenant? Opening fire won't retrieve the Captain; and an armed engagement was precisely what he wished to avoid."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27854",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "How did you - ?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "In the meantime we must endeavor to piece together what happened here tonight. According to our data banks, this ship fired those torpedoes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27855",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Her own father...?"
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Such things have happened before, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27856",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Any reply from Starfleet to our dispatch, Lieutenant."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Not as yet, sir."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Curious. You haven't been assisting Commander Uhura with her radio transmissions, have you, Lt?"
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Commander Uhura has been experiencing technical difficulties sir."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Very well. For twenty-four hours we'll agree that this conversation did not take place."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "A lie?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "An omission. After that -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27857",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Any progress?"
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "We've got a crew of three hundred turning their own quarters inside out,  but the killers may be among them. Surely they've disposed of these boots by now. Wouldn't it have been logical to leave them on Gorkon's ship?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Even logic must give way to physics. Gravity hadn't been restored by the time they escaped. Without their boots they would not have stayed on the Klingon transporter pads."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27858",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Suppose when they returned they threw the boots into the garbage?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I'm having the garbage searched. If my surmise is correct these boots will cling to the killers' necks like Tiberian bats. They couldn't make their escape without them; nor can they simply throw them out a window for all to see; no - they're here. Somewhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27859",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "A lie?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "An error."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27860",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "If you are logical."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "I don't want to."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I believe you. Please..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27861",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "But it was when you tried to persuade me the Captain was guilty that I should have understood."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "You can't prove any of this..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27862",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Perhaps neither of us was hearing very well that night, Lieutenant. There were things I tried to tell you too - about having faith."
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "You've betrayed the Federation - all of you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27863",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Direct hit -"
+      },
+      {
+        "speaker": "UHURA",
+        "text": "Confirmed, Captain!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27864",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "Trouble?"
+      },
+      {
+        "speaker": "UHURA",
+        "text": "We've been ordered to -"
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "In nineteenth century France, workers who felt their livelihood threatened by machines, flung their wooden shoes - called SABOTS - into the gears to stop them. Hence the word SABOTAGE."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "We are experiencing a technical malfunction. All backup systems inoperative."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27865",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "We can send a message to Starfleet Command -"
+      },
+      {
+        "speaker": "LT. SAAVIK",
+        "text": "I do not think so. Enterprise has disobeyed orders and harbors two escaped convicts. Admiral Donald will make certain all your ship-to- shore transmissions are jammed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27866",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "OFFICER",
+        "text": "Sorry to wake you, sir, but Starfleet urgently requests any data we may have on the whereabouts of Enterprise."
+      },
+      {
+        "speaker": "SULU",
+        "text": "What?"
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "Apparently they're refusing to acknowledge signal to return to spacedock, sir."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Signal Starfleet that... we have no idea location of Enterprise."
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "Sir?"
+      },
+      {
+        "speaker": "SULU",
+        "text": "You having hearing problems, mister?"
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "No, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27867",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "According to this we've completed our exploration of the entire sector."
+      },
+      {
+        "speaker": "SCIENCE OFFICER",
+        "text": "Fifty-four planets - and their gaseous atmospheric anomalies. Our sensing and analytic equipment worked well."
+      },
+      {
+        "speaker": "SULU",
+        "text": "Then it's time we were heading home. Three years is..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27868",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCIENCE OFFICER",
+        "text": "I have an energy wave from 240 degrees mark six port --"
+      },
+      {
+        "speaker": "SULU",
+        "text": "Visual!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27869",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Don't tell me that was any meteor shower."
+      },
+      {
+        "speaker": "SCIENCE OFFICER",
+        "text": "Negative. The subspace shockwave originated at bearing three-two- three, mark seven-five, the location is...  Praxis. A Klingon moon. Barren of indigenous life forms but -"
+      },
+      {
+        "speaker": "SULU",
+        "text": "Essential as a resource. Praxis is their key energy production facility.  Send to Klingon High Command: \"This is Excelsior, a Federation Starship traveling through Beta Quadrant. We have monitored a large explosion in your sector. Do <u>you require assistance</u>?\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27870",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCIENCE OFFICER",
+        "text": "I have confirmed the location, sir, but..."
+      },
+      {
+        "speaker": "SULU",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "SCIENCE OFFICER",
+        "text": "... I cannot confirm the existence of Praxis."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27871",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SULU",
+        "text": "Praxis?"
+      },
+      {
+        "speaker": "SCIENCE OFFICER",
+        "text": "What's left of it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27872",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "At least we must keep track of where they are taken, sir. I -"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I've already addressed that question, Mr. Scott. We'll e able to follow the Captain's movements."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27873",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "NO WAY!"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Mr. Scott, you forget yourself. Please accompany me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27874",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "It's as I said, Mr. Spock: Inventory still registers every torpedo."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Yet the data banks insist we fired: twice. One computer is lying."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "A computer canna lie, sir."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I think  not."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "You can check the torpedoes visually, if you like -"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "We'll have to check every one of them, Mr. Scott."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "That could take hours!"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Nevertheless."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "And if they're still in place?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Then someone forged a data bank entry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27875",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "They don't place the same value on life that we do, Spock - you know that... take my word: she didn't shed one bloody tear..."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "That's hardly conclusive, Mr. Scott, as Klingons have no tear ducts."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27876",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "Twenty-four hours from now we won't have a clue where the Captain is."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I know precisely where he'll be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27877",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "They dinna fire on themselves. And there were no other ships present."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "There was an enormous neutron energy surge."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Not from us!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27878",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Too far off. Very near us. Perhaps... underneath us..."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "If another ship had been beneath us the Klingons would've seen her!"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Would they?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27879",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "A Bird of Prey canna fire when she's cloaked!"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "This one can."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "They you're talking about a dreadful new engine of destruction, Mr. Spock."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I believe I am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27880",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SCOTTY",
+        "text": "- could take weeks, sir."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Thank you, Mr. Scott. We were to return to spacedock, the killers would surely manage to dispose of their incriminating footwear."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27881",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "They're outside the beaming shield. Mr. Scott, start your engines."
+      },
+      {
+        "speaker": "SCOTTY",
+        "text": "Aye, aye, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27882",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "They're naturally wary, ma'am. We've been at war a long time."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "How do both sides overcome ingrained prejudice?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27883",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "I assume command of this ship as of  0130 hours. Uhura, send to Starfleet HQ. Explain precisely what has taken place, and request instructions."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "Yes, sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27884",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "Sulu's giving us his position and telling us he's standing by..."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "He's placing himself in a most awkward position..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27885",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "An ancestor of mine maintained that if you eliminate the impossible whatever remains - however improbable - must be the truth."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "What exactly does that mean?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "It means that if we cannot have fired those torpedoes then someone else did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27886",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "And they'd be right. We have no evidence - just a theory that happens to fit the facts..."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "Even assuming you're correct, Mr. Spock, why would they fire on their own President?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "I want this ship searched from bow to stern. Lieutenant Saavik, you are in charge. Start with the transporter room and work your way outwards..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27887",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "I've pulled out my - uh wooden shoe and Starfleet is screaming for us to return to port."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "Mr. Scott, any progress on repairing our warp drive?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27888",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "You understand that we have lost all contact with Captain Kirk...?"
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "At present, he's surrounded by a magnetic shield. If my calculations are correct, he should be deep into his escape planning by this time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27889",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "I don't think Starfleet could have envisioned our current predicament."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "Maybe we should write them a letter?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27890",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "SPOCK",
+        "text": "Under impulse power she expends fuel like any other ship. We call it \"Plasma\" - I do not know the Klingon name for it, but by any name it is merely ionized gas."
+      },
+      {
+        "speaker": "UHURA",
+        "text": "Well, what about all that atmospheric equipment we're carrying to catalogue gaseous anomalies?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27891",
+    "movie_id": "m197",
+    "turns": [
+      {
+        "speaker": "UHURA",
+        "text": "They might as well arrest me, too; I felt like Lieutenant Saavik."
+      },
+      {
+        "speaker": "SPOCK",
+        "text": "But you didn't join a conspiracy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27892",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "Can you tell me how you came to be on the planet where we found you?"
+      },
+      {
+        "speaker": "B-9",
+        "text": "I was taken from my homeworld by people called the \"PakJeds.\" They are fat. They traded me to a ship belonging to the \"Bolians.\" The \"Bolians\" are blue. They put me in a seat and asked me questions. Then they were attacked by another ship..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27893",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "B-9",
+        "text": "Fuzzy face is gone."
+      },
+      {
+        "speaker": "DATA",
+        "text": "Yes, please continue."
+      },
+      {
+        "speaker": "B-9",
+        "text": "I was in space for a long time. Then a ship belonging to the Talosians\" picked me up. They asked me where I came from. I told them people called the Pakleds\" took me from my homeworld. They are fat"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27894",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "Do you know who I am?"
+      },
+      {
+        "speaker": "B-9",
+        "text": "You are me."
+      },
+      {
+        "speaker": "DATA",
+        "text": "No. My name is Data... I am your brother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27895",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "Do you know where you are?"
+      },
+      {
+        "speaker": "B-9",
+        "text": "I am in a room with lights."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27896",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "Can you remember our father?"
+      },
+      {
+        "speaker": "B-9",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27897",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "Do you know the name of the Captain of this vessel?"
+      },
+      {
+        "speaker": "B-9",
+        "text": "No."
+      },
+      {
+        "speaker": "DATA",
+        "text": "Is that your final answer?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27898",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "B-9",
+        "text": "Brother. I cannot move."
+      },
+      {
+        "speaker": "DATA",
+        "text": "No, I have only activated your cognitive and communication subroutines."
+      },
+      {
+        "speaker": "B-9",
+        "text": "Why?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "Because you are dangerous."
+      },
+      {
+        "speaker": "B-9",
+        "text": "Why?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "You have been programmed to gather information that can be used against this ship."
+      },
+      {
+        "speaker": "B-9",
+        "text": "I do not understand."
+      },
+      {
+        "speaker": "DATA",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27899",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "DATA",
+        "text": "Do you know anything about Shinzon's plans against the Federation?"
+      },
+      {
+        "speaker": "B-9",
+        "text": "No."
+      },
+      {
+        "speaker": "DATA",
+        "text": "Do you have any knowledge of the tactical abi1ities of this ship?"
+      },
+      {
+        "speaker": "B-9",
+        "text": "No. Can I move now?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "No. I must deactivate you."
+      },
+      {
+        "speaker": "B-9",
+        "text": "For how long?"
+      },
+      {
+        "speaker": "DATA",
+        "text": "Indefinitely."
+      },
+      {
+        "speaker": "B-9",
+        "text": "How long is that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_27900",
+    "movie_id": "m198",
+    "turns": [
+      {
+        "speaker": "PICARD",
+        "text": "I notice Dr. Crusher laughing along with the rest of you. As most of you know, the doctor will also soon be leaving the Enterprise, to assume command of Starfleet Medical. Again, I'm forced to ask, Beverly, have you considered what you're doing to little ole me?! I'll probably get some old battle-axe of a doctor who'll tell me to eat my vegetables and put me on report if I dont show up for my physical on time!"
+      },
+      {
+        "speaker": "BEVERLY",
+        "text": "It'll serve you right."
+      }
+    ]
+  }
+]

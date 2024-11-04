@@ -1,0 +1,1782 @@
+[
+  {
+    "conversation_id": "conv_47613",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "What'd you have in mind for your next move?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "The fleet is finally breaking up. I'm hoping they'll follow standard Imperial procedure and dump their garbage before they go into light speed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47614",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "Not bad, hot shot, not bad.  Then what?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "Then we have to find a safe port around here.  Got any ideas?"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "That depends.  Where are we?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "Here ... near the Anoat system."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47615",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "HAN",
+        "text": "Funny, I have the feeling I've been in this area before.  Let me check my logs."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "You keep logs?  My, how organized."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Well, sometimes ... Ah-hah, I knew it!  Lando Calrissian."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Never heard of that system."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Lando's not a system, he's a man. A gambler, con-artist ... all- around scoundrel ...  ... your kind of guy.  The system is called Bespin.  It's a ways from here, but reachable."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "A mining colony."
+      },
+      {
+        "speaker": "HAN",
+        "text": "A Tibanna gas mine.  Lando won it in a sabacc match, or so he claims. Lando and I go way back."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Can you trust him?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "No.  But he has no love for the Empire, that much I know ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47616",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "You do have your moments ... Not many, but you do have them."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Let Ôer go, Chewie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47617",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "I don't like this."
+      },
+      {
+        "speaker": "HAN",
+        "text": "It'll be all right.  Trust me.  And keep your eyes open.  You wait here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47618",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "What are you staring at?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "Who's staring?"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "You look silly."
+      },
+      {
+        "speaker": "HAN",
+        "text": "You look great."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Has Threepio turned up yet?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "Huh?  Oh.  Your droid's been gone too long just to be lost.  He may have gotten into some trouble. Chewie went to look for him.  Come over here.  I want to check this out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47619",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "I hope Luke made it to the fleet all right."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Luke!  I'm sure he's fine.  Probably sitting around wondering what we're doing right now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47620",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "HAN",
+        "text": "He found him in a junk pile ..."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Something's wrong here.  Your friend Lando is very charming, but I don't trust him."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Well, I do trust him.  Lando's an old friend.  Must have been an accident."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Chewie, do you think you can repair him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47621",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "No thanks."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Look, sweetheart, I'm not going to have you accusing my friend of ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47622",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "HAN",
+        "text": "I was worried about you."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "I'm worried about all of us.  I can't figure out what they're up to."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Me either.  They had me howling on the scan grid, but they never asked me any questions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47623",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "... I love you.  I couldn't tell you before, but it's true."
+      },
+      {
+        "speaker": "HAN",
+        "text": "... just remember that, Ôcause I'll be back ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47624",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "HAN",
+        "text": "Loud and clear, kid.  What's up?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I've finished my circle and I haven't picked up any life read- ings."
+      },
+      {
+        "speaker": "HAN",
+        "text": "There isn't enough life on this ice cube to fill a space cruiser. My sentry markers are placed. I'm heading back to the base."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I'll see you shortly. A meteorite just hit the ground near here and I want to check it out .. Won't be long."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47625",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "HAN",
+        "text": "Hi kid, you look strong enough to wrestle a Gundark."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Thanks to you."
+      },
+      {
+        "speaker": "HAN",
+        "text": "That's two you owe me, junior."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47626",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Probe?  What probe?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "That makes a good story.  But I think you just can't bear to let me out of your sight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47627",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "About what?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "Now don't get the wrong idea, pal. She was just trying to express her true feelings for me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47628",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "I hope you make your peace with Jabba."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Don't worry.  You haven't seen the last of us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47629",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "Why you slimy, double-crossing no-good swindler ... am I glad to see you."
+      },
+      {
+        "speaker": "HAN",
+        "text": "No hard feelings?"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Are you kidding?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "I always said you were a gentleman."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "I'll bet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47630",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "That won't be easy, my friend ... What brings you here, anyway?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "Repairs ..."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "What have you done to my ship?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47631",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "That ship saved my life a few times.  It's the fastest hunk of machinery in the galaxy.  What's wrong with her?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "Hyperdrive."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "I'll have my people get to work on it right away.  Hate the thought of the Millennium Falcon without her heart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47632",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "HAN",
+        "text": "How's your mining operation going?"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Not as well as I'd like.  We're a small outpost and not very self- sufficient.  I've had supply problems of every kind and ...  What's so funny?"
+      },
+      {
+        "speaker": "HAN",
+        "text": "Nothing.  I never would have guessed that underneath that wild schemer I knew was a respon- sible leader and businessman ... But you wear it well."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47633",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "Sorry friend, I had no choice. They arrived right before you did."
+      },
+      {
+        "speaker": "HAN",
+        "text": "I'm sorry too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47634",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "HAN",
+        "text": "Get out of here, Lando!"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Shut up a minute and listen.  I'm doing what I can to make this easier for you."
+      },
+      {
+        "speaker": "HAN",
+        "text": "This ought to be good."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Vader agreed to turn Leia and Chewie over to me.  They'll have to stay here, but at least they'll be safe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47635",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "HAN",
+        "text": "You don't know much about much if you think Vader won't want us dead before this is over."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "He doesn't want you at all.  He's after someone named Skywalker."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Luke?  I don't get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47636",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "HAN",
+        "text": "All this just to get the kid? What's so important about him?"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Don't ask me, but he's on his way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47637",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "Don't shoot!  I've done what I can for you.  I'm sorry it's not better, but I've got my own problems.  I've already stuck my neck out further than I should ..."
+      },
+      {
+        "speaker": "HAN",
+        "text": "Yeah, you're a real hero."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47638",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "What about Leia and the Wookiee?"
+      },
+      {
+        "speaker": "VADER",
+        "text": "You will find them well enough. But they must never again leave this city."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "That was never mentioned.  Neither was this bounty hunter taking Han. I hope you haven't forgotten our bargain."
+      },
+      {
+        "speaker": "VADER",
+        "text": "I forget nothing, Calrissian. Perhaps you think you're being treated unfairly."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "No."
+      },
+      {
+        "speaker": "VADER",
+        "text": "Good.  It would be most unfortunate if I had to leave a permanent garrison here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47639",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "We only use this chamber for carbon freezing.  If you put him in there, it'll kill him."
+      },
+      {
+        "speaker": "VADER",
+        "text": "I think not.  But I don't wish my prize to be damaged.  We'll test it first.  Bring in Captain Solo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47640",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "I'll take what's mine now."
+      },
+      {
+        "speaker": "VADER",
+        "text": "Take them, but I'm keeping a detachment of troops here to watch over them."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "That wasn't the bargain.  You said the Empire wouldn't interfere in--"
+      },
+      {
+        "speaker": "VADER",
+        "text": "I'm altering the bargain.  Pray I don't alter it any further."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47641",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "Hello!  What have we here?  Welcome, I am Baron Lando Calrissian, Administrator of this facility ... and who might you be?"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "You may call me Leia."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47642",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "Sorry, am I interrupting anything?"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Not really."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "I must say, your beauty is unpar- alleled.  Truly you belong here with us among the clouds."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Would you care to join me for a little refreshment?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47643",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": ".... We are a free station and do not fall under the jurisdiction of the Empire."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "You're part of the mining guild then?"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Not actually .... Our operation is small enough not to be noticed, so you might say we're enterprisers. Most of our trade is, well ... unofficial."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47644",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "It's a lovely outpost."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Yes, we keep pollution down by having the power reactor far below the city.  It's connected by a transfer shaft."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47645",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "What about Han?"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "I didn't know you had a price on your head.  Vader has given you to the bounty hunter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47646",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "Lord Vader has set a trap for him and ..."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "... we're the bait."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47647",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "I'm coming over to your side, that's what.  And I have a feeling I'm making a big mistake."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "And when do you betray us again?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47648",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "Look, I stand to lose everything by this."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "We have no use for your kind."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "This is no time to be choosy, honey.  What do you say we debate this later?  There's still a chance I can get you out of here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47649",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "Chewie's right.  We must try to save Han."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "There's not much chance, but the bounty hunter's ship is on the East Landing Platform."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47650",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "Very noble.  Not smart, but noble."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "You've probably never done an honorable thing in your life."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Sure I did ... once.  It turned out lousy."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "What chance have we got in here? What are we going to do when they cut ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47651",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "You'd better know what you're doing, or this is going to get very messy."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Don't worry about a thing.  I'll get us going."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47652",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "We've got to find Luke."
+      },
+      {
+        "speaker": "LANDO",
+        "text": "His fate is sealed.  You'll be lucky to get out yourself.  All systems are on alert.  everything's locked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47653",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "What'd you say?"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "I didn't say anything?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47654",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "I knew that set-up was too good to last .... I'm going to miss it."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Luke!"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "What?"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Luke needs help.  We must go back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47655",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "No argument, just do it.  That's a command!"
+      },
+      {
+        "speaker": "LANDO",
+        "text": "Wait a minute.  We're not going back there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47656",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "Someone's falling."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "It's Luke.  Get under him.  Slow down.  Easy Chewie.  Line up your tracking system.  Lando, open the hatch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47657",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "The deflector shields are gone."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Are the coordinates set?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47658",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LANDO",
+        "text": "I'm sure my men fixed it.  We've got nothing to worry about."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "That sounds familiar."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47659",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "RIEEKAN",
+        "text": "Nothing more can be done tonight. The shield doors must be closed. I can't wait any longer.  I'm sorry."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "I understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47660",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "RIEEKAN",
+        "text": "The speeders should be ready in the morning.  They'll make the search easier."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Is there any chance of them surviving out there?"
+      },
+      {
+        "speaker": "RIEEKAN",
+        "text": "Slim, but yes, there's a chance. They have a shelter.  It's not much, but ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47661",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "Have they analyzed the one that was killed?"
+      },
+      {
+        "speaker": "RIEEKAN",
+        "text": "Not yet.  They're working on it now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47662",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "RIEEKAN",
+        "text": "We've picked up something outside the base in zone one, moving East."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "What is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47663",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "Two transports at a time is awfully risky."
+      },
+      {
+        "speaker": "RIEEKAN",
+        "text": "We have no choice.  Send them up ... and start clearing everyone out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47664",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "You rest now."
+      },
+      {
+        "speaker": "THREEPIO",
+        "text": "So much has happened during the period of your indisposition, sir."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "I'll be back later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47665",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "You don't have to do this to impress me."
+      },
+      {
+        "speaker": "THREEPIO",
+        "text": "If I might remind you, sir, the probability of successfully navi- gating through an asteroid field is approximately 365,000 to one ... a graceful surrender might not be ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47666",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "THREEPIO",
+        "text": "Closer?!"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Closer?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47667",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "A tremor!"
+      },
+      {
+        "speaker": "THREEPIO",
+        "text": "Sir, it's very possible this asteroid is not stable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47668",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "What??"
+      },
+      {
+        "speaker": "THREEPIO",
+        "text": "Oh my, no!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47669",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "THREEPIO",
+        "text": "Sir, we've lost the rear deflector shield.  One more direct hit on the back quarter and we're done for."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Well, what now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47670",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "THREEPIO",
+        "text": "Rather touchy, aren't they."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "I thought you knew this person."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47671",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "THREEPIO",
+        "text": "Artoo, you did it!  I never doubted you for a second ..."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Let's go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47672",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "The Bacta are growing well.  The scars should be gone in a day or so.  Does it still hurt?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I'm fine.  Really.  Leia ... when I was out there and it looked pretty bad ... well, it made me think about things."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Me too.  I was afraid."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47673",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Leia ... What would you think if I went away for a while?"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "What did you say?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47674",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I have this ... feeling.  I'm not sure, really ..."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "That's just great.  Why doesn't everyone just take off?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "First Han, now you.  When am I going to learn not to count on anyone but myself? ..."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Han's leaving?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47675",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Calm down, will ya?  Tell me about Han."
+      },
+      {
+        "speaker": "LEIA",
+        "text": "He wants to pay off that criminal he's in hock to."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Jabba the Hutt?"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "I could get more loyalty if I went down the hall and recruited some of those snow creatures."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Snow creatures ... they're here?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47676",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Leia!"
+      },
+      {
+        "speaker": "LEIA",
+        "text": "Luke, no!  It's a trap."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47677",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "Lando, is he alright? ... Lando? Are you there?  How's Luke?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "He'll survive."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47678",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LEIA",
+        "text": "This hyperdrive had better work."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I've never seen it fail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47679",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "YODA",
+        "text": "Ready are you?  What know you of ready?  I have trained Jedi for 800 years.  My own counsel I'll keep on who is to be trained."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Why not me?"
+      },
+      {
+        "speaker": "YODA",
+        "text": "To become a Jedi takes the deepest commitment, the most serious mind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47680",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "I have followed my feelings."
+      },
+      {
+        "speaker": "YODA",
+        "text": "You are reckless!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47681",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "I will not fail you.  I'm not afraid."
+      },
+      {
+        "speaker": "YODA",
+        "text": "You will be, my young one.  Heh. You will be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47682",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "YODA",
+        "text": "It would be in seven pieces, were you a Jedi."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I thought I was in good shape."
+      },
+      {
+        "speaker": "YODA",
+        "text": "Yes, but by what standard, ask I?  Forget your old measures. Unlearn, heh, unlearn."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47683",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Master, moving rocks is one thing, but this is a little different."
+      },
+      {
+        "speaker": "YODA",
+        "text": "No!  No different!  The differences are in your mind.  Throw them out! No longer of use are they to you."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Okay.  I'll give it a try."
+      },
+      {
+        "speaker": "YODA",
+        "text": "No.  Try not.  Do, do.  Or do not. There is no try."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47684",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "I can't. It's too big."
+      },
+      {
+        "speaker": "YODA",
+        "text": "Size has no meaning.  It matters not.  Look at me.  Judge me by my size do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47685",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "I don't believe it."
+      },
+      {
+        "speaker": "YODA",
+        "text": "That is why you fail."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47686",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "YODA",
+        "text": "Concentration.  Heh?  Concentration."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I thought those seekers were set for stun!"
+      },
+      {
+        "speaker": "YODA",
+        "text": "That they are."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "They're a lot stronger than I'm used to."
+      },
+      {
+        "speaker": "YODA",
+        "text": "That would matter not were The Force flowing through you.  Higher you'd jump!  Faster you'd move! Open yourself to The Force you must."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47687",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "YODA",
+        "text": "No, no.  This will not do.  Anger is what you feel."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "But I feel The Force flowing!"
+      },
+      {
+        "speaker": "YODA",
+        "text": "Anger, fear, aggression!  The dark side of The Force are they.  Easily they flow ... quick to join you in a fight.  Beware, beware, beware of them.  A heavy price is paid for the power they bring."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47688",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Price?  What do you mean?"
+      },
+      {
+        "speaker": "YODA",
+        "text": "The dark side beckons.  But if once start down the dark path, forever will it dominate your destiny.  Consume you it will ... as it did Obi-wan's apprentice."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Lord Vader ... Is the dark side stronger?"
+      },
+      {
+        "speaker": "YODA",
+        "text": "No, no.  Easier, quicker, more seductive."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "But how am I to know the good side from the dark?"
+      },
+      {
+        "speaker": "YODA",
+        "text": "You will know.  When you are at peace ... calm ... passive.  A Jedi uses The Force for knowledge and defense.  Never for attack."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "But tell me why ..."
+      },
+      {
+        "speaker": "YODA",
+        "text": "No!  Nothing more will I tell you now. Clear your mind of questions ... Quiet now be ... at peace ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47689",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "YODA",
+        "text": "Four this time!  The Force you feel."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Yes ... I also feel danger ... death.  Something's not right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47690",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "I feel cold."
+      },
+      {
+        "speaker": "YODA",
+        "text": "This tree is strong with the dark side of The Force.  A servant of evil it is.  Into it you must go."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "What's in there?"
+      },
+      {
+        "speaker": "YODA",
+        "text": "Only what you take with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47691",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Ben?  Ben?"
+      },
+      {
+        "speaker": "YODA",
+        "text": "Free your mind and return he will."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "My mind fills with so many images."
+      },
+      {
+        "speaker": "YODA",
+        "text": "Control, control you must learn of what you see.  Not easy, not fast."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I see a city in the clouds."
+      },
+      {
+        "speaker": "YODA",
+        "text": "Bespin.  I see it too ... Friends you have there, heh?  Concentrate and see them you will."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I see them! ... They're in pain ... they're suffering."
+      },
+      {
+        "speaker": "YODA",
+        "text": "It is the future you see."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47692",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "Will they die?"
+      },
+      {
+        "speaker": "YODA",
+        "text": "Difficult to see.  Always in motion is the future ... Back away, little machine!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47693",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "They're my friends."
+      },
+      {
+        "speaker": "YODA",
+        "text": "Foreknowledge is helpful, but painful sometimes and dangerous too.  You have far to go in your training."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47694",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "YODA",
+        "text": "Yes, yes.  To Obi-wan you listen young one.  The tree.  Remember your failure at the tree!  Heh?"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I've learned so much since then.  And I'll return to finish ... I promise that, master."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47695",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "LUKE",
+        "text": "And sacrifice Han and Leia?"
+      },
+      {
+        "speaker": "YODA",
+        "text": "If it must be.  Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47696",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "VADER",
+        "text": "The fear does not reach you.  You have learned more than I anticipated."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "You'll find I'm full of surprises."
+      },
+      {
+        "speaker": "VADER",
+        "text": "And I too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47697",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "VADER",
+        "text": "Your future lies with us, Skywalker. Now you will embrace the dark side. Obi-wan knew this to be true."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "No!"
+      },
+      {
+        "speaker": "VADER",
+        "text": "There is much Obi-wan did not tell you.  Come, The Emperor will complete your training."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "I'll die first."
+      },
+      {
+        "speaker": "VADER",
+        "text": "That won't be necessary."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47698",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "VADER",
+        "text": "All too easy.  Perhaps you are not as strong as The Emperor thought."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Time will tell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47699",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "VADER",
+        "text": "The Force runs strong in the Skywalker line.  You will achieve great power ... Come, join with me!  Together we will be the most powerful ... even stronger than The Emperor."
+      },
+      {
+        "speaker": "LUKE",
+        "text": "No! .... Never ...."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47700",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "VADER",
+        "text": "There is no escape.  You must join me or die.  Don't make me destroy you here ... The Emperor is strong with The Force.  But if you join me, together we could overthrow Him.  Do not resist. It is our destiny!"
+      },
+      {
+        "speaker": "LUKE",
+        "text": "Never."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47701",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "VADER",
+        "text": "The Hoth System?"
+      },
+      {
+        "speaker": "PIETT",
+        "text": "Yes, Sir .... we have visuals ... the System is supposed to be devoid of human forms ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47702",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "PIETT",
+        "text": "Yes, My Lord."
+      },
+      {
+        "speaker": "VADER",
+        "text": "Make ready to land General Veers' assault troops on the surface. Then deploy the fleet so that nothing can get off that system. You're in command now, Admiral Piett."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47703",
+    "movie_id": "m337",
+    "turns": [
+      {
+        "speaker": "PIETT",
+        "text": "Seventeen ships destroyed, we don't know how many got away."
+      },
+      {
+        "speaker": "VADER",
+        "text": "Anything on the Millennium Falcon?"
+      },
+      {
+        "speaker": "PIETT",
+        "text": "It won't get through the blockade."
+      },
+      {
+        "speaker": "VADER",
+        "text": "I want that ship."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47704",
+    "movie_id": "m338",
+    "turns": [
+      {
+        "speaker": "COLONEL",
+        "text": "Did you call the Zoo?"
+      },
+      {
+        "speaker": "AIDE",
+        "text": "Yes, sir.  We're in luck.  The sick bay's almost empty except for a mauled fox cub, a deer with pneumonia, and a depressed gorilla. The Apes will be hidden from the public.  They'll be quarantined. If they want medical attention, it's available on the spot.  And the experts can start giving them the once-over first thing in the morning. General Brody's very pleased."
+      },
+      {
+        "speaker": "COLONEL",
+        "text": "Me, too.  Can't have a lot of monkeys making messes in the Guardhouse.  Have we fed them?  Like raw steak or something?"
+      },
+      {
+        "speaker": "AIDE",
+        "text": "The Zoo tells me that chimpanzees, like all apes, are vegetarian, sir."
+      },
+      {
+        "speaker": "COLONEL",
+        "text": "Good God."
+      },
+      {
+        "speaker": "AIDE",
+        "text": "They suggested oranges."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47705",
+    "movie_id": "m338",
+    "turns": [
+      {
+        "speaker": "COLONEL",
+        "text": "Excuse me.  I didn't mean to disturb....  What am I saying?"
+      },
+      {
+        "speaker": "AIDE",
+        "text": "They're...pretending to dress."
+      },
+      {
+        "speaker": "COLONEL",
+        "text": "What d'you mean, pretending? They are dressing.  Where'd they get those clothes?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47706",
+    "movie_id": "m338",
+    "turns": [
+      {
+        "speaker": "LEWIS",
+        "text": "So am I.  And I mean you no harm."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "We know that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47707",
+    "movie_id": "m338",
+    "turns": [
+      {
+        "speaker": "LEWIS",
+        "text": "Do you have a name?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "My name is Cornelius.  And this is Zira -- my wife."
+      },
+      {
+        "speaker": "LEWIS",
+        "text": "My name is Lewis -- Lewis Dixon ."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47708",
+    "movie_id": "m338",
+    "turns": [
+      {
+        "speaker": "LEWIS",
+        "text": "Nobody's going to believe it."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Believe what?"
+      },
+      {
+        "speaker": "LEWIS",
+        "text": "That primitive apes can talk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47709",
+    "movie_id": "m338",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "In some fashion -- and I lack the intellect to know precisely how -- we have traveled from Earth's future into Earth's past."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "But we saw Earth destroyed."
+      },
+      {
+        "speaker": "MILO",
+        "text": "And Earth will be destroyed -- just as we saw it.  Only, since fleeing it, we have passed through a....backward disturbance in time -- did you notice the Date Meter clicking down after the shock wave hit our ship? -- and we have returned to Earth almost two thousand years before its destruction.  That is another reason for keeping silence.  Our human captors would not be edified to know that, one day, their world will crack like an egg and fry to a cinder, because of an Ape war of aggression."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47710",
+    "movie_id": "m338",
+    "turns": [
+      {
+        "speaker": "MILO",
+        "text": "Zira, are you mad?"
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "Dr. Milo, please don't call my wife mad."
+      },
+      {
+        "speaker": "MILO",
+        "text": "I did not call her mad.  I merely asked her if she was.  And I repeat the question.  Are you mad?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47711",
+    "movie_id": "m338",
+    "turns": [
+      {
+        "speaker": "CORNELIUS",
+        "text": "To a lot of psychiatric small talk --"
+      },
+      {
+        "speaker": "MILO",
+        "text": "And we can watch ..."
+      },
+      {
+        "speaker": "CORNELIUS",
+        "text": "A display of primitive apparatus --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_47712",
+    "movie_id": "m338",
+    "turns": [
+      {
+        "speaker": "STEVIE",
+        "text": "What, Lewis?"
+      },
+      {
+        "speaker": "LEWIS",
+        "text": "There was a sort of carpetbag in the ship."
+      },
+      {
+        "speaker": "STEVIE",
+        "text": "With food?"
+      },
+      {
+        "speaker": "LEWIS",
+        "text": "No -- clothes.  Stevie, they changed into them."
+      },
+      {
+        "speaker": "STEVIE",
+        "text": "I don't believe it."
+      }
+    ]
+  }
+]

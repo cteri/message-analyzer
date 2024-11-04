@@ -1,0 +1,1718 @@
+[
+  {
+    "conversation_id": "conv_62913",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "BARREL",
+        "text": "<i>                                   ... Let's draw straws.</i>"
+      },
+      {
+        "speaker": "SHOCK",
+        "text": "<i>                      Jack said we should work together.</i>"
+      },
+      {
+        "speaker": "BARREL",
+        "text": "<i>                      Three of a kind...</i>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62914",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "BARREL",
+        "text": "Not at all!"
+      },
+      {
+        "speaker": "SHOCK",
+        "text": "We can handle it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62915",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "BARREL",
+        "text": "He sure is big, Jack..."
+      },
+      {
+        "speaker": "SHOCK",
+        "text": "And heavy..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62916",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "BARREL",
+        "text": "Where're we taking him?"
+      },
+      {
+        "speaker": "SHOCK",
+        "text": "Where?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62917",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "The deadly nightshade you slipped me wore off, Sally... I thought I'd find you here...."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "No!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62918",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "For this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62919",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Didn't I tell you?  I'm always right, you know, my dear... Aren't I?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62920",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "You're mine, you know.  I made you."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I know."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "If you went away, what would become of me?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I'm grown up now.  I have to leave some time."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Of course you do, and I want you to... but there's no need to hurry it along, is there?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I can't help it."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "That's twice this month you've slipped Deadly Night Shade into my tea and run off.  People might get the wrong idea and think you're unhappy at home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62921",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "I do the best I can to make it comfortable for us here."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I know."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "But I guess my best just isn't good enough."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62922",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "That's not true.  It's a beautiful home, wonderfully comfortable... I'm indebted to you for everything... It's just..."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Just what?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Just me, I suppose...  I'm restless.  I can't help it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62923",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "Coming..."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Good.  I'm hungry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62924",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "What trail are you trying to throw me off now?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Nothing.  W-w-what are you talking about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62925",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Taste it."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "But why?  It's <u>your</u> lunch. There isn't much there in the first place."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Taste it."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "No."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "SALLY",
+        "text": "I'm not hungry.  What's wrong?  I spent all morning on that soup.  I thought you liked Worm's Wart."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "There's nothing more suspicious than Worm's Wart -- it distracts one from every other taste and smell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62926",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "But I have to go out. Something's happening out there."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Whatever it is, it's none of your concern."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62927",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Then we'll both starve...  An old man like me, who hardly has strength as it is -- me, without whom... me, your own father..."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Can't you make other creations?"
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "I could.  Of course I could. But no one would be like you...  I'll never understand how you can be so cold-hearted, how you can treat me this way, discarding me like--"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62928",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "Uh-huh."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "He stayed a long time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62929",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "SALLY",
+        "text": "When he left, he took a lot of equipment with him."
+      },
+      {
+        "speaker": "EVIL SCIENTIST",
+        "text": "He's conducting experiments of his own."
+      },
+      {
+        "speaker": "SALLY",
+        "text": "Experiments?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62930",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "<i>                      This is a thing called a present. The whole thing starts with a box...</i>"
+      },
+      {
+        "speaker": "VARIOUS PEOPLE",
+        "text": "<i>                      -- A box? --        Is it steel? --                     Are there locks? -- Is it filled with a pox? --                          A pox! -- How delightful, a pox!</i>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62931",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "JACK",
+        "text": "<i>                      Just a box with bright colored paper And the whole thing topped with a bow.</i>"
+      },
+      {
+        "speaker": "VARIOUS PEOPLE",
+        "text": "<i>                      -- A bow? --        But why? --                  How ugly! -- What's in it? --                What's in it?</i>"
+      },
+      {
+        "speaker": "JACK",
+        "text": "<i>                      That's the point of the thing, not to know!</i>"
+      },
+      {
+        "speaker": "VARIOUS PEOPLE",
+        "text": "<i>                      -- It's a bat. --              Will it bend? -- It's a rat. --              Will it break? -- Perhaps it's the head that I found in the lake.</i>"
+      },
+      {
+        "speaker": "JACK",
+        "text": "<i>                      Listen now, you don't understand. That's not the point of Christmasland.</i>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62932",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "LOCK",
+        "text": "We're here!  You sent for us!"
+      },
+      {
+        "speaker": "SHOCK",
+        "text": "Specifically."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62933",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "LOCK",
+        "text": "<i>                                     ... Birds of a feather.</i>"
+      },
+      {
+        "speaker": "SHOCK",
+        "text": "<i>                      Now and forever...</i>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62934",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "SHOCK",
+        "text": "<i>                      I say that we take a cannon Aim it at his door and then Knock three times and when he answers Sandy Claws will be no more.</i>"
+      },
+      {
+        "speaker": "LOCK",
+        "text": "<i>                      You're so stupid, think now -- If we blow him up to smithereens, We may lose some pieces and then Jack will beat us black and green.</i>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62935",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "SHOCK",
+        "text": "<i>                                          ... You're no fun.</i>"
+      },
+      {
+        "speaker": "LOCK",
+        "text": "<i>                      Shut up and listen...!</i>"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62936",
+    "movie_id": "m459",
+    "turns": [
+      {
+        "speaker": "LOCK",
+        "text": "You'd better be quiet, Sandy."
+      },
+      {
+        "speaker": "SHOCK",
+        "text": "Maybe he doesn't know..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62937",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "DAD",
+        "text": "You got your room straightened out yet?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "It's getting there."
+      },
+      {
+        "speaker": "DAD",
+        "text": "We've only been living here six weeks now.  I want that room unpacked by tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62938",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "DAD",
+        "text": "I know what's wrong with the air coditioning - just needs a shot of freon, is all."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Dad's fixin' something again.  Hit the deck!"
+      },
+      {
+        "speaker": "DAD",
+        "text": "Don't be a smart ass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62939",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "That's Lisa - I gotta get to school."
+      },
+      {
+        "speaker": "DAD",
+        "text": "Who's Lisa?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62940",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "DAD",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Just out for a while."
+      },
+      {
+        "speaker": "DAD",
+        "text": "I told you I want that room unpacked."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Oh, come on Dad..."
+      },
+      {
+        "speaker": "DAD",
+        "text": "No.  Upstairs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62941",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "DAD",
+        "text": "Help me with this thing!"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "It's not the gas, Dad!"
+      },
+      {
+        "speaker": "DAD",
+        "text": "Don't tell me it's not the gas!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62942",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "DAD",
+        "text": "You set this all up, didn't you?  One of your sick jokes?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "What are you talking about?"
+      },
+      {
+        "speaker": "DAD",
+        "text": "You know what I'm talking about.  What did you use, a fire cracker?  A cherry bomb?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62943",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "DAD",
+        "text": "I don't know.  COuldn't get the right price, I suppose."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "And you don't know anything about a murder across the street and a crazy girl who lived here - who saw the whole thing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62944",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "DAD",
+        "text": "Oh, come on, Shirl, how'd you think we got such a good deal?  Listen - all old houses have stories."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Did they tell you she went totally out of her mind - that they had to put her away?  And that her mother killed herself in our living room?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62945",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "DAD",
+        "text": "Don't tell me it's not the gas!  Your mother thought she smelled gas."
+      },
+      {
+        "speaker": "MOM",
+        "text": "I wasn't sure, Ken..."
+      },
+      {
+        "speaker": "DAD",
+        "text": "Alright then, what is it?  Bird rabies? That cheap seed you've been buying?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "Oh, please..."
+      },
+      {
+        "speaker": "DAD",
+        "text": "What is it then?  There's got to be an explanation.  Animals just don't burst into flames for no reason!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62946",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "DAD",
+        "text": "Come back here!"
+      },
+      {
+        "speaker": "MOM",
+        "text": "Ken!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62947",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "He needs professional help.  I think we should take him to a psychiatrist."
+      },
+      {
+        "speaker": "DAD",
+        "text": "Are you nuts or something?  What the hell is that going to do?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "I don't know!  I just know he needs help and we don't know how to give it to him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62948",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Jesse, help!"
+      },
+      {
+        "speaker": "FREDDY",
+        "text": "I'm Jesse now, Lisa."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62949",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Oh, God, Jesse - I know you're there! Stop him!"
+      },
+      {
+        "speaker": "FREDDY",
+        "text": "Jesse's dead, Lisa.  Freddy's here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62950",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "FREDDY",
+        "text": "Wanna join your little friend?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Where's Jesse?"
+      },
+      {
+        "speaker": "FREDDY",
+        "text": "There is no Jesse.  I'm Jesse now."
+      },
+      {
+        "speaker": "LISA",
+        "text": "I want him back.  Jesse, talk to me. Jesse!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62951",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "I'm not afraid of you.  You couldn't kill me...He's in there and I want him back.  I'm gonna take him away from you and you're going straight back to hell, you son-of-a-bitch!"
+      },
+      {
+        "speaker": "FREDDY",
+        "text": "Jesse's dead!  I sliced 'im real good!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62952",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "I love you, Jesse.  Come back to me."
+      },
+      {
+        "speaker": "FREDDY",
+        "text": "He's dead, you bitch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62953",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "FREDDY",
+        "text": "I'll kill you now."
+      },
+      {
+        "speaker": "LISA",
+        "text": "He can't hold you Jesse.  He's losing his grip - you can get out."
+      },
+      {
+        "speaker": "FREDDY",
+        "text": "He'll die with me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62954",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "How much longer you figure he'll keep us out here?"
+      },
+      {
+        "speaker": "GRADY",
+        "text": "Could be all night.  Guy gets his rocks off like this. Hangs out in queer S & M joints downtown.  Likes prettyboys like you."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Get outa here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62955",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "So, what about you and that Poletti girl?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "What about it?"
+      },
+      {
+        "speaker": "GRADY",
+        "text": "You two got a thing going, or what?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "She's a neighbor, I drive her to school."
+      },
+      {
+        "speaker": "GRADY",
+        "text": "She giving you any carfare for the ride?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "You got a problem with me, Grady?"
+      },
+      {
+        "speaker": "GRADY",
+        "text": "Naw. Just killing time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62956",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "So, you live around here."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Not too far.  My folks bought a place over on Elm Street."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62957",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "Elm Street?  You telling me you moved in to that big white house with the bars on the windows?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Yeah, why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62958",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "Shit, you can tell your old man he's a real chump."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "What the hell are you talking about?"
+      },
+      {
+        "speaker": "GRADY",
+        "text": "They've only been trying to unload that dump for five years.  That place is bad news.  Some chick was locked in there by her mother and she went crazy.  She watched her boyfriend get butchered by some maniac in the house across the street. Her poor drunken momma took her own life right inside your front door."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62959",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "You hit that ball pretty good, Walsh."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "It was okay."
+      },
+      {
+        "speaker": "GRADY",
+        "text": "Who told you to choke up that way?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "My Dad.  He played in the minors for a while, when he got out of college."
+      },
+      {
+        "speaker": "GRADY",
+        "text": "No shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62960",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Schneider shouldn't have called you out on that double."
+      },
+      {
+        "speaker": "GRADY",
+        "text": "Yeah, well, Schneider's got a stick up his ass today."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Schneider's always got a stick up his ass."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62961",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "You remember your dreams, Grady?"
+      },
+      {
+        "speaker": "GRADY",
+        "text": "Only the wet ones."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62962",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Oh Jesus.  I'm gonna be sick."
+      },
+      {
+        "speaker": "GRADY",
+        "text": "He must've been working late and some fruitcake came in and sliced him up like a kielbasa.  In the shower!  Left bloody footprints all over the..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62963",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "You're wasting your time, the guy's a basket case."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Shut up, Grady."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62964",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "Jesus Christ, you scared the shit out of me!"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I'm sorry..."
+      },
+      {
+        "speaker": "GRADY",
+        "text": "What are you doing here?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "You gotta let me stay here tonight, Grady."
+      },
+      {
+        "speaker": "GRADY",
+        "text": "Are you nuts or something?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Listen to me, Grady, this is serious. Something really weird is happening.  It started out like just bad dreams but it's getting real bad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62965",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "You're fucked in the head."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I'm scared, Grady.  I know it sounds crazy.  But, there's something trying to get into my body."
+      },
+      {
+        "speaker": "GRADY",
+        "text": "The only thing trying to get into your body is female and waiting for you on a cabana floor.  And you want to sleep with me.  Go figure."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Look, I don't care if you believe me or not..."
+      },
+      {
+        "speaker": "GRADY",
+        "text": "I believe you.  You had some scary dreams, okay?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "No!  I don't know - everything's all mixed up.  What difference does it make?  I'm in trouble here.  I need your help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62966",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "Okay, schmuck.  What do you want me to do?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Just watch me.  If anything weird happens - like if I start dreaming weird or try to walk out of here, you gotta try to bring me out of it. his me over the head if you have to. Just don't let me leave."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62967",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "GRADY",
+        "text": "What?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "It's happening again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62968",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "your timing was perfect - I was getting the third degree in there."
+      },
+      {
+        "speaker": "LISA",
+        "text": "How come?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Ah, nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62969",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Aren't you afraid somebody could steal your car like that?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Look at this car.  Are you kidding?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62970",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Hi!  You didn't have to wait."
+      },
+      {
+        "speaker": "LISA",
+        "text": "That's okay, I wanted to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62971",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "You okay?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Yeah, yeah, sure."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Let me look at your eye..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62972",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "You shouldn't be fighting with that jerk."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Who, Grady?  Grady's alright, he's just a hothead."
+      },
+      {
+        "speaker": "LISA",
+        "text": "You mean a shithead."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62973",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "No, that's okay.  I was just...unpacking."
+      },
+      {
+        "speaker": "LISA",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62974",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "I figured you might like some help."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Yeah?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62975",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "You know her?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Uh-uh.  Before my time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62976",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "I think it's sad..."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Traumas of a ten-year old."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62977",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "\"March 7th - Glen asked me to sleep with him again.  I can't yet - I like him, I want to make him happy but I'm not sure that I love him. I can't sleep with someone I don't love.\""
+      },
+      {
+        "speaker": "JESSE",
+        "text": "That's typical.  I hope she didn't expect to make the best seller list with this thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62978",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "\"Rod's been killed - he got Rod. Just Glen and me now.  Can't fall asleep!\""
+      },
+      {
+        "speaker": "LISA",
+        "text": "Wow..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62979",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Are you okay."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Something Grady told me today about the people that lived here last. Girl went crazy - saw her boyfriend killed in the house across the street..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62980",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Are you sure?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "World History.  But, I'll see you in the morning, right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62981",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "This is amazing!  Your dream told you where this was?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Only it was more like, you know, sleep- walking.  All I know is I woke up on the cellar floor next to it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62982",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "That's when she started talking about Fred Krueger."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Who?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Fred Krueger.  The guy in her dream who's coming to kill her.  Seems he was a real guy, ten years before who went around kidnapping kids and killing them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62983",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "No. Never.  You think that's what it is?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62984",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Sorry.  Schneider id it to me again."
+      },
+      {
+        "speaker": "LISA",
+        "text": "I just got here myself.  Went to the Public Library.  Cut four classes!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62985",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "What's all this."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Research.  Hi.  C'mon, let's go for a ride."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62986",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "At first I wasn't sure because you said that you never had anyting like last night happen before.  But I found out that most people have the potential for tuning in to \"the other world\" and neve do.  It has something to do with the environment - like they have to be in a place that's sending signals."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Like a haunted house, right?  I don't believe in ghosts."
+      },
+      {
+        "speaker": "LISA",
+        "text": "You don't have to.  You just have to believe in energy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62987",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Look, you got electricity in your body, right?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Yeah, I know...synapses neurong..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "And heat and chemical reactions. Where does it all go when you die?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I don't know - into the air I suppose."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Make a left at this corner."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62988",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "What about \"essential energy\" the soul.  Does that go into the air too?  You think there's a good energy and a bab energy?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I don't know.  Where are we going?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "It's a surprise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62989",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "What is this place?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Remember in the diary - Nancy said that she kept finding herself in a boiler room?  Fred Krueger worked here.  It's an old power- plant - a steam generator!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62990",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Here."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "What's this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62991",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "So, you feeling anything?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "I thought you might be able to make a connection."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62992",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Any ghosts in here?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "C'mon, cut it out."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Well, what am I supposed to do?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "I don't know.  Concentrate or some- thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62993",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "I feel like a jerk."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Shhh.  Just concentrate."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62994",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Anything?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Uh-uh.  Wait..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62995",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Disappointed?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "About what?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "About not finding any bogey men?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "I'll get over it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62996",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Maybe it only happens when you're sleeping - that's the way it was with Nancy, wasn't it?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Now, there's an idea we can take off on.  Maybe we should drive out to the beach tonight and lay out a couple of blankets and...  Until I fall asleep."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Maybe we can do that.  Strictly scientific, of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62997",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Nancy went bonkers from this thing. You wouldn't be afraid of being out on the beach with a potential lunatic?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "Ghostbusters are fearless."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62998",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "What is it - What's wrong?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Whoa!"
+      },
+      {
+        "speaker": "LISA",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I don't know - a sharp pain."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_62999",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "It's gone now."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Oh, Jesse..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63000",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Will you stop and tell me what's wrong?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I'm fine.  Nothing's wrong."
+      },
+      {
+        "speaker": "LISA",
+        "text": "you didn't say more than two words to me the whole way here.  You had another nightmare, didn't you?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "yeah, I had a bad night."
+      },
+      {
+        "speaker": "LISA",
+        "text": "You want to talk about it?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "My Dad thinks I'm on drugs, my Mom thinks I'm crazy and I'm not sure I don't agree with her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63001",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "You should eat something - you'll feel better."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I'm not hungry."
+      },
+      {
+        "speaker": "LISA",
+        "text": "I wish you'd talk to me.  We can figure it out, you know.  We can figure it out together."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "There's nothing to figure out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63002",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "I think I better go.  I'm just not into it tonight.  I'm sorry."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Why won't you talk to me?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "Will you leave me alone?  Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63003",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "You're not being fair to me.  I'm worried about you and I want to help you get through this thing."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "What are you gonna do?  How are you gonna help?  I'm losing my mind.  I don't want to have you watch me fall apart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63004",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "I'm afraid to go to sleep, I'm afraid to stay awake - I'm ruining your party. They're gonna put me away for sure."
+      },
+      {
+        "speaker": "LISA",
+        "text": "We'll figure it out together.  We'll stay up all night if we have to.  I won't let anything happen to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63005",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Jesse, God - what happened?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I killed him!  I killed him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63006",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Oh, Christ, you're hurt..."
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I killed Grady.  I killed Grady, Lisa. I killed Schneider.  Oh my God, he's inside me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63007",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Who, Jesse?"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "he's just waiting to take me.  When I sleep."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Who?  Who's doing this to you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63008",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Fred Krueger.  He's been trying to get hold of me, to use me.  He needs me to get out of his world into ours...He's gonna take me again."
+      },
+      {
+        "speaker": "LISA",
+        "text": "No, Jesse.  This isn't happening. It's gotta be everything you've taken in -- Schneider and the diary and the glove -- only it's all mixed up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63009",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "You created him - you can destroy him. He lives off your fear.  Fight him, Jesse!"
+      },
+      {
+        "speaker": "JESSE",
+        "text": "I can't!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63010",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "Hi."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Hi."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63011",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "What's so funny?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "We must look like a couple of escapees from a veterans' hospital."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_63012",
+    "movie_id": "m460",
+    "turns": [
+      {
+        "speaker": "JESSE",
+        "text": "'Morning."
+      },
+      {
+        "speaker": "MOM",
+        "text": "'Morning, honey."
+      }
+    ]
+  }
+]

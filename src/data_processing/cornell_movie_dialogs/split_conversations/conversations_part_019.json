@@ -1,0 +1,2170 @@
+[
+  {
+    "conversation_id": "conv_1801",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Hicks, don't let him leave."
+      },
+      {
+        "speaker": "HICKS",
+        "text": "We ain't going anywhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1802",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Ellen."
+      },
+      {
+        "speaker": "HICKS",
+        "text": "Don't be long, Ellen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1803",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "Hey, Vasquez...you ever been mistaken for a man?"
+      },
+      {
+        "speaker": "VASQUEZ",
+        "text": "No.  Have you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1804",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "Somebody said alien...she thought they said illegal alien and signed up."
+      },
+      {
+        "speaker": "VASQUEZ",
+        "text": "Fuck you."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "Anytime.  Anywhere."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1805",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "VASQUEZ",
+        "text": "All right, we can't blow the fuck out of them...why not roll some canisters of CN-20 down there. Nerve gas the whole nest?"
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "Look, man, let's just bug out and call it even, okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1806",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "VASQUEZ",
+        "text": "Yeah, bullshit.  Watch us."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "Maybe you haven't been keeping up on current events, but we just got out asses kicked, pal!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1807",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "Oh, man.  And I was gettin' short, too!  Four more weeks and out. Now I'm gonna buy it on this fuckin' rock.  It ain't half fair, man!"
+      },
+      {
+        "speaker": "VASQUEZ",
+        "text": "Hudson, give us a break."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1808",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "It's inside the complex."
+      },
+      {
+        "speaker": "VASQUEZ",
+        "text": "You're just reading me."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "No.  No!  It ain't you.  They're inside.  Inside the perimeter. They're in here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1809",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "Sounds like you, Hicks."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "The embryo, the second form, hosts in the victim's body for several hours.  Gestating.  Then it...  ...then it...emerges.  Moults. Grows rapidly --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1810",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Looks like it stung him."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "Hey...hey!  Look, Crowe and Dietrich aren't dead, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1811",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "You can't help them.  Right now they're being cocooned just like the others."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "Oh, God.  Jesus.  This ain't happening."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1812",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "Man, we're not going to make it seventeen hours!  Those things are going to come in here, just like they did before, man... they're going to come in here and get us, man, long before..."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "She survived longer than that with no weapons and no training."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1813",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "This service tunnel is how they're moving back and forth."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "Yeah, right, it runs from the processing station right into the sublevel here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1814",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "Uh, what's next?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1815",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "We need the other drop-ship.  The on one the Sulaco.  We have to bring it down on remote, somehow."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "How?  The transmitter was on the APC.  It's wasted."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I don't care how!  Think of a way.  Think of something."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "Think of what?  We're fucked."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "What about the colony transmitter? That up-link tower down at the other end.  Why can't we use that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1816",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Well then somebody's just going to have to go out there.  Take a portable terminal and go out there and plug in manually."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "Oh, right!  Right!  With those things running around.  No way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1817",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "They cut the power."
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "What do you mean, they cut the power?  How could they cut the power, man?  They're animals."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1818",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "This signal's weird...must be some interference or something. There's movement all over the place..."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Just get back here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1819",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "Range twenty meters."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Seal the door."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1820",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "Fifteen meters."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I don't know, an acid hole in a duct.  Something under the floors, not on the plans. I don't know!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1821",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "Twelve meters.  Man, this is a big fucking signal.  Ten meters."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "They're right on us.  Vasquez, how you doing?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1822",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "HUDSON",
+        "text": "Nine meters.  Eight."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Can't be.  That's inside the room!"
+      },
+      {
+        "speaker": "HUDSON",
+        "text": "It's readin' right.  Look!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1823",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "LYDECKER",
+        "text": "You remember you sent some wildcatters out to that plateau, out past the Ilium range, a couple days ago?"
+      },
+      {
+        "speaker": "SIMPSON",
+        "text": "Yeah.  What?"
+      },
+      {
+        "speaker": "LYDECKER",
+        "text": "There's a guy on the horn, mom-and-pop survey team.  Says he's homing on something and wants to know if his claim will be honored."
+      },
+      {
+        "speaker": "SIMPSON",
+        "text": "Christ.  Some honch in a cushy office on Earth says go look at a grid reference in the middle of nowhere, we look.  They don't say why, and I don't ask.  I don't ask because it takes two weeks to get an answer out here and the answer's always 'don't ask.'"
+      },
+      {
+        "speaker": "LYDECKER",
+        "text": "So what do I tell this guy?"
+      },
+      {
+        "speaker": "SIMPSON",
+        "text": "Tell him, as far as I'm concerned, he finds something it's his."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1824",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "MED-TECH",
+        "text": "And how are we today?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Terrible."
+      },
+      {
+        "speaker": "MED-TECH",
+        "text": "Just terrible?  That's better than yesterday at least."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "How long have I been on Gateway station?"
+      },
+      {
+        "speaker": "MED-TECH",
+        "text": "Just a couple of days.  Do you feel up to a visitor?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1825",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "MED-TECH",
+        "text": "Bad dreams again?  Do you want something to help you sleep?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "No.. I've slept enough."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1826",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "What did you say?"
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Newt.  My n-name's Newt. Nobody calls me Rebecca except my dork brother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1827",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "Casey.  She's my only friend."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "What about me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1828",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "I don't want you for a friend."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Because you'll be gone soon, like the others.  Like everybody.  You'll be dead and you'll leave me alone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1829",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "They'd be here if they could, honey.  I know they would."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "They're dead."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Newt.  Look at me...Newt.  I won't leave you.  I promise."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "You promise?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Cross my heart."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "And hope to die?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1830",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "I was the best at the game. I knew the whole maze."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "The 'maze'?  You mean the air ducts?"
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Yeah, you know.  In the walls, under the floor.  I was the ace.  I could hide better than anybody."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "You're really something, ace."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1831",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "I guess we're not leaving, right?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I'm sorry, Newt."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "You don't have to be sorry.  It wasn't your fault."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1832",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Now you just lie here and have a nap.  You're exhausted."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "I don't want to...I have scary dreams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1833",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "Ripley...she doesn't have bad dreams because she's just a piece of plastic."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Oh.  Sorry, Newt."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "My mommy always said there were no monsters.  No real ones.  But there are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1834",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Yes, there are, aren't there."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Why do they tell little kids that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1835",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Well, some kids can't handle it like you can."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Did one of those things grow inside her?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1836",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "I don't know, Newt.  That's the truth."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Isn't that how babies come? I mean people babies...they grow inside you?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "No, it's different, honey."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Did you ever have a baby?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Yes.  A little girl."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Where is she?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Gone."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "You mean dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1837",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "Don't go!  Please."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I'll be right in the other room, Newt.  And look...I can see you on that camera right up there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1838",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Newt.  Newt, wake up."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Wah...?  Where are...?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Sssh.  Don't move.  We're in trouble."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1839",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "Mommy...I mean, Ripley...I'm scared."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "I know, honey.  Me too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1840",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Burke!  Open the door!"
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Look!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1841",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "Come on.  Crawl faster."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "DO you know how to get to the landing field from here?"
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Sure.  Go left."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1842",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "This way.  Come on, we're almost there!"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Newt, wait!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1843",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "I knew you'd come."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Newt, I want you to hang on, now.  Hang on tight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1844",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "Mommy...Mommy?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Right here, baby.  Right here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1845",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "NEWT",
+        "text": "Are we going to sleep now?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "That's right."
+      },
+      {
+        "speaker": "NEWT",
+        "text": "Can we dream?"
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Yes, honey.  I think we both can."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1846",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Look, I told you..."
+      },
+      {
+        "speaker": "VAN LEUWEN",
+        "text": "It did not, however, contain any entries concerning the hostile life form you allegedly picked up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1847",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "VAN LEUWEN",
+        "text": "The analysis team which went over your shuttle centimeter by centimeter found no physical evidence of the creature you describe..."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "That's because I blew it out the Goddamn airlock!  Like I said."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1848",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Look, I can see where this is going.  But I'm telling you those things exist.  Back on that planetoid is an alien ship and on that ship are thousands of eggs.  Thousands. Do you understand?  I suggest you find it, using the flight recorder's data.  Find it and deal with it -- before one of your survey teams comes back with a little surprise..."
+      },
+      {
+        "speaker": "VAN LEUWEN",
+        "text": "Thank you, Officer Ripley.  That will be..."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "...because just one of those things managed to kill my entire crew, within twelve hours of hatching..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1849",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "Why won't you check out LV-426?"
+      },
+      {
+        "speaker": "VAN LEUWEN",
+        "text": "Because I don't have to.  The people who live there checked it out years ago and they never reported and 'hostile organism' or alien ship.  And by the way, they call it Acheron now."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "What are you talking about. What people?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1850",
+    "movie_id": "m15",
+    "turns": [
+      {
+        "speaker": "RIPLEY",
+        "text": "How many colonists?"
+      },
+      {
+        "speaker": "VAN LEUWEN",
+        "text": "Sixty, maybe seventy families."
+      },
+      {
+        "speaker": "RIPLEY",
+        "text": "Sweet Jesus."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1851",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "ANDANTE",
+        "text": "A sweetheart or a pretty little wife is Papageno's wish. A willing, billing, lovey dovey Would be My most tasty little dish. Be my most tasty little dish! Be my most tasty little dish!"
+      },
+      {
+        "speaker": "ALLEGRO",
+        "text": "Then that would be eating and drinking I'd live like a Prince without thinking. The wisdom of old would be mine - A woman's much better than wine! Then that would be eating and drinking! The wisdom of old would be mine - A woman's much better than wine. She's much better than wine! She's much better than wine!"
+      },
+      {
+        "speaker": "ANDANTE",
+        "text": "A sweetheart or a pretty little wife is Papageno's wish. A willing, billing, lovey dovey Would be My most tasty little dish."
+      },
+      {
+        "speaker": "ALLEGRO",
+        "text": "I need to net one birdie only And I will stop feeling so lonely. But if she won't fly to my aid, Then into a ghost I must fade. I need to net one birdie only But if she won't fly to my aid, Then into a ghost I must fade.  To a ghost I must fade! To a ghost I must fade!"
+      },
+      {
+        "speaker": "ANDANTE",
+        "text": "A sweetheart or a pretty little wife is Papageno's wish. A willing, billing, lovey dovey Would be My most tasty little dish."
+      },
+      {
+        "speaker": "ALLEGRO",
+        "text": "At present the girls only peck me. Their cruelty surely will wreck me. But one little beak in my own, And I'll up to heaven be flown! At present the girls only peck me. But one little beak in my own, And I'll up to heaven be flown. Up to heaven be flown! Up to heaven be flown!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1852",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "ARCO",
+        "text": "Follow me, please. The Archbishop would like a word."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Certainly!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1853",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Well, I think that went off remarkably well, don't you?"
+      },
+      {
+        "speaker": "ARCO",
+        "text": "Indeed."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "These Viennese certainly know good music when they hear it."
+      },
+      {
+        "speaker": "ARCO",
+        "text": "His Grace is very angry with you."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What do you mean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1854",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CAVALIERI",
+        "text": "Maestro."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Good morning."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Well? How do you like it? It's Turkish. My hairdresser tells me everything's going to be Turkish this year!"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Really? What else did he tell you today? Give me some gossip."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Well, I heard you met Herr Mozart."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Oh? News travels fast in Vienna."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "And he's been commissioned to write an opera. Is it true?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Yes."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Is there a part for me?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "No."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "How do you know?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Well even if there is, I don't think you want to get involved with this one."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Well, do you know where it's set, my dear?"
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Where?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "In a harem."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "What's that?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "A brothel."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Oh!"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "A Turkish brothel."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Turkish? Oh, if it's Turkish, that's different. I want to be in it."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "My dear, it will hardly enhance your reputation to be celebrated throughout Vienna as a singing prostitute for a Turk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1855",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CAVALIERI",
+        "text": "Oh. Well perhaps you could introduce us anyway."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Perhaps."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1856",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CAVALIERI",
+        "text": "What does he look like?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "You might be disappointed."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Why?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Looks and talent don't always go together, Katherina."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Looks don't concern me, Maestro. Only talent interests a woman of taste."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1857",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CAVALIERI",
+        "text": "Did you know? Had you heard?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "What?"
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "The marriage!"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Well, what does it matter to you?"
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Nothing! He can marry who he pleases. I don't give a damn."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1858",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CAVALIERI",
+        "text": "How was I? Tell me honestly."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "You were sublime."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "What did you think of the music?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Extremely clever."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Meaning you didn't like it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1859",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Katherina! I'll tell you what I'm going to do. I'm going to write another aria for you. Something even more amazing for the second act. I have to get some water. Her mother is lying on the stage."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Don't bother!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What?"
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Don't bother."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I'll be right back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1860",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Oh - excuse me!"
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "Is her mother still lying on the floor?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "No, she's fine."
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "I'm so relieved."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1861",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CAVALIERI",
+        "text": "Is she a good fuck?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What??"
+      },
+      {
+        "speaker": "CAVALIERI",
+        "text": "I assume she's the virtuoso in that department. There can't be any other reason you'd marry someone like that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1862",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CAVALIERI",
+        "text": "No, no, no, no. You can't take him away now. This is his night. Won't you introduce us, Wolfgang?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Excuse us, Fraulein. Good night, Signore."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1863",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "COLLOREDO",
+        "text": "No! I won't have him back."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "But he needs to be here in Salzburg, Your Grace. He needs me and he needs you. Your protection, your understanding."
+      },
+      {
+        "speaker": "COLLOREDO",
+        "text": "Hardly."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Oh sir, yes! He's about to make the worst mistake of his life. Some little Viennese slut is trying to trick him into marriage. I know my son. He is too simple to see the trap - and there is no one there who really cares for him."
+      },
+      {
+        "speaker": "COLLOREDO",
+        "text": "I'm not surprised. Money seems to be more important to him than loyalty or friendship. He has sold himself to Vienna. Let Vienna look out for him."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Sir -"
+      },
+      {
+        "speaker": "COLLOREDO",
+        "text": "Your son is an unprincipled, spoiled, conceited brat."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Yes, sir, that's the truth. But don't blame him. The fault is mine. I was too indulgent with him. But not again. Never again, I promise! I implore you - let me bring him back here. I'll make him give his word to serve you faithfully."
+      },
+      {
+        "speaker": "COLLOREDO",
+        "text": "And how will you make him keep it?"
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Oh, sir, he's never disobeyed me in anything. Please, Your Grace, give him one more chance."
+      },
+      {
+        "speaker": "COLLOREDO",
+        "text": "You have leave to try."
+      },
+      {
+        "speaker": "LEOPOLD",
+        "text": "Oh, Your Grace - I thank Your Grace! I thank you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1864",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Why what, sir?"
+      },
+      {
+        "speaker": "COLLOREDO",
+        "text": "Why do I have to be humiliated in front of my guests by one of my own servants?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Humiliated?"
+      },
+      {
+        "speaker": "COLLOREDO",
+        "text": "How much provocation am I to endure from you? The more license I allow you, the more you take."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1865",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "If His Grace is not satisfied with me, he can dismiss me."
+      },
+      {
+        "speaker": "COLLOREDO",
+        "text": "I wish you to return immediately to Salzburg. Your father is waiting for you there patiently. I will speak to you further when I come."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "No, Your Grace! I mean with all humility, no. I would rather you dismissed me. It's obvious I don't satisfy."
+      },
+      {
+        "speaker": "COLLOREDO",
+        "text": "Then try harder, Mozart. I have no intention of dismissing you. You will remain in my service and learn your place. Go now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1866",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "COMMENDATORE",
+        "text": "Don Giovannnnnnnni!"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Who the devil are you? What do you want?"
+      },
+      {
+        "speaker": "COMMENDATORE",
+        "text": "I've come to dinnnnnner!"
+      },
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "Dinner? How dare you? I am a nobleman. I only dine with people of my own height."
+      },
+      {
+        "speaker": "COMMENDATORE",
+        "text": "Are you drunk? You invited me. And my horse. Here he is. Ottavio!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1867",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SCHIKANEDER",
+        "text": "In the pot, I have got a good dinner. Not a sausage or stew, but a singer. Not a sausage or stew but a singer. Is the treat that I'll eat for my meat!"
+      },
+      {
+        "speaker": "COMMENDATORE",
+        "text": "Oh shut up. I'm sick to death of that tune."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1868",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "OFFICER",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "I want to go!"
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "Where?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "I want to go back to Vienna."
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "Now?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Yes!"
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "Why?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "I feel wrong. I feel wrong being here."
+      },
+      {
+        "speaker": "OFFICER",
+        "text": "What are you talking about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1869",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "Stop it!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I am! I am! I'm stopping it - slowly. You see! Look, I've stopped. Now we are going back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1870",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "No! No! No!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Yes! Back! Back! Listen - don't you know where you are?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Where?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "We are in the Residence of the Fartsbishop of Salzburg."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Fartsbishop!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1871",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "Your Grace, I've got something to tell you. I want to complain about this man."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Go ahead, tell him. Tell them all. They won't understand you anyway."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Because here everything goes backwards. People walk backwards, dance backwards, sing backwards, and talk backwards."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "That's stupid."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Why? People fart backwards."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Do you think that's funny?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Yes, I think it's brilliant. You've been doing it for years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1872",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "Oh, ha, ha, ha."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Sra-I'm-sick! Sra-I'm sick!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Yes, you are. You're very sick."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "No, no. Say it backwards, shit-wit. Sra-I'm-sick Say it backwards!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Sra-I'm-sick. Sick - kiss I'm - my Kiss my! Sra-I'm-sick - Kiss my arse!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Em iram! Em iram!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "No, I'm not playing this game."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "No, this is serious. Say it backwards."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "No!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Just say it - you'll see. It's very serious. Em iram!  Em iram!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Iram - marry Em - marry me! No, no! You're a fiend. I'm not going to marry a fiend. A dirty fiend at that."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Ui-vol-i-tub!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Tub - but i-tub - but I vol - love but I love ui - You. I love you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1873",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Tish-I'm tee. What's that?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "What?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Tish-I'm-tee."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Eat"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Yes."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Eat my - ah!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1874",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "Excuse me, Wolfi. Mama is not feeling very well. Can we leave now?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Of course."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1875",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "I think you're mad! You're really mad!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Oh, leave me alone."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "One royal pupil and the whole of Vienna will come flocking. We'd be set up for life!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "They'll come anyway. They love me here."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "No, they will not. I know how things work in this city."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Oh yes? You always know everything."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Well, I'm not borrowing any more money from my mother, and that's that!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "You borrowed money from your mother?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Yes!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well, don't do that again!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "How are we going to live, Wolfi? Do you want me to go into the streets and beg?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Don't be stupid."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "All they want to see is your work. What's wrong with that?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Shut up! Just shut up! I don't need them."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "This isn't pride. It's sheer stupidity!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1876",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Stop it now. Stop it. I've brought some friends to meet you. They're next door waiting. Do we have anything to eat? They're all starving."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Tell them to go away. I don't want to see anybody."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What's the matter with you?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Tell them to go!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Sssh. What is it? Tell me."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "No!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Yes!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "I love you! I love you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1877",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "My Stanzi - look at her! Isn't she beautiful? Come on now, confess, Papa. Could you want a prettier girl for a daughter?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Stop it, Wolfi. I look dreadful. Welcome to our house, Herr Mozart."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "He's not Herr Mozart. Call him Papa."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1878",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "May I offer you some tea, Herr Mozart?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Tea? Who wants tea? Let's go out! This calls for a feast. You don't want tea, Papa. Let's go dancing. Papa loves parties, don't you?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Wolfi!"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What? How can you be so boring? Tea!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Wolfi, I think your father's tired. I'll cook us something here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1879",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "There's a young girl to see you."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What does she want?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "I don't know."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well, ask her!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "She won't talk to me. She says she has to speak to you."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Oh, damn!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1880",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "Look, old man, you stay out of this. We spend a fortune on you, more than we can possibly afford, and all you do is criticize, morning to night. And then you think you can -"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Stanzi!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "No, it's right he should hear. I'm sick to death of it. We can't do anything right for you, can we?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1881",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "We'll have a little party. Come in. Come in. You know Herr Schikaneder?  This is! a very nice girl."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Wolfi."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Yes, my love?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "These gentlemen are from Salzburg."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Salzburg.  We were just talking about Salzburg.  If you've come from my friend the Fartsbishop, you've arrived at just the right moment. Because I've got good news for him. I'm done with Vienna. It's over, finished, done with! Done with! Done with!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Wolfi! Your father is dead."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "What?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Your father is dead."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1882",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Half the receipts! Stanzi!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "I'm talking about now. How much will you give him now? Down payment?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1883",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "You're not going to do this?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Why not? Half the house!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "When? We need money now. Either he pays now, or you don't do it."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Oh, Stanzi."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "I don't trust this man. And I didn't like what he did with your opera. It was common."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Well, you liked it, didn't you? Monkey-flunki-punki."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Half the house! You'll never see a penny. I want it here, in my hand."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Stanzi-manzi, I'll put it in your hand!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Shut up! I'll not let you put anything in my hand until I see some money."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1884",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "Who was that?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "No one."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "I heard voices."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1885",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "What's that? Oh!  Who gave you this? How much is it? Wolfi, who gave you this?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I'm not telling you."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "You'd think I was mad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1886",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "No. Don't answer it!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1887",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "This is my wife, Stanzi. I've been sick, but I'm all right now. Aren't I?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Oh yes, sir. He's all right. And he's working on it very hard."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "Give me two more weeks. Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1888",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "Give me one reason I can understand."
+      },
+      {
+        "speaker": "MOZART",
+        "text": "I can't write it!"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MOZART",
+        "text": "It's killing me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1889",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "MOZART",
+        "text": "Go back to bed."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Please! Let me sit here. Let me stay here with you. I promise I won't say all word. I'll just be here, so you know no one's going to hurt you. Please, please!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1890",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "Excellency!"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Madame. How can I help you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1891",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Frau Mozart?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "That's right, Your Excellency. I've come on behalf of my hus band. I'm - I'm bringing some samples of his work so he can be considered for the royal appointment."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "How charming.  But why did he not come himself?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "He's terribly busy, sir."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "I understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1892",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "I will look at them, of course, the moment I can. It will be an honour. Please give him my warmest."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Would it be too much trouble, sir, to ask you to look at them now? While I wait."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "I'm afraid I'm not at leisure this very moment. Just leave them with me. I assure you they will be quite safe."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "I - I really cannot do that, Your Excellency. You see, he doesn't know I'm here."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Really?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "My husband is a proud man, sir. He would be furious if he knew I'd come."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Then he didn't send you?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "No, sir. This is my own idea."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "I see."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Sir, we really need this job. We're desperate. My husband spends far more than he can ever earn. I don't mean he's lazy - he's not at all - he works all day long. It's just! he's not practical. Money simply slips through his fingers, it's really ridiculous, Your Excellency. I know you help musicians. You're famous for it. Give him just this one post. We'd be forever indebted!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1893",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "Thank you very much, Your Excellency."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Don't keep calling me that. It puts me at such a distance. I was not born a Court Composer, you know. I'm from a small town, just like your husband."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1894",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Are you sure you can't leave that music, and come back again? I have other things you might like."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "That's very tempting, but it's impossible, I'm afraid. Wolfi would be frantic if he found those were missing. You see, they're all originals."
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Originals?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1895",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "These are originals?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Yes, sir. He doesn't make copies."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1896",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "It is miraculous."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Oh yes. He's really proud of his work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1897",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Tomorrow night I dine with the Emperor. One word from me and the post is his."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Oh, thank you, sir!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1898",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "Come back tonight."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Tonight?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Alone."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "What for?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Some service deserves service in return. No?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Isn't it obvious?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1899",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "SALIERI",
+        "text": "It's a post all Vienna seeks. If you want it for your husband, come tonight."
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "But! I'm a married woman!"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "Then don't. It's up to you. Not to be vague, that is the price."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_1900",
+    "movie_id": "m16",
+    "turns": [
+      {
+        "speaker": "CONSTANZE",
+        "text": "I do apologize for this afternoon. I behaved like a silly girl. Where shall we go?"
+      },
+      {
+        "speaker": "SALIERI",
+        "text": "What?"
+      },
+      {
+        "speaker": "CONSTANZE",
+        "text": "Should we stay here? It's a charming room. I love these candlesticks. Were they here earlier? I didn't notice them I suppose I was too nervous."
+      }
+    ]
+  }
+]

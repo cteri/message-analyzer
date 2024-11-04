@@ -1,0 +1,2426 @@
+[
+  {
+    "conversation_id": "conv_42113",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "For very long?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I don't see anyone for very long, Mr. Gittes.  It's difficult for me. Now I think you know all you need to about me. I didn't want publicity. I didn't want to go into any of this, then or now. Is this all?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42114",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "K... Cross."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "That your maiden name?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes... why?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "No reason."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42115",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "You must've had a reason to ask me that."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "No. I'm just a snoop."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You seem to have had a reason for every other question."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "No, not for that one."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I don't believe you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42116",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "How did it happen?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Been meaning to talk to you about that."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Maybe putting your nose in other people's business?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "More like other people putting their business in my nose."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42117",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Another satisfied client?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Another satisfied client's wife."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42118",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Oh, no. I've got my own car. The creamcolored Packard."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Wait a minute, sonny.  I think you better come with me."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What for? There's nothing more to say.  Get my car, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42119",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Whoever's behind my husband's death, why have they gone to all this trouble?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Money. How they plan to make it by emptying the reservoirs, that I don't know."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I'll pay your salary plus five thousand dollars if you find out what happened to Hollis and who is involved."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42120",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Your father is Julian Cross, isn't he?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes, of course. It was quite a while after. I was just out of grade school when they did that."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "So you married your father's business partner?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42121",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "You've got one going, Mrs. Mulwray."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Oh."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42122",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Is there something upsetting about my asking about your father?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No!... Yes, a little. You see Hollis and my fa... my father had a falling out..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Over the water department, or over you?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Not over me. Why would they have a falling out over me?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Then it was over the water department."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Not exactly. Well, I mean, yes. Yes and no.  Hollis felt the public should own the water but I don't think my father felt that way.  Actually, it was over the Van der Lip. The dam that broke."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Oh, yeah?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes. He never forgave him for it."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Never forgave him for what?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "For talking him into building it, he never forgave my father... They haven't spoken to this day."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "You sure shout that?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Of course I'm sure."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "What about you? Do you and your father get along?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42123",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "What are you thinking?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Before this I turned on the faucet, it came out hot and cold, I didn't think there was a thing to it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42124",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "That dam is a con job."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What dam?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "The one your husband opposed. They're conning L.A. into building it, only the water won't go to L.A. It'll go here."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "The Valley?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Everything you can see, everything around us. I was at the Hall of Records today.  That bother you?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "In the last three months, Robert Knox has bought 7,000 acres, Emma Dill 12,000 acres, Clarence Speer 5,000 acres, and Jasper Lamar Crabb 25,000 acres."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Jasper Lamar Crabb?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Know him?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No, I think I'd remember."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah. They've been blowing these farmers out of here and buying their land for peanuts. Have any idea what this land'll be worth with a steady water supply? About thirty million more than they paid."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "And Hollis knew about it?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "It's why he was killed. Jasper Lamar Crabb. Jasper Lamar Crabb."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42125",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "We got it. We got it, baby."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What? What is it?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "There was a memorial service at the Mar Vista Inn today for Jasper Lamar Crabb. He died three weeks ago."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Is that unusual?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Two weeks ago he bought those 25,000 acres. That's unusual."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42126",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "You're looking at the owners of a 50,000 acre empire."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "They can't be."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "They may not know it but they are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42127",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "I'll stay."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Get in the car."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42128",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Maid's night off?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Why?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "What do you mean, 'why?' Nobody's here, that's all."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I gave everybody the night off."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Easy, it's an innocent question."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No question from you is innocent, Mr. Gittes."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I guess not to you, Mrs. Mulwray. Frankly you really saved my a... my neck tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42129",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Tell me something. Does this usually happen to you, Mr. Gittes?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "What's that, Mrs. Mulwray?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Well, I'm only judging on the basis of one afternoon and an evening, but if that's how you go about your work, I'd say you're lucky to get through a whole day."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Actually this hasn't happened to me in some time."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "When was the last time?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Why?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Just. I don't know why. I'm asking."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42130",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "It was in Chinatown."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What were you doing there?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Working for the District Attorney."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Doing what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42131",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "As little as possible."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "The District Attorney gives his men advice like that?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "They do in Chinatown."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42132",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Boy oh boy, you're a mess."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "So why does it bother you to talk about it... Chinatown..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Bothers everybody who works there, but to me... It was..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42133",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Hold still. Why?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "You can't always tell what's going on there."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "...No. Why was it."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I thought I was keeping someone from being hurt and actually I ended up making sure they were hurt."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Could you do anything about it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42134",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Your eye."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What about it?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "There's something black in the green part of your eye."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Oh that... It's a flaw in the iris..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "...A flaw..."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "...Yes, sort of a birthmark..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42135",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Where?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Just... I have to."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "And I want to know where."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Please don't be angry... believe me, it's got nothing to do with you."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Please!... Trust me this much...  I'll be back. Look, there is something I should tell you. The fishing club that old lady mentioned, the pieces off the flag."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "The Albacore Club."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "It has to do with my father."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I know."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "He owns it. You know?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I saw him."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You saw my fa... father? When?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "This morning."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You didn't tell me."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "There hasn't been a lot of time."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42136",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "What did he say?  What did he say?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "That you were jealous, and he was worried about what you might do."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Do? To who?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Mulwray's girlfriend, for one thing. He wanted to know where she was."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42137",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "I want you to listen to me. My father is a very dangerous man. You don't know how dangerous. You don't know how crazy."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Give me an example."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You may think you know what's going on, but you don't."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "That's what your father said. You're telling me he's in back of this whole thing?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "It's possible."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Including the death of your husband?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "It's possible. Please don't ask me any more questions now. Just wait, wait for me. I'll be back. I need you here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42138",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Okay, give me the keys."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You bastard."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "It's either that or you drive to the police yourself."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "The police?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "C'mon, Mrs. Mulwray. You've got your husband's girlfriend tied up in there!"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "She's not tied up!"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "You know what I mean. You're keeping her there against her will."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I am not!"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Then let's go talk to her."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42139",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "She's too upset."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "What about?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Hollis' death. I tried to keep it from her, I didn't want her upset before I could make plans for her to leave."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "You mean she just found out?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "That's not what it looks like, Mrs. Mulwray."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What does it look like?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Like she knows about Hollis' death. Like she knows more than you want her to tell."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You're insane."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42140",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Just tell me the truth. I'm not the police. I don't care what you've done. I'm not going to hurt you, but one way or another I'm going to know."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "You won't go to the police if I tell you?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I will if you don't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42141",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "I can't..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Because of Hollis? Because she was seeing your husband? Was that it? Jesus Christ, say something. Was that it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42142",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "I took your husband's Buick...  I'll return it tomorrow."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Aren't you coming back with me?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Don't worry. I'm not telling anybody about this."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "...That's not what I meant."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42143",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Did you get some sleep?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Sure."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Did you have lunch? Kyo will fix you something."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Where's the girl?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Upstairs. Why?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I want to see her."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "...she's having a bath now... why do you want to see her?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42144",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Going somewhere?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Yes, we've got a 4:30 train to catch. Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42145",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "J. J. Gittes for Lieutenant Escobar"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What are you doing? What's wrong? I told you we've got a 4:30."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "You're going to miss your train!  Lou, meet me at 1412 Adelaide. It's above Santa Monica Canyon... yeah, soon as you can."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What did you do that for?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "You know any good criminal lawyers?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "No..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Don't worry. I can recommend a couple. They're expensive but you can afford it."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What the hell is this all about?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42146",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "I found these in your backyard... in your fish pond. They belonged to your husband, didn't they?... didn't they?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I don't know. I mean yes, probably."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yes positively. That's where he was drowned..."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "What are you saying?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "There's no time for you to be shocked by the truth, Mrs. Mulwray. The coroner's report proves he was killed in salt water. Just take my word for it. Now I want to know how it happened and why. I want to know before Escobar gets here because I want to hang onto my license."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I don't know what you're talking about. This is the most insane... the craziest thing I ever..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42147",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Stop it!  I'll make it easy. You were jealous, you fought, he fell, hit his head. It was an accident, but his girl is a witness. You've had to pay her off. You don't have the stomach to harm her, but you've got the money to shut her up. Yes or no?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "...no..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Who is she? And don't give me that crap about it being your sister. You don't have a sister."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42148",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "That's good. Now what's her name?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Katherine."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Katherine?... Katherine who?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "She's my daughter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42149",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "I said the truth!"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "She's my sister."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42150",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "I said I want the truth."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "She's my sister and my daughter!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42151",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "...he had a breakdown... the dam broke... my mother died... he became a little boy... I was fifteen... he'd ask me what to eat for breakfast, what clothes to wear!... It happened... then I ran away..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "To Mexico..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42152",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "EVELYN",
+        "text": "Hollis came and took... care of me... after she was born... he said... he took care of her... I couldn't see her... I wanted to but I couldn't... I just want to see her once in a while... take care of her... that's all...  but I don't want her to know... I don't want her to know..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "...so that's why you hate him..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42153",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Yeah... where are you taking her now?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Back to Mexico."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "You can't go by train. Escobar'll be looking for you everywhere."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "How about a plane?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "That's worse... Just get out of here. Walk out, leave everything."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I have to go home and get my things."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I'll take care of it."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Where can we go?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "...where does Kyo live?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "With us."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "On his day off. Get the exact address."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "Okay..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42154",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "How do you know?"
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "He didn't wear bifocals."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42155",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Let me handle that."
+      },
+      {
+        "speaker": "EVELYN",
+        "text": "I'm all right."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Sure, but I'd like to handle it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42156",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Walsh here?"
+      },
+      {
+        "speaker": "SOPHIE",
+        "text": "He's in the dark room."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42157",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Sophie, go to the little girl's room for a minute."
+      },
+      {
+        "speaker": "SOPHIE",
+        "text": "But, Mr. Gittes."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Sophie."
+      },
+      {
+        "speaker": "SOPHIE",
+        "text": "Yes, Mr. Gittes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42158",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Sophie."
+      },
+      {
+        "speaker": "SOPHIE",
+        "text": "Yes, Mr. Gittes."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Get me the Times. Whitey Mehrholtz.  And how about that snotty broad?  What does she think, she's perfect? Coming in waving her lawyers and her money at me  so goddam smug. She's no better than anybody else in this town."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42159",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Where'd he go yesterday?"
+      },
+      {
+        "speaker": "WALSH'S VOICE",
+        "text": "Three reservoirs. Men's room of a Richfield gas station on Flower, and the Pig 'n Whistle."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Jesus Christ, this guy's really got water on the brain."
+      },
+      {
+        "speaker": "WALSH'S VOICE",
+        "text": "What'd you expect? That's his job."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Listen, we can't string this broad out indefinitely we got to come up with something."
+      },
+      {
+        "speaker": "WALSH'S VOICE",
+        "text": "I think I got something."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Oh yeah? You pick up the watch?"
+      },
+      {
+        "speaker": "WALSH'S VOICE",
+        "text": "It's on your desk. Say, you hear the one about the guy who goes to the North Pole with Admiral Byrd looking for penguins?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42160",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Sophie... is Walsh there?... yeah, listen, pal, Escobar's going to try and book me in about five minutes... relax, I'll tell you. Wait in the office for two hours. If you don't hear from me, you and Duffy meet me at 1712 Alameda."
+      },
+      {
+        "speaker": "WALSH'S VOICE",
+        "text": "Jesus, that's in Chinatown, ain't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42161",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Hello, Miss Sessions. I don't believe we've had the pleasure."
+      },
+      {
+        "speaker": "IDA'S VOICE",
+        "text": "Oh yes we have... are you alone, Mr. Gittes?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Isn't everybody? What can I do for you, Miss Sessions?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42162",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "IDA'S VOICE",
+        "text": "Well, I'm a working girl, Mr. Gittes. I didn't come in to see you on my own."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "When did you come in?"
+      },
+      {
+        "speaker": "IDA'S VOICE",
+        "text": "I was the one who pretended to be Mrs. Mulwray, remember?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42163",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Shut the fuck up!  ...Yes I remember nothing, Miss Sessions, just going over a detail or two with my associates... you were saying?"
+      },
+      {
+        "speaker": "IDA'S VOICE",
+        "text": "Well I never expected anything to happen like what happened to Mr. Mulwray, the point is if it ever comes out I want somebody to know I didn't know what would happen."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I understand... if you could tell me who employed you, Miss Sessions. That could help us both."
+      },
+      {
+        "speaker": "IDA'S VOICE",
+        "text": "Oh no."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "...Why don't you give me your address and we can talk this over?"
+      },
+      {
+        "speaker": "IDA'S VOICE",
+        "text": "No, Mr. Gittes. Just look in the obituary column of today's Times..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "The obituary column?"
+      },
+      {
+        "speaker": "IDA'S VOICE",
+        "text": "You'll find one of those people."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "'Those people?' Miss Sessions."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42164",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Yeah, Sophie."
+      },
+      {
+        "speaker": "SOPHIE'S VOICE",
+        "text": "A Miss Sessions calling."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Who?"
+      },
+      {
+        "speaker": "SOPHIE'S VOICE",
+        "text": "Ida Sessions."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Don't know her. Take a number."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42165",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "SOPHIE'S VOICE",
+        "text": "Miss Ida Sessions again. She says you know her."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42166",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "PALMER",
+        "text": "Oh my goodness."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Nothing to do with Dad. It's me, actually."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42167",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Naturally, I want the best for him, money is no object."
+      },
+      {
+        "speaker": "PALMER",
+        "text": "Perhaps if we could meet your father."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "There's just one question."
+      },
+      {
+        "speaker": "PALMER",
+        "text": "Of course."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Do you accept anyone of the Jewish persuasion?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42168",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "PALMER",
+        "text": "I'm sorry. We don't."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Don't be sorry, neither does Dad. Wanted to make sure though, didn't we, honey?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42169",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Just to be certain, I wonder if you could show us a list of your patients?"
+      },
+      {
+        "speaker": "PALMER",
+        "text": "We don't reveal the names of our guests as a matter of policy. I know you'd appreciate that if your father came to live with us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42170",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "That's exactly what we wanted to hear."
+      },
+      {
+        "speaker": "PALMER",
+        "text": "Oh, good."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I wonder, is it too late for us to have a look around?"
+      },
+      {
+        "speaker": "PALMER",
+        "text": "I don't think so. Be happy to show you."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Would you mind if we took a stroll on our own?"
+      },
+      {
+        "speaker": "PALMER",
+        "text": "Just, if you will, confine yourself to the main building. It's nearly bedtime."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "We understand, c'mon, sweetheart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42171",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "YELBURTON",
+        "text": "Can I help you?  Russ Yelburton, Deputy Chief in the Department."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "J.J. Gittes. And it's not a departmental matter."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "I wonder if you'd care to wait in my office?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42172",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "YELBURTON",
+        "text": "After all, you work with a man for a certain length of time, you come to know him, his habits, his values, and so forth. Well either he's the kind who chases after women or he isn't."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "And Mulwray isn't?"
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "He never even kids about it."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Maybe he takes it very seriously."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42173",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "You don't happen to know where Mr. Mulwray's having lunch?"
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "I'm sorry, I --"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Well, tell him I'll be back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42174",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Mind if I take one of your cards? In case I want to get in touch with you again."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "Help yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42175",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Relax, Mulvihill, glad to see you.  Do you know Claude Mulvihill here?"
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "Hope so. He's working for us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42176",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "YELBURTON",
+        "text": "Mr. Gittes, sorry to keep you waiting. These staff meetings, they just go on and on."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah, must be especially tough to take over under these circumstances."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "Oh yes. Hollis was the best department head the city's ever had. My goodness, what happened to your nose?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I cut myself shaving."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "You ought to be more careful. That must really smart."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Only when I breathe."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "Only when you breathe... don't tell me you're still working for Mrs. Mulwray?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I never was."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "I don't understand."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Neither do I, actually. But you hired me or you hired that chippie to hire me."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "Mr. Gittes, you're not making a bit of sense."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Well, look at it this way, Mr. Yelburton.  Mulwray didn't want to build a dam and he had a reputation that was hard to get around, so. you decided to ruin it. Then he found out that you were dumping water every night. Then he was drowned."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "Mr. Gittes! That's an outrageous accusation.  I don't know what you're talking about."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Well, Whitey Mehrholtz over at the Times will. Dumping thousands of gallons of water down the toilet in the middle of a drought.  That's news."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42177",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "YELBURTON",
+        "text": "Wait. Please sit down, Mr. Gittes. We're... well, we're not anxious for this to get around, but we have been diverting a little water to irrigate avocado and walnut groves in the northwest valley. As you know, the farmers there have no legal right to our water, and since the drought we've had to cut them off. The city comes first, naturally.  But, well, we've been trying to help some of them out, keep them from going under. Naturally when you divert water you get a little runoff."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah, a little runoff. Where are those orchards?"
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "I said, the northwest valley."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "That's like saying they're in Arizona."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "Mr. Gittes, my field men are out and I can't give you an exact location..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42178",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "You're a married man, am I right?"
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Hard working, have a wife and kids..."
+      },
+      {
+        "speaker": "YELBURTON",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I don't want to nail you. I just want to know who put you up to it. I'll give you a few days to think it over.  Call me. I can help. Who knows? Maybe we can lay the whole thing off on a few big shots and you can stay head of the department for the next twenty years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42179",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "YOUNG WOMAN",
+        "text": "Mr. Gittes?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "YOUNG WOMAN",
+        "text": "Do you know me?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Well... I think I... I would've remembered."
+      },
+      {
+        "speaker": "YOUNG WOMAN",
+        "text": "Have we ever met?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Well, no."
+      },
+      {
+        "speaker": "YOUNG WOMAN",
+        "text": "Never?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Never."
+      },
+      {
+        "speaker": "YOUNG WOMAN",
+        "text": "That's what I thought. You see, I'm Mrs. Evelyn Mulwray. You know, Mr. Mulwray's wife."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42180",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Speak English?... Habla Ingles?"
+      },
+      {
+        "speaker": "THE BOY",
+        "text": "Si."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Didn't you talk to a man here... few days ago... wore glasses... he..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42181",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "THE BOY",
+        "text": "The water."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "What about the water?"
+      },
+      {
+        "speaker": "THE BOY",
+        "text": "When it comes."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "When it comes? What'd you tell him?"
+      },
+      {
+        "speaker": "THE BOY",
+        "text": "Comes in different parts of the river. Every night a different part."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42182",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "MORTY",
+        "text": "Jake, what're you doin' here?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Nothin', Morty, it's my lunch hour, I thought I'd drop by and see who died lately."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42183",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "MORTY",
+        "text": "Yeah? Ain't that something? Middle of a drought, the water commissioner drowns. Only in L.A."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah. Banged up pretty bad."
+      },
+      {
+        "speaker": "MORTY",
+        "text": "That's a long fall."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "So how are you, Morty?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42184",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "MORTY",
+        "text": "Drowned, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42185",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Come again?"
+      },
+      {
+        "speaker": "MORTY",
+        "text": "Yeah, got dead drunk, passed out in the bottom of the riverbed."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "The L.A. River?"
+      },
+      {
+        "speaker": "MORTY",
+        "text": "Yeah, under Hollenbeck Bridge, what's wrong with that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42186",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "It's bone dry, Morty."
+      },
+      {
+        "speaker": "MORTY",
+        "text": "It's not completely dry."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah, well he ain't gonna drown in a damp riverbed either, I don't care how soused he was. That's like drowning in a teaspoon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42187",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "VOICE ON PHONE",
+        "text": "Gittes?... Gittes?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "VOICE ON PHONE",
+        "text": "Ida Sessions wants to see you."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Who?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42188",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Yeah?... I do?"
+      },
+      {
+        "speaker": "VOICE ON PHONE",
+        "text": "Sure you do."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Well, tell you what, pal. If Ida wants to see me she can call me at my office."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42189",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "How do you do, Mrs. Mulwray?"
+      },
+      {
+        "speaker": "MRS. MULWRAY",
+        "text": "Mr. Gittes..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Now, Mrs. Mulwray, what seems to be the problem?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42190",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "No, really?"
+      },
+      {
+        "speaker": "MRS. MULWRAY",
+        "text": "I'm afraid so."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I am sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42191",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "MRS. MULWRAY",
+        "text": "Can't we talk about this alone, Mr. Gittes?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I'm afraid not, Mrs. Mulwray. These men are my operatives and at some point they're going to assist me. I can't do everything myself."
+      },
+      {
+        "speaker": "MRS. MULWRAY",
+        "text": "Of course not."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Now, what makes you certain he is involved with someone?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42192",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Mrs. Mulwray, do you love your husband?"
+      },
+      {
+        "speaker": "MRS. MULWRAY",
+        "text": "...Yes of course."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Then go home and forget about it."
+      },
+      {
+        "speaker": "MRS. MULWRAY",
+        "text": "But..."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I'm sure he loves you, too. You know the expression, let sleeping dogs lie? You're better off not knowing."
+      },
+      {
+        "speaker": "MRS. MULWRAY",
+        "text": "But I have to know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42193",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "All right, what's your husband's first name?"
+      },
+      {
+        "speaker": "MRS. MULWRAY",
+        "text": "Hollis. Hollis Mulwray."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Water and Power?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42194",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "This type of investigation can be hard on your pocketbook, Mrs. Mulwray. It takes time."
+      },
+      {
+        "speaker": "MRS. MULWRAY",
+        "text": "Money doesn't matter to me, Mr. Gittes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42195",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "RAINMAKER",
+        "text": "No problem with me on the Job."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah.  Do you have any references?"
+      },
+      {
+        "speaker": "RAINMAKER",
+        "text": "City of La Habra Heights filled an 800,000 gallon reservoir with sixteen inches of rain in two days."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "That's swell. But how about here?  Ever worked for Robert Knox, Emma Dill, Clarence Speer, Marian Parsons, or Jasper Lamar Crabb?"
+      },
+      {
+        "speaker": "RAINMAKER",
+        "text": "Never heard of 'em... new owners?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "RAINMAKER",
+        "text": "Lot of turnover these days. Better tell them to get in touch with me if they want to hang onto their land."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah, I'll do that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42196",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Mr. Mulwray, please."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "He's not in, Mr.?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Gittes."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "May I ask what this is regarding?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "It's personal. Has he been out long?"
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Since lunch."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Gee whiz.  And I'm late."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "He was expecting you?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Fifteen minutes ago. Why don't I go in and wait?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42197",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "SECRETARY",
+        "text": "Mr. Yelburton will be busy for some time."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Well I'm on my lunch hour. I'll wait."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "He's liable to be tied up indefinitely."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I take a long lunch. All day sometimes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42198",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Julian Cross worked for the water department?"
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Yes. No."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "He did or he didn't?"
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "He owned it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42199",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "He owned the water department?"
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "He owned the entire water supply for the city?"
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "How did they get it away from him?"
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Mr. Mulwray felt the public should own the display. The water. If you'll just read the display."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Mulwray? I thought you said Cross owned the department."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Along with Mr. Mulwray."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "They were partners."
+      },
+      {
+        "speaker": "SECRETARY",
+        "text": "Yes. Yes, they were partners."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42200",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "This?"
+      },
+      {
+        "speaker": "WALSH",
+        "text": "They got into a terrific argument outside the Pig 'n Whistle."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "What about?"
+      },
+      {
+        "speaker": "WALSH",
+        "text": "I don't know. The traffic was pretty loud. I only heard one thing  apple core."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Apple core?"
+      },
+      {
+        "speaker": "WALSH",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42201",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Jesus Christ, Walsh. That's what you spent your day doing?"
+      },
+      {
+        "speaker": "WALSH",
+        "text": "Look, you tell me to take pictures, I take pictures."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Let me explain something to you, Walsh. This business requires a certain finesse."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42202",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "WALSH",
+        "text": "Look, Jake. She gave us Mulwray's real phone number and address."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "All she needed for that was the phone book!"
+      },
+      {
+        "speaker": "WALSH",
+        "text": "No, no. She said not to call, her husband might answer."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "When I find out who that phony bitch was."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42203",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "WALSH",
+        "text": "So he says you sent them?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "They're all a bunch of phonies."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42204",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "WALSH",
+        "text": "Think you can nail Mulvihill? They'll claim you were trespassing."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I don't want Mulvihill.  I want the big boys that are making the payoffs."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42205",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "WALSH",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Yeah. What's wrong with you guys? Think ahead. We find 'em, sue 'em. We'll make a killing.  We'll have dinner at Chasen's twice a week, we'll be pissing on ice the rest of our lives."
+      },
+      {
+        "speaker": "WALSH",
+        "text": "Sue people like that they're liable to be having dinner with the Judge who's trying the suit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42206",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Duffy, go over and sit on Mulvihill.  Jesus Christ, I didn't tell you to bring the police department with you."
+      },
+      {
+        "speaker": "WALSH",
+        "text": "Jake, it's Chinatown. They're all over the place. You oughta know better."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Gimme your keys. Watch this old fart, will you?  Take Duffy's car. Curly's boat's in Pedro, near the Starkist cannery. It's the Evening Star. He'll be waiting. I'll take care of this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42207",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "What's that, pal?"
+      },
+      {
+        "speaker": "OTHER CUSTOMER",
+        "text": "Nothing. You got a hell of a way to make a living."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Oh? What do you do to make ends meet?"
+      },
+      {
+        "speaker": "OTHER CUSTOMER",
+        "text": "Mortgage Department, First National Bank."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42208",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Tell me, how many people a week do you foreclose on?"
+      },
+      {
+        "speaker": "OTHER CUSTOMER",
+        "text": "We don't publish a record in the paper, I can tell you that."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Neither do I."
+      },
+      {
+        "speaker": "OTHER CUSTOMER",
+        "text": "No, you have a press agent do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42209",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "GITTES",
+        "text": "Not exactly."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "But that's what you told your wife."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42210",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "PILOT",
+        "text": "Lots of fellas do. Tell the little woman they're going on a fishing trip, then shack up with some little twist on the island... she pretty?"
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I'm going to see a man called Julian Cross. Ever heard of him?"
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Is the Pope Catholic? Who are you, mister?... I ask because he doesn't see a whole lot of people."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "I'm working for his daughter."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "That right?... She used to be some looker."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "She ain't exactly long in the tooth now."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "She must be about thirty-three, thirty- four."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "You must be thinking of a different daughter."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "No, he's only got one, I remember her age, I read it in the newspapers when she ran away."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "She ran away?"
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Oh yeah, it was a big thing at the time. Julian Cross' daughter. God almighty. She was a wild little thing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42211",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "PILOT",
+        "text": "Course, she settled down nicely."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Well, you never know, do you?"
+      },
+      {
+        "speaker": "PILOT",
+        "text": "That's for sure."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "Why'd she run away?"
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Oh, you know. She was sixteen or seventeen."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "We missed the best of it, didn't we, pal?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_42212",
+    "movie_id": "m296",
+    "turns": [
+      {
+        "speaker": "PILOT",
+        "text": "She ran off to Mexico. Rumor was she was knocked up and didn't even know who the father was. Went there to get rid of it."
+      },
+      {
+        "speaker": "GITTES",
+        "text": "You don't say?"
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Cross was looking for her all over the country. Offered rewards, everything. Felt real sorry for him, with all his money."
+      }
+    ]
+  }
+]

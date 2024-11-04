@@ -1,0 +1,2586 @@
+[
+  {
+    "conversation_id": "conv_28501",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Who are you?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "I'll give you a little hint. You're a smart guy, figure it out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28502",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Agent Mackelway?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "LOW",
+        "text": "This is Richard Low. Stay on the phone. Do not disconnect. I'm watching you. I will instruct you where to drive."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "LOW",
+        "text": "When you exit, head east on 10th."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28503",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Dave Koessler must have you jumping through hoops."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I believe it is you, sir, who has us jumping through hoops."
+      },
+      {
+        "speaker": "LOW",
+        "text": "How's the arm?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I've been reading, hearing about you. I spoke to Koessler, Professor Daitz."
+      },
+      {
+        "speaker": "LOW",
+        "text": "He couldn't break an egg with a hammer. He still writing those crime porn books?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "He's moved on to TV."
+      },
+      {
+        "speaker": "LOW",
+        "text": "He always had a weakness in that area. I saw it the first time I met him. We all had our weaknesses, I guess. Daitz wanted the money. With Dave it was the glory. Koessler saw the Behavioral Sciences Unit as a stepping stone to bigger and better bureaucratic things. He had his eye on the Director's job, even then. Catching killers was a means to an end for them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28504",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "What was your weakness, sir?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "I'm not sure, exactly. I had monsters on the brain. I wanted to get these guys, every one of them. I got obsessive."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Suspect Zero?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "Deputy Director Koessler opposed the theory because it meant pressing the legal envelope, risking high-profile failure. Better to get rid of me. Then he could be Mr. Serial Killer, Mr. Authority on Deviant Behavior -- no embarrassing questions about the contribution of one Richard Low. Do you really think that plane crashed by accident? Do you really think I wasn't on it by accident? I've always had a good sense of intuition."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "So you went underground?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "Was I afraid of Dave Koessler? Not likely. I told you, I'd gotten a bit obsessive. It was an opportunity to back off, think things through.  Where's the file?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I don't carry it with me."
+      },
+      {
+        "speaker": "LOW",
+        "text": "You're a smart guy. Tell me what it says."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "\"Agent Low's theory of Suspect Zero, the undetected serial killer, is delusional, the product of good intentions, paranoia and obsession...\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28505",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Hum a tune and I'll sing to it."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "The file, however, was kept open after your death. NPE disappearances, No Plausible Explanation, were sometimes filed there, deleted if the bodies were found."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28506",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "It's my master list of missing persons: men, boys, girls, children over the last ten years. Two hundred and eighty-five names. A pool of possible victims."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Zero killed them all?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "Of course not. They're possibles. I've checked them against Bureau records, check them against your file. How did you get it?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Daitz hinted it existed. It was a matter of forming the request in the proper terms."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28507",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "After my hiatus, after I got my priorities readjusted, I drifted online, started tracking porn chat rooms, looking for Zero. Got accepted, came across these boys swapping stories, pictures, downloads. Never found Zero, but I did come across some Class A scumbags."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "How do you know who's real and who's not?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "And who else did I find? Agent Thomas Mackelway, crackerjack FBI techie. I was greatly disappointed when you were re-assigned."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You knew it was me all along?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "Please. You can't hide from me, sonny. I invented the questionnaire. I can tell those who talk from those who do it in the time it takes you to fart."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28508",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "There's someone out there, Mack, I know, some man killing for the fun of it, sniffing human glue, without regard to age or sex, without predicable M.O. Someone who has a way to dispose of the bodies. You have access, you can call up local authorities, check morgues, conduct interviews. Be my man."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I already have an employer."
+      },
+      {
+        "speaker": "LOW",
+        "text": "If you won't do it for me, do it for your cousin, Nadine, right? The girl in the pink sweater."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Who told you about her?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "You did. You were with her when she disappeared, right? She took you to the mall or the movies, you turn around and she's gone."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "It was the mall."
+      },
+      {
+        "speaker": "LOW",
+        "text": "I know you, Lionheart. I watched your mind work, heard your dirty thoughts --"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Those were just fantasies."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28509",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "We're alike. We are hunters. We have the gift. It's ancient times all over again. We stand between order and chaos. I need help. I can't carry on alone."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Maybe you should back off."
+      },
+      {
+        "speaker": "LOW",
+        "text": "This guy, Zero, he drifts around, that's how they all start, drifting around, their minds filling up with fantasies. He thinks he's real smart, laughs at us, laughs at his victims. But he has left a trail, and the trail is somewhere in those names. You know how to reach me.  Take my advice, when dealing with these FBI tight-asses, go by the book. That's what I did."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "You? You went by the book?"
+      },
+      {
+        "speaker": "LOW",
+        "text": "Yeah, problem was, I had the only copy. See ya."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28510",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Is he dead?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LOW",
+        "text": "The boy's okay. I saw him..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28511",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "LOW",
+        "text": "Was it Zero?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28512",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MURMAN",
+        "text": "[Fantasy time, girls, give it up, give it up.]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Lionheart here. I'm back. Sorry about the absence. I had to do some therapy at the crossbar hotel."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28513",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MURMAN",
+        "text": "[Reality very risky.]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Whatever happened to MyDick?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28514",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MURMAN",
+        "text": "[Lionheart, what happened?]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Something came up, Murman, my man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28515",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MURMAN",
+        "text": "[You want to talk, Lionheart, or you want to take this a little more personal?]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Lead the way, Murman."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[Follow me.]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28516",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I've been to Chicago."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[Not this way. Call it a little favor, call it a little thing I'm going to do for you. I'm going to make Chicago come alive for you. You'll owe me one.]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "If I owe, I will go."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[The address is 147 South Rane. It's a lively address. You got a problem with dark meat?]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Haven't had any, but I'm willing to try."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[Ask for Leslie. Eight days from tonight, exactly one a.m. Be there if you dare. You cannot fool the Murman.]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28517",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MURMAN",
+        "text": "[If you wanted a good steak, you should have gone to Omaha.]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Let's go someplace private, Murman, I have something for you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28518",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Let's talk about Zero."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[Hello, Agent Mackelway. How's the watch? Maybe you can do one of those TV commercials, I found my watch under a serial killer's heart and it was still ticking.]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I want to help you."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[Not the heart, the watch.]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28519",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I've located the Suspect Zero file. Did you know there was one? Koessler ordered it as part of your evaluation."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[Don't jerk a jerk-off. There's nothing in the Bureau mainframe.]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Not everything is imputed to memory. The most confidential stuff is kept top secret hard copy. Why would the Zero file be kept secret?"
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[You tell me.]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "George Sheldon? The second serial killer killed in the manner of his killings. The crime scene profile was never entered into VICAP. At whose request? David Koessler."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[What does the file say?]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I want to go live with you."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[And I want to go back to Needlepoint.]"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Leave this room, I'll go back with you, blow your cover."
+      },
+      {
+        "speaker": "MURMAN",
+        "text": "[I don't think so. We want the same thing. See ya.]"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28520",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Good morning, sir. Agent Salinas, sir."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "So you're the new meat?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "What did you do to end up here?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I believe it's in my file, sir."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Johnny, get this man's file. Mackelway, right?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Thomas Mackelway."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Hot enough for you, Agent Mackelway? Hell's doorknob. What they got you doing?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Updating the condition of all Bureau- owned vehicles in the southwest sector, sir."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Sounds like fun."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28521",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "SALINAS",
+        "text": "\"Computer Investigation and Infrastructure Assessment Center.\" Quantico out of MIT -- you're a techie?  Okay, you screwed up once. So did half the guys here. That's why they're here."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I screwed up twice, sir."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "I see that. Washington to Philadelphia to here. Philly's a nice station. How many agents?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Four hundred and sixty, sir."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "\"Attitude Adjustment Issues\" -- what the fuck is that supposed to mean?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I wished to be reinstated at Computer Crimes. I was undiplomatic in my request."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "This is a first. You criticized the Deputy Director to his face and you still have a badge? You must have some one-of-a-kind skills.  Why don't you just quit? I mean, you're not going to get promoted, not wearing this jacket."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I like working for the Bureau, sir. I like catching bad guys. It's all I care about."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Jesus, just what I need, another blue flamer.  Johnny, get this boy some sun screen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28522",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "SALINAS",
+        "text": "Agent Mackelway, you want to get off your ass and do something for a change?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Yes, sir."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Got a vehicle?  Head north on 54. When you get to New Mexico you've gone too far."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28523",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Headed there now. The same shift will be on at noon."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "This case has sent bells and alarms ringing all the way to Washington. Your old boss is coming out."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Koessler?"
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "The same."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28524",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "No."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Hope you never do. At first it feels like a sauna, by the time you hit victim four it's a fucking burning shirt factory."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28525",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "SALINAS",
+        "text": "\"MyDick?\""
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "MyDick. As in my dick. That was his screen name."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "I don't..."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Eight, nine months ago. When I was at Computer Crime. I got into a chat room with someone named MyDick. I'd talked to him before. Everything I saw yesterday, everything in the autopsies, it's identical. The forensics are dead on. MyDick's fantasies involved a hog-tie rig, nylon cord, torture with pliers, rip the nipples -- when the \"item\" screams, she chokes. He had a thing about eyes, always the eyes -- stab their eyes. It's the same guy. Speck was MyDick."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Speck is dead."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "I talked to him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28526",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "SALINAS",
+        "text": "But why attack an Agent?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "He wants us to know he's out there, what he's doing. It's not enough just to kill somebody like Speck, he wants us to know he did it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28527",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "How far is Amarillo?"
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "350 miles."
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Now, Mr. Hawkins, when last in Amarillo, where did you get gas?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28528",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "Locate a jet, we're going to Amarillo."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Excuse me, Agent Mackelway?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "This man, Hawkins, has killed dozens of people. Suspect Zero."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28529",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I don't think you understand."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "What is it exactly I don't understand, Agent Mackelway?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "Deputy Director Koessler doesn't want Zero. All he cares about is Low."
+      },
+      {
+        "speaker": "SALINAS",
+        "text": "Perhaps you can explain it to him.  It's Agent Mackelway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28530",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "MACKELWAY",
+        "text": "I'm Agent Thomas Mackelway, FBI. There is no way you will escape. Assistant Deputy Director Richard Low is en route with another Agent.  You may know Low by another name. You may know him by the name Murman. I am Lionheart."
+      },
+      {
+        "speaker": "ZERO",
+        "text": "Murman!"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "He's a brilliant man. Brilliant enough to catch you."
+      },
+      {
+        "speaker": "ZERO",
+        "text": "Brilliant? You think he caught any of them because he was brilliant? Hardboy? MyDick? Imelda? Ripper? Think about it, how did he locate them?  He found them as Murman. And how did Murder Man find them? With sweet talk and brains? No. He did it with souvenirs. He took them into private rooms, swapped goodies: pictures, panties, jewelry, body parts. Snuff downloads. As bait. That's why I never exchanged with him. He killed girls, oh yeah, harvested them. He had the best stuff. Richard Low is Murman and Murman is one of us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28531",
+    "movie_id": "m201",
+    "turns": [
+      {
+        "speaker": "ZERO",
+        "text": "You want to \"profile\" me? Find out what makes me \"tick\"? Write about me, go on a talk show, give me a nickname?"
+      },
+      {
+        "speaker": "MACKELWAY",
+        "text": "It's over for you."
+      },
+      {
+        "speaker": "ZERO",
+        "text": "Take your shirt off."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28532",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "Michael, this is Grandma. I want to know if you got the part on that television program. I told the whole family and they're very excited to know if...  Skipping message. End of final message."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Shit."
+      },
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "You have to put things in perspective."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I know, I know."
+      },
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "You've been through worse."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "You're right. I know."
+      },
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "Ever since I've known you."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I don't know about that."
+      },
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "Moving here from New York was much more of an adjustment than this."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "It didn't feel that way."
+      },
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "That's because it was a challenge. You has control over you're situation. It was hard, but you rose to it."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Okay. I'll think about that. Bye."
+      },
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "You really should. Life, after all, is really just a series of challenges..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Enough. I've got to use the phone."
+      },
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "Are you calling Her?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "No. Stop, come on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28533",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "You should call your Grandmother."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Shuddup."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28534",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "Don't do it, Mike."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Shut up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28535",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Do you realize that I've been waiting for that call for six months and I cut her off?"
+      },
+      {
+        "speaker": "ANSWERING MACHINE",
+        "text": "You're money, baby."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28536",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "How are you ladies doing this evening?"
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "What do you drive?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I'm sorry?"
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "What kind of car do you drive?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Oh... a Cavalier."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28537",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "You like laughing at the misery of others?"
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "I'm sorry, I couldn't help it. Let me make it up to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28538",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Thanks."
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "I've seen you somewhere... Where have I seen you?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "You ever go to the Kelbo's? On Pico?"
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "...maybe..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...Monday nights? I host an open mike..."
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "You're a comedian?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "What's that like?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Well, you know, it's tough. A lot of traveling. A lot of hotels... but, you know, it's a dream... and the money's really good. I think I might buy another really expensive imported car after my next gig in Vegas..."
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "I know! Starbucks! I served you an espresso at Starbucks."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Are you sure? Maybe..."
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "Yes! Remember? You asked me for an application? I introduced you to the manager?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Oh, yeah... Boy, that must've been a while ago."
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "I'd say about two weeks."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Probably a little longer than that, but, whatever."
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "You better pay the man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28539",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Well, thank you...?"
+      },
+      {
+        "speaker": "BLONDE",
+        "text": "Nikki."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Thank you, Nikki."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28540",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Hi."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Hi."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I'm Mike."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Hi, Mike. I'm Lorraine."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Like the quiche?"
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Yes. Like the quiche."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I like quiche."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "I thought real men don't like quiche."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "My reputation seems to have preceded me."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Why? You're not a real man?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Not lately."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28541",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "BRUNETTE",
+        "text": "...so I thought, what the hell, they make movies in L.A., not in Michigan, so I moved here."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Just like that?"
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Well, it wasn't the simple, but yeah."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "How was it hard?"
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Well, I left someone very special behind."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Tell me about it..."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "You too?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "I thought I was going to die."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "It's been six months and I'm just starting to get over it."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Oh, God. That's two more than me. Tell me it gets better."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "It does."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "How?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Well, it still sucks, but you start to see that there are advantages to being single."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "What what? What advantages?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28542",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "BRUNETTE",
+        "text": "What else?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "What else...? Let's see... You have complete freedom."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "To do what?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I don't know... To grow, to go out. Whatever you want."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Anything?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Anything."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Like if I meet a handsome young man and I wanted to ask him to dance? I can do that?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Uh, if the guy wants to."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "You don't think the guy would find me attractive enough to dance with?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yes. I mean, no. I mean, maybe he would find her, I mean you attractive. Maybe he doesn't like to dance. Maybe all he likes to do is just stand around and drink and smoke and look cool with his buddies who don't dance either..."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Maybe it doesn't matter if he's a good dancer cause it's a slow song, if that's what he's afraid of."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "No... Maybe that's not the case. Maybe she shouldn't be such a smug little shit because she'd be surprised at what a good dancer he really is, but it's been a long time and he doesn't know if he's ready to..."
+      },
+      {
+        "speaker": "BRUNETTE",
+        "text": "Mike..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28543",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Charles! What's up, man?"
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "Oh. You know."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Did you, um, did you get that pilot?"
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "No, man. I know you didn't get it 'cause you wouldn't've asked me. It wasn't that funny anyway..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...piece of shit. Listen, Charles, this is my friend Rob from Back East."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28544",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "...and boy does it hurt when they ask."
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "I don't even tell them about anything I'm close on anymore..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...not until you book it..."
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "...and even then..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...you might get cut out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28545",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "You want to come with us to a party at the Chateau Marmont? They got a bungalow and lots of beautiful babies."
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "Why not? This place is dead anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28546",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHARLES",
+        "text": "They're out of Glenlivet."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "What else is going on?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28547",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Why don't I just wait three weeks and tell her I was cleaning out my wallet and found her number..."
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "...then ask where you met her..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah, I'll tell her I don't remember and then I'll ask what she looks like.  Then I'll ask if we fucked. How's that, Tee? Is that \"the money\"?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28548",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHARLES",
+        "text": "Hi."
+      },
+      {
+        "speaker": "ROB",
+        "text": "My pleasure."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28549",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHARLES",
+        "text": "Oh, I'm sorry. How'd your folks take it?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "I haven't heard an official \"no\" yet."
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "You haven't told then, huh?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "No."
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "I still haven't told my folks I didn't get \"Deepspace 9\". You'd think they'd'a figured it out by now, but Mom keeps asking..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28550",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ROB",
+        "text": "I'm considering taking a job as a \"Goofy\"."
+      },
+      {
+        "speaker": "CHARLES",
+        "text": "Hey, man. At least it's Disney."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28551",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHARLES",
+        "text": "...I heard it took four days to light for that shot..."
+      },
+      {
+        "speaker": "ROB",
+        "text": "...Four days..?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28552",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHARLES",
+        "text": "I know what you're saying, man. I don't know what to tell you..."
+      },
+      {
+        "speaker": "ROB",
+        "text": "...I mean, does it have to be \"Goofy\"? I was playing Hamlet off-Broadway two months ago, for crying out loud..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28553",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "Hi, boys, we almost gave up on you."
+      },
+      {
+        "speaker": "TRENT",
+        "text": "Oh, are we late? There are no clocks in this town."
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "Well, no harm done. This is Lisa. I'm sorry, I never got your names..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28554",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "TRENT",
+        "text": "No... no... The worst was when I went in for this After-School special and I'm sitting in the waiting room with all these little kids. I see they're all signed in for the same role as me..."
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "They were auditioning for the same role as you?"
+      },
+      {
+        "speaker": "TRENT",
+        "text": "Wait... Wait... Listen... So, I check the time and place. I'm where I'm supposed to be. I call my agent... She says they asked for me specifically..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28555",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "TRENT",
+        "text": "It's like, you looked at my tape. You saw my picture. Why did you call me in? You knew I was twenty-four."
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "What an asshole."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28556",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "TRENT",
+        "text": "Let me just check on my boy."
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "Don't worry. He's in good hands."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28557",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "Always..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "No matter what... like splitting aces."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28558",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "Lisa works at the MGM Grand..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "I'm a \"Dorothy\"."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28559",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Oh my God."
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "Did you get it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28560",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "The poor thing. Six years?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "...And she's with someone else."
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "The poor thing. I'll make some coffee."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28561",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "He's so sweet. He really said that?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "I believe it too. He really just wants her to be happy."
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "He is so sweet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28562",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "A couple of high rollers like you?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Could you believe it?"
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "Wait here, I'll get you that martini."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Nah, I didn't really want it anyway. I just wanted to order it."
+      },
+      {
+        "speaker": "CHRISTY",
+        "text": "Can I get you something else? I mean, you shouldn't leave without getting something for free."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "No thanks. Why ruin a perfect night."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28563",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "CHRISTY",
+        "text": "What do you guys do?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I'm a comedian."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28564",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "DEALER",
+        "text": "On the table."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Sorry?"
+      },
+      {
+        "speaker": "DEALER",
+        "text": "You have to lay it on the table."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Uh, I don't want to bet it all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28565",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "DEALER",
+        "text": "You're not allowed to hand me money, sir. You'll have to lay it on the table if you want me to change it."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Oh... right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28566",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Huh?"
+      },
+      {
+        "speaker": "DEALER",
+        "text": "You want this in black chips."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Sure, that'll be fine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28567",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Do you have anything smaller?"
+      },
+      {
+        "speaker": "DEALER",
+        "text": "Yes, but I'm afraid this table has a hundred-dollar-minimum bet. Perhaps you'd be more comfortable at one of our lower stakes tables."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28568",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "Do you ever perform out here? I'd love to see you."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "No..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "You should. A lot of comics play Vegas."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Well, I'm afraid it's not that easy..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "There are different circuits... it's hard to explain... you wouldn't understand..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Who's your booking agent?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Oh? You know about booking agents... I don't, uh, actually have a west coast agent as of yet..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Well, who represents you back east?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Actually, it's funny you... I'm actually, uh, between..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "What do you do, Trent?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28569",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "LISA",
+        "text": "I'm sure she'll call. Six years is a long time. You don't just break it off cleanly after six years."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I know, but she did. She's with someone else now..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Already? You poor thing. It won't last."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "LISA",
+        "text": "It's a rebound."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "We were a rebound, and we lasted six years."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Yeah, but how long was the relationship she was rebounding from?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Six years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28570",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Can I check my messages? I have a calling card."
+      },
+      {
+        "speaker": "LISA",
+        "text": "Sure, I guess. The phone's in the back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28571",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Sorry, it's just that..."
+      },
+      {
+        "speaker": "LISA",
+        "text": "I understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28572",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "LORRAINE",
+        "text": "You said there are advantages to being single. I want to know what the advantages are."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Well... You can talk to a beautiful woman at a bar without worrying if anyone's watching you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28573",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "LORRAINE",
+        "text": "Well... This is it."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Listen. I had a great time."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "Me too."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I would love to see you again sometime."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "I'll be around."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "That's not good enough. I want to make plans to see you."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "Let me get a pen out of my car.  Do you have something to write on?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28574",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "LORRAINE",
+        "text": "You're a comedian?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah. And an actor."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "I'll have to come see you sometime."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "If and when I get a real gig I'll call you."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "It's not going to well?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "When I lived in New York they made it sound like they were giving out sit-coms to stand-ups at the airport. I got off the plane in L.A. six months ago and all I got to show for it is a tan."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "Didn't you tell me to be patient with my career?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...Yeah, but entertainment law isn't something you just jump into..."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "Neither is acting. Not if you're serious about it.  Can I have one of these?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Why, you like the duck with the cigar?"
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "Yeah. Nice touch. It's the logo from \"You Bet Your Life\", right?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Good eye. Not one club owner got it. They all ask me why I got Donald Duck on my card."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "Hey, at least it's not Goofy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28575",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "LORRAINE",
+        "text": "Well, I should be getting..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...It's really getting late."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "...home. It's getting late. Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28576",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "LORRAINE",
+        "text": "Can I give you a ride to your car...?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...Nah. I'm right across the street..."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "...Which one...?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...The red piece of shit over there..."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "...well, it suits you..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...get the hell outta here already..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28577",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "Hi, Mike?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Lorraine?"
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "Are you on the other line?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah, hold on."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "I can call back..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "No, no. Hold on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28578",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Hi. Sorry about that."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "You didn't have to get off the other line. I would've called you back."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "That's okay. I wanted to talk to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28579",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Hi, Lorraine. Thanks for holding on."
+      },
+      {
+        "speaker": "LORRAINE",
+        "text": "Listen, Mike. You really didn't have to get off the line. I just wanted to ask you one thing. I know I shouldn't have called, I mean, my friends said I should wait two days... Oh God, I probably sound like such a schoolgirl... It's just that it's tonight only... I mean, it's Sinatra's birthday and they have this thing every year at \"The Room\". Do you know where that is? It's impossible to find if you've never been there. I don't understand why none of the clubs in Hollywood have signs. Anyway, I'm so bad at this, if you're not busy I thought you might..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28580",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MICHELLE",
+        "text": "How's it going? It's been a while..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...Six months."
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "How are you doing?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Fine... I guess. You?"
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "Good.  I think about things."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "What kind of things?"
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "You know, us."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I thought you met someone else."
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "It doesn't matter. I think about you every day."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Really?"
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "I miss you, Mike."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Why didn't you call?"
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "I couldn't. Do you know how hard it's been not to call you? I pick up the phone every night. Whenever that commercial comes on..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...the Michelin commercial..."
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "...Yeah, with the baby in the tire. One time I started to cry right in front of Pierre..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Pierre... That's his name? Pierre? Is he French?"
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "No, he's not... Listen I don't want to talk about him. That's a whole other headache. I called because I heard you might be moving back to Queens..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28581",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Hi."
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "I heard you might be moving back..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Yeah, uh, I don't think that's gonna be happening any time soon... Listen, can I call you right back? I gotta take this call..."
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "I'm not home and going out of town tomorrow for a week. Can't you talk for five more minutes?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I really want to catch up with you, but I've gotta take this call. They're holding. I'll talk with you when you get back in town. Bye."
+      },
+      {
+        "speaker": "MICHELLE",
+        "text": "Goodbye. I lov..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28582",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "And what if I don't want to give up on her?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "You don't call."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "But you said I shouldn't call if I wanted to give up on her."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Right."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "So I don't call either way."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Right."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "So what's the difference?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "The only difference between giving up and not giving up is if you take her back when she wants to come back. See, you can't do anything to make her want to come back. You can only do things to make her not want to come back."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "So the only difference is if I forget about her or pretend to forget about her."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Right."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Well that sucks."
+      },
+      {
+        "speaker": "ROB",
+        "text": "It sucks."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "So it's almost a retroactive decision. So I could, like, let's say, forget about her and when she comes back make like I just pretended to forget about her."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Right... or more likely the opposite."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Right... Wait, what do you mean?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "I mean first you'll pretend not to care, not call -- whatever, and then, eventually, you really won't care."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Unless she comes back first."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Ah, see, that's the thing. Somehow they don't come back until you really don't care anymore."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "There's the rub."
+      },
+      {
+        "speaker": "ROB",
+        "text": "There's the rub."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Thanks, man. Sorry we always talk about the same thing all the time..."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Hey man, don't sweat it."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...It's just that you've been there. Your advice really helps."
+      },
+      {
+        "speaker": "ROB",
+        "text": "No problem."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Rob, I just want you to know, you're the only one I can talk to about her."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Thanks. Thanks, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28583",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ROB",
+        "text": "I don't think I'm gonna take it."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "It's a gig."
+      },
+      {
+        "speaker": "ROB",
+        "text": "I mean, I need the money."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "You're an actor. Find the Zen in the role."
+      },
+      {
+        "speaker": "ROB",
+        "text": "It's definitely a step back for me."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Look, there's not much of a call for Shakespeare in this town."
+      },
+      {
+        "speaker": "ROB",
+        "text": "There's just something about being \"Goofy\". Any other Disney character would be fine. There's just this stigma associated with the character."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "What do you want? You're tall."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Do you realize how hard it's going to be to tell my parents? I still haven't told them I didn't get the pilot."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "You tested over a month ago. I'm sure they figured it out by now."
+      },
+      {
+        "speaker": "ROB",
+        "text": "It's like \"Hi, Mom. I'm not going to be starring in that sitcom and, oh by the way, I'm Goofy. Send more money.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28584",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Haven't you noticed I didn't mention Michelle once today?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "I didn't want to say anything."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Why?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "I don't know. It's like not talking to a pitcher in the midst of a no hitter."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "What? Like, you didn't want to jinx it?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "Kinda."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I don't talk about her that much."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Oh no?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I didn't mention her once today."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Well, until now. Tend the pin."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28585",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "The only reason I mentioned her at all is to say that I'm not going to talk about her anymore. I thought you'd appreciate that."
+      },
+      {
+        "speaker": "ROB",
+        "text": "I do. Good for you, man."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I've decided to get out there.  Go ahead. Play it out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28586",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "You want to hit the town tonight?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "I shouldn't, Mike, it's a weeknight."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "What do you have? A Pluto call back?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "Sure. Kick me when I'm down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28587",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ROB",
+        "text": "How many strokes?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I don't know. Eight or Nine."
+      },
+      {
+        "speaker": "ROB",
+        "text": "I'll give you an eight."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "What'd you get?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "An eight."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Looks like we're in a dead heat after one hole. This is turning into quite a rivalry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28588",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ROB",
+        "text": "So, if the party starts at eight, why are we first going to a bar at ten?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "To get a drink before we meet the guys for a bite at eleven."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Oh.  Where is this place?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "It's one of these. For some reason, cool bars in L.A. have to be very hard to find and have no signs out front."
+      },
+      {
+        "speaker": "ROB",
+        "text": "That doesn't sound too good for business."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "It's kinda like a speakeasy kind of thing. It's kinda cool. It's like you're in on some kind of secret. You tell a chick you've been some place, it's like bragging that you know how to find it. The only way you could know where a place is is if someone who knows brought you there. You have to have someone come before. There is a direct line connecting you back to the original, unequivocally cool, club patrons. It's kinda like Judaism..."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Sounds more like Aids..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...That's probably a more appropriate analogy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28589",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Kinda money, huh?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "Classy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28590",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "I'll get a Dewars rocks..."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Bud."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...A Dewars on the rocks and a Bud, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28591",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ROB",
+        "text": "I can't get over how cute the girls in this city are."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I know. It's like the opposite of inbreeding. The hottest one percent from around the world migrate to this gene pool."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Darwinism at its best."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I've been around here six months and I still can't get over it."
+      },
+      {
+        "speaker": "ROB",
+        "text": "It's like, every day I see a beautiful woman. I'm not used to that. I'm used to seeing a beautiful woman, I don't know, once a week. I can't handle it."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Wait till summer. I swear, you can't leave the house. It hurts. It physically hurts."
+      },
+      {
+        "speaker": "ROB",
+        "text": "I can't wait till I actually get to touch one of them."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Ah, there's the rub..."
+      },
+      {
+        "speaker": "ROB",
+        "text": "There's the rub."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28592",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Charles and me went to network on this pilot together."
+      },
+      {
+        "speaker": "ROB",
+        "text": "I just tested for one..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...yeah, a month ago."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28593",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ROB",
+        "text": "...What's the big deal? Everyone steals from everyone."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Well, let's hit that party."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28594",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ROB",
+        "text": "What's that guy's name? Sue?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "Sue. His dad was big Johnny Cash fan."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Oh, like that song..."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "...\"A Boy Named Sue\". I think that's why he's such a bad cat."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Him?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "He's a mean dude. I've seen him smash a guy's face into the curb. He knocked out his teeth... blood... He was just like Boom, Boom, Boom... fuckin nasty shit, man. He's a nice guy though."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28595",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "There are so many beautiful women here."
+      },
+      {
+        "speaker": "ROB",
+        "text": "It's unbelievable."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "I got to at least try once."
+      },
+      {
+        "speaker": "ROB",
+        "text": "You're a better man than I am, Charlie Brown."
+      },
+      {
+        "speaker": "MIKE",
+        "text": "No, I just promised myself I'd give it a try. I gotta get out there sooner or later."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Go for it, man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28596",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "I'm going in. Will you be my wing- man?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "I'll be your winger."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28597",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Thanks, man."
+      },
+      {
+        "speaker": "ROB",
+        "text": "No problem, buddy. You eat anything today?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28598",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ROB",
+        "text": "You haven't been drinking, have you?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "No. Just O.J."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28599",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "MIKE",
+        "text": "Sorry about what happened at the Dresden. I had no idea..."
+      },
+      {
+        "speaker": "ROB",
+        "text": "Don't sweat it. Now I got an L.A. gun story. You should hear the way I tell to the guys back home. He had an Uzi. Mike half-smiles."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_28600",
+    "movie_id": "m202",
+    "turns": [
+      {
+        "speaker": "ROB",
+        "text": "You want to talk about it?"
+      },
+      {
+        "speaker": "MIKE",
+        "text": "What's the point?"
+      },
+      {
+        "speaker": "ROB",
+        "text": "It's been two days. You should call that girl Nikki..."
+      }
+    ]
+  }
+]

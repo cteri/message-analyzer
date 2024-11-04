@@ -1,0 +1,2114 @@
+[
+  {
+    "conversation_id": "conv_14001",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Well, as a \"standard\"... I'll hang with \"is the guy telling the truth?\""
+      },
+      {
+        "speaker": "HELEN CAPERELLI",
+        "text": "Well, with tortious interference, I'm afraid... the greater the truth, the greater the damage."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Come again?"
+      },
+      {
+        "speaker": "HELEN CAPERELLI",
+        "text": "They own the information he's disclosing. The truer it is, the greater the damage to them. If he lied, he didn't disclose their information. And the damages are smaller."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Is this \"Alice in Wonderland\"?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14002",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Is CBS corporate telling CBS News do not go to air with this story?"
+      },
+      {
+        "speaker": "HELEN CAPERELLI",
+        "text": "You're getting ahead of yourself. We're all in this together. We're all CBS. We'll find out soon. Thank you, gentlemen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14003",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "JIM COOPER",
+        "text": "Hey, Lowell."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "How are you, Jim?"
+      },
+      {
+        "speaker": "JIM COOPER",
+        "text": "Hey, listen, I hear you guys are sitting on something sensational over there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14004",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "JIM COOPER",
+        "text": "Hi, baby."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Catch you later."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14005",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "How prominent? What kind of placement?"
+      },
+      {
+        "speaker": "JIM COOPER",
+        "text": "Oh, c'mon, Lowell. This is The New York Times. I don't know..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Well, until you do, all I can tell you is what you already know... they will not air an interview."
+      },
+      {
+        "speaker": "JIM COOPER",
+        "text": "Call me back in ten."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14006",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "JIM COOPER'S VOICE",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Jim, it's Lowell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14007",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Here's how it works. You ask me questions. I tell you if you're wrong."
+      },
+      {
+        "speaker": "JIM COOPER'S VOICE",
+        "text": "Okay.  Lowell?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "JIM COOPER'S VOICE",
+        "text": "You're sure you want to do this?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Why?"
+      },
+      {
+        "speaker": "JIM COOPER'S VOICE",
+        "text": "Hey, it doesn't work? You've burned your bridges, man."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "You ready...?"
+      },
+      {
+        "speaker": "JIM COOPER'S VOICE",
+        "text": "Okay... About this whistle-blower... Did Mike and Don go along with the corporate decision?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14008",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "JIM COOPER'S VOICE",
+        "text": "Lowell?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Did I tell you you were wrong?"
+      },
+      {
+        "speaker": "JIM COOPER'S VOICE",
+        "text": "No.  I'm assuming the cave-in begins with the threat of litigation from Big Tobacco. Are we talking... are we talking Brown & Williamson, here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14009",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "I can take her."
+      },
+      {
+        "speaker": "LIANE",
+        "text": "Don't you have to be at the office?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Is there any more rice...?"
+      },
+      {
+        "speaker": "LIANE",
+        "text": "Yes, it's on the stove..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14010",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LIANE",
+        "text": "I'm sorry, darling, have you seen my coffee mug...?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Try the car."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14011",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LIANE",
+        "text": "Uh, what are those boxes?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I'm going to the store. You need anything?"
+      },
+      {
+        "speaker": "LIANE",
+        "text": "What do you need at the store?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Soy sauce..."
+      },
+      {
+        "speaker": "LIANE",
+        "text": "Right now?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "That's my stuff from the office..."
+      },
+      {
+        "speaker": "LIANE",
+        "text": "Why did you take your stuff from the office?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I didn't want to leave it there..."
+      },
+      {
+        "speaker": "LIANE",
+        "text": "I don't understand."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I got fired this morning... Where else am I gonna take it?"
+      },
+      {
+        "speaker": "LIANE",
+        "text": "Why? Who said?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Thomas Sandefur..."
+      },
+      {
+        "speaker": "LIANE",
+        "text": "What are we supposed to do...? What about our medical coverage; what about our health? What about our car payments? The payments on this house?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14012",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "There's a severance agreement... It includes cash payouts over time and continuing medical coverage...  Sure you don't need anything?"
+      },
+      {
+        "speaker": "LIANE",
+        "text": "No, thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14013",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "What's going on?"
+      },
+      {
+        "speaker": "LIANE",
+        "text": "I told him that you had an E-mail death threat that said if you didn't shut the \"F\" up, they were going to kill you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14014",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LIANE",
+        "text": "...taping?  What are you taping?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I'm doing an interview."
+      },
+      {
+        "speaker": "LIANE",
+        "text": "An interview! Do you know what they will do to us...! I thought... Sorry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14015",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LIANE",
+        "text": "Please don't wash your hands in the sink."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Where should I wash them?"
+      },
+      {
+        "speaker": "LIANE",
+        "text": "Use the bathroom."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "What's the difference..."
+      },
+      {
+        "speaker": "LIANE",
+        "text": "That's for food."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14016",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LIANE",
+        "text": "I don't think I can do this... I want to stand by my husband... I really do, Jeffrey. But I don't think I can do this anymore. I am so sorry..."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Can we talk about this when I get back?"
+      },
+      {
+        "speaker": "LIANE",
+        "text": "Yes... Jeffrey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14017",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Thank you, Bob."
+      },
+      {
+        "speaker": "LIANE'S VOICE",
+        "text": "Who's calling?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "My name's Lowell Bergman... I'm --"
+      },
+      {
+        "speaker": "LIANE'S VOICE",
+        "text": "Did you say Berman?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "No, Bergman... B.E.R.G.M.A.N.... I'm a producer with \"60 Minutes\"..."
+      },
+      {
+        "speaker": "LIANE'S VOICE",
+        "text": "\"60 Minutes\"?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "LIANE'S VOICE",
+        "text": "\"60 Minutes,\" the television show?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14018",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Oh, someone took a poll? \"Are all things Canadian boring...?\""
+      },
+      {
+        "speaker": "SHARON",
+        "text": "It's Stuart... he's in Mexico City..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Let me call you back..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14019",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "SHARON",
+        "text": "No classes this morning?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Will he go on-camera and talk about the Mexico City branch?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14020",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Will independent sources corroborate that?"
+      },
+      {
+        "speaker": "SHARON",
+        "text": "Hello? Yeah..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14021",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Let me see this... No, 'cause I gotta know where you're going at all times."
+      },
+      {
+        "speaker": "SHARON",
+        "text": "I can't... I've got to fly to Boston tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14022",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "SHARON",
+        "text": "Two p.m. Great. Bye-bye."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "...\"ignition propensity?\"  ...you understand any of this...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14023",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "SHARON",
+        "text": "...no... this looks like a table of temperatures... Who's this from?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "...it's anonymous. References to \"P.M.\"  It's got to be Philip Morris, huh?"
+      },
+      {
+        "speaker": "SHARON",
+        "text": "I have to take a shower."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14024",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "SHARON",
+        "text": "What's wrong?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "They're killing the Wigand interview..."
+      },
+      {
+        "speaker": "SHARON",
+        "text": "What?!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "They're pretending it's process. Bullshit, it's foregone."
+      },
+      {
+        "speaker": "SHARON",
+        "text": "What are you and Mike going to do?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I'm alone on this..."
+      },
+      {
+        "speaker": "SHARON",
+        "text": "Oh, baby..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14025",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "SHARON",
+        "text": "Jeffrey Wigand..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Jeffrey..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14026",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "\"I'm Lowell Bergman, I'm from '60 Minutes.'\" You know, you take the \"60 Minutes\" out of that sentence, nobody returns your phone call. Maybe Wigand's right. Maybe I'm hooked. What am I hooked on? The rush? \"60 Minutes\"? What the hell for? Infotainment. It's so fucking useless, all of it."
+      },
+      {
+        "speaker": "SHARON",
+        "text": "So, it's a big country with a free press. You can go work somewhere else."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Free press? Press is free... for anyone who owns one. Larry Tisch has a free press."
+      },
+      {
+        "speaker": "SHARON",
+        "text": "Get some perspective, Lowell."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I got perspective."
+      },
+      {
+        "speaker": "SHARON",
+        "text": "No, you do not."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "From my perspective, what's been going on and what I've been doing is ridiculous. It's half-measures."
+      },
+      {
+        "speaker": "SHARON",
+        "text": "You're not listening.  Really know what you're going to do before you do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14027",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Yeah..."
+      },
+      {
+        "speaker": "WIGAND'S VOICE",
+        "text": "...you fucked me!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Who is this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14028",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND'S VOICE",
+        "text": "Is it too late?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "No. No, it's okay... How's -- how's the new place?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14029",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Oh, my God."
+      },
+      {
+        "speaker": "WIGAND'S VOICE",
+        "text": "You're not even on this anymore... What do you care?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Jeff! Wake the fuck up! Everybody is on the line here. If they can catch you in a lie, they can paint everything with that brush. Do you understand? Everything you say!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14030",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Yes, I'm right here. Could you call me back on a hard line?"
+      },
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "Alright."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Area code 212-555-0199."
+      },
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "I'll call you then."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14031",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "...you filed a lawsuit against tobacco on behalf of the State of Mississippi, did you not?"
+      },
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "That's right..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Well, I'm working with someone, now, who was the former head of research at Brown & Williamson, a former corporate officer there."
+      },
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "What's your interest in this, Mr. Bergman?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Well, he may tape an interview with us. And, we believe if his testimony showed up in a court record first, it would free him up from his confidentiality agreement and give him some protection."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14032",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "Has he decided to go public? Because let me tell you, we've been doing this for three years now, and we've worked with a lot of corporate cases involving whistle-blowers, so we know... Big Tobacco will do everything in their power to stop him. So, is your man truly committed?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Well, actually, no. Well, he's on the fence. That's the point."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14033",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "Well, we'd certainly be interested in making his acquaintance, but without knowing what he's going to do..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Well, would you want him to call you? Or, you want to call him? How do you want to do it?"
+      },
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "It would be better if he called us."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "Alright?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Okay. Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14034",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Yeah, I'm here."
+      },
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "What chance is there of getting Jeff's interview on the air...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14035",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "...I'd be lying to you if I did not tell you how important it was in the court of public opinion..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "...and I'd be lying to you if I didn't tell you, I'm about out of moves, Dick..."
+      },
+      {
+        "speaker": "RICHARD SCRUGGS",
+        "text": "All right. See you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14036",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "We're there."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Good, well ask him if Arabic is his second language."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Don't interpret that!  Hold it. Hold it. Hold it! Slow, slow!!  Sheikh, do you mind... if you would just turn your chair a little bit to face Mr. Wallace?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14037",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "...come in earlier on Mike's Marine barracks line when he's talking to Sheikh Mussawi..."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "You eating with us?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Bring a tie so they'll let us in the front door..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14038",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "He referred to this... the Seven Dwarfs..."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "What \"Seven Dwarfs?\""
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "The seven CEOs of Big Tobacco... Referred to this... Said they should be afraid of him... I assume, afraid of what he could reveal.  Now, you tell me. What does this guy have to say that threatens these people?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14039",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Well, it isn't \"cigarettes are bad for you\"..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Hardly new news."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "No shit."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "What's this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14040",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Okay, let's look through the looking glass the other way..."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "We got a guy... who wants to talk but he's constrained.  What if he were \"compelled\"?"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Oh, torture? Great ratings."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14041",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "So, is everything okay?"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "How are the rooms? Comfortable?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14042",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Thank you for saying that..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Do you think we could talk about the taping? Tomorrow's taping, just so we can get it out of the way and order..."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Yeah, well, questions will go toward what work you did there, why you were fired. And others will deal..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14043",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Oh, man."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Who are these people?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Ordinary people! Under extraordinary pressure, Mike. What the hell do you expect? Grace and consistency?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14044",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "It went great in Mississippi, Mike."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14045",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "I think what we're trying to tell you is that it happens all the time. This is a news organization. People are always telling us things they shouldn't. We have to verify if it's true and in the public interest... And if it is, we air it."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "After we corroborate it. That's why we've never lost a lawsuit and run a classy show.  Anything else?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14046",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "I discovered this. SEC filing...  For the sale of the CBS Corporation to Westinghouse Corporation."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14047",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Lowell."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "\"Put the corporation at risk\"...? Give me a fucking break!"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Lowell."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "These people are putting our whole reason for doing what we do... on the line!"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Lowell!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "What?"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "I'm with Don on this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14048",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "I've been banished. In lieu of being fired."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "I took off on Tisch. I took off on corporate. They'll know they're not going to see everything on Sunday night..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I don't know. How does that get Wigand on the air?"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Do me a favor, will you? Spare me, for God's sake. Get in the real world. What do you think? I'm going to resign in protest? To force it on the air? The answer is \"no.\" I don't plan to spend the end of my days wandering in the wilderness of National Public Radio.  That decision I've already made."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14049",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "You disappeared on me. How long you staying?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I disappeared on you?"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Alright. What did you think?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I think it was a disgrace."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14050",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Did I get you up?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "No, I usually sit around in my hotel room, dressed like this at 5:30 in the morning, sleepy look on my face."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14051",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "How many shows have we done? Huh? C'mon, how many?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Oh, lots."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Yeah, that's right."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "But in all that time, Mike, did you ever get off a plane, walk into a room, and find that a source for a story changed his mind? Lost his heart? Walked out on us? Not one fucking time! You want to know why?"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "I see a rhetorical question on the horizon."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I'm going to tell you why. Because when I tell someone I'm going to do something, I deliver."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Oh, how fortunate I am to have Lowell Bergman's moral tutelage to point me down the shining path. To show me the way."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Oh, please, Mike..."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "Give me a break!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "No, you give me a break! I never left a source hung out to dry, ever. Abandoned. Not 'til right fucking now! When I came on this job, I came with my word intact. I'm gonna leave with my word intact. Fuck the rules of the game! Hell, you're supposed to know me, Mike. What the hell did you expect? You expect me to lie down? Back off? What, get over it?"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "In the real world, when you get to where I am, there are other considerations..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Like what? Corporate responsibility? What, are we talking celebrity here?"
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "I'm not talking celebrity, vanity, CBS. I'm talking about when you're nearer the end of your life than the beginning. Now, what do you think you think about then? The future? \"In the future I'm going to do this? Become that?\"  What \"future\"? No. What you think is: how will I be regarded in the end? After I'm gone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14052",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Mike... in my..."
+      },
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "You and I have been doing this together for fourteen years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14053",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "That Canada story? Still interest you?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Everything interests me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14054",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "MIKE WALLACE",
+        "text": "C'mon, it all worked out. You came out okay in the end..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I did? What do I tell a source on the next tough story? Hang in with us. You'll be fine... maybe?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14055",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "THE SHEIKH",
+        "text": "Coffee?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Yeah... Thank you."
+      },
+      {
+        "speaker": "THE SHEIKH",
+        "text": "How have you liked your stay?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "What I've seen... I've liked."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14056",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "THE SHEIKH",
+        "text": "Please to explain, why I should agree to interview... with pro-Zionist American media?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Because I think Hezbollah is trying to broaden into a political party right now. So you care about what you're thought of in America. And in America, at this moment in time, Hezbollah does not have a face.  That's why."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14057",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "THE SHEIKH",
+        "text": "Perhaps you prove journalism objectivity and I see the questions first. Then I decide if I grant the interview."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "No. We don't do that.  You've seen \"60 Minutes\" and Mike Wallace. So you know our reputation for integrity and objectivity. You also know we are the highest-rated, most-respected, TV-magazine news show in America."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14058",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "THE SHEIKH",
+        "text": "Tell him I will see him day after tomorrow."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "That's good. That works.  Uh, you know, I want to ask you something... I know it sounds odd... but..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14059",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "Who's that?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "That's room service. They usually knock first.  Come on in... Over here, please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14060",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "How do you like your coffee? Black?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Black, black..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14061",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "Look, I really don't have that much time..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Is there anything you want to know about me, Mr. Wigand...?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Like what? Your sign?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14062",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "I know what I have to know."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Just so I know you know, when I talk to people in confidence, it stays that way."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "How did a radical journalist from Ramparts Magazine end up at CBS?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14063",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "...but that's as far as I go..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Far as you go where?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "This issue is a drop in the bucket. I can talk to you about what's in here. But I can't talk to you about anything else."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14064",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "Doesn't CBS have confidentiality agreements, Mr. Bergman?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Between journalists and management, yes, I believe they do... but I don't take that seriously.  Where do you work?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Did work."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Did work."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "How much would I get paid?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "That, you have to discuss with CBS Business Affairs. But, for something like this, I would say anywhere between 10, 12 thousand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14065",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "Should I just take the documents now?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "If you want to do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14066",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "...protect your sources...! You screwed me! You sold me out!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "What are you talking about? Where are you?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Fuck you, too!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14067",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Mrs. Wigand, how do you do?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Jump in, quick, c'mon..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I'm Lowell Bergman. We spoke on the phone, remember?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14068",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "C'mere. I want to talk to you."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Good. I want to talk to you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14069",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "What do..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I did not burn you. I did not give you up to anyone!"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "This is my house... In front of my wife, my kids?! What business do we have?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "To straighten something out with you. Right here. Right now."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "So, you didn't mention my name? You haven't talked to anybody about me?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Why am I gonna mention your name?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "How did Brown & Williamson know I spoke to you...?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "How the hell do I know about Brown & Williamson?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "It happened after I talked to you. I do not like coincidences!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "And I don't like paranoid accusations! I'm a journalist. Think. Use your head. How do I operate as a journalist by screwing the people who could provide me with information before they provided me with it?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "You came all the way down here to tell me that?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "No. I did not. Big Tobacco is a big story. And you got something important to say. I can tell.  But, yes. I did. I came all the way down here to tell you: story, no story, fuck your story, I don't burn people."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14070",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "And, I'm unemployed. So I have to protect my medical coverage.  ...so I left them a message this morning. Their expanded confidentiality agreement? I will sign it."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "They're afraid of you, aren't they?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "They should be."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14071",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Talk to me outside the zone of your agreement?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Like what?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Like where'd you work before Brown & Williamson?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Johnson & Johnson. Union Carbide in Japan. I was general manager and director of new products. I speak Japanese. I was a director of corporate development at Pfizer. All health-related.  What else? Outside the \"zone\"...?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I don't know... you think the Knicks are gonna make it through the semi- finals?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14072",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Seven dwarfs?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "The seven CEOs of Big Tobacco... they got up in front of Congress that time... it was on television..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "...and swore under oath that they know nothing about addiction, disease..."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "It was on C-SPAN. Yeah."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Okay, so, here you are... you go to work for tobacco.  You come from corporate cultures where research, really, creative thinking, these are core values. You go to tobacco... Tobacco is a sales culture. Market and sell enormous volume. Go to a lot of golf tournaments. The hell with everything else.  What are you doing? Why are you working for \"tobacco\" in the first place?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I can't talk about it. The work I was supposed to do... might have had some positive effect. I don't know... it could have been beneficial.  Mostly, I got paid a lot. I took the money. My wife was happy. My kids had good medical. Good schools. Got a great house.  I mean, what the hell is wrong with that...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14073",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "I've always thought of myself... as a man of science. That's what's wrong with it."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Then... you're in a state of conflict, Jeff."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14074",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "The new place? New."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "You okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14075",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "You know, I was thinking of calling you tomorrow, anyway.  How are your kids handling the new house?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Good.  You have kids?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14076",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "No, you said you were going to call me tomorrow. So, what about?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Oh, yes, yes, yes, I did... I wanted to talk to you. I wanted to hook up and talk to you. About what we were talking about in your car."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "...okay."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Makes you feel good? Putting what you know to use?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14077",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "How'd you know that, Lowell?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "It's obvious, isn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14078",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Hello. You there"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Yeah... Look, thanks for talking. I'm sorry I woke you up."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "It's okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14079",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "What did you get us?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Tempura..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14080",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "The internet said you did graduate work in Wisconsin, then went to UC La Jolla with Professor... Marcus?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Marcuse. Yeah. He was my mentor. He had a major influence on the New Left in the late '60s... and on me, personally."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Next to your father?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "My father? What the hell's that got to do with my father?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Is that why you became a journalist? Then you get to ask all the questions?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "You charge by the hour?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "My father was a mechanical engineer... most ingenious man I ever knew."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Well, my father left us when I was five-years old. He was not the most ingenious man I ever knew... Let's get back to Brown & Williamson. If you decide to go on \"60 Minutes,\" I got to know everything about why you got fired."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Why?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "They're gonna dig up stuff from your past, they're gonna throw it at you. I got to know what they're gonna throw. You understand?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I drink. A couple of occasions more than I should have.  I was cited for shoplifting once. But it was a mistake...  I pushed Liane one time. We were both stressed out because of the pressure. She went to her mother's.  I got fired because when I get angry I have difficulty censoring myself. And I don't like to be pushed around!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I'm not pushing you around!  I'm asking you questions."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I'm just a commodity to you, aren't I? I could be anything. Right? Anything worth putting on between commercials..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "...to a network, probably, we're all commodities.  To me? You are not a commodity. What you are is important."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14081",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "You believe that?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "No."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "You should. Because when you're done, a judgment is going to go down in the court of public opinion, my friend. And that's the power you have."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "You believe that?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I believe that? Yes, I believe that."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "You believe that because you get information out to people... something happens?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Yes."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Maybe that's just what you've been telling yourself all these years to justify having a good job? Having status? And maybe for the audience, it's just voyeurism? Something to do on a Sunday night. And maybe it won't change a fucking thing. And people like myself and my family are left hung out to dry. Used up! Broke, alone!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Are you talking to me or did somebody else just walk in here?! I never abandoned a source!"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I don't think you really understand --"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "No, don't evade a choice you gotta make be questioning my reputation or \"60 Minutes'\" with this cheap skepticism!"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I have to put my family's welfare on the line here, my friend! And what are you puttin' up? You're puttin' up words!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Words! While you've been dickin' around at fucking company golf tournaments, I been out in the world, giving my word and backing it up with action."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14082",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Excuse me. Yeah..."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "They're terrorizing us. Death threats?! To my family? My kids?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14083",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Jeff, call the FBI right away..."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "They do this with impunity!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Jeff..."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "They get to go home at night. What does it cost these people to do this to us? Nothing?! My girls are crying, so fuck them! I want to tape! I'm done thinking about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14084",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Good. But Jeff..."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I'll call them, Lowell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14085",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Liane, this is a preliminary...  You didn't tell her we were taping? What did she think she was coming to New York for?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "...to talk about it. To think about it. I had a plan to ease her into it. But, I really -- I didn't know how to do that..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14086",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "Lowell, I can't afford --"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "...they \"volunteered.\" A friend owns a large security company."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14087",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "I called Richard Scruggs in Mississippi..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I heard."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I'm going to be a witness for them in their litigation. So I'm going to fly to Pascagoula to give a deposition..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I know. I'm going to go there tonight..."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Did you have a good day?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14088",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "You attract a crowd."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "Yeah, great."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I heard about the Kentucky gag order..."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I don't know what to do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14089",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "What's changed?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "You mean... since this morning?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "No. I mean since whenever..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14090",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "\"Part of the reason I'm here is I felt that their representation clearly, at least within...\""
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Run that Sandefur piece on \"nicotine's not addictive.\" Run that on-camera. Then cut right to Wigand with \"I believe they perjured...\" Then go wide to the CEOs all taking the oath. Back on Jeff and play the pause after the word \"felt\" on the B-side..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14091",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "I don't know how to say this, Jeff, except to just say it right out, so I'll say it. They do not want to air it."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "What?!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "B & W may have threatened litigation... CBS is on the block...  But you, I mean, I know how..."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "No."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "No? No, what?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I do not think that you \"know\" for me... what it is to walk in my shoes...  ...for my kids to have seen it... for them to know why I've put them through what I did... the public airing of that... the testament to why I did what I did... you're telling me is not going to see the light of day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14092",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Oh, you know what we do or do not need to know? Since when have you become a media expert?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "What do you want to do, Lowell, look up my ass, too...!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14093",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "I told the truth!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Everything... you... say! And I can't defend you, man, with one hand tied behind my back! Because you keep from me... what they can discover. And they will discover everything! Believe me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14094",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "...I was young. I was young... confused... We didn't handle it the right way..."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "She sued you for back payments of child support?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "She did not sue me. We had a dispute over money... I settled it, she dropped the complaint...  Any other questions?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14095",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Yes. Did you lie about being on the American Judo Team in the Olympics?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "What?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Some public relations guy got a hold of a tape of an interview... where you're saying you were on the American Judo Team in the Olympics...?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "What kind of shit is this? I was not on the team, I sparred with the Olympic Team... okay?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14096",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "Alright... the ABC Telemarketing Company?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "ABC...?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "ABC Telemarketing Company."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "A can opener! A $39.95 can opener. I canceled payment... It was junk.  You ever bounce a check, Lowell? You ever look at another woman's tits? You ever cheat a little on your taxes?  Whose life, if you look at it under a microscope, doesn't have any flaws...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14097",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "LOWELL",
+        "text": "That's the whole point, Jeffrey. That's the whole point. Anyone's. Everyone's. They are gonna look under every rock, dig up every flaw, every mistake you've ever made. They are going to distort and exaggerate everything you've ever done, man. Don't you understand?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "What does this have to do with my testimony?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "That's not the point."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "What does this have to do with my testimony?! I told the truth! It's valid and true and provable!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "That's not the fucking point, whether you told the truth or not! Hello...?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "I told the truth... I told the truth."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14098",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "I've got to teach class. I've got to go. I've got to teach class."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "And I've got to refute every fucking accusation made in this report before The Wall Street Journal runs.  I am trying to protect you, man!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14099",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "You manipulated me into this...!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "That's bullshit, Jeff!"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "You greased the rails!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I greased the rails for a guy who wanted to say yes. I helped him to say yes. Alright. You're not a robot, Jeff! That's all. You got a mind of your own, don't you?"
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "\"Up to you, Jeffrey. That's the power you have, Jeffrey. Vital insider information the American public need to know.\" Lowell Bergman, the hot show who never met a source he couldn't turn around."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I fought for you... and I still fight for you."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "You fought for me...?!  ...you manipulated me... into where I am now... staring at the Brown & Williamson Building. It's all dark. Except the 10th floor! That's the legal department. That's where they fuck with my life!"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Jeffrey, where you going with this? So where you goin'?  You are important to a lot of people, Jeffrey. You think about that. You think about them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_14100",
+    "movie_id": "m101",
+    "turns": [
+      {
+        "speaker": "WIGAND",
+        "text": "Where are you, anyway?"
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "I'm on a leave of absence. Forced vacation."
+      },
+      {
+        "speaker": "WIGAND",
+        "text": "You try and have a good time."
+      },
+      {
+        "speaker": "LOWELL",
+        "text": "Yeah. Yeah, I will."
+      }
+    ]
+  }
+]

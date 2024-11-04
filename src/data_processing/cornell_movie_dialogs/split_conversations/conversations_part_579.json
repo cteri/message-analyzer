@@ -1,0 +1,2370 @@
+[
+  {
+    "conversation_id": "conv_57813",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "Starling, Clarice M., good morning."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Good morning, Mr. Crawford."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Your instructors tell me you're doing well. Top quarter of the class."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I hope so. They haven't posted anything."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "A job's come up and I thought about you. Not really a job, more of - an interesting errand. Walk me to my car, Starling."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57814",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "We're trying to interview all of the serial killers now in custody, for a psychobehavioral profile. Could be a big help in unsolved cases. Most of them have been happy to talk to us. They have a compulsion to boast, these people... Do you spook easily, Starling?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Not yet."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "You see, the one we want most refuses to cooperate. I want you to go after him again today, in the asylum."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Who's the subject?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "The psychiatrist - Dr. Hannibal Lecter."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57815",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Yes, well... Okay, right. I'm glad for the chance, sir, but - why me?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "You're qualified and available. And frankly, I can't spare a real agent right now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57816",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "Now. I want your full attention, Starling. Are you listening to me?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Yes sir."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Be very careful with Hannibal Lecter. Dr. Chilton at the asylum will go over the physical procedures used with him. Do not deviate from them, for any reason. You tell him nothing personal, Starling. Believe me, you don't want Hannibal Lecter inside your head... Just do your job, but never forget what he is."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "And what is that, sir?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57817",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "I've read your interim memo on Lecter. You sure you've left nothing out?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "It's all there, sir, practically verbatim."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Every word, Starling? Every gesture?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Right down to the kleenex I used.  Sir, why? Is something wrong?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "He mentioned a name, at the very end. \"Mofet...\" Any followup on her?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I spent all evening on the mainframe. Lecter altered or destroyed most of his patient histories, prior to capture. No record of anyone named Mofet. But \"Split City\" sounded like it might have have something to do with divorce. I tracked it down in the library's catalogue of national yellow pages.  It's a mini-storage facility outside Baltimore, where Lecter had his practice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57818",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "Well? Why aren't you there right now?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Sir, that's a field job. It's outside the scope of my assignment. And I've got a test tomorrow on -"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Do you recall my instructions to you, Starling? What were they?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "To complete and file my report by 0800 Wednesday. But sir -"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Then do that, Starling. Do just exactly that."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Sir, what is it? There's something you're not telling me."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Miggs has been murdered."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Murdered...? How?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "The orderly heard Lecter whispering to him, all afternoon, and Miggs crying. They found him at bed check. He'd swallowed his own tongue... Chilton is scared stiff the family will file a civil rights lawsuit, and he's trying to blame it on you. I told the little prick your conduct was flawless.  Starling...?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I'm here, sir, I just - I don't know how to feel about it."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "You don't have to feel any way about it. Lecter did it to amuse himself. Why not, what can they do? Take away his books for awhile, and no jello...  I know it got ugly today. But this is your report, Starling - take it as far as you can. On your own time, outside of class. Now carry on."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57819",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "Blue square for Belvedere, Ohio, where the Bimmel girl was abducted. Blue triangle where her body was found - down here in Missouri. Same marks for the other four girls, in different colors. This new one, today... washed up here.  Elk River, in West Virginia, about six miles below U.S. 79. Real boonies."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "There's no correlation at all between where they're kidnapped and where they're found...?  What if - what if you trace the heaviest-traffic routes backwards from the dump sites? Do they converge at all?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Good idea, but he thought of it, too. We've run simulations, using different vectors and the best dates we can assign. You put it all in the computer, and smoke comes out. No, this one is different. This one has seen us coming..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57820",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "Talk about him, Starling. Tell me what you see."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "He's a white male... Serial killers tend to hunt within their own ethnic group. And he's not a drifter - he's got his own house, somewhere. Not an apartment."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Why?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "What he does with them - takes privacy... Time, tools... He's in his 30's or 40's - he's got real physical strength, but combined with an older man's self-control. He's cautious, precise, never impulsive... This won't end in suicide, like they often do."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "He's got a real taste for it now. And he's getting better at his work."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Maybe you've got a knack for this... I guess we're about to find out."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Like I have a \"knack\" for Dr. Lecter?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57821",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "Okay, Starling. Let's have it."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "You haven't said a word today about that garage. Or what I found there."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "What should I say? You did fine work. We'll wait on the lab."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "You knew. You knew from the start that Lecter held the key to this... But you weren't up front with me. You sent me in to him naked."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Are you finished?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "He starts this - buzzing in me, in my head. He makes me feel violated... You used me, Mr. Crawford."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57822",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "What do you see, Starling?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Well, she's not local. Her ears are pierced three times each, and she's wearing green glitter nail polish. Looks like town to me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57823",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "I don't know. I didn't see those on any of the other girls..."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "They weren't there. Get close-ups."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57824",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "When I told that sheriff we shouldn't talk in front of a woman, that really burned you, didn't it?  That was just smoke, Starling, I had to get rid of him. You did well in there."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "It matters, Mr. Crawford... Other cops know who you are. They look at you to see how to act... It matters."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Point taken."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57825",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "When we get back, I want you to run that bug by the Smithsonian, see if they can identify it. Maybe it's got some limited range, or it only breeds at certain times of year... You found it, Starling, you deserve the credit."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I'm wondering if he's done that before - placed a cocoon, or an insect. It would be easy to miss in an autopsy, especially with a floater... Can we check back on that?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "The other girls are in the ground. Exhumations are upsetting for the families. I'll do it if I have to, but -"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Then have the lab check Raspail's head.  Dr. Lecter's patient - have them probe his soft-palette tissues... They'll find another cocoon."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "You seem pretty sure of that."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Raspail was killed by the same man who's killing these girls. And Lecter knows him. Maybe even treated him... You think so, too, don't you? Or you'd never have sent me to that asylum."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57826",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "But for Catherine Martin, it all comes down to you and Lecter. You're the one he talks to."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "He's already offered to help... What would happen if we just showed our cards - asked him for Bill?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "He offered to help, Starling, not to snitch. That wouldn't give him enough chance to show off. Remember, Lecter looks mainly for fun. Never forget fun."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "But if he knew we have so little time -"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "If we act too anxious, he'll make us wait. He'll let the Senator keep hoping, day after day, until Catherine finally washes up. That'd be the most fun of all."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I think he means it, this time. I think he'll deal."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "What would it take?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Transfer to a new prison. With a view of trees, he said, or even water... Can we swing that?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "State to federal jurisdiction... We can do it - eventually - but we'll never get all the clearances in time. Can you convince him a deal's already in place?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "You'll back me up with some paperwork?  Then I'll try. But wouldn't this have more weight coming from the Senator herself?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "She doesn't know what we're up to. And we can't afford to let her find out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57827",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Chilton has killed her, hasn't he? That slimy little bastard! We were so close with Lecter - and now her last chance is gone."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Let's get some coffee and talk."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57828",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Are you in trouble over this, Mr. Crawford? Can Senator Martin do something to you?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "I'm 53, Starling. If I found Jimmy Hoffa on national TV, I'd still have to retire in two years. It's not a consideration. But you are...  You've done enough. If I keep you out of school any longer, you'll be recycled. Cost you six months, at least. I can guarantee you readmission here, but that's about it.  Now's your chance, Starling. Go back to class. Leave Bill to me."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "If you didn't want me chasing him, you shouldn't have taken me to that funeral home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57829",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Lecter is still the key, I know he is. Whatever he told me about Bill is just as good now as it was before."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Or just as worthless. But I want you in Memphis, close to him. Maybe when he gets tired of toying with Senator Martin, he'll talk to you again. There's a plane waiting for you now at the airstrip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57830",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "I lied to Lecter. I'll need some kind of peace offering... Can I get the drawings from his cell?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Good idea. Meantime, try to get a feel for Catherine Martin. Her apartment, her friends... how he might've stalked her. I'm going to the other two clinics, Minnesota and Ohio.  Now's the hardest part, Starling. Use your anger, don't let it keep you from thinking. Just keep your eyes on Catherine. We've got less than 30 hours."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Mr. Crawford... can those cops down there handle Dr. Lecter?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "They'll use their best men. But they better be paying attention..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57831",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "All his victims are women... His obsession is women, he lives to hunt women. But not one women is hunting him - except me. I can walk in a woman's room and know three times as much about her as a man would.  I have to go to Belvedere."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "You heard them. I don't have that authority anymore."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "You do until six p.m."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57832",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "Ohio is cold ground. Picked over, ten months ago. Our people worked it, so did the locals."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "But not from this angle. Not thinking he knew her. You've got to send me!"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "I'm Bureau for 28 years, Starling. I won't disobey orders, not even now."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "But I just became a private citizen. I can go anywhere I want to."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "With ID and a gun...? Impersonating a federal agent is a felony."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "He's going to kill her, Mr. Crawford. This morning, or maybe at noon, but today, and Belvedere's our last chance. I'm flying there, right now, unless you stop me. You want my ID? Here - take it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57833",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "He's making himself a \"woman suit,\" Mr. Crawford - out of real women! And he can sew, this guy, he's really skilled. A dressmaker, or a tailor -"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Starling -"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "That's why they're all so big - because he needs a lot of skin! He keeps them alive to starve them awhile - to loosen their skin, so that -"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Starling, we know who he is! And where he is. We're on our way now."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Where?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57834",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Sir, that's great news. But how -"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Johns Hopkins finally came up with a name for us. We fed him into Known Offenders, and he came up cherries.  Subject's name is \"Jamie Gumb,\" AKA \"John Grant.\" Lecter's description was accurate, he just lied about the name."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57835",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "This Gumb's a real beauty. Slaughtered both his grandparents when he was twelve, and did nine years in juvenile psychiatric. Where, Starling, he took vocational rehab, and learned a useful trade..."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Sewing..."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Take a bow. Customs had some paper on his alias. They stopped a carton two years ago at LAX - live caterpillars from Surinam. The addressee was \"John Grant.\" Calumet Power & Light's given us two possible residences under that alias. We're hitting one, Chicago SWAT's taking the other."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Chicago's only about 400 miles from here. I could be there in -"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "No, Starling, there isn't time. And you've still got crucial work to do in Ohio. We want him for murder, not kidnapping. I'm counting on you to link him to the Bimmel girl, before he's indicted."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57836",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Yes sir... I'll do my best."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Starling - you've earned back your place in the Academy. We never would've found him without you, and nobody's ever going to forget that. Least of all me."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Yes sir. Thank you, sir..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57837",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "PILCHER",
+        "text": "What do you do when you're not detecting, Officer Starling?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I try to be a student, Dr. Pilcher."
+      },
+      {
+        "speaker": "PILCHER",
+        "text": "Ever get out for cheeseburgers and beer? The amusing house wine...?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Not lately. But maybe someday."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57838",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "And there's no way - no natural way - these could've wound up in the bodies?"
+      },
+      {
+        "speaker": "PILCHER",
+        "text": "They live in Malaysia. In this country, they'd have to be specially raised, from imported eggs."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Dr. Lecter..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57839",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "STACY",
+        "text": "They said she was just rags, like somebody -"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Stacy, did Fredrica ever mention a man named Jamie Gumb? Or John Grant?  Do you think she could've had a friend you didn't know about?"
+      },
+      {
+        "speaker": "STACY",
+        "text": "No way. She had a guy, I'da known, believe me. Sewing was her life, she was really great at it. Poor Freddie."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Did you ever work with her?"
+      },
+      {
+        "speaker": "STACY",
+        "text": "Oh sure, me'n Pam Malavesi used to help her do alterations for old Mrs. Lippman. Lots of people worked for her, she had the business from all these retail stores? But she was like, totally old, it was more'n she could handle."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Where does Mrs. Lippman live? I'd like to talk to her."
+      },
+      {
+        "speaker": "STACY",
+        "text": "She died. She went to Florida to retire, like two years ago? She dies own there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57840",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "STACY",
+        "text": "Is that a pretty good job, FBI agent?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I think so."
+      },
+      {
+        "speaker": "STACY",
+        "text": "You get to travel around and stuff? I mean, better places then this?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Sometimes you do."
+      },
+      {
+        "speaker": "STACY",
+        "text": "Freddie was so happy for me when I got this job. This - toaster giveaways, and Barry Manilow on the speakers all day - she thought this was really hot shit. What did she know, big dummy..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57841",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Doctor, we have a hard problem in psychological profiling. I want to ask for your help with a questionnaire."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "\"We\" being the Behavioral Science Unit, at Quantico. You're one of Jack Crawford's, I expect."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I am, yes."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "May I see your credentials?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57842",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "That expires in one week. You're not real FBI, are you?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I'm - still in training at the Academy."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Jack Crawford sent a trainee to me?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "We're talking about psychology, Doctor, not the Bureau. Can you decide for yourself whether or not I'm qualified?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Mmmmm... That's rather slippery of you, Officer Starling. Sit. Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57843",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "Now then. What did Miggs say to you?  \"Multiple Miggs,\" in the next cell. He hissed at you. What did he say?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "He said - \"I can smell your cunt.\""
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "I see. I myself cannot. You use Evyan skin cream, and sometimes you wear L'Air du Temps, but not today. You brought your best bag, though, didn't you?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "It's much better than your shoes."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Maybe they'll catch up."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "I have no doubt of it."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Did you do those drawings, Doctor?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Yes. That's the Duomo, seen from the Belvedere. Do you know Florence?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "All that detail, just from memory...?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Memory, Officer Starling, is what I have instead of view."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57844",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Dr. Lecter, if you'd please consider -"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "No, no, no. You were doing fine, you'd been courteous and receptive to courtesy, you'd established trust with the embarrassing truth about Miggs, and now this ham-handed segue into your questionnaire. It won't do. It's stupid and boring."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I'm only asking you to look at this, Doctor. Either you will or you won't."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Jack Crawford must be very busy indeed if he's recruiting help from the student body. Busy hunting that new one, Buffalo Bill... Such a naughty boy! Did Crawford send you to ask for my advice on him?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "No, I came because we need -"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "How many women has he used, our Bill?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Five... so far."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "All flayed...?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Partially, yes. But Doctor, that's an active case, I'm not involved. If -"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Do you know why he's called Buffalo Bill? Tell me. The newspapers won't say."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I'll tell you if you'll look at this form.  It started as a bad joke in Kansas City Homicide. They said... this one likes to skin his humps."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Witless and misleading. Why do you think he takes their skins, Officer Starling? Thrill me with your wisdom."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "It excites him. Most serial killers keep some sort of trophies."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "I didn't."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "No. You ate yours."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57845",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "Oh, Officer Starling... do you think you can dissect me with this blunt little tool?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "No. I only hoped that your knowledge -"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57846",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "You see a lot, Dr. Lecter. But are you strong enough to point that high- powered perception at yourself? How about it...? Look at yourself and write down the truth.  Or maybe you're afraid to."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "You're a tough one, aren't you?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Reasonably so. Yes."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "And you'd hate to think you were common. My, wouldn't that sting! Well you're far from common, Officer Starling. All you have is the fear of it.  Now please excuse me. Good day."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "And the questionnaire...?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "A census taker once tried to test me. I ate his liver with some fava beans and a nice chianti... Fly back to school, little Starling."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57847",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "I would not have had that happen to you. Discourtesy is - unspeakably ugly to me."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Then please - do this test for me."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "No. But I will make you happy... I'll give you a chance for what you love most, Clarice Starling."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "What's that, Dr. Lecter?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Advancement, of course.  Go to Split City. See Miss Mofet, an old patient of mine. M-O-F-E-T... Now go. Go.  I don't think Miggs could manage again so soon, even if he is crazy - do you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57848",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "Your bleeding has stopped."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "How did -  It's nothing. A scratch."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Why don't you ask me about Buffalo Bill?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Why? Do you know something about him?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "I might if I saw the case file. You could get that for me."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Why don't you tell me about \"Miss Mofet?\" You wanted me to find him. Or do I have to wait for the lab?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "His real name is Benjamin Raspail. A former patient of mine, whose romantic attachments ran to, shall we say, the exotic...? I didn't kill him, merely tucked him away. Very much as I found him, in that ridiculous car, in his own garage, after he's missed three appointments. You'd have him under \"Missing Person\" - which, in poor Raspail's case, could hardly be more true."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "If you didn't kill him, then who did?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Who can say...? Best thing for him, really. His therapy was going nowhere."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Wouldn't it have been easier to just leave him for the police to find?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "And have them clomping about in my life? Oh dear, no... At that time I still had certain private amusements of my own.  How did you feel when you saw him, Clarice? May I call you Clarice?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Scared, at first. Then - exhilarated."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Ahhh... Why?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Because you weren't wasting my time."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Do you have something you use, when you need to get up your courage? Memories, tableaux... scenes from your early life?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I don't know. Next time I'll have to check."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Jack Crawford is helping your career, isn't he? Apparently he likes you. And you like him, too."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I never thought about it."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Your first lie to me, Clarice. How sad. Tell me - do you think Crawford wants you, sexually? True, he's much older, but - do you think he visualizes... scenarios, exchanges...? Fucking you?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "That doesn't interest me, Doctor. And it's the sort of thing Miggs would ask."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Not anymore.  Surely the odd confluence of events hasn't escaped you, Clarice. Crawford dangles you before me. Then I give you a bit of help. Do you think it's because I like to look at you, and imagine how good you would taste...?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I don't know. Is it?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Or doesn't this all begin to suggest to you a kind of... negotiation? There's something Crawford can give me, and I want to trade for it. I even wrote to him, offering my help. But he hates me, so he won't deal directly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57849",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "Punishment, you see. For Miggs. Just like that gospel program. When you leave, they'll turn the volume way up. Chilton does enjoy his petty torments."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Who killed Raspail, Doctor...? You know, don't you?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "I've been in this room for eight years, Clarice. I know they will never, ever let me out while I'm alive. What I want is a view. I want a window where I can see a tree, or even water. I want to be in a federal institution, away from Chilton - and I want a view. I'll give good value for it. Crawford could do that for me, but he won't. You persuade him."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Who killed your patient?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Oh, a very naughty boy. Someone you and Jack Crawford are most anxious to meet."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Buffalo Bill...?  Bill killed him, all those years ago...? That's impossible."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57850",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "I was your choice, Dr. Lecter. You chose to speak to me. Would you prefer someone else now? Or perhaps you don't think you can help us."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "That is both impudent and untrue... Tell me, how did you feel when you viewed our Billy's latest effort?  Or should I say, his \"next-to-latest\"?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "By the book, he's a sadist."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Life's too slippery for books, Clarice. Typhoid and swans came from the same God.  Tell me, Miss West Virginia - was she a large girl?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Big through the hips. Roomy."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "They all were."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Mmm. And what else...?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "She had an insect deliberately inserted in her throat. That hasn't been made public yet. We don't know what is means."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Was it a butterfly?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "A moth... How did you predict that?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "I'm waiting for your offer, Clarice. Enchant me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57851",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "\"Plum Island Animal Disease Research Center.\" Sounds charming."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "That's just part of the island. It has a very nice beach. Terns nest there."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Terns... If I help you, Clarice, it will be \"turns\" with us, too. Quid pro quo. I tell you things, you tell me things. Not about this case, though - about yourself. Yes or no?  Yes or no, Clarice. Catherine is waiting. Tick-tock, tick-tock..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57852",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Go, Doctor."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "What's your worst memory of childhood?  Quicker than that. I'm not interested in your worst invention."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "The death of my father."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Tell me. Don't lie, or I'll know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57853",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "He was a town marshal... one night he surprised two burglars, coming out the back of a drugstore... They shot him."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Killed outright?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "No. He was strong, he lasted almost a month. My mother - died when I was very young, so my father had become - the whole world to me... After he left me, I had nobody. I was ten years old."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "You're very frank, Clarice. I think - it would be quite something to know you in private life."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Quid pro quo, Doctor."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "The significance of the moth is change. Caterpillar into cocoon into beauty... Billy wants to change, too, Clarice. But there's the problem of his size, you see. Even if he were a woman, he'd have to be a big one..."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Dr. Lecter, there's no correlation in the literature between transsexualism and violence. Transsexuals are very passive."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Clever girl. You're so close to the way you're going to catch him - do you realize that?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "No. Tell me why."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "After your father's death, you were orphaned. What happened next?  I don't imagine the answer's on those second-rate shoes, Clarice."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I went to live with my mother's cousin and her husband in Montana. They had a ranch."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "A cattle ranch?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Horses - and sheep..."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "How long did you live there?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Two months."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Why so briefly?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I - ran away..."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Why, Clarice? Did the rancher fuck you?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "No."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Did he try to?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "No...! Quid pro quo, Doctor."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Billy's not a real transsexual, but he thinks he is. He tries to be. He's tried to be a lot of things, I expect."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "You said - I was very close to the way we'd catch him."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "There are three major centers for transsexual surgery: Johns Hopkins, the University of Minnesota, and Columbus Medical center. I wouldn't be surprised if Billy has applied for sex reassignment at one or all of them, and been rejected."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "On what basis would they reject him?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "The personality inventories would trip him up. Rorschach, Wechsler, House-Tree-Person... He wouldn't test like a real transsexual."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "How would he test?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57854",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "That's enough, I think. Happy hunting. Oh, and Clarice - next time you will tell me why you ran away. Shall I summarize?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Yes, Doctor. Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57855",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "I thought you might want your drawings back... Just until you get your view."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "How very thoughtful... Or did Crawford send you here for one last wheedle - before you're both booted off the case?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Nobody sent me. I came on my own."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57856",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Dr. Lecter, you find out everything. You couldn't have talked with this \"William Rubin\", even once, and come out knowing so little about him... You made him up, didn't you?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Clarice... you're hardly in a position to accuse me of lying."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I think you were telling me the truth in Baltimore - or starting to. Tell me the rest now."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "I've studied the case file, have you...? Everything you need to find him is right in these pages. Whatever his name is."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Then tell me how."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "First principles, Clarice. Simplicity. Read Marcus Aurelius. Of each particular thing, ask: What is it, in itself, what is its nature...? What does he do, this man you seek?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "He kills w-"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "No! That's incidental."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57857",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "What is the first and principal thing he does, what need does he serve by killing?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Anger, social resentment, sexual frus-"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "No, he covets. That's his nature. And how do we begin to covet, Clarice? Do we seek out things to covet? Make an effort to answer."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "No. We just -"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "No. Precisely. We begin by coveting what we see every day. Don't you feel eyes moving over your body, Clarice? I hardly see how you couldn't. And don't your eyes move over the things you want?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "All right, then tell me how -"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "No. It's your turn to tell me, Clarice. You don't have any more vacations to sell, on Anthrax Island. Why did you run away from that ranch?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Dr. Lecter, when there's time I'll -"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "We don't reckon time the same way, Clarice. This is all the time you'll ever have."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Later, listen, I'll -"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "I'll listen now. After your father's murder, you were orphaned. You were ten years old. You went to live with cousins, on a sheep and horse ranch in Montana. And - ?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "And - one morning I just - ran away..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57858",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "Not \"just,\" Clarice. What set you off? You started what time?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Early. Still dark."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Then something woke you. What? Did you dream...? What was it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57859",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "I heard a strange sound..."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "What was it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57860",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "What did you do?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Got dressed without turning on the light. I went downstairs... outside..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57861",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "They were slaughtering the spring lambs?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Yes...! They were screaming."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "So you ran away..."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "No. First I tried to free them... I opened the gate of their pen - but they wouldn't run. They just stood there, confused. They wouldn't run..."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "But you could. You did."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I took one lamb. And I ran away, as fast as I could..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57862",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "Where were you going?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "I don't know. I had no food or water. It was very cold. I thought - if I can even save just one... but he got so heavy. So heavy..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57863",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "I didn't get more than a few miles before the sheriff's car found me. The rancher was so angry he sent me to live at the Lutheran orphanage in Bozeman. I never saw the ranch again..."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "But what became of your lamb?  Clarice...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57864",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "You still wake up sometimes, don't you? Wake up in the dark, with the lambs screaming?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Do you think if you saved Catherine, you could make them stop...? Do you think, if Catherine lives, you won't wake up in the dark, ever again, to the screaming of the lambs? Do you...?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Yes! I don't know...! I don't know."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Thank you, Clarice."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Tell me his name, Dr. Lecter."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Dr. Chilton... I believe you know each other?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57865",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "Brave Clarice. Will you let me know if ever the lambs stop screaming?"
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Yes. I'll tell you."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Promise...?  Then why not take your case file? I won't be needing it anymore."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57866",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CLARICE",
+        "text": "Starling."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Well, Clarice, have the lambs stopped screaming...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57867",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "Your lambs are still for now, Clarice, but not forever... You'll have to earn it again and again, this blessed silence. Because it's the plight that drives you, and the plight will never end."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "Dr. Lecter -"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "I have no plans to call on you, Clarice, the world being more interesting with you in it. Be sure you extend me the same courtesy."
+      },
+      {
+        "speaker": "CLARICE",
+        "text": "You know I can't make that promise."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Goodbye, Clarice...  You looked - so very lovely today, in your blue suit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57868",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. DANIELSON",
+        "text": "I'm not having a witch hunt here, Mr. Crawford! Our patients are decent, non-violent people with a real problem."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Dr. Danielson, the man we want was never your patient. It would be someone you refused because he tries to conceal a record of criminal violence. Please, Doctor - time is eating us up. Just show me the ones you've turned away."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57869",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. DANIELSON",
+        "text": "Examination and interview materials are confidential. We've never violated an applicant's trust, and we never will."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "You want to see a violation? This is a violation..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57870",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "Her name is Kimberly Jane Emberg, she was just ID'd. I met her on a slab in West Virginia. And sometime tomorrow, or tomorrow night, he's going to do the same thing to Catherine Martin."
+      },
+      {
+        "speaker": "DR. DANIELSON",
+        "text": "That's a childish, bullying stunt, Mr. Crawford. I was a battlefield surgeon, so you can put away your picture."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57871",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "CRAWFORD",
+        "text": "Look... search your own records, if you prefer. You can do it a lot faster than us, anyway. If we find Buffalo Bill through your information, I'll suppress it. Nobody has to know this hospital cooperated."
+      },
+      {
+        "speaker": "DR. DANIELSON",
+        "text": "I doubt very much that the FBI or any other government agency can keep a secret, Mr. Crawford. Truth will out... And then what? Will you give Johns Hopkins a new identity? Put a big pair of sunglasses on this building, and a funny nose?"
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Oh, that's clever, Dr. Danielson. Very humorous. You like the truth? Try this.  He kidnaps young women and kills them and rips their skin off. We don't want him to do that anymore. If you don't help me, just as fast as you can, then the Justice Department is going to ask publicly for a court order, We'll ask twice a day, just in time for the morning and evening news. And each one of our press conferences will focus on Dr. Danielson, over at Johns Hopkins, and how we're still hoping for his cooperation. And every time there's any news on the case - when Catherine Martin floats, when the next one floats, and the next one - why, we'll just issue another press release about good ol' Dr. Danielson, over at Johns Hopkins - complete with all his humorous fucking remarks."
+      },
+      {
+        "speaker": "DR. DANIELSON",
+        "text": "It may be that - I could confer with my colleagues on this. And get back to you."
+      },
+      {
+        "speaker": "CRAWFORD",
+        "text": "Would you, Doctor? That would be so kind."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57872",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "I won't waste your time and Catherine's time bargaining for petty privileges. Clarice Starling and that awful Jack Crawford have wasted far too much already. I only pray they haven't doomed the poor girl... Let me help you now, and I'll trust you when it's all over."
+      },
+      {
+        "speaker": "SEN. MARTIN",
+        "text": "You have my word. Paul?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57873",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "SEN. MARTIN",
+        "text": "What...?"
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Did you breast-feed her?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57874",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "SEN. MARTIN",
+        "text": "Yes... I did."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Toughened your nipples, didn't it...?  Six foot one, strongly built, about 190 pounds. Hair brown, eyes pale blue. He'd be about 35 now. He said he lived in Philadelphia, but may have lied. That's really all I can remember, Senator - but if I think of any more, I'll let you know."
+      },
+      {
+        "speaker": "SEN. MARTIN",
+        "text": "Let's go with it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57875",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "DR. LECTER",
+        "text": "Senator Martin...! You can't trust Jack Crawford or Clarice Starling. It's such a game with these people. They're determined to get the arrest for themselves. The \"collar,\" I think they say."
+      },
+      {
+        "speaker": "SEN. MARTIN",
+        "text": "Thank you, Doctor. I'll keep it in mind."
+      },
+      {
+        "speaker": "DR. LECTER",
+        "text": "Oh, and Senator...? Love you suit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57876",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "RODEN",
+        "text": "Time, Pilch! My move."
+      },
+      {
+        "speaker": "PILCHER",
+        "text": "No fair! You lured him with produce."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57877",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "RODEN",
+        "text": "Of course it counts. How do you play?"
+      },
+      {
+        "speaker": "PILCHER",
+        "text": "Officer Starling. Welcome back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57878",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "PILCHER",
+        "text": "Your West Virginia specimen gave us quite a bit of trouble, but I finally managed to narrow his species through chaetaxy - studying the skin."
+      },
+      {
+        "speaker": "RODEN",
+        "text": "I'm the one who found his perforating proboscis! Are you wearing a gun, right now?  Ooh, cool! Can I see it? Can I?"
+      },
+      {
+        "speaker": "PILCHER",
+        "text": "Just ignore him. He's not a Ph.D."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57879",
+    "movie_id": "m419",
+    "turns": [
+      {
+        "speaker": "RODEN",
+        "text": "Better known to his friends as the Death's-head Moth..."
+      },
+      {
+        "speaker": "PILCHER",
+        "text": "The Latin name comes from two rivers in Hell. Your man - he drops these girls into rivers, every time. Didn't I read that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57880",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HEYWARD",
+        "text": "My God, you've grown up."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "We leave in the morning?!"
+      },
+      {
+        "speaker": "HEYWARD",
+        "text": "Yes, miss."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "I won't sleep tonight. What an adventure!  I absolutely cannot wait to return to Portman Square, having laid eyes upon the full-blooded, red men in the wild!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57881",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HEYWARD",
+        "text": "Are you alright?"
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Can we rest soon?"
+      },
+      {
+        "speaker": "HEYWARD",
+        "text": "Absolutely."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57882",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HEYWARD",
+        "text": "The men of the regiment will fetch water from the lake, build fires and provide every comfort you desire, Alice..."
+      },
+      {
+        "speaker": "ALICE",
+        "text": "Duncan, you are absolutely gallant. If Cora doesn't marry you, I shall."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57883",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "Though they are strangers, they are at least entitled to a Christian burial!"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Let us go, miss."
+      },
+      {
+        "speaker": "CORA",
+        "text": "I will not. I have seen the face of war before, Mr. Poe, but never war made on women and children. And almost as cruel is your indifference."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57884",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "Why didn't you bury those people?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Anyone lookin' to pick up our trail, would see it as a sign of our passing..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "You knew them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57885",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "You were acting for our benefit. And I apologize. I misunderstood you."
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Well that is to be expected. My father..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "Your \"father\"?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Chingachgook. He warned me about people like you."
+      },
+      {
+        "speaker": "CORA",
+        "text": "He did?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Yes. He said... \"do not try to make them understand you.\""
+      },
+      {
+        "speaker": "CORA",
+        "text": "What?!"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Yes. And \"do not try to understand them.  That is because they are a breed apart and they make no sense...\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57886",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HAWKEYE",
+        "text": "The Ottawa are gone."
+      },
+      {
+        "speaker": "CORA",
+        "text": "Why did they turn back?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57887",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "\"We're a breed apart and we make no sense\"...?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "In your particular case, miss, I would make some allowance..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "Thank you so much."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57888",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HAWKEYE",
+        "text": "They buried my ma & pa and my sisters. And Chingachgook - who found me with two French trappers - raised me up as his own."
+      },
+      {
+        "speaker": "CORA",
+        "text": "I'm sorry."
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "I do not remember them. I was one or two."
+      },
+      {
+        "speaker": "CORA",
+        "text": "How did you learn English?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "My father sent Uncas & I to Reverend Wheelock's school when I was ten. So we would know both worlds... though we were told only bother learning readin' & arithmetic from yours."
+      },
+      {
+        "speaker": "CORA",
+        "text": "And what were the consequentialities of European culture you didn't bother with?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "The Bible. Monarchy. Many wrong ideas about the government of men. My father's people already know each man is his own nation. And only he can have dominion over himself. Not kings. No man is better than any other man."
+      },
+      {
+        "speaker": "CORA",
+        "text": "In London those radical ideas could land you in Newgate prison.  Why were those people living in this defenseless place...?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "'Cos frontier land's the only land affordable to poor people. So after seven years indentured service in Virginia, they headed out here where they are beholden to none and not livin' by another's leave...  Their name was Cameron. John & Alexandria."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57889",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "You are right, Mr. Poe. We do not understand what is happening here. And it is not as I imagined it would be, thinking of it in Boston and London..."
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Sorry to disappoint you..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "On the contrary. It is more deeply stirring...  to my blood...  ...than any imagining could possibly have been..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57890",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "Much further?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Top of this ridge. Fort and Lake George are downhill of it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57891",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "Mr Poe?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Miss.  May I?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57892",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "What are you looking at, Mr. Poe?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Why, I am looking at you, Miss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57893",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "They're going to hang you.  Why didn't you leave when you had the chance?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Because what I am interested in is right here..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "What would you have me do?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57894",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HAWKEYE",
+        "text": "Webb's reinforcements will arrive or not.  If they do not arrive, the fort will fall. If that happens, stay close to your father.  The French will protect the officer class among the English."
+      },
+      {
+        "speaker": "CORA",
+        "text": "No. I will find you."
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Do not.  Promise me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57895",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "I don't know. Whatever happens you stay with your father. You stay among the officers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57896",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "Are we safe?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Maybe..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "Our father? Did you see my father?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57897",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HAWKEYE",
+        "text": "In this there is a chance. If I live, I can try to free you. If we don't go, there is no powder, there's too many of them.  Though my heart would keep me here, in that there is no chance. None. I can do nothing. Do you understand?"
+      },
+      {
+        "speaker": "CORA",
+        "text": "Yes. I want you to go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57898",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HAWKEYE",
+        "text": "Listen. Submit. You hear me?  You're strong. You stay alive. I will find you...  no matter how far, how long it takes..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "...never doubt what you are doing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57899",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HAWKEYE",
+        "text": "And my compliments to you..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "Alice?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57900",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HAWKEYE",
+        "text": "Will you go back to England?"
+      },
+      {
+        "speaker": "CORA",
+        "text": "I have nothing to go back for."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57901",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "Where will we go?"
+      },
+      {
+        "speaker": "HAWKEYE",
+        "text": "Winter with the Delaware, my father's cousins. And in the spring, cross the Ohio and look for land to settle with my father in a new place called Can-tuck-ee."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57902",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "MUNRO",
+        "text": "Told you to stay away from this hell hole!  Why did you disobey me?"
+      },
+      {
+        "speaker": "CORA",
+        "text": "When? How?"
+      },
+      {
+        "speaker": "MUNRO",
+        "text": "My letter..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "There was none!"
+      },
+      {
+        "speaker": "MUNRO",
+        "text": "What?"
+      },
+      {
+        "speaker": "CORA",
+        "text": "There was no letter."
+      },
+      {
+        "speaker": "MUNRO",
+        "text": "I sent three men to Webb!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57903",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "MUNRO",
+        "text": "The man encouraged the colonials to desert in this very room, in my presence. He is guilty of sedition and must be tried and hanged like any other criminal, regardless of what he did for my children."
+      },
+      {
+        "speaker": "CORA",
+        "text": "He knew the consequences. And he stayed.  Are those the actions of a criminal?  ...Duncan, do something."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57904",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "MUNRO",
+        "text": "But the man is guilty of sedition and subject to military justice and beyond pardon."
+      },
+      {
+        "speaker": "CORA",
+        "text": "\"Justice\"?  If that's \"justice\"..., then the sooner French guns blow the English army out of America, the better it will be for these people."
+      },
+      {
+        "speaker": "MUNRO",
+        "text": "You do not know what you are saying!"
+      },
+      {
+        "speaker": "CORA",
+        "text": "Yes I do! I know exactly what I am saying.  And if it is sedition, then I am guilty of sedition, too!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57905",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "I'm embarrassed to be so indecisive... after so long apart and after you've traveled so far..."
+      },
+      {
+        "speaker": "HEYWARD",
+        "text": "And by sea!"
+      },
+      {
+        "speaker": "CORA",
+        "text": "You still have an aversion to the water?"
+      },
+      {
+        "speaker": "HEYWARD",
+        "text": "Aversion?  No... \"Hatred\"... \"Loathing\"..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57906",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "Dear Duncan, my affection is as towards a closest friend. Alice and I depend on you and respect you immensely... I wish they did, but my feelings don't go beyond that. Do you see?"
+      },
+      {
+        "speaker": "HEYWARD",
+        "text": "Isn't respect and friendship, a reasonable basis for a man and woman to be joined? And all else may grow in time...?"
+      },
+      {
+        "speaker": "CORA",
+        "text": "Some say that's the way of it."
+      },
+      {
+        "speaker": "HEYWARD",
+        "text": "\"Some\"?"
+      },
+      {
+        "speaker": "CORA",
+        "text": "Cousin Eugenie, my father, but..."
+      },
+      {
+        "speaker": "HEYWARD",
+        "text": "Cora, in my heart, I know once we're joined, we'll be the happiest couple in England. Let those whom you trust, your father, help settle what's best for you. In view of your indecision, why not rely on their advice and judgment as well as mine?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57907",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HEYWARD",
+        "text": "Will you consider that?"
+      },
+      {
+        "speaker": "CORA",
+        "text": "Yes. Yes, I will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57908",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "My God, Alice."
+      },
+      {
+        "speaker": "HEYWARD",
+        "text": "It can be dangerous..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57909",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HEYWARD",
+        "text": "One called Magua arrived."
+      },
+      {
+        "speaker": "CORA",
+        "text": "He delivered no such message."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57910",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HEYWARD",
+        "text": "Cora, I adore you and, when we come together, we will be the happiest couple in England...  I am certain of that. More than ever before.  I believe you must trust the judgment of others who hold your welfare so close to their hearts..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "Duncan...  Duncan, I promised you an answer. You have complimented me with your persistence and patience... But the decision I've come to is I'd rather make the gravest of mistakes than surrender my own judgment."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57911",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "HEYWARD",
+        "text": "I see..."
+      },
+      {
+        "speaker": "CORA",
+        "text": "I am sorry, Duncan..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_57912",
+    "movie_id": "m420",
+    "turns": [
+      {
+        "speaker": "CORA",
+        "text": "beyond the periphery of men, staring at him."
+      },
+      {
+        "speaker": "HEYWARD",
+        "text": "Munro is expecting him to be the good soldier in defense of British military interests."
+      }
+    ]
+  }
+]

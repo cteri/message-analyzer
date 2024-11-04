@@ -1,0 +1,1922 @@
+[
+  {
+    "conversation_id": "conv_59113",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Anne...!  I know... I know that to love you is treason against France. But not to love you... is treason against my heart."
+      },
+      {
+        "speaker": "ANNE",
+        "text": "Then we will both die traitors, d'Artagnan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59114",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "My Queen..."
+      },
+      {
+        "speaker": "ANNE",
+        "text": "D'Artagnan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59115",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I have never seen a sight more beautiful than you, tonight."
+      },
+      {
+        "speaker": "ANNE",
+        "text": "We have much to discuss.  Tomorrow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59116",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "There were two.  Not one.  But two."
+      },
+      {
+        "speaker": "ANNE",
+        "text": "I couldn't tell you.  You had enough to carry."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Anne... The night we had together... I always wanted more.  But that one, it was enough.  Enough to make me love you forever.  I want you to remember that... and go on.  As strong as you are now.  No matter what happens."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59117",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "LOUIS",
+        "text": "Mother -- ?"
+      },
+      {
+        "speaker": "ANNE",
+        "text": "May I speak with you?  Alone?"
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "I am preparing for a ball!"
+      },
+      {
+        "speaker": "ANNE",
+        "text": "We haven't visited in three years. And we should have privacy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59118",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "LOUIS",
+        "text": "What is it, mother?"
+      },
+      {
+        "speaker": "ANNE",
+        "text": "I wish to discuss your brother."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "He is dead!  By God's choice!  There is nothing to discuss."
+      },
+      {
+        "speaker": "ANNE",
+        "text": "First they told me he had died at birth.  Then your father admitted he was alive, but well cared for, in secret.  But the message that told of his death said he had been a prisoner."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "I am King, Mother!  And I do not wish to discuss this with you."
+      },
+      {
+        "speaker": "ANNE",
+        "text": "He was my blood -- and I demand to know what happened to him."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "Why would you ask now?  You never asked before!"
+      },
+      {
+        "speaker": "ANNE",
+        "text": "Because I have dreamed of him.  Not as the baby they took away, but as a man."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "You have prayed too much.  Your mind is weak."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59119",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "LOUIS",
+        "text": "It -- it doesn't matter, Mother!  He is dead now!  Dead!"
+      },
+      {
+        "speaker": "ANNE",
+        "text": "Yes.  Dead.  Two nights ago.  The night of my dream."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59120",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ANNE",
+        "text": "Louis, please -- !"
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "My guards are useless!  Take her from me!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59121",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "LOUIS",
+        "text": "What had you to do with this, Mother?"
+      },
+      {
+        "speaker": "ANNE",
+        "text": "He is your brother!"
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "He is nothing now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59122",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "LOUIS",
+        "text": "D'Artagnan, you will hunt down Aramis, Porthos and Athos, and bring me their heads, or I will have yours.  And as for you, Phillippe... Back to the prison you shall go, and into the mask you hate."
+      },
+      {
+        "speaker": "ANNE",
+        "text": "No, Louis!  No!"
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "Wear it until you love it.  And die in it!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59123",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Your birthday celebration, your Majesty?"
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "Next week.  This is a mere garden party -- and I wish to join it, so I will be brief.  I am experiencing resistance from the Jesuits."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Well... perhaps you should speak with them, your Majesty."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "I have demanded it -- and common priests present themselves!  Can you imagine the arrogance?  Common Jesuit priests try to act as my equals, and they refuse to reveal the names of anyone else in their order!  No one can keep secrets like the Jesuits can, and the identity of their leader is the darkest secret they hold.  Even the Pope himself does not know who leads the Jesuit Order in France!  He suspects the Governor General of Jesuits, whoever he is, is angling to become Pope himself."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "How can I serve you in this?"
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "Perhaps you can find out who this secret leader of the Jesuits is. You are now a priest, but you were once a Musketeer, serving the throne of France, a throne ordained of God. Can you accept this mission, and keep it private?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "If I find out the identity of this Jesuit rebel.  I will kill both him and the man who told me."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "Once a Musketeer, always a Musketeer, eh?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59124",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Your Majesty..."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "How goes that favor I asked of you?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "I grow closer to my target, your Majesty."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "You bring me the heart of the Jesuit General, and you will have a palace of your own."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59125",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "LOUIS",
+        "text": "Wh-- Wha--"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Don't look so shocked, Phillippe. Come, you're going back to prison."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "Phillippe?!  Why do you call me --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59126",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "LOUIS",
+        "text": "D'Artagnan, arrest them all!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Shut up, knave!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59127",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "And some problems cannot be settled without one."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Well here is the problem at hand: the King has ordered me to discover the identity of the Governor General of Jesuits, and kill him.  As our English rivals have left the Catholic Church, Louis has struck on a plan to dominate the whole of Europe by uniting Church and State and making himself head of both.  He has already picked the Pope.  Only the Jesuits, who put God above throne or papacy, stand in his way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59128",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "What do you propose to do?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Replace the king."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59129",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "It can.  I know the way."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "I am with you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59130",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "What are they doing?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Making the key to the throne."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59131",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Porthos sleeps, and you plot.  Don't you think it's time you told me what it is you are plotting?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Soon enough.  Here we are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59132",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "The Prison of Belle Sur."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Come, we have a boat waiting."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59133",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "What is that?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "A body."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "I see that is a body!  But where did you get it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59134",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Prison was horrible but it was his home.  He's been torn from it by strangers.  He's frightened, exhausted -- and the mask is familiar.  Let him rest in it tonight, and remove it tomorrow."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Excellent, Athos.  You have a keen sense of this man."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "His plight is obvious, isn't it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59135",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Who is he, Aramis?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Tomorrow."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Tonight!  Right now!  We steal a man from a royal prison, we hide in a country chateau among an assortment of saints and sluts such as only you could provide, and still you wish to tell me nothing?!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "You seek facts, when it would be better to seek truth."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "You are not my priest, Aramis!  You would not be, even if I had one."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "You are bitter, Athos.  You are torn by grief, not only for Raoul, but for d'Artagnan, whom you love, and now treat as an enemy."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "He who is not with us is against us."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Those are the words of a broken spirit.  My spirit is whole.  I have trusted d'Artagnan with my deepest secrets, and I will never believe he is my enemy."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Then you are a fool -- a fool who has never lost a son.  What gives you the right to judge me, to play God with the lives of others?  Is it because you are so much holier than everyone else?!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "There is that, of course -- but mainly it is because I am so much smarter than everyone else."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59136",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Switch?!  That is your plan?  It is ludicrous!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "I have it all worked out."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Physical resemblance is but one small thing!  Louis has an arrogance, a manner --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Those can be adopted --"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "And people close to him, who --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Do you think I have not considered that?  I have a plan -- and you may rest assured that it is brilliant!"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "It is not just our lives you risk with this conceit of yours!  It is Phillippe's as well!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Yes, and he has a choice!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59137",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "How is he?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Resting, he's had a long day. Aramis --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "More wine!!"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "You must reconsider this plan. Phillippe is like a child, he --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "You can do it."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "In a year, maybe two, I could teach him enough to --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Three days."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Three days??!!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "The King is having a ball, a masquerade ball.  It is the perfect opportunity and perhaps our only one.  At any time Phillippe could be discovered, and what then?  Remember France.  Remember the poor. Remember Raoul.  More wine!!  Where are those serving girls...?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59138",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Phillippe -- he's very bright, he's perceptive, but he is in such turmoil --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "You grow fond of him.  That's good."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Don't play God with me, Aramis I --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59139",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Go on."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "But -- what is Porthos doing?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Going into the barn naked -- or so it appears."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59140",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Now.  You were saying?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "But -- what is he doing?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "About to hang himself, I should think."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59141",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Hang himself?!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "He's threatened to do it, it's been building up in him for months."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "We must stop him!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Come now, Athos, if Porthos is determined to end his life, then he will certainly manage to find the opportunity."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "But -- but --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59142",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Poor Phillippe!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "The mask is terrifying... especially when unexpected.  Do you notice?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "All I noticed was that Phillippe feels even more like an animal."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59143",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Where are you going?!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Paris.  There is still much to do. We'll be back soon.  Be ready."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "But Aramis -- !  Phillippe can learn in time, but --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "He can learn to be Phillippe in time.  But first he must learn to be Louis, and for that he has two more days."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "What you're asking is impossible!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "I offer you the perfect revolution. A revolution without bloodshed, without any loss of life, even without treason, for he too is the son of the King."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "But --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "You said you'd do anything, Athos, anything to replace this King.  So do it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59144",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Aramis, this will never --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Louis is planning a visit to the Vatican, then who knows where after that.  If we miss him now we may not get another chance."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "But --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "It presses us but it is good for us too!  Louis' whims make him more vulnerable.  We are less ready, but so are his guards!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59145",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Remember, Phillippe... nobility is born in the heart."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Hold your goblet with two fingers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59146",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Bloody hell..."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "We can't... stay here.  That traitor d'Artagnan... knows about this place."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59147",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "He seeks redemption."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "You're a fool!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Perhaps.  But of d'Artagnan I am certain.  What he did tonight was what he told us all along he would do -- be faithful to his King."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "So what has changed?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Perhaps he serves a different king."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59148",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Then to the Bastille."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "To the Bastille.  And death."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59149",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "A simple theological discussion."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Aramis -- the King wishes to see you."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Still you serve him loyally -- though people hurl rotten eggs at his royal emblem."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59150",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Look at us.  We are old men now.  But once we were young.  And when we saw injustice, we fought it."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "We have grown wiser with age.  Now we know that some problems cannot be settled with a sword."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59151",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "No!  Stop --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "I will need you all.  All for one. One for all."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "You -- You cannot ask me to betray my king!  I have sworn to him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59152",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "I have heard many confessions, d'Artagnan.  But even if I were not a priest, I could tell your heart has a secret weight, and it is hurting you to carry it alone."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "The secret I carry I cannot share. Not even with God."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59153",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I cannot betray Louis.  I will defend him with my life."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "I know.  God go with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59154",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Pull them back, d'Artagnan."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "You can't do it."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Pull them back!"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Everyone back."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Phillippe, get into the boat.  Into the boat!  Now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59155",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Once you are through, don't stop until you reach the river."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "They will know you helped us, if we go this way."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "That doesn't matter now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59156",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "D'Artagnan... Those are young Musketeers down there.  They have been weaned on our legends.  They revere us -- it is an advantage. Why don't we charge them?"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I trained those men myself.  They will stand and fight.  But if we are to die, let it be this way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59157",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "Please revel with me, Aramis, I need my spirits lifted.  I'm old, I'm weak, my strength is gone --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Be quiet, you fat fool.  Can't you see I'm praying?"
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "I just said you're praying!  Are you deaf too?  I know you're blind, because if you had seen the tits that just walked out of here, you'd have tears in your eyes."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "There are more important things than tits."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "Really?  If you can name me one thing, one single thing, that is more sublime than the feel of a plump pink nipple between my lips, I will buy you a new cathedral."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59158",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Forgiveness."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "Forgiveness?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59159",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "I observe your forgiveness isn't sweeter than a plump nipple."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Can't you see I'm praying, goddammit?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59160",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "Aramis... is this the way to hell?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Hell may be our destination, dear Porthos, but not this trip."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59161",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "Where are we?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Jesus of Nazareth found the holy among the profane.  If we are to have a place of private prayer, where better than here, beside the channels where the shit and the garbage run to the river?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59162",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "Mother of God!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "It is also a place of burial."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "A tomb?  We're in a tomb?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Catacombs.  Very holy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59163",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "But -- doesn't God ordain both Pope and King?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "So they tell us.  But what are we to believe when the king is a tyrant, and the Church, meant to stand for all those oppressed, has become the tool of oppression?  When no conscience is tolerated?  No dissent, no objection?"
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "It is a weighty problem, Aramis -- but perhaps you should leave it to this secret General of the Jesuits, whoever he might be."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Easy to say, but hard to do.  For what I am trying to tell you is that I am the Governor General of Jesuits in France."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59164",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "And why are you so glum?"
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "I expected action.  There was no killing, no fighting, I was useless."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59165",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "Aramis!  Athos!  He looks exactly like... exactly like..."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "I will answer all your questions. But first soap, water, and a razor."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59166",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "The greatest secret of life is who we truly are.  Now I must give you that secret, which has been kept from you your whole life.  It began on the night when Louis was born."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "I remember that night.  D'Artagnan was drunk, the only time I've seen him that way.  The three of us were reveling, remember, Athos?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "But I was on duty..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59167",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "I don't understand.  What does this have to do with...?  You carried a baby somewhere, it's unusual, but --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Not just a baby, Porthos.  I carried the child of the king."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "The child of the king is... the king.  Louis!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "No, not Louis!"
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "Athos, do you understand this?  He confuses me --"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "I carried the king's child!  The queen had twins that night, and one of them was sent away, in secret!"
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "But why?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Because the old king had a twin as well, and through his whole reign his brother fought him for the throne.  Then he had two heirs, not just sons but twins.  So he decided that one be put away, as if he never existed.  You, Phillippe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59168",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "You've been moping for months.  Now that you've gotten the idea of killing yourself out of the way, you can stop boring me and start being useful to me.  Now get some rest."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "Well... Well... Okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59169",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "Coming?"
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "What use am I?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "We go someplace dangerous."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "Why didn't you say so?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59170",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "Let's see you rob somebody with your pistol there!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Come on..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59171",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "Aramis... These are... these are whores!"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "So was Mary Magdalene, and our Lord loved her."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "Did she have tits like that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59172",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "He's going to kill you, Aramis."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Then let him kill me, if all my faith is wrong."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59173",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "But what if something extraordinary happened?  Something so unusual that all the attention went to someone else?  Someone whose confirmation of Phillippe the King would never be questioned."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "Who?"
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "The Queen Mother.  Anne."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59174",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "D'Artagnan watches everything.  We have to be lucky."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "We will make our own luck tonight... if Phillippe holds up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59175",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "Can we eat... before we go?  This excitement's given me an appetite."
+      },
+      {
+        "speaker": "ARAMIS",
+        "text": "Bread and wine... in that cupboard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59176",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ARAMIS",
+        "text": "D'Artagnan.  Perhaps you should accept his offer, for we are dead anyway."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "He is right, d'Artagnan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59177",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "He gets one day of confession each year.  Today is the day."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Who does?"
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "Best not to ask.  Shouldn't even talk about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59178",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "What do we do now?"
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "I don't know about you, but I plan to wait here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59179",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "D'Artagnan, unready?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "At a ball, everyone watches the King!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59180",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "\"Phillippe has been removed to the Bastille, to the lower dungeon.  At midnight tonight I will order the guard changed, and will delay the replacements for ten minutes.  That should give you ample time.  Never have I needed more to say:  One for all, and all for one.  D'Artagnan.\""
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "He lures us to capture."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59181",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "What choice is there?  If Phillippe is in the Bastille, then to the Bastille we will go."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "You are right.  But it is a trap."
+      },
+      {
+        "speaker": "PORTHOS",
+        "text": "So what?  I'd rather die covered in blood, than an old man, lying in my own piss."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59182",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PORTHOS",
+        "text": "It worked!"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "It's a prison, you idiot!  They don't expect anyone to try getting in!  The problem will come when we want out!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59183",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "RAOUL",
+        "text": "Do I look all right?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "None of the ladies will be able to take their eyes off you."
+      },
+      {
+        "speaker": "RAOUL",
+        "text": "I care only about Michelle.  Should I ask her when we first arrive? Or... or when we're leaving?  I could ask her in the carriage -- but it is more romantic at the palace. I get so confused..."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Perhaps this will help."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59184",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "RAOUL",
+        "text": "Mother's ring.  I can't take this."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "She died giving you to me.  And I want to die knowing it is one the finger of the women my son loves."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59185",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "That must be Raoul!  Raoul!  Look, d'Artagnan's come to visit...! What's wrong?  You look awful!"
+      },
+      {
+        "speaker": "RAOUL",
+        "text": "Michelle, she -- The king has invited her to come live in the palace."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59186",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "But -- are you sure?"
+      },
+      {
+        "speaker": "RAOUL",
+        "text": "We were at her door.  I was just taking the ring from my pocket, for the third time today, when a young Musketeer brought the invitation for her to become a lady-in-waiting for the Queen Mother."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Michelle cannot possibly accept!"
+      },
+      {
+        "speaker": "RAOUL",
+        "text": "She cannot possibly refuse.  Her family is poor, they have even less money than we do.  And along with the invitation, the King sent the diamond pendant, from the piglet."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Piglet -- ?  What are you -- ?"
+      },
+      {
+        "speaker": "RAOUL",
+        "text": "Never mind, Papa, it doesn't matter now.  She loved me once.  I want to die remembering that."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Die?  What...?"
+      },
+      {
+        "speaker": "RAOUL",
+        "text": "I have rejoined the army, and asked to resume my commission at the head of the troops of General Fromberge."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Fromberge...?!  At the front?!  No."
+      },
+      {
+        "speaker": "RAOUL",
+        "text": "It is already done.  I have just stopped at Mother's grave, to say goodbye, before coming to tell you."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Raoul, no... You cannot do this.  No matter how your heart is broken --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59187",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "RAOUL",
+        "text": "Goodbye, father.  I am sorry."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Raoul --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59188",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "D'Artagnan!"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Athos, my friend!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59189",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "It's been too long."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Life is too long.  Except when we have our friends.  Look at you! You're still a boy!  Sit, sit!  I'll open a bottle of wine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59190",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Thanks, but not for me."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "You can't drink with a friend you haven't seen in months?"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I have ordered a drill of the Royal Guard for midnight, and must be clear-headed for it."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Midnight!  Mon dieu!  Driving the youngsters hard, eh?"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "They must stay sharp.  There was an attempt on the King's life today."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Another?  How many times have you saved his life in this year alone? Three?  Four?"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I heard your playing."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "I was feeling sorry for myself. Raoul is getting married, he proposed today!  I love that boy beyond all measure, I've spent everything I own to give him education and opportunity.  Now he has complete happiness, and I mope."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59191",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "This cannot be.  Everyone knows the Queen Mother is a recluse, and the ladies-in-waiting are but mistresses for the king!"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "If the young woman truly loves Raoul --"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "She's a woman, d'Artagnan!  From a poor family.  You may still be young enough to believe love conquers everything, but I am old and hard and I've seen too much.  Even when kings are hunchbacks they have any woman they desire, because power seduces even more than love!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59192",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "You knew this was happening.  You knew and that's why you came."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I fear I know our King.  I came to try to bring you hope."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "What hope is there?  A wartime commission cannot be vacated except by the king, and what chance is there of that?  Fromberge is on the battle line, and Raoul --"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I have dispatches a message to Fromberge requesting that Raoul be kept far from the fighting."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Raoul is everything to me."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I know."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Oh my friend."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59193",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I will also speak with the King, for he is surely unaware of the problems his invitation to Mademoiselle Beaufort has caused."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "You trust his character more than anyone else does."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Raoul is hurrying to the front, so I must hurry too."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Save my son, d'Artagnan."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59194",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Athos, please...!"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Get out of my way."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Athos, I beg you --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59195",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "To kill the king."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59196",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Athos!  I know life means nothing to you at this moment, but I will not let you kill yourself."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "The King killed my son!"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "The cannons killed Raoul!  The cannons, and love.  But not the King."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59197",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "It is honor you serve, and when the king is dishonorable you are removed from your oath of honor!"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "An oath is an oath precisely because it cannot be removed!"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Why do you follow him, d'Artagnan?! I know you have put service above your own life, but why does this King deserve such loyalty?  He is a monster!  He executes ministers for his own blunders, with their families hostage so they take the blame!  He has no honor!"
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "No man is all bad... or all good.  I believe -- I must believe -- that Louis can learn.  And perhaps I can help him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59198",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "If you ever loved me -- if you ever loved honor, or anything else -- then stand now, and let it happen."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I cannot, Athos.  Dearly as I love you, I cannot."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59199",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "He lies.  He is here to trap us."
+      },
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "I came to see you safely out.  Check for yourself."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59200",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Recent hours have been a shock."
+      },
+      {
+        "speaker": "PHILLIPPE",
+        "text": "Perhaps not as much as you might imagine.  When tutors answered every question except those about who I was.  When I was imprisoned in a way no other man had ever been, I knew there was something different about me.  But a king..."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Phillippe... there is something I hope you understand.  Terrible cruelty has been used against you. And... you must understand that you did nothing to deserve it."
+      },
+      {
+        "speaker": "PHILLIPPE",
+        "text": "There is... wrath... in me.  I have learned to hide it.  Those years in the cell, I dreamed that freedom would someday just happen, the way the mask happened.  Now I am free. And with each free breath I feel the growing desire to make someone suffer for all I lost.  Look at this, all this that for ten years I could not see!  What if I become a king -- a king no different from my brother?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "The desire for vengeance... can be a poison."
+      },
+      {
+        "speaker": "PHILLIPPE",
+        "text": "What is its antidote?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "I suppose... it is to remember there are many people who have never been in a prison, who pass such beauty every day, and never see it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59201",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PHILLIPPE",
+        "text": "You look so sad.  Is it something I have done?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "It is something I have done -- or did not do."
+      },
+      {
+        "speaker": "PHILLIPPE",
+        "text": "What is that?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "I did not share beauty with someone... who is no longer here for me to share beauty with."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59202",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PHILLIPPE",
+        "text": "I've worn this mask so long, I couldn't sleep without it."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "I will sit with you.  I can't sleep either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59203",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PHILLIPPE",
+        "text": "I am so sorry!  Forgive me, I --"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "No!  Do not be sorry!  Never be sorry!  The King cares for nothing and for no one!  There are no mistakes when you are King!  What you do is right for every person!  A King has contempt for everyone!"
+      },
+      {
+        "speaker": "PHILLIPPE",
+        "text": "Is that the king of king you wish me to be?  Or do you say this because of your son?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "How did you know -- ?"
+      },
+      {
+        "speaker": "PHILLIPPE",
+        "text": "Porthos told me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59204",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "These rooms are yours.  Up these stairs -- or through this hidden passage -- is the room of your mistress... Michelle."
+      },
+      {
+        "speaker": "PHILLIPPE",
+        "text": "Whose rooms are those?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Your mother's."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59205",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PHILLIPPE",
+        "text": "The room of the King's favorite mistress?"
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "She will be at the ball."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59206",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Phillippe...?"
+      },
+      {
+        "speaker": "PHILLIPPE",
+        "text": "How did you --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59207",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "One for all.  All for one."
+      },
+      {
+        "speaker": "PHILLIPPE",
+        "text": "If I could have a blade, then I would be please to run with you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59208",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "PHILLIPPE",
+        "text": "All this time... I was a lost secret.  But you were hiding all your loyalty, all your love.  You were the Man in the Iron Mask."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "D'Artagnan..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59209",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "ATHOS",
+        "text": "Are you hungry?"
+      },
+      {
+        "speaker": "MAN IN THE IRON MASK",
+        "text": "Just... water."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59210",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "MAN IN THE IRON MASK",
+        "text": "This place... I once lived in a country house.  I had guardians -- an old man and woman.  And tutors. But no friends.  Then when I was twelve, they came and took me to the prison."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Who came?"
+      },
+      {
+        "speaker": "MAN IN THE IRON MASK",
+        "text": "A man in black.  I never saw his face.  He took me to the cell.  A blacksmith came and they put me into the mask.  For days I shouted, \"What have I done?  Why do you do this to me?\"  But no one heard, so I just stopped shouting."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "And you never knew why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59211",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "MAN IN THE IRON MASK",
+        "text": "The old man and woman called me... Phillippe."
+      },
+      {
+        "speaker": "ATHOS",
+        "text": "Phillippe.  Rest now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_59212",
+    "movie_id": "m429",
+    "turns": [
+      {
+        "speaker": "D'ARTAGNAN",
+        "text": "Your Majesty..."
+      },
+      {
+        "speaker": "LOUIS",
+        "text": "What is it, d'Artagnan?  Assassins falling from the sky now?"
+      }
+    ]
+  }
+]

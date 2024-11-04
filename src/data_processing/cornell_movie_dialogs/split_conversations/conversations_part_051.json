@@ -1,0 +1,1838 @@
+[
+  {
+    "conversation_id": "conv_5001",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "You little fuck. Let him go. I'll drop you right here."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Okay, just calm down. He could hurt us, brother. He could ruin the whole thing."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Let him go or I will deliver you, right now."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "You won't do it Connor, you won't. You love me man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5002",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "You guys?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "We're here brother."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "You gotta keep going."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5003",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Hello."
+      },
+      {
+        "speaker": "MOM",
+        "text": "Connor, is that you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5004",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Mother, is that you?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "Is that worthless brother of your there? I want you both ta hear this."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Ma, what's wrong?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5005",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "It's all your fault. Both you little bastards. I was a fool to believe you would bring me any peace. The day your Da left us when you were almost too young to remember, he said the two of you would do me right and make me proud, but he was wrong and I got nothin' ta live for."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Mother, what are you sayin'? You're talkin' crazy here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5006",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "I finally found your Da's army revolver, Connor."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "What the hell are you doin' with Da's gun!?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5007",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "What?! What are you doin'?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "I want ta tell ya one last thing before I pull the trigger."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Pull the trigger?! Have ya lost it woman?! Now just calm down here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5008",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "No ma! No!"
+      },
+      {
+        "speaker": "MOM",
+        "text": "BLAME..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5009",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "How's Uncle Sibeal?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "Well, you know how it is with him. Always complainin' he's never turnin' a profit on St. Patty's. Whole damn family goes down there with no money, cause we know he can't bear ta charge us."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5010",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Well, we tried ta make friends and she gave me a shot ta the nuts."
+      },
+      {
+        "speaker": "MOM",
+        "text": "What... the dirty bitch! I hope ya trounced her a good one!"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Well, I didn't but..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5011",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Yeah, we promise."
+      },
+      {
+        "speaker": "MOM",
+        "text": "Well, there's my boys.  Shit. I gotta go. Looks like I caused a ruckus with that shot. Half the damn neighborhood is comin'."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5012",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "Still bickerin' over that, huh?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Come on, ma. Out with it. Who came out first?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "All right, I suppose you have the right ta know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5013",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "You guys are not under oath, here. I am assuming you knew these two guys from before, huh?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "We... met them last night."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "They had some pretty interesting bandages. Know anything about that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5014",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "So, how is it that you guys are fluent in Russian?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "We paid attention in school."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Know any other languages?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5015",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "Well, we could try the bag over the head thing. Walk you right out the front."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Our mother can see through bags."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5016",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Well, the light caught the side of his face for a second. And it looked like he had a gray beard, maybe... late fifties, early sixties."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "So you're telling me it was one guy with six guns? A-and he was a senior fucking citizen?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "I think it's better if we find this man before he finds us again."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "I'll see what I can do. How do I get in touch with you?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "We're going to hit Poppa Joe tonight, right in the comfort of his own home. Then we move on to New York. It's getting a bit hot for us here."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Be careful."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "I'll call you tonight, afterwards."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5017",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "We're alive."
+      },
+      {
+        "speaker": "DOC",
+        "text": "An F.B.I. agent came by the bar. He left me his c-c, he left me his c-c, he left me this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5018",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "DOC",
+        "text": "What are you going to do?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "We're going to turn ourselves in. It was self defense."
+      },
+      {
+        "speaker": "DOC",
+        "text": "y-y-yeah that's what he said."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5019",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Hold this shit for us, Doc. We'll be comin back for it when we get out."
+      },
+      {
+        "speaker": "DOC",
+        "text": "Right."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5020",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Would someone please come over here and..."
+      },
+      {
+        "speaker": "DOC",
+        "text": "Fuck!"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "me up the..."
+      },
+      {
+        "speaker": "DOC",
+        "text": "Ass!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5021",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "I do believe the Monsignor finally got a point."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Aye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5022",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Hey Murphy?"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Aye."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "How many feminists does it take to screw in a light bulb?"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "How many?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Two. One ta screw it in and one ta suck my cock."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5023",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "No fuckin' hot water man. That..."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Shut it. It's Ma."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5024",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Aaaww, shit!... evil woman!"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Lord have mercy. That was a good one ma."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5025",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Oh, Jesus."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "I gave him his first lesson in sensitivity toward the fairer sex just today."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Don't even do it, ya bastard."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "He got beat up by a girl."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "If that was a girl I want ta see some papers. She had ta be just preoperative for Christ sakes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5026",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "All right, love ya ma. Listen, before ya go just give us the goods, eh?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Yeah. It's been twenty-seven years."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5027",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "\"What do we tell him about the guns and money?\""
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "\"We just got up and left. Bum musta rolled them before the police got there.\""
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Okay. We're ready."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5028",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "A p-penny saved is worth two in the bush."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Don't c-cross the road if ya can't get out of the kitchen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5029",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Listen fellas, Y'know he's got 'til this week's end. Ya don't have ta be hard asses, do ya?"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Yeah, it's St. Patty's day. Everyone's Irish tonight. Now, why don't ya pull up a stool and have a drink with us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5030",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "\"Now, that wasn't too polite, was it?\""
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "\"I'm afraid we can't let that one go, Ivan.\""
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5031",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "How do you think he figured all this out without talking to us?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Italian."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5032",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "I have no idea. Maybe someone saw and talked."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "German.  Not in our neighborhood, man. A hundred percent Irish. No one talks to cops. Period."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Spanish.  Then I guess he's just real... real good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5033",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Absolutely not."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "No pictures, either."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5034",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Destroy all that which is evil..."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "...so that which is good may flourish"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5035",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Know what we need, man?... some rope."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "For what?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Charlie Bronson's always got rope."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "What?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Yeah, these guys always got a lot of rope strapped around em in the movies and they always end up using it."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Oh, you've lost it, haven't ya?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "I'm serious."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Me too. That's stupid. Name one thing we're gonna need it for."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "I don't know they just always need it."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "What is all this \"they\" shit? This ain't a movie."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5036",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Is that right, Rambo?"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "All right, get the stupid fuckin' rope."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5037",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Nervous?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "A bit."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Me, too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5038",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "See. I told you there'd be a shaft."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Just like on TV."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5039",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Where the fuck are you going?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "We'll find it. Just calm down."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "No, fuck you. This rope is bullshit. I'm sweatin' my ass off draggin' this stupid thing around. Must weigh 30 pounds."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5040",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "We're doing some serious shit here. Now, get a hold of yourself, asshole."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Asshole!? I'm not the rope-totin' Charlie Bronson wanna-be that's getting' us lost!"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Sh, sh! Fuck you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5041",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "That was way easier than I thought."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Aye."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "On TV ya always get that asshole that jumps behind the couch."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Yeah, and ya gotta shoot at him for ten minutes."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Oh, we're good man."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Yes, we are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5042",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Nine bodies."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Oh, you're good. What were you gonna do? Laugh the last three to death, funny man?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5043",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Mafiosos getting caught with 20 kilos and walkin' on bail the same day."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Little girls catchin' stray bullets in their heads, playin' hopscotch in their front yards. And everyone thinks the same thing... Someone should just go kill those motherfuckers."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Kill em all. Admit it, even you've thought about it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5044",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Where are you goin'?  Did you tell him?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Yes."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Then what the fuck?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5045",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Who did you kill?"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Holy shit. Who? How many?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5046",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "So what do you think?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "I'm strangely comfortable with it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5047",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "We've teamed up with a sex offender."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "So, when are you getting a plastic fuck doll?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5048",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Give the guy a shot."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Rocco, this is the real deal. We must kill without hesitation, without guilt or remorse. Evil man, dead man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5049",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "There he goes.  Okay, gentlemen. Are we ready to bring this man into the light? Are we ready to truly do the work of the Lord?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "A-fuckin'-men!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5050",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "That's the guy that got us off the hook with the \"Checkov\" thing."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "And he is one smart man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5051",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "He isn't to be touched."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "He's a good man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5052",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Now, you will receive us."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "We do not ask for your poor or your hungry."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "We do not want your tired and sick."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "It is your corrupt we claim."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "It is your evil, who will be sought by us."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "With every breath we shall hunt them down."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Each day we will spill their blood till it rains down from the skies."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Do not kill, do not rape, do not steal. These are principles which every man of every faith can embrace."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "These are not polite suggestions. They are codes of behavior and those that ignore them will pay the dearest cost."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "There are varying degrees of evil. We urge you lesser forms of filth  Not to push the bounds and cross over into true corruption... into our domain."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "For if you do, there will come the day when you look behind you and see we three. And on that day you will reap it."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "And we will send you to whatever God you wish."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5053",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROZ",
+        "text": "I prefer to be called Rozengurtle by men."
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Okay then... let's get ya started."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5054",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "CONNOR",
+        "text": "Okay, just cut off as much fat as you can as it goes by and the rule of thumb here is..."
+      },
+      {
+        "speaker": "ROZ",
+        "text": "Rule of thumb?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "ROZ",
+        "text": "Do you know where that term comes from? In the early 1900's it was legal for men to beat their wives as long as they used a stick no wider than their thumb."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5055",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROZ",
+        "text": "I knew you two pricks would give me problems. Give me shit cause I'm a woman. I'm not gonna take your male dominance bullshit!"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Oh, come on now Rozengurtle. I was just tryin' ta get a rise outta ya."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5056",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROZ",
+        "text": "Baumgartner sound Irish to you, fuck face?"
+      },
+      {
+        "speaker": "CONNOR",
+        "text": "Now look Rozengurtle, we're sorry. Just relax."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5057",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "DOLLY",
+        "text": "Holy shit. You're the first one that's ever got that."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Yeah, well... I'm an expert in name- ology."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5058",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "And number three, Dolly."
+      },
+      {
+        "speaker": "DOLLY",
+        "text": "Uh... two shooters!"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Fan-fuckin-tastic!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5059",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "DOLLY",
+        "text": "So, what do we do now?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "That depends. You either do your job or get ethical."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5060",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "DOLLY",
+        "text": "She was in here when it went down."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Can she I.D. them?"
+      },
+      {
+        "speaker": "DOLLY",
+        "text": "They were wearing masks."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Of course they were. How many?"
+      },
+      {
+        "speaker": "DOLLY",
+        "text": "Three."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5061",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "DOLLY",
+        "text": "Only two did the shooting.  So what are you thinking, Russian retaliation?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Nah, too quick half their infrastructure got taken out at the Copley plaza. Besides, if you're a hitter, you're either working for the Russians or the Italians. There's no riding the fence. Our little theory from last night just got blown to shit. Something... new is going on here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5062",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "DOLLY",
+        "text": "Maybe the three of them had something in common."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "No. This guy is big time.  These two are street-walking scum."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5063",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "And it's the same story over here. Why the crossover?  Theories."
+      },
+      {
+        "speaker": "DOLLY",
+        "text": "That's just fucking weird. I have no idea."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5064",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "The shooter knew these guys, huh?"
+      },
+      {
+        "speaker": "DOLLY",
+        "text": "How do you figure?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Friends, Gentlemen. They were friends."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5065",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "No! Fuck you! You start getting excited! We gotta fucking go!"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Rocco!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5066",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "What?"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Where's my cat?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "I killed your fuckin' cat, you druggie bitch!"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "You... oh god, why?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "I felt it would bring closure to our relationship!"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "You killed my... my..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5067",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Your what?! Your fuckin' what?!"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "My, my..."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Your what, bitch? I'll shoot myself in the head, you can tell me that cats name! Go ahead... Your what? Your precious little..."
+      },
+      {
+        "speaker": "DONNA",
+        "text": "Pee...Per...Man."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Peeperman? WRONG? What color was it?!!!"
+      },
+      {
+        "speaker": "DONNA",
+        "text": "It was... It was..."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Male or female, bitch?!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5068",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "DUFFY",
+        "text": "So what are you thinkin' here?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Really want to know?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5069",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "So Duffy, got any theories to go with that... tie."
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "These guys were pros. I think they were coming for one target, the fag man, he was the..."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "The what man?"
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "The fat man."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Well, Freud was right. So you think they came for the fag man, huh? And what do you base this upon?"
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "He was the only one done right. Two in the back of the head."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "And the pennies?"
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "New hitman wants to leave his mark"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "That's a possibility. Y'know you Boston cops are perking up. That's two sound theories in one day, neither of which deal with abnormally sized men.  Another possibility is that they were placed there with religious intent."
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "Yeah. Some cultures still put pennies in the eyes of the dead, or silver."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "The Greeks. The Italians."
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "The Sicilians."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5070",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "The two bullets went in here, through the top of the skull, criss-crossed and exited through the eyeballs. This one clue tells us three distinct facts. Number one... Duffy."
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "They shot him at a downward angle.  They put him on his knees."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Excellent! Number two. Greenly."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5071",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "Now stay with me, boys. What did they do to make two such identical wounds? Did one guy put him on his knees, pop a cap in, sit him back up and shoot him again the same way? No. Two men of similar height dropped this guy down, each put some iron to his head and boom! That's all she fuckin' wrote!"
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "What about one guy with two guns?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Possible, but unlikely. The angles are too extreme. A guy holding two guns to the back of your head is gonna shoot straight ahead. He wouldn't cock out his elbows, makes no sense. Besides, you telling me one guy came in here and killed eight men with eight extremely well aimed shots in just a few seconds? No way. Had to be at least two."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5072",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "Now, what is this going to look like to those who do not know what I just told you?"
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "It's gonna look like the bad guys are killing each other."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "And is there an American, shit is there a man seated among us that hasn't thought about it many times, let's just put them all on an island, give them guns and let them kill each other. This is our wet dream come true. You can expect federal and local law enforcement to go only deep enough to satisfy the law, then bury it from here on out."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5073",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "Allow me to enlighten you gentlemen to the protocol of the porno industry, as I'm sure you've never been in one of these places before. A man goes into the booth, puts the money in the slot. The dancer gets it on the other side. She hits the button, door goes up, now there is only glass between you and it's  little fireman time."
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "No way they could have seen it?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Those doors were down... which means this. They looked down in through the peep hole, saw these guys and opened the doors from the inside. Pop, pop, pop, right through the glass. Why?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5074",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "DUFFY",
+        "text": "Jesus. I just can't think anymore. That scene over at the coffee shop today tapped me out."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "What?"
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "A guy went nuts over off of Commonwealth today. Shot three guys to death in a coffee shop in broad daylight. Fled the scene. Don't have much on him."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Why was I not informed of this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5075",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "These two fucking scenes are related. Too many coincidences. Same day? Five hours apart? Dead mobsters on both scenes. Now, why did he kill the bartender?"
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "Crime of passion. He just went nuts. He would have shot everyone in here. He just ran out of bullets."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Duffy. This look like a fucking post office to you? This guy came in here with intent. Maybe he didn't know exactly what he was gonna do but he had a pretty good idea. The bartender wasn't a fucking accident."
+      },
+      {
+        "speaker": "DUFFY",
+        "text": "Well, we didn't get any help on that. A lot of people saw it. Nobody's talking."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Fucking figures. Look, are you guys seeing the pattern here? We got big questions at both of these crime scenes, with no answers. WHY did they kill the guys in the other two booths? WHY did he do the bartender? It would seem unnecessary, even stupid.  God, I hate cold crime scenes! I'm fucking leaving now. And do me a favor, tell me when the next guy dies, cause these guys are not done yet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5076",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "GREENLY",
+        "text": "That's one big fuckin' shoe!... and think about it. Of all the ways to kill a guy, crushin' him to death. That's very particular. You don't get many of those. I dunno. I feel something big here. I wouldn't be surprised if we see more of these turning up."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Brilliant. So now we got a Huge guy theory and Serial crusher theory. Top fucking notch.  What's your name?"
+      },
+      {
+        "speaker": "GREENLY",
+        "text": "Detective Greenly. Who the fuck are you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5077",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "GREENLY",
+        "text": "Who the..."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Twist of lemon!"
+      },
+      {
+        "speaker": "GREENLY",
+        "text": "Chief, what the fuck is this?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Sweet-n-low!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5078",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "He's struck again, hasn't he, Greenly?"
+      },
+      {
+        "speaker": "GREENLY",
+        "text": "Why do you always disrespect me like that?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Respect is earned, Greenly, never given. Guys like you should have to follow me around squabbling for the scraps from my table."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5079",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "How many bodies, Greenly?"
+      },
+      {
+        "speaker": "GREENLY",
+        "text": "Eight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5080",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "While Greenly's getting coffee, anybody else want anything?"
+      },
+      {
+        "speaker": "GREENLY",
+        "text": "Shit! Shit!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5081",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "GREENLY",
+        "text": "Uh.  Shit, I, uh..."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "It tells us that he was the last to die. All these men  Were carrying. They came in, dropped all in seconds and then took their time with fag man. Didn't they, Duffy?!  They sure as fuck did!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5082",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "SMECKER",
+        "text": "After talking to the dancer we know that their mark was the guy in the middle booth. After she watches them whack him, she passes out.  Why the two extra victims?"
+      },
+      {
+        "speaker": "GREENLY",
+        "text": "Witness?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "No way they could have seen it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5083",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "GREENLY",
+        "text": "They weren't related. The guy used a 38. No pennies. Totally amateur."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Who were the victims?"
+      },
+      {
+        "speaker": "GREENLY",
+        "text": "A couple of peons for the mob and..."
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Oh that's just BEAUTIFUL! All the scumbags in the quiet city of Boston start dropping dead and you think it's unrelated?! Greenly, the day I want the Boston Police doing my thinking for me, I will have a fucking tag on my toe! Now, get me a squad car and get me over there. I want the crime scene photos and any witness statements. NOW!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5084",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "GREENLY",
+        "text": "What if it was just one guy with six guns?"
+      },
+      {
+        "speaker": "SMECKER",
+        "text": "Why don't you let me do the thinking, huh, genius?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5085",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "What the...?"
+      },
+      {
+        "speaker": "MOM",
+        "text": "I got it ta my head now. I got it ta my head now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5086",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Oh my god!"
+      },
+      {
+        "speaker": "MOM",
+        "text": "I..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5087",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Oh, she's quite proud of herself."
+      },
+      {
+        "speaker": "MOM",
+        "text": "Okay, seriously, both you listen ta me now."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5088",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "It's only 11:00 here boys so I got lot's more drinkin' ta do with your worthless relatives down at the Anvil."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Just called ta torture us did ya?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5089",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "But he's been havin' himself a nip or two as well... Been up the waitress' skirt all night, poor girl."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Well you tell him ta take it easy with that. He's gotta learn ta respect women the way Connor does."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5090",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "Promise me boys."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "We promise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5091",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Right now."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Don't kill me. Oh shit, please no. I'm Rocco. I'm the funny man!... the funny man... the funny."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5092",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "This is some heavy shit. This is like Lone Ranger-heavy man. Fuck it! There's so much shit that pisses me off. You guys should recruit 'cause I am sick and fuckin' tired of walkin' down the street waitin' for one of these assholes to get me, y'know?"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Hallelujah, Jaffar."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "So you're not just talkin' mob guys. You're talkin' anyone, right? Even like pimps and drug dealers and all that shit?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5093",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Well fuck, you guys could do this every day."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "We're like 7-Eleven. We ain't always doing business, but we're always open."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5094",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "You fuckin' guys. You ruined me. I'm fuckin' done. Permanent package boy."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Who says that? You could take credit on it."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "What are you serious?"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Yeah, fuck it. If you think about it, it's all you can do really. You can't tell him it was us. Go in braggin' and shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5095",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Hey. You don't know that shit for sure."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Oh, Jesus. You're such a fuckin' retard!"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Fuck you!"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Use your brain for once. Is it so unbelievable they don't care about you? You are fuckin' dead, you go in there today. Dead!"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Oh yeah. You two fuckin' Micks know what's going on, huh?  Fuck you!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5096",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Fuck it! What kind of flowers ya want at your funeral? Ya dumb Wop. This is the last time I'll see you. Bye-bye ya stupid son of a bitch."
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "I'll be back at 9:00."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5097",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Hey Murph."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Roc. You okay?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Yeah. Anybody call for me?"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "No. You sure you're okay?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "I'm fuckin' fine.  Catch you on the flip side."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5098",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "MURPHY",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Hey, Murph."
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "Roc. You okay?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Yeah. Anybody call for me?"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "No. You sure you're okay?"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "I'm fuckin' fine.  Catch you on the flip side."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5099",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Hurry the fuck up!"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "This is some crazy shit, man!"
+      },
+      {
+        "speaker": "ROCCO",
+        "text": "Those cocksuckers sold me out!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_5100",
+    "movie_id": "m37",
+    "turns": [
+      {
+        "speaker": "ROCCO",
+        "text": "Those rat fucks! All of them were all laughing at me man!"
+      },
+      {
+        "speaker": "MURPHY",
+        "text": "You sure you killed them?"
+      }
+    ]
+  }
+]

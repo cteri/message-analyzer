@@ -1,0 +1,2002 @@
+[
+  {
+    "conversation_id": "conv_11201",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "CARTER",
+        "text": "I'll be damned."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Do I know you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11202",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "CARTER",
+        "text": "Mind if we sit down?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "I'd prefer you didn't.  I'm very busy."
+      },
+      {
+        "speaker": "CARTER",
+        "text": "Okay, then how 'bout we ask you a few questions?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "Detective..."
+      },
+      {
+        "speaker": "CARTER",
+        "text": "Carter."
+      },
+      {
+        "speaker": "KERI",
+        "text": "... I think it would be best if you both left."
+      },
+      {
+        "speaker": "CARTER",
+        "text": "Might want to stop and think about the safety of your students, Miss Tate."
+      },
+      {
+        "speaker": "KERI",
+        "text": "I never stop thinking about it, Detective.  The only way in or out of this school is through that gate, and it is secured at all times."
+      },
+      {
+        "speaker": "CARTER",
+        "text": "Funny, we just drove right in."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Well, I can assure you, it won't happen again.  Thanks for your concern.  Goodbye."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11203",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "Bruce... what's going on?  The kids are here to pick out their costumes for the festival."
+      },
+      {
+        "speaker": "DEPUTY CLARK",
+        "text": "Better take 'em to Virgil's downtown.  We got a dead body in there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11204",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "A dead body?"
+      },
+      {
+        "speaker": "DEPUTY CLARK",
+        "text": "It's Amy Kramer."
+      },
+      {
+        "speaker": "KERI",
+        "text": "My god..."
+      },
+      {
+        "speaker": "DEPUTY CLARK",
+        "text": "Pretty messy.  Parents have already been notified.  Our office has been trying to get a hold of you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11205",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "Do you know who did this?"
+      },
+      {
+        "speaker": "DEPUTY CLARK",
+        "text": "Well, Eddie Catero didn't show up for work this morning... parents say he never came home last night. Car's still missing."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Think Eddie had something to do with it?"
+      },
+      {
+        "speaker": "DEPUTY CLARK",
+        "text": "Doesn't look good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11206",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "SHANE",
+        "text": "Besides, it's historically inaccurate."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "What the fuck are you talking about?"
+      },
+      {
+        "speaker": "SHANE",
+        "text": "Michael Meyers never used a meat cleaver.  It was a butcher knife."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Who are you, the serial killer police?  What difference does it make?"
+      },
+      {
+        "speaker": "SHANE",
+        "text": "It's not historically accurate, that's all."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11207",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "SHANE",
+        "text": "Another historical inaccuracy."
+      },
+      {
+        "speaker": "EDDIE",
+        "text": "Would somebody shut this guy up?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11208",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JIMMY",
+        "text": "Hey, Mis Whittington, what's up?"
+      },
+      {
+        "speaker": "PAMELA",
+        "text": "My blood pleasure.  You scared the hell out of me."
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Oh.  Sorry.  I'm on my way to the ring and --"
+      },
+      {
+        "speaker": "PAMELA",
+        "text": "I think someone broke into my house."
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "No shit?!"
+      },
+      {
+        "speaker": "PAMELA",
+        "text": "No shit."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11209",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "PAMELA",
+        "text": "Jimmy, what are you doing?"
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Checking out your place."
+      },
+      {
+        "speaker": "PAMELA",
+        "text": "No.  Wait for the police."
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "And miss the big game?  No way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11210",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JIMMY",
+        "text": "Nothing to fear.  The coast is clear."
+      },
+      {
+        "speaker": "PAMELA",
+        "text": "You sure?"
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Totally.  I checked all the rooms and closets..."
+      },
+      {
+        "speaker": "PAMELA",
+        "text": "Nothing's missing?"
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Don't think so.  But they sure did a real number on your office. Crap everywhere."
+      },
+      {
+        "speaker": "PAMELA",
+        "text": "My office?"
+      },
+      {
+        "speaker": "JIMMY",
+        "text": "Yeah.  Oh, and they messed up your kitchen pretty good, too... Goodnight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11211",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "Nothing's changed since yesterday, or last week, or last month... the answer's still \"no.\""
+      },
+      {
+        "speaker": "JOHN",
+        "text": "You're so predictable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11212",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "What the --"
+      },
+      {
+        "speaker": "KERI",
+        "text": "Betcha' didn't predict that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11213",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "I'm sixteen, Keri.  I should be able to live wherever I want."
+      },
+      {
+        "speaker": "KERI",
+        "text": "And I should have a son who calls me \"Mom\".  Looks like we're both shit out of luck."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Okay, you win.  I'll call you Mom. Now can I move into the dorms?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "No."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11214",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Well, Dad thinks it's okay."
+      },
+      {
+        "speaker": "KERI",
+        "text": "You're father thinks it's okay to run off to Cancun with a blonde bimbo in a halter top.  Somehow his opinion doesn't count."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "I promise not to run off to Cancun."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Forget it."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "The dorms are only fifty feet away.  You could practically see into my window.  So, what difference does it make?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "My point exactly.  See, we both agree."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11215",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Alright, I was wrong.  There is a big difference between rooming with your buddies and living with your mother and school headmaster."
+      },
+      {
+        "speaker": "KERI",
+        "text": "I took the padlock off your door. What more do you want?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "My life is a living hell."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11216",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "To the bathroom.  Can I do that alone or do you want to watch?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "I thought you'd never ask."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11217",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "You're twisted."
+      },
+      {
+        "speaker": "KERI",
+        "text": "I know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11218",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "Shit, John!  What the hell were you doing out there?!"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "KERI",
+        "text": "You're kidding with that answer, right?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "I just went for a walk.  It's no big deal."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Wrong.  There are rules in this house and you're going to follow them whether you like it or not."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Or what?  You're gonna shoot me?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "It's an option."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Well, maybe if you'd let me live in the dorms, I wouldn't have to sneak out to spend time with my friends."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Oh, so now it's my fault?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Just forget it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11219",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "I'm sorry, alright?  It was just a stupid joke."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Will, sit down..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11220",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "You some kind of fugitive or something?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "I was trying to get away from someone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11221",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Now you're joking, right?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "Afraid not.  You can pick your friends, but you can't pick your family."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11222",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Wait a minute... slow down... you're telling me Michael Meyers is my uncle?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "Yes."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Any other psychotic relatives I should know about?  Jason?  Freddy Krueger?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "No."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Why didn't you tell me?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "I was trying to protect you from this..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11223",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "I don't know."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11224",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "He found you, didn't he?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "Get on the bus."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Where's Molly?  She's not in her room..."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Just get on the bus."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "I'm not leaving without her."
+      },
+      {
+        "speaker": "KERI",
+        "text": "John, you can't help her now."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "What?  Where is she?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "John..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11225",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Oh, God... no... not Molly."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Please, get on the bus..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11226",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Yeah, me too, Keri."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Call me Laurie, will ya?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Keri.... Laurie... how about if I just call you Mom?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "That would work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11227",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Shelve the barf bag.  It's the key to the main gate."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Where'd you get it?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Swiped it from my mom's desk yesterday."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "You stole it?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "I borrowed it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11228",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "MOLLY",
+        "text": "Not me."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Why not?"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "I can't afford to get caught."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11229",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Nah, I didn't tell her where I went."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Is that all you guys can think about?  Amy never came back last night.  Maybe she's in trouble."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11230",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "MOLLY",
+        "text": "What are you doing here?!"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "I came to see you."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "I can see that.  Why?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Can I come in?"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Are you crazy?  You'll get caught."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Then you come out here."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Then I'll get caught."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Well, I'm not going until I talk to you."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Alright.  I'll come out.  Just be quiet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11231",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "MOLLY",
+        "text": "You really think Eddie killed her?"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "You saw that Michael Meyers display.  You've got to be pretty twisted to come up with something like that."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "I guess.  It's just hard to believe."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11232",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "You look kind of cold."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "I'm okay."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Here, take my jacket."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11233",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Better?"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11234",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "Molly, of all the people... if I can't trust my resident assistant, then what?"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "I know.  I'm really, really sorry, Miss Tate.  Please let me keep the job... it's the only way I can afford to stay here."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Okay, tell you what... you can still be the school R.A., but no dance tomorrow night."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Okay... thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11235",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "MOLLY",
+        "text": "Linda!  He killed Linda!"
+      },
+      {
+        "speaker": "KERI",
+        "text": "Who?!"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Michael Meyers!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11236",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Aren't they doing a terrific job this year?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "Looks great.  It does."
+      },
+      {
+        "speaker": "WILL",
+        "text": "You okay?  You seem a little off."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Nothing a good stiff drink can't fix."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11237",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "It's John, isn't it?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "It's always John."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Still wants to move out?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "He's been living out of moving boxes for three months."
+      },
+      {
+        "speaker": "WILL",
+        "text": "This kid just wants his freedom."
+      },
+      {
+        "speaker": "KERI",
+        "text": "It's not going to happen."
+      },
+      {
+        "speaker": "WILL",
+        "text": "The tighter you squeeze, the harder he'll try to break free."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Oh, please... you get that out of a fortune cookie?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Doesn't make it bad advice."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11238",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "I'm going into town... run a few errands before dark.  Need anything?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "A box of fortune cookies... I'm running out of advice."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Bye Will."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11239",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Hey, you alright?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "What?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "What are you looking at?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "I'm fine.  I just need to lie down..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11240",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "There's something I have to tell you both.  It's going to sound strange..."
+      },
+      {
+        "speaker": "WILL",
+        "text": "What?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "My name hasn't always been Keri Tate.  It was once Laurie Strode."
+      },
+      {
+        "speaker": "WILL",
+        "text": "You're right.  It does sound strange."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11241",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Who?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "Michael Meyers."
+      },
+      {
+        "speaker": "WILL",
+        "text": "The serial killer?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "He's my brother."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11242",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "No, Will, this isn't the alcohol talking.  It's the truth."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I can't believe this is happening."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Shit happens."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11243",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "You just dropped a shitload on him... give him some time to digest it."
+      },
+      {
+        "speaker": "KERI",
+        "text": "Are you going to leave, too?"
+      },
+      {
+        "speaker": "WILL",
+        "text": "Never."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11244",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "So you're really Michael Meyers' sister?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "Yeah."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Do we have to invite him to the wedding?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11245",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "KERI",
+        "text": "Not a real fan of Halloween humor, Will."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Oh, right.  Sorry."
+      },
+      {
+        "speaker": "KERI",
+        "text": "I'm gonna head back to the office... finish up some things."
+      },
+      {
+        "speaker": "WILL",
+        "text": "Can't it wait till Monday?  I thought maybe we could dance...  I'm very light of my feet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11246",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "WILL",
+        "text": "Keri, you all right?"
+      },
+      {
+        "speaker": "KERI",
+        "text": "We've got to get these kids out of here..."
+      },
+      {
+        "speaker": "WILL",
+        "text": "I'll make sure there's no kids left in the dorms..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11247",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Look, they're staring right at us."
+      },
+      {
+        "speaker": "SHANE",
+        "text": "You think your mom knows we snuck out last night?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11248",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Wait."
+      },
+      {
+        "speaker": "SHANE",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "I have to pee."
+      },
+      {
+        "speaker": "SHANE",
+        "text": "Can't you hold it?"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Can't you?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11249",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "You aced it, didn't you?"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "I did alright."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11250",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Fuckin' A."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "He gave me a fuckin' A?  Wow."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11251",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "MOLLY",
+        "text": "What's this?"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "You say, \"The key to my heart,\" and I'm gonna hurl."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11252",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Better her than me."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "You're unbelievable."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11253",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Ooooh, busted."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Big time.  And news travels fast. Wouldn't be surprised if the whole school knows about this one by tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11254",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Shane's going as a condom."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "I thought you were allergic to latex."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "I'll pop a Benadryl."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "You think they'll let him in dressed like that?"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Oh, they're so stupid... I'll just tell them he's going as a sausage casing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11255",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "BLAAAAAGGGHHHHH!"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Shit, Linda!"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "You're so easy..."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Wasn't scaring the hell out of me once today enough?!"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Nope.  Hey, you think I'll win scariest costume?"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Linda, you are without a doubt the scariest person on campus."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Thanks!"
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Where's Shane?"
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Condom Boy is waiting for me in the cafeteria."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "But the dance is in the gymnasium."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Very insightful."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11256",
+    "movie_id": "m80",
+    "turns": [
+      {
+        "speaker": "LINDA",
+        "text": "Let the party begin."
+      },
+      {
+        "speaker": "MOLLY",
+        "text": "Have enough fun for the both of us."
+      },
+      {
+        "speaker": "LINDA",
+        "text": "Oh, don't be such a victim."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11257",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "He do that to you?"
+      },
+      {
+        "speaker": "KARA",
+        "text": "Another episode of 'Daddy Knows Best' at the Strode house."
+      },
+      {
+        "speaker": "BETH",
+        "text": "Pig.  What the hell happened this time?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11258",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Beth, who's that guy that lives across the hall from you?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "Why?  You interested?"
+      },
+      {
+        "speaker": "KARA",
+        "text": "No!  I keep seeing him staring out his window. Watching me."
+      },
+      {
+        "speaker": "BETH",
+        "text": "You mean Tommy.  Yeah, on the weirdness scale he's about an eleven.  Supposedly some scary shit happened to him when he was a kid.  Messed up his head.  He's harmless, though.  Probably just lonely."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11259",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Mom -- Who is this?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "Kara? ... No, this is Beth."
+      },
+      {
+        "speaker": "KARA",
+        "text": "What are you doing there?  Where's my mother?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "We were worried about you guys so we left early to see if you were --"
+      },
+      {
+        "speaker": "KARA",
+        "text": "Is Tim there?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "He's in the bathroom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11260",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "Hold on, hot lips.  We got work to do."
+      },
+      {
+        "speaker": "TIM",
+        "text": "Shit, Beth, why do we have to be the ones to organnize this friggin' fair? It's only Halloween."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11261",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "TIM",
+        "text": "Whatever happened to women in back?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "Reality check, dillweed.  This is 1995."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11262",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "TIM",
+        "text": "Happy fuckin' Halloween."
+      },
+      {
+        "speaker": "BETH",
+        "text": "Someone's trying to scare us out of having this fair ... and it's not gonna work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11263",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "Seven-thirty is the costume pageant ... Carving jack-o'-lanterns at eight ... Photos for the school paper at nine ... Then Harry lights the tree at nine- thirty ... I just know I'm forgetting something!"
+      },
+      {
+        "speaker": "TIM",
+        "text": "Relax.  Everything's cool.  Didn't I tell you Harry would be here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11264",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "Jesus, that's my neighbor.  Tommy."
+      },
+      {
+        "speaker": "TIM",
+        "text": "Isn't he that psycho who's been spying on my sister?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "Kara and Danny never showed up tonight. We'd better go home and check on them. There's nothing else for us to do here."
+      },
+      {
+        "speaker": "TIM",
+        "text": "But they're gonna light the tree in a few minutes --"
+      },
+      {
+        "speaker": "BETH",
+        "text": "We can light our own tree at home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11265",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "Guess they -- went to the fair after all."
+      },
+      {
+        "speaker": "TIM",
+        "text": "Guess so ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11266",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "What if your parents come home?"
+      },
+      {
+        "speaker": "TIM",
+        "text": "Then they can watch."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11267",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "BETH",
+        "text": "Aren't you gonna answer that?"
+      },
+      {
+        "speaker": "TIM",
+        "text": "Answer what?"
+      },
+      {
+        "speaker": "BETH",
+        "text": "What if it's Kara?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11268",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Shh.  Mommy's here.  What is it?"
+      },
+      {
+        "speaker": "DANNY",
+        "text": "The voice man!  He's here!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11269",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Home is here in Grandma and Grandpa's new house.  At least while I'm in college. Remember our deal."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "The kids at school said this is a haunted house -- that a bad man used to live here."
+      },
+      {
+        "speaker": "KARA",
+        "text": "They did, did they?  Since when did we start listening to the kids at school?"
+      },
+      {
+        "speaker": "DANNY",
+        "text": "But I've seen him!"
+      },
+      {
+        "speaker": "KARA",
+        "text": "You've been watching too much TV."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "He says things.  Bad things."
+      },
+      {
+        "speaker": "KARA",
+        "text": "Like what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11270",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "No, Mom -- keep it on!"
+      },
+      {
+        "speaker": "KARA",
+        "text": "Okay ... But just for tonight."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11271",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "Mom, I want to go to the fair ..."
+      },
+      {
+        "speaker": "KARA",
+        "text": "You can't expect us to stay here --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11272",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "Come on, Mom.  We're gonna miss all the fun stuff!"
+      },
+      {
+        "speaker": "KARA",
+        "text": "Danny, you're just going to have to wait!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11273",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "Mommy, I'm scared."
+      },
+      {
+        "speaker": "KARA",
+        "text": "There's nothing to be scared of, baby. It's just another storm.  Try to get some sleep."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "I can't.  The voice man is coming to get me."
+      },
+      {
+        "speaker": "KARA",
+        "text": "No one's coming to get you.  Not while I'm around."
+      },
+      {
+        "speaker": "DANNY",
+        "text": "Promise?"
+      },
+      {
+        "speaker": "KARA",
+        "text": "I promise."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11274",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "DANNY",
+        "text": "Mommy!!!"
+      },
+      {
+        "speaker": "KARA",
+        "text": "Danny!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11275",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "Shitheads ... Defacing my property.  I showed them ..."
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "Relax, John.  They were just kids."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Kids are what's ruining this country. Everywhere you go, it's the same.  No goddamn respect."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11276",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "See what I'm talkin' about?"
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "You'll never pass that exam on an empty stomach, Kara."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11277",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "JOHN",
+        "text": "What is it this time?"
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "A man came by the house.  A psychiatrist by the name of Loomis."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11278",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "DEBRA",
+        "text": "He told me about the terrible things that happened here.  In our house."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "What the fuck are you doing letting strangers in without --"
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "John, they sound Jamie Lloyd this morning! Someone tried to kill her!"
+      },
+      {
+        "speaker": "JOHN",
+        "text": "What in God's name are you talking about, woman?  When are you gonna stop listening to those damned talk shows?"
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "I'm getting the children out of here. At least until we know what we're dealing with.  John, I want you to come with us."
+      },
+      {
+        "speaker": "JOHN",
+        "text": "Debra, you're fuckin' insane."
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "You knew, didn't you, John?  You knew."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11279",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "LOOMIS",
+        "text": "I've been knocking.  The door was open. Is everything all right in here?"
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "Who are you?"
+      },
+      {
+        "speaker": "LOOMIS",
+        "text": "I've come to help your family."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11280",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "LOOMIS",
+        "text": "He crept up these stairs and made his way into this room.  His sister's room. Right here. Where it all began."
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "What makes you think he'll come here again?"
+      },
+      {
+        "speaker": "LOOMIS",
+        "text": "This house is sacred to him.  It's the source of his memories -- his rage.  Mrs. Strode, I beg you.  Don't let your family suffer the same fast as Laurie and her daughter."
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "Jamie?  But I thought she was --"
+      },
+      {
+        "speaker": "LOOMIS",
+        "text": "Found this morning.  In a field outside Haddonfield.  Stabbed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11281",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "DEBRA",
+        "text": "What should I do?"
+      },
+      {
+        "speaker": "LOOMIS",
+        "text": "Lock the doors and call your husband. Get your family as far away from Haddonfield as possible."
+      },
+      {
+        "speaker": "DEBRA",
+        "text": "God ... this can't be true."
+      },
+      {
+        "speaker": "LOOMIS",
+        "text": "Mrs. Strode, Michael Myers is here to kill his family.  And he won't stop until you are all destroyed.  I only thank God that I found you before he did."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11282",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "HARRY SIMMS",
+        "text": "So they're trying to kill you and your baby. Don't tell me.  Your name also happens to be Rosemary."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "No -- please listen!  They're coming ... coming for me and my baby."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11283",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "HARRY SIMMS",
+        "text": "Come on, sweetheart -- what is this? Who's coming?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "It's ... Michael ...  ... Michael Myers!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11284",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "HARRY SIMMS",
+        "text": "So they're trying to kill you and your baby. Don't tell me.  Your name also happens to be Rosemary."
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "No, please listen!  They're coming ... coming for me and my baby."
+      },
+      {
+        "speaker": "HARRY SIMMS",
+        "text": "Come on, sweetheart -- what is this? Who's coming?"
+      },
+      {
+        "speaker": "JAMIE",
+        "text": "It's ... Michael ... Michael Myers!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11285",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "She wasn't here when I brought Danny home from --"
+      },
+      {
+        "speaker": "KARA",
+        "text": "Danny, go downstairs -- Now!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11286",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "My, God!  What have you done to him?"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "I didn't -- He got in a fight and I --"
+      },
+      {
+        "speaker": "KARA",
+        "text": "You stay away from him!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11287",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Do you know how insane this is?  Who am I supposed to be looking for?"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11288",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "God, what's wrong with him?"
+      },
+      {
+        "speaker": "KARA",
+        "text": "Here.  Let me try."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11289",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "Kyle's mother might be dead for all I know. Now I'm afraid he could be next."
+      },
+      {
+        "speaker": "KARA",
+        "text": "Why would anyone want to kill an innocent baby?"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Not just Kyle.  All of you.  His entire family.  Here.  Look at this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11290",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "TOMMY",
+        "text": "It was there when I found him this morning.  It looks like some kind of letter or number or --"
+      },
+      {
+        "speaker": "KARA",
+        "text": "It's a rune ... Thorn."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11291",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Runes were a kind of early alphabet that originated in Northern Europe thousands of years ago.  They were symbols -- carved out of stone or pieces of wood.  Of all the runes, Thorn had the most negative influence. Cults used them in blood rituals to portend future events and invoke magic."
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Black magic ...  'In ancient times, Thorn was believed to cause sickness, famine and death. Translated literally, it was the name of a demon spirit that delivered human sacrifices ... on the Celtic celebration of Samhain.'"
+      },
+      {
+        "speaker": "KARA",
+        "text": "Halloween."
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "'When applied directly to another person, Thorn could be used to call upon them confusion and destruction -- to literally visit them with the Devil.'"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11292",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Where are you going?"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "To find the rest of your family before Michael Myers does -- or whoever's been controlling him."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11293",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Danny?!  Danny!"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Mrs. Blankenship, have you seen the little boy who came in with me and --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11294",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Where's the baby?!"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "He's gone."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11295",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Danny!  Danny, where are you?!"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Kara, no!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11296",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "What now?!"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "Wait a minute ..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11297",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "KARA",
+        "text": "Come on!"
+      },
+      {
+        "speaker": "TOMMY",
+        "text": "It's not working!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11298",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "WYNN",
+        "text": "Christ, what a night!  Not even so much as a sign for five miles on that road!"
+      },
+      {
+        "speaker": "LOOMIS",
+        "text": "That's the whole idea of living in the country.  I thrive on the seclusion."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11299",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "WYNN",
+        "text": "Unlike you, Sam, I learned many years ago not to second-guess the motives of my fellow man. Remember what Freud said:  'Sometimes a cigar is just a cigar.'  Or, in this case, a drink is just a drink."
+      },
+      {
+        "speaker": "LOOMIS",
+        "text": "I hope you didn't come all the way out here in this storm just to quote Freud."
+      },
+      {
+        "speaker": "WYNN",
+        "text": "As always, your keen powers of perception astound me.  And you're right.  I've come to celebrate.  After thirty-two years as Psychiatric Administrator, guess who has been named Smith's Groves new Chief of Staff."
+      },
+      {
+        "speaker": "LOOMIS",
+        "text": "But surely Rogers isn't --"
+      },
+      {
+        "speaker": "WYNN",
+        "text": "Retiring."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_11300",
+    "movie_id": "m81",
+    "turns": [
+      {
+        "speaker": "WYNN",
+        "text": "We need you, Dr. Loomis."
+      },
+      {
+        "speaker": "LOOMIS",
+        "text": "You should know that it's not wise to play Halloween pranks on me."
+      },
+      {
+        "speaker": "WYNN",
+        "text": "You're the only man for the job, Sam. Things haven't been the same since you left.  I'm recruiting the best psychiatric team in the country.  Old colleagues.  This is your change to finally make a difference."
+      }
+    ]
+  }
+]

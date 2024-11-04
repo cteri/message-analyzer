@@ -1,11 +1,12 @@
 annotated-types==0.7.0
+accelerate~=0.26.0
 black==24.8.0
 blinker==1.8.2
 certifi==2024.8.30
 charset-normalizer==3.3.2
 click==8.1.7
 flask==3.0.3
-flask-ml==0.0.8
+flask-ml==0.1.1
 idna==3.10
 importlib-metadata==8.5.0
 isort==5.13.2

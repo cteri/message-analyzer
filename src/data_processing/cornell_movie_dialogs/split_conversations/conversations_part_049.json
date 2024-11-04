@@ -1,0 +1,2226 @@
+[
+  {
+    "conversation_id": "conv_4801",
+    "movie_id": "m35",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "I'm going to need two more banana- splits and a cherry coke!"
+      },
+      {
+        "speaker": "SODA JERK",
+        "text": "You bet, Mom! Coming up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4802",
+    "movie_id": "m35",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "I can't tell the boys from the girls anymore!"
+      },
+      {
+        "speaker": "SODA JERK",
+        "text": "Uh...yeah. It's like hard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4803",
+    "movie_id": "m35",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "I miss those nice flower-power kids. How 'bout you?"
+      },
+      {
+        "speaker": "SODA JERK",
+        "text": "Um...uh..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4804",
+    "movie_id": "m35",
+    "turns": [
+      {
+        "speaker": "MOM",
+        "text": "I'm selling this place.  I want out of this hell hole!"
+      },
+      {
+        "speaker": "SODA JERK",
+        "text": "Could I, like...oh, wow...like,uh..."
+      },
+      {
+        "speaker": "MOM",
+        "text": "Buy it from me?"
+      },
+      {
+        "speaker": "SODA JERK",
+        "text": "Yeah!  Yeah, that's it!"
+      },
+      {
+        "speaker": "MOM",
+        "text": "I'll give it to ya, no money down. The neighborhood has gone to hell anyway."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4805",
+    "movie_id": "m35",
+    "turns": [
+      {
+        "speaker": "PILOT",
+        "text": "Tower. Wolf One. I've got a problem here."
+      },
+      {
+        "speaker": "TOWER",
+        "text": "Say your problem, Wolf One. Are you declaring an emergency?"
+      },
+      {
+        "speaker": "PILOT",
+        "text": "Stand by. One."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4806",
+    "movie_id": "m35",
+    "turns": [
+      {
+        "speaker": "TOWER",
+        "text": "Wolf One -- say intentions."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "I've got secondaries of an engine fire and I'll need to find a clear area to eject."
+      },
+      {
+        "speaker": "TOWER",
+        "text": "Roger, Wolf One. Can you make it to the ocean?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4807",
+    "movie_id": "m35",
+    "turns": [
+      {
+        "speaker": "PILOT",
+        "text": "Tower, say again!!"
+      },
+      {
+        "speaker": "TOWER",
+        "text": "The SAR HELO is airborne with you in sight."
+      },
+      {
+        "speaker": "PILOT",
+        "text": "I'm marking the 180 radial for five and ejecting."
+      },
+      {
+        "speaker": "TOWER",
+        "text": "Roger, Wolf One."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4808",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "I sent a trunk home yesterday. This is all I have."
+      },
+      {
+        "speaker": "AUNT BARBARA",
+        "text": "You look good, Jeffrey. Did you have a nice flight?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. How's Dad?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4809",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "AUNT BARBARA",
+        "text": "I think it's important not to get depressed. Depression is a terrible thing. They say it can bring on illness."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Aunt Barbara. I'll try not to get depressed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4810",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "AUNT BARBARA",
+        "text": "Jeffrey, you're not going down by Lincoln, are you?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No, I'm just going to walk around the neighborhood. Don't worry."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4811",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Doctor Gynde, my whole family's sick. What's going on?"
+      },
+      {
+        "speaker": "AUNT BARBARA",
+        "text": "I'm not sick."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4812",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Will you tell Mom when she gets home from the hospital that I've gone to dinner at Sandy Williams' house?"
+      },
+      {
+        "speaker": "AUNT BARBARA",
+        "text": "Okay honey. That sounds nice. Jeffrey. I think you've got termites in the house."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Oh yeah? Have you seen any?"
+      },
+      {
+        "speaker": "AUNT BARBARA",
+        "text": "I've seen a few."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Well, I haven't seen any. I wouldn't worry about it. Look, I better go."
+      },
+      {
+        "speaker": "AUNT BARBARA",
+        "text": "Okay honey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4813",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "I don't want to talk about it. Everything's okay now. I don't want to talk about it."
+      },
+      {
+        "speaker": "AUNT BARBARA",
+        "text": "Sometimes it helps to talk things over. For instance, many marriages are saved by."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Aunt Barbara. I love you, but you're not gonna get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4814",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Frank. Come in."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Hey, I brought some friends. And some beer."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Fine. Welcome. Come sit down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4815",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Suave. Goddam are you suave, you fucker. You want some beer?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Certainly Frank.  Darling, get some glasses. We'll have some beer with Frank. Won't you sit down?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4816",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Shit Ben! How the shit are ya?"
+      },
+      {
+        "speaker": "BEN",
+        "text": "Fine Frank. Fine. How are you?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Fuckin' good, real fuckin' good. You know this little tid bit, Dorothy, and this thing, here,  is a neighbor. What the shit we're doin' with a neighbor, I don't know. Goddam!!!  This is the suavest guy I know. Look at you. You're one beautiful fucker, Ben. I love this jacket and that cigarette holder of yours. Shit, that is too fuckin' much. Where's those glasses. This beer's gonna get too warm. I can't stand fuckin' warm beer. It makes me puke."
+      },
+      {
+        "speaker": "BEN",
+        "text": "Darling, where are the glasses? Oh, here they are."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4817",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "To your health, Frank."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Shit. Let's drink to something else. Let's drink to fuckin'. Say here's to your fuck Frank."
+      },
+      {
+        "speaker": "BEN",
+        "text": "If you like Frank. Here's to your fuck. Cheers."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4818",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "Frank, I have something for you. Excuse us everyone."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "EXCUSE US por favor! Hey. Let Tits see her kid."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4819",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "BEN",
+        "text": "See you Tuesday, Frank."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Right Ben. LET'S GO FUCK. I'll fuck anything that moves."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4820",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Are you Detective Williams?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Yes."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "My name is Jeffrey Beaumont - I live near you. I believe you know my father, Tom Beaumont - Beaumont's Hardware Store?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Sure I do. I understand he's in the hospital. How is he?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "He's alright, I guess. I hope. They're doing tests, that's why I'm home from school. I was over at the hospital this morning and I was going home and in the field behind our neighborhood. There behind Vista, I found an ear."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "You did? A human ear?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. I've got it here in this bag. I thought I should bring it to you."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Yep, that's right. Let's take a look at it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4821",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "By the way, Jeffrey, this story isn't going to the press and I'm going to ask you to consider all you've heard strictly confidential. Do not discuss this business with anyone, but me, or other police personnel. Got it?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Got it. Thanks for letting me in on as much as you did."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Come on. I'll drive you home. It's on my way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4822",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Come into the study a minute."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Excuse me, Mrs. Williams."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4823",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Detective Williams here. Yeah. Tell him to go to Sergeant Milton. Yeah, copy.  Well, Jeffrey, you found something which is very interesting to us. Very interesting. I know you must be curious to know more.  But. I'm afraid I'm going to have to ask you not only not to tell anyone about your find, but also not to ask more about the case. One day, when it's all sewed up, I'll let you know all the details. Right now, though, I can't."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I understand. I'm just real curious like you said."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "I was the same way when I was your age. I guess that's what got me into this business."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "It must be great."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "And it's horrible too.  I'm sorry Jeffrey. That's the way it has to be. Anyway. I'm sure you do understand."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4824",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Jeffrey?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "If you want to come up a minute, I'll show you some pictures."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4825",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "These are beautiful. How's the case coming?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Okay."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Anything you can tell me?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "The criminals are winning."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Is that why you say it's horrible?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Yes."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I guess you've seen some bad things."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Yes I have - so bad I wouldn't poison your mind by telling you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Why do you do it?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "I won't let the bastards get me up against the wall. It's an act of defiance."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. I get it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4826",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "What is this? What color is it?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Blue. It's Blue Velvet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4827",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "What color is it?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "It's blue. Blue velvet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4828",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Jeffrey! Come on in."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Hi. Hi Sandy. I'm sorry to bother you, but I've got to talk to you."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Okay, come on in. Looks like you had a bad face lift."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4829",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Okay?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay, I gotta tell you. I've discovered some things. Anyway I have to show you some pictures and tell you some things about them. The first picture is this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4830",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "And that man came out with a third man - this well-dressed guy. Here's the photo. I think a girl named Dorothy Vallens is in trouble with these people. I think Frank has taken her husband and her son."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I have no hard proof of any of this. Her address is also on the photos. I think these people are involved with drugs, and murder. I think Frank is killing drug dealers and...  ...and somehow Frank is getting all their drugs. I had to tell you I got slightly more involved in this than you wanted me to, but it's over now for sure. I had to tell you about these things in case it could help."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Well now Jeffrey, how did you come to get so involved?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I can't tell you the whole story. I. I took it upon myself. I can't say more."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Is Sandy part of this?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No, not at all."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Who knows you have these?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Only you and the photo lab."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "You're all through with this now?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes sir. I sure am."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4831",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "For now. Alright, you better be. And Sandy better not be involved with this, I can tell you. Be prepared to come in for further interrogation on this later."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes sir."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4832",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Detective Williams!! Detective Williams!!"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Detective Williams here. Is that you, Jeffrey?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes it's me!!! Frank is on his way up to Dorothy's apartment.  Oh no. Frank has a radio and is hearing everything we say!!  Detective Williams. Hurry. I'm in the apartment. Hurry. I'm hiding in the back bedroom."
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "We're ten minutes away and moving as fast as we can."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4833",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Because of your information I alerted internal affairs to check out Detective Gordon. I had to keep on with him as if nothing was different. He slipped off on his own when he found out we were going to raid Frank's place."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Does Dorothy know her husband is dead?"
+      },
+      {
+        "speaker": "DETECTIVE WILLIAMS",
+        "text": "Not yet."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Oh my God. Is her son OK?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4834",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Yes? What is it?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Pest control, gotta do your apartment."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Oh God, that stuff stinks."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Nope, it's new stuff. No smell."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Oh yeah, that's good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4835",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "That oughta do it."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Yeah."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4836",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "GET OUT OF THERE!!! GET OUT!!! Put your hands up, on your head. GO ON!!! Get down on your knees - DO IT!! What are you doing? Who are you? What's your name? WHAT'S YOUR NAME?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Jeffrey."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Jeffrey. Jeffrey what?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Jeffrey nothing."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "You tell me!! Let me see that wallet.  Jeffrey Beaumont. What're you doing in my apartment, Jeffrey Beaumont?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I wanted to see you."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "What? Are you kidding me? Who sent you here?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Nobody."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Shit. You better tell me something."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I was an experiment. Just to see if I could do it."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "An experiment? Hey, I've seen you before."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I sprayed your apartment. I took your key. I really didn't mean to do anything but see you."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Tell me what you saw tonight. TELL ME."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I saw you come in, talk on the phone. Get undressed."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "The phone. What did you hear on the phone. Tell me. Word for word."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "You said hello, to Frank. You wanted to talk to someone? Don? And little Donny. You said something about Momma loves you. And something about a Meadow Lane. Something in an hour. I don't remember any more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4837",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "That's right. That's what I said. You have a good memory. Then what?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Well."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "THEN WHAT?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Then you got undressed."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "How many times have you sneaked into girls' apartments and watched them undress?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Never before this."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "How'd you like it if someone sneaked into your house and watched you.  Get undressed. I want to see you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. Come on."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "NO, you come on. Take off your pants. I want to see you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Look. I'm sorry. Just let me leave."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "No way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4838",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "What do you want from me?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I, I don't know."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "What do you want?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4839",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Do you like that?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4840",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Do you like talk like that?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Lie down on the bed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4841",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Don't.  I don't like that. What do you want?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Nothing. Are you alright?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Sure I'm alright."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'll go then."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4842",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Don?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Don. Hold me. I'm scared. Hold me. Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4843",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Thank you. honey."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "It's okay. It's okay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4844",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Do you like the way I feel?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "See my breasts? See?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4845",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "See my nipples?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "You can kiss them if you want. Feel them. They're getting hard."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4846",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "You can hit me, if you want to."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No, please. I won't."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4847",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Do you like me?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes, I like you."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "You can be my special friend and come and put that in me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4848",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "I made it go down the toilet."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "What?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4849",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Next Christmas. Is he Santa Claus who has left a present for Dorothy? What was it? An ear? Another ear?!!  What was it?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Do you know?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "You don't?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. What is happening?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Maybe you don't know. I know you though. You're Jeffrey Beaumont and I know where you live and I know ways to get you and I know ways to kill you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Please don't talk like that. You're upset. I'm not helping you. I'm sorry for what I did. I better go."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Go then. I can't let you put it in me now but I want you. I like you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Then don't talk about killing."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Did I say that? I didn't mean it, or did I?  Sometimes I think it would be fun.  Go ahead, you better leave now. I can't open myself to you now. I'll tell you a little secret.  I want to die."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Don't say that."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "It's a secret so don't tell anyone. Some day I'll show you where. I've gotta go to sleep now."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "OK."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4850",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Hi, can I come in?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Yeah, hurry up though."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4851",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Why are you here. Whatiya want?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I, uh."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I looked for you in my closet tonight.  It's crazy, I don't know where you came from, but I like you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "That's not crazy. I like you too."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4852",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "I liked being with you last night."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Same here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4853",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Oh shit."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Frank? Can you stand up?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I'm alright. Go hide. This won't take long. Be quiet."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4854",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Nice guy. Who's he?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Who's it, you mean."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4855",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Oh God. Don!!! Why can't I just die."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "There you go again. Stop saying that. You can make it."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I can't. I can't. You think you know so much."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Take it easy. What's goin' on anyway? Why are you in so much trouble?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4856",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Look."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Falling."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. Please, Dorothy. Why are you in so much trouble?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4857",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Who is Don?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Don? Are you in with them?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. But you're in very big trouble."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Why are you so interested? Why do you keep asking me?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I came back to help you. You said do I let girls sneak into my house. You know where I live. If you need to, come to where I live, OK?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Who are you? Maybe I'll need to. You like me, huh?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Or do you just want me? I'm going to let you enter me now."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. I should go."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Please, please stay."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4858",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Come in."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Hello."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4859",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "It used to make me laugh, but."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'm sorry, maybe I better go Dorothy."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Yes. Frank--"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Frank is coming?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "No. How could he? Don't go. You think I'm crazy, don't you? I want you to stay.  Don't hate me."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I sure don't hate you."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I'm not crazy.  I know the difference between right and wrong."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "That's good."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4860",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Do you like my body?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Sure I do."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4861",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "What do you want to do?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'm doing it."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Are you a bad boy?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Whatiya mean?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Do you want to do bad things?  Anything, anything."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "What do you want?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I want you to hurt me."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. I told you. I don't want to hurt you. I want to help you. I think I know some of what is happening to you.  Dorothy? Frank has your husband and son. Dorothy? Doesn't he? You have to do something Dorothy. Go to the police."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "No police!!!  No police!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4862",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "You like to open me, don't you?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "What if I told Frank that you opened me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4863",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "That wouldn't be too good, would it?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Frank would open you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Okay. I know you've been scared. Now you want to scare someone."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Does that scare you?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Shut up."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Beeeee careful."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Come on Dorothy."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "What if Frank came over here and found us?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4864",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Look, snap out of it, will ya?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Kiss me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4865",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Do you love me?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Do you love me?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I asked first."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Sometimes I think I do."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "And sometimes you think you don't?! Well, get away then!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4866",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Wait a minute. Wait. Whatiya want? For cryin' out loud!"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Just get outta my bed."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4867",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "I love you Don with all my heart."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No, it's not Don."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4868",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "I didn't mean to hurt you."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Shhhhhh. Now I have your disease."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "You what?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "You put your disease in me. Your semen. It's hot and full of disease."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "There's no disease, I can tell you."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Men are crazy. Then they put their craziness into me. Then it makes me crazy. Then they aren't so crazy for awhile. Then they put their craziness in me again.  It's burning me, but I love you. I do, I do. Did you know that? Did you know that I love you?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I'm glad you do."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "There's so much I want to tell you. I'm in so much darkness though with things moving. There is darkness sucking me. It's kissing me and darkness is entering me. In every hole. It's opening me to a death."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Dorothy. No!"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "If I die, then they'll be free. It's getting late, isn't it? I can tell, it's a cold feeling when it's late. It's warm then it gets cold. Jeffrey. I feel it getting cold."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "You called me Jeffrey."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I did. Are you?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Why are you here?  HMMMMMMMM!!!! OK."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No. Not really.  But also because I really want you to be alright."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4869",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "I guess I should go."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I want you to stay with me."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I think I better go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4870",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "I'll call you."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Okay. Soon? Do you think I'm too fat?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "What?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "I'm getting a little bit fat. I hate that."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "You look beautiful to me."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4871",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Oh no."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "No.  Hi baby."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4872",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah, it's me."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Oh God, Jeffrey, is that you? Oh God."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4873",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Where have you been?  Oh God, they hurt him, Jeffrey. Jeffrey, Jeffrey, Jeffrey, hold me. HOLD ME. Oh God."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "It's okay. It's okay."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "My secret lover."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4874",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "They hurt his head."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Who, Dorothy?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Don. Help him. HELP HIM!! DONNY!!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4875",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Hold me, Don."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Don? Where is he?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "HELP HIM!! Promise me you'll help him!"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I promise, Dorothy. I promise."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Hold me. I'M FALLING!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4876",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "YELLOW MAN",
+        "text": "Frank gone?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Yeah, but get outta here. He's comin' back."
+      },
+      {
+        "speaker": "YELLOW MAN",
+        "text": "Bull."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Alright, suit yourself."
+      },
+      {
+        "speaker": "YELLOW MAN",
+        "text": "He's comin' back? What for?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "'Cause he's comin' back, that's what for. Frank's got you really loaded tonight."
+      },
+      {
+        "speaker": "YELLOW MAN",
+        "text": "Yeah, maybe so. Frank's got me, and you and really it's all thanks to Don, isn't it. Remember that. Your husband was the one who started fucking my mind with drugs."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Oh he forced you, huh?"
+      },
+      {
+        "speaker": "YELLOW MAN",
+        "text": "He's the reformed dealer though who wanted to turn himself in. He's the one that caused Frank to come and Frank's fucking us real good. I just feel so horny. I'm supposed to be here watching you why can't I be here fucking you. Listen. I know his cock's the size of a pin - let me give you the real thing. Let me wet my whistle, baby."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "No way, get out. I'm gonna tell Frank. I'm gonna tell him what you said."
+      },
+      {
+        "speaker": "YELLOW MAN",
+        "text": "Okay, I'm goin'. You'll see, I'll get you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4877",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Hello, baby."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Shut up. It's daddy, shit-head."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Hello, daddy."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "My bourbon."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4878",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "MOMMY!"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Mommy's here."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Baby wants to fuck."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4879",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Who's this fuck?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "He's a friend. From the neighborhood. We were just talking."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "From the neighborhood?  Shut the fuck up.  You like telephones? Huh? You wanta go for a ride?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4880",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Where are we going, Frank?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Hey Tits, I'm taking your neighbor to the country. Maybe something for you too."
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Frank?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "You want to see him too, right?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Yes, but."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Then, shut up!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4881",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Look at these. What are these?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Come on, Frank. Let's go. Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4882",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Don't say PLEASE, Fuckhead. WHAT ARE THESE?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "Those are my breasts."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Can I feel 'em?"
+      },
+      {
+        "speaker": "DOROTHY",
+        "text": "If you want to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4883",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "DOROTHY",
+        "text": "Frank, he didn't mean it. Leave him alone. Come on. He didn't mean it."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Shut up. Gimme your lipstick.  Hey, pretty, pretty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4884",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "F.B.I. MAN",
+        "text": "We're looking for him. In your opinion, why did Frank kidnap Dorothy's son and husband?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "He became obsessed with her. She hated him. He had to have her. He kidnapped them to control her. To make her do things. Then she wanted to commit suicide so he started cutting off ears as a warning to her to stay alive. I'm not kidding. Frank loved blue, blue velvet. He had to have Dorothy cause her whole life was blue."
+      },
+      {
+        "speaker": "F.B.I. MAN",
+        "text": "You seemed to see some very interesting things on your little escapade with Dorothy Vallens."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. I guess I did.  What's going to happen to me?"
+      },
+      {
+        "speaker": "F.B.I. MAN",
+        "text": "We're going to leave that up to Detective Williams. I'll tell you though, you're okay. You shot a real son of a bitch."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah. I sure know that. Yeah, but how many more are out there?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4885",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Hello?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Speak to me Fucker."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4886",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "No thanks."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "No thanks. What does that mean?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "I don't want to go."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Go where?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "On a ride."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "A ride? Hell, that's a good idea. Okay, let's go. Hey, let's go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4887",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Heineken."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "FUCK THAT SHIT. PABST BLUE RIBBON!!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4888",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Hey neighbor. Here's to Ben."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Here's to Ben."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Do you see, Ben? I can make him do anything I fuckin' please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4889",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Hey? You like to walk."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "What?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Let's take our neighbor out. Let him fuckin' walk back."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4890",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "What are you lookin' at?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Nothing."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Don't look at me, Fuck. I shoot when I see the whites of the eyes.  You like me?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4891",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Don't be a good neighbor to her or I'm gonna send you a love letter. Straight from my heart, fucker. You know what a love letter is? It's a bullet, straight from my gun, fucker. Once you get a love letter from me, you're fucked forever. Understand, Fuck?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yes."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "I'll send you straight to hell, Fuck!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4892",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Come on. I wancha to meet a frienda mine. Raymond, get enough beer for Ben too."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "Okay Frank."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "What kinda beer do you like?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4893",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "FRANK",
+        "text": "Raymond! Where's the fuckin' beer?"
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "Right here Frank. You want me to pour it?"
+      },
+      {
+        "speaker": "FRANK",
+        "text": "No, I want ya to fuck it. Shit, yes, pour the fuckin' beer."
+      },
+      {
+        "speaker": "RAYMOND",
+        "text": "There ya go."
+      },
+      {
+        "speaker": "FRANK",
+        "text": "Good, let's drink up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4894",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "I mean, for good, Jeffrey."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "For good? I can't Mom. Not right in the middle of the term."
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "Jeffrey, honey. Your father's condition is serious. It's going to cost so much. We just won't have the money to keep you in school. I'm telling you this now, so that you can get your things together and check out of school, honey, or whatever you have to do, it'll save you another trip back. You're going to have to work at the store."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Mom."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4895",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "Where's all your things, Jeffrey?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "This is it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4896",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "Jeffrey, breakfast is ready."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Be right down."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4897",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "What time are visiting hours?"
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "I've made arrangements with Dr. Gynde for 10:30. But Jeffrey, you'll have to walk over; I need the car this morning."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Well. Okay."
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "Jeffrey, when you see your father."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Yeah?"
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "He doesn't know you're out of school. He thinks it's a vacation for you."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "What?"
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "It would be too much for him. So please let him think as he does, that you're home just to see him."
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Thanks a lot, Mom."
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "Jeffrey! Nobody wanted you to leave school and go to work in the store, maybe going back to school will be an option one day. I hope so."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4898",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "I'm going out for awhile."
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "Do you want the car?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "No, I'm just gonna walk around."
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "Alright."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4899",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "Can I use the car tonight?"
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "Of course, Jeffrey."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_4900",
+    "movie_id": "m36",
+    "turns": [
+      {
+        "speaker": "JEFFREY",
+        "text": "God, you scared me."
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "Is something wrong? What's happened to your face?"
+      },
+      {
+        "speaker": "JEFFREY",
+        "text": "Nothing. I'm fine."
+      },
+      {
+        "speaker": "MRS. BEAUMONT",
+        "text": "You can't just stay out half the night and carry on, Jeffrey. There's got to be some order, Jeffrey. I thought it would have been nice to call your father when you got home but now it is much too late."
+      }
+    ]
+  }
+]

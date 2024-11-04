@@ -1,0 +1,2130 @@
+[
+  {
+    "conversation_id": "conv_30001",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "NAULS",
+        "text": "Get back!!"
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "The generator!"
+      },
+      {
+        "speaker": "NAULS",
+        "text": "Screw the generator!!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30002",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "NAULS",
+        "text": "Got Sanchez... World War Three wouldn't mess with this fucker... Can go through walls... And it's like all over the place..."
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "Calm down and get in your position."
+      },
+      {
+        "speaker": "NAULS",
+        "text": "Position, my ass..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30003",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "NAULS",
+        "text": "Maybe it ain't coming."
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "Then we go after him."
+      },
+      {
+        "speaker": "NAULS",
+        "text": "Bet the last place you ever go."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30004",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "NORRIS",
+        "text": "You jerking off or just pissed?"
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "We got any more of those electronic chess things down in supply?"
+      },
+      {
+        "speaker": "NORRIS",
+        "text": "Get your gear on."
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "What for?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30005",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "NORRIS",
+        "text": "Magnesium of some type... or some kind of strange alloy.  And those poor dumb bastards had to go and blow the hell out of it."
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "So what do you make of it?"
+      },
+      {
+        "speaker": "NORRIS",
+        "text": "You know damn well what we both make of it."
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "No chance it could have been some new kind of test craft?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30006",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "NORRIS",
+        "text": "Somebody else sure as hell thought so."
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "Who else could have used that key?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30007",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "NORRIS",
+        "text": "We should sleep in shifts."
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "Right.  Half of us awake at all times."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30008",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "MACREADY",
+        "text": "What's happened?!"
+      },
+      {
+        "speaker": "NORRIS",
+        "text": "MacReady, that you?"
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "Yeah!"
+      },
+      {
+        "speaker": "NORRIS",
+        "text": "It's the generator I think!  No power."
+      },
+      {
+        "speaker": "MACREADY",
+        "text": "Well, let's get down there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30009",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "NAULS",
+        "text": "... Made sure I got ahead of him on the towline on the way back... cut him loose."
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "MacReady...?"
+      },
+      {
+        "speaker": "NAULS",
+        "text": "He's one of them."
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "When do you think it got to him?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30010",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "SANCHEZ",
+        "text": "You hear that?"
+      },
+      {
+        "speaker": "NAULS",
+        "text": "Hear what?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30011",
+    "movie_id": "m213",
+    "turns": [
+      {
+        "speaker": "NAULS",
+        "text": "It's got into the pub!  It's turned on the stereo!"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "What?!"
+      },
+      {
+        "speaker": "NAULS",
+        "text": "It's in between us and them!!  How we going to get back?!"
+      },
+      {
+        "speaker": "SANCHEZ",
+        "text": "Can't hear you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30012",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "KALEN",
+        "text": "It must have been hard, leaving your work."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "The journey is part of my work."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30013",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "KALEN",
+        "text": "Now how did you get hurt?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I had an accident."
+      },
+      {
+        "speaker": "KALEN",
+        "text": "I figured that.  What kind of accident?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30014",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "KALEN",
+        "text": "What do you do on the towers?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "On the towers?"
+      },
+      {
+        "speaker": "KALEN",
+        "text": "I'm training to be a high climber."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30015",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Ah... no."
+      },
+      {
+        "speaker": "KALEN",
+        "text": "Don't tell me you're a mud carrier."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "'Fraid so.  Just a regular old... mud carrier."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30016",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "... Thousands and thousands of people.  And sometimes we live in great buildings that reach up five or ten stories."
+      },
+      {
+        "speaker": "KALEN",
+        "text": "And everyone looks like us?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Exactly like you.  Well, maybe not as healthy."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30017",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "KALEN",
+        "text": "She didn't want me to be a climber. She wanted me to be a planner like her."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I'm so sorry, Kalen."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30018",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "How can they just go back to work as if nothing happened?"
+      },
+      {
+        "speaker": "KALEN",
+        "text": "What else can they do?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Kalen... Do you have any idea where they take them?"
+      },
+      {
+        "speaker": "KALEN",
+        "text": "We're not supposed to think about it.  But I dream about it sometimes..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30019",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "KALEN",
+        "text": "There's a place that might help... we could try going there."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Where?"
+      },
+      {
+        "speaker": "KALEN",
+        "text": "The Hall of Books."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You have books?!  Kalen, you've got to take me there.  There might be history.  Records.  Something to help us find where the Morlocks took --"
+      },
+      {
+        "speaker": "KALEN",
+        "text": "I shouldn't have mentioned it.  We can't go there."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30020",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "KALEN",
+        "text": "No one ever comes here.  My mother told me stories about it late at night.  They tell all the children."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "What kind of stories?"
+      },
+      {
+        "speaker": "KALEN",
+        "text": "About the voice in the darkness. About the ghosts..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30021",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "KALEN",
+        "text": "I had a friend who came here once. Sort of a dare."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "What happened?"
+      },
+      {
+        "speaker": "KALEN",
+        "text": "He came back screaming... He never talked about it after that.  I don't think he even got this far."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30022",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "I think we should go on by ourselves."
+      },
+      {
+        "speaker": "KALEN",
+        "text": "No..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Please, just listen to me... Your mother would be very cross with me if you got hurt.  I'll find her."
+      },
+      {
+        "speaker": "KALEN",
+        "text": "But you're only a mud carrier."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I'll be all right... You go back to the village and light the fire.  So we can find our way home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30023",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "... Well, you wanted to see it."
+      },
+      {
+        "speaker": "KALEN",
+        "text": "This is it?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Around here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30024",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Yes.  Just about here."
+      },
+      {
+        "speaker": "KALEN",
+        "text": "But there's nothing here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30025",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "Right up your alley, I would think. You are from the past, yes?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "How did you know?!"
+      },
+      {
+        "speaker": "VOX",
+        "text": "I can smell carcinogens and industrial pollutants on your skin that have not been known here for --  -- 800,000 years perhaps.  Don't keep me in suspense.  What year?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "1899."
+      },
+      {
+        "speaker": "VOX",
+        "text": "I must say, you look remarkably good.  You don't want a book then?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "What are you?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "I'm the librarian.  I've always been the librarian."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I know you -- you're an automaton of some sort that --"
+      },
+      {
+        "speaker": "VOX",
+        "text": "An \"automaton\"?!  Please!  I'm a biomechanical organism.  Well, what's left of one.  What's left of all of them, actually.  I am the last...  ... And \"these fragments I have shored against my ruins.\"  T.S. Eliot.  You wouldn't know him yet but you'll just love him, he's divine, if a little dour.  Very shy though... hiding over here..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30026",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Sir... have you a name?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "I am called Vox...  ... Now you are Eloi."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30027",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Please, we need your help.  The Morlocks have taken --"
+      },
+      {
+        "speaker": "VOX",
+        "text": "Morlocks --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You know of them?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "Who doesn't know the Morlocks?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Do you know where they live?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "Oh yes... They found our knowledge useful for a time.  They used us much as your people did.  Then they decided they had learned enough so they tore us up for spare parts."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "But you escaped."
+      },
+      {
+        "speaker": "VOX",
+        "text": "I was lucky.  The others weren't."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "How have you survived so long?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30028",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "Regenerating fission reactor, you wouldn't understand.  It's power is well beyond your neanderthal cranial capacity."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Can you show us where they live?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30029",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "We need your help."
+      },
+      {
+        "speaker": "VOX",
+        "text": "Why should I help you?  You primates -- you great, lumbering, hairy animals, drenched in blood from the moment of your hideous conception -- what have you ever used knowledge for but destruction and bloodshed!  A little bit of learning and you lay waste to the world!  You're no better than the Morlocks!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30030",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Because you'll never die."
+      },
+      {
+        "speaker": "VOX",
+        "text": "Excuse me?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You'll live like this forever. Alone.  You were meant to help.  To be with people.  Not like this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30031",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "So, Relic, you want to open Pandora's box, do you?  See all the mysteries exposed?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Yes."
+      },
+      {
+        "speaker": "VOX",
+        "text": "And if the truth is so horrible that it will haunt your dreams for all time?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I'm used to that."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30032",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "When was his mother taken?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Last night."
+      },
+      {
+        "speaker": "VOX",
+        "text": "Send him away."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "What?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "Send him home.  You don't want him to see it."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Kalen... hold on a minute."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30033",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "My God... I saw this."
+      },
+      {
+        "speaker": "VOX",
+        "text": "It frightens you."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Yes..."
+      },
+      {
+        "speaker": "VOX",
+        "text": "It was meant to."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30034",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "So, do we go on?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Yes."
+      },
+      {
+        "speaker": "VOX",
+        "text": "Aren't you a plucky little -- ?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Oh, shut up."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30035",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "It's what they want you to see."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "This is the way in?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "Yes... Are you sure you want to do this?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Yes.  But you've done enough. Thank you for your help... I hope someday people read your books again."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30036",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "In for a penny, in for a pound.  Do you know that saying?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Yes... Thank you."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30037",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Machines?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "Yes."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Do you know which way?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30038",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Vox?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "This way."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30039",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "What's it all for?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "The air... the power."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Why did they built it?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "The Morlocks didn't build this."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30040",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "Alexander... Listen to me, it was wrong to bring you.  You're not going to find what you're looking for."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "What do you mean?"
+      },
+      {
+        "speaker": "VOX",
+        "text": "Trust me... You don't want to see any more."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30041",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "They raise them like cattle... Feed them until they're ready and then hunt them."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No..."
+      },
+      {
+        "speaker": "VOX",
+        "text": "How are your dreams now?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30042",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "This has to end."
+      },
+      {
+        "speaker": "VOX",
+        "text": "End...?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "This has to end."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30043",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Vox --"
+      },
+      {
+        "speaker": "VOX",
+        "text": "Imagine that... seems that little devil got my power relays..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30044",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "Takes a licking but keeps on ticking...  ... For a while anyway."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "What can I do?  Tell me what to do."
+      },
+      {
+        "speaker": "VOX",
+        "text": "Nothing to do, I'm afraid.  I'm just a librarian after all.  Wasn't exactly made for all this swashbuckling.  Very Byronic end, though.  I appreciate that.  Do you know Byron?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Vox..."
+      },
+      {
+        "speaker": "VOX",
+        "text": "I'm babbling.  Good to have someone to talk to for a change... But you need to go.  Take her out of here...  ... I don't have long."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I won't leave you like this."
+      },
+      {
+        "speaker": "VOX",
+        "text": "Go back to the light.  You weren't made for this.  I was... I was made for this moment."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I don't understand."
+      },
+      {
+        "speaker": "VOX",
+        "text": "I'm going to end it, Alexander.  As we discussed..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30045",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX",
+        "text": "Now get out of my sight, you hideous primate."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I'll never forget this."
+      },
+      {
+        "speaker": "VOX",
+        "text": "I should hope not...  ... Alexander... Make them read my books.  Tell them who they are. Who they could be."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I will..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30046",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "OVERLORD",
+        "text": "What's your name?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Alexander."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "Well, Alexander, as a fellow scientist I know you have a thousand questions --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You came underground when the world was ending above.  And you evolved. Some into the Morlocks and others --"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "No, we created the Morlocks."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Created?"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "You wouldn't understand.  We genetically engineered the Morlock class to serve our needs."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "As slaves."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "To work the machines and build the tunnels.  You can't imagine what it was like when it all started.  We survived for millennia, scraping the lichen and microscopic organisms from the rock with our teeth and digging for water with our nails.  Endlessly.  For generations.  And we... became."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30047",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "OVERLORD",
+        "text": "And centuries later when we tried to emerge into the sun again, we couldn't.  Our adaptation was too successful.  We survived... we endured... for this."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "How do you control the Morlocks?"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "We make them see what we wish."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "How?"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "As our bodies atrophied our minds... compensated."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30048",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "And what of the Eloi?"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "They survived above.  Became what they are."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No... they didn't survive only to be your food.  You did that."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "I'm afraid your indignation is lost here.  I have no more \"human\" response to the Eloi then you would have to a carrot.  It's just how we live now."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "But this is barbaric!  Have you completely lost all sense of --"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "And who are you, Alexander?  Who are you to question thousands of years of evolution?  This is the world now.  I am fact."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "It can't all be like this..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30049",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "What?"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "Go back to where you came from.  Or die here."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Why would you let me go back?"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "Because the past is immutable. Frozen.  Dead... And you are the past."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30050",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Say I just come back again?"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "Alexander, yours is a world of brocade and velvet, not tooth and claw.  Why would you come back to this?  To save a few cattle?  No."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I could tell them.  Warm them of what's to come."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30051",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Why?"
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "We have lost the capacity to reproduce.  But the species must continue."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "So you take their best..."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "When a creature shows too much independent thought we remove them from the gene pool.  We're breeding them for submission.  Soon they will be fully domesticated."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You took her because she helped me."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "Yes.  Initiative and daring are not desirable traits in the Eloi.  But you should be happy for her.  She won't remember the creature she was.  She will... become."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30052",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "OVERLORD",
+        "text": "She won't remember you.  None of them will.  You will be forgotten. That is how history works."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "A man can change his history."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "After all you've seen... after man's entire journey... you still believe that?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30053",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "OVERLORD",
+        "text": "Now will you go?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30054",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "OVERLORD",
+        "text": "If I can only find the right door... the lady or the tiger..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No..."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "It's always the tiger for you, Alexander, haven't you learned that by now?..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30055",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "OVERLORD",
+        "text": "That was a foolish thing to do."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I'm a foolish man."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30056",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "OVERLORD",
+        "text": "I could have a hundred Morlocks here in thirty seconds."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I know."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "Does this prove something to you? Have you made some great stand of which I'm unaware?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30057",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "I'm tired of running."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "Oh, you won't be running for long..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30058",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "OVERLORD",
+        "text": "But you've earned a reward for your valor.  I think you should become. You'll like it here.  Once you get used to the darkness."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I don't think that's going to happen."
+      },
+      {
+        "speaker": "OVERLORD",
+        "text": "And why not?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Because..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30059",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "It's spectacular..."
+      },
+      {
+        "speaker": "MOTORIST",
+        "text": "Thanks.  Old Nell's my girl all right.  Al least when she decides to move, stubborn beast."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I've only read about them -- and the new internals."
+      },
+      {
+        "speaker": "MOTORIST",
+        "text": "Now that's what I call plain crazy -- internal combustion is just too dangerous, all those little explosions, never catch on."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "How do you keep the water temperature stable?"
+      },
+      {
+        "speaker": "MOTORIST",
+        "text": "There's a cantilevered gasket on the --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30060",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "MOTORIST",
+        "text": "God -- could have killed me -- bad girl, Nell!  How did you know to do that?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I just love mechanical things."
+      },
+      {
+        "speaker": "MOTORIST",
+        "text": "Well, much obliged -- I'm always forgetting the confounded brake -- say, if you wait until I get her up and running I'll give you a perambulation.  Tell you all about her."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Ahhh... I'm afraid I've got a prior commitment."
+      },
+      {
+        "speaker": "MOTORIST",
+        "text": "Next time then.  We perambulate here most every night."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You have my word...  ... She's just a beauty."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30061",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX KIOSK",
+        "text": "May I help you?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I -- what are you?!"
+      },
+      {
+        "speaker": "VOX KIOSK",
+        "text": "I am the Fifth Avenue Public Library informational kiosk.  VOX registration NY-114.  May I help you?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "What's happening to the moon?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30062",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "VOX KIOSK",
+        "text": "The 2005 terraforming demolitions for the lunar excavations sent the moon into a diminishing retrograde orbit resulting in global gravitational fluctuations, increased seismic activity and tidal anomalies.  Can I tell you more?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No -- wait -- the moon's falling out of orbit -- that's not possible!"
+      },
+      {
+        "speaker": "VOX KIOSK",
+        "text": "Well, considering it is, in fact, happening, I would assume it's possible.  The retrograde orbit began in 2005 when the demolitions for the lunar colonies --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Why is it -- breaking up?"
+      },
+      {
+        "speaker": "VOX KIOSK",
+        "text": "I was getting to that... The moon has reached the gravitational Roche Limit, 7,300 miles above the surface of the Earth.  This has created pressure on the lunar stratum beyond gravitational tolerances.  It might be helpful to know that the nearest public evacuation shelters can be found at Grand Central Station, Madison Square Garden --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30063",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You're late."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Got here as soon as I could."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Dance with me..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You know I can't."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Trust me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30064",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You promised me flowers."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "What?"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You promised me flowers tonight, don't you even remember?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Sorry... I was distracted."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Well there's something new."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I need to... um... talk to you."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Talk away, Professor."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Not here... alone.  May we? Please?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30065",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "... Orion's belt, pointing to the earth.  You see it over the rocks there?  Sailors consider that an omen of good fortune; the hunter watching over them on their travels... Are you listening to me, Alex?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "What?  Yes -- Orion -- good fortune -- sailors."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "All right, what is it now?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Emma, you know I have great... admiration for you."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Admiration?  My my."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I mean... well... affection."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "You're getting warmer."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30066",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Oh dammit, I love you!  I can't eat, I can't sleep, I can't think, all I do is moon over you and -- hum, apparently."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "And what do you propose, Professor? Shall we hold a seminar to study the problem?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30067",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You know, the moment is rather dying here."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Hold on... I know I have it..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30068",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "I know it's not a diamond but --"
+      },
+      {
+        "speaker": "EMMA",
+        "text": "A moonstone."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Your birth stone.  I thought --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30069",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You're late."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Got here as soon as I could."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Dance with me..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You know I can't."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Trust me..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30070",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Alex, what is it?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Holding you... again."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Darling."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I need... to talk to you."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "All right..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Not here... alone.  Please."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30071",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Let's walk through the park..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No... let's walk through the city."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "All right..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30072",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Alex, what is it?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Nothing -- let's just get out of the park."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30073",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Alex...?!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Shhh.  Let's just hurry on here. We don't have to talk, all right?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30074",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Why do we have to race for heaven's sake?!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I want to get into the light, that's all.  Please..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30075",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "My God..."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "Alex, it's just the zoo."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30076",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "You're so pale... I hope you're not coming down with something."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "No, I'm fine.  I'm...  ... wonderful.  Just walking down the street with you again."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "We took a walk three days ago."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Not like this.  Never like this. Emma, I swear to you -- if I've learned one thing, it's that moments like this are rare.  And I will thank God for them every moment of every day."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30077",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "They are rare...  ... Orion's belt, pointing to the earth --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "The sailor's omen of good fortune. The hunter watching over him on his travels."
+      },
+      {
+        "speaker": "EMMA",
+        "text": "So it's astronomy now, is it?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30078",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Heavens, look at that now!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I've seen it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30079",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Now I know you're ill -- passing up the chance to explore some new gadget."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "It's only a machine."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30080",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Alex... people are staring."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Let them."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30081",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "EMMA",
+        "text": "Let them."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I have something for you..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30082",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "... The point is I know it will work once the, um, numbers and such are in order."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "Do you know you were humming?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I was not."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "Somewhere around \"D+2xy something something.\""
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Damned if I can keep her out of my equations."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "Tonight's the night?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "God, and I'm running late --"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30083",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "... One day he'll be discovered by some future archeologists and they won't know what to make of him. The thick brow, so lacking in imagination.  The dim little eyes, devoid of curiosity."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "You know generally teachers are supposed to teach real equations that add up to real numbers."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Where's the challenge in that?"
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "Alex, this is your first year as an associate professor.  You might want to play things a little more conservatively."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You sound like my father..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30084",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Look at them, Philby, all alike, everyone in an identical bowler hat.  Do you want your students to turn out like them?"
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "I want my students to emerge with theoretical and practical knowledge."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I don't.  I want them to run along this street and knock off every bowler they see."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "You may not like it, but this is the world we live in, Alex.  Little grey men with little grey hats."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "But shouldn't it be better? Shouldn't we be teaching our students to imagine a world beyond all this?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30085",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "In the future, we'll be better."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "What?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Nothing."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30086",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Emma actually likes chalk dust -- says it smells like me."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "How romantic..."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30087",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "PHILBY",
+        "text": "The most able inventor I know and you can't tie a simple four-in- hand."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "That's how I knew we were destined to be together.  When I met her parents for the first time I came right from class and I was covered in chalk.  They sniffed and snorted, but she just smiled.  At that moment -- I just knew.  How did you know with Molly?"
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "She made the best Shepherd's pie I ever tasted."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Do you have a romantic bone in your body?"
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "No, I'm all bowler hat, remember?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30088",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "PHILBY",
+        "text": "Alex, really... good luck tonight. She's a fine girl, and she's done wonderful things for you."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Oh?"
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "She's gotten into your equations."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30089",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "PHILBY",
+        "text": "All these clocks -- how can you constantly be running late?!"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Perseverance."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30090",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "I've been working."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "I came by the house every day after the funeral.  And then every week. Then every other month.  Then I stopped coming.  Did you even notice?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I'm sorry, David."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "It hurt me, Alex.  Very much."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Then why are you here?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30091",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "PHILBY",
+        "text": "It's my Jamie's birthday today. Your godson.  He's nine years old. At his party he asked me if Uncle Alex was coming.  I told him no. Then he asked me if you didn't like him anymore."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "For God's Sake, David --"
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "There are some things I need to say to you.  You may not like hearing them, but I don't know if I'll ever get another chance --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You care for me.  And you're concerned.  And I have to start living my life again.  I hear it from Mrs. Watchit every day."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "But you won't listen.  You won't see me, you won't see anyone.  What would you like me to tell Jamie? That Uncle Alex is busy?  That Uncle Alex is hiding up there in his laboratory --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Hiding?"
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "You know that's what it is.  Mrs. Watchit tells me you're here at all hours -- day and night --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "That's because I'm working.  You remember that?  You used to care about your work."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "I care more about my life.  And yours."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30092",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "PHILBY",
+        "text": "What happened to Emma will never go away.  It's part of you now and it always will be.  But you have to learn to live with it..."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I live with it every minute of every day."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "I know that --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You don't know that.  You couldn't possibly.  If I'd only done this, or that, if I'd arrived ten minutes earlier, or later.  If we'd taken a different path or I hadn't fought the man for the ring.  You have no idea what it is to relive every moment of that night -- consider every action you made -- and every one of them wrong."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "It wasn't your fault, Alex."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Wasn't it?... I have a dream almost every night now.  The Lady and the Tiger, you remember that story?  In the dream I'm alone in a huge chamber with a thousand doors. Behind every door, save one, is a tiger.  I have to make the decision.  Which door conceals Emma?  And I just stand there... looking at the doors..."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "Do you find her?"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30093",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "PHILBY",
+        "text": "Alex, nothing will ever change what happened, but --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "That's where you're wrong.  I will change it."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30094",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "David... I appreciate your concern, I do.  But I ask you to have faith in me.  Just for a little while longer.  I'm working on something now.  Something... extraordinary."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "What is it?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "You wouldn't believe me."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "I would."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I'll tell you what... come by for dinner in a week and I'll show you."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "Why don't you come to our house instead?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I can't do that --"
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "When's the last time you were outside this house --  -- or this room?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I can't leave when I'm so close."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "There are trains leaving Grand Central every then minutes.  A dozen liners leaving the harbor. Get on one of them.  Go to Singapore, Scotland, Manchuria, anywhere, just away from here --"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "That's absurd --"
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "You're dying here.  Don't you see that?!"
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30095",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "You won't say that in a week."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "I pray to God that in a week you're not here."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30096",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "PHILBY",
+        "text": "All right.  I'll come for dinner. And in the meantime... you'll think about what we discussed?"
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "In a week... we will never have had this conversation."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30097",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "Good night, David."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "Good night, Alex."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30098",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "And this would be my study.  There was an elm tree outside the window then."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "I'm glad."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30099",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "ALEXANDER",
+        "text": "This... was my home."
+      },
+      {
+        "speaker": "PHILBY",
+        "text": "His home."
+      }
+    ]
+  },
+  {
+    "conversation_id": "conv_30100",
+    "movie_id": "m214",
+    "turns": [
+      {
+        "speaker": "THIN MAN",
+        "text": "Couldn't help but overhearing.  Two fine young people starting out on the road of life.  I wish you the very best."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Thank you..."
+      },
+      {
+        "speaker": "THIN MAN",
+        "text": "I hope it's a happy journey for you both -- and much as I hate to do this, moved as I am by your protestations of love, I'll be needing your money now."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "Sir...?"
+      },
+      {
+        "speaker": "THIN MAN",
+        "text": "And your jewelry too.  I guess we could consider this your first little bump on the road to married bliss."
+      },
+      {
+        "speaker": "ALEXANDER",
+        "text": "I don't understand."
+      }
+    ]
+  }
+]
