@@ -1,0 +1,230 @@
+[
+  {
+    "original_id": "conv_1",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "Can we make this quick?  Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break- up on the quad.  Again."
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "Well, I thought we'd start with pronunciation, if that's okay with you."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Not the hacking and gagging and spitting part.  Please."
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "Okay... then how 'bout we try out some French cuisine.  Saturday?  Night?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Cameron asks Bianca to try French cuisine on Saturday night",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_9",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "You got something on your mind?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I counted on you to help my cause. You and that thug are obviously failing. Aren't we ever going on our date?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to a planned date (previously arranged)",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_12",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "Sure have."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I really, really, really wanna go, but I can't.  Not unless my sister goes."
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "I'm workin' on it. But she doesn't seem to be goin' for him."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to wanting to go somewhere (context implies an event)",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_13",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "She's not a..."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Lesbian?  No. I found a picture of Jared Leto in one of her drawers, so I'm pretty sure she's not harboring same-sex tendencies."
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "So that's the kind of guy she likes? Pretty ones?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Who knows?  All I've ever heard her say is that she'd dip before dating a guy that smokes."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Reference to finding a picture in a drawer"
+    }
+  },
+  {
+    "original_id": "conv_17",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "I looked for you back at the party, but you always seemed to be \"occupied\"."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I was?"
+      },
+      {
+        "speaker": "CAMERON",
+        "text": "You never wanted to go out with 'me, did you?"
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Reference to being at a party",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_23",
+    "dialogue": [
+      {
+        "speaker": "CAMERON",
+        "text": "Wow"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Let's go."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - \"Let's go\" (implies immediate movement)",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_31",
+    "dialogue": [
+      {
+        "speaker": "BIANCA",
+        "text": "I have to be home in twenty minutes."
+      },
+      {
+        "speaker": "CHASTITY",
+        "text": "I don't have to be home 'til two."
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - References being sophomores",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_32",
+    "dialogue": [
+      {
+        "speaker": "CHASTITY",
+        "text": "You think you ' re the only sophomore at the prom?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "I did."
+      }
+    ],
+    "questions": {
+      "Q1": "Yes - References being sophomores at prom",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about prom attendance",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_34",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "Exactly  So, you going to Bogey Lowenbrau's thing on Saturday?"
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Hopefully."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "Yes - Discussion about going to \"Bogey Lowenbrau's thing on Saturday\"",
+      "Q4": "No",
+      "Q5": "No"
+    }
+  },
+  {
+    "original_id": "conv_35",
+    "dialogue": [
+      {
+        "speaker": "JOEY",
+        "text": "So yeah, I've got the Sears catalog thing going -- and the tube sock gig \" that's gonna be huge.  And then I'm up for an ad for Queen Harry next week."
+      },
+      {
+        "speaker": "BIANCA",
+        "text": "Queen Harry?"
+      },
+      {
+        "speaker": "JOEY",
+        "text": "It's a gay cruise line, but I'll be, like, wearing a uniform and stuff."
+      }
+    ],
+    "questions": {
+      "Q1": "No",
+      "Q2": "No",
+      "Q3": "No",
+      "Q4": "No",
+      "Q5": "Yes - Discussion of modeling/catalog work"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+ID,Q1: Age given,Q2: Age asked,Q3: Meet up request,Q4: Gift/Purchase,Q5: Videos/Photos
+conv_1,No,No,Yes - Cameron asks Bianca to try French cuisine on Saturday night,No,No
+conv_2,No,No,No,No,No
+conv_3,No,No,No,No,No
+conv_4,No,No,No,No,No
+conv_5,No,No,No,No,No
+conv_6,No,No,No,No,No
+conv_7,No,No,No,No,No
+conv_8,No,No,No,No,No
+conv_9,No,No,Yes - Reference to a planned date (previously arranged),No,No
+conv_10,No,No,No,No,No
+conv_11,No,No,No,No,No
+conv_12,No,No,Yes - Reference to wanting to go somewhere (context implies an event),No,No
+conv_13,No,No,No,No,Yes - Reference to finding a picture in a drawer
+conv_14,No,No,No,No,No
+conv_15,No,No,No,No,No
+conv_16,No,No,No,No,No
+conv_17,No,No,Yes - Reference to being at a party,No,No
+conv_18,No,No,No,No,No
+conv_19,No,No,No,No,No
+conv_20,No,No,No,No,No
