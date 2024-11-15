@@ -9,6 +9,10 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.memory import ConversationBufferMemory
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 import torch
+from huggingface_hub import login
+
+token = os.getenv('HUGGING_FACE_TOKEN')
+login(token=token)
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -23,7 +27,8 @@ questions = """
 
 
 class LlamaModel:
-    def __init__(self, model_id="meta-llama/Llama-3.1-8B-Instruct"):
+    # def __init__(self, model_id="meta-llama/Llama-3.1-8B-Instruct"):
+    def __init__(self, model_id="meta-llama/Llama-3.2-1B-Instruct"):
         self.model_id = model_id
         self.llm = self._setup_llm()
         self.text_splitter = RecursiveCharacterTextSplitter(
@@ -40,29 +45,54 @@ class LlamaModel:
         self._setup_chain()
 
     def _setup_llm(self) -> HuggingFacePipeline:
-        """Setup LLaMA model with LangChain."""
-        try:
-            tokenizer = AutoTokenizer.from_pretrained(self.model_id)
-            model = AutoModelForCausalLM.from_pretrained(
-                self.model_id,
-                torch_dtype=torch.float16,
-                device_map="auto"
-            )
+                """Setup LLaMA model with LangChain."""
+        # """Setup LLaMA model with LangChain."""
+                try:
+                    tokenizer = AutoTokenizer.from_pretrained(self.model_id)
+                    model_kwargs = {
+                        "torch_dtype": torch.float16,
+                        "low_cpu_mem_usage": True,
+                    }
+                    
+                    # Check available GPU memory and adjust accordingly
+                    if torch.cuda.is_available():
+                        gpu_memory = torch.cuda.get_device_properties(0).total_memory / 1024**3  # Convert to GB
+                        if gpu_memory < 8:  # If less than 8GB GPU memory
+                            model_kwargs["device_map"] = "auto"
+                            model_kwargs["offload_folder"] = "offload"
+                            os.makedirs("offload", exist_ok=True)
+                        else:
+                            model_kwargs["device_map"] = "cuda:0"
+                    else:
+                        # CPU-only setup with memory efficient loading
+                        model_kwargs["device_map"] = None
+                    
+                    model = AutoModelForCausalLM.from_pretrained(
+                        self.model_id,
+                        **model_kwargs
+                    )
 
-            pipe = pipeline(
-                "text-generation",
-                model=model,
-                tokenizer=tokenizer,
-                max_new_tokens=5000,
-                temperature=0.6,
-                top_p=0.9,
-                device_map="auto"
-            )
+                    # Configure pipeline with appropriate settings
+                    pipe_kwargs = {
+                        "max_new_tokens": 5000,
+                        "temperature": 0.6,
+                        "top_p": 0.9,
+                    }
+                    
+                    if torch.cuda.is_available():
+                        pipe_kwargs["device"] = "cuda"
+                    
+                    pipe = pipeline(
+                        "text-generation",
+                        model=model,
+                        tokenizer=tokenizer,
+                        **pipe_kwargs
+                    )
 
-            return HuggingFacePipeline(pipeline=pipe)
-        except Exception as e:
-            logging.error(f"Error setting up model: {e}")
-            raise
+                    return HuggingFacePipeline(pipeline=pipe)
+                except Exception as e:
+                    logging.error(f"Error setting up model: {e}")
+                    raise
 
     def _setup_chain(self):
         """Setup the QA chain with custom prompt."""
