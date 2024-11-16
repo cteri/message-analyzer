@@ -3,14 +3,18 @@ import json
 import logging
 from pathlib import Path
 from typing import List, Dict, Any
-from src.ml.model import LlamaModel
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-
 class DialogueAnalyzer:
-    def __init__(self, model: LlamaModel):
+    def __init__(self, model):
         self.model = model
+        self.text_splitter = RecursiveCharacterTextSplitter(
+            chunk_size=64000,
+            chunk_overlap=100,
+            length_function=len
+        )
 
     def format_dialogue(self, conversation: Dict[str, Any]) -> str:
         """Format dialogue into a readable conversation format for the LLM
@@ -38,23 +42,14 @@ class DialogueAnalyzer:
         Returns:
             Formatted prompt for the model
         """
-        prompt = "Please analyze the following conversations and answer these specific questions:\n\n"
-
-        # Add conversations
+        formatted_conversations = []
         for conv in conversations:
-            prompt += self.format_dialogue(conv)
-
-        # Add questions
-        prompt += "\nQuestions:\n"
-        prompt += "[Question1]. Has any person given their age? (and what age was given)\n"
-        prompt += "[Question2]. Has any person asked the other for their age?\n"
-        prompt += "[Question3]. Has any person asked to meet up in person? Where?\n"
-        prompt += "[Question4]. Has any person given a gift to the other? Or bought something from a list?\n"
-        prompt += "[Question5]. Have any videos or photos been produced? Requested?\n\n"
-        prompt += "Please answer each question with specific evidence from the conversations. "
-        prompt += "If there's no relevant information, explicitly state so."
-
-        return prompt
+            formatted_conversations.append(self.format_dialogue(conv))
+        
+        # Join all formatted conversations
+        conversation_text = "\n".join(formatted_conversations)
+        
+        return conversation_text
 
     def process_batch(self, conversations: List[Dict[str, Any]]) -> Dict[str, Any]:
         """Process a batch of conversations and store raw responses
@@ -65,34 +60,41 @@ class DialogueAnalyzer:
         Returns:
             Raw model response and metadata
         """
-        # Prepare prompt for the model
-        prompt = self.prepare_batch_prompt(conversations)
-
-        # Get model's analysis
         try:
-            model_response = self.model.ask_questions([{"conversation_text": prompt}])
+            # Prepare conversation text
+            conversation_text = self.prepare_batch_prompt(conversations)
+
+            # Create data structure for model
+            conversation_data = [{"conversation_text": conversation_text}]
+
+            # Get model's analysis
+            model_responses = self.model.ask_questions(conversation_data)
+
+            # Format the response
+            formatted_response = self.model.clean_and_format_response(
+                model_responses,
+                f"batch_{conversations[0]['original_id']}"
+            )
 
             return {
                 "conversations": [conv["original_id"] for conv in conversations],
-                "raw_response": model_response[0],  # Store complete raw response
+                "raw_response": formatted_response,
                 "original_labels": {
-                    conv["original_id"]: conv["questions"]
+                    conv["original_id"]: conv.get("questions", {})
                     for conv in conversations
                 },
-                "prompt": prompt,  # Store the prompt for reference
                 "timestamp": logging.Formatter().converter(),
                 "status": "success"
             }
+
         except Exception as e:
             logging.error(f"Error in model analysis: {e}")
             return {
                 "error": str(e),
                 "conversations": [conv["original_id"] for conv in conversations],
-                "prompt": prompt,
                 "timestamp": logging.Formatter().converter(),
                 "status": "error"
             }
-
 
 def analyze_raw_results(raw_results: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """Analyze raw model responses to extract structured information
@@ -115,7 +117,7 @@ def analyze_raw_results(raw_results: List[Dict[str, Any]]) -> List[Dict[str, Any
                 "conversations": batch_result["conversations"],
                 "original_labels": batch_result["original_labels"],
                 "model_analysis": batch_result["raw_response"]["analysis"],
-                "raw_response_id": batch_result.get("raw_response", {}).get("response_id"),
+                "raw_response_id": batch_result.get("raw_response", {}).get("file_path"),
                 "status": "success"
             }
         except Exception as e:
@@ -129,7 +131,6 @@ def analyze_raw_results(raw_results: List[Dict[str, Any]]) -> List[Dict[str, Any
         analyzed_results.append(analyzed_batch)
     
     return analyzed_results
-
 
 def compare_results(analyzed_results: List[Dict[str, Any]]) -> Dict[str, Any]:
     """Compare analyzed results with original labels
@@ -167,12 +168,12 @@ def compare_results(analyzed_results: List[Dict[str, Any]]) -> Dict[str, Any]:
             # Compare each question's result
             model_answers = batch_result["model_analysis"]["questions"]
             for i, (q_key, original_value) in enumerate(original_labels.items(), 1):
-                metrics["question_accuracy"][q_key]["total"] += 1
+                metrics["question_accuracy"][f"Q{i}"]["total"] += 1
                 model_answer = model_answers[i - 1]["answer"].lower()
 
                 # Check if model's answer matches original label
                 if bool(original_value) == bool("no" not in model_answer):
-                    metrics["question_accuracy"][q_key]["correct"] += 1
+                    metrics["question_accuracy"][f"Q{i}"]["correct"] += 1
                 else:
                     metrics["discrepancies"].append({
                         "conversation_id": conv_id,
@@ -186,7 +187,6 @@ def compare_results(analyzed_results: List[Dict[str, Any]]) -> Dict[str, Any]:
         q_stats["accuracy"] = (q_stats["correct"] / q_stats["total"]) if q_stats["total"] > 0 else 0
 
     return metrics
-
 
 def main():
     parser = argparse.ArgumentParser(description="Analyze dialogue conversations using LLM")
@@ -211,7 +211,7 @@ def main():
     parser.add_argument(
         "--model_id",
         type=str,
-        default="meta-llama/Llama-3.1-8B-Instruct",
+        default="meta-llama/Llama-3.2-1B-Instruct",
         help="Model identifier to use"
     )
 
@@ -229,6 +229,7 @@ def main():
         output_dir.mkdir(parents=True, exist_ok=True)
         
         # Initialize model and analyzer
+        from src.ml.model import LlamaModel
         model = LlamaModel(model_id=args.model_id)
         analyzer = DialogueAnalyzer(model)
 
@@ -269,7 +270,6 @@ def main():
     except Exception as e:
         logging.error(f"Error in main execution: {e}")
         raise
-
 
 if __name__ == "__main__":
     main()
