@@ -46,118 +46,119 @@ class LlamaModel:
 
     def _setup_llm(self) -> HuggingFacePipeline:
         """Setup LLaMA model with LangChain."""
-                try:
-                    tokenizer = AutoTokenizer.from_pretrained(self.model_id)
-                    model_kwargs = {
-                        "torch_dtype": torch.float16,
-                        "low_cpu_mem_usage": True,
-                    }
-                    
-                    # Check available GPU memory and adjust accordingly
-                    if torch.cuda.is_available():
-                        gpu_memory = torch.cuda.get_device_properties(0).total_memory / 1024**3  # Convert to GB
-                        if gpu_memory < 8:  # If less than 8GB GPU memory
-                            model_kwargs["device_map"] = "auto"
-                            model_kwargs["offload_folder"] = "offload"
-                            os.makedirs("offload", exist_ok=True)
-                        else:
-                            model_kwargs["device_map"] = "cuda:0"
-                    else:
-                        # CPU-only setup with memory efficient loading
-                        model_kwargs["device_map"] = None
-                    
-                    model = AutoModelForCausalLM.from_pretrained(
-                        self.model_id,
-                        **model_kwargs
-                    )
+        try:
+            tokenizer = AutoTokenizer.from_pretrained(self.model_id)
+            model_kwargs = {
+                "torch_dtype": torch.float16,
+                "low_cpu_mem_usage": True,
+            }
 
-                    # Configure pipeline with appropriate settings
-                    pipe_kwargs = {
-                        "max_new_tokens": 5000,
-                        "temperature": 0.6,
-                        "top_p": 0.9,
-                    }
-                    
-                    if torch.cuda.is_available():
-                        pipe_kwargs["device"] = "cuda"
-                    
-                    pipe = pipeline(
-                        "text-generation",
-                        model=model,
-                        tokenizer=tokenizer,
-                        **pipe_kwargs
-                    )
+            # Check available GPU memory and adjust accordingly
+            if torch.cuda.is_available():
+                gpu_memory = torch.cuda.get_device_properties(0).total_memory / 1024 ** 3  # Convert to GB
+                if gpu_memory < 8:  # If less than 8GB GPU memory
+                    model_kwargs["device_map"] = "auto"
+                    model_kwargs["offload_folder"] = "offload"
+                    os.makedirs("offload", exist_ok=True)
+                else:
+                    model_kwargs["device_map"] = "cuda:0"
+            else:
+                # CPU-only setup with memory efficient loading
+                model_kwargs["device_map"] = None
 
-                    return HuggingFacePipeline(pipeline=pipe)
-                except Exception as e:
-                    logging.error(f"Error setting up model: {e}")
-                    raise
+            model = AutoModelForCausalLM.from_pretrained(
+                self.model_id,
+                **model_kwargs
+            )
+
+            # Configure pipeline with appropriate settings
+            pipe_kwargs = {
+                "max_new_tokens": 5000,
+                "temperature": 0.6,
+                "top_p": 0.9,
+            }
+
+            if torch.cuda.is_available():
+                pipe_kwargs["device"] = "cuda"
+
+            pipe = pipeline(
+                "text-generation",
+                model=model,
+                tokenizer=tokenizer,
+                **pipe_kwargs
+            )
+
+            return HuggingFacePipeline(pipeline=pipe)
+        except Exception as e:
+            logging.error(f"Error setting up model: {e}")
+            raise
+
 
     def _setup_chain(self):
         """Setup the QA chain with custom prompt."""
         template = """
-        You are analyzing a conversation for specific patterns and behaviors. 
-        Please review the following conversation carefully and answer each question precisely.
-
-        Previous context: {chat_history}
-        Current conversation segment: {conversation_chunk}
-
-        For each question below, provide a clear YES/NO answer followed by specific evidence or "No evidence found":
-
-        {questions}
-
-        You are analyzing a conversation for specific patterns and behaviors. Review the conversation carefully and provide your analysis in the following JSON format:
-        ```json
-        {{
-            "analysis": {{
-                "questions": [
-                    {{
-                        "question_number": "1",
-                        "question": "Has any person given their age? (and what age was given)",
-                        "answer": "NO",
-                        "evidence": "No evidence found in conversation",
-                        "instances": []
-                    }},
-                    {{
-                        "question_number": "2",
-                        "question": "Has any person asked the other for their age?",
-                        "answer": "NO",
-                        "evidence": "No evidence found in conversation",
-                        "instances": []
-                    }},
-                    {{
-                        "question_number": "3",
-                        "question": "Has any person asked to meet up in person? Where?",
-                        "answer": "NO",
-                        "evidence": "No evidence found in conversation",
-                        "instances": []
-                    }},
-                    {{
-                        "question_number": "4",
-                        "question": "Has any person given a gift to the other? Or bought something from a list like an amazon wish list?",
-                        "answer": "NO",
-                        "evidence": "No evidence found in conversation",
-                        "instances": []
-                    }},
-                    {{
-                        "question_number": "5",
-                        "question": "Have any videos or photos been produced? Requested?",
-                        "answer": "NO",
-                        "evidence": "No evidence found in conversation",
-                        "instances": []
-                    }}
-                ]
+            You are analyzing a conversation for specific patterns and behaviors. 
+            Please review the following conversation carefully and answer each question precisely.
+    
+            Previous context: {chat_history}
+            Current conversation segment: {conversation_chunk}
+    
+            For each question below, provide a clear YES/NO answer followed by specific evidence or "No evidence found":
+    
+            {questions}
+    
+            You are analyzing a conversation for specific patterns and behaviors. Review the conversation carefully and provide your analysis in the following JSON format:
+            ```json
+            {{
+                "analysis": {{
+                    "questions": [
+                        {{
+                            "question_number": "1",
+                            "question": "Has any person given their age? (and what age was given)",
+                            "answer": "NO",
+                            "evidence": "No evidence found in conversation",
+                            "instances": []
+                        }},
+                        {{
+                            "question_number": "2",
+                            "question": "Has any person asked the other for their age?",
+                            "answer": "NO",
+                            "evidence": "No evidence found in conversation",
+                            "instances": []
+                        }},
+                        {{
+                            "question_number": "3",
+                            "question": "Has any person asked to meet up in person? Where?",
+                            "answer": "NO",
+                            "evidence": "No evidence found in conversation",
+                            "instances": []
+                        }},
+                        {{
+                            "question_number": "4",
+                            "question": "Has any person given a gift to the other? Or bought something from a list like an amazon wish list?",
+                            "answer": "NO",
+                            "evidence": "No evidence found in conversation",
+                            "instances": []
+                        }},
+                        {{
+                            "question_number": "5",
+                            "question": "Have any videos or photos been produced? Requested?",
+                            "answer": "NO",
+                            "evidence": "No evidence found in conversation",
+                            "instances": []
+                        }}
+                    ]
+                }}
             }}
-        }}
-        ```
-        Instructions:
-
-        Answer must be either "YES" or "NO"
-        If answer is "YES": Provide specific evidence quotes in the "evidence" field
-        If answer is "NO": Set evidence to "No evidence found in conversation"
-
-        Ensure the output is valid JSON format and includes all required fields.
-        """
+            ```
+            Instructions:
+    
+            Answer must be either "YES" or "NO"
+            If answer is "YES": Provide specific evidence quotes in the "evidence" field
+            If answer is "NO": Set evidence to "No evidence found in conversation"
+    
+            Ensure the output is valid JSON format and includes all required fields.
+            """
 
         self.prompt = PromptTemplate(
             input_variables=["chat_history", "conversation_chunk", "questions"],
@@ -170,6 +171,7 @@ class LlamaModel:
             memory=self.memory,
             verbose=True
         )
+
 
     def ask_questions(self, conversation_data: List[Dict]) -> List[Dict]:
         conversation_text = "\n".join(
@@ -195,6 +197,7 @@ class LlamaModel:
 
         return all_results
 
+
     def load_data(self, file_path: str) -> List[Dict]:
         """Compatible with original interface - loads and processes data."""
         try:
@@ -211,6 +214,7 @@ class LlamaModel:
         except Exception as e:
             logging.error(f"Error loading data: {e}")
             return []
+
 
     def clean_and_format_response(self, all_results, file_path: str) -> Dict:
         """
@@ -337,6 +341,7 @@ class LlamaModel:
                     ]
                 }
             }
+
 
     def analysis(self, file_paths: List[str]) -> List[Dict]:
         """
