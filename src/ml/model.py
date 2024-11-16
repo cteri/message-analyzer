@@ -78,8 +78,8 @@ class LlamaModel:
                 "top_p": 0.9,
             }
 
-            if torch.cuda.is_available():
-                pipe_kwargs["device"] = "cuda"
+            # if torch.cuda.is_available():
+            #     pipe_kwargs["device"] = "cuda"
 
             pipe = pipeline(
                 "text-generation",
