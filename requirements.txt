@@ -33,3 +33,6 @@ tqdm~=4.66.5
 langchain~=0.3.4
 langchain-core~=0.3.13
 langchain-community~=0.3.3
+
+ollama~=0.3.3
+python-dotenv~=1.0.1
