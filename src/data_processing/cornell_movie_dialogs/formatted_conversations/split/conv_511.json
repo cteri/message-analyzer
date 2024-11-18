@@ -1,0 +1,29 @@
+{
+  "original_id": "conv_511",
+  "dialogue": [
+    {
+      "speaker": "CHILD",
+      "text": "I'm having a party tomorrow."
+    },
+    {
+      "speaker": "FLOYD",
+      "text": "Yes, I know that sweetheart."
+    },
+    {
+      "speaker": "CHILD",
+      "text": "Are you coming to my party?"
+    },
+    {
+      "speaker": "FLOYD",
+      "text": "No, I'm sorry, darling, I told you I won't be home for a few days."
+    },
+    {
+      "speaker": "CHILD",
+      "text": "When are you coming home?"
+    },
+    {
+      "speaker": "FLOYD",
+      "text": "In three days, darling, I hope."
+    }
+  ]
+}
