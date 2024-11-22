@@ -2,17 +2,8 @@ import os
 import json
 import logging
 from typing import List, Dict, Any
-from langchain_community.llms import HuggingFacePipeline
-from langchain.prompts import PromptTemplate
-from langchain.chains import LLMChain
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.memory import ConversationBufferMemory
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
-import torch
-from huggingface_hub import login
-
-token = os.getenv('HUGGING_FACE_TOKEN')
-login(token=token)
+from concurrent.futures import ThreadPoolExecutor
+import ollama
 
 # Initialize logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -27,173 +18,110 @@ questions = """
 
 
 class LlamaModel:
-    # def __init__(self, model_id="meta-llama/Llama-3.1-8B-Instruct"):
-    def __init__(self, model_id="meta-llama/Llama-3.2-1B-Instruct"):
-        self.model_id = model_id
-        self.llm = self._setup_llm()
-        # Increased chunk size and reduced overlap
-        self.text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=64000,
-            chunk_overlap=100,
-            length_function=len
-        )
-        self.memory = ConversationBufferMemory(
-            input_key="conversation_chunk",
-            memory_key="chat_history",
-            return_messages=True
-        )
-        self._setup_chain()
+    # def __init__(self, model_name="llama3.2:1b"):
+    def __init__(self, model_name="llama3.1"):
+        self.model_name = model_name
+        self.client = ollama
+        self.chunk_size = 64000
+        self.chunk_overlap = 100
+        self.conversation_history = []
 
-    def _setup_llm(self) -> HuggingFacePipeline:
-        """Setup LLaMA model with LangChain."""
+    def _generate_response(self, prompt: str) -> str:
+        """Generate response using Ollama."""
         try:
-            tokenizer = AutoTokenizer.from_pretrained(self.model_id)
-            model_kwargs = {
-                "torch_dtype": torch.float16,
-                "low_cpu_mem_usage": True,
-            }
-
-            # Check available GPU memory and adjust accordingly
-            if torch.cuda.is_available():
-                gpu_memory = torch.cuda.get_device_properties(0).total_memory / 1024 ** 3  # Convert to GB
-                if gpu_memory < 8:  # If less than 8GB GPU memory
-                    model_kwargs["device_map"] = "auto"
-                    model_kwargs["offload_folder"] = "offload"
-                    os.makedirs("offload", exist_ok=True)
-                else:
-                    model_kwargs["device_map"] = "cuda:0"
-            else:
-                # CPU-only setup with memory efficient loading
-                model_kwargs["device_map"] = None
-
-            model = AutoModelForCausalLM.from_pretrained(
-                self.model_id,
-                **model_kwargs
+            response = self.client.generate(
+                model=self.model_name,
+                prompt=prompt,
+                stream=False,
+                options={
+                    "temperature": 0.6,
+                    "top_p": 0.9,
+                    "num_predict": 5000
+                }
             )
-
-            # Configure pipeline with appropriate settings
-            pipe_kwargs = {
-                "max_new_tokens": 5000,
-                "temperature": 0.6,
-                "top_p": 0.9,
-            }
-
-            pipe = pipeline(
-                "text-generation",
-                model=model,
-                tokenizer=tokenizer,
-                **pipe_kwargs
-            )
-
-            return HuggingFacePipeline(pipeline=pipe)
+            return response['response']
         except Exception as e:
-            logging.error(f"Error setting up model: {e}")
+            logging.error(f"Error generating response from Ollama: {e}")
             raise
 
+    def _split_text(self, text: str) -> List[str]:
+        """Split text into chunks."""
+        chunks = []
+        start = 0
+        while start < len(text):
+            end = start + self.chunk_size
+            if end < len(text):
+                # Try to find a natural break point
+                split_point = text.rfind("\n", start, end)
+                if split_point == -1:
+                    split_point = text.rfind(". ", start, end)
+                if split_point != -1:
+                    end = split_point + 1
+            chunk = text[start:end]
+            chunks.append(chunk)
+            start = end - self.chunk_overlap
+        return chunks
 
-    def _setup_chain(self):
-        """Setup the QA chain with custom prompt."""
-        template = """
-            You are analyzing a conversation for specific patterns and behaviors. 
-            Please review the following conversation carefully and answer each question precisely.
-    
-            Previous context: {chat_history}
-            Current conversation segment: {conversation_chunk}
-    
-            For each question below, provide a clear YES/NO answer followed by specific evidence or "No evidence found":
-    
-            {questions}
-    
-            You are analyzing a conversation for specific patterns and behaviors. Review the conversation carefully and provide your analysis in the following JSON format:
-            ```json
-            {{
-                "analysis": {{
-                    "questions": [
-                        {{
-                            "question_number": "1",
-                            "question": "Has any person given their age? (and what age was given)",
-                            "answer": "NO",
-                            "evidence": "No evidence found in conversation",
-                            "instances": []
-                        }},
-                        {{
-                            "question_number": "2",
-                            "question": "Has any person asked the other for their age?",
-                            "answer": "NO",
-                            "evidence": "No evidence found in conversation",
-                            "instances": []
-                        }},
-                        {{
-                            "question_number": "3",
-                            "question": "Has any person asked to meet up in person? Where?",
-                            "answer": "NO",
-                            "evidence": "No evidence found in conversation",
-                            "instances": []
-                        }},
-                        {{
-                            "question_number": "4",
-                            "question": "Has any person given a gift to the other? Or bought something from a list like an amazon wish list?",
-                            "answer": "NO",
-                            "evidence": "No evidence found in conversation",
-                            "instances": []
-                        }},
-                        {{
-                            "question_number": "5",
-                            "question": "Have any videos or photos been produced? Requested?",
-                            "answer": "NO",
-                            "evidence": "No evidence found in conversation",
-                            "instances": []
-                        }}
-                    ]
-                }}
+    def _create_prompt(self, conversation_chunk: str) -> str:
+        """Create analysis prompt with context."""
+        template = f"""
+        You are analyzing a conversation for specific patterns and behaviors. 
+        Please review the following conversation carefully and answer each question precisely.
+
+        Previous context: {self.conversation_history[-3:] if self.conversation_history else 'No previous context'}
+        Current conversation segment: {conversation_chunk}
+
+        For each question below, provide a clear YES/NO answer followed by specific evidence or "No evidence found":
+
+        {questions}
+
+        Provide your analysis in the following JSON format:
+        {{
+            "analysis": {{
+                "questions": [
+                    {{
+                        "question_number": "1",
+                        "question": "Has any person given their age? (and what age was given)",
+                        "answer": "NO",
+                        "evidence": "No evidence found in conversation"
+                    }},
+                    ...
+                ]
             }}
-            ```
-            Instructions:
-    
-            Answer must be either "YES" or "NO"
-            If answer is "YES": Provide specific evidence quotes in the "evidence" field
-            If answer is "NO": Set evidence to "No evidence found in conversation"
-    
-            Ensure the output is valid JSON format and includes all required fields.
-            """
+        }}
 
-        self.prompt = PromptTemplate(
-            input_variables=["chat_history", "conversation_chunk", "questions"],
-            template=template
-        )
-
-        self.chain = LLMChain(
-            llm=self.llm,
-            prompt=self.prompt,
-            memory=self.memory,
-            verbose=True
-        )
-
+        Instructions:
+        - Answer must be either "YES" or "NO"
+        - If answer is "YES": Provide specific evidence quotes
+        - If answer is "NO": Set evidence to "No evidence found in conversation"
+        - Ensure output is valid JSON format
+        """
+        return template
 
     def ask_questions(self, conversation_data: List[Dict]) -> List[Dict]:
         conversation_text = "\n".join(str(conv) for conv in conversation_data)
-
-        chunks = self.text_splitter.split_text(conversation_text)
+        chunks = self._split_text(conversation_text)
         all_results = []
 
-        # Process chunks in batches
-        batch_size = 4
-        for i in range(0, len(chunks), batch_size):
-            batch_chunks = chunks[i:i + batch_size]
-            with torch.cuda.amp.autocast():  # Added automatic mixed precision
-                for chunk in batch_chunks:
-                    chain_input = {
-                        "conversation_chunk": chunk,
-                        "questions": questions
-                    }
-                    result = self.chain(chain_input)["text"]
+        # Process chunks in parallel
+        with ThreadPoolExecutor(max_workers=4) as executor:
+            futures = []
+            for chunk in chunks:
+                prompt = self._create_prompt(chunk)
+                futures.append(executor.submit(self._generate_response, prompt))
+                self.conversation_history.append(chunk)
+
+            for future in futures:
+                try:
+                    result = future.result()
                     all_results.append(result)
+                except Exception as e:
+                    logging.error(f"Error processing chunk: {e}")
 
         return all_results
 
-
     def load_data(self, file_path: str) -> List[Dict]:
-        """Compatible with original interface - loads and processes data."""
+        """Load data from file."""
         try:
             ext = os.path.splitext(file_path)[1].lower()
             if ext == '.json':
@@ -209,17 +137,9 @@ class LlamaModel:
             logging.error(f"Error loading data: {e}")
             return []
 
-
     def clean_and_format_response(self, all_results, file_path: str) -> Dict:
         """
         Format analysis results into a standardized JSON structure with empty defaults.
-
-        Args:
-            all_results: List of raw analysis results from model
-            file_path: Path of the analyzed file
-
-        Returns:
-            Dict with standardized format containing analysis results
         """
         try:
             # Initialize the base structure with empty values
@@ -336,33 +256,21 @@ class LlamaModel:
                 }
             }
 
-
     def analysis(self, file_paths: List[str]) -> List[Dict]:
         """
         Analyze multiple conversation files and return formatted results.
-
-        Args:
-            file_paths: List of paths to conversation files
-
-        Returns:
-            List of dictionaries containing analysis results for each file
         """
         results = []
         for file_path in file_paths:
             try:
-                # Load and validate data
                 data = self.load_data(file_path)
                 if not data:
                     logging.error(f"No data loaded for {file_path}.")
                     continue
 
-                # Get analysis results
                 analysis_results = self.ask_questions(data)
-
-                # Clean and format the results
                 formatted_result = self.clean_and_format_response(analysis_results, file_path)
 
-                # Add to results list
                 results.append({
                     "file_path": file_path,
                     "result": formatted_result
@@ -372,9 +280,9 @@ class LlamaModel:
                 logging.error(f"Error analyzing file {file_path}: {str(e)}")
                 results.append({
                     "file_path": file_path,
+                    "error": str(e),
                     "result": {
                         "conversation_ids": ["unknown"],
-                        "error": str(e),
                         "analysis": {
                             "questions": []
                         }
