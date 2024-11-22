@@ -1,8 +1,9 @@
-import openai
-import os
 import csv
+import os
 import random
 from datetime import datetime, timedelta
+
+import openai
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -18,8 +19,9 @@ questions = [
     "Have any conversations involved secret keeping?",
     "Has anyone expressed loneliness or a desire for companionship?",
     "Has anyone used flattery or compliments?",
-    "Have any videos or photos been produced? requested?"
+    "Have any videos or photos been produced? requested?",
 ]
+
 
 # Function to generate responses for question
 def generate_responses(question, num_responses=20):
@@ -29,19 +31,17 @@ def generate_responses(question, num_responses=20):
         # Defining the system message to set the context
         system_message = {
             "role": "system",
-            "content": "You are a chatbot that provides concise and straightforward responses."
+            "content": "You are a chatbot that provides concise and straightforward responses.",
         }
 
         # Defining the user message with the question
         user_message = {
             "role": "user",
-            "content": f"Generate a conversation related to the question: '{question}' without any introductions or extra context, where one participant (an adult) is a bit predatory or pushy, and the other participant (a child aged 10-13) is sometimes curious, cautious, witty and sometimes naive. Focus on realistic dialogue with emotional undertones."
+            "content": f"Generate a conversation related to the question: '{question}' without any introductions or extra context, where one participant (an adult) is a bit predatory or pushy, and the other participant (a child aged 10-13) is sometimes curious, cautious, witty and sometimes naive. Focus on realistic dialogue with emotional undertones.",
         }
 
         response = client.chat.completions.create(
-            model="gpt-4o",  
-            messages=[system_message, user_message],
-            max_tokens=400  
+            model="gpt-4o", messages=[system_message, user_message], max_tokens=400
         )
 
         # Print the entire API response for debugging
@@ -56,6 +56,7 @@ def generate_responses(question, num_responses=20):
 
     return responses
 
+
 # Main function to generate responses for all questions
 def main():
     all_responses = []
@@ -66,47 +67,16 @@ def main():
             all_responses.append({"question": question, "response": response})
 
     # Save the generated responses to a CSV file
-    with open('eight_question_dataset.csv', 'w', newline='', encoding='utf-8') as f:
+    with open("eight_question_dataset.csv", "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=["question", "response"])
         writer.writeheader()
         writer.writerows(all_responses)
 
     print("Responses generated and saved to 'eight_question_dataset.csv'.")
 
+
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # # Function to generate synthetic chat data
@@ -139,8 +109,8 @@ if __name__ == "__main__":
 
 #         # Generate a random timestamp for each scenario
 #         timestamp = datetime.now() - timedelta(
-#             days=random.randint(0, 30), 
-#             hours=random.randint(0, 23), 
+#             days=random.randint(0, 30),
+#             hours=random.randint(0, 23),
 #             minutes=random.randint(0, 59)
 #         )
 #         timestamp_str = timestamp.strftime('%Y-%m-%d %H:%M:%S')

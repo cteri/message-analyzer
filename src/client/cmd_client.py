@@ -1,18 +1,19 @@
 import argparse
 import json
+import logging
 import warnings
 from pathlib import Path
-import logging
+
 from src.ml.model import LlamaModel
 
 # Configure logging
 logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
 # Ignore all warnings
 warnings.filterwarnings("ignore")
+
 
 def save_raw_response(response, output_path):
     """Save the raw model response to a file."""
@@ -23,12 +24,15 @@ def save_raw_response(response, output_path):
     except Exception as e:
         logging.error(f"Error saving raw response: {e}")
 
+
 def main():
-    parser = argparse.ArgumentParser(description="Analyze conversations using LlamaModel")
+    parser = argparse.ArgumentParser(
+        description="Analyze conversations using LlamaModel"
+    )
     parser.add_argument(
         "--input_files",
         type=str,
-        nargs='+',
+        nargs="+",
         help="Paths to the input conversation files (supports .json, .txt, .csv)",
         required=True,
     )
@@ -68,7 +72,7 @@ def main():
         logging.info(f"\nProcessing file: {file_path}")
 
         analysis_results = result.get("result", {})
-        
+
         # Prepare output file paths
         input_file_name = Path(file_path).stem
         output_file = output_directory / f"{input_file_name}_analysis.json"
@@ -78,17 +82,20 @@ def main():
             with open(output_file, "w", encoding="utf-8") as f:
                 json.dump(analysis_results, f, ensure_ascii=False, indent=4)
             logging.info(f"Analysis for {file_path} saved to {output_file}")
-            
+
             # Log analysis summary
             if "analysis" in analysis_results:
                 questions = analysis_results["analysis"].get("questions", [])
                 for q in questions:
                     if q.get("answer") == "YES":
-                        logging.info(f"Found evidence for question {q['question_number']}: {q['evidence']}")
+                        logging.info(
+                            f"Found evidence for question {q['question_number']}: {q['evidence']}"
+                        )
 
         except Exception as e:
             logging.error(f"Error saving results for {file_path}: {e}")
             logging.error(f"Error details: {str(e)}")
+
 
 if __name__ == "__main__":
     main()
