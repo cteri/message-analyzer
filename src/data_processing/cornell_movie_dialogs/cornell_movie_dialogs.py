@@ -1,17 +1,24 @@
+import math
 import os
 import urllib.request
 import zipfile
+from typing import Dict, List
+
 import pandas as pd
-from typing import List, Dict
-import math
 
 
 class CornellMovieDialogsCorpus:
-    def __init__(self, data_dir: str = "cornell_movie_dialogs_corpus", output_dir: str = "split_conversations"):
+    def __init__(
+        self,
+        data_dir: str = "cornell_movie_dialogs_corpus",
+        output_dir: str = "split_conversations",
+    ):
         self.data_dir = data_dir
         self.output_dir = output_dir
         self.zip_path = "cornell_movie_dialogs_corpus.zip"
-        self.download_url = "http://www.cs.cornell.edu/~cristian/data/cornell_movie_dialogs_corpus.zip"
+        self.download_url = (
+            "http://www.cs.cornell.edu/~cristian/data/cornell_movie_dialogs_corpus.zip"
+        )
 
     def download_and_extract(self):
         """Download and extract the dataset"""
@@ -24,9 +31,9 @@ class CornellMovieDialogsCorpus:
 
         if not os.path.exists(os.path.join(self.data_dir, "movie_lines.txt")):
             print("Extracting files...")
-            with zipfile.ZipFile(self.zip_path, 'r') as zip_ref:
+            with zipfile.ZipFile(self.zip_path, "r") as zip_ref:
                 file_list = zip_ref.namelist()
-                root_dir = file_list[0].split('/')[0]
+                root_dir = file_list[0].split("/")[0]
                 zip_ref.extractall()
 
                 if root_dir != self.data_dir:
@@ -43,42 +50,48 @@ class CornellMovieDialogsCorpus:
         lines = {}
         lines_path = os.path.join(self.data_dir, "movie_lines.txt")
         print("Loading movie lines...")
-        with open(lines_path, 'r', encoding='iso-8859-1') as f:
+        with open(lines_path, "r", encoding="iso-8859-1") as f:
             for line in f:
-                parts = line.strip().split(' +++$+++ ')
+                parts = line.strip().split(" +++$+++ ")
                 if len(parts) == 5:
                     lines[parts[0]] = {
-                        'character_id': parts[1],
-                        'movie_id': parts[2],
-                        'character_name': parts[3],
-                        'text': parts[4]
+                        "character_id": parts[1],
+                        "movie_id": parts[2],
+                        "character_name": parts[3],
+                        "text": parts[4],
                     }
 
         # Read conversations
         conversations = []
         conv_path = os.path.join(self.data_dir, "movie_conversations.txt")
         print("Loading conversations...")
-        with open(conv_path, 'r', encoding='iso-8859-1') as f:
+        with open(conv_path, "r", encoding="iso-8859-1") as f:
             for i, line in enumerate(f):
-                parts = line.strip().split(' +++$+++ ')
+                parts = line.strip().split(" +++$+++ ")
                 conversation_ids = eval(parts[3])
                 turns = []
                 for line_id in conversation_ids:
                     if line_id in lines:
-                        turns.append({
-                            'speaker': lines[line_id]['character_name'],
-                            'text': lines[line_id]['text']
-                        })
+                        turns.append(
+                            {
+                                "speaker": lines[line_id]["character_name"],
+                                "text": lines[line_id]["text"],
+                            }
+                        )
                 if turns:  # Only add non-empty conversations
-                    conversations.append({
-                        'conversation_id': f'conv_{i + 1}',
-                        'movie_id': parts[2],
-                        'turns': turns
-                    })
+                    conversations.append(
+                        {
+                            "conversation_id": f"conv_{i + 1}",
+                            "movie_id": parts[2],
+                            "turns": turns,
+                        }
+                    )
 
         return conversations
 
-    def save_split_conversations(self, conversations: List[Dict], batch_size: int = 100):
+    def save_split_conversations(
+        self, conversations: List[Dict], batch_size: int = 100
+    ):
         """Save conversations in multiple files, each containing batch_size conversations"""
         import json
 
@@ -89,7 +102,9 @@ class CornellMovieDialogsCorpus:
         num_conversations = len(conversations)
         num_files = math.ceil(num_conversations / batch_size)
 
-        print(f"\nSplitting {num_conversations} conversations into {num_files} files...")
+        print(
+            f"\nSplitting {num_conversations} conversations into {num_files} files..."
+        )
 
         # Split and save conversations
         for i in range(num_files):
@@ -98,9 +113,11 @@ class CornellMovieDialogsCorpus:
             batch = conversations[start_idx:end_idx]
 
             # Create filename with padding zeros for correct sorting
-            filename = os.path.join(self.output_dir, f"conversations_part_{i + 1:03d}.json")
+            filename = os.path.join(
+                self.output_dir, f"conversations_part_{i + 1:03d}.json"
+            )
 
-            with open(filename, 'w', encoding='utf-8') as f:
+            with open(filename, "w", encoding="utf-8") as f:
                 json.dump(batch, f, ensure_ascii=False, indent=2)
 
             print(f"Saved {filename} with {len(batch)} conversations")
@@ -122,7 +139,7 @@ def main():
     example = conversations[0]
     print(f"Conversation ID: {example['conversation_id']}")
     print(f"Movie ID: {example['movie_id']}")
-    for turn in example['turns']:
+    for turn in example["turns"]:
         print(f"{turn['speaker']}: {turn['text']}")
 
     # Save split conversations

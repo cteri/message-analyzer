@@ -1,14 +1,18 @@
 # csv_analysis_client.py
 
 import argparse
-import pandas as pd
 import json
 import logging
 from pathlib import Path
-from typing import List, Dict, Any
+from typing import Any, Dict, List
+
+import pandas as pd
+
 from src.ml.model import LlamaModel  # Import the existing model class
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
 
 class CSVAnalysisClient:
@@ -53,13 +57,12 @@ class CSVAnalysisClient:
         total_batches = len(df) // batch_size + (1 if len(df) % batch_size > 0 else 0)
 
         for i in range(0, len(df), batch_size):
-            batch = df.iloc[i:i + batch_size]
+            batch = df.iloc[i : i + batch_size]
             logging.info(f"Processing batch {i // batch_size + 1}/{total_batches}")
 
             # Convert batch data to model-compatible format
             conversation_data = [
-                self.prepare_conversation_data(row)
-                for _, row in batch.iterrows()
+                self.prepare_conversation_data(row) for _, row in batch.iterrows()
             ]
 
             # Use existing model for analysis
@@ -74,30 +77,26 @@ class CSVAnalysisClient:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Analyze conversation CSV data using LlamaModel")
-    parser.add_argument(
-        "--input_file",
-        type=str,
-        help="Path to input CSV file",
-        required=True
+    parser = argparse.ArgumentParser(
+        description="Analyze conversation CSV data using LlamaModel"
     )
     parser.add_argument(
-        "--output_file",
-        type=str,
-        help="Path to save analysis results",
-        required=True
+        "--input_file", type=str, help="Path to input CSV file", required=True
+    )
+    parser.add_argument(
+        "--output_file", type=str, help="Path to save analysis results", required=True
     )
     parser.add_argument(
         "--batch_size",
         type=int,
         default=10,
-        help="Number of conversations to process per batch"
+        help="Number of conversations to process per batch",
     )
     parser.add_argument(
         "--model_id",
         type=str,
         default="meta-llama/Llama-3.1-8B-Instruct",
-        help="Model identifier to use"
+        help="Model identifier to use",
     )
 
     args = parser.parse_args()
@@ -119,20 +118,17 @@ def main():
             "analysis_summary": {
                 "total_conversations": len(df),
                 "processed_conversations": len(results),
-                "timestamp": pd.Timestamp.now().isoformat()
+                "timestamp": pd.Timestamp.now().isoformat(),
             },
             "detailed_results": results,
-            "validation_metrics": {
-                "agreement_rate": {},
-                "disagreement_details": []
-            }
+            "validation_metrics": {"agreement_rate": {}, "disagreement_details": []},
         }
 
         # Save results
         output_path = Path(args.output_file)
         output_path.parent.mkdir(parents=True, exist_ok=True)
 
-        with open(output_path, 'w', encoding='utf-8') as f:
+        with open(output_path, "w", encoding="utf-8") as f:
             json.dump(processed_results, f, indent=4, ensure_ascii=False)
 
         logging.info(f"Analysis complete. Results saved to {output_path}")

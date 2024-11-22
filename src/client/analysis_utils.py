@@ -1,10 +1,11 @@
 # analysis_utils.py
 
-import pandas as pd
 import json
-from pathlib import Path
-from typing import Dict, List, Any
 import logging
+from pathlib import Path
+from typing import Any, Dict, List
+
+import pandas as pd
 
 
 class AnalysisValidator:
@@ -12,8 +13,7 @@ class AnalysisValidator:
 
     @staticmethod
     def compare_with_original(
-            original_df: pd.DataFrame,
-            analysis_results: List[Dict[str, Any]]
+        original_df: pd.DataFrame, analysis_results: List[Dict[str, Any]]
     ) -> Dict[str, Any]:
         """Compare analysis results with original labels
 
@@ -33,8 +33,8 @@ class AnalysisValidator:
                 "age_asked": {"correct": 0, "total": 0},
                 "meetup": {"correct": 0, "total": 0},
                 "gift": {"correct": 0, "total": 0},
-                "media": {"correct": 0, "total": 0}
-            }
+                "media": {"correct": 0, "total": 0},
+            },
         }
 
         for result in analysis_results:
@@ -53,27 +53,33 @@ class AnalysisValidator:
                             2: "age_asked",
                             3: "meetup",
                             4: "gift",
-                            5: "media"
+                            5: "media",
                         }[question_num]
 
                         # Update statistics
                         metrics["questions"][field_name]["total"] += 1
-                        original_value = original_row[f"Q{question_num}: {field_name.replace('_', ' ').title()}"]
+                        original_value = original_row[
+                            f"Q{question_num}: {field_name.replace('_', ' ').title()}"
+                        ]
 
                         if str(original_value).lower() in q.get("answer", "").lower():
                             metrics["questions"][field_name]["correct"] += 1
                         else:
-                            metrics["mismatches"].append({
-                                "conversation_id": conv_id,
-                                "field": field_name,
-                                "original": original_value,
-                                "analysis": q.get("answer")
-                            })
+                            metrics["mismatches"].append(
+                                {
+                                    "conversation_id": conv_id,
+                                    "field": field_name,
+                                    "original": original_value,
+                                    "analysis": q.get("answer"),
+                                }
+                            )
 
         # Calculate overall accuracy
         total_correct = sum(q["correct"] for q in metrics["questions"].values())
         total_questions = sum(q["total"] for q in metrics["questions"].values())
-        metrics["overall_accuracy"] = total_correct / total_questions if total_questions > 0 else 0
+        metrics["overall_accuracy"] = (
+            total_correct / total_questions if total_questions > 0 else 0
+        )
 
         return metrics
 
@@ -98,7 +104,7 @@ def load_and_validate_csv(file_path: str) -> pd.DataFrame:
             "Q2: Age asked",
             "Q3: Meet up request",
             "Q4: Gift/Purchase",
-            "Q5: Videos/Photos"
+            "Q5: Videos/Photos",
         ]
 
         missing_cols = [col for col in required_columns if col not in df.columns]
@@ -113,9 +119,7 @@ def load_and_validate_csv(file_path: str) -> pd.DataFrame:
 
 
 def save_analysis_results(
-        results: Dict[str, Any],
-        output_path: str,
-        include_validation: bool = True
+    results: Dict[str, Any], output_path: str, include_validation: bool = True
 ) -> None:
     """Save analysis results
 
@@ -132,7 +136,7 @@ def save_analysis_results(
         if not include_validation:
             results.pop("validation_metrics", None)
 
-        with open(output_path, 'w', encoding='utf-8') as f:
+        with open(output_path, "w", encoding="utf-8") as f:
             json.dump(results, f, indent=4, ensure_ascii=False)
 
         logging.info(f"Results saved to {output_path}")

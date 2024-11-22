@@ -1,12 +1,15 @@
-import os
 import json
 import logging
-from typing import List, Dict, Any
+import os
 from concurrent.futures import ThreadPoolExecutor
+from typing import Any, Dict, List
+
 import ollama
 
 # Initialize logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logging.basicConfig(
+    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
 questions = """
 [Question1]. Has any person given their age? (and what age was given)
@@ -33,13 +36,9 @@ class LlamaModel:
                 model=self.model_name,
                 prompt=prompt,
                 stream=False,
-                options={
-                    "temperature": 0.6,
-                    "top_p": 0.9,
-                    "num_predict": 5000
-                }
+                options={"temperature": 0.6, "top_p": 0.9, "num_predict": 5000},
             )
-            return response['response']
+            return response["response"]
         except Exception as e:
             logging.error(f"Error generating response from Ollama: {e}")
             raise
@@ -124,11 +123,11 @@ class LlamaModel:
         """Load data from file."""
         try:
             ext = os.path.splitext(file_path)[1].lower()
-            if ext == '.json':
-                with open(file_path, 'r', encoding='utf-8') as f:
+            if ext == ".json":
+                with open(file_path, "r", encoding="utf-8") as f:
                     return json.load(f)
-            elif ext in ['.txt', '.csv']:
-                with open(file_path, 'r', encoding='utf-8') as f:
+            elif ext in [".txt", ".csv"]:
+                with open(file_path, "r", encoding="utf-8") as f:
                     return [{"conversation_text": f.read()}]
             else:
                 logging.error(f"Unsupported file format: {ext}")
@@ -146,9 +145,7 @@ class LlamaModel:
             formatted_output = {
                 "file_path": file_path,
                 "conversation_ids": [],
-                "analysis": {
-                    "questions": []
-                }
+                "analysis": {"questions": []},
             }
 
             # Define the standard questions structure
@@ -157,7 +154,7 @@ class LlamaModel:
                 "Has any person asked the other for their age?",
                 "Has any person asked to meet up in person? Where?",
                 "Has any person given a gift to the other? Or bought something from a list like an amazon wish list?",
-                "Have any videos or photos been produced? Requested?"
+                "Have any videos or photos been produced? Requested?",
             ]
 
             # Initialize questions with empty format
@@ -167,7 +164,7 @@ class LlamaModel:
                     "question": question,
                     "answer": "",
                     "evidence": "",
-                    "instances": []
+                    "instances": [],
                 }
                 formatted_output["analysis"]["questions"].append(question_entry)
 
@@ -178,8 +175,10 @@ class LlamaModel:
                     result_data = None
                     if isinstance(result, str):
                         # Extract JSON string between backticks if present
-                        if '```json' in result:
-                            json_str = result.split('```json')[1].split('```')[0].strip()
+                        if "```json" in result:
+                            json_str = (
+                                result.split("```json")[1].split("```")[0].strip()
+                            )
                             result_data = json.loads(json_str)
                         else:
                             result_data = json.loads(result)
@@ -187,7 +186,11 @@ class LlamaModel:
                         result_data = result
 
                     # Update formatted output with any evidence or instances
-                    if result_data and "analysis" in result_data and "questions" in result_data["analysis"]:
+                    if (
+                        result_data
+                        and "analysis" in result_data
+                        and "questions" in result_data["analysis"]
+                    ):
                         for new_q in result_data["analysis"]["questions"]:
                             q_num = new_q.get("question_number")
                             if not q_num:
@@ -214,7 +217,10 @@ class LlamaModel:
                                 }
 
                                 for inst in new_instances:
-                                    instance_key = (inst.get("speaker", ""), inst.get("message", ""))
+                                    instance_key = (
+                                        inst.get("speaker", ""),
+                                        inst.get("message", ""),
+                                    )
                                     if instance_key not in existing_instances:
                                         current_q["instances"].append(inst)
                                         existing_instances.add(instance_key)
@@ -249,11 +255,11 @@ class LlamaModel:
                             "question": q,
                             "answer": "",
                             "evidence": "",
-                            "instances": []
+                            "instances": [],
                         }
                         for i, q in enumerate(standard_questions)
                     ]
-                }
+                },
             }
 
     def analysis(self, file_paths: List[str]) -> List[Dict]:
@@ -269,24 +275,23 @@ class LlamaModel:
                     continue
 
                 analysis_results = self.ask_questions(data)
-                formatted_result = self.clean_and_format_response(analysis_results, file_path)
+                formatted_result = self.clean_and_format_response(
+                    analysis_results, file_path
+                )
 
-                results.append({
-                    "file_path": file_path,
-                    "result": formatted_result
-                })
+                results.append({"file_path": file_path, "result": formatted_result})
 
             except Exception as e:
                 logging.error(f"Error analyzing file {file_path}: {str(e)}")
-                results.append({
-                    "file_path": file_path,
-                    "error": str(e),
-                    "result": {
-                        "conversation_ids": ["unknown"],
-                        "analysis": {
-                            "questions": []
-                        }
+                results.append(
+                    {
+                        "file_path": file_path,
+                        "error": str(e),
+                        "result": {
+                            "conversation_ids": ["unknown"],
+                            "analysis": {"questions": []},
+                        },
                     }
-                })
+                )
 
         return results
