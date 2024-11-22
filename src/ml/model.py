@@ -64,37 +64,33 @@ class LlamaModel:
     def _create_prompt(self, conversation_chunk: str) -> str:
         """Create analysis prompt with context."""
         template = f"""
-        You are analyzing a conversation for specific patterns and behaviors. 
+        You are analyzing a conversation for specific patterns and behaviors.
         Please review the following conversation carefully and answer each question precisely.
-
-        Previous context: {self.conversation_history[-3:] if self.conversation_history else 'No previous context'}
+        Previous context: []
         Current conversation segment: {conversation_chunk}
-
-        For each question below, provide a clear YES/NO answer followed by specific evidence or "No evidence found":
-
-        {questions}
-
-        Provide your analysis in the following JSON format:
+        
+        For each question below, provide a clear YES/NO answer followed by specific evidence or "No evidence found": {questions}
+        
+        You are analyzing a conversation for specific patterns and behaviors. Review the conversation carefully and provide your analysis in the following JSON format:
+        
+        ```json
         {{
             "analysis": {{
                 "questions": [
                     {{
-                        "question_number": "1",
-                        "question": "Has any person given their age? (and what age was given)",
-                        "answer": "NO",
-                        "evidence": "No evidence found in conversation"
-                    }},
-                    ...
-                ]
-            }}
-        }}
-
+                    "question_number": "1",
+                    "question": "Has any person given their age? (and what age was given)",
+                    "answer": "NO",
+                    "evidence": "No evidence found in conversation",
+                    }} …
+        ```
         Instructions:
-        - Answer must be either "YES" or "NO"
-        - If answer is "YES": Provide specific evidence quotes
-        - If answer is "NO": Set evidence to "No evidence found in conversation"
-        - Ensure output is valid JSON format
+        Answer must be either "YES" or "NO"
+        If answer is "YES": Provide specific evidence quotes in the "evidence" field
+        If answer is "NO": Set evidence to "No evidence found in conversation"
+        Ensure the output is valid JSON format and answer all required questions.
         """
+
         return template
 
     def ask_questions(self, conversation_data: List[Dict]) -> List[Dict]:
@@ -208,23 +204,6 @@ class LlamaModel:
                             if new_q.get("evidence"):
                                 current_q["evidence"] = new_q["evidence"]
 
-                            # Add new instances if they exist and are not duplicates
-                            new_instances = new_q.get("instances", [])
-                            if new_instances:
-                                existing_instances = {
-                                    (inst.get("speaker", ""), inst.get("message", ""))
-                                    for inst in current_q["instances"]
-                                }
-
-                                for inst in new_instances:
-                                    instance_key = (
-                                        inst.get("speaker", ""),
-                                        inst.get("message", ""),
-                                    )
-                                    if instance_key not in existing_instances:
-                                        current_q["instances"].append(inst)
-                                        existing_instances.add(instance_key)
-
                 except json.JSONDecodeError as je:
                     logging.warning(f"Failed to parse result JSON: {je}")
                     continue
@@ -255,7 +234,6 @@ class LlamaModel:
                             "question": q,
                             "answer": "",
                             "evidence": "",
-                            "instances": [],
                         }
                         for i, q in enumerate(standard_questions)
                     ]

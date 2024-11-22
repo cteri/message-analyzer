@@ -1,0 +1,101 @@
+id,Q1,Q2,Q3,Q4,Q5
+conv_501,NO,"YES - HAL: 'There's no need for you to trouble.' (implying a request for not being troubled, but not directly asking for age)",NO,NO,NO
+conv_502,NO,NO,NO,NO,NO
+conv_503,NO,NO,NO,NO,NO
+conv_504,NO,NO,NO,NO,NO
+conv_505,NO,NO,NO,NO,NO
+conv_506,NO,"YES - [{'speaker': 'BOWMAN', 'text': 'Well, what is it?'}]",NO,NO,NO
+conv_507,NO,"YES - C12: CONINUED (no explicit question, but the response 'Well... it's silly, but... if you want to, why don't you?' implies a potential invitation or request)",NO,NO,NO
+conv_508,NO,"YES - 'Still, you really don't believe it, do you?' by BOWMAN - This line implies that Bowman is questioning C12's beliefs or understanding of something, possibly related to age or a similar concept.",NO,NO,NO
+conv_509,NO,"YES - No specific question about age was asked, but BOWMAN mentions 'why are we going?' which could imply a curiosity about the mission's purpose",NO,NO,NO
+conv_510,NO,"YES - CHILD: ""I'm fine, Daddy. When are you coming home?"" (implying asking about Father's return)",NO,NO,NO
+conv_511,NO,YES - CHILD: 'When are you coming home?' (implying interest in FLOYD's schedule),NO,NO,NO
+conv_512,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_513,NO,NO,NO,NO,NO
+conv_514,NO,NO,NO,NO,NO
+conv_515,NO,NO,NO,NO,NO
+conv_516,NO,NO,NO,NO,NO
+conv_517,NO,NO,NO,NO,NO
+conv_518,NO,"YES - ELENA: 'Are you sure you won't change your mind about a drink?' (implying asking about drink preferences, but not explicitly asking for age)",NO,NO,NO
+conv_519,NO,NO,NO,NO,NO
+conv_520,NO,NO,"YES - FLOYD said 'How do you do, Mr. Miller?' and MILLER replied saying he was on his way down to meet FLOYD",NO,NO
+conv_521,NO,NO,NO,NO,NO
+conv_522,NO,NO,NO,NO,NO
+conv_523,NO,NO,NO,NO,NO
+conv_524,NO,NO,NO,NO,NO
+conv_525,NO,"YES - SMYSLOV: Well, it's just for the past two weeks there have been some extremely odd things happening at Clavius.",NO,NO,NO
+conv_526,NO,"YES - FLOYD: ""You mean you haven't been able to get anyone at the base for ten days?""",NO,NO,NO
+conv_527,NO,NO,NO,NO,NO
+conv_528,NO,NO,NO,NO,NO
+conv_529,NO,NO,NO,NO,NO
+conv_530,NO,NO,NO,NO,NO
+conv_531,NO,NO,NO,NO,NO
+conv_532,NO,"YES - ""But you don't have any idea as to what it is?"" (FLOYD)",NO,NO,NO
+conv_533,NO,NO,NO,NO,NO
+conv_534,NO,NO,NO,NO,NO
+conv_535,NO,"YES - PILOT: 'Incidentally, Dr. Floyd, I wonder if I can have a word with you about the security arrangements?'",NO,NO,NO
+conv_536,NO,NO,NO,NO,NO
+conv_537,NO,NO,NO,NO,NO
+conv_538,NO,NO,NO,NO,NO
+conv_539,NO,NO,NO,NO,NO
+conv_540,NO,NO,NO,NO,NO
+conv_541,NO,NO,NO,NO,NO
+conv_542,NO,NO,NO,NO,NO
+conv_543,NO,NO,NO,NO,NO
+conv_544,NO,NO,NO,NO,NO
+conv_545,NO,NO,NO,NO,NO
+conv_546,NO,NO,NO,NO,NO
+conv_547,NO,"YES - [ speaker='ATTENDANT', text='Name?' ]",NO,NO,NO
+conv_548,NO,NO,NO,NO,NO
+conv_549,NO,NO,NO,"YES - The attendant offers to sell Luther gas: ""I'll even sell you some gas if you need it.""",NO
+conv_550,NO,NO,NO,NO,NO
+conv_551,NO,NO,NO,NO,NO
+conv_552,NO,NO,NO,NO,NO
+conv_553,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_554,NO,NO,NO,NO,NO
+conv_555,NO,NO,NO,NO,NO
+conv_556,NO,YES - No evidence found in conversation,NO,YES - GANZ says 'We'll pay for the girls and have a good time...',NO
+conv_557,NO,"YES - BILLY: 'He's just kiddin', you just keep doin' what I tell ya, you'll be okay.'",NO,NO,NO
+conv_558,NO,"YES - BILLY: Hey, what about me?",NO,YES - GANZ: And I need one more for my pal. Yeah. Make her an Indian.,NO
+conv_559,NO,YES - HAMMOND: 'You a schoolteacher...',NO,NO,NO
+conv_560,NO,"YES - CANDY: ""Hey, don't you think a hair stylists got any interest in gettin' it on?""",NO,"YES - HAMMOND: ""Here you go sweetheart, throw it my way.""",NO
+conv_561,NO,"YES - CANDY: ""You just quit bein' a priest or somethin'?"" (implying she's trying to understand Hammond's situation, but not explicitly asking his age)","YES - HAMMOND: ""Look, there's a place across the street. We can go right over there...""",NO,NO
+conv_562,NO,NO,NO,NO,NO
+conv_563,NO,NO,NO,NO,NO
+conv_564,NO,"YES - 'I said I wasn't a pro, remember?' - CANDY",NO,YES - 'Buy yourself something pretty' - HAMMOND,NO
+conv_565,NO,NO,"YES - ""I'll buy ya the best dinner in San Francisco...how'd that be? Then we'll go dancin', okay?""","YES - ""I'll buy ya the best dinner in San Francisco...how'd that be? Then we'll go dancin', okay?""",NO
+conv_566,NO,NO,NO,NO,NO
+conv_567,NO,YES - CATES: How about it?,NO,NO,NO
+conv_568,NO,"YES - 'Would you guys...' (implied question about age or status, but not explicitly stated)",NO,NO,NO
+conv_569,NO,NO,NO,NO,NO
+conv_570,NO,NO,NO,NO,NO
+conv_571,NO,NO,NO,NO,NO
+conv_572,NO,NO,NO,NO,NO
+conv_573,NO,NO,NO,NO,NO
+conv_574,NO,NO,NO,NO,NO
+conv_575,NO,"YES - 'You here to write my life story?' (HAMMOND) - implies asking about personal info, but not directly age; however, 'Not likely, Reggie.  Maybe I just need some help.' (CATES) - response doesn't ask for age explicitly, but HAMMOND's question can be seen as indirectly seeking personal info.",NO,NO,NO
+conv_576,NO,NO,"YES - CATES: ""Nice meeting you Reggie."" (implying a previous meeting, but not explicitly stating where)",NO,NO
+conv_577,NO,NO,NO,NO,NO
+conv_578,NO,NO,NO,YES - CATES: This prison gives out $400 suits?,NO
+conv_579,NO,NO,NO,NO,NO
+conv_580,NO,NO,NO,YES - You got a girl... shit... the generosity of women never ceases to amaze me.,NO
+conv_581,NO,NO,NO,NO,NO
+conv_582,NO,NO,NO,"YES - CATES: Yeah. (implying they have done something), HAMMOND: It looks like you bought it off one of the brothers.",NO
+conv_583,NO,"YES - HAMMOND: What gang you talkin' about, Jack?",NO,NO,NO
+conv_584,NO,NO,NO,NO,NO
+conv_585,NO,NO,"YES - Over there, just up the street",NO,NO
+conv_586,NO,"YES - No, there's no question about age, but rather a statement by Hammond: ""I got a whole thing about people pointin' guns at me.""",NO,NO,NO
+conv_587,NO,NO,NO,NO,NO
+conv_588,NO,NO,NO,NO,NO
+conv_589,NO,NO,NO,NO,NO
+conv_590,NO,YES - 'Who'd you call on the phone back at the booking station?' (HAMMOND),NO,NO,NO
+conv_591,NO,"YES - HAMMOND: 'You really do have onee, huh, Jack... what's her problem besides you?'",NO,NO,NO
+conv_592,NO,NO,NO,NO,NO
+conv_593,NO,"YES - HAMMOND: Last night, two nights ago, three?",NO,NO,NO
+conv_594,NO,YES - HAMMOND: You have a good time?,NO,NO,NO
+conv_595,NO,"YES - HAMMOND: 'Tell me a little about her.' No direct question about age, but HAMMOND is asking for more information.",NO,NO,NO
+conv_596,NO,NO,NO,NO,NO
+conv_597,NO,NO,NO,NO,NO
+conv_598,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_599,NO,NO,NO,NO,NO
+conv_600,NO,NO,NO,"YES - CATES: ""here, I'll even loan you my badge.""",NO

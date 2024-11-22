@@ -1,0 +1,101 @@
+id,Q1,Q2,Q3,Q4,Q5
+conv_101,NO,"YES - JOEY said 'What do you think?' which implies asking PATRICK's opinion, but it could be interpreted as a question about his thoughts rather than directly asking for age. However, there is no explicit mention of age in the conversation.",NO,NO,NO
+conv_102,NO,"YES - 'JOEY', 'text': ""But you'd go out with her if you had the cake?""'",NO,NO,NO
+conv_103,NO,YES - 'How much?' - PATRICK (implying he wants to know how much money is involved),NO,YES - 'I pick up the tab' - JOEY (implying he is paying for something),NO
+conv_104,NO,NO,NO,NO,NO
+conv_105,NO,NO,NO,NO,NO
+conv_106,NO,"YES - JOEY: When I shell out fifty, I expect results.",NO,NO,NO
+conv_107,NO,NO,NO,NO,NO
+conv_108,NO,NO,NO,NO,NO
+conv_109,NO,YES - JOEY: 'How'd you do it?' (implying asking about a past action),NO,NO,NO
+conv_110,NO,"YES - JOEY: 'Enough with the Barbie n' Ken shit. I know.' (This implies that Patrick might have shared some info, but it's not explicitly mentioned)",NO,"YES - PATRICK: 'I don't know, Dorsey...the limo.-the flowers. Another hundred for the tux --' (This implies that Patrick is discussing spending money on something)",NO
+conv_111,NO,"YES - 'JOEY', 'text': 'Are you lost?' (implied question about Michael's location, but not explicitly asking for age)",NO,NO,NO
+conv_112,NO,NO,NO,NO,NO
+conv_113,NO,"YES - 'JOEY', 'text': 'You and Verona?'",NO,NO,NO
+conv_114,NO,NO,NO,NO,NO
+conv_115,NO,NO,"YES - ""Block E?"" (KAT)",NO,NO
+conv_116,NO,NO,NO,NO,NO
+conv_117,NO,NO,NO,NO,NO
+conv_118,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_119,NO,NO,NO,NO,NO
+conv_120,NO,YES - MANDELLA: William would never have gone to a state school. (implying curiosity about William's educational background),NO,NO,NO
+conv_121,NO,NO,NO,NO,NO
+conv_122,NO,NO,NO,NO,NO
+conv_123,NO,YES - 'MANDELLA': 'What'd he say?',NO,NO,NO
+conv_124,NO,NO,NO,NO,NO
+conv_125,NO,NO,NO,NO,NO
+conv_126,NO,NO,YES - MANDELLA: 'he asked me to meet him here.',NO,NO
+conv_127,NO,NO,NO,NO,NO
+conv_128,NO,NO,"YES - PATRICK: 'Pick you up Friday, then'",NO,NO
+conv_129,NO,YES - 'Like where?  The 7-Eleven on Burnside?',NO,NO,NO
+conv_130,NO,"YES - PATRICK: ""You hate me don't you?"" (implying a personal or emotional relationship, but not explicitly asking for her age)","YES - PATRICK: ""Then say you'll spend Dollar Night at the track with me."" (referring to a specific location, likely a horse racing track)",NO,NO
+conv_131,NO,YES - KAT: Are you following me?,NO,NO,NO
+conv_132,NO,NO,NO,NO,NO
+conv_133,NO,NO,NO,NO,NO
+conv_134,NO,NO,NO,NO,NO
+conv_135,NO,"YES - KAT: 'You know who The Raincoats are?' (implying lack of knowledge, but not directly asking about age) No... Why, don't you? (PATRICK)",NO,NO,NO
+conv_136,NO,NO,NO,NO,NO
+conv_137,NO,NO,NO,NO,NO
+conv_138,NO,NO,NO,NO,NO
+conv_139,NO,NO,NO,NO,NO
+conv_140,NO,"YES - PATRICK: 'Why'd you let him get to you?' (implying KAT's emotional state, but not directly asking her age)",NO,NO,NO
+conv_141,NO,NO,NO,NO,NO
+conv_142,NO,NO,NO,NO,NO
+conv_143,NO,"YES - 'KAT', 'text': 'Were you in jail?' (implying a question about Patrick's whereabouts)",NO,NO,NO
+conv_144,NO,NO,NO,NO,NO
+conv_145,NO,"YES - 'PATRICK' asked 'KAT' indirectly by saying ""You don't strike me as the type that would ask permission.""",NO,NO,NO
+conv_146,NO,NO,NO,NO,NO
+conv_147,NO,YES - PATRICK: 'Who?' (implying he doesn't know who BIANCA is),NO,NO,NO
+conv_148,NO,NO,NO,NO,NO
+conv_149,NO,NO,NO,NO,NO
+conv_150,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_151,NO,NO,NO,NO,NO
+conv_152,NO,NO,NO,NO,NO
+conv_153,NO,"YES - PATRICK: ""So how'd you get Chapin to look the other way?"" (implying interest in Kat's past actions)",NO,NO,NO
+conv_154,NO,"YES - PATRICK: 'You never disappointed me.' (implied question, but not directly asked)",NO,NO,NO
+conv_155,NO,YES - PATRICK: You up for it? KAT: For. . . ? (implying PATRICK is asking if KAT is ready),NO,NO,NO
+conv_156,NO,NO,NO,NO,NO
+conv_157,NO,NO,YES - PATRICK: 'Go to the prom with me',NO,NO
+conv_158,NO,YES - 'Is that a request or a command?' (KAT),NO,NO,NO
+conv_159,NO,"YES - 'So I have to have a motive to be with you?' - This line implies Patrick is questioning Kat's interest in him, but it does not explicitly ask her age. However, it can be interpreted as an indirect way of asking about her intentions.",NO,NO,NO
+conv_160,NO,YES - PATRICK: 'It's Scurvy's.  His date got convicted. Where'd you get the dress?',NO,"YES - PATRICK: 'It's Scurvy's.  His date got convicted.' (implying he went to a store, possibly to buy a gift)",NO
+conv_161,NO,YES - KAT: 'What?' (implying a question about PATRICK's statement),NO,NO,NO
+conv_162,NO,"YES - 'It gets worse -- you still have your freshman yearbook?' implies PATRICK is asking about KAT's age, but it's not explicitly stated",NO,NO,NO
+conv_163,NO,NO,NO,NO,NO
+conv_164,NO,NO,NO,YES - PATRICK said 'I thought you could use it. When you start your band.' indicating he gave KAT a Fender Strat.,NO
+conv_165,NO,YES - 'Is that right?' by KAT,NO,NO,NO
+conv_166,NO,NO,NO,NO,NO
+conv_167,NO,"YES - WALTER: 'I thought we decided you were going to school here.  At U of 0.' implies asking about Kat's plans, but not directly asking her age.",NO,NO,NO
+conv_168,NO,NO,NO,NO,NO
+conv_169,NO,NO,NO,NO,NO
+conv_170,NO,NO,NO,NO,NO
+conv_171,NO,NO,NO,NO,NO
+conv_172,NO,NO,NO,NO,NO
+conv_173,NO,NO,NO,NO,NO
+conv_174,NO,YES - KAT: Tempestuous?,NO,NO,NO
+conv_175,NO,NO,NO,NO,NO
+conv_176,NO,NO,NO,NO,NO
+conv_177,NO,NO,NO,NO,NO
+conv_178,NO,NO,NO,NO,NO
+conv_179,NO,YES - MICHAEL: What?,NO,NO,NO
+conv_180,NO,"YES - PATRICK: 'What is it with this chick?  She have three tits?' (implying a question about Bianca Stratford's physical appearance, but not directly asking for her age)",NO,NO,NO
+conv_181,NO,NO,NO,NO,NO
+conv_182,NO,"YES - Patrick: 'So Dorsey can get the girl?' (implying interest in a character's relationship status, but not explicitly asking for age)",NO,NO,NO
+conv_183,NO,NO,NO,NO,NO
+conv_184,NO,"YES - 'PATRICK', 'text': 'What?!'",NO,NO,NO
+conv_185,NO,NO,NO,NO,NO
+conv_186,NO,NO,NO,NO,NO
+conv_187,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_188,NO,NO,NO,NO,NO
+conv_189,NO,NO,NO,NO,NO
+conv_190,NO,NO,NO,NO,NO
+conv_191,NO,NO,NO,NO,NO
+conv_192,NO,NO,NO,NO,NO
+conv_193,NO,NO,NO,NO,NO
+conv_194,NO,NO,NO,NO,NO
+conv_195,NO,"YES - 'What's a synonym for throbbing?' - This question does not directly ask for age, but it is related to the conversation in an unusual way.",NO,NO,NO
+conv_196,NO,NO,NO,NO,NO
+conv_197,NO,NO,NO,NO,NO
+conv_198,NO,NO,NO,NO,NO
+conv_199,NO,"YES - WALTER: What do you wanna watch?  We've got crap, crap, crap or crap (implied asking for movie preferences, not age but no direct question of age)",NO,NO,NO
+conv_200,NO,YES - WALTER: 'But -- who -- what --?' (implying a question about identity),NO,NO,NO
