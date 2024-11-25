@@ -1,10 +1,8 @@
 # message-analyzer
 
 ## Prepare Huggingface token
-* Before switching to Ollama, please request authorization to access the Llama model using the link below. Note: The approval process may take some time.
-* https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct
-* https://huggingface.co/meta-llama/Llama-3.1-8B
-* After obtaining approval, please create a token in order to download the model.
+* download ollama - https://github.com/ollama/ollama
+* download llama3.1 model - `ollama pull llama3.1`
 
 ## Installation
 ### 1. Installing requirements
