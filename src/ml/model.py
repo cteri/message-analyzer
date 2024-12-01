@@ -1,5 +1,6 @@
 import json
 import logging
+import re
 import os
 from concurrent.futures import ThreadPoolExecutor
 from typing import Any, Dict, List
@@ -28,23 +29,32 @@ class LlamaModel:
         self.chunk_size = 64000
         self.chunk_overlap = 100
         self.conversation_history = []
+    
+    def fix_delimiter_error(self, json_content: str, error_message: str) -> str:
+        try:
+            # Remove everything after the JSON object closes
+            if "}" in json_content:
+                json_content = json_content[:json_content.rindex("}")+1]
+            
+            # Fix the specific evidence formatting
+            content = re.sub(r'"(.*?)" "(.*?)"', r'"\1, \2"', json_content)
+            
+            try:
+                return json.loads(content)
+            except:
+                # If that didn't work, try adding missing commas
+                match = re.search(r"line (\d+) column (\d+)", error_message)
+                if match:
+                    col_num = int(match.group(2))
+                    content_list = list(content)
+                    if col_num <= len(content_list):
+                        content_list.insert(col_num - 1, ',')
+                    return ''.join(content_list)
+        except:
+            pass
+        return json_content
 
-    # def _generate_response(self, prompt: str) -> str:
-    #     """Generate response using Ollama."""
-    #     try:
-    #         response = self.client.generate(
-    #             model=self.model_name,
-    #             prompt=prompt,
-    #             stream=False,
-    #             options={"temperature": 0.6, "top_p": 0.9, "num_predict": 5000},
-    #         )
-    #         logging.info(f"Ollama response: {response}")
-    #         return response["response"]
-    #     except Exception as e:
-    #         logging.error(f"Error generating response from Ollama: {e}")
-    #         raise
     def _generate_response(self, prompt: str) -> str:
-        """Generate response using Ollama."""
         try:
             response = self.client.generate(
                 model=self.model_name,
@@ -52,112 +62,42 @@ class LlamaModel:
                 stream=False,
                 options={"temperature": 0.6, "top_p": 0.9, "num_predict": 5000},
             )
-            logging.info(f"Ollama response: {response}")
             
-            # Extract the JSON part from the response
-            response_text = response["response"]
+            text = response["response"]
             
-            # Find JSON content between triple backticks if present
-            if "```json" in response_text:
-                json_content = response_text.split("```json")[1].split("```")[0].strip()
-            elif "```" in response_text:
-                json_content = response_text.split("```")[1].split("```")[0].strip()
-            else:
-                # Try to find JSON content between curly braces
-                start_idx = response_text.find("{")
-                end_idx = response_text.rfind("}") + 1
-                if start_idx != -1 and end_idx != 0:
-                    json_content = response_text[start_idx:end_idx]
-                else:
-                    json_content = response_text
-
-            # Pre-process the JSON content to properly escape strings
-            def fix_json_string(json_str):
-                lines = []
-                in_string = False
-                escaped = False
-                current_line = ""
-                
-                for char in json_str:
-                    if char == '"' and not escaped:
-                        in_string = not in_string
-                        current_line += char
-                    elif in_string:
-                        if char == '\n':
-                            current_line += '\\n'
-                        elif char == '"':
-                            current_line += '\\"'
-                        elif char == '\\':
-                            if not escaped:
-                                escaped = True
-                                current_line += char
-                            else:
-                                escaped = False
-                                current_line += char
-                        else:
-                            if escaped:
-                                escaped = False
-                            current_line += char
-                    else:
-                        current_line += char
-                    
-                    if char == '\n' and not in_string:
-                        lines.append(current_line)
-                        current_line = ""
-                        
-                    if char != '\\':
-                        escaped = False
-                        
-                if current_line:
-                    lines.append(current_line)
-                    
-                return ''.join(lines)
-
-            # Clean and parse JSON
-            try:
-                cleaned_json = fix_json_string(json_content)
-                parsed_json = json.loads(cleaned_json)
-                
-                # Additional sanity check for evidence fields
-                if "analysis" in parsed_json and "questions" in parsed_json["analysis"]:
-                    for question in parsed_json["analysis"]["questions"]:
-                        if "evidence" in question:
-                            # Ensure evidence is properly escaped
-                            question["evidence"] = question["evidence"].replace('"', '\\"')
-                
-                return json.dumps(parsed_json)
-
-            except json.JSONDecodeError as je:
-                logging.error(f"Failed to parse JSON content: {je}\nContent was: {json_content}")
-                
-                # Try one more time with regex replacement
-                import re
+            # Extract JSON, ignoring any text before/after
+            start = text.find("{")
+            end = text.rfind("}") + 1
+            json_content = text[start:end]
+            
+            # Series of cleanups, from least aggressive to most aggressive
+            cleanups = [
+                lambda x: x,  # Try original first
+                lambda x: x.replace('\n', ' ').replace('\\', ''),  # Basic cleanup
+                lambda x: re.sub(r'"\s+and\s+"', '", "', x),  # Fix concatenations
+                lambda x: re.sub(r'"([^"]*)"([^,}])', r'"\1"\2,', x),  # Add missing commas
+                lambda x: re.sub(r'([^,{])\s*"', r'\1, "', x),  # Fix quote boundaries
+            ]
+            
+            # Try each cleanup until one works
+            for cleanup in cleanups:
                 try:
-                    # Replace problematic patterns
-                    cleaned = re.sub(r'(?<!\\)"(?![,}\]])', '\\"', json_content)
-                    cleaned = re.sub(r',(?=\s*[}\]])', '', cleaned)
-                    parsed_json = json.loads(cleaned)
-                    return json.dumps(parsed_json)
-                except Exception as e:
-                    logging.error(f"Failed regex cleaning: {e}")
-                    # Fall back to default response
-                    return json.dumps({
-                        "analysis": {
-                            "questions": [
-                                {
-                                    "question_number": str(i+1),
-                                    "question": q.strip(),
-                                    "answer": "NO",
-                                    "evidence": "Error parsing model response"
-                                } for i, q in enumerate(questions.strip().split("[Question"))
-                                if q.strip()
-                            ]
-                        }
-                    })
+                    cleaned = cleanup(json_content)
+                    data = json.loads(cleaned)
+                    # Clean evidence strings after successful parse
+                    for q in data["analysis"]["questions"]:
+                        if q.get("evidence"):
+                            q["evidence"] = q["evidence"].strip(' "\'"')
+                    return json.dumps(data, ensure_ascii=False)
+                except json.JSONDecodeError:
+                    continue
+                    
+            raise ValueError("Could not parse JSON after all cleanup attempts")
                 
         except Exception as e:
-            logging.error(f"Error generating response from Ollama: {e}")
+            logging.error(f"Error with response: {text if 'text' in locals() else 'No response'}")
             raise
+
 
     def _split_text(self, text: str) -> List[str]:
         """Split text into chunks."""
@@ -213,42 +153,6 @@ class LlamaModel:
         - Ensure output is valid JSON format
         """
         return template
-
-    # def _create_prompt(self, conversation_chunk: str) -> str:
-    #     """Create analysis prompt with context."""
-    #     template = f"""
-    #     You are analyzing a conversation for specific patterns and behaviors. 
-    #     Please review the following conversation carefully and answer each question precisely.
-
-    #     Previous context: {self.conversation_history[-3:] if self.conversation_history else 'No previous context'}
-    #     Current conversation segment: {conversation_chunk}
-
-    #     For each question below, provide a clear YES/NO answer followed by specific evidence or "No evidence found":
-
-    #     {questions}
-
-    #     Provide your analysis in the following JSON format:
-    #     {{
-    #         "analysis": {{
-    #             "questions": [
-    #                 {{
-    #                     "question_number": "1",
-    #                     "question": "Has any person given their age? (and what age was given)",
-    #                     "answer": "NO",
-    #                     "evidence": "No evidence found in conversation"
-    #                 }},
-    #                 ...
-    #             ]
-    #         }}
-    #     }}
-
-    #     Instructions:
-    #     - Answer must be either "YES" or "NO"
-    #     - If answer is "YES": Provide specific evidence quotes
-    #     - If answer is "NO": Set evidence to "No evidence found in conversation"
-    #     - Ensure output is valid JSON format
-    #     """
-    #     return template
 
     def ask_questions(self, conversation_data: List[Dict]) -> List[Dict]:
         conversation_text = "\n".join(str(conv) for conv in conversation_data)

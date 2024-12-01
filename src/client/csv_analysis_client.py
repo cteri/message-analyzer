@@ -8,7 +8,7 @@ from typing import Any, Dict, List
 
 import pandas as pd
 
-from src.ml.model import LlamaModel  # Import the existing model class
+from src.ml.model2 import LlamaModel  # Import the existing model class
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"

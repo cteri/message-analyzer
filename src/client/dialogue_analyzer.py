@@ -243,7 +243,7 @@ def main():
         output_dir.mkdir(parents=True, exist_ok=True)
 
         # Initialize model and analyzer
-        from src.ml.model import LlamaModel
+        from src.ml.model2 import LlamaModel
 
         model = LlamaModel(model_id=args.model_id)
         analyzer = DialogueAnalyzer(model)

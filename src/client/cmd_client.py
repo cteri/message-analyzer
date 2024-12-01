@@ -4,7 +4,7 @@ import logging
 import warnings
 from pathlib import Path
 
-from src.ml.model import LlamaModel
+from src.ml.model2 import LlamaModel
 
 # Configure logging
 logging.basicConfig(
