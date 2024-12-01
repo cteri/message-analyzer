@@ -26,3 +26,8 @@ python3 src/client/client.py
 ```
 python3 -m src.client.cmd_client --output_directory ./folder/output --input_files ./test/mock_conversation_1.csv
 ```
+
+
+python script.py --input_file conversations.json --output_file results.csv --model llama2
+
+python3 -m src.client.analysis_client --input_file ./src/data_processing/cornell_movie_dialogs/split_conversations/conversations_part_001.json --models=llama3.2:1b
