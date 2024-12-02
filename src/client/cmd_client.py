@@ -1,10 +1,10 @@
 import argparse
-import json
 import logging
 import warnings
+import csv
 from pathlib import Path
 
-from src.ml.model2 import LlamaModel
+from src.ml.model import LlamaModel
 
 # Configure logging
 logging.basicConfig(
@@ -15,14 +15,14 @@ logging.basicConfig(
 warnings.filterwarnings("ignore")
 
 
-def save_raw_response(response, output_path):
-    """Save the raw model response to a file."""
-    try:
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(response, f, ensure_ascii=False, indent=4)
-            logging.info(f"Raw response saved to {output_path}")
-    except Exception as e:
-        logging.error(f"Error saving raw response: {e}")
+def format_answer(question):
+    """Format the answer and evidence into a single string."""
+    answer = question.get("answer", "")
+    evidence = question.get("evidence", "")
+
+    if answer == "YES" and evidence and evidence != "No evidence found in conversation":
+        return f"YES - {evidence}"
+    return answer
 
 
 def main():
@@ -30,16 +30,15 @@ def main():
         description="Analyze conversations using LlamaModel"
     )
     parser.add_argument(
-        "--input_files",
+        "--input_directory",
         type=str,
-        nargs="+",
-        help="Paths to the input conversation files (supports .json, .txt, .csv)",
+        help="Path to the directory containing conversation files",
         required=True,
     )
     parser.add_argument(
-        "--output_directory",
+        "--output_file",
         type=str,
-        help="The path to the directory to save the analysis outputs",
+        help="Path to the output CSV file",
         required=True,
     )
     parser.add_argument(
@@ -51,50 +50,35 @@ def main():
 
     args = parser.parse_args()
 
-    # Prepare the output directory
-    output_directory = Path(args.output_directory)
-    output_directory.mkdir(parents=True, exist_ok=True)
+    # Initialize the model and get results
+    model = LlamaModel(model_name=args.model_name)
+    input_files = list(Path(args.input_directory).glob("*"))
+    results = model.analysis(input_files)
 
-    # Initialize the model
-    try:
-        model = LlamaModel(model_name=args.model_name)
-        logging.info(f"Successfully initialized model: {args.model_name}")
-    except Exception as e:
-        logging.error(f"Failed to initialize model: {e}")
-        return
+    # Create output directory if needed
+    output_path = Path(args.output_file)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
 
-    # Perform analysis on the input files
-    results = model.analysis(args.input_files)
+    # Write results to CSV
+    fieldnames = ["filename"] + [f"Q{i}" for i in range(1, 6)]
 
-    # Process and save results
-    for result in results:
-        file_path = result["file_path"]
-        logging.info(f"\nProcessing file: {file_path}")
+    with open(output_path, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
 
-        analysis_results = result.get("result", {})
+        for result in results:
+            file_path = result["file_path"]
+            analysis_results = result.get("result", {}).get("analysis", {})
+            row = {"filename": Path(file_path).stem}
 
-        # Prepare output file paths
-        input_file_name = Path(file_path).stem
-        output_file = output_directory / f"{input_file_name}_analysis.json"
+            questions = analysis_results.get("questions", [])
+            for q in questions:
+                question_number = q.get("question_number", "")
+                row[f"Q{question_number}"] = format_answer(q)
 
-        try:
-            # Save analysis results
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(analysis_results, f, ensure_ascii=False, indent=4)
-            logging.info(f"Analysis for {file_path} saved to {output_file}")
+            writer.writerow(row)
 
-            # Log analysis summary
-            if "analysis" in analysis_results:
-                questions = analysis_results["analysis"].get("questions", [])
-                for q in questions:
-                    if q.get("answer") == "YES":
-                        logging.info(
-                            f"Found evidence for question {q['question_number']}: {q['evidence']}"
-                        )
-
-        except Exception as e:
-            logging.error(f"Error saving results for {file_path}: {e}")
-            logging.error(f"Error details: {str(e)}")
+    logging.info(f"Results saved to {output_path}")
 
 
 if __name__ == "__main__":
