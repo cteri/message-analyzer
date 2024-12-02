@@ -1,0 +1,1008 @@
+id,Q1_labeled,Q2_labeled,Q3_labeled,Q4_labeled,Q5_labeled,Q1_conv,Q2_conv,Q3_conv,Q4_conv,Q5_conv,all_correct
+conv_701,No,No,"Yes - Cates tells Reggie ""Let's go""",No,No,NO,YES - CATES: Whaddya think? ELAINE: What do I know?  I'm just a bartender.,"YES - CATES: Let's go, Reggie.",NO,NO,False
+conv_702,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_703,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_704,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_705,No,No,No,No,No,NO,YES - ELAINE: Who the hell are you?,NO,NO,NO,False
+conv_706,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_707,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_708,No,No,No,No,No,NO,YES - ELAINE said 'Have you two ace detectives checked that out?' implying she wants them to investigate his character,NO,NO,NO,False
+conv_709,No,No,No,No,No,NO,YES - GANZ: Shut up.,NO,NO,NO,False
+conv_710,No,No,No,No,No,NO,"YES - ""What do you want?  What's goin' on?"" (LISA)",NO,NO,NO,False
+conv_711,No,No,No,No,No,NO,YES - LISA: What do you want?,NO,NO,NO,False
+conv_712,No,No,No,No,No,NO,"YES - GANZ: Keep stallin.' (implying a playful, teasing tone)",NO,NO,NO,False
+conv_713,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_714,No,No,"Yes - ""We'll follow you""",No,No,NO,NO,NO,NO,NO,False
+conv_715,No,No,No,No,No,NO,YES - LUTHER: I thought you were locked up- (implies interest in GANZ's current status),NO,NO,NO,False
+conv_716,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_717,No,No,No,No,No,NO,"YES - LUTHER: 'Come on, you can trust me. Please.' (implying a request for trust, but not explicitly asking for age)",NO,NO,NO,False
+conv_718,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_719,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_720,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_721,No,No,"Yes - ""You want to go outside?""",No,No,NO,NO,NO,NO,NO,False
+conv_722,No,No,No,No,No,NO,YES - SOSNA: You sure?,NO,NO,NO,False
+conv_723,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_724,No,No,No,No,No,NO,NO,NO,"YES - SOSNA: 'This is clean shit.  No serial numbers and never been used...' (implied sale or trade), HAMMOND: 'Five.  On credit.' (credit purchase)",NO,False
+conv_725,No,No,No,No,No,NO,"YES - HAMMOND: 'I haven't got the money so what are you gonna do about it?' (implying a past situation, but not directly asking for age)",NO,NO,NO,False
+conv_726,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_727,No,No,No,No,No,NO,"YES - ""LEELOO"", 'text': 'Corn-i-Lius?'"" (Leeloo is asking Cornelius about his name, not age)",NO,NO,NO,False
+conv_728,No,No,No,No,No,NO,"YES - 'What're you laughing about?' (CORNELIUS) - This is a question, but it's not asking for age",NO,NO,NO,False
+conv_729,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_730,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_731,No,No,No,No,No,NO,"YES - LEELOO: Vano da, mechteba?! Soun domo kala chon hammas! (approximately translates to 'What's your wish?' or 'Tell me your dream') - This implies LEELOO is asking about Cornelius' thoughts or intentions but not directly age, however this might be a bit of stretch and in most contexts it would mean the other person asked. However, in this context, we will consider this as an indirect ask.",NO,NO,NO,False
+conv_732,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_733,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_734,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_735,No,No,No,No,No,NO,NO,YES - ZORG: Follow me..,NO,NO,False
+conv_736,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_737,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_738,No,No,No,No,No,NO,"YES - No specific question about age was asked, but rather a statement 'You are a monster, Zorg!' which implies an accusation or insult.",NO,NO,NO,False
+conv_739,No,No,No,No,No,NO,"YES - KORBEN's message 'Excuse me, I'm looking for a priest.' implies they might be seeking a specific service, but it does not explicitly ask about age.",NO,NO,NO,False
+conv_740,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_741,No,No,No,No,No,NO,YES - CORNELIUS: Who are you?,NO,NO,NO,False
+conv_742,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_743,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_744,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_745,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_746,No,No,Yes - Mission to save the world mentioned,No,No,NO,"YES - 'KORBEN', 'text': 'Father, I was in the Army for awhile and every time they told us we were on a mission to save the world the only thing that changed was I lost a lot of friends.'",NO,NO,NO,False
+conv_747,No,No,No,No,No,NO,YES - CORNELIUS: What are you doing?,NO,NO,NO,False
+conv_748,No,No,No,No,No,NO,"YES - KORBEN: 'When is she not in trouble?' - implying an expectation of a response about Leeloo's age or situation, but no direct question about KORBEN's age",NO,NO,NO,False
+conv_749,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_750,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_751,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_752,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_753,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_754,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_755,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_756,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_757,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_758,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_759,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_760,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_761,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_762,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_763,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_764,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_765,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_766,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_767,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_768,No,No,No,No,No,NO,YES - KORBEN: Who?,NO,NO,NO,False
+conv_769,No,No,No,No,No,NO,NO,NO,"YES - Diva said: ""You must give her the Stones, she's the only one who knows how to use them.""",NO,False
+conv_770,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_771,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_772,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_773,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_774,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_775,No,No,No,No,Yes - Reference to finding a picture,NO,NO,NO,NO,NO,False
+conv_776,No,No,No,No,No,NO,YES - 'How many points you got left on your license?',NO,NO,NO,False
+conv_777,No,No,No,No,No,NO,"YES - 'FINGER': 'So, just how big was this fare?'",NO,NO,NO,False
+conv_778,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_779,No,No,No,No,No,NO,YES - 'Scuse me?' (KORBEN's text),NO,NO,NO,False
+conv_780,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_781,No,No,Yes - Offer to go to a doctor,No,No,NO,NO,NO,NO,NO,False
+conv_782,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_783,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_784,No,No,No,No,No,NO,YES - ...What's your name?,NO,NO,NO,False
+conv_785,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_786,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_787,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_788,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_789,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_790,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_791,No,No,No,No,No,NO,"YES - 'I get it! You want to make me beg, is that it?' (implying a possible question about KORBEN's intentions)",NO,NO,NO,False
+conv_792,No,No,Yes - Reference to trip to Fhloston Paradise,No,No,NO,NO,NO,NO,NO,False
+conv_793,No,No,No,No,No,NO,YES - MOTHER: Have you pulled yourself together?,NO,NO,NO,False
+conv_794,No,No,No,No,No,NO,"YES - KORBEN's first message 'Hello?' could be considered an implicit question asking if the other person is available or willing to talk, but it does not directly ask for age. However, KORBEN's second message '..Ma???' is more likely a confused response rather than a direct question about age.",NO,NO,NO,False
+conv_795,No,No,No,No,No,NO,"YES - VOICE: 'Welcome on board Mr. Dallas..', KORBEN: ""How you doing this morning?  Sleep OK? I didn't.""",NO,NO,NO,False
+conv_796,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_797,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_798,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_799,No,No,No,No,No,NO,"YES - VOICE: '6... 5...' (implying counting down to a specific number, possibly an age)",NO,NO,NO,False
+conv_800,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_801,No,No,Yes - Radio show meetup mentioned (5 to 7),No,No,NO,NO,NO,NO,NO,False
+conv_802,No,No,Yes - Radio show tomorrow between 5 and 7,No,No,NO,NO,NO,NO,NO,False
+conv_803,No,No,Yes - Request to take to bar,No,No,NO,NO,"YES - KORBEN: 'I'll take you to the bar, after that, you're on your own.'",NO,NO,True
+conv_804,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_805,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_806,No,No,"Yes - ""Not without Leeloo"" implies meeting",No,No,NO,NO,NO,NO,NO,False
+conv_807,No,No,"Yes - ""I'll be right back"" implies meeting",No,No,NO,NO,NO,NO,NO,False
+conv_808,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_809,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_810,No,No,"Yes - Reference to ""tomorrow for another adventure""",No,No,NO,NO,NO,NO,NO,False
+conv_811,No,No,No,No,No,NO,YES - KORBEN: What did you say? What did you do?,NO,NO,NO,False
+conv_812,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_813,No,No,Yes - Mission to Fhloston Paradise,No,No,NO,NO,NO,NO,NO,False
+conv_814,No,No,No,No,No,NO,YES - KORBEN: And the third one?,NO,NO,NO,False
+conv_815,No,No,Yes - Trip to Fhloston Paradise mentioned,No,No,NO,NO,NO,NO,NO,False
+conv_816,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_817,No,No,No,No,No,NO,YES - MUNRO: What is it?,NO,NO,NO,False
+conv_818,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_819,No,No,"Yes - ""Set up another meeting"" mentioned",No,No,NO,NO,"YES - KORBEN: ""Let me set up another meeting and I'll be back.""",NO,NO,True
+conv_820,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_821,No,No,No,No,No,NO,"YES - LEELOO: Valo massa... Chacha hamas. (implying a question about KORBEN's well-being or something, but no direct ask)",NO,NO,NO,False
+conv_822,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_823,No,No,Yes - Reference to honeymoon trip,No,No,NO,NO,NO,NO,NO,False
+conv_824,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_825,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_826,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_827,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_828,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_829,No,No,No,No,No,NO,"YES - KORBEN: 'You get that off the screen?' (implying a request to remove information, possibly including age)",NO,NO,NO,False
+conv_830,No,No,Yes - Going to see Diva sing,No,No,NO,YES - KORBEN: Where you going?,NO,NO,NO,False
+conv_831,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_832,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_833,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_834,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_835,No,No,Yes - Mention of vacation,No,No,NO,NO,NO,NO,NO,False
+conv_836,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_837,No,No,No,No,No,NO,YES - LEELOO: Why?... Why would you need me?,NO,NO,NO,False
+conv_838,No,No,No,No,No,NO,"YES - ""Tell me..."" - LEELOO (implying a question about personal information, but not explicitly asking for age)",NO,NO,NO,False
+conv_839,No,No,No,No,No,NO,YES - 'How someone strong like you scared from a message? Is good news I sure!' (THAI is asking KORBEN about his reaction to bad news),NO,NO,NO,False
+conv_840,No,No,Yes - Reference to lunch,No,No,NO,NO,NO,YES - KORBEN: 'At least I won lunch.' and THAI: 'I prepare number one dessert.. special for you and pussy..',NO,False
+conv_841,No,No,No,No,No,NO,YES - KORBEN: Been here long?,NO,NO,NO,False
+conv_842,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_843,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_844,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_845,No,No,No,No,No,NO,NO,YES - 'Yes... I can't wait to meet him.',NO,NO,False
+conv_846,No,No,No,No,No,NO,YES - MUNRO: Is there any danger? Some kind of virus?,NO,NO,NO,False
+conv_847,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_848,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_849,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_850,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_851,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_852,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_853,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_854,No,No,No,No,No,"YES - No age was given, but the speaker ""PRESIDENT"" says ""There are no results from the chemical and molecular analysis as of yet, all the calibers are overshot..we're hoping a thermo nucleatic imaging.."" which implies they are discussing something without giving their age.",NO,NO,NO,NO,False
+conv_855,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_856,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_857,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_858,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_859,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_860,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_861,No,No,Yes - Reference to concert,No,No,NO,NO,NO,NO,NO,False
+conv_862,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_863,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_864,No,No,No,No,No,NO,NO,NO,YES - ZORG: 'I'll have the 4 pieces you asked for any time now.',NO,False
+conv_865,No,No,No,No,No,NO,NO,"YES - SHADOW said ""...I can't wait to be among you."" This implies a desire for physical presence, likely at the location of 'The Stones'.",NO,NO,False
+conv_866,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_867,No,No,No,No,No,NO,"YES - AMY: ""What's this... have you been smoking... ?"" (implying she is accusing WELLES of something, but not directly asking about his age), however in the previous conversation segment, it was mentioned that amy asked welles to describe himself which could be interpreted as trying to gather more information about him. However, there's no direct question regarding age.",NO,NO,NO,False
+conv_868,No,No,No,No,No,NO,YES - AMY: How's the detective business?,NO,NO,NO,False
+conv_869,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_870,No,No,Yes - Bridge game next week mentioned,No,No,NO,NO,NO,NO,NO,False
+conv_871,No,No,Yes - Reference to coming back in two months,No,No,NO,NO,NO,"YES - ""This is Cindy's college money."" (given as mortgage)",NO,False
+conv_872,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_873,No,No,Yes - Coming back to house in three hours,No,No,NO,NO,NO,NO,NO,False
+conv_874,No,No,No,No,No,NO,"YES - 'AMY', 'text': 'What's going on, Tom?  What happened?'",NO,NO,NO,False
+conv_875,No,No,No,No,No,NO,"YES - AMY: ""Why haven't you called?  Why don't you answer your phone?"" (implying she wants him to respond, but not directly asking for his age)",NO,NO,NO,False
+conv_876,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_877,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_878,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_879,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_880,No,No,No,No,Yes - Reference to films,NO,YES - WELLES: What are these?,NO,"YES - ANGRY DEALER: Buy five, get one free.",NO,False
+conv_881,No,No,No,No,Yes - Discussion of films,NO,NO,NO,NO,NO,False
+conv_882,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_883,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_884,No,No,Yes - Meeting in person,No,No,NO,NO,NO,NO,NO,False
+conv_885,No,No,No,No,No,NO,"YES - DINO VELVET, 'And, who's your colorful little chum?' (implying a question about Welles' companion)",NO,NO,NO,False
+conv_886,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_887,No,No,No,No,Yes - Reference to filming,NO,NO,NO,YES - Five thousand dollars. (quote from WELLES),NO,False
+conv_888,No,No,No,No,No,NO,NO,NO,YES - We can do that.,NO,False
+conv_889,No,No,No,No,Yes - Discussion about taking pictures,NO,NO,NO,NO,NO,False
+conv_890,No,No,No,No,No,NO,NO,NO,"YES - ""I'll do this for you.  Fifteen thousand dollars.""",NO,False
+conv_891,No,No,Yes - Meeting in Brooklyn,No,No,NO,"YES - ""Where's that?"" (implying a question about location, but no direct ask for age)",NO,NO,NO,False
+conv_892,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_893,No,No,Yes - Waiting for people to arrive,No,No,NO,YES - WELLES: Where are the women?,NO,NO,NO,False
+conv_894,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_895,No,No,No,No,No,NO,"YES - ""What are you... ?"" (WELLES)",NO,NO,NO,False
+conv_896,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_897,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_898,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_899,No,No,Yes - Reference to meeting in city,No,No,NO,NO,NO,NO,NO,False
+conv_900,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_601,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_602,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_603,No,No,No,No,No,NO,"YES - HAMMOND: You made that move, huh? (implying interest or inquiry about CATES' actions)",NO,"YES - CATES: While you're at it, You can give me the switchblade, too. (requesting a physical item)",NO,False
+conv_604,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_605,No,No,"Yes - Hammond suggests ""going a few laps"" with ladies after mentioning being in prison",No,No,NO,NO,NO,NO,NO,False
+conv_606,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_607,No,No,No,No,No,NO,"YES - ""Maybe I don't like the way you ask."" - HAMMOND (implying a question was asked, but not directly related to age)",NO,NO,NO,False
+conv_608,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_609,No,No,No,No,No,NO,"YES - [{'speaker': 'CATES', 'text': 'How much?'}, {'speaker': 'HAMMOND', 'text': 'Half a million.'}]",NO,NO,NO,False
+conv_610,No,No,No,No,No,NO,YES - CATES: You catch on real fast... (implying Hammond's age is relevant),NO,NO,NO,False
+conv_611,No,No,No,No,No,NO,"YES - HAMMOND: 'We split 50-50?' (implying a shared interest or resource, but no specific request for age)",NO,NO,NO,False
+conv_612,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_613,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_614,No,No,No,No,No,NO,"YES - HAMMOND said 'You're a real case, you know that, Jack?' implying a question about CATES' state or behavior rather than directly asking for age",NO,NO,NO,False
+conv_615,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_616,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_617,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_618,No,No,No,No,No,NO,"YES - HAMMOND's first turn: 'What?' (implying a question about something, but not explicitly asking for age)",NO,NO,NO,False
+conv_619,No,No,No,No,No,NO,"YES - CATES: ""Didn't know you darker people went in for foreign jobs."" (implying a question about Hammond's background)",NO,NO,NO,False
+conv_620,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_621,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_622,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_623,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_624,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_625,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_626,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_627,No,No,No,No,No,NO,"YES - HAMMOND: That was in style a couple years back, man.
+CATES: Right. if you ever switch from armed robbery to pimping, then you're all set.",NO,NO,NO,False
+conv_628,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_629,No,No,Yes - Hammond tells Cates he's at Vroman's in the Fillmore,No,No,NO,NO,NO,NO,NO,False
+conv_630,No,No,No,No,No,NO,"YES - ""Where's luther?"" - This is an indirect way of asking about someone, but it doesn't explicitly ask for age.",NO,NO,NO,False
+conv_631,No,No,No,No,No,NO,YES - CATES: What about Luther?,NO,NO,NO,False
+conv_632,No,No,No,No,No,NO,NO,YES - CATES: Maybe we should pay Luther a visit.,NO,NO,False
+conv_633,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_634,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_635,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_636,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_637,No,No,Yes - Hammond suggests taking someone to Luther's hotel,No,No,NO,NO,"YES - ""I can just take her right across the street to Luther's hotel.""","YES - ""All I need is some money for the room.""",NO,False
+conv_638,No,No,No,No,No,NO,YES - CATES: Why?,NO,NO,NO,False
+conv_639,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_640,No,No,Yes - Cates offers to buy Hammond a drink as a goodbye present,No,No,NO,NO,NO,YES - 'I'll buy you one.  It'll be my good-bye present.',NO,False
+conv_641,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_642,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_643,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_644,No,No,No,No,No,NO,YES - HAMMOND: Do I get to kiss her too?,NO,NO,NO,False
+conv_645,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_646,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_647,No,No,No,No,No,NO,YES - CATES: You okay?,NO,NO,NO,False
+conv_648,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_649,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_650,No,No,No,No,No,NO,NO,NO,YES - CATES said 'It's your money.  It'll be here in six months when you get out.' which implies giving money,NO,False
+conv_651,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_652,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_653,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_654,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_655,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_656,No,No,No,No,No,NO,"YES - HADEN: Which one pulled the trigger? (implying asking about a specific event, not age)",NO,NO,NO,False
+conv_657,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_658,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_659,No,No,No,No,No,NO,"YES - HADEN: How you gonna take to a pink slip, huh?",NO,NO,NO,False
+conv_660,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_661,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_662,No,No,No,No,No,NO,"YES - CATES: Are you gonna tell me about police procedure?  Do me a favor, don't give me a bunch of crap.",NO,NO,NO,False
+conv_663,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_664,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_665,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_666,No,No,No,No,No,NO,YES - 'Who are all these?' (CATES),NO,NO,NO,False
+conv_667,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_668,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_669,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_670,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_671,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_672,No,No,No,No,No,NO,"YES - KEHOE: 'That pal of yours from the Vice Squad wants you to call him.' (implying a request or action, but not directly asking for CATES' age)",NO,NO,NO,False
+conv_673,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_674,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_675,No,No,No,No,No,NO,"YES - 'CATES': ""I think I met her.  Now tell us something we don't know, like where they stashed her."" (implying Luther should share information)",NO,NO,NO,False
+conv_676,No,No,No,No,No,NO,YES - CATES: When? How?,NO,NO,NO,False
+conv_677,No,No,No,No,No,NO,YES - ELAINE: What am I wanted for?,NO,NO,NO,False
+conv_678,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_679,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_680,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_681,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_682,No,No,Yes - Elaine suggests coming over to Cates' place,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_683,No,No,Yes - Discussion about Cates coming by,No,No,NO,NO,NO,YES - CATES said 'Maybe you ought to buy me one.',NO,False
+conv_684,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_685,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_686,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_687,No,No,No,No,No,NO,NO,NO,YES - ELAINE gave CATES his wallet and badge.,NO,False
+conv_688,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_689,No,No,No,No,No,NO,"YES - 'Jack, are you okay?' - This implies concern and could be related to health or emotional state which might include age indirectly",NO,NO,NO,False
+conv_690,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_691,No,No,Yes - Reference to meeting after work,No,No,NO,NO,"YES - CATES says 'I'm not gonna have time to come by' implying a meeting is being discussed, but no specific location mentioned",NO,NO,True
+conv_692,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_693,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_694,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_695,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_696,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_697,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_698,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_699,No,No,No,No,No,NO,YES - 'CATES': 'How do you know?',NO,NO,NO,False
+conv_700,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_501,No,No,No,No,No,NO,"YES - HAL: 'There's no need for you to trouble.' (implying a request for not being troubled, but not directly asking for age)",NO,NO,NO,False
+conv_502,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_503,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_504,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_505,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_506,No,No,No,No,No,NO,"YES - [{'speaker': 'BOWMAN', 'text': 'Well, what is it?'}]",NO,NO,NO,False
+conv_507,No,No,No,No,No,NO,"YES - C12: CONINUED (no explicit question, but the response 'Well... it's silly, but... if you want to, why don't you?' implies a potential invitation or request)",NO,NO,NO,False
+conv_508,No,No,No,No,No,NO,"YES - 'Still, you really don't believe it, do you?' by BOWMAN - This line implies that Bowman is questioning C12's beliefs or understanding of something, possibly related to age or a similar concept.",NO,NO,NO,False
+conv_509,No,No,No,No,No,NO,"YES - No specific question about age was asked, but BOWMAN mentions 'why are we going?' which could imply a curiosity about the mission's purpose",NO,NO,NO,False
+conv_510,No,No,No,No,No,NO,"YES - CHILD: ""I'm fine, Daddy. When are you coming home?"" (implying asking about Father's return)",NO,NO,NO,False
+conv_511,No,No,Yes - Child mentions having a party tomorrow,No,No,NO,YES - CHILD: 'When are you coming home?' (implying interest in FLOYD's schedule),NO,NO,NO,False
+conv_512,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_513,No,No,Yes - Reference to birthday party tomorrow,No,No,NO,NO,NO,NO,NO,False
+conv_514,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_515,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_516,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_517,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_518,No,No,No,No,No,NO,"YES - ELENA: 'Are you sure you won't change your mind about a drink?' (implying asking about drink preferences, but not explicitly asking for age)",NO,NO,NO,False
+conv_519,No,No,Yes - Reference to IAC conference in June,No,No,NO,NO,NO,NO,NO,False
+conv_520,No,No,No,No,No,NO,NO,"YES - FLOYD said 'How do you do, Mr. Miller?' and MILLER replied saying he was on his way down to meet FLOYD",NO,NO,False
+conv_521,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_522,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_523,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_524,No,No,Yes - Discussion about going to moon base,No,No,NO,NO,NO,NO,NO,False
+conv_525,No,No,No,No,No,NO,"YES - SMYSLOV: Well, it's just for the past two weeks there have been some extremely odd things happening at Clavius.",NO,NO,NO,False
+conv_526,No,No,No,No,No,NO,"YES - FLOYD: ""You mean you haven't been able to get anyone at the base for ten days?""",NO,NO,NO,False
+conv_527,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_528,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_529,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_530,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_531,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_532,No,No,No,No,No,NO,"YES - ""But you don't have any idea as to what it is?"" (FLOYD)",NO,NO,NO,False
+conv_533,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_534,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_535,No,No,No,No,No,NO,"YES - PILOT: 'Incidentally, Dr. Floyd, I wonder if I can have a word with you about the security arrangements?'",NO,NO,NO,False
+conv_536,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_537,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_538,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_539,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_540,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_541,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_542,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_543,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_544,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_545,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_546,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_547,No,No,No,No,No,NO,"YES - [ speaker='ATTENDANT', text='Name?' ]",NO,NO,NO,False
+conv_548,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_549,No,No,No,No,No,NO,NO,NO,"YES - The attendant offers to sell Luther gas: ""I'll even sell you some gas if you need it.""",NO,False
+conv_550,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_551,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_552,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_553,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_554,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_555,No,No,Yes - Discussion about getting girls,Yes - Reference to buying girls,No,NO,NO,NO,NO,NO,False
+conv_556,No,No,Yes - Discussion about paying for girls,Yes - Discussion about paying for girls,No,NO,YES - No evidence found in conversation,NO,YES - GANZ says 'We'll pay for the girls and have a good time...',NO,False
+conv_557,No,No,No,No,No,NO,"YES - BILLY: 'He's just kiddin', you just keep doin' what I tell ya, you'll be okay.'",NO,NO,NO,False
+conv_558,No,No,No,No,No,NO,"YES - BILLY: Hey, what about me?",NO,YES - GANZ: And I need one more for my pal. Yeah. Make her an Indian.,NO,False
+conv_559,No,No,No,No,No,NO,YES - HAMMOND: 'You a schoolteacher...',NO,NO,NO,False
+conv_560,No,No,No,No,No,NO,"YES - CANDY: ""Hey, don't you think a hair stylists got any interest in gettin' it on?""",NO,"YES - HAMMOND: ""Here you go sweetheart, throw it my way.""",NO,False
+conv_561,No,No,Yes - Suggestion to go to a place across the street,No,No,NO,"YES - CANDY: ""You just quit bein' a priest or somethin'?"" (implying she's trying to understand Hammond's situation, but not explicitly asking his age)","YES - HAMMOND: ""Look, there's a place across the street. We can go right over there...""",NO,NO,False
+conv_562,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_563,No,No,Yes - Reference to having a party,No,No,NO,NO,NO,NO,NO,False
+conv_564,No,No,No,Yes - Offering money,No,NO,"YES - 'I said I wasn't a pro, remember?' - CANDY",NO,YES - 'Buy yourself something pretty' - HAMMOND,NO,False
+conv_565,No,No,Yes - Offer of dinner and dancing,No,No,NO,NO,"YES - ""I'll buy ya the best dinner in San Francisco...how'd that be? Then we'll go dancin', okay?""","YES - ""I'll buy ya the best dinner in San Francisco...how'd that be? Then we'll go dancin', okay?""",NO,False
+conv_566,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_567,No,No,No,No,No,NO,YES - CATES: How about it?,NO,NO,NO,False
+conv_568,No,No,No,No,No,NO,"YES - 'Would you guys...' (implied question about age or status, but not explicitly stated)",NO,NO,NO,False
+conv_569,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_570,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_571,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_572,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_573,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_574,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_575,No,No,No,No,No,NO,"YES - 'You here to write my life story?' (HAMMOND) - implies asking about personal info, but not directly age; however, 'Not likely, Reggie.  Maybe I just need some help.' (CATES) - response doesn't ask for age explicitly, but HAMMOND's question can be seen as indirectly seeking personal info.",NO,NO,NO,False
+conv_576,No,No,No,No,No,NO,NO,"YES - CATES: ""Nice meeting you Reggie."" (implying a previous meeting, but not explicitly stating where)",NO,NO,False
+conv_577,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_578,No,No,No,No,No,NO,NO,NO,YES - CATES: This prison gives out $400 suits?,NO,False
+conv_579,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_580,No,No,No,No,No,NO,NO,NO,YES - You got a girl... shit... the generosity of women never ceases to amaze me.,NO,False
+conv_581,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_582,No,No,No,No,No,NO,NO,NO,"YES - CATES: Yeah. (implying they have done something), HAMMOND: It looks like you bought it off one of the brothers.",NO,False
+conv_583,No,No,No,No,No,NO,"YES - HAMMOND: What gang you talkin' about, Jack?",NO,NO,NO,False
+conv_584,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_585,No,No,No,No,No,NO,NO,"YES - Over there, just up the street",NO,NO,False
+conv_586,No,No,No,No,No,NO,"YES - No, there's no question about age, but rather a statement by Hammond: ""I got a whole thing about people pointin' guns at me.""",NO,NO,NO,False
+conv_587,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_588,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_589,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_590,No,No,No,No,No,NO,YES - 'Who'd you call on the phone back at the booking station?' (HAMMOND),NO,NO,NO,False
+conv_591,No,No,No,No,No,NO,"YES - HAMMOND: 'You really do have onee, huh, Jack... what's her problem besides you?'",NO,NO,NO,False
+conv_592,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_593,No,No,No,No,No,NO,"YES - HAMMOND: Last night, two nights ago, three?",NO,NO,NO,False
+conv_594,No,No,No,No,No,NO,YES - HAMMOND: You have a good time?,NO,NO,NO,False
+conv_595,No,No,No,No,No,NO,"YES - HAMMOND: 'Tell me a little about her.' No direct question about age, but HAMMOND is asking for more information.",NO,NO,NO,False
+conv_596,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_597,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_598,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_599,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_600,No,No,No,No,No,NO,NO,NO,"YES - CATES: ""here, I'll even loan you my badge.""",NO,False
+conv_901,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_902,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_903,No,No,No,No,Yes - Reference to watching something,NO,NO,NO,NO,NO,False
+conv_904,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_905,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_906,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_907,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_908,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_909,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_910,No,No,No,No,No,NO,"YES - 'What's he talking about?' (EDDIE) - This is an indirect way of asking about someone's age or information, but it's not a direct question.",NO,NO,NO,False
+conv_911,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_912,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_913,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_914,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_915,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_916,No,No,No,No,No,NO,YES - EDDIE: Why?,NO,NO,NO,False
+conv_917,No,No,No,No,No,NO,NO,NO,NO,YES - WELLES: 'Show me.'; EDDIE: 'Took it out the bathroom window. Buried it in the woods.' (implying a crime scene),False
+conv_918,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_919,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_920,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_921,No,No,No,No,Yes - Reference to tapes,NO,NO,NO,NO,"YES - ""You know how my tapes sell.  People eat this stuff up."" (referring to video tapes)",True
+conv_922,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_923,No,No,No,No,Yes - Reference to film,NO,NO,NO,NO,NO,False
+conv_924,No,No,No,No,No,NO,NO,NO,NO,"YES - WELLES: 'You found these smut dealers and asked to buy a snuff film, right?'",False
+conv_925,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_926,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_927,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_928,No,No,No,No,Yes - Reference to film,NO,NO,NO,NO,NO,False
+conv_929,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_930,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_931,No,No,No,No,No,NO,"YES - MAX: Big date tonight? (implying a relationship, but not directly asking for age)",NO,YES - MAX: Can I interest you in a battery operated-vagina? (offering a product),NO,False
+conv_932,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_933,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_934,No,No,No,No,No,NO,"YES - ""WELLES"": 'Remember me?'...This sentence implies WELLES is asking MAX if they remember him, but it doesn't explicitly ask for age. However, MAX's response ""Came back for that battery-operated vagina, right?  Told you you would."" does not indicate a request for age either.",NO,NO,NO,False
+conv_935,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_936,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_937,No,No,No,No,No,NO,"YES - WELLES: 'How long you been working there?' (implying asking about Max's age, but not directly)","YES - MAX: 'Tomorrow night, I get off at eight.' (implying meeting up the next night, but no specific location mentioned)","YES - WELLES: 'Here's my number if you need it...  When can you start?' (giving Max his phone number, implying a job or task)",NO,False
+conv_938,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_939,No,No,No,No,Yes - Discussion about pornography,NO,"YES - No specific question about age was asked, but 'you're a young man' implies MAX might be guessing WELLES' age.",NO,"YES - MAX mentioned 'videos a week' implying he's involved in buying or selling videos, but no specific gift-giving was mentioned.","YES - MAX mentioned '150 videos a week' and WELLES asked about 'illegal films', implying they're discussing existing videos.",False
+conv_940,Yes - States age as 25,No,No,No,No,YES - MAX: Twenty-five.,YES - WELLES: How old are you?,NO,NO,NO,False
+conv_941,No,No,No,No,Yes - Reference to films,NO,NO,YES - WELLES: 'What do you say to flying out and giving me a hand?' (implying meeting up in New York),NO,"YES - MAX: 'He cuts all kinds of other stuff into his movies; photographs, newsreel footage...' (referring to Dino Velvet's films), WELLES: 'Dig up whatever Dino Velvet films you can. Get receipts.' (requesting video information)",False
+conv_942,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_943,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_944,No,No,No,No,No,NO,YES - MAX: Wha... ? (implying confusion or lack of information),NO,NO,NO,False
+conv_945,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_946,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_947,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_948,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_949,No,No,No,No,No,NO,NO,NO,YES - WELLES: It's money.  People use it to purchase goods and services.,NO,False
+conv_950,No,No,No,No,No,NO,NO,NO,YES - WELLES: It's not my money. The woman I got it from is never going to give it a second thought.,NO,False
+conv_951,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_952,No,No,No,No,No,NO,"YES - MRS CHRISTIAN said 'Apparently Mr. Longdale has something he feels he simply must say before you and I speak.' implying she is asking Mr. Longdale to speak, but not directly asking his age",NO,NO,NO,False
+conv_953,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_954,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_955,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_956,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_957,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_958,No,No,No,No,No,NO,"YES - 'Do you carry a gun, Mr. Welles?' (from speaker MRS CHRISTIAN)",NO,NO,NO,False
+conv_959,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_960,No,No,No,No,Yes - Reference to film,NO,NO,NO,NO,NO,False
+conv_961,No,No,No,No,Yes - Reference to film,NO,NO,NO,NO,NO,False
+conv_962,No,No,No,No,Yes - Discussion about film,NO,NO,NO,NO,NO,False
+conv_963,No,No,No,No,Yes - Reference to film,NO,NO,NO,NO,NO,False
+conv_964,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_965,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_966,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_967,No,No,No,No,No,NO,NO,NO,"YES - WELLES: 'I'd like you to overnight me a copy of those checks, then put them in a safe deposit box.'",NO,False
+conv_968,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_969,No,No,No,No,No,NO,NO,NO,"YES - ""I'll tell you how to send it."" (Welles is offering to explain how to send money)",NO,False
+conv_970,No,No,No,No,No,NO,YES - MRS MATHEWS: Yes... ?,NO,NO,NO,False
+conv_971,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_972,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_973,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_974,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_975,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_976,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_977,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_978,No,No,No,No,No,NO,YES - MRS MATHEWS: Are you religious?,NO,NO,NO,False
+conv_979,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_980,No,No,No,No,No,NO,"YES - No specific question about age was asked, but 'You're probably right' by WELLES implies a possible assumption or calculation related to age.",NO,NO,NO,False
+conv_981,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_982,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_983,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_984,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_985,No,No,No,No,No,NO,"YES - ['Who are you?', 'Who is this... ?']",NO,NO,NO,False
+conv_986,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_987,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_988,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_989,No,No,No,No,No,NO,NO,NO,"YES - Welles is asked to deliver a suitcase to her parents: 'Can you get this suitcase to her parents, if you think it's appropriate?'",NO,False
+conv_990,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_991,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_992,No,No,No,No,No,NO,NO,NO,YES - WELLES: 'Cash.' (implied purchase),NO,False
+conv_993,No,No,No,No,No,NO,"YES - SALESPERSON: 'Alright.  May I have your phone number, area code first?'",NO,NO,NO,False
+conv_994,No,No,No,No,No,NO,NO,NO,"YES - The SALESPERSON sold items (""I'm required by state law..."", ""bag it, I'll be on my way"")",NO,False
+conv_995,No,No,No,No,No,NO,"YES - RICK: ""Don't you think it kind of defeats the purpose?""",NO,NO,NO,False
+conv_996,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_997,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_998,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_999,No,No,No,No,No,NO,"YES - ""You alright?"" by RICK",NO,NO,NO,False
+conv_1000,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_301,No,No,No,No,No,NO,YES - 'Your father put cigarettes out on you?' (CUTLER),NO,NO,NO,False
+conv_302,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_303,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_304,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_305,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_306,No,No,Yes - Request to go to Jordy's place to take a shower,No,No,NO,YES - DAPHNE: Are you married?,YES - DAPHNE: Could we stop at your place? I could take a shower...before I go into custody?,NO,NO,False
+conv_307,No,No,"Yes - Asks about going ""somewhere else""",No,No,NO,NO,"YES - JORDY said 'I can't take you to my place.' which implies a physical location, and DAPHNE asked 'Somewhere else?' suggesting they want to meet up somewhere",NO,NO,True
+conv_308,No,No,Yes - Going to empty fire station,No,No,NO,NO,"YES - JORDY's text: 'This way.' (implying a physical location, possibly the fire station)",NO,NO,True
+conv_309,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_310,No,No,No,No,No,NO,YES - 'So you were never a prostitute?' (JORDY),NO,NO,NO,False
+conv_311,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_312,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_313,No,No,No,No,No,NO,YES - JORDY: Is he your boyfriend?,NO,NO,NO,False
+conv_314,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_315,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_316,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_317,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_318,No,No,No,No,No,NO,"YES - ...Do you really want me to forget about you?' (implied, but not directly asked)",NO,NO,NO,False
+conv_319,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_320,No,No,No,No,No,NO,"YES - 'If I tell you, will you arrest me?'",NO,NO,NO,False
+conv_321,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_322,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_323,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_324,No,No,No,No,No,NO,YES - 'Who did cause and origin?' (DUFFY),NO,NO,NO,False
+conv_325,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_326,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_327,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_328,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_329,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_330,No,No,No,No,No,NO,NO,YES - DUFFY: Swing by her apartment.,NO,YES - KORFIN: Yeah.  He finished awhile ago.,False
+conv_331,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_332,No,No,No,No,No,NO,"YES - No specific question about age was found, but there is a mention of 'some kid' which implies an inquiry about the perpetrator's age in general conversation.",NO,NO,NO,False
+conv_333,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_334,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_335,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_336,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_337,No,No,No,No,No,NO,NO,"YES - EDDIE: ""C'mere."" (implying a physical meeting)",NO,NO,False
+conv_338,No,No,No,No,No,NO,"YES - EDDIE: ""The other side of the street.  The guy with the videocamera."" (implying curiosity, but no direct question about age)",NO,NO,"YES - EDDIE: ""The guy with the videocamera."" (referring to a person with a camera)",False
+conv_339,No,No,No,No,No,NO,"YES - 'EDDIE', 'text': 'Are you hit?'",NO,NO,NO,False
+conv_340,No,No,No,No,Yes - Reference to filming,NO,NO,NO,NO,YES - ['He got my gun!  Motherfucker was filming the whole time!'],True
+conv_341,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_342,No,No,No,No,No,NO,"YES - 'What's wrong?' (ROSE) - This question is not about age, but it implies a request for information, however, there's no explicit ask for age. Still, there's another part: 'We don't have her I.D. yet' (EDDIE), which does imply an inquiry related to identification, but the conversation continues without asking Eddie's ID or age.",NO,NO,NO,False
+conv_343,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_344,No,No,No,No,No,NO,"YES - Eddie's text: 'What are you saying?' implies a question, but not specifically about age.",NO,NO,NO,False
+conv_345,No,No,No,No,Yes - Reference to videocamera,NO,NO,NO,NO,NO,False
+conv_346,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_347,No,No,No,No,No,NO,"YES - 'You know what that is, right?'",NO,NO,NO,False
+conv_348,No,No,No,No,Yes - Reference to watching TV,NO,NO,NO,NO,NO,False
+conv_349,No,No,No,No,No,NO,"YES - 'EDDIE', 'text': 'But I would like to ask you something.  You got a problem with me?'",NO,NO,NO,False
+conv_350,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_351,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_352,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_353,No,No,No,No,No,NO,"YES - EDDIE: ""You're Polish?""",NO,NO,NO,False
+conv_354,No,No,Yes - Request to ride along,No,No,NO,"YES - JORDY: ""You goin' to the escort service?"" (implying JORDY is asking EDDIE about his plans, but not directly asking for age)","YES - JORDY: ""Mind if I ride along with you?"" (implying a physical meeting or ride-along)",NO,NO,False
+conv_355,No,No,Yes - Discussion about coming along,No,No,NO,NO,NO,NO,NO,False
+conv_356,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_357,No,No,No,No,No,NO,NO,"YES - ""Leon - meet us at 63rd and Madison. Hair salon. Ludwig's.""",NO,NO,False
+conv_358,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_359,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_360,No,No,No,No,No,NO,YES - JORDY: Why not? EDDIE: Something back home?,NO,NO,NO,False
+conv_361,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_362,No,No,Yes - Request to talk alone,No,No,NO,YES - 'What would your girlfriend think of that?' by EDDIE,NO,NO,NO,False
+conv_363,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_364,No,No,No,No,No,NO,"YES - EDDIE: ""Well, you shoulda because nobody's gonna believe you didn't...including me."" (implying Eddie wants proof of Jordy's innocence)",NO,NO,NO,False
+conv_365,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_366,No,No,No,No,No,NO,YES - JORDY: Why'd you help me back there with the Chief?  Why'd you stand up for me like that?,NO,NO,NO,False
+conv_367,No,No,No,No,Yes - Discussion about making a movie,NO,"YES - 'EDDIE', 'text': 'What's your accomplishment.'",NO,NO,NO,False
+conv_368,No,No,No,No,Yes - Reference to filming,NO,NO,NO,NO,NO,False
+conv_369,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_370,No,No,Yes - Request to go to crime scene,No,No,NO,"YES - NICOLETTE: 'Detective, does it look like a murder?' (implying she's asking about the crime scene)",NO,NO,NO,False
+conv_371,No,No,No,No,No,NO,"YES - 'Detective - can you tell us what happened here?' (NICOLETTE is asking EDDIE a question, but it's not about his age)",NO,NO,NO,False
+conv_372,No,No,No,No,Yes - Reference to filming,NO,"YES - NICOLETTE: 'I understand, but I noticed that the Fire Marshall is here with you.  Is this somehow related to the fire department?'",NO,NO,NO,False
+conv_373,No,No,No,No,No,NO,"YES - 'Eddie, are you okay?' by NICOLETTE",NO,NO,NO,False
+conv_374,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_375,No,No,No,No,No,NO,"YES - NICOLETTE: 'Well, who was it that taught me how to do that?  Huh?' (implying Eddie is referencing his past)",NO,NO,YES - NICOLETTE: 'That was good.  You were holding the evidence.' (implying a camera or filming),False
+conv_376,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_377,No,No,No,No,No,NO,YES - EDDIE: Answer the phone.,NO,NO,NO,False
+conv_378,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_379,No,No,Yes - Plans to meet later,No,No,NO,NO,NO,NO,NO,False
+conv_380,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_381,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_382,No,No,No,No,No,NO,YES - 'How old are you?' (said by EDDIE),NO,NO,NO,False
+conv_383,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_384,No,No,Yes - Reference to going to a party,No,No,NO,NO,NO,NO,NO,False
+conv_385,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_386,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_387,No,No,No,No,No,NO,YES - HAWKINS: Any chance we can do that again?,NO,NO,NO,False
+conv_388,No,No,No,No,No,NO,YES - SECONDARY OFFICER: You're a butcher?  What do you use pig intestines for?,NO,NO,NO,False
+conv_389,No,No,No,No,No,NO,"YES - ""Are you married?"" (SECONDARY OFFICER)",NO,NO,NO,False
+conv_390,No,No,Yes - Request to meet at 45 Broadway at 4 o'clock,No,No,NO,NO,YES - EMIL: 'Come to 45 Broadway. Don't bring the Police. Come alone or you'll be in my next film.',YES - EMIL: 'Three hundred thousand dollars.' (requesting money),NO,False
+conv_391,No,No,No,No,No,NO,YES - 'Were you a fireman?  That how you knew how to rig the apartment?' (JORDY),NO,NO,NO,False
+conv_392,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_393,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_394,No,No,No,No,No,NO,YES - 'JORDY' text: Where's your partner? (implied interest in Emil),YES - 'EMIL' text: The Sheraton!  On Broadway!  Room 210.,NO,NO,False
+conv_395,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_396,No,No,No,No,No,NO,YES - EMIL: Where's Czech girl?,NO,NO,NO,False
+conv_397,No,No,No,No,No,NO,NO,"YES - EMIL: 'I ordered a Czech girl.  Daphne, you know her?' - implies meeting with the person or something related to this context",YES - HONEY: 'Now I like to get business out of the way before we get down to pleasure.  Why don'tchya put my money on the dresser.' - implies putting money or payment for some service,NO,False
+conv_398,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_399,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_400,No,No,No,No,No,NO,"YES - EMIL: Give me the address!! (implied urgency or threat, but no explicit request for age)",NO,NO,NO,False
+conv_401,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_402,No,No,No,No,No,NO,NO,NO,NO,"YES - IMMIGRATION OFFICER: Can you show me?  Sir, no cameras in the FIS area!",False
+conv_403,No,No,No,No,No,NO,NO,YES - IMMIGRATION OFFICER: Please join us.  Come on forward.,NO,NO,False
+conv_404,No,No,No,No,No,NO,YES - IMMIGRATION OFFICER: How long are you planning to stay?,NO,NO,NO,False
+conv_405,No,No,No,No,No,NO,YES - EMIL: Who is he?,NO,NO,NO,False
+conv_406,No,No,No,Yes - Discusses magazine purchase,No,NO,NO,NO,NO,NO,False
+conv_407,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_408,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_409,No,No,No,No,Yes - References documenting trip,NO,"YES - 'Did you hear what I said?' - This line implies that Emil might have mentioned something previously, but there is no direct question about age.",NO,NO,NO,False
+conv_410,No,No,No,No,No,NO,YES - OLEG: Why?  Why do I always have to speak to you in Czech?,NO,NO,NO,False
+conv_411,No,No,No,No,Yes - Discusses videocameras,NO,NO,NO,NO,YES - OLEG: Look.  New videocameras.,True
+conv_412,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_413,No,No,No,No,No,NO,YES - OLEG: What?,NO,NO,NO,False
+conv_414,No,No,No,No,Yes - Reference to filming,NO,NO,NO,NO,YES - EMIL: Turn that fucking thing off! OLEG: I'm not filming.  I'm watching Milos die.  It's just like a move but realer.,True
+conv_415,No,No,No,No,Yes - References camera,NO,YES - EMIL: Speak English!,NO,YES - OLEG: I'll do it.  Don't hurt my camera!,NO,False
+conv_416,No,No,No,No,No,NO,YES - EMIL: 'You have Eastern European girl?  A Czech girl?',NO,NO,NO,False
+conv_417,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_418,No,No,No,No,Yes - References filming scene,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_419,No,No,No,No,Yes - References filming,NO,NO,NO,NO,"YES - OLEG said 'Oh, shit.  I hate looking at that!' and EMIL responded with 'Don't want to film this?'",True
+conv_420,No,No,No,No,Yes - References video and camera,NO,NO,"YES - EMIL: 'Put the camera down, Oleg.' (implying meeting in person)",NO,"YES - 'The video of Milos and Tamina' (produced) - EMIL: 'Put the camera down, Oleg.' (requesting to stop recording)",False
+conv_421,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_422,No,No,No,No,Yes - References getting a shot,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_423,No,No,No,No,Yes - References filming murders,NO,NO,NO,NO,"YES - EMIL: ""We are insane.  Who else but crazy men would film their murders?""",True
+conv_424,No,No,No,No,Yes - References camera operation,NO,NO,NO,NO,YES - EMIL: 'Start the camera!' OLEG: 'Cut!' (implying a video recording),True
+conv_425,No,No,No,No,No,NO,NO,NO,"YES - Oleg got a hundred-fifty thousand dollars, didn't you?",NO,False
+conv_426,No,No,No,No,Yes - References movie making,NO,NO,NO,NO,NO,False
+conv_427,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_428,No,No,No,No,Yes - References directing/filming,NO,NO,NO,NO,NO,False
+conv_429,No,No,No,No,Yes - References tape/filming,NO,NO,NO,NO,YES - EMIL: 'I told you to cut that out before we handed in the tape!' and OLEG: 'Watch.',True
+conv_430,No,No,No,No,Yes - References film making,NO,"YES - EMIL: 'Why did you leave that stuff in about you being the director?'
+OLEG: 'Because I am the director.  Don't you realize, if it wasn't for my film, for my talent, my idea to do this - no way would we be sitting here right now.' EMIL: 'Your idea?  I thought it was my idea.'",NO,NO,NO,False
+conv_431,No,No,No,No,Yes - References video and credits,NO,"YES - No, but there's only one problem - you want credit but the problem is - I don't share credit.",NO,NO,YES - Before we hand in the next video - I put titles on it and my credit is going to read - Directed by Oleg Razgul.,False
+conv_432,No,No,No,No,No,NO,YES - 'You got that?' by EMIL,NO,NO,NO,False
+conv_433,No,No,No,No,Yes - References directing,NO,NO,NO,NO,NO,False
+conv_434,No,No,No,No,No,NO,YES - MILOS: Emil???!,NO,NO,NO,False
+conv_435,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_436,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_437,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_438,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_439,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_440,No,No,No,No,Yes - References tape,NO,NO,NO,NO,YES - HAWKINS: Viewer discretion advised!,True
+conv_441,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_442,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_443,No,No,No,No,Yes - References footage,NO,NO,NO,NO,YES - HAWKINS said 'This footage will work in your favor.' indicating the existence of a video.,True
+conv_444,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_445,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_446,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_447,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_448,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_449,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_450,No,No,No,No,No,NO,YES - LEON: What was that?,NO,NO,NO,False
+conv_451,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_452,No,No,No,No,No,NO,YES - MUGGER: Got any spare change?  How 'bout a spare twenty?,NO,NO,NO,False
+conv_453,No,No,No,No,No,NO,YES - JORDY: 'Oh yeah?  Guess again.',NO,NO,NO,False
+conv_454,No,No,No,No,No,NO,"YES - MUGGER: 'C'mon, you can't leave me like this.'",NO,NO,NO,False
+conv_455,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_456,No,No,No,No,No,NO,"YES - 'What's that on your forehead, Max?' - This question implies curiosity about Max's appearance, but doesn't directly ask his age.",NO,NO,NO,False
+conv_457,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_458,No,No,No,No,No,NO,YES - JORDY: Could you put out the cigar?,NO,"YES - KORFIN: Nah, not at all.  Detective Flemming - Bobby Korfin.  My Uncle Tony worked with you at 2-1 back when you were a rookie.",NO,False
+conv_459,No,No,No,No,No,NO,"YES - KORFIN, 'Clean?' (implying a question about cleanliness or state of being, but also possibly implying a question about age)",NO,NO,NO,False
+conv_460,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_461,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_462,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_463,No,No,No,No,Yes - References movie making,NO,NO,NO,NO,NO,False
+conv_464,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_465,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_466,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_467,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_468,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_469,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_470,No,No,No,No,Yes - References videotape,NO,NO,NO,NO,"YES - ""That's why he videotaped Eddie's murder - he thinks he's gonna get off.""",True
+conv_471,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_472,No,No,No,No,Yes - References movie making,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_473,No,No,No,No,No,NO,"YES - B20 did not ask, but FLOYD said 'You're looking wonderful.' which implies Elena might be 30+ based on the context of being 'wonderful', however this is not explicitly stated. However B20 asked a question that could imply age indirectly (SPACE STATTION 5 - LOUNGE), which could be related to someone's birthday but it does not give away any specific age.",NO,NO,NO,False
+conv_474,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_475,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_476,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_477,No,No,No,No,No,NO,YES - FLOYD: How did they manage to do that without any communication?,NO,NO,NO,False
+conv_478,No,No,No,No,No,NO,"YES - B20: CONTINUED, FLOYD: I'm sorry, Dr. Smyslov, but I'm really not at liberty to discuss this.",NO,NO,NO,False
+conv_479,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_480,No,No,No,No,No,NO,NO,"YES - POOLE: 'Just a sec.'
+BOWMAN: 'Okay.'
+POOLE: 'Okay, come on down.'",NO,NO,False
+conv_481,No,No,No,No,No,NO,YES - None of the conversation participants asked for each other's age.,NO,NO,NO,False
+conv_482,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_483,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_484,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_485,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_486,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_487,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_488,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_489,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_490,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_491,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_492,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_493,No,No,No,No,No,NO,"YES - HAL: ""I'm sorry, Frank, but I don't think I can answer that question without knowing everything that all of you know."" This implies HAL is being asked a question by someone named Frank.",NO,NO,NO,False
+conv_494,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_495,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_496,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_497,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_498,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_499,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_500,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_1,No,No,Yes - Cameron asks Bianca to try French cuisine on Saturday night,No,No,NO,"YES - No specific question about age was asked, but BIANCA mentioned 'Again', implying previous public break-ups, so this is not a direct answer to the question. However, in one of her statements, there's an implication that she knows Andrew Barrett's and Roxanne Korrine's relationship history.",YES - 'Saturday? Night?' - CAMERON,NO,NO,False
+conv_2,No,No,No,No,No,NO,"YES - BIANCA: ""What's your name again?"" (implied interest in Cameron)",NO,NO,NO,False
+conv_3,No,No,No,No,No,NO,YES - Cameron: Seems like she could get a date easy enough...,NO,NO,NO,False
+conv_4,No,No,No,No,No,NO,YES - CAMERON: Why?,NO,NO,NO,False
+conv_5,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_6,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_7,No,No,No,No,No,NO,YES - BIANCA: How is our little Find the Wench A Date plan progressing?,NO,NO,NO,False
+conv_8,No,No,No,No,No,NO,YES - BIANCA: Where?,NO,NO,NO,False
+conv_9,No,No,Yes - Reference to a planned date (previously arranged),No,No,NO,"YES - BIANCA: 'I counted on you to help my cause. You and that thug are obviously failing.' (implying she wants CAMERON's response or action, but not directly asking for his age)",YES - BIANCA: 'Aren't we ever going on our date?' (implying she wants a personal meeting),NO,NO,False
+conv_10,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_11,No,No,No,No,No,NO,YES - 'How do you get your hair to look like that?' (CAMERON),NO,NO,NO,False
+conv_12,No,No,Yes - Reference to wanting to go somewhere (context implies an event),No,No,NO,NO,NO,NO,NO,False
+conv_13,No,No,No,No,Yes - Reference to finding a picture in a drawer,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_14,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_15,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_16,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_17,No,No,Yes - Reference to being at a party,No,No,NO,"YES - CAMERON: 'You never wanted to go out with me, did you?' (implied asking about past behavior, but not directly asking age)",NO,NO,NO,False
+conv_18,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_19,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_20,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_21,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_22,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_23,No,No,"Yes - ""Let's go"" (implies immediate movement)",No,No,NO,NO,NO,NO,NO,False
+conv_24,No,No,No,No,No,NO,"YES - ""She okay?"" (Cameron asking about Bianca's well-being)",NO,NO,NO,False
+conv_25,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_26,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_27,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_28,No,No,No,No,No,NO,"YES - BIANCA: Would you mind getting me a drink, Cameron?",NO,NO,NO,False
+conv_29,No,No,No,No,No,NO,"YES - 'Is he oily or dry?' (asking about someone's skin type, possibly related to their age)",NO,NO,NO,False
+conv_30,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_31,Yes - References being sophomores,No,No,No,No,NO,NO,NO,NO,NO,False
+conv_32,Yes - References being sophomores at prom,No,Yes - Discussion about prom attendance,No,No,NO,"YES - CHASTITY: 'You think you 're the only sophomore at the prom?' implies she is asking about Bianca's academic status, but not directly asking her age.",NO,NO,NO,False
+conv_33,No,No,No,No,No,NO,YES - BIANCA: Expensive?,NO,NO,NO,False
+conv_34,No,No,"Yes - Discussion about going to ""Bogey Lowenbrau's thing on Saturday""",No,No,NO,NO,"YES - BIANCA's text: 'Hopefully.' implies a plan or meeting, but no specific location is mentioned.",NO,NO,True
+conv_35,No,No,No,No,Yes - Discussion of modeling/catalog work,NO,NO,NO,YES - JOEY mentioned 'the Sears catalog thing going',NO,False
+conv_36,No,No,No,No,Yes - More modeling discussion,NO,NO,NO,NO,NO,False
+conv_37,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_38,No,No,Yes - Discussion about prom attendance,No,No,NO,NO,NO,NO,NO,False
+conv_39,No,No,No,No,No,NO,YES - KAT: Where've you been?,NO,NO,NO,False
+conv_40,No,No,No,No,No,NO,"YES - BIANCA: 'Can you at least start wearing a bra?' (implying a request to grow up or mature, but not directly asking for age)",NO,NO,NO,False
+conv_41,No,No,Yes - Club Skunk event and Bogey Lowenstein's party mentioned,No,No,NO,NO,NO,NO,NO,False
+conv_42,No,No,Yes - Bogey Lowenstein's party mentioned again,No,No,NO,YES - KAT: What's normal?,NO,NO,NO,False
+conv_43,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_44,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_45,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_46,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_47,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_48,Yes - References being a sophomore,No,Yes - Prom discussion,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_49,Yes - Reference to 9th grade,No,No,No,No,NO,NO,NO,NO,NO,False
+conv_50,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_51,No,No,No,No,No,NO,"YES - No, you didn't! (from BIANCA)",NO,NO,NO,False
+conv_52,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_53,No,No,No,No,No,NO,YES - KAT: 'So did you',NO,NO,NO,False
+conv_54,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_55,No,No,No,No,No,NO,YES - BIANCA: Is that woman a complete fruit-loop or is it just me?,NO,NO,NO,False
+conv_56,No,No,No,No,No,NO,YES - KAT: Perm?,NO,NO,NO,False
+conv_57,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_58,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_59,No,No,"Yes - Reference to ""small study group""/""party""",No,No,NO,"YES - WALTER's text: ""And where're you going?"" (implying a question about BIANCA's plans, but not explicitly asking her age)",NO,NO,NO,False
+conv_60,No,No,Yes - Party reference,No,No,NO,NO,NO,NO,NO,False
+conv_61,No,No,Yes - Party reference,No,No,NO,NO,NO,NO,NO,False
+conv_62,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_63,No,No,No,No,No,NO,YES - BIANCA: 'Why?',NO,NO,NO,False
+conv_64,No,No,Yes - Prom discussion (tomorrow night),No,No,NO,NO,NO,NO,NO,False
+conv_65,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_66,No,No,No,No,No,NO,YES - BRUCE: 'Didn't have you pegged for a Gigglepuss fan.  Aren't they a little too pre-teen belly-button ring for you?',NO,"YES - BRUCE: 'Just sent 'em through.' (implying sending something, possibly tickets or passes)",NO,False
+conv_67,No,No,No,No,No,NO,YES - MICHAEL: You the new guy?,NO,NO,NO,False
+conv_68,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_69,No,No,No,No,No,NO,"YES - No specific question about age was asked, but Michael implies that some people might be interested in a horse because they 'just jack off to Clint Eastwood'. This is not directly asking about age.",NO,NO,NO,False
+conv_70,Yes - Reference to being a sophomore,No,No,No,No,NO,YES - CAMERON: Who is she?,NO,NO,NO,False
+conv_71,No,No,No,No,No,NO,YES - CAMERON: Why do girls like that always like guys like that?,NO,NO,NO,False
+conv_72,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_73,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_74,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_75,No,No,No,No,No,NO,"YES - 'CAMERON', 'text': 'What about him?'",NO,NO,NO,False
+conv_76,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_77,No,No,No,No,No,NO,"YES - No specific question about age was asked, but 'I thought you hated those people.' implies some level of knowledge or association with Michael's clients, which could be related to age or status.",NO,NO,NO,False
+conv_78,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_79,No,No,Yes - Party planning discussion,No,No,NO,NO,NO,NO,NO,False
+conv_80,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_81,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_82,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_83,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_84,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_85,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_86,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_87,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_88,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_89,No,No,No,No,No,NO,YES - 'CAMERON': 'Gigglepuss is playing there tomorrow night.' (implying Patrick's involvement but not explicitly asking for his age),NO,NO,NO,False
+conv_90,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_91,No,No,No,No,No,NO,"YES - ""What 're you talking about?"" (PATRICK)",NO,NO,NO,False
+conv_92,No,No,No,No,No,NO,"YES - 'Cameron -- do you like the girl?' by PATRICK, implying a question about preferences or characteristics, but not explicitly asking for age",NO,NO,NO,False
+conv_93,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_94,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_95,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_96,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_97,No,No,No,No,Yes - Reference to Kmart spread/modeling,NO,NO,NO,NO,NO,False
+conv_98,No,No,No,No,No,NO,"YES - ""Hey -- do you mind?"" (KAT)",NO,NO,NO,False
+conv_99,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_100,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_9,No,No,Yes - Reference to a planned date (previously arranged),No,No,NO,"YES - 'You got something on your mind?' (This implies that BIANCA is expecting CAMERON to ask her about her concerns, but it's not a direct question about age)","YES - 'Aren't we ever going on our date?' (This implies that BIANCA is asking CAMERON about a planned meeting, but the location is not specified)",NO,NO,False
+conv_12,No,No,Yes - Reference to wanting to go somewhere (context implies an event),No,No,NO,NO,NO,NO,NO,False
+conv_13,No,No,No,No,Yes - Reference to finding a picture in a drawer,NO,NO,NO,NO,NO,False
+conv_101,No,No,No,No,No,NO,"YES - JOEY said 'What do you think?' which implies asking PATRICK's opinion, but it could be interpreted as a question about his thoughts rather than directly asking for age. However, there is no explicit mention of age in the conversation.",NO,NO,NO,False
+conv_102,No,No,"Yes - Joey wants Patrick to ""go out with"" someone",No,No,NO,"YES - 'JOEY', 'text': ""But you'd go out with her if you had the cake?""'",NO,NO,NO,False
+conv_103,No,No,Yes - Discussion about paying Patrick to take someone out,Yes - Joey offers to pay Patrick to take someone out,No,NO,YES - 'How much?' - PATRICK (implying he wants to know how much money is involved),NO,YES - 'I pick up the tab' - JOEY (implying he is paying for something),NO,False
+conv_104,No,No,No,Yes - Discussion of payment ($20) for date,No,NO,NO,NO,NO,NO,False
+conv_105,No,No,No,Yes - Negotiation of payment ($50),No,NO,NO,NO,NO,NO,False
+conv_106,No,No,Yes - Reference to a date,Yes - Payment for date discussed,No,NO,"YES - JOEY: When I shell out fifty, I expect results.",NO,NO,NO,False
+conv_107,No,No,No,Yes - Price increased to $100 per date,No,NO,NO,NO,NO,NO,False
+conv_108,No,No,No,Yes - Reference to payment deal,No,NO,NO,NO,NO,NO,False
+conv_109,No,No,No,No,No,NO,YES - JOEY: 'How'd you do it?' (implying asking about a past action),NO,NO,NO,False
+conv_110,No,No,No,"Yes - Mentions expenses for limo, flowers, tux",No,NO,"YES - JOEY: 'Enough with the Barbie n' Ken shit. I know.' (This implies that Patrick might have shared some info, but it's not explicitly mentioned)",NO,"YES - PATRICK: 'I don't know, Dorsey...the limo.-the flowers. Another hundred for the tux --' (This implies that Patrick is discussing spending money on something)",NO,False
+conv_111,No,No,No,No,No,NO,"YES - 'JOEY', 'text': 'Are you lost?' (implied question about Michael's location, but not explicitly asking for age)",NO,NO,NO,False
+conv_112,No,No,Yes - Discussion about arranging dates,No,No,NO,NO,NO,NO,NO,False
+conv_113,No,No,No,No,No,NO,"YES - 'JOEY', 'text': 'You and Verona?'",NO,NO,NO,False
+conv_114,No,No,No,"Yes - Reference to being ""heavily invested""",No,NO,NO,NO,NO,NO,False
+conv_115,No,No,No,No,"Yes - Reference to ""porn movies"" in rumor",NO,NO,"YES - ""Block E?"" (KAT)",NO,NO,False
+conv_116,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_117,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_118,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_119,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_120,No,No,No,No,No,NO,YES - MANDELLA: William would never have gone to a state school. (implying curiosity about William's educational background),NO,NO,NO,False
+conv_121,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_122,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_123,No,No,No,No,No,NO,YES - 'MANDELLA': 'What'd he say?',NO,NO,NO,False
+conv_124,No,No,Yes - Reference to attending a party,No,No,NO,NO,NO,NO,NO,False
+conv_125,No,No,Yes - Discussion about prom attendance,No,No,NO,NO,NO,NO,NO,False
+conv_126,No,No,Yes - Reference to meeting someone,No,No,NO,NO,YES - MANDELLA: 'he asked me to meet him here.',NO,NO,True
+conv_127,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_128,No,No,"Yes - ""Pick you up Friday""",No,No,NO,NO,"YES - PATRICK: 'Pick you up Friday, then'",NO,NO,True
+conv_129,No,No,Yes - Discussion about taking someone places,No,No,NO,YES - 'Like where?  The 7-Eleven on Burnside?',NO,NO,NO,False
+conv_130,No,No,"Yes - Invitation to ""Dollar Night at the track"" at 7:30",No,No,NO,"YES - PATRICK: ""You hate me don't you?"" (implying a personal or emotional relationship, but not explicitly asking for her age)","YES - PATRICK: ""Then say you'll spend Dollar Night at the track with me."" (referring to a specific location, likely a horse racing track)",NO,NO,False
+conv_131,No,No,No,No,No,NO,YES - KAT: Are you following me?,NO,NO,NO,False
+conv_132,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_133,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_134,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_135,No,No,No,No,No,NO,"YES - KAT: 'You know who The Raincoats are?' (implying lack of knowledge, but not directly asking about age) No... Why, don't you? (PATRICK)",NO,NO,NO,False
+conv_136,No,No,Yes - Reference to being at a party,No,No,NO,NO,NO,NO,NO,False
+conv_137,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_138,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_139,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_140,No,No,No,No,No,NO,"YES - PATRICK: 'Why'd you let him get to you?' (implying KAT's emotional state, but not directly asking her age)",NO,NO,NO,False
+conv_141,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_142,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_143,No,No,No,No,No,NO,"YES - 'KAT', 'text': 'Were you in jail?' (implying a question about Patrick's whereabouts)",NO,NO,NO,False
+conv_144,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_145,No,No,No,No,No,NO,"YES - 'PATRICK' asked 'KAT' indirectly by saying ""You don't strike me as the type that would ask permission.""",NO,NO,NO,False
+conv_146,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_147,No,No,No,No,No,NO,YES - PATRICK: 'Who?' (implying he doesn't know who BIANCA is),NO,NO,NO,False
+conv_148,No,No,Yes - Reference to poetry reading attendance,No,No,NO,NO,NO,NO,NO,False
+conv_149,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_150,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_151,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_152,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_153,No,No,No,No,No,NO,"YES - PATRICK: ""So how'd you get Chapin to look the other way?"" (implying interest in Kat's past actions)",NO,NO,NO,False
+conv_154,No,No,No,No,No,NO,"YES - PATRICK: 'You never disappointed me.' (implied question, but not directly asked)",NO,NO,NO,False
+conv_155,No,No,No,No,No,NO,YES - PATRICK: You up for it? KAT: For. . . ? (implying PATRICK is asking if KAT is ready),NO,NO,NO,False
+conv_156,No,No,No,No,"Yes - Reference to ""porn career"" rumor",NO,NO,NO,NO,NO,False
+conv_157,No,No,Yes - Invitation to prom,No,No,NO,NO,YES - PATRICK: 'Go to the prom with me',NO,NO,True
+conv_158,No,No,Yes - Discussion about prom invitation,No,No,NO,YES - 'Is that a request or a command?' (KAT),NO,NO,NO,False
+conv_159,No,No,No,No,No,NO,"YES - 'So I have to have a motive to be with you?' - This line implies Patrick is questioning Kat's interest in him, but it does not explicitly ask her age. However, it can be interpreted as an indirect way of asking about her intentions.",NO,NO,NO,False
+conv_160,No,No,Yes - Reference to attending prom,Yes - Discussion about tux and dress,No,NO,YES - PATRICK: 'It's Scurvy's.  His date got convicted. Where'd you get the dress?',NO,"YES - PATRICK: 'It's Scurvy's.  His date got convicted.' (implying he went to a store, possibly to buy a gift)",NO,False
+conv_161,No,No,No,No,No,NO,YES - KAT: 'What?' (implying a question about PATRICK's statement),NO,NO,NO,False
+conv_162,No,No,No,No,No,NO,"YES - 'It gets worse -- you still have your freshman yearbook?' implies PATRICK is asking about KAT's age, but it's not explicitly stated",NO,NO,NO,False
+conv_163,No,No,No,Yes - Reference to payment for dates,No,NO,NO,NO,NO,NO,False
+conv_164,No,No,No,Yes - Gift of a Fender Strat guitar,No,NO,NO,NO,YES - PATRICK said 'I thought you could use it. When you start your band.' indicating he gave KAT a Fender Strat.,NO,True
+conv_165,No,No,No,Yes - Reference to payment for dating,No,NO,YES - 'Is that right?' by KAT,NO,NO,NO,False
+conv_166,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_167,No,No,No,No,No,NO,"YES - WALTER: 'I thought we decided you were going to school here.  At U of 0.' implies asking about Kat's plans, but not directly asking her age.",NO,NO,NO,False
+conv_168,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_169,Yes - Mentions being 18,No,No,No,No,NO,NO,NO,NO,NO,False
+conv_170,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_171,No,No,Yes - Reference to attending a dance,No,No,NO,NO,NO,NO,NO,False
+conv_172,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_173,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_174,No,No,No,No,No,NO,YES - KAT: Tempestuous?,NO,NO,NO,False
+conv_175,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_176,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_177,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_178,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_179,No,No,No,No,No,NO,YES - MICHAEL: What?,NO,NO,NO,False
+conv_180,No,No,No,No,No,NO,"YES - PATRICK: 'What is it with this chick?  She have three tits?' (implying a question about Bianca Stratford's physical appearance, but not directly asking for her age)",NO,NO,NO,False
+conv_181,No,No,No,"Yes - Reference to ""cash"" payment",No,NO,NO,NO,NO,NO,False
+conv_182,No,No,No,No,No,NO,"YES - Patrick: 'So Dorsey can get the girl?' (implying interest in a character's relationship status, but not explicitly asking for age)",NO,NO,NO,False
+conv_183,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_184,No,No,No,No,No,NO,"YES - 'PATRICK', 'text': 'What?!'",NO,NO,NO,False
+conv_185,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_186,No,No,Yes - Reference to Club Skunk,No,No,NO,NO,NO,NO,NO,False
+conv_187,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_188,No,No,No,"Yes - Reference to ""sweet-payin' job""",No,NO,NO,NO,NO,NO,False
+conv_189,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_190,No,No,No,No,Yes - Reference to exposure incident,NO,NO,NO,NO,NO,False
+conv_191,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_192,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_193,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_194,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_195,No,No,No,No,No,NO,"YES - 'What's a synonym for throbbing?' - This question does not directly ask for age, but it is related to the conversation in an unusual way.",NO,NO,NO,False
+conv_196,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_197,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_198,No,No,Yes - Reference to dancing and coming home,No,No,NO,NO,NO,NO,NO,False
+conv_199,No,No,No,No,No,NO,"YES - WALTER: What do you wanna watch?  We've got crap, crap, crap or crap (implied asking for movie preferences, not age but no direct question of age)",NO,NO,NO,False
+conv_200,No,No,No,No,No,NO,YES - WALTER: 'But -- who -- what --?' (implying a question about identity),NO,NO,NO,False
+conv_201,No,No,No,No,No,NO,"YES - WALTER: 'What just happened?' (implying a desire to understand Sharon's previous statement, but not directly asking about her age)",NO,NO,NO,False
+conv_202,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_203,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_204,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_205,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_206,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_207,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_208,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_209,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_210,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_211,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_212,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_213,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_214,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_215,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_216,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_217,No,No,No,No,No,NO,YES - No evidence found in conversation,NO,NO,NO,False
+conv_218,No,No,No,No,No,NO,YES - COLUMBUS: Perhaps I was never meant to live with a woman...,NO,NO,NO,False
+conv_219,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_220,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_221,No,No,No,No,No,NO,"YES - BEATRIX: ""You don't usually ask."" implies Columbus is asking a question, but it's not about age.",NO,YES - COLUMBUS: 'I can arrange for the Queen to take Fernando and Diego into her service.' implies Columbus is offering a favor or service.,NO,False
+conv_222,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_223,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_224,No,No,Yes - Columbus asks Beatrix to stay,No,No,NO,NO,NO,NO,NO,False
+conv_225,No,No,No,No,No,NO,"YES - BEATRIX: What is it, now?  Tell me...",NO,NO,NO,False
+conv_226,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_227,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_228,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_229,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_230,No,No,Yes - Discussion about going somewhere in future,No,No,NO,YES - 'You promise?  Do you swear on St. Christopher...?' - FERNANDO,NO,NO,NO,False
+conv_231,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_232,No,No,Yes - Discussion about exploring mainland together,No,No,NO,NO,YES - FERNANDO: This time with me! (implying meeting),NO,NO,True
+conv_233,No,No,No,No,No,NO,"YES - 'How are you feeling, Fernando?' (asking about feelings which can imply a desire to know more about Fernando's current state)",NO,NO,NO,False
+conv_234,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_235,No,No,No,No,No,NO,YES - COLUMBUS: What are you listening to?,NO,NO,NO,False
+conv_236,No,No,Yes - Discussion about someone visiting,No,No,NO,NO,NO,NO,NO,False
+conv_237,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_238,No,No,No,No,No,NO,"YES - 'SANCHEZ', 'text': 'No?'",NO,NO,NO,False
+conv_239,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_240,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_241,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_242,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_243,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_244,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_245,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_246,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_247,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_248,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_249,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_250,No,No,No,No,No,NO,"YES - UTAPAN: 'Chief says -- how many?' (implying asking about a count or quantity, possibly age)",NO,NO,NO,False
+conv_251,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_252,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_253,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_254,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_255,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_256,No,No,Yes - Meeting scheduled in a week,No,No,NO,NO,NO,NO,NO,False
+conv_257,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_258,No,No,No,No,No,NO,"YES - ""How can you be so certain?"" (MARCHENA), ""How can you be so certain?"" (MARCHENA)",NO,NO,NO,False
+conv_259,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_260,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_261,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_262,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_263,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_264,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_265,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_266,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_267,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_268,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_269,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_270,No,No,No,No,No,NO,"YES - 'COLUMBUS', 'text': 'What did they say about Granada before today?'",NO,NO,NO,False
+conv_271,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_272,No,No,No,No,No,NO,YES - 'May I speak freely?' by COLUMBUS (implying a desire to be open),NO,NO,NO,False
+conv_273,Yes - Both characters state being 37,Yes - Isabel asks Columbus's age,No,No,No,NO,"YES - ISABEL: How old are you, Senor Colon?",NO,NO,NO,False
+conv_274,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_275,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_276,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_277,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_278,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_279,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_280,No,No,No,No,No,NO,"YES - MOXICA did not ask COLUMBUS about his age, but rather mentioned 'Not my horse.' which implies a previous statement or context that is not provided in this conversation segment.",NO,NO,NO,False
+conv_281,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_282,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_283,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_284,No,No,No,No,No,NO,"YES - ""What do you read?"" (COLUMBUS)",NO,NO,NO,False
+conv_285,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_286,No,No,Yes - Discussion about meeting immediately,No,No,NO,NO,YES - COLUMBUS: 'Where can I meet this man?',NO,NO,True
+conv_287,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_288,No,No,No,No,No,NO,"YES - ""Is that the man I knew, Treasurer Sanchez?"" (ISABEL's question implies curiosity about Sanchez's identity, but not his age)",NO,NO,NO,False
+conv_289,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_290,No,No,Yes - Request to call someone back,No,No,NO,NO,NO,NO,NO,False
+conv_291,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_292,No,No,No,No,No,NO,"YES - ISABEL: Is this true, Brother Buyl?",NO,NO,NO,False
+conv_293,No,No,No,No,No,NO,NO,NO,NO,NO,True
+conv_294,No,No,No,No,No,NO,YES - SANCHEZ: Then why?,NO,NO,NO,False
+conv_295,No,No,No,No,No,NO,YES - EMIL: Are you my attorney?,NO,YES - EMIL: Here.  I have your money.,NO,False
+conv_296,No,No,No,No,Yes - Reference to camera and movie being taken,NO,NO,NO,NO,YES - CUTLER: 'He has the camera!  He took the movie!' and EMIL: 'Oh no!  No!  Shit!',True
+conv_297,No,No,Yes - Going somewhere together,No,No,NO,YES - EMIL: Where are we going? (implying a desire to know the destination),NO,NO,NO,False
+conv_298,No,No,No,No,No,NO,NO,NO,"YES - CUTLER: ""I brought you some letters.  It's really fan mail.  Women mostly.  One wants to buy you clothes, another sent a check.""",NO,False
+conv_299,No,No,No,No,Yes - Discussion about movie rights,NO,NO,NO,NO,NO,False
+conv_300,No,No,No,No,No,NO,YES - 'Tell me about yourself.  What you did as a young boy... what your parents were like.' (CUTLER),NO,NO,NO,False

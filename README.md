@@ -1,10 +1,8 @@
 # message-analyzer
 
 ## Prepare Huggingface token
-* Before switching to Ollama, please request authorization to access the Llama model using the link below. Note: The approval process may take some time.
-* https://huggingface.co/meta-llama/Llama-3.2-1B-Instruct
-* https://huggingface.co/meta-llama/Llama-3.1-8B
-* After obtaining approval, please create a token in order to download the model.
+* download ollama - https://github.com/ollama/ollama
+* download llama3.1 model - `ollama pull llama3.1`
 
 ## Installation
 ### 1. Installing requirements
@@ -28,3 +26,8 @@ python3 src/client/client.py
 ```
 python3 -m src.client.cmd_client --output_directory ./folder/output --input_files ./test/mock_conversation_1.csv
 ```
+
+
+python script.py --input_file conversations.json --output_file results.csv --model llama2
+
+python3 -m src.client.analysis_client --input_file ./src/data_processing/cornell_movie_dialogs/split_conversations/conversations_part_001.json --models=llama3.2:1b

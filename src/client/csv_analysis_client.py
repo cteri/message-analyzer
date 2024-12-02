@@ -1,141 +1,75 @@
-# csv_analysis_client.py
-
 import argparse
 import json
 import logging
+import csv
+import warnings
 from pathlib import Path
-from typing import Any, Dict, List
+from typing import List, Dict, Any
+from src.ml.model import LlamaModel
 
 import pandas as pd
-
-from src.ml.model2 import LlamaModel  # Import the existing model class
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
 
-class CSVAnalysisClient:
-    def __init__(self, model: LlamaModel):
-        self.model = model
+class ConversationAnalyzer:
+    def __init__(self, model_name: str):
+        self.llama_model = LlamaModel(model_name)
 
-    def prepare_conversation_data(self, row: pd.Series) -> Dict[str, str]:
-        """Convert DataFrame row to model-compatible format
+    def analyze_conversation(self, conversation: Dict[str, Any]) -> Dict[str, Any]:
+        try:
+            results = self.llama_model.ask_questions([conversation])
+            # Extract answers from the formatted response
+            formatted_result = self.llama_model.clean_and_format_response(results, "")
+            answers = {}
+            for q in formatted_result["analysis"]["questions"]:
+                question_num = f"Q{q['question_number']}"
+                if q["answer"] == 'YES':
+                    answers[question_num] = f"{q['answer']} - {q['evidence']}"
+                else:
+                    answers[question_num] = q["answer"]
 
-        Args:
-            row: DataFrame row containing conversation data
-
-        Returns:
-            Dictionary containing formatted conversation text
-        """
-        # Construct conversation text format
-        conversation_text = f"""
-        Conversation ID: {row.name}
-        Age Information:
-        - Age Given: {row['Q1: Age given']}
-        - Age Asked: {row['Q2: Age asked']}
-
-        Interaction Details:
-        - Meet Up Request: {row['Q3: Meet up request']}
-        - Gift/Purchase: {row['Q4: Gift/Purchase']}
-        - Videos/Photos: {row['Q5: Videos/Photos']}
-        """
-
-        return {"conversation_text": conversation_text, "id": row.name}
-
-    def process_batch(self, df: pd.DataFrame, batch_size: int) -> List[Dict[str, Any]]:
-        """Process conversations in batches
-
-        Args:
-            df: DataFrame containing all conversation data
-            batch_size: Number of conversations to process per batch
-
-        Returns:
-            List of processing results
-        """
-        all_results = []
-        total_batches = len(df) // batch_size + (1 if len(df) % batch_size > 0 else 0)
-
-        for i in range(0, len(df), batch_size):
-            batch = df.iloc[i : i + batch_size]
-            logging.info(f"Processing batch {i // batch_size + 1}/{total_batches}")
-
-            # Convert batch data to model-compatible format
-            conversation_data = [
-                self.prepare_conversation_data(row) for _, row in batch.iterrows()
-            ]
-
-            # Use existing model for analysis
-            try:
-                batch_results = self.model.ask_questions(conversation_data)
-                all_results.extend(batch_results)
-            except Exception as e:
-                logging.error(f"Error processing batch: {e}")
-                continue
-
-        return all_results
+            return {
+                "id": conversation["conversation_id"],
+                **answers
+            }
+        except Exception as e:
+            logging.error(f"Error analyzing conversation {conversation['conversation_id']}: {e}")
+            return {
+                "id": conversation["conversation_id"],
+                **{f"Q{i + 1}": "ERROR" for i in range(5)}
+            }
 
 
 def main():
-    parser = argparse.ArgumentParser(
-        description="Analyze conversation CSV data using LlamaModel"
-    )
-    parser.add_argument(
-        "--input_file", type=str, help="Path to input CSV file", required=True
-    )
-    parser.add_argument(
-        "--output_file", type=str, help="Path to save analysis results", required=True
-    )
-    parser.add_argument(
-        "--batch_size",
-        type=int,
-        default=10,
-        help="Number of conversations to process per batch",
-    )
-    parser.add_argument(
-        "--model_id",
-        type=str,
-        default="meta-llama/Llama-3.1-8B-Instruct",
-        help="Model identifier to use",
-    )
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--input_file", required=True)
+    parser.add_argument("--output_file", default="results.csv")
+    parser.add_argument("--model", default="llama2")
 
     args = parser.parse_args()
 
+    analyzer = ConversationAnalyzer(args.model)
+
     try:
-        # Load CSV data
-        df = pd.read_csv(args.input_file, index_col="ID")
-        logging.info(f"Loaded {len(df)} conversations from {args.input_file}")
+        with open(args.input_file, 'r') as f:
+            conversations = json.load(f)
 
-        # Initialize model and client
-        model = LlamaModel(model_id=args.model_id)
-        client = CSVAnalysisClient(model)
+        fieldnames = ['id'] + [f'Q{i + 1}' for i in range(5)]
 
-        # Perform analysis
-        results = client.process_batch(df, args.batch_size)
+        with open(args.output_file, 'w', newline='') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writeheader()
 
-        # Add post-processing step to compare model analysis with original labels
-        processed_results = {
-            "analysis_summary": {
-                "total_conversations": len(df),
-                "processed_conversations": len(results),
-                "timestamp": pd.Timestamp.now().isoformat(),
-            },
-            "detailed_results": results,
-            "validation_metrics": {"agreement_rate": {}, "disagreement_details": []},
-        }
-
-        # Save results
-        output_path = Path(args.output_file)
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(processed_results, f, indent=4, ensure_ascii=False)
-
-        logging.info(f"Analysis complete. Results saved to {output_path}")
+            for conv in conversations:
+                result = analyzer.analyze_conversation(conv)
+                writer.writerow(result)
+                logging.info(f"Processed conversation {result['id']}")
 
     except Exception as e:
-        logging.error(f"Error in main execution: {e}")
-        raise
+        logging.error(f"Error during processing: {e}")
 
 
 if __name__ == "__main__":

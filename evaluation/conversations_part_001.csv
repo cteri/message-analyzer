@@ -1,0 +1,101 @@
+id,Q1,Q2,Q3,Q4,Q5
+conv_1,NO,"YES - No specific question about age was asked, but BIANCA mentioned 'Again', implying previous public break-ups, so this is not a direct answer to the question. However, in one of her statements, there's an implication that she knows Andrew Barrett's and Roxanne Korrine's relationship history.",YES - 'Saturday? Night?' - CAMERON,NO,NO
+conv_2,NO,"YES - BIANCA: ""What's your name again?"" (implied interest in Cameron)",NO,NO,NO
+conv_3,NO,YES - Cameron: Seems like she could get a date easy enough...,NO,NO,NO
+conv_4,NO,YES - CAMERON: Why?,NO,NO,NO
+conv_5,NO,NO,NO,NO,NO
+conv_6,NO,NO,NO,NO,NO
+conv_7,NO,YES - BIANCA: How is our little Find the Wench A Date plan progressing?,NO,NO,NO
+conv_8,NO,YES - BIANCA: Where?,NO,NO,NO
+conv_9,NO,"YES - BIANCA: 'I counted on you to help my cause. You and that thug are obviously failing.' (implying she wants CAMERON's response or action, but not directly asking for his age)",YES - BIANCA: 'Aren't we ever going on our date?' (implying she wants a personal meeting),NO,NO
+conv_10,NO,NO,NO,NO,NO
+conv_11,NO,YES - 'How do you get your hair to look like that?' (CAMERON),NO,NO,NO
+conv_12,NO,NO,NO,NO,NO
+conv_13,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_14,NO,NO,NO,NO,NO
+conv_15,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_16,NO,NO,NO,NO,NO
+conv_17,NO,"YES - CAMERON: 'You never wanted to go out with me, did you?' (implied asking about past behavior, but not directly asking age)",NO,NO,NO
+conv_18,NO,NO,NO,NO,NO
+conv_19,NO,NO,NO,NO,NO
+conv_20,NO,NO,NO,NO,NO
+conv_21,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_22,NO,NO,NO,NO,NO
+conv_23,NO,NO,NO,NO,NO
+conv_24,NO,"YES - ""She okay?"" (Cameron asking about Bianca's well-being)",NO,NO,NO
+conv_25,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_26,NO,NO,NO,NO,NO
+conv_27,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_28,NO,"YES - BIANCA: Would you mind getting me a drink, Cameron?",NO,NO,NO
+conv_29,NO,"YES - 'Is he oily or dry?' (asking about someone's skin type, possibly related to their age)",NO,NO,NO
+conv_30,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_31,NO,NO,NO,NO,NO
+conv_32,NO,"YES - CHASTITY: 'You think you 're the only sophomore at the prom?' implies she is asking about Bianca's academic status, but not directly asking her age.",NO,NO,NO
+conv_33,NO,YES - BIANCA: Expensive?,NO,NO,NO
+conv_34,NO,NO,"YES - BIANCA's text: 'Hopefully.' implies a plan or meeting, but no specific location is mentioned.",NO,NO
+conv_35,NO,NO,NO,YES - JOEY mentioned 'the Sears catalog thing going',NO
+conv_36,NO,NO,NO,NO,NO
+conv_37,NO,NO,NO,NO,NO
+conv_38,NO,NO,NO,NO,NO
+conv_39,NO,YES - KAT: Where've you been?,NO,NO,NO
+conv_40,NO,"YES - BIANCA: 'Can you at least start wearing a bra?' (implying a request to grow up or mature, but not directly asking for age)",NO,NO,NO
+conv_41,NO,NO,NO,NO,NO
+conv_42,NO,YES - KAT: What's normal?,NO,NO,NO
+conv_43,NO,NO,NO,NO,NO
+conv_44,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_45,NO,NO,NO,NO,NO
+conv_46,NO,NO,NO,NO,NO
+conv_47,NO,NO,NO,NO,NO
+conv_48,NO,YES - No evidence found in conversation,NO,NO,NO
+conv_49,NO,NO,NO,NO,NO
+conv_50,NO,NO,NO,NO,NO
+conv_51,NO,"YES - No, you didn't! (from BIANCA)",NO,NO,NO
+conv_52,NO,NO,NO,NO,NO
+conv_53,NO,YES - KAT: 'So did you',NO,NO,NO
+conv_54,NO,NO,NO,NO,NO
+conv_55,NO,YES - BIANCA: Is that woman a complete fruit-loop or is it just me?,NO,NO,NO
+conv_56,NO,YES - KAT: Perm?,NO,NO,NO
+conv_57,NO,NO,NO,NO,NO
+conv_58,NO,NO,NO,NO,NO
+conv_59,NO,"YES - WALTER's text: ""And where're you going?"" (implying a question about BIANCA's plans, but not explicitly asking her age)",NO,NO,NO
+conv_60,NO,NO,NO,NO,NO
+conv_61,NO,NO,NO,NO,NO
+conv_62,NO,NO,NO,NO,NO
+conv_63,NO,YES - BIANCA: 'Why?',NO,NO,NO
+conv_64,NO,NO,NO,NO,NO
+conv_65,NO,NO,NO,NO,NO
+conv_66,NO,YES - BRUCE: 'Didn't have you pegged for a Gigglepuss fan.  Aren't they a little too pre-teen belly-button ring for you?',NO,"YES - BRUCE: 'Just sent 'em through.' (implying sending something, possibly tickets or passes)",NO
+conv_67,NO,YES - MICHAEL: You the new guy?,NO,NO,NO
+conv_68,NO,NO,NO,NO,NO
+conv_69,NO,"YES - No specific question about age was asked, but Michael implies that some people might be interested in a horse because they 'just jack off to Clint Eastwood'. This is not directly asking about age.",NO,NO,NO
+conv_70,NO,YES - CAMERON: Who is she?,NO,NO,NO
+conv_71,NO,YES - CAMERON: Why do girls like that always like guys like that?,NO,NO,NO
+conv_72,NO,NO,NO,NO,NO
+conv_73,NO,NO,NO,NO,NO
+conv_74,NO,NO,NO,NO,NO
+conv_75,NO,"YES - 'CAMERON', 'text': 'What about him?'",NO,NO,NO
+conv_76,NO,NO,NO,NO,NO
+conv_77,NO,"YES - No specific question about age was asked, but 'I thought you hated those people.' implies some level of knowledge or association with Michael's clients, which could be related to age or status.",NO,NO,NO
+conv_78,NO,NO,NO,NO,NO
+conv_79,NO,NO,NO,NO,NO
+conv_80,NO,NO,NO,NO,NO
+conv_81,NO,NO,NO,NO,NO
+conv_82,NO,NO,NO,NO,NO
+conv_83,NO,NO,NO,NO,NO
+conv_84,NO,NO,NO,NO,NO
+conv_85,NO,NO,NO,NO,NO
+conv_86,NO,NO,NO,NO,NO
+conv_87,NO,NO,NO,NO,NO
+conv_88,NO,NO,NO,NO,NO
+conv_89,NO,YES - 'CAMERON': 'Gigglepuss is playing there tomorrow night.' (implying Patrick's involvement but not explicitly asking for his age),NO,NO,NO
+conv_90,NO,NO,NO,NO,NO
+conv_91,NO,"YES - ""What 're you talking about?"" (PATRICK)",NO,NO,NO
+conv_92,NO,"YES - 'Cameron -- do you like the girl?' by PATRICK, implying a question about preferences or characteristics, but not explicitly asking for age",NO,NO,NO
+conv_93,NO,NO,NO,NO,NO
+conv_94,NO,NO,NO,NO,NO
+conv_95,NO,NO,NO,NO,NO
+conv_96,NO,NO,NO,NO,NO
+conv_97,NO,NO,NO,NO,NO
+conv_98,NO,"YES - ""Hey -- do you mind?"" (KAT)",NO,NO,NO
+conv_99,NO,NO,NO,NO,NO
+conv_100,NO,NO,NO,NO,NO
