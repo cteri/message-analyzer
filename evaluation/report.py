@@ -4,10 +4,10 @@ python3 evaluation/report.py --labeled-data "src/data_processing/cornell_movie_d
 
 import pandas as pd
 import glob
-from typing import Dict, Tuple
+from typing import Dict, List, Tuple
 import os
 import argparse
-
+from collections import defaultdict
 
 def load_labeled_data(filepath: str) -> pd.DataFrame:
     """Load and prepare the labeled data file"""
@@ -26,7 +26,6 @@ def load_labeled_data(filepath: str) -> pd.DataFrame:
     labeled_df = labeled_df.rename(columns=column_mapping)
     return labeled_df
 
-
 def load_conversation_file(filepath: str) -> pd.DataFrame:
     """Load and prepare a conversation data file"""
     if not os.path.exists(filepath):
@@ -34,61 +33,148 @@ def load_conversation_file(filepath: str) -> pd.DataFrame:
     return pd.read_csv(filepath)
 
 
-def compare_answers(labeled_val: str, conv_val: str) -> bool:
-    """Compare a single pair of answers"""
-    labeled_val = str(labeled_val).strip().lower()
-    conv_val = str(conv_val).strip().lower()
-
-    # Handle special cases
-    if labeled_val == "no" and conv_val == "no":
-        return True
-    elif labeled_val.startswith("yes") and conv_val.startswith("yes"):
-        return True
-    else:
-        return labeled_val == conv_val
+import pandas as pd
+import glob
+from typing import Dict, List, Tuple
+import os
+import argparse
+from collections import defaultdict
 
 
-def check_all_answers(row: pd.Series) -> bool:
-    """Check if all Q1-Q5 answers are correct"""
-    return all(compare_answers(row[f'Q{i}_labeled'], row[f'Q{i}_conv'])
-               for i in range(1, 6))
+# [前面的 load_labeled_data 和 load_conversation_file 函數保持不變]
 
+def calculate_metrics_all_cases(true_pos: int, false_pos: int, false_neg: int, true_neg: int,
+                                total: int = 1000) -> Dict:
+    """Calculate metrics using all 1000 cases as denominator"""
+    accuracy = (true_pos + true_neg) / total
+    precision = true_pos / (true_pos + false_pos) if (true_pos + false_pos) > 0 else 0
+    recall = true_pos / (true_pos + false_neg) if (true_pos + false_neg) > 0 else 0
+    f1 = 2 * (precision * recall) / (precision + recall) if (precision + recall) > 0 else 0
 
-def analyze_file(conv_filepath: str, labeled_df: pd.DataFrame) -> Tuple[Dict[str, float], pd.DataFrame]:
-    """Analyze a single conversation file and return statistics"""
-    conv_df = load_conversation_file(conv_filepath)
-
-    # Merge dataframes on id
-    merged_df = pd.merge(
-        labeled_df,
-        conv_df,
-        on='id',
-        how='inner',
-        suffixes=('_labeled', '_conv')
-    )
-
-    total_rows = len(merged_df)
-    if total_rows == 0:
-        print(f"Warning: No matching rows found for {conv_filepath}")
-        return {}, pd.DataFrame()
-
-    # Add a column indicating if all answers are correct
-    merged_df['all_correct'] = merged_df.apply(check_all_answers, axis=1)
-
-    # Calculate statistics
-    total_correct = merged_df['all_correct'].sum()
-
-    stats = {
-        'total_accuracy': (total_correct / total_rows * 100) if total_rows > 0 else 0,
-        'total_correct': total_correct,
-        'total_rows': total_rows
+    return {
+        'accuracy': accuracy * 100,
+        'precision': precision * 100,
+        'recall': recall * 100,
+        'f1': f1 * 100,
+        'true_positive': true_pos,
+        'false_positive': false_pos,
+        'true_negative': true_neg,
+        'false_negative': false_neg,
+        'total_cases': total
     }
 
-    return stats, merged_df
+
+def calculate_metrics_yes_only(true_pos: int, false_neg: int, total_yes: int) -> Dict:
+    """Calculate metrics using only yes cases as denominator"""
+    accuracy = true_pos / total_yes if total_yes > 0 else 0
+    return {
+        'accuracy': accuracy * 100,
+        'true_positive': true_pos,
+        'false_negative': false_neg,
+        'total_yes_cases': total_yes
+    }
+
+
+def analyze_questions(merged_df: pd.DataFrame) -> Tuple[Dict, Dict, Dict]:
+    """Analyze each question separately and return metrics along with raw numbers"""
+    all_metrics = {}
+    yes_only_metrics = {}
+    raw_counts = {}
+
+    for q_num in range(1, 6):
+        q_label = f'Q{q_num}'
+        labeled_col = f'{q_label}_labeled'
+        conv_col = f'{q_label}_conv'
+
+        # Get raw counts first
+        yes_cases = merged_df[merged_df[labeled_col].str.lower().str.startswith('yes')]
+        no_cases = merged_df[merged_df[labeled_col].str.lower() == 'no']
+
+        true_pos = len(merged_df[(merged_df[labeled_col].str.lower().str.startswith('yes')) &
+                                 (merged_df[conv_col].str.lower().str.startswith('yes'))])
+        true_neg = len(merged_df[(merged_df[labeled_col].str.lower() == 'no') &
+                                 (merged_df[conv_col].str.lower() == 'no')])
+        false_pos = len(merged_df[(merged_df[labeled_col].str.lower() == 'no') &
+                                  (merged_df[conv_col].str.lower().str.startswith('yes'))])
+        false_neg = len(merged_df[(merged_df[labeled_col].str.lower().str.startswith('yes')) &
+                                  (merged_df[conv_col].str.lower() == 'no')])
+
+        total_yes = len(yes_cases)
+
+        # Store raw counts
+        raw_counts[q_label] = {
+            'total_cases': len(merged_df),
+            'total_yes_cases': total_yes,
+            'total_no_cases': len(no_cases),
+            'true_positive': true_pos,
+            'true_negative': true_neg,
+            'false_positive': false_pos,
+            'false_negative': false_neg
+        }
+
+        # Calculate metrics with all cases
+        all_metrics[q_label] = calculate_metrics_all_cases(
+            true_pos, false_pos, false_neg, true_neg, len(merged_df)
+        )
+
+        # Calculate metrics with only yes cases
+        yes_only_metrics[q_label] = calculate_metrics_yes_only(
+            true_pos, false_neg, total_yes
+        )
+
+    return all_metrics, yes_only_metrics, raw_counts
+
+
+def create_results_tables(all_metrics: Dict, yes_only_metrics: Dict, raw_counts: Dict) -> Tuple[
+    pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+    """Create three separate tables for results"""
+    # Raw counts table
+    raw_data = []
+    for q_num in range(1, 6):
+        q_label = f'Q{q_num}'
+        counts = raw_counts[q_label]
+        raw_data.append({
+            'Question': q_label,
+            'Total_Cases': counts['total_cases'],
+            'Total_Yes_Cases': counts['total_yes_cases'],
+            'Total_No_Cases': counts['total_no_cases'],
+            'True_Positive': counts['true_positive'],
+            'True_Negative': counts['true_negative'],
+            'False_Positive': counts['false_positive'],
+            'False_Negative': counts['false_negative']
+        })
+
+    # All cases metrics table
+    all_cases_results = []
+    for q_num in range(1, 6):
+        q_label = f'Q{q_num}'
+        metrics = all_metrics[q_label]
+        all_cases_results.append({
+            'Question': q_label,
+            'Accuracy_All': f"{metrics['accuracy']:.2f}%",
+            'Precision_All': f"{metrics['precision']:.2f}%",
+            'Recall_All': f"{metrics['recall']:.2f}%",
+            'F1_All': f"{metrics['f1']:.2f}%"
+        })
+
+    # Yes only metrics table
+    yes_only_results = []
+    for q_num in range(1, 6):
+        q_label = f'Q{q_num}'
+        metrics = yes_only_metrics[q_label]
+        yes_only_results.append({
+            'Question': q_label,
+            'Total_Yes_Cases': metrics['total_yes_cases'],
+            'Correct_Yes_Cases': metrics['true_positive'],
+            'Accuracy_Yes_Only': f"{metrics['accuracy']:.2f}%"
+        })
+
+    return (pd.DataFrame(raw_data),
+            pd.DataFrame(all_cases_results),
+            pd.DataFrame(yes_only_results))
 
 
 def main():
-    # Set up argument parser
     parser = argparse.ArgumentParser(description='Analyze conversation data against labeled data.')
     parser.add_argument('--labeled-data', type=str, required=True,
                         help='Path to the labeled data CSV file')
@@ -101,13 +187,11 @@ def main():
 
     try:
         labeled_df = load_labeled_data(args.labeled_data)
-        all_results = []
         all_merged_data = []
 
         print("\nProcessing Files:")
         print("=" * 80)
 
-        # Use the provided pattern to find conversation files
         conversation_files = glob.glob(args.conv_pattern)
         if not conversation_files:
             print(f"Warning: No files found matching pattern: {args.conv_pattern}")
@@ -116,33 +200,44 @@ def main():
         for file in conversation_files:
             print(f"\nProcessing file: {file}")
             try:
-                stats, merged_df = analyze_file(file, labeled_df)
-                if stats:
-                    all_results.append(stats)
-                    all_merged_data.append(merged_df)
-
-                    print(f"\nResults for {file}")
-                    print("-" * 50)
-                    print(f"Accuracy: {stats['total_accuracy']:.2f}% "
-                          f"({stats['total_correct']}/{stats['total_rows']} correct)")
+                conv_df = load_conversation_file(file)
+                merged_df = pd.merge(labeled_df, conv_df, on='id', how='inner',
+                                     suffixes=('_labeled', '_conv'))
+                all_merged_data.append(merged_df)
             except Exception as e:
                 print(f"Error processing file {file}: {str(e)}")
                 continue
 
-        if all_results:
-            # Combine all evaluation
-            total_correct = sum(r['total_correct'] for r in all_results)
-            total_rows = sum(r['total_rows'] for r in all_results)
-
-            print("\nOverall Results:")
-            print("=" * 80)
-            print(f"Final Accuracy: {(total_correct / total_rows * 100):.2f}% "
-                  f"({total_correct}/{total_rows} correct)")
-
-            # Save detailed evaluation
+        if all_merged_data:
             combined_df = pd.concat(all_merged_data)
-            combined_df.to_csv(args.output, index=False)
-            print(f"\nDetailed evaluation have been saved to '{args.output}'")
+            all_metrics, yes_only_metrics, raw_counts = analyze_questions(combined_df)
+
+            # Create results tables
+            raw_df, all_cases_df, yes_only_df = create_results_tables(
+                all_metrics, yes_only_metrics, raw_counts
+            )
+
+            # Display results
+            print("\nRaw Counts:")
+            print("=" * 100)
+            print(raw_df.to_string(index=False))
+
+            print("\nAll Cases Metrics:")
+            print("=" * 100)
+            print(all_cases_df.to_string(index=False))
+
+            print("\nYes Only Metrics:")
+            print("=" * 100)
+            print(yes_only_df.to_string(index=False))
+
+            # Save results
+            raw_df.to_csv(args.output.replace('.csv', '_raw_counts.csv'), index=False)
+            all_cases_df.to_csv(args.output.replace('.csv', '_all_cases.csv'), index=False)
+            yes_only_df.to_csv(args.output.replace('.csv', '_yes_only.csv'), index=False)
+            combined_df.to_csv(args.output.replace('.csv', '_merged.csv'), index=False)
+
+            print(f"\nResults have been saved to separate CSV files")
+
         else:
             print("\nNo results were generated. Please check your input files and patterns.")
 
