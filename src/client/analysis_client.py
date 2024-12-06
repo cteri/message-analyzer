@@ -86,7 +86,6 @@ def main():
         # Process each conversation
         all_results = []
         for conv in conversations:
-            print(conv)
             result = analyzer.analyze_conversation(conv)
             all_results.append(result)
 

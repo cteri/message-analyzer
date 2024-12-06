@@ -31,3 +31,5 @@ python3 -m src.client.cmd_client --model_name llama3.2:1b --input_directory ./te
 python script.py --input_file conversations.json --output_file results.csv --model llama2
 
 python3 -m src.client.analysis_client --input_file ./src/data_processing/cornell_movie_dialogs/split_conversations/conversations_part_001.json --models=llama3.2:1b
+
+python3 -m src.client.csv_analysis_client --input_file ./src/data_processing/cornell_movie_dialogs/split_conversations/conversations_part_000.json --output_file conversations_part_000.csv --model=llama3.2:1b
