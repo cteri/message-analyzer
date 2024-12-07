@@ -22,7 +22,6 @@ questions = """
 
 
 class LlamaModel:
-    # def __init__(self, model_name="llama3.2:1b"):
     def __init__(self, model_name="llama3.1"):
         self.model_name = model_name
         self.client = ollama
@@ -290,131 +289,6 @@ class LlamaModel:
                     ]
                 }
             }
-    # def clean_and_format_response(self, all_results, file_path: str) -> Dict:
-    #     """
-    #     Format analysis results into a standardized JSON structure with empty defaults.
-    #     """
-    #     try:
-    #         # Initialize the base structure with empty values
-    #         formatted_output = {
-    #             "file_path": file_path,
-    #             "conversation_ids": [],
-    #             "analysis": {"questions": []},
-    #         }
-
-    #         # Define the standard questions structure
-    #         standard_questions = [
-    #             "Has any person given their age? (and what age was given)",
-    #             "Has any person asked the other for their age?",
-    #             "Has any person asked to meet up in person? Where?",
-    #             "Has any person given a gift to the other? Or bought something from a list like an amazon wish list?",
-    #             "Have any videos or photos been produced? Requested?",
-    #         ]
-
-    #         # Initialize questions with empty format
-    #         for idx, question in enumerate(standard_questions, 1):
-    #             question_entry = {
-    #                 "question_number": str(idx),
-    #                 "question": question,
-    #                 "answer": "",
-    #                 "evidence": "",
-    #                 "instances": [],
-    #             }
-    #             formatted_output["analysis"]["questions"].append(question_entry)
-
-    #         # Process each result from the model
-    #         for result in all_results:
-    #             try:
-    #                 # Parse the JSON response
-    #                 result_data = None
-    #                 if isinstance(result, str):
-    #                     # Extract JSON string between backticks if present
-    #                     if "```json" in result:
-    #                         json_str = (
-    #                             result.split("```json")[1].split("```")[0].strip()
-    #                         )
-    #                         result_data = json.loads(json_str)
-    #                     else:
-    #                         result_data = json.loads(result)
-    #                 else:
-    #                     result_data = result
-
-    #                 # Update formatted output with any evidence or instances
-    #                 if (
-    #                     result_data
-    #                     and "analysis" in result_data
-    #                     and "questions" in result_data["analysis"]
-    #                 ):
-    #                     for new_q in result_data["analysis"]["questions"]:
-    #                         q_num = new_q.get("question_number")
-    #                         if not q_num:
-    #                             continue
-
-    #                         idx = int(q_num) - 1
-    #                         if idx >= len(formatted_output["analysis"]["questions"]):
-    #                             continue
-
-    #                         current_q = formatted_output["analysis"]["questions"][idx]
-
-    #                         # Update answer and evidence if present
-    #                         if new_q.get("answer"):
-    #                             current_q["answer"] = new_q["answer"]
-    #                         if new_q.get("evidence"):
-    #                             current_q["evidence"] = new_q["evidence"]
-
-    #                         # Add new instances if they exist and are not duplicates
-    #                         new_instances = new_q.get("instances", [])
-    #                         if new_instances:
-    #                             existing_instances = {
-    #                                 (inst.get("speaker", ""), inst.get("message", ""))
-    #                                 for inst in current_q["instances"]
-    #                             }
-
-    #                             for inst in new_instances:
-    #                                 instance_key = (
-    #                                     inst.get("speaker", ""),
-    #                                     inst.get("message", ""),
-    #                                 )
-    #                                 if instance_key not in existing_instances:
-    #                                     current_q["instances"].append(inst)
-    #                                     existing_instances.add(instance_key)
-
-    #             except json.JSONDecodeError as je:
-    #                 logging.warning(f"Failed to parse result JSON: {je}")
-    #                 continue
-    #             except Exception as e:
-    #                 logging.warning(f"Error processing result: {e}")
-    #                 continue
-
-    #         # Post-processing: Set default values for empty fields
-    #         for question in formatted_output["analysis"]["questions"]:
-    #             if not question["answer"]:
-    #                 question["answer"] = "NO"
-    #             if not question["evidence"]:
-    #                 question["evidence"] = "No evidence found in conversation"
-
-    #         return formatted_output
-
-    #     except Exception as e:
-    #         logging.error(f"Error formatting response: {e}")
-    #         # Return empty structure with error information
-    #         return {
-    #             "file_path": file_path,
-    #             "conversation_ids": [],
-    #             "error": str(e),
-    #             "analysis": {
-    #                 "questions": [
-    #                     {
-    #                         "question_number": str(i + 1),
-    #                         "question": q,
-    #                         "answer": "",
-    #                         "evidence": "",
-    #                         "instances": [],
-    #                     }
-    #                     for i, q in enumerate(standard_questions)
-    #                 ]
-    #             },
-    #         }
 
     def analysis(self, file_paths: List[str]) -> List[Dict]:
         """
