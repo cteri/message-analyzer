@@ -7,7 +7,7 @@
 ## Installation
 ### 1. Installing requirements
 ```
-python3 -m pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### 2. Flask-ML
