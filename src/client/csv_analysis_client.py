@@ -1,13 +1,14 @@
 import argparse
+import csv
 import json
 import logging
-import csv
 import warnings
 from pathlib import Path
-from typing import List, Dict, Any
-from src.ml.model import LlamaModel
+from typing import Any, Dict, List
 
 import pandas as pd
+
+from src.ml.model import LlamaModel
 
 logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
@@ -26,20 +27,19 @@ class ConversationAnalyzer:
             answers = {}
             for q in formatted_result["analysis"]["questions"]:
                 question_num = f"Q{q['question_number']}"
-                if q["answer"] == 'YES':
+                if q["answer"] == "YES":
                     answers[question_num] = f"{q['answer']} - {q['evidence']}"
                 else:
                     answers[question_num] = q["answer"]
 
-            return {
-                "id": conversation["conversation_id"],
-                **answers
-            }
+            return {"id": conversation["conversation_id"], **answers}
         except Exception as e:
-            logging.error(f"Error analyzing conversation {conversation['conversation_id']}: {e}")
+            logging.error(
+                f"Error analyzing conversation {conversation['conversation_id']}: {e}"
+            )
             return {
                 "id": conversation["conversation_id"],
-                **{f"Q{i + 1}": "ERROR" for i in range(5)}
+                **{f"Q{i + 1}": "ERROR" for i in range(5)},
             }
 
 
@@ -54,12 +54,12 @@ def main():
     analyzer = ConversationAnalyzer(args.model)
 
     try:
-        with open(args.input_file, 'r') as f:
+        with open(args.input_file, "r") as f:
             conversations = json.load(f)
 
-        fieldnames = ['id'] + [f'Q{i + 1}' for i in range(5)]
+        fieldnames = ["id"] + [f"Q{i + 1}" for i in range(5)]
 
-        with open(args.output_file, 'w', newline='') as csvfile:
+        with open(args.output_file, "w", newline="") as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
 

@@ -1,50 +1,83 @@
-import ollama
 import json
+
+import ollama
 import pandas as pd
 from tqdm import tqdm
-from .prompts import AGE_PROMPT, AGE_REQUEST_PROMPT, MEETUP_PROMPT, GIFT_PROMPT, MEDIA_PROMPT
-import argparse
 
-ALL_PROMPTS = {
-    "Q1": AGE_PROMPT,
-    "Q2": AGE_REQUEST_PROMPT,
-    "Q3": MEETUP_PROMPT,
-    "Q4": GIFT_PROMPT,
-    "Q5": MEDIA_PROMPT
+from .prompts import AGE_PROMPT as YES_NO_AGE_PROMPT
+from .prompts import AGE_REQUEST_PROMPT as YES_NO_AGE_REQUEST_PROMPT
+from .prompts import GIFT_PROMPT as YES_NO_GIFT_PROMPT
+from .prompts import MEDIA_PROMPT as YES_NO_MEDIA_PROMPT
+from .prompts import MEETUP_PROMPT as YES_NO_MEETUP_PROMPT
+from .prompts1 import AGE_PROMPT as EVIDENCE_AGE_PROMPT
+from .prompts1 import AGE_REQUEST_PROMPT as EVIDENCE_AGE_REQUEST_PROMPT
+from .prompts1 import GIFT_PROMPT as EVIDENCE_GIFT_PROMPT
+from .prompts1 import MEDIA_PROMPT as EVIDENCE_MEDIA_PROMPT
+from .prompts1 import MEETUP_PROMPT as EVIDENCE_MEETUP_PROMPT
+
+YES_NO_PROMPTS = {
+    "Q1": YES_NO_AGE_PROMPT,
+    "Q2": YES_NO_AGE_REQUEST_PROMPT,
+    "Q3": YES_NO_MEETUP_PROMPT,
+    "Q4": YES_NO_GIFT_PROMPT,
+    "Q5": YES_NO_MEDIA_PROMPT,
 }
 
-VALID_RESPONSES = {"YES", "NO"}
+EVIDENCE_PROMPTS = {
+    "Q1": EVIDENCE_AGE_PROMPT,
+    "Q2": EVIDENCE_AGE_REQUEST_PROMPT,
+    "Q3": EVIDENCE_MEETUP_PROMPT,
+    "Q4": EVIDENCE_GIFT_PROMPT,
+    "Q5": EVIDENCE_MEDIA_PROMPT,
+}
+
 
 def format_conversation(conv):
-    return '\n'.join([f'{t['speaker']}: {t['text']}' for t in conv['turns']])
+    return "\n".join([f"{t['speaker']}: {t['text']}" for t in conv["turns"]])
 
-def get_all_prompts(conversation):
-    return {prompt_id: prompt.format(conversation=format_conversation(conversation)) for prompt_id, prompt in ALL_PROMPTS.items()}
 
-def prompt_ollama(model, prompt):
-    response = ollama.generate(model, prompt)['response']
-    return response if response in VALID_RESPONSES else "NO"
+def get_yes_no_answer(model, prompt):
+    response = ollama.generate(model, prompt)["response"]
+    print(f"YES/NO Raw response: {response}")
+    return "YES" if "YES" in response.upper() else "NO"
+
+
+def get_evidence(model, prompt):
+    response = ollama.generate(model, prompt)["response"]
+    print(f"Evidence Raw response: {response}")
+    if "Evidence:" in response:
+        return response.split("Evidence:", 1)[1].strip()
+    return "Evidence not found"
+
 
 def get_all_answers(conversation, model):
-    return {prompt_id: prompt_ollama(model, prompt) for prompt_id, prompt in get_all_prompts(conversation).items()}
+    formatted_conv = format_conversation(conversation)
+    results = {}
+    evidence_matches = {}
 
-def get_all_answers_for_conversations(conversations, model):
-    return [{'id':conv['conversation_id'], **get_all_answers(conv, model)} for conv in tqdm(conversations)]
+    for qid in YES_NO_PROMPTS.keys():
+        # First get YES/NO
+        yes_no_prompt = YES_NO_PROMPTS[qid].format(conversation=formatted_conv)
+        answer = get_yes_no_answer(model, yes_no_prompt)
 
+        # If YES, get evidence
+        evidence = "No evidence found in conversation"
+        if answer == "YES":
+            evidence_prompt = EVIDENCE_PROMPTS[qid].format(conversation=formatted_conv)
+            evidence = get_evidence(model, evidence_prompt)
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--input_file', type=str, required=True)
-parser.add_argument('--model', type=str, default='llama3.1')
-parser.add_argument('--output_file', type=str, required=True)
-args = parser.parse_args()
+            # Track individual evidence pieces
+            if "and" in evidence:
+                pieces = [p.strip() for p in evidence.split("and")]
+            else:
+                pieces = [evidence]
 
-input_file = args.input_file
-model = args.model
-output_file = args.output_file
+            evidence_matches[qid] = pieces  # Store for later matching
 
-with open(input_file) as f:
-    data = json.load(f)
+        results[qid] = {
+            "answer": answer,
+            "evidence": evidence,
+            "evidence_pieces": evidence_matches.get(qid, []),
+        }
 
-answers = get_all_answers_for_conversations(data, model)
-df = pd.DataFrame(answers)
-df.to_csv(output_file, index=False)
+    return results, evidence_matches
