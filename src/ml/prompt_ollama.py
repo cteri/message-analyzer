@@ -38,13 +38,13 @@ def format_conversation(conv):
 
 def get_yes_no_answer(model, prompt):
     response = ollama.generate(model, prompt)["response"]
-    print(f"YES/NO Raw response: {response}")
+    # print(f"YES/NO Raw response: {response}")
     return "YES" if "YES" in response.upper() else "NO"
 
 
 def get_evidence(model, prompt):
     response = ollama.generate(model, prompt)["response"]
-    print(f"Evidence Raw response: {response}")
+    # print(f"Evidence Raw response: {response}")
     if "Evidence:" in response:
         return response.split("Evidence:", 1)[1].strip()
     return "Evidence not found"
@@ -81,3 +81,25 @@ def get_all_answers(conversation, model):
         }
 
     return results, evidence_matches
+
+
+def get_all_prompts(conversation):
+    formatted_conv = format_conversation(conversation)
+    prompts = {}
+
+    for qid, prompt_template in YES_NO_PROMPTS.items():
+        prompts[qid] = prompt_template.format(conversation=formatted_conv)
+
+    return prompts
+
+
+def get_all_answers_for_conversations(conversations, model):
+    results = []
+    for conv in conversations:
+        prompts = get_all_prompts(conv)
+        answers = {
+            prompt_id: get_yes_no_answer(model, prompt)
+            for prompt_id, prompt in prompts.items()
+        }
+        results.append({"id": conv["conversation_id"], **answers})
+    return results
