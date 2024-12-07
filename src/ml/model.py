@@ -303,13 +303,10 @@ class LlamaModel:
                     continue
 
                 analysis_results = self.ask_questions(data)
-                # formatted_result = self.clean_and_format_response(
-                #     analysis_results, file_path
                 formatted_result = self.clean_and_format_response(
                 analysis_results, os.path.basename(file_path)
                 )
 
-                # results.append({"file_path": file_path, "result": formatted_result})
                 results.append({
                 "file_path": os.path.basename(file_path),  # Use basename here
                 "result": formatted_result
