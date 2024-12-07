@@ -24,7 +24,7 @@ python3 src/client/client.py
 
 #### 3.2 CLI
 ```
-python3 -m src.client.cmd_client --input_file ./src/data_processing/cornell_movie_dialogs/split_conversations/conversations_part_000.json --output_file ./folder/output/analysis_results.csv --model=llama3.1 
+python3 -m src.client.cmd_client --input_file ./src/data_processing/cornell_movie_dialogs/split_conversations/conversations_part_000.json --output_file ./analysis_results.csv --model=llama3.1 
 ```
 
 
