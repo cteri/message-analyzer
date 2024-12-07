@@ -2,6 +2,8 @@
 * A tool for analyzing conversations using large language models.
 
 ## Prerequisites
+* Project requires Python version 3.11 or higher. 
+
 ### Ollama Setup
 * Download and install Ollama from GitHub
   * https://github.com/ollama/ollama
