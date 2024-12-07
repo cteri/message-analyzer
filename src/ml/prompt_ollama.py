@@ -81,3 +81,7 @@ def get_all_answers(conversation, model):
         }
 
     return results, evidence_matches
+
+
+def get_all_answers_for_conversations(conversations, model):
+    return [{'id': conv['conversation_id'], **get_all_answers(conv, model)} for conv in tqdm(conversations)]
