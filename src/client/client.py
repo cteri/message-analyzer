@@ -19,19 +19,10 @@ from flask_ml.flask_ml_client import MLClient
 url = "http://127.0.0.1:5000/analyzer"  # The URL of the server
 client = MLClient(url)  # Create an instance of the MLClient object
 
-inputs = {
-    "inputs": {
-        "path": "./test"  # Specify the input folder path
-    }
-}
+inputs = {"inputs": {"path": "./test"}}  # Specify the input folder path
 
-parameters = {
-    "max_files": 5  # Specify the maximum number of files to process
-}
+parameters = {"max_files": 5}  # Specify the maximum number of files to process
 
 response = client.request(inputs=inputs, parameters=parameters)
 
 print(response)  # Print the response
-
-
-

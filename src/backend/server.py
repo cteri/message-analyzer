@@ -1,11 +1,10 @@
 import json
-import os
-import pandas as pd
-import tempfile
 import logging
+import os
+import tempfile
 from typing import List, Optional, TypedDict
-from ..ml.prompt_ollama import get_all_answers
 
+import pandas as pd
 from flask_ml.flask_ml_server import MLServer, load_file_as_string
 from flask_ml.flask_ml_server.models import (BatchFileInput, BatchFileResponse,
                                              FileResponse, FileType,
@@ -16,6 +15,7 @@ from flask_ml.flask_ml_server.models import (BatchFileInput, BatchFileResponse,
 from pydantic import BaseModel
 
 from ..ml.model import LlamaModel
+from ..ml.prompt_ollama import get_all_answers
 
 
 # Pydantic models for response structure
@@ -51,10 +51,14 @@ class AnalyzerInputs(TypedDict):
 class AnalyzerParameters(TypedDict):
     data_type: str
 
+
 model = LlamaModel()
 server = MLServer(__name__)
 
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "folder", "output")
+OUTPUT_DIR = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.dirname(__file__))), "folder", "output"
+)
+
 
 def get_analyzer_task_schema():
     return TaskSchema(
@@ -82,6 +86,8 @@ def get_analyzer_task_schema():
             )
         ],
     )
+
+
 @server.route(
     "/analyzer",
     order=0,
@@ -103,13 +109,13 @@ def analyzer(inputs: AnalyzerInputs, parameters: AnalyzerParameters) -> Response
         for file_input in input_files.files:
             try:
                 # Read the CSV file
-                with open(file_input.path, 'r') as f:
+                with open(file_input.path, "r") as f:
                     df = pd.read_csv(file_input.path)
-                
+
                 # Format conversation for prompt_ollama
                 conversation = {
-                    'turns': [
-                        {'speaker': row['Speaker'], 'text': row['Message']} 
+                    "turns": [
+                        {"speaker": row["Speaker"], "text": row["Message"]}
                         for _, row in df.iterrows()
                     ]
                 }
@@ -118,7 +124,9 @@ def analyzer(inputs: AnalyzerInputs, parameters: AnalyzerParameters) -> Response
                 # Add debug printing
                 print("\nDEBUG - Raw results structure:", results)
                 for qid, result_data in results.items():
-                    print(f"Processing{qid}: answer={result_data['answer']}, Evidence: {result_data['evidence']}")
+                    print(
+                        f"Processing{qid}: answer={result_data['answer']}, Evidence: {result_data['evidence']}"
+                    )
 
                 # Create markdown content
                 markdown_content = f"""## Analysis Results for {os.path.basename(file_input.path)}
@@ -131,22 +139,24 @@ def analyzer(inputs: AnalyzerInputs, parameters: AnalyzerParameters) -> Response
                     "Q2": "🟠",  # Age asked
                     "Q3": "🟢",  # Meet up
                     "Q4": "🔵",  # Gift/Purchase
-                    "Q5": "🟣"   # Media
+                    "Q5": "🟣",  # Media
                 }
                 questions_map = {
-    "Q1": "Has any person given their age? (and what age was given)",
-    "Q2": "Has any person asked the other for their age?",
-    "Q3": "Has any person asked to meet up in person? Where?",
-    "Q4": "Has any person given a gift to the other?",
-    "Q5": "Have any videos or photos been produced? Requested?"
-}
+                    "Q1": "Has any person given their age? (and what age was given)",
+                    "Q2": "Has any person asked the other for their age?",
+                    "Q3": "Has any person asked to meet up in person? Where?",
+                    "Q4": "Has any person given a gift to the other?",
+                    "Q5": "Have any videos or photos been produced? Requested?",
+                }
 
                 for qid, result_data in results.items():
                     question = questions_map[qid]
                     emoji = emoji_map.get(qid, "")
-                    answer = result_data['answer']
-                    evidence = result_data['evidence']
-                    markdown_content += f"| {emoji} {question} | {answer} | {evidence} |\n"
+                    answer = result_data["answer"]
+                    evidence = result_data["evidence"]
+                    markdown_content += (
+                        f"| {emoji} {question} | {answer} | {evidence} |\n"
+                    )
 
                 markdown_content += "\n### Full Conversation\n"
                 markdown_content += "| Time | Speaker | Message | Matches |\n"
@@ -155,11 +165,11 @@ def analyzer(inputs: AnalyzerInputs, parameters: AnalyzerParameters) -> Response
                 # Add each message with any matches
                 for _, row in df.iterrows():
                     matches = []
-                    message_text = row['Message']
+                    message_text = row["Message"]
                     for qid, result_data in results.items():
-                        if result_data['answer'] == "YES":
-                            evidence_text = result_data['evidence']
-                            
+                        if result_data["answer"] == "YES":
+                            evidence_text = result_data["evidence"]
+
                             # Create list of evidence snippets to check
                             evidence_parts = []
                             # Handle different conjunctions
@@ -168,29 +178,41 @@ def analyzer(inputs: AnalyzerInputs, parameters: AnalyzerParameters) -> Response
                                     parts = evidence_text.split(separator)
                                     evidence_parts.extend(parts)
                                     break
-                            if not evidence_parts:  # If no separators found, use whole evidence
+                            if (
+                                not evidence_parts
+                            ):  # If no separators found, use whole evidence
                                 evidence_parts = [evidence_text]
-                            
-                            evidence_parts = [part.strip() for part in evidence_parts if part.strip()]
-                            
+
+                            evidence_parts = [
+                                part.strip() for part in evidence_parts if part.strip()
+                            ]
+
                             for part in evidence_parts:
                                 # Clean up the evidence text
-                                clean_evidence = part.replace('SPEAKER1', '').replace('SPEAKER2', '')
+                                clean_evidence = part.replace("SPEAKER1", "").replace(
+                                    "SPEAKER2", ""
+                                )
                                 # Remove any speaker attribution (Name:)
-                                if ':' in clean_evidence:
-                                    clean_evidence = clean_evidence.split(':', 1)[1]
+                                if ":" in clean_evidence:
+                                    clean_evidence = clean_evidence.split(":", 1)[1]
                                 # Remove quotes and extra whitespace
-                                clean_evidence = clean_evidence.replace('"', '').strip()
-                                
+                                clean_evidence = clean_evidence.replace('"', "").strip()
+
                                 # Check for specific media terms for Q5
-                                if qid == "Q5" and any(term in message_text.lower() for term in ['photo', 'video', 'selfie', 'picture']):
+                                if qid == "Q5" and any(
+                                    term in message_text.lower()
+                                    for term in ["photo", "video", "selfie", "picture"]
+                                ):
                                     matches.append(emoji_map[qid])
                                     break
                                 # For other questions, check if evidence matches message
-                                elif clean_evidence in message_text or message_text in clean_evidence:
+                                elif (
+                                    clean_evidence in message_text
+                                    or message_text in clean_evidence
+                                ):
                                     matches.append(emoji_map[qid])
                                     break  # Found a match for this question
-                    
+
                     match_indicators = " ".join(matches) if matches else ""
                     markdown_content += f"| {row['Timestamp']} | {row['Speaker']} | {message_text} | {match_indicators} |\n"
 
@@ -207,8 +229,7 @@ Error: {str(e)}
         if not all_results:
             return ResponseBody(
                 root=MarkdownResponse(
-                    title="Analysis Failed", 
-                    value="No analysis results were generated"
+                    title="Analysis Failed", value="No analysis results were generated"
                 )
             )
 
@@ -217,8 +238,7 @@ Error: {str(e)}
 
         return ResponseBody(
             root=MarkdownResponse(
-                title="Conversation Analysis Results",
-                value=final_markdown
+                title="Conversation Analysis Results", value=final_markdown
             )
         )
 
@@ -226,10 +246,10 @@ Error: {str(e)}
         print(f"Global error in analyzer: {str(e)}")
         return ResponseBody(
             root=MarkdownResponse(
-                title="Analysis Failed",
-                value=f"Error during analysis: {str(e)}"
+                title="Analysis Failed", value=f"Error during analysis: {str(e)}"
             )
         )
+
 
 # Add metadata about the app
 current_dir = os.path.dirname(os.path.abspath(__file__))

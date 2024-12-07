@@ -1,7 +1,7 @@
 import argparse
+import csv
 import logging
 import warnings
-import csv
 from pathlib import Path
 
 from src.ml.model import LlamaModel

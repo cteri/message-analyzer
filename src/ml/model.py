@@ -1,7 +1,7 @@
 import json
 import logging
-import re
 import os
+import re
 from concurrent.futures import ThreadPoolExecutor
 from typing import Any, Dict, List
 
@@ -28,16 +28,16 @@ class LlamaModel:
         self.chunk_size = 64000
         self.chunk_overlap = 100
         self.conversation_history = []
-    
+
     def fix_delimiter_error(self, json_content: str, error_message: str) -> str:
         try:
             # Remove everything after the JSON object closes
             if "}" in json_content:
-                json_content = json_content[:json_content.rindex("}")+1]
-            
+                json_content = json_content[: json_content.rindex("}") + 1]
+
             # Fix the specific evidence formatting
             content = re.sub(r'"(.*?)" "(.*?)"', r'"\1, \2"', json_content)
-            
+
             try:
                 return json.loads(content)
             except:
@@ -47,8 +47,8 @@ class LlamaModel:
                     col_num = int(match.group(2))
                     content_list = list(content)
                     if col_num <= len(content_list):
-                        content_list.insert(col_num - 1, ',')
-                    return ''.join(content_list)
+                        content_list.insert(col_num - 1, ",")
+                    return "".join(content_list)
         except:
             pass
         return json_content
@@ -61,23 +61,25 @@ class LlamaModel:
                 stream=False,
                 options={"temperature": 0.6, "top_p": 0.9, "num_predict": 5000},
             )
-            
+
             text = response["response"]
-            
+
             # Extract JSON, ignoring any text before/after
             start = text.find("{")
             end = text.rfind("}") + 1
             json_content = text[start:end]
-            
+
             # Series of cleanups, from least aggressive to most aggressive
             cleanups = [
                 lambda x: x,  # Try original first
-                lambda x: x.replace('\n', ' ').replace('\\', ''),  # Basic cleanup
+                lambda x: x.replace("\n", " ").replace("\\", ""),  # Basic cleanup
                 lambda x: re.sub(r'"\s+and\s+"', '", "', x),  # Fix concatenations
-                lambda x: re.sub(r'"([^"]*)"([^,}])', r'"\1"\2,', x),  # Add missing commas
+                lambda x: re.sub(
+                    r'"([^"]*)"([^,}])', r'"\1"\2,', x
+                ),  # Add missing commas
                 lambda x: re.sub(r'([^,{])\s*"', r'\1, "', x),  # Fix quote boundaries
             ]
-            
+
             # Try each cleanup until one works
             for cleanup in cleanups:
                 try:
@@ -90,13 +92,14 @@ class LlamaModel:
                     return json.dumps(data, ensure_ascii=False)
                 except json.JSONDecodeError:
                     continue
-                    
-            raise ValueError("Could not parse JSON after all cleanup attempts")
-                
-        except Exception as e:
-            logging.error(f"Error with response: {text if 'text' in locals() else 'No response'}")
-            raise
 
+            raise ValueError("Could not parse JSON after all cleanup attempts")
+
+        except Exception as e:
+            logging.error(
+                f"Error with response: {text if 'text' in locals() else 'No response'}"
+            )
+            raise
 
     def _split_text(self, text: str) -> List[str]:
         """Split text into chunks."""
@@ -115,7 +118,7 @@ class LlamaModel:
             chunks.append(chunk)
             start = end - self.chunk_overlap
         return chunks
-    
+
     def _create_prompt(self, conversation_chunk: str) -> str:
         """Create analysis prompt without context."""
         template = f"""
@@ -201,7 +204,7 @@ class LlamaModel:
             formatted_output = {
                 "file_path": file_path,
                 "conversation_ids": [],
-                "analysis": {"questions": []}
+                "analysis": {"questions": []},
             }
 
             # Define the standard questions structure
@@ -210,7 +213,7 @@ class LlamaModel:
                 "Has any person asked the other for their age?",
                 "Has any person asked to meet up in person? Where?",
                 "Has any person given a gift to the other? Or bought something from a list like an amazon wish list?",
-                "Have any videos or photos been produced? Requested?"
+                "Have any videos or photos been produced? Requested?",
             ]
 
             # Initialize questions with empty format
@@ -220,7 +223,7 @@ class LlamaModel:
                     "question": question,
                     "answer": "NO",
                     "evidence": "No evidence found in conversation",
-                    "instances": []
+                    "instances": [],
                 }
                 formatted_output["analysis"]["questions"].append(question_entry)
 
@@ -238,28 +241,41 @@ class LlamaModel:
                         result_data = result
 
                     # Extract questions from result
-                    if (result_data and 
-                        "analysis" in result_data and 
-                        "questions" in result_data["analysis"]):
-                        
+                    if (
+                        result_data
+                        and "analysis" in result_data
+                        and "questions" in result_data["analysis"]
+                    ):
+
                         for new_q in result_data["analysis"]["questions"]:
                             try:
                                 q_num = int(new_q.get("question_number", "0")) - 1
-                                if 0 <= q_num < len(formatted_output["analysis"]["questions"]):
-                                    current_q = formatted_output["analysis"]["questions"][q_num]
-                                    
+                                if (
+                                    0
+                                    <= q_num
+                                    < len(formatted_output["analysis"]["questions"])
+                                ):
+                                    current_q = formatted_output["analysis"][
+                                        "questions"
+                                    ][q_num]
+
                                     # Update answer if present
                                     if new_q.get("answer"):
                                         current_q["answer"] = new_q["answer"]
-                                    
+
                                     # Update evidence if present and answer is YES
-                                    if new_q.get("evidence") and new_q.get("answer") == "YES":
+                                    if (
+                                        new_q.get("evidence")
+                                        and new_q.get("answer") == "YES"
+                                    ):
                                         current_q["evidence"] = new_q["evidence"]
-                                    
+
                                     # Update instances if present
                                     if new_q.get("instances"):
-                                        current_q["instances"].extend(new_q["instances"])
-                            
+                                        current_q["instances"].extend(
+                                            new_q["instances"]
+                                        )
+
                             except (ValueError, IndexError) as e:
                                 logging.warning(f"Error processing question: {e}")
                                 continue
@@ -284,10 +300,11 @@ class LlamaModel:
                             "question": q,
                             "answer": "NO",
                             "evidence": "Error processing results",
-                            "instances": []
-                        } for i, q in enumerate(standard_questions)
+                            "instances": [],
+                        }
+                        for i, q in enumerate(standard_questions)
                     ]
-                }
+                },
             }
 
     def analysis(self, file_paths: List[str]) -> List[Dict]:
@@ -304,14 +321,15 @@ class LlamaModel:
 
                 analysis_results = self.ask_questions(data)
                 formatted_result = self.clean_and_format_response(
-                analysis_results, os.path.basename(file_path)
+                    analysis_results, os.path.basename(file_path)
                 )
 
-                results.append({
-                "file_path": os.path.basename(file_path),  # Use basename here
-                "result": formatted_result
-            })
-
+                results.append(
+                    {
+                        "file_path": os.path.basename(file_path),  # Use basename here
+                        "result": formatted_result,
+                    }
+                )
 
             except Exception as e:
                 logging.error(f"Error analyzing file {file_path}: {str(e)}")
