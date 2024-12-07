@@ -1,6 +1,6 @@
 # message-analyzer
 
-## Prepare Huggingface token
+## Download ollama
 * download ollama - https://github.com/ollama/ollama
 * download llama3.1 model - `ollama pull llama3.1`
 
