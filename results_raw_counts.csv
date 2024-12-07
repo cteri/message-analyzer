@@ -1,6 +1,0 @@
-Question,Total_Cases,Total_Yes_Cases,Total_No_Cases,True_Positive,True_Negative,False_Positive,False_Negative
-Q1,1000,8,992,1,991,1,7
-Q2,1000,1,999,1,699,300,0
-Q3,1000,95,905,21,887,18,74
-Q4,1000,18,982,6,939,43,12
-Q5,1000,51,949,16,943,6,35
