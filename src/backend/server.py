@@ -44,7 +44,7 @@ class AnalyzerInputs(TypedDict):
     inputs: BatchFileInput
 
 class AnalyzerParameters(TypedDict):
-    data_type: str
+    pass
 
 
 model = LlamaModel()
@@ -64,17 +64,7 @@ def get_analyzer_task_schema():
                 file_types=[FileType.CSV, FileType.TEXT],
             )
         ],
-        parameters=[
-            ParameterSchema(
-                key="data_type",
-                label="Data Type",
-                value=TextParameterDescriptor(
-                    name="data_type",
-                    description="Type of data being analyzed",
-                    default="CUSTOM",
-                ),
-            )
-        ],
+        parameters=[],
     )
 
 @server.route(
