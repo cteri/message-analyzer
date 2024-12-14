@@ -77,6 +77,15 @@ python3 -m src.client.cmd_client --input_file ./src/data_processing/cornell_movi
 ## Evaluation
 * documentation location: doc/evaluation_readme.md
 
+## Evaluation Time
+*Cli tool 
+5 samples take 2 minutes and 4 seconds in MacBook Air (8G memory)
+Each sample takes 25 seconds
+*Frontend
+5 samples take 15 minutes, so each job takes around 3 minutes to complete on MacBook Air (8G memory)
+Conversation size ranges from 8 lines to 20 lines.  
+
+
 ## Project Structure
 ```
 message-analyzer/
