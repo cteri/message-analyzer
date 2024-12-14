@@ -85,8 +85,9 @@ message-analyzer/
 │   ├── client/         # API and CLI clients
 │   └── data_processing/# Data processing utilities
 ├── evaluation/
-│   ├── api_doc.md              # Flask-ML related docs
-│   └── evaluation_readme.md    # Evaluation doc
+│   ├── api_doc.md              # Flask-ML related doc
+│   ├── evaluation_readme.md    # Evaluation doc
+│   └── evaluation_result.md    # Evaluation result
 ├── requirements.txt    # Python dependencies
 └── README.md          # This file
 ```
